@@ -1,3 +1,4 @@
+mod digest;
 mod feed;
 mod fetch;
 mod model;
@@ -26,7 +27,7 @@ fn main() {
 
 fn usage() -> ! {
     eprintln!(
-        "usage:\n  awesome-ledger update --state DIR [--lists FILE] [--no-index] [--enroll] [--limit N] [--date YYYY-MM-DD]\n  awesome-ledger render --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]\n  awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]"
+        "usage:\n  awesome-ledger update --state DIR [--lists FILE] [--no-index] [--enroll] [--limit N] [--date YYYY-MM-DD] [--report FILE]\n  awesome-ledger render --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]\n  awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]\n  awesome-ledger digest --state DIR --queue DIR [--date YYYY-MM-DD] [--site-url URL]"
     );
     std::process::exit(2);
 }
@@ -78,6 +79,10 @@ fn run() -> Result<()> {
                 },
             )?;
             println!("{summary}");
+            if let Some(report) = get("report") {
+                std::fs::write(&report, summary.to_markdown(date))
+                    .with_context(|| format!("writing {}", report.display()))?;
+            }
             Ok(())
         }
         "render" => {
@@ -107,6 +112,32 @@ fn run() -> Result<()> {
                 .unwrap_or(DEFAULT_REMOTE);
             let branch = opts.get("branch").map(String::as_str).unwrap_or("gh-pages");
             publish::publish(&site, remote, branch)
+        }
+        "digest" => {
+            let state = get("state").context("--state DIR is required")?;
+            let queue = get("queue").context("--queue DIR is required")?;
+            let date = match opts.get("date") {
+                Some(d) => d.parse().context("--date must be YYYY-MM-DD")?,
+                None => chrono::Utc::now().date_naive(),
+            };
+            let site_url = opts
+                .get("site-url")
+                .map(String::as_str)
+                .unwrap_or(DEFAULT_SITE_URL);
+            let loaded = model::load(&state)?;
+            match digest::compose(&loaded.events, date, site_url) {
+                Some(chunk) => {
+                    let path = digest::enqueue(&queue, &chunk, date)?;
+                    println!("digest queued: {}", path.display());
+                }
+                None => println!("quiet day — no digest chunk"),
+            }
+            let bearer = std::env::var("STACK_BEARER").ok();
+            let base =
+                std::env::var("MEM_BASE").unwrap_or_else(|_| digest::MEM_BASE.to_string());
+            let flush = digest::flush(&queue, &base, bearer.as_deref())?;
+            println!("{flush}");
+            Ok(())
         }
         _ => usage(),
     }

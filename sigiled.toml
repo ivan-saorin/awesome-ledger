@@ -24,4 +24,4 @@ GH_DEPLOY_KEY = "GH_DEPLOY_KEY"
 # State + digest queue live on a volume (SPEC Â§6) â€” survives the
 # disposable job containers.
 [volumes]
-awesome-ledger-data = "rw"
+awesome-ledger-data = "/data:rw"

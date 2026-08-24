@@ -1,5 +1,5 @@
-//! The daily update flow (SPEC §4, steps 1–3): enrollment, fetch, parse,
-//! set-diff → events, state write. Rendering/publish/digest are separate
+//! The daily update flow (SPEC Â§4, steps 1â€“3): enrollment, fetch, parse,
+//! set-diff â†’ events, state write. Rendering/publish/digest are separate
 //! steps (M3 wires them into the job).
 
 use crate::fetch::{Doc, Source};
@@ -48,7 +48,7 @@ impl std::fmt::Display for Summary {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         write!(
             f,
-            "edition {} — {} lists: {} fetched, {} unchanged, {} seeded; +{} / -{} events",
+            "edition {} â€” {} lists: {} fetched, {} unchanged, {} seeded; +{} / -{} events",
             self.edition, self.lists, self.fetched, self.unchanged, self.seeded, self.added,
             self.removed
         )?;
@@ -62,6 +62,48 @@ impl std::fmt::Display for Summary {
             write!(f, "\nskipped {list}: {why}")?;
         }
         Ok(())
+    }
+}
+
+impl Summary {
+    /// Run report (PLAN M3): the job leaves this in /workspace, the run
+    /// commit puts it on the job branch, `recap` reads it there. The
+    /// skip-rate keeps the parser honest against the wild variety of list
+    /// formats (target ≥90% parsed clean).
+    pub fn to_markdown(&self, date: NaiveDate) -> String {
+        let attempted = self.fetched + self.unchanged + self.missing + self.skipped.len();
+        let clean = attempted - self.skipped.len();
+        let rate = if attempted == 0 {
+            100.0
+        } else {
+            clean as f64 * 100.0 / attempted as f64
+        };
+        let mut md = format!(
+            "# awesome-ledger — run report {date} (edition {})\n\n\
+             - lists enrolled: {} ({attempted} attempted this run)\n\
+             - fetched fresh: {} · unchanged (304): {} · seeded: {}\n\
+             - events: +{} / -{}\n\
+             - missing (404 this run): {}\n\
+             - parse: {clean}/{attempted} clean ({rate:.1}% — target ≥90%)\n",
+            self.edition,
+            self.lists,
+            self.fetched,
+            self.unchanged,
+            self.seeded,
+            self.added,
+            self.removed,
+            self.missing,
+        );
+        if !self.died.is_empty() {
+            md.push_str(&format!("- died this run: {}\n", self.died.join(", ")));
+        }
+        if !self.skipped.is_empty() {
+            md.push_str("\n## skipped lists\n\n");
+            for (list, why) in &self.skipped {
+                md.push_str(&format!("- {list}: {why}\n"));
+            }
+        }
+        md
     }
 }
 
@@ -123,8 +165,8 @@ pub fn run(src: &mut dyn Source, opts: &Options) -> Result<Summary> {
                 let entries = to_entries(&body);
                 let had = snap.as_ref().map(|s| s.entries.len()).unwrap_or(0);
                 if entries.is_empty() && had > 0 {
-                    // A populated list never parses to zero — that is a
-                    // parser casualty, not a mass removal (SPEC §4.2).
+                    // A populated list never parses to zero â€” that is a
+                    // parser casualty, not a mass removal (SPEC Â§4.2).
                     summary.skipped.push((full, format!("parsed 0 entries (had {had})")));
                     continue;
                 }
@@ -165,7 +207,7 @@ pub fn run(src: &mut dyn Source, opts: &Options) -> Result<Summary> {
     Ok(summary)
 }
 
-/// Enrollment (SPEC §3): index scan (weekly, or forced, or first run)
+/// Enrollment (SPEC Â§3): index scan (weekly, or forced, or first run)
 /// plus lists.toml extras, minus the blocklist. Lists that leave the
 /// index retire (dead, kept); returners revive.
 fn enroll(
@@ -195,7 +237,7 @@ fn enroll(
                 for l in index {
                     upsert(lists, &l.owner, &l.repo, &l.category, opts.date);
                 }
-                // Retire enrolled lists the index dropped — unless pinned.
+                // Retire enrolled lists the index dropped â€” unless pinned.
                 let pinned: std::collections::BTreeSet<String> = registry
                     .extra
                     .iter()
@@ -269,7 +311,7 @@ fn to_entries(body: &str) -> Vec<StoredEntry> {
         .collect()
 }
 
-/// Set-diff by canonical key (SPEC §2): moves within a list are not
+/// Set-diff by canonical key (SPEC Â§2): moves within a list are not
 /// events; additions and removals are.
 fn diff(
     old: &[StoredEntry],
@@ -360,7 +402,7 @@ mod tests {
     }
 
     /// The M1 smoke (PLAN): seed 3 lists, change state, rerun, verify
-    /// events — plus 304 short-circuit and death by double 404.
+    /// events â€” plus 304 short-circuit and death by double 404.
     #[test]
     fn seed_then_diff_then_die() {
         let tmp = tempfile::tempdir().unwrap();
@@ -392,7 +434,7 @@ mod tests {
         assert_eq!(std::fs::read_to_string(state.join("events.jsonl")).unwrap(), "");
 
         // Day 2: b/two gains Epsilon and loses Gamma (reorder of the rest
-        // included — must not produce events).
+        // included â€” must not produce events).
         src.set(
             "b/two",
             &body(&[
@@ -421,7 +463,7 @@ mod tests {
         let s3 = run(&mut src, &opts(3)).unwrap();
         assert_eq!((s3.added, s3.removed), (1, 0));
 
-        // Death: c/three vanishes — first run a miss, second marks dead.
+        // Death: c/three vanishes â€” first run a miss, second marks dead.
         src.0.insert("c/three".into(), None);
         let s4 = run(&mut src, &opts(4)).unwrap();
         assert!(s4.died.is_empty());
@@ -478,11 +520,33 @@ mod tests {
         };
         let s1 = run(&mut src, &opts(1, false)).unwrap();
         assert_eq!(s1.lists, 2);
-        // a/one leaves the index → retired; pinned b/two stays live.
+        // a/one leaves the index â†’ retired; pinned b/two stays live.
         src.set("sindresorhus/awesome", index_v2);
         run(&mut src, &opts(2, true)).unwrap();
         let lists = store::load_lists(&state).unwrap();
         assert!(lists.iter().find(|l| l.repo == "one").unwrap().dead);
         assert!(!lists.iter().find(|l| l.repo == "two").unwrap().dead);
+    }
+
+    #[test]
+    fn run_report_carries_skip_rate() {
+        let s = Summary {
+            lists: 10,
+            fetched: 6,
+            unchanged: 2,
+            seeded: 1,
+            added: 3,
+            removed: 1,
+            missing: 1,
+            died: vec!["a/dead".into()],
+            skipped: vec![("b/odd".into(), "parsed 0 entries (had 5)".into())],
+            edition: 7,
+        };
+        let md = s.to_markdown(day(24));
+        // attempted = 6 fetched + 2 unchanged + 1 missing + 1 skipped = 10
+        assert!(md.contains("run report 2026-08-24 (edition 7)"));
+        assert!(md.contains("9/10 clean (90.0%"));
+        assert!(md.contains("- died this run: a/dead"));
+        assert!(md.contains("- b/odd: parsed 0 entries (had 5)"));
     }
 }
