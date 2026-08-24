@@ -1,9 +1,11 @@
-//! Daily digest into stack memory (SPEC §4.5): one chunk per non-quiet
-//! run — "N added, M removed across K lists" + top additions — queued on
-//! the volume and flushed queue-until-acked: a missing bearer or a dead
+//! Daily digest into the memory service (SPEC §4.5): one chunk per
+//! non-quiet run — "N added, M removed across K lists" + top additions —
+//! queued on the volume and flushed queue-until-acked: an unreachable
 //! memory service delays delivery, never loses it.
 //!
-//! Write verb (memory service, docs/skill-memory-recall.md there):
+//! Services call each other on the internal network with no credential —
+//! auth lives at the edge, for callers outside. Write verb (memory
+//! service, docs/skill-memory-recall.md there):
 //!   POST {MEM_BASE}/idx/mem0/chunks   {"text", "ref", "tags"}
 
 use crate::model::{Event, Kind};
@@ -13,7 +15,8 @@ use serde::{Deserialize, Serialize};
 use std::fs;
 use std::path::{Path, PathBuf};
 
-pub const MEM_BASE: &str = "https://memory.016180.xyz";
+/// Internal DNS name of the memory service (override with MEM_BASE).
+pub const MEM_BASE: &str = "http://memory:8080";
 const TOP_ADDITIONS: usize = 10;
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -99,7 +102,7 @@ impl std::fmt::Display for Flush {
 
 /// Deliver every queued chunk, oldest first. An ack (2xx) deletes the
 /// file; anything else keeps it for the next run.
-pub fn flush(queue: &Path, base: &str, bearer: Option<&str>) -> Result<Flush> {
+pub fn flush(queue: &Path, base: &str) -> Result<Flush> {
     let mut pending: Vec<PathBuf> = match fs::read_dir(queue) {
         Ok(rd) => rd
             .filter_map(|e| e.ok())
@@ -111,13 +114,6 @@ pub fn flush(queue: &Path, base: &str, bearer: Option<&str>) -> Result<Flush> {
     };
     pending.sort();
     let mut out = Flush::default();
-    let Some(bearer) = bearer else {
-        out.left = pending.len();
-        if !pending.is_empty() {
-            out.notes.push("STACK_BEARER not set — chunks stay queued".into());
-        }
-        return Ok(out);
-    };
     if pending.is_empty() {
         return Ok(out);
     }
@@ -134,7 +130,6 @@ pub fn flush(queue: &Path, base: &str, bearer: Option<&str>) -> Result<Flush> {
         let body = fs::read_to_string(&path)?;
         match client
             .post(&url)
-            .bearer_auth(bearer)
             .header("content-type", "application/json")
             .body(body)
             .send()
@@ -204,7 +199,7 @@ mod tests {
     }
 
     #[test]
-    fn queue_survives_missing_bearer_and_rerun_overwrites() {
+    fn queue_survives_unreachable_service_and_rerun_overwrites() {
         let tmp = tempfile::tempdir().unwrap();
         let queue = tmp.path().join("queue");
         let date = NaiveDate::from_ymd_opt(2026, 8, 24).unwrap();
@@ -212,9 +207,10 @@ mod tests {
         let chunk = compose(&events, date, "https://site").unwrap();
         enqueue(&queue, &chunk, date).unwrap();
 
-        // No bearer: nothing sent, nothing lost.
-        let f = flush(&queue, "https://unreachable.invalid", None).unwrap();
+        // Unreachable service: nothing sent, nothing lost.
+        let f = flush(&queue, "http://127.0.0.1:9").unwrap();
         assert_eq!((f.sent, f.left), (0, 1));
+        assert!(!f.notes.is_empty());
         assert!(queue.join("digest-2026-08-24.json").exists());
 
         // Same-day rerun overwrites — still exactly one pending file.

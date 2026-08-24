@@ -86,8 +86,10 @@ Static HTML, no JS framework, built by the job:
   pulldown-cmark (parse), askama or plain format! templates (render),
   git2 or shelling to git (gh-pages push), serde, toml, sha2.
 - Volume `awesome-ledger-data`: `state/`, `queue/`.
-- Secrets: `STACK_BEARER` (mem0), `GH_DEPLOY_KEY` (write key for this
-  repo, gh-pages push). Env only.
+- Secrets: `GH_DEPLOY_KEY` (write key for this repo, gh-pages push),
+  env only. The mem0 digest needs none: the job talks to the memory
+  service over the internal network (`http://memory:8080`) — auth lives
+  at the edge, for callers outside the stack network.
 
 ## 7. Non-goals (v1)
 

@@ -132,10 +132,9 @@ fn run() -> Result<()> {
                 }
                 None => println!("quiet day — no digest chunk"),
             }
-            let bearer = std::env::var("STACK_BEARER").ok();
             let base =
                 std::env::var("MEM_BASE").unwrap_or_else(|_| digest::MEM_BASE.to_string());
-            let flush = digest::flush(&queue, &base, bearer.as_deref())?;
+            let flush = digest::flush(&queue, &base)?;
             println!("{flush}");
             Ok(())
         }

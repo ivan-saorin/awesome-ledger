@@ -49,8 +49,8 @@ else
   echo "publish skipped: GH_DEPLOY_KEY not set" | tee -a run-report.md
 fi
 
-# 5. digest chunk → mem0, queue-until-acked. A missing STACK_BEARER just
-# leaves the chunk queued for the next run.
+# 5. digest chunk → memory service (internal DNS, no credential),
+# queue-until-acked: an unreachable service leaves chunks queued.
 echo "== digest"
 if out=$("${BIN[@]}" digest --state "$STATE_DIR" --queue "$QUEUE_DIR" 2>&1); then
   printf '\n## digest\n\n%s\n' "$out" >> run-report.md

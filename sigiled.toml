@@ -17,15 +17,12 @@ cron = "30 5 * * *"
 command = "./jobs/update.sh"
 timeout_minutes = 45
 
-# Secrets DISABLED 2026-08-25: declaring them errors every run until the
-# operator sets the stack env (run #1 died at container creation with
-# "stack env STACK_BEARER is not set"). The pipeline degrades cleanly
-# without them: publish is skipped, digest chunks queue on the volume
-# until acked. Operator: set STACK_BEARER + GH_DEPLOY_KEY in the stack
-# env, then uncomment — queued digests flush on the next run.
-# [jobs.update.secrets]
-# STACK_BEARER = "STACK_BEARER"
-# GH_DEPLOY_KEY = "GH_DEPLOY_KEY"
+# gh-pages deploy key for the publish step, from the SIGILED env
+# (/opt/sigiled/.env), injected at container creation. The mem0 digest
+# needs no secret: services call each other on the internal network,
+# auth lives at the edge.
+[jobs.update.secrets]
+GH_DEPLOY_KEY = "GH_DEPLOY_KEY"
 
 # State + digest queue live on a volume (SPEC Â§6) â€” survives the
 # disposable job containers.
