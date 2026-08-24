@@ -1,5 +1,29 @@
 # log operativo — awesome-ledger
 
+## 2026-08-25 — M3 live: seed run green, gh-pages bootstrapped, digest de-beared (sessions abcd9d94 + 20b11451, sigiled-claude)
+**Where were we:** M3 code on master; first job trigger errored at
+container creation — declared secret STACK_BEARER had no SIGILED env.
+**Where were we going:** M3 live verification (seed + delta runs).
+**Done:** (1) secrets table disabled → seed run succeeded in 18m18s:
+674 enrolled, 662 seeded, 12 first-strike 404s, 100% parse-clean
+(target ≥90%), 0 events (silent seed), /data volume mounted (the
+"/data:rw" fix verified), publish skipped + digest quiet as designed.
+(2) Operator: STACK_BEARER never existed — services talk directly on
+the internal network, auth is edge-only. digest now posts to
+http://memory:8080 with no credential; write verb live-verified
+(POST acked id, DELETE by ref cleaned). (3) GH_DEPLOY_KEY landed in
+/opt/sigiled/.env; [jobs.update.secrets] re-enabled with it alone;
+SPEC §6 corrected. (4) gh-pages bootstrapped: operator had created it
+as a master copy (Pages/deploy-key prereq); force-pushed an empty-state
+render over it — first keyed publish replaces it.
+**Deviations:** delta run #2 aborted by the control-plane restart that
+loaded the new env — retriggered after this close. Report dates are UTC
+while branch stamps are container-local (+2): cosmetic, noted.
+**State:** master = full M3. Seed state on volume (edition 1). Pages +
+deploy key: operator-side, in progress.
+**Next:** delta run must show only true deltas + real publish + digest
+flush (if events). Then M4: catalog registration + skill note.
+
 ## 2026-08-24 — M3 code: digest + run report + job pipeline (session ed5f811a, sigiled-claude)
 **Where were we:** M0+M1+M2 on master, tests green; job cron wired but
 never run; volume mount syntax unverified; operator prereqs (repo
