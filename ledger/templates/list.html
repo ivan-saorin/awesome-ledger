@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block title %}{{ name }} — The Awesome Ledger{% endblock %}
+{% block content %}
+<header class="masthead masthead--sub">
+<p class="back"><a href="{{ root }}">← THE AWESOME LEDGER</a></p>
+<p class="m-kicker m-kicker--sp">FROM THE LEDGER OF</p>
+<h1 class="sub-title">{{ name }}</h1>
+<div class="spark" aria-hidden="true">
+{% for h in spark %}<span style="height:{{ h }}%"></span>{% endfor %}
+</div>
+<p class="sub-stats">{{ stats1 }}<br>{{ stats2 }}</p>
+<p class="m-cta"><a class="pill pill--solid" href="feed.xml">RSS FOR THIS LIST ↗</a></p>
+</header>
+<main class="content content--narrow">
+<section class="lsec">
+<header class="day-h">
+<span class="rule"></span>
+<h2>Additions</h2>
+<span class="rule"></span>
+</header>
+{% for item in additions %}
+{% if item.layout == "hero" %}
+<article class="art art--hero">
+<a class="prev prev--wide" href="{{ item.url }}"><img src="{{ item.img }}" alt="{{ item.img_alt }}" loading="lazy"></a>
+<div class="art-head">
+<a class="a-name" href="{{ item.url }}">{{ item.name }}</a>
+<span class="a-date">{{ item.date }}</span>
+</div>
+<p class="a-desc">{{ item.desc }}</p>
+{% if !item.badge.is_empty() %}<p class="badge-row"><span class="badge">{{ item.badge }}</span></p>{% endif %}
+</article>
+{% else if item.layout == "side" %}
+<article class="art art--side">
+<div>
+<div class="art-head">
+<a class="a-name" href="{{ item.url }}">{{ item.name }}</a>
+<span class="a-date">{{ item.date }}</span>
+</div>
+<p class="a-desc">{{ item.desc }}</p>
+{% if !item.badge.is_empty() %}<p class="badge-row"><span class="badge">{{ item.badge }}</span></p>{% endif %}
+</div>
+<a class="prev" href="{{ item.url }}"><img src="{{ item.img }}" alt="{{ item.img_alt }}" loading="lazy"></a>
+</article>
+{% else %}
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="{{ item.url }}">{{ item.name }}</a>
+<span class="a-date">{{ item.date }}</span>
+</div>
+<p class="a-desc">{{ item.desc }}</p>
+{% if !item.badge.is_empty() %}<p class="badge-row"><span class="badge">{{ item.badge }}</span></p>{% endif %}
+</article>
+{% endif %}
+{% endfor %}
+</section>
+{% if !removals.is_empty() %}
+<section class="lsec lsec--rule">
+<header class="day-h">
+<span class="rule"></span>
+<h2>Removals</h2>
+<span class="rule"></span>
+</header>
+{% for rm in removals %}
+<article class="art art--rm">
+<span class="rm-date">{{ rm.date }}</span>
+<div>
+<span class="rm-name">{{ rm.name }}</span>
+<p class="rm-note">{{ rm.note }}</p>
+</div>
+</article>
+{% endfor %}
+</section>
+{% endif %}
+<footer class="site-foot">
+<p>{{ foot_line }}<br><a href="{{ root }}">FRONT PAGE ↗</a> · <a href="feed.xml">RSS ↗</a></p>
+</footer>
+</main>
+{% endblock %}

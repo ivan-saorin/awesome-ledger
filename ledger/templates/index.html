@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="masthead">
+<p class="m-kicker">{{ ed_line }}</p>
+<h1 class="m-title">The Awesome<br>Ledger<span class="m-star">*</span></h1>
+<p class="m-note">*every entry below was chosen by an actual human<br>{{ note_lists }}</p>
+<p class="m-cta"><a class="pill pill--solid" href="{{ root }}feed.xml">FOLLOW VIA RSS ↗</a></p>
+</header>
+<main class="content">
+{% for day in days %}
+<section class="day{% if !loop.first %} day--rule{% endif %}">
+<header class="day-h">
+<span class="rule"></span>
+<h2>{{ day.heading }}</h2>
+<span class="count-pill{% if day.today %} count-pill--solid{% endif %}">{{ day.count_label }}</span>
+<span class="rule"></span>
+</header>
+{% if day.quiet %}
+<p class="quiet">// A QUIET DAY IN THE CANON //</p>
+{% endif %}
+{% for item in day.items %}
+{% if item.layout == "hero" %}
+<article class="art art--hero">
+<a class="prev prev--wide" href="{{ item.url }}"><img src="{{ item.img }}" alt="{{ item.img_alt }}" loading="lazy"></a>
+<div class="art-head">
+<a class="a-name a-name--hero" href="{{ item.url }}">{{ item.name }}</a>
+<a class="a-via" href="{{ root }}{{ item.via_href }}">VIA {{ item.via }}</a>
+</div>
+<p class="a-desc a-desc--hero">{{ item.desc }}</p>
+{% if !item.badge.is_empty() %}<p class="badge-row"><span class="badge">{{ item.badge }}</span></p>{% endif %}
+</article>
+{% else if item.layout == "side" %}
+<article class="art art--side">
+<div>
+<div class="art-head">
+<a class="a-name" href="{{ item.url }}">{{ item.name }}</a>
+<a class="a-via" href="{{ root }}{{ item.via_href }}">VIA {{ item.via }}</a>
+</div>
+<p class="a-desc">{{ item.desc }}</p>
+{% if !item.badge.is_empty() %}<p class="badge-row"><span class="badge">{{ item.badge }}</span></p>{% endif %}
+</div>
+<a class="prev" href="{{ item.url }}"><img src="{{ item.img }}" alt="{{ item.img_alt }}" loading="lazy"></a>
+</article>
+{% else %}
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="{{ item.url }}">{{ item.name }}</a>
+<a class="a-via" href="{{ root }}{{ item.via_href }}">VIA {{ item.via }}</a>
+</div>
+<p class="a-desc">{{ item.desc }}</p>
+{% if !item.badge.is_empty() %}<p class="badge-row"><span class="badge">{{ item.badge }}</span></p>{% endif %}
+</article>
+{% endif %}
+{% endfor %}
+</section>
+{% endfor %}
+<footer class="site-foot">
+<p>{{ foot_made }}<br>{{ foot_stats }}<br><a href="{{ root }}feed.xml">RSS ↗</a> · <a href="{{ about_url }}">ABOUT ↗</a></p>
+</footer>
+</main>
+{% endblock %}

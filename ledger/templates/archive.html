@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} — The Awesome Ledger{% endblock %}
+{% block content %}
+<header class="masthead masthead--sub">
+<div class="arc-nav">
+<a href="{{ root }}">← THE AWESOME LEDGER</a>
+<span>
+{% if !prev_href.is_empty() %}<a href="{{ prev_href }}">← {{ prev_label }}</a>{% else %}<span class="dim">← {{ prev_label }}</span>{% endif %}
+&nbsp;·&nbsp;
+{% if !next_href.is_empty() %}<a href="{{ next_href }}">{{ next_label }} →</a>{% else %}<span class="dim">{{ next_label }} →</span>{% endif %}
+</span>
+</div>
+<p class="m-kicker m-kicker--sp">ARCHIVE</p>
+<h1 class="sub-title">{{ title }}</h1>
+<p class="sub-stats">{{ stats }}</p>
+</header>
+<main class="content content--narrow arc-body">
+{% for row in rows %}
+<div class="arc-row">
+<span class="arc-day{% if row.quiet %} arc-day--quiet{% endif %}">{{ row.day }}</span>
+{% if row.quiet %}
+<p class="arc-quiet">// A QUIET DAY IN THE CANON — NO NEW ENTRIES</p>
+{% else %}
+<p class="arc-names">{% for n in row.names %}<a href="{{ n.url }}">{{ n.name }}</a>{% if !n.star.is_empty() %} <span class="arc-star">{{ n.star }}</span>{% endif %}{% if !loop.last %}, {% endif %}{% endfor %}{% if row.more > 0 %} <span class="arc-more">+{{ row.more }} MORE</span>{% endif %}</p>
+{% endif %}
+<span class="arc-count">{{ row.count }}</span>
+</div>
+{% endfor %}
+<footer class="site-foot site-foot--arc">
+<p><a href="{{ root }}">FRONT PAGE ↗</a> · <a href="{{ root }}feed.xml">RSS ↗</a></p>
+</footer>
+</main>
+{% endblock %}
