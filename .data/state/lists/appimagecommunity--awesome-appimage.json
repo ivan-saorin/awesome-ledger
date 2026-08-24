@@ -1,0 +1,1367 @@
+{
+  "etag": "W/\"87d8e2c67450682cdec03591ff51802bfa0e98e75e399df97ca36e6c19c7c11c\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://appimage.github.io",
+      "name": "AppImage.GitHub.io",
+      "url": "https://appimage.github.io/",
+      "description": "Catalog of AppImages that passed an automated test, links to upstream download pages.",
+      "section": [
+        "AppImage discovery",
+        "App catalogs"
+      ]
+    },
+    {
+      "key": "https://appimagehub.com",
+      "name": "AppImageHub.com",
+      "url": "https://www.appimagehub.com/",
+      "description": "Downloadable AppImages, powered by Opendesktop.org.",
+      "section": [
+        "AppImage discovery",
+        "App stores"
+      ]
+    },
+    {
+      "key": "https://pling.com",
+      "name": "pling.com",
+      "url": "https://www.pling.com/",
+      "description": "Open store where creators can publish their libre products and creative content including AppImages.",
+      "section": [
+        "AppImage discovery",
+        "App stores"
+      ]
+    },
+    {
+      "key": "https://software.manjaro.org/appimages",
+      "name": "Manjaro Software Discover",
+      "url": "https://software.manjaro.org/appimages",
+      "description": "Web-based app store that contains applications in multiple formats, including AppImage.",
+      "section": [
+        "AppImage discovery",
+        "App stores"
+      ]
+    },
+    {
+      "key": "https://github.com/Nitrux/nx-software-center",
+      "name": "NX Software Center",
+      "url": "https://github.com/Nitrux/nx-software-center",
+      "description": "Portable Software Center for portable AppImage applications.",
+      "section": [
+        "AppImage discovery",
+        "App centers"
+      ]
+    },
+    {
+      "key": "https://github.com/prateekmedia/appimagepool",
+      "name": "AppImagePool",
+      "url": "https://github.com/prateekmedia/appimagepool",
+      "description": "Simple, modern AppImageHub Client, powered by flutter.",
+      "section": [
+        "AppImage discovery",
+        "App centers"
+      ]
+    },
+    {
+      "key": "https://github.com/azubieta/appimages.scraper",
+      "name": "appimages.scraper",
+      "url": "https://github.com/azubieta/appimages.scraper",
+      "description": "Search for AppImage releases over the web.",
+      "section": [
+        "AppImage discovery",
+        "App scrapers"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/AppImageRadar",
+      "name": "AppImageRadar",
+      "url": "https://github.com/AppImage/AppImageRadar",
+      "description": "Search for AppImage-related activity on GitHub using Travis CI.",
+      "section": [
+        "AppImage discovery",
+        "App scrapers"
+      ]
+    },
+    {
+      "key": "https://adamtheautomator.com/appimage-ubuntu",
+      "name": "Getting Started Managing Software with AppImage on Ubuntu",
+      "url": "https://adamtheautomator.com/appimage-ubuntu/",
+      "description": "Verbosely explains how to manage AppImages without the need for further software.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/probonopd/go-appimage/tree/master/src/appimaged",
+      "name": "go-appimaged",
+      "url": "https://github.com/probonopd/go-appimage/tree/master/src/appimaged",
+      "description": "Optional daemon that integrates AppImages into the system (experimental).",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/appimaged",
+      "name": "appimaged",
+      "url": "https://github.com/AppImage/appimaged",
+      "description": "Optional daemon that integrates AppImages into the system (deprecated).",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/TheAssassin/AppImageLauncher",
+      "name": "AppImageLauncher",
+      "url": "https://github.com/TheAssassin/AppImageLauncher",
+      "description": "Integrates into users' systems and establishes a single ~/Applications directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/posktomten/appimagehelper",
+      "name": "appimagehelper",
+      "url": "https://gitlab.com/posktomten/appimagehelper",
+      "description": "Program for creating, deleting, controlling and organizing shortcuts to AppImage.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/CalebQ42/LinuxPA",
+      "name": "LinuxPA",
+      "url": "https://github.com/CalebQ42/LinuxPA",
+      "description": "PortableApps.com type launcher for Linux with AppImage support.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/Alexsussa/AIDM",
+      "name": "AppImage Desktop Maker",
+      "url": "https://github.com/Alexsussa/AIDM",
+      "description": "Creates menu entries for AppImages without the need for a daemon.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/mttbernardini/appimage-thumbnailer",
+      "name": "Thumbnailer for AppImages",
+      "url": "https://github.com/mttbernardini/appimage-thumbnailer",
+      "description": "Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/linuxmint/xapp-thumbnailers",
+      "name": "XApp Thumbnailers",
+      "url": "https://github.com/linuxmint/xapp-thumbnailers",
+      "description": "Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/DejfCold/ATG",
+      "name": "AppImage To Gnome",
+      "url": "https://github.com/DejfCold/ATG",
+      "description": "Monitors and (de)installs AppImages from the Gnome desktop.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/knork-fork/gnome_appimage_installer",
+      "name": "gnome_appimage_installer",
+      "url": "https://github.com/knork-fork/gnome_appimage_installer",
+      "description": "Somewhat a misnomer (AppImages don't need to be \"installed\"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/mijorus/gearlever",
+      "name": "Gear lever",
+      "url": "https://github.com/mijorus/gearlever/",
+      "description": "Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/AppImageUpdate",
+      "name": "AppImageUpdate",
+      "url": "https://github.com/AppImage/AppImageUpdate",
+      "description": "Official grapical application to update AppImages; command-line tool to update AppImages.",
+      "section": [
+        "AppImage consumption tools",
+        "Updaters"
+      ]
+    },
+    {
+      "key": "https://github.com/antony-jr/AppImageUpdater",
+      "name": "AppImageUpdater",
+      "url": "https://github.com/antony-jr/AppImageUpdater",
+      "description": "Simple updater for humans written in C++ and Qt.",
+      "section": [
+        "AppImage consumption tools",
+        "Updaters"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImageCrafters/appimage-update",
+      "name": "appimage-update",
+      "url": "https://github.com/AppImageCrafters/appimage-update",
+      "description": "AppImage Update implementation written in Go.",
+      "section": [
+        "AppImage consumption tools",
+        "Updaters"
+      ]
+    },
+    {
+      "key": "https://pypi.org/project/appimage-updater",
+      "name": "appimage-updater",
+      "url": "https://pypi.org/project/appimage-updater/",
+      "description": "AppImage Update implementation written in Python, distributed on PyPi.",
+      "section": [
+        "AppImage consumption tools",
+        "Updaters"
+      ]
+    },
+    {
+      "key": "https://github.com/netblue30/firejail",
+      "name": "Firejail",
+      "url": "https://github.com/netblue30/firejail",
+      "description": "Optional sandbox with support for AppImage built in.",
+      "section": [
+        "AppImage consumption tools",
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://github.com/mgord9518/aisap",
+      "name": "AppImage Sandboxing Project",
+      "url": "https://github.com/mgord9518/aisap",
+      "description": "Golang library to help sandbox AppImages with bwrap.",
+      "section": [
+        "AppImage consumption tools",
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImageCrafters/appimage-manager",
+      "name": "appimage-manager",
+      "url": "https://github.com/AppImageCrafters/appimage-manager",
+      "description": "Command-line tool for managing AppImages allowing to search, install, remove and update applications.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/vinifmor/bauh",
+      "name": "bauh",
+      "url": "https://github.com/vinifmor/bauh",
+      "description": "Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/athrunsun/homebrew-appimage",
+      "name": "homebrew-appimage",
+      "url": "https://github.com/athrunsun/homebrew-appimage",
+      "description": "Linuxbrew AppImage Formulae.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/michaeldelago/aipm",
+      "name": "AIPM",
+      "url": "https://github.com/michaeldelago/aipm",
+      "description": "A Package Manager for AppImages.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/srevinsaju/zap",
+      "name": "Zap",
+      "url": "https://github.com/srevinsaju/zap",
+      "description": "AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/18fadly-anthony/rookie",
+      "name": "RookiePM",
+      "url": "https://github.com/18fadly-anthony/rookie",
+      "description": "Package manager for AppImages and Shell Scripts.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/ivan-hc/AppMan",
+      "name": "AppMan",
+      "url": "https://github.com/ivan-hc/AppMan",
+      "description": "AppImage Manager that works like APT or Pacman.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://rubygems.org/gems/jewelrystore",
+      "name": "jewelrystore",
+      "url": "https://rubygems.org/gems/jewelrystore",
+      "description": "Command line AppImage store made in ruby.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/lawl/ayy",
+      "name": "ayy",
+      "url": "https://github.com/lawl/ayy",
+      "description": "Package manager for AppImage. Single, static, dependency free binary. Written in Go.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/lnxcz/leap",
+      "name": "leap",
+      "url": "https://github.com/lnxcz/leap",
+      "description": "Fast and simple AppImage manager. Written in Rust.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://github.com/pegvin/bread",
+      "name": "Bread",
+      "url": "https://github.com/pegvin/bread",
+      "description": "Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.",
+      "section": [
+        "AppImage consumption tools",
+        "Package managers"
+      ]
+    },
+    {
+      "key": "https://deepin.org/en",
+      "name": "Deepin",
+      "url": "https://www.deepin.org/en/",
+      "description": "When you double-click an AppImage or any other executable file that lacks execute permissions, a user-friendly dialog explains the situation and asks for your permission to set the execute permission and execute the executable.",
+      "section": [
+        "AppImage consumption tools",
+        "Linux distributions"
+      ]
+    },
+    {
+      "key": "https://nxos.org",
+      "name": "Nitrux",
+      "url": "https://nxos.org/",
+      "description": "Promotes the use of AppImage as the main format for getting applications, has a built in app center featuring AppImages.",
+      "section": [
+        "AppImage consumption tools",
+        "Linux distributions"
+      ]
+    },
+    {
+      "key": "https://linuxmint.com",
+      "name": "Linux Mint",
+      "url": "https://linuxmint.com/",
+      "description": "Has an AppImage thumbnailer to show application icons on AppImage files.",
+      "section": [
+        "AppImage consumption tools",
+        "Linux distributions"
+      ]
+    },
+    {
+      "key": "https://zenwalk.org",
+      "name": "Zenwalk GNU Linux",
+      "url": "http://www.zenwalk.org/",
+      "description": "Is \"AppImage ready\" and distributes some applications in AppImage format.",
+      "section": [
+        "AppImage consumption tools",
+        "Linux distributions"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/AppImageKit/releases/tag/continuous",
+      "name": "appimagetool",
+      "url": "https://github.com/AppImage/AppImageKit/releases/tag/continuous",
+      "description": "Converts AppDirs into AppImages.",
+      "section": [
+        "AppImage developer tools",
+        "Low-level tools"
+      ]
+    },
+    {
+      "key": "https://github.com/matthewbauer/nix-bundle",
+      "name": "nix-bundle",
+      "url": "https://github.com/matthewbauer/nix-bundle",
+      "description": "Converts Nix derivations into AppImages.",
+      "section": [
+        "AppImage developer tools",
+        "Low-level tools"
+      ]
+    },
+    {
+      "key": "https://github.com/TheAssassin/appimagecraft",
+      "name": "appimagecraft",
+      "url": "https://github.com/TheAssassin/appimagecraft",
+      "description": "Recipe based AppImage creation tool working from source.",
+      "section": [
+        "AppImage developer tools",
+        "Build systems"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImageCrafters/appimage-builder",
+      "name": "appimage-builder",
+      "url": "https://github.com/AppImageCrafters/appimage-builder",
+      "description": "Recipe based AppImage creation tool working from source.",
+      "section": [
+        "AppImage developer tools",
+        "Build systems"
+      ]
+    },
+    {
+      "key": "https://invent.kde.org/packaging/craft",
+      "name": "KDE Craft",
+      "url": "https://invent.kde.org/packaging/craft",
+      "description": "Build system used by KDE that can produce AppImages and other formats.",
+      "section": [
+        "AppImage developer tools",
+        "Build systems"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/sgclarkkde/appimage-tooling",
+      "name": "appimage-tooling",
+      "url": "https://gitlab.com/sgclarkkde/appimage-tooling",
+      "description": "Ruby tooling to generate Appimages.",
+      "section": [
+        "AppImage developer tools",
+        "Build systems"
+      ]
+    },
+    {
+      "key": "https://github.com/Ravbug/AppImage.cmake",
+      "name": "AppImage.cmake",
+      "url": "https://github.com/Ravbug/AppImage.cmake",
+      "description": "CMake script which facilitates generating AppImage executables for Linux.",
+      "section": [
+        "AppImage developer tools",
+        "Build systems"
+      ]
+    },
+    {
+      "key": "https://github.com/lalten/rules_appimage",
+      "name": "rules_appimage",
+      "url": "https://github.com/lalten/rules_appimage",
+      "description": "Bazel rules to package any lang_binary target as AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Build systems"
+      ]
+    },
+    {
+      "key": "https://github.com/probonopd/go-appimage/tree/master/src/appimagetool",
+      "name": "go-appimagetool",
+      "url": "https://github.com/probonopd/go-appimage/tree/master/src/appimagetool",
+      "description": "Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for compiled applications"
+      ]
+    },
+    {
+      "key": "https://github.com/probonopd/linuxdeployqt",
+      "name": "linuxdeployqt",
+      "url": "https://github.com/probonopd/linuxdeployqt",
+      "description": "Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for compiled applications"
+      ]
+    },
+    {
+      "key": "https://github.com/linuxdeploy/linuxdeploy",
+      "name": "linuxdeploy",
+      "url": "https://github.com/linuxdeploy/linuxdeploy",
+      "description": "AppDir creation and maintenance tool using plugins.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for compiled applications"
+      ]
+    },
+    {
+      "key": "https://github.com/AlwaysOfflineSoftware/XojoToAppImage",
+      "name": "XojoToAppImage",
+      "url": "https://github.com/AlwaysOfflineSoftware/XojoToAppImage",
+      "description": "Graphical tool for packaging compiled Xojo Linux programs into AppImages.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for compiled applications"
+      ]
+    },
+    {
+      "key": "https://github.com/niess/python-appimage",
+      "name": "python-appimage",
+      "url": "https://github.com/niess/python-appimage",
+      "description": "Ready to use AppImage distributions of Python (can be modified to include your application).",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Python applications"
+      ]
+    },
+    {
+      "key": "https://github.com/niess/linuxdeploy-plugin-python",
+      "name": "linuxdeploy-plugin-python",
+      "url": "https://github.com/niess/linuxdeploy-plugin-python",
+      "description": "Bundle Python into an AppDir using a source distribution and linuxdeploy.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Python applications"
+      ]
+    },
+    {
+      "key": "https://github.com/linuxdeploy/linuxdeploy-plugin-conda",
+      "name": "linuxdeploy-plugin-conda",
+      "url": "https://github.com/linuxdeploy/linuxdeploy-plugin-conda",
+      "description": "Bundle Python into an AppDir using a source distribution, Conda, and linuxdeploy.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Python applications"
+      ]
+    },
+    {
+      "key": "https://briefcase.readthedocs.io",
+      "name": "Briefcase",
+      "url": "https://briefcase.readthedocs.io/",
+      "description": "Convert Python project into a standalone native application, e.g., using AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Python applications"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/chezmurray/pycharm-appimage-support",
+      "name": "pycharm-appimage-support",
+      "url": "https://gitlab.com/chezmurray/pycharm-appimage-support",
+      "description": "Deploy Python project as an AppImage directly from the PyCharm IDE.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Python applications"
+      ]
+    },
+    {
+      "key": "https://github.com/srevinsaju/pyappimage",
+      "name": "PyAppImage",
+      "url": "https://github.com/srevinsaju/pyappimage",
+      "description": "Ultimately simple python-to-appimage bundler.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Python applications"
+      ]
+    },
+    {
+      "key": "https://github.com/electron-userland/electron-builder",
+      "name": "electron-builder",
+      "url": "https://github.com/electron-userland/electron-builder",
+      "description": "Supports AppImage as an output format.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Electron applications"
+      ]
+    },
+    {
+      "key": "https://github.com/saleae/electron-forge-maker-appimage",
+      "name": "electron-forge-maker-appimage",
+      "url": "https://github.com/saleae/electron-forge-maker-appimage",
+      "description": "Electron Forge builder for AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Electron applications"
+      ]
+    },
+    {
+      "key": "https://github.com/sarweshparajuli/appnativefy",
+      "name": "Appnativefy",
+      "url": "https://github.com/sarweshparajuli/appnativefy",
+      "description": "Create AppImage with embedded Electron browser from any website.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Electron applications"
+      ]
+    },
+    {
+      "key": "https://github.com/sudo-give-me-coffee/wine32-deploy",
+      "name": "wine32-deploy",
+      "url": "https://github.com/sudo-give-me-coffee/wine32-deploy",
+      "description": "Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Windows applications"
+      ]
+    },
+    {
+      "key": "https://github.com/Hackerl/Wine_Appimage",
+      "name": "AppImage For WINE",
+      "url": "https://github.com/Hackerl/Wine_Appimage",
+      "description": "WINE-based AppImages and LD_PRELOAD based patches to launch WINE from AppImages.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Windows applications"
+      ]
+    },
+    {
+      "key": "https://github.com/ferion11/Wine_Appimage",
+      "name": "ferion11/Wine_Appimage",
+      "url": "https://github.com/ferion11/Wine_Appimage",
+      "description": "AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Windows applications"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/formigoni/gameimage",
+      "name": "GameImage",
+      "url": "https://gitlab.com/formigoni/gameimage",
+      "description": "Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Windows applications"
+      ]
+    },
+    {
+      "key": "https://github.com/trixon/nbPackager",
+      "name": "nbPackager",
+      "url": "https://github.com/trixon/nbPackager",
+      "description": "Packages NetBeans Platform Application with a JRE for AppImage, Linux, macOS and Windows.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Java applications"
+      ]
+    },
+    {
+      "key": "https://github.com/kuiperzone/Publish-AppImage",
+      "name": "Publish-AppImage for .NET",
+      "url": "https://github.com/kuiperzone/Publish-AppImage",
+      "description": "Publish AppImages for .NET applications.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for .NET Core (Mono) applications"
+      ]
+    },
+    {
+      "key": "https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs",
+      "name": ".NET Core AppImage example",
+      "url": "https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243",
+      "description": "Example of how to deploy .NET Core (Mono) applications as an AppImage using dotnet publish -f netcoreapp3.1 -r linux-x64 from within a .cs program.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for .NET Core (Mono) applications"
+      ]
+    },
+    {
+      "key": "https://github.com/kuiperzone/PupNet-Deploy",
+      "name": "PupNet Deploy",
+      "url": "https://github.com/kuiperzone/PupNet-Deploy",
+      "description": "Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for .NET Core (Mono) applications"
+      ]
+    },
+    {
+      "key": "https://github.com/SuperJMN/DotnetPackaging",
+      "name": "DotnetPackaging",
+      "url": "https://github.com/SuperJMN/DotnetPackaging",
+      "description": "Tool to distribute .NET applications in the AppImage format.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for .NET Core (Mono) applications"
+      ]
+    },
+    {
+      "key": "https://github.com/CredibleOpossum/flash-to-appimage",
+      "name": "flash-to-appimage",
+      "url": "https://github.com/CredibleOpossum/flash-to-appimage",
+      "description": "Script to package a Flash game (.swf) into an AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Flash applications"
+      ]
+    },
+    {
+      "key": "https://github.com/StratusFearMe21/cargo-appimage",
+      "name": "Cargo AppImage",
+      "url": "https://github.com/StratusFearMe21/cargo-appimage",
+      "description": "Cargo program that allows you to convert your Rust programs into AppImages.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for Rust applications"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/pkg2appimage",
+      "name": "pkg2appimage",
+      "url": "https://github.com/AppImage/pkg2appimage",
+      "description": "Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/nixtux-packaging/appimage2pkg",
+      "name": "appimage2pkg",
+      "url": "https://gitlab.com/nixtux-packaging/appimage2pkg",
+      "description": "Repack AppImage and make rpm/deb which does not require FUSE.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/sudo-give-me-coffee/flatpak2appdir",
+      "name": "flatpak2appdir",
+      "url": "https://github.com/sudo-give-me-coffee/flatpak2appdir",
+      "description": "Turn Flatpak into AppDir which in turn can be turned into AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/sudo-give-me-coffee/make-portable",
+      "name": "make-portable",
+      "url": "https://github.com/sudo-give-me-coffee/make-portable",
+      "description": "Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/brinkervii/appimage-cobbler",
+      "name": "AppImage cobbler",
+      "url": "https://gitlab.com/brinkervii/appimage-cobbler",
+      "description": "Python application that takes strace.log and turns it into a directory suited for an AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/s-zeid/elements",
+      "name": "Elements",
+      "url": "https://github.com/s-zeid/elements",
+      "description": "Tool to generate single-file, runc-based AppImages using a minimal (~3 MB compressed) Alpine Linux rootfs.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/hanzala123/arch2appimage",
+      "name": "arch2appimage",
+      "url": "https://github.com/hanzala123/arch2appimage",
+      "description": "Python script to convert any Arch Linux package (official/AUR) to an AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/valicm/appimage-bash",
+      "name": "appimage-bash",
+      "url": "https://github.com/valicm/appimage-bash",
+      "description": "GitHub Action for creating AppImage releases from binaries inside .tar.gz archives.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/CausaPrincipalis71/package-to-appimage",
+      "name": "Package-to-appimage",
+      "url": "https://github.com/CausaPrincipalis71/package-to-appimage",
+      "description": "Tool for converting .deb and .rpm packages into AppImage format by using Docker.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/samuelvenable/GMAppImager",
+      "name": "GMAppImager",
+      "url": "https://github.com/samuelvenable/GMAppImager",
+      "description": "Graphically Converts GameMaker Studio 2 games to AppImage bundles.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://github.com/ivan-hc/AppImaGen",
+      "name": "AppImaGen",
+      "url": "https://github.com/ivan-hc/AppImaGen",
+      "description": "Generates an AppImage from Debian or from a PPA of your choice for the previous (unfortunately not the oldest as recommended) and still supported Ubuntu LTS.",
+      "section": [
+        "AppImage developer tools",
+        "Tools to convert from other package formats"
+      ]
+    },
+    {
+      "key": "https://freedesktop.org/software/appstream/metainfocreator",
+      "name": "AppStream MetaInfo Creator",
+      "url": "https://www.freedesktop.org/software/appstream/metainfocreator/#/",
+      "description": "More elaborate generator for AppStream MetaInfo files by the author of the AppStream metainfo format.",
+      "section": [
+        "AppImage developer tools",
+        "Metadata tools"
+      ]
+    },
+    {
+      "key": "https://github.com/aferrero2707/appimage-testsuite",
+      "name": "appimage-testsuite",
+      "url": "https://github.com/aferrero2707/appimage-testsuite",
+      "description": "AppImage testing environment based on Docker containers for various Linux distributions.",
+      "section": [
+        "AppImage developer tools",
+        "QC tools"
+      ]
+    },
+    {
+      "key": "https://github.com/TheAssassin/appimagelint",
+      "name": "appimagelint",
+      "url": "https://github.com/TheAssassin/appimagelint",
+      "description": "Tool to check AppImages for compatibility, best practices etc.",
+      "section": [
+        "AppImage developer tools",
+        "QC tools"
+      ]
+    },
+    {
+      "key": "https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml",
+      "name": "GitHub Actions example",
+      "url": "https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml",
+      "description": "Example of how to upload AppImages built using GitHub Actions to GitHub Releases.",
+      "section": [
+        "AppImage developer tools",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml",
+      "name": "appimage.yml",
+      "url": "https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml",
+      "description": "Bigger, more complex example of how to build and upload AppImages using GitHub Actions.",
+      "section": [
+        "AppImage developer tools",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImageCrafters/build-appimage-action",
+      "name": "build-appimage-action",
+      "url": "https://github.com/AppImageCrafters/build-appimage-action",
+      "description": "GitHub Action for producing AppImages using appimage-builder.",
+      "section": [
+        "AppImage developer tools",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://github.com/jniltinho/packages",
+      "name": "jniltinho/packages",
+      "url": "https://github.com/jniltinho/packages",
+      "description": "Drone.io example for producing AppImages using go-appimagetool.",
+      "section": [
+        "AppImage developer tools",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build",
+      "name": "Link to the latest build artifact on GitLab CI",
+      "url": "https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build",
+      "description": "Example of how to directly link to the latest build artifact on GitLab CI (can be tricky).",
+      "section": [
+        "AppImage developer tools",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://github.com/antony-jr/QAppImageUpdate",
+      "name": "QAppImageUpdate",
+      "url": "https://github.com/antony-jr/QAppImageUpdate",
+      "description": "Qt5 library and plugin for updating AppImages, can be embedded into applications.",
+      "section": [
+        "AppImage developer tools",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/azubieta/AppImageServices",
+      "name": "AppImageServices",
+      "url": "https://github.com/azubieta/AppImageServices",
+      "description": "D-Bus services providing a high-level interface over the AppImage manipulation libraries for file managers, software centers and other tools.",
+      "section": [
+        "AppImage developer tools",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/libappimage",
+      "name": "libappimage",
+      "url": "https://github.com/AppImage/libappimage",
+      "description": "Implements functionality for dealing with AppImage files, written in C++ using Boost.",
+      "section": [
+        "AppImage developer tools",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImageCrafters/libzsync-go",
+      "name": "libzsync-go",
+      "url": "https://github.com/AppImageCrafters/libzsync-go",
+      "description": "Zsync implementation written in Go that can be used to update AppImages.",
+      "section": [
+        "AppImage developer tools",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/TheMarlboroMan/appenv",
+      "name": "appenv",
+      "url": "https://github.com/TheMarlboroMan/appenv",
+      "description": "Small C++ library telling where the app data resides and where the user data is by using readlink(\"/proc/self/exe\")), thus allowing C++ applications to become relocatable in the filesystem.",
+      "section": [
+        "AppImage developer tools",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/stemoretti/qt-desktop-template",
+      "name": "Qt Desktop Template",
+      "url": "https://github.com/stemoretti/qt-desktop-template",
+      "description": "Template for creating Qt Widgets desktop applications with AppImage generation using linuxdeployqt.",
+      "section": [
+        "AppImage developer tools",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImageCrafters/qt-hello-world",
+      "name": "qt-hello-world",
+      "url": "https://github.com/AppImageCrafters/qt-hello-world",
+      "description": "Qt Hello World project for AppImage creation using appimage-builder.",
+      "section": [
+        "AppImage developer tools",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/219-design/qt-qml-project-template-with-ci",
+      "name": "qt-qml-project-template-with-ci",
+      "url": "https://github.com/219-design/qt-qml-project-template-with-ci",
+      "description": "Template for a Qt/QML application with batteries included: GitHub CI, automated GUI testing, automatic code-format checks and more. Compiles for Linux (AppImage), Mac, and Android.",
+      "section": [
+        "AppImage developer tools",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/patrickelectric/mini-qml",
+      "name": "mini-qml",
+      "url": "https://github.com/patrickelectric/mini-qml",
+      "description": "Minimal Qml application template with deployment for Linux (AppImage), Windows, macOS and WebAssembly.",
+      "section": [
+        "AppImage developer tools",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/Ravbug/wxWidgetsTemplate",
+      "name": "wxWidgetsTemplate",
+      "url": "https://github.com/Ravbug/wxWidgetsTemplate",
+      "description": "Cross-platform application template for wxWidgets C++, with pre-set files and IDE projects, supporting AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/beeware/briefcase-linux-appimage-template",
+      "name": "Briefcase Linux AppImage Template",
+      "url": "https://github.com/beeware/briefcase-linux-appimage-template",
+      "description": "Cookiecutter template for building Python apps that will run under Linux, packaged as an AppImage.",
+      "section": [
+        "AppImage developer tools",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/AppImageSpec",
+      "name": "AppImageSpec",
+      "url": "https://github.com/AppImage/AppImageSpec",
+      "description": "Official specification for the AppImage format.",
+      "section": [
+        "Resources",
+        "Specs"
+      ]
+    },
+    {
+      "key": "https://specifications.freedesktop.org/desktop-entry-spec/latest",
+      "name": "Desktop Entry Specification",
+      "url": "https://specifications.freedesktop.org/desktop-entry-spec/latest/",
+      "description": "Specification for the matadata used inside AppImages.",
+      "section": [
+        "Resources",
+        "Specs"
+      ]
+    },
+    {
+      "key": "https://docs.appimage.org",
+      "name": "docs.appimage.org",
+      "url": "https://docs.appimage.org/",
+      "description": "Official AppImage documentation.",
+      "section": [
+        "Resources",
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://appimage-builder.readthedocs.io",
+      "name": "appimage-builder.readthedocs.io",
+      "url": "https://appimage-builder.readthedocs.io/",
+      "description": "Documentation of appimage-builder, includes tutorials, examples, and more.",
+      "section": [
+        "Resources",
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=XTGn_JqmDu0",
+      "name": "Produce an AppImage that bundles everything with go-appimage",
+      "url": "https://www.youtube.com/watch?v=XTGn_JqmDu0",
+      "description": "How to make an AppImage that bundles all required libraries so that it should run not only on newer, but also on older systems than the build system.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://itsfoss.com/appimage-interview",
+      "name": "The Background Story of AppImage",
+      "url": "https://itsfoss.com/appimage-interview/",
+      "description": "Interview with the creator of AppImage, explaining the key ideas and motivations behind the concept.",
+      "section": [
+        "Resources",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://distrowatch.com/weekly.php?issue=20160704",
+      "name": "Flatpak, Snap and AppImage",
+      "url": "https://distrowatch.com/weekly.php?issue=20160704#opinion",
+      "description": "Jesse Smith on DistroWatch about AppImage, Flatpak and Snap.",
+      "section": [
+        "Resources",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://dot.kde.org/2005/09/16/dont-install-just-copy-klik",
+      "name": "Don't Install, Just Copy with klik",
+      "url": "https://dot.kde.org/2005/09/16/dont-install-just-copy-klik",
+      "description": "Article from 2005 that gives perspective on how AppImage started, relevant only for historical reasons now.",
+      "section": [
+        "Resources",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=nzZ6Ikc7juw",
+      "name": "AppImage: Portable applications for Linux",
+      "url": "https://www.youtube.com/watch?v=nzZ6Ikc7juw",
+      "description": "Official AppImage introduction video by its founder.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=7fPShv-8Z_4",
+      "name": "Comparing Linux Package Formats - Deb, Flatpak, AppImage, etc.",
+      "url": "https://www.youtube.com/watch?v=7fPShv-8Z_4",
+      "description": "By Bryan Lunduke.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=tMqES2pNxYY",
+      "name": "AppImage: Universal Linux Apps, Overview and Thoughts",
+      "url": "https://www.youtube.com/watch?v=tMqES2pNxYY",
+      "description": "By Jeremy \"Jay\" LaCroix, LearnLinuxTV.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=L00UjifUEfE",
+      "name": "AppImage system integration on Ubuntu using go-appimaged",
+      "url": "https://www.youtube.com/watch?v=L00UjifUEfE",
+      "description": "New appimaged daemon from the go-appimage implementation.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=D2WA2zdLvVk",
+      "name": "Integrate and Manage AppImages with AppImageLauncher",
+      "url": "https://www.youtube.com/watch?v=D2WA2zdLvVk",
+      "description": "By Eric Adams.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://amazon.de/Mastering-Qt-stunning-cross-platform-applications-ebook/dp/B07DH9YK9Q",
+      "name": "Mastering Qt 5",
+      "url": "https://www.amazon.de/Mastering-Qt-stunning-cross-platform-applications-ebook/dp/B07DH9YK9Q/",
+      "description": "Contains a section on how to package and deploy Qt applications for Linux using linuxdeployqt.",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://appimage.gitlab.io/planet",
+      "name": "Planet AppImage",
+      "url": "https://appimage.gitlab.io/planet/",
+      "description": "Blog Aggregator covering all things AppImage.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://assassinate-you.net/tags/appimage",
+      "name": "TheAssassin Blog",
+      "url": "https://assassinate-you.net/tags/appimage/",
+      "description": "Blog covering AppImage related topics by TheAssassin.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://appimagecrafters.github.io",
+      "name": "AppImage Crafters Blog",
+      "url": "https://appimagecrafters.github.io/",
+      "description": "Blog about AppImage creation an usage by azubieta.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://web.libera.chat",
+      "name": "#AppImage channel on libera.chat",
+      "url": "https://web.libera.chat/#AppImage",
+      "description": "Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately.",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://discourse.appimage.org",
+      "name": "discourse.appimage.org",
+      "url": "https://discourse.appimage.org/",
+      "description": "Official AppImage forum for users and application developers.",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/tags/AppImage",
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/tags/AppImage",
+      "description": "Questions tagged [appimage] on Stack Overflow.",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/AppImage",
+      "name": "r/AppImage/",
+      "url": "https://www.reddit.com/r/AppImage/",
+      "description": "AppImage subreddit.",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/AppImageKit/wiki",
+      "name": "AppImage wiki",
+      "url": "https://github.com/AppImage/AppImageKit/wiki",
+      "description": "Official AppImage wiki.",
+      "section": [
+        "Resources",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/sagebind/appimagezip",
+      "name": "AppImageZip",
+      "url": "https://github.com/sagebind/appimagezip",
+      "description": "Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.",
+      "section": [
+        "Resources",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/search?q=user:appimage label:help-wanted state:open&type=Issues",
+      "name": "help-wanted",
+      "url": "https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues",
+      "description": "AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.",
+      "section": [
+        "Resources",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/Phantop/appdwarf",
+      "name": "appdwarf",
+      "url": "https://github.com/Phantop/appdwarf",
+      "description": "A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.",
+      "section": [
+        "Resources",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImage/AppImageKit/wiki/Similar-projects",
+      "name": "Similar projects",
+      "url": "https://github.com/AppImage/AppImageKit/wiki/Similar-projects",
+      "description": "Comparison to other packaging systems.",
+      "section": [
+        "Resources",
+        "Related"
+      ]
+    },
+    {
+      "key": "https://github.com/linuxdeploy/awesome-linuxdeploy",
+      "name": "awesome-linuxdeploy",
+      "url": "https://github.com/linuxdeploy/awesome-linuxdeploy",
+      "description": "Awesome list on linuxdeploy.",
+      "section": [
+        "Resources",
+        "Other awesome lists"
+      ]
+    },
+    {
+      "key": "https://github.com/topics/awesome",
+      "name": "All Awesome Lists",
+      "url": "https://github.com/topics/awesome",
+      "description": "All the Awesome lists on GitHub.",
+      "section": [
+        "Resources",
+        "Other awesome lists"
+      ]
+    },
+    {
+      "key": "https://app-outlet.github.io",
+      "name": "App Outlet",
+      "url": "https://app-outlet.github.io/",
+      "description": "Universal app store that works with AppImages, Flatpaks and Snaps.",
+      "section": [
+        "Resources",
+        "Expired links"
+      ]
+    },
+    {
+      "key": "https://github.com/me1ting/appimage2desktop",
+      "name": "appimage2desktop",
+      "url": "https://github.com/me1ting/appimage2desktop",
+      "description": "Creates a desktop file and an icon in the system for an AppImage, nothing else.",
+      "section": [
+        "Resources",
+        "Expired links"
+      ]
+    },
+    {
+      "key": "https://github.com/w-j-r/AppImage-Integrator",
+      "name": "AppImage-Integrator",
+      "url": "https://github.com/w-j-r/AppImage-Integrator",
+      "description": "A simple program to integrate AppImages into the Linux desktop written in Qt6.",
+      "section": [
+        "Resources",
+        "Expired links"
+      ]
+    },
+    {
+      "key": "https://g.sreve/get-appimage",
+      "name": "Get AppImage",
+      "url": "https://g.sreve/get-appimage/",
+      "description": "Collection of all AppImages in one website. Great search functionality.",
+      "section": [
+        "Resources",
+        "Expired links"
+      ]
+    },
+    {
+      "key": "https://output.jsbin.com/qoqukof",
+      "name": "AppStream Generator",
+      "url": "https://output.jsbin.com/qoqukof",
+      "description": "Very simple generator for AppStream MetaInfo files which application authors can use to add metadata (like descriptions, screenshots, links) to their AppImage.",
+      "section": [
+        "Resources",
+        "Expired links"
+      ]
+    }
+  ]
+}

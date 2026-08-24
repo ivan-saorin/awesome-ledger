@@ -1,0 +1,811 @@
+{
+  "etag": "W/\"bcef42101e4337003d4de43ef1733ce266ed28d78f31406e19caab758b7bf9f7\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://devarchy.com/redux",
+      "name": "devarchy.com/redux",
+      "url": "https://devarchy.com/redux",
+      "description": "",
+      "section": []
+    },
+    {
+      "key": "https://github.com/ddsol/redux-schema",
+      "name": "redux-schema",
+      "url": "https://github.com/ddsol/redux-schema",
+      "description": "Automatic actions, reducers and validation for Redux.",
+      "section": [
+        "Code Architecture"
+      ]
+    },
+    {
+      "key": "https://github.com/gcanti/redux-tcomb",
+      "name": "redux-tcomb",
+      "url": "https://github.com/gcanti/redux-tcomb",
+      "description": "Immutable and type-checked state and actions for Redux.",
+      "section": [
+        "Code Architecture"
+      ]
+    },
+    {
+      "key": "https://github.com/cerebral/redux-action-tree",
+      "name": "redux-action-tree",
+      "url": "https://github.com/cerebral/redux-action-tree",
+      "description": "The Cerebral signals running with Redux.",
+      "section": [
+        "Code Architecture"
+      ]
+    },
+    {
+      "key": "https://github.com/salsita/redux-elm",
+      "name": "redux-elm",
+      "url": "https://github.com/salsita/redux-elm",
+      "description": "The Elm Architecture in JavaScript.",
+      "section": [
+        "Code Architecture"
+      ]
+    },
+    {
+      "key": "https://github.com/tommikaikkonen/redux-orm",
+      "name": "redux-orm",
+      "url": "https://github.com/tommikaikkonen/redux-orm",
+      "description": "Small, simple and immutable ORM to manage relational data in your Redux store.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/agraboso/redux-api-middleware",
+      "name": "redux-api-middleware",
+      "url": "https://github.com/agraboso/redux-api-middleware",
+      "description": "Redux middleware for calling an API.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/omnidan/redux-ignore",
+      "name": "redux-ignore",
+      "url": "https://github.com/omnidan/redux-ignore",
+      "description": "Higher-order reducer to ignore Redux actions.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/calvinfroedge/redux-modifiers",
+      "name": "redux-modifiers",
+      "url": "https://github.com/calvinfroedge/redux-modifiers",
+      "description": "Collection of generic functions for writing Redux reducers to operate on various data structures.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/slorber/rereduce",
+      "name": "rereduce",
+      "url": "https://github.com/slorber/rereduce",
+      "description": "Reducer library for Redux.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/treasure-data/redux-search",
+      "name": "redux-search",
+      "url": "https://github.com/treasure-data/redux-search",
+      "description": "Redux bindings for client-side search.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/evgenyrodionov/redux-logger",
+      "name": "redux-logger",
+      "url": "https://github.com/evgenyrodionov/redux-logger",
+      "description": "Logger middleware for Redux.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/gajus/redux-immutable",
+      "name": "redux-immutable",
+      "url": "https://github.com/gajus/redux-immutable",
+      "description": "Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/reactjs/reselect",
+      "name": "reselect",
+      "url": "https://github.com/reactjs/reselect",
+      "description": "Selector library for Redux.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/idolize/redux-requests",
+      "name": "redux-requests",
+      "url": "https://github.com/idolize/redux-requests",
+      "description": "Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/omnidan/redux-undo",
+      "name": "redux-undo",
+      "url": "https://github.com/omnidan/redux-undo",
+      "description": "Higher order reducer to add undo/redo functionality to Redux state containers.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/dtschust/redux-bug-reporter",
+      "name": "redux-bug-reporter",
+      "url": "https://github.com/dtschust/redux-bug-reporter",
+      "description": "Bug reporter and bug playback tool for Redux.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/acdlite/redux-transducers",
+      "name": "redux-transducers",
+      "url": "https://github.com/acdlite/redux-transducers",
+      "description": "Transducer utilities for Redux.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/michaelcontento/redux-storage",
+      "name": "redux-storage",
+      "url": "https://github.com/michaelcontento/redux-storage",
+      "description": "Persistence layer for Redux with flexible backends.",
+      "section": [
+        "Utilities",
+        "Store Persistence"
+      ]
+    },
+    {
+      "key": "https://github.com/rt2zz/redux-persist",
+      "name": "redux-persist",
+      "url": "https://github.com/rt2zz/redux-persist",
+      "description": "Persist and rehydrate a Redux store.",
+      "section": [
+        "Utilities",
+        "Store Persistence"
+      ]
+    },
+    {
+      "key": "https://github.com/yelouafi/redux-saga",
+      "name": "redux-saga",
+      "url": "https://github.com/yelouafi/redux-saga",
+      "description": "Alternative side effect model for Redux apps.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/pburtchaell/redux-promise-middleware",
+      "name": "redux-promise-middleware",
+      "url": "https://github.com/pburtchaell/redux-promise-middleware",
+      "description": "Redux middleware for resolving and rejecting promises with conditional optimistic updates.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/redux-effects/redux-effects",
+      "name": "redux-effects",
+      "url": "https://github.com/redux-effects/redux-effects",
+      "description": "You write pure functions, redux-effects handles the rest.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/gaearon/redux-thunk",
+      "name": "redux-thunk",
+      "url": "https://github.com/gaearon/redux-thunk",
+      "description": "Thunk middleware for Redux.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/makeomatic/redux-connect",
+      "name": "redux-connect",
+      "url": "https://github.com/makeomatic/redux-connect",
+      "description": "Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/redux-loop/redux-loop",
+      "name": "redux-loop",
+      "url": "https://github.com/redux-loop/redux-loop",
+      "description": "Port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/salsita/redux-side-effects",
+      "name": "redux-side-effects",
+      "url": "https://github.com/salsita/redux-side-effects",
+      "description": "Redux toolset for keeping all the side effects inside your reducers while maintaining their purity.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/jeffbski/redux-logic",
+      "name": "redux-logic",
+      "url": "https://github.com/jeffbski/redux-logic",
+      "description": "Redux middleware for organizing business logic and action side effects.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/redux-observable/redux-observable",
+      "name": "redux-observable",
+      "url": "https://github.com/redux-observable/redux-observable",
+      "description": "RxJS middleware for action side effects in Redux using \"Epics\".",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/clarus/redux-ship",
+      "name": "redux-ship",
+      "url": "https://github.com/clarus/redux-ship",
+      "description": "Composable, testable and typable side effects.",
+      "section": [
+        "Utilities",
+        "Side Effects"
+      ]
+    },
+    {
+      "key": "https://github.com/pauldijou/redux-act",
+      "name": "redux-act",
+      "url": "https://github.com/pauldijou/redux-act",
+      "description": "Opinionated lib to create actions and reducers for Redux.",
+      "section": [
+        "Code Style"
+      ]
+    },
+    {
+      "key": "https://github.com/Versent/redux-crud",
+      "name": "redux-crud",
+      "url": "https://github.com/Versent/redux-crud",
+      "description": "Set of standard actions and reducers for Redux CRUD Applications.",
+      "section": [
+        "Code Style"
+      ]
+    },
+    {
+      "key": "https://github.com/alexkuz/redux-devtools-inspector",
+      "name": "redux-devtools-inspector",
+      "url": "https://github.com/alexkuz/redux-devtools-inspector",
+      "description": "Another Redux DevTools Monitor.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/fcomb/redux-diff-logger",
+      "name": "redux-diff-logger",
+      "url": "https://github.com/fcomb/redux-diff-logger",
+      "description": "Diff logger between states for Redux.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/romseguy/redux-devtools-chart-monitor",
+      "name": "redux-devtools-chart-monitor",
+      "url": "https://github.com/romseguy/redux-devtools-chart-monitor",
+      "description": "Chart monitor for Redux DevTools.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/gaearon/redux-devtools",
+      "name": "redux-devtools",
+      "url": "https://github.com/gaearon/redux-devtools",
+      "description": "DevTools for Redux with hot reloading, action replay, and customizable UI.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/YoruNoHikage/redux-devtools-dispatch",
+      "name": "redux-devtools-dispatch",
+      "url": "https://github.com/YoruNoHikage/redux-devtools-dispatch",
+      "description": "Dispatch your actions manually to test if your app Reacts well.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/gaearon/redux-devtools-dock-monitor",
+      "name": "redux-devtools-dock-monitor",
+      "url": "https://github.com/gaearon/redux-devtools-dock-monitor",
+      "description": "Resizable and movable dock for Redux DevTools monitors.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/bvaughn/redux-devtools-filterable-log-monitor",
+      "name": "redux-devtools-filterable-log-monitor",
+      "url": "https://github.com/bvaughn/redux-devtools-filterable-log-monitor",
+      "description": "Filterable tree view monitor for Redux DevTools.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/gaearon/redux-devtools-log-monitor",
+      "name": "redux-devtools-log-monitor",
+      "url": "https://github.com/gaearon/redux-devtools-log-monitor",
+      "description": "The default monitor for Redux DevTools with a tree view.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/zalmoxisus/remote-redux-devtools",
+      "name": "remote-redux-devtools",
+      "url": "https://github.com/zalmoxisus/remote-redux-devtools",
+      "description": "Redux DevTools remotely.",
+      "section": [
+        "Dev tools / Inspection tools"
+      ]
+    },
+    {
+      "key": "https://github.com/conorhastings/redux-test-recorder",
+      "name": "redux-test-recorder",
+      "url": "https://github.com/conorhastings/redux-test-recorder",
+      "description": "Redux middleware to automatically generate tests for reducers through ui interaction.",
+      "section": [
+        "React Integration"
+      ]
+    },
+    {
+      "key": "https://github.com/reactjs/react-redux",
+      "name": "react-redux",
+      "url": "https://github.com/reactjs/react-redux",
+      "description": "Official React bindings for Redux.",
+      "section": [
+        "React Integration"
+      ]
+    },
+    {
+      "key": "https://github.com/keystonejs/react-easy-universal",
+      "name": "react-easy-universal",
+      "url": "https://github.com/keystonejs/react-easy-universal",
+      "description": "Universal Routing & Rendering with React & Redux was too hard. Now it's easy.",
+      "section": [
+        "React Integration"
+      ]
+    },
+    {
+      "key": "https://github.com/erikras/redux-form-material-ui",
+      "name": "redux-form-material-ui",
+      "url": "https://github.com/erikras/redux-form-material-ui",
+      "description": "Set of wrapper components to facilitate using Material UI with Redux Form.",
+      "section": [
+        "React Integration"
+      ]
+    },
+    {
+      "key": "https://github.com/Rezonans/redux-async-connect",
+      "name": "redux-async-connect",
+      "url": "https://github.com/Rezonans/redux-async-connect",
+      "description": "It allows you to request async data, store them in Redux state and connect them to your React component.",
+      "section": [
+        "React Integration",
+        "Routing"
+      ]
+    },
+    {
+      "key": "https://github.com/Agamennon/redux-tiny-router",
+      "name": "redux-tiny-router",
+      "url": "https://github.com/Agamennon/redux-tiny-router",
+      "description": "Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state.",
+      "section": [
+        "React Integration",
+        "Routing"
+      ]
+    },
+    {
+      "key": "https://github.com/acdlite/redux-router",
+      "name": "redux-router",
+      "url": "https://github.com/acdlite/redux-router",
+      "description": "Redux bindings for React Router – keep your router state inside your Redux store.",
+      "section": [
+        "React Integration",
+        "Routing"
+      ]
+    },
+    {
+      "key": "https://github.com/reactjs/react-router-redux",
+      "name": "react-router-redux",
+      "url": "https://github.com/reactjs/react-router-redux",
+      "description": "Ruthlessly simple bindings to keep react-router and Redux in sync.",
+      "section": [
+        "React Integration",
+        "Routing"
+      ]
+    },
+    {
+      "key": "https://github.com/raisemarketplace/ground-control",
+      "name": "ground-control",
+      "url": "https://github.com/raisemarketplace/ground-control",
+      "description": "Scalable reducer management & powerful data fetching for React Router & Redux.",
+      "section": [
+        "React Integration",
+        "Routing"
+      ]
+    },
+    {
+      "key": "https://github.com/erikras/redux-form",
+      "name": "redux-form",
+      "url": "https://github.com/erikras/redux-form",
+      "description": "Higher Order Component using react-redux to keep form state in a Redux store.",
+      "section": [
+        "React Integration",
+        "Forms"
+      ]
+    },
+    {
+      "key": "https://github.com/davidkpiano/react-redux-form",
+      "name": "react-redux-form",
+      "url": "https://github.com/davidkpiano/react-redux-form",
+      "description": "Create forms easily in React with Redux.",
+      "section": [
+        "React Integration",
+        "Forms"
+      ]
+    },
+    {
+      "key": "https://github.com/threepointone/redux-react-local",
+      "name": "redux-react-local",
+      "url": "https://github.com/threepointone/redux-react-local",
+      "description": "Local component state via Redux.",
+      "section": [
+        "React Integration",
+        "Component State"
+      ]
+    },
+    {
+      "key": "https://github.com/tonyhb/redux-ui",
+      "name": "redux-ui",
+      "url": "https://github.com/tonyhb/redux-ui",
+      "description": "Easy UI state management for React Redux.",
+      "section": [
+        "React Integration",
+        "Component State"
+      ]
+    },
+    {
+      "key": "https://github.com/acdlite/redux-actions",
+      "name": "redux-actions",
+      "url": "https://github.com/acdlite/redux-actions",
+      "description": "Flux Standard Action utilities for Redux.",
+      "section": [
+        "Other Integrations",
+        "Flux"
+      ]
+    },
+    {
+      "key": "https://github.com/acdlite/redux-promise",
+      "name": "redux-promise",
+      "url": "https://github.com/acdlite/redux-promise",
+      "description": "FSA-compliant promise middleware for Redux.",
+      "section": [
+        "Other Integrations",
+        "Flux"
+      ]
+    },
+    {
+      "key": "https://github.com/redbooth/backbone-redux",
+      "name": "backbone-redux",
+      "url": "https://github.com/redbooth/backbone-redux",
+      "description": "Easy way to keep your backbone collections and Redux store in sync.",
+      "section": [
+        "Other Integrations",
+        "Backbone"
+      ]
+    },
+    {
+      "key": "https://github.com/ekosz/redux-falcor",
+      "name": "redux-falcor",
+      "url": "https://github.com/ekosz/redux-falcor",
+      "description": "Connect your Redux front-end to your falcor back-end.",
+      "section": [
+        "Other Integrations",
+        "Falcor"
+      ]
+    },
+    {
+      "key": "https://github.com/jas-chen/rx-redux",
+      "name": "rx-redux",
+      "url": "https://github.com/jas-chen/rx-redux",
+      "description": "Reimplementation of Redux using RxJS.",
+      "section": [
+        "Other Integrations",
+        "RxJS"
+      ]
+    },
+    {
+      "key": "https://github.com/acdlite/redux-rx",
+      "name": "redux-rx",
+      "url": "https://github.com/acdlite/redux-rx",
+      "description": "RxJS utilities for Redux.",
+      "section": [
+        "Other Integrations",
+        "RxJS"
+      ]
+    },
+    {
+      "key": "https://github.com/shiftyp/redurx",
+      "name": "redurx",
+      "url": "https://github.com/shiftyp/redurx",
+      "description": "Redux'ish Functional State Management using RxJS.",
+      "section": [
+        "Other Integrations",
+        "RxJS"
+      ]
+    },
+    {
+      "key": "https://github.com/samiskin/redux-electron-store",
+      "name": "redux-electron-store",
+      "url": "https://github.com/samiskin/redux-electron-store",
+      "description": "Redux store enhancer that allows automatic synchronization between electron processes.",
+      "section": [
+        "Other Integrations",
+        "Electron"
+      ]
+    },
+    {
+      "key": "https://github.com/troch/deku-redux",
+      "name": "deku-redux",
+      "url": "https://github.com/troch/deku-redux",
+      "description": "Bindings for Redux in deku < v2.",
+      "section": [
+        "Other Integrations",
+        "Deku"
+      ]
+    },
+    {
+      "key": "https://github.com/netguru/redux-rollbar-middleware",
+      "name": "redux-rollbar-middleware",
+      "url": "https://github.com/netguru/redux-rollbar-middleware",
+      "description": "Redux middleware that wraps exceptions in actions and sends them to Rollbar with current state.",
+      "section": [
+        "Other Integrations",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/outlandishideas/kasia",
+      "name": "kasia",
+      "url": "https://github.com/outlandishideas/kasia",
+      "description": "React Redux toolset for the WordPress API.",
+      "section": [
+        "Other Integrations",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/SpencerCDixon/redux-cli",
+      "name": "redux-cli",
+      "url": "https://github.com/SpencerCDixon/redux-cli",
+      "description": "Opinionated CLI for building Redux/React apps quicker.",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/reactuate/reactuate",
+      "name": "reactuate",
+      "url": "https://github.com/reactuate/reactuate",
+      "description": "React/Redux stack (not a boilerplate kit).",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/jhen0409/react-chrome-extension-boilerplate",
+      "name": "react-chrome-extension-boilerplate",
+      "url": "https://github.com/jhen0409/react-chrome-extension-boilerplate",
+      "description": "Boilerplate for Chrome Extension React.js project.",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/bdefore/universal-redux",
+      "name": "universal-redux",
+      "url": "https://github.com/bdefore/universal-redux",
+      "description": "Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/pauldotknopf/react-aspnet-boilerplate",
+      "name": "generator-react-aspnet-boilerplate",
+      "url": "https://github.com/pauldotknopf/react-aspnet-boilerplate",
+      "description": "Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/banderson/generator-redux",
+      "name": "generator-redux",
+      "url": "https://github.com/banderson/generator-redux",
+      "description": "CLI tools for Redux: next-gen functional Flux/React with devtools.",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/stylesuxx/generator-react-webpack-redux",
+      "name": "generator-react-webpack-redux",
+      "url": "https://github.com/stylesuxx/generator-react-webpack-redux",
+      "description": "React Webpack Generator including Redux support.",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/matthewmueller/socrates",
+      "name": "socrates",
+      "url": "https://github.com/matthewmueller/socrates",
+      "description": "Small (8kb), batteries-included Redux store to reduce boilerplate and promote good habits.",
+      "section": [
+        "Boilerplate"
+      ]
+    },
+    {
+      "key": "https://github.com/jas-chen/redux-core",
+      "name": "redux-core",
+      "url": "https://github.com/jas-chen/redux-core",
+      "description": "Minimal Redux.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://redux.js.org",
+      "name": "Redux official documentation",
+      "url": "http://redux.js.org/",
+      "description": "does a great job at explaining Redux's core principles.",
+      "section": [
+        "Learning Material"
+      ]
+    },
+    {
+      "key": "https://facebook.github.io/react/docs/advanced-performance.html",
+      "name": "guide on performance",
+      "url": "https://facebook.github.io/react/docs/advanced-performance.html",
+      "description": "of React's official documentation explains well what immutable data structures are and why they play an important role.",
+      "section": [
+        "Learning Material"
+      ]
+    },
+    {
+      "key": "https://jaysoo.ca/2016/01/13/functional-programming-little-ideas",
+      "name": "post",
+      "url": "http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/",
+      "description": "goes over basic concepts of functional programming while building a YouTube instant search demo app.",
+      "section": [
+        "Learning Material"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+      "name": "introduction to Reactive Programming",
+      "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+      "description": "explains Reactive Programming with clarity.",
+      "section": [
+        "Learning Material"
+      ]
+    },
+    {
+      "key": "https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504",
+      "name": "article",
+      "url": "https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504",
+      "description": "that talks about interesting computer science concepts implemented in functional languages and how these apply to JavaScript.",
+      "section": [
+        "Learning Material"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Monad_(functional_programming)",
+      "name": "overview on monads",
+      "url": "https://en.wikipedia.org/wiki/Monad_(functional_programming)",
+      "description": "and this article explains monads in more details with graphics and simple examples.",
+      "section": [
+        "Learning Material"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/reduxjs",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/reduxjs/",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/questions/tagged/redux",
+      "name": "Stack Overflow",
+      "url": "http://stackoverflow.com/questions/tagged/redux",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://discord.gg/0ZcbPKXt5bZ6au5t",
+      "name": "Discord",
+      "url": "https://discord.gg/0ZcbPKXt5bZ6au5t",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://slack.redux.io",
+      "name": "Slack",
+      "url": "http://slack.redux.io/",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://gitter.im/reactjs/redux",
+      "name": "Gitter",
+      "url": "https://gitter.im/reactjs/redux",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://webchat.freenode.net",
+      "name": "#rackt on freenode",
+      "url": "https://webchat.freenode.net/",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    }
+  ]
+}

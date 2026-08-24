@@ -1,0 +1,292 @@
+{
+  "etag": "W/\"6a6577818b66edf83f1db32a840e63d3e22da8319695a5e2726f748a08220b58\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/bbl/secretize",
+      "name": "Secretize",
+      "url": "https://github.com/bbl/secretize",
+      "description": "Generating Kubernetes Secret from various sources. It's like a Swiss Army knife, but for Kubernetes secrets (Containerized KRM, Exec KRM, Exec).",
+      "section": [
+        "Plugins",
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/goabout/kustomize-sopssecretgenerator",
+      "name": "SopsSecretGenerator",
+      "url": "https://github.com/goabout/kustomize-sopssecretgenerator/",
+      "description": "Generating Secrets from sops-encrypted files (Exec KRM, Exec).",
+      "section": [
+        "Plugins",
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/viaduct-ai/kustomize-sops",
+      "name": "KSops",
+      "url": "https://github.com/viaduct-ai/kustomize-sops",
+      "description": "Generating Secrets from sops-encrypted files (Exec).",
+      "section": [
+        "Plugins",
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/open-cluster-management-io/policy-generator-plugin",
+      "name": "PolicyGenerator",
+      "url": "https://github.com/open-cluster-management-io/policy-generator-plugin",
+      "description": "Generating Open Cluster Management policies (Exec).",
+      "section": [
+        "Plugins",
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/kaweezle/krmfnbuiltin",
+      "name": "KRMFfnBuiltin",
+      "url": "https://github.com/kaweezle/krmfnbuiltin",
+      "description": "Running builtin generators transformers (Exec).",
+      "section": [
+        "Plugins",
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/aabouzaid/kustomize-plugin-merger",
+      "name": "Merger",
+      "url": "https://github.com/aabouzaid/kustomize-plugin-merger",
+      "description": "Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).",
+      "section": [
+        "Plugins",
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/openinfradev/kustomize-helm-transformer",
+      "name": "HelmValuesTransformer",
+      "url": "https://github.com/openinfradev/kustomize-helm-transformer",
+      "description": "Transforming values in HelmRelease CustomResource. It helps manage many HelmRelease values in a single transformer file (Exec).",
+      "section": [
+        "Plugins",
+        "Transformers"
+      ]
+    },
+    {
+      "key": "https://github.com/joshdk/template-transformer",
+      "name": "TemplateTransformer",
+      "url": "https://github.com/joshdk/template-transformer",
+      "description": "Providing a set of KRM Functions to run built-in transformers in place (Containerized KRM, Exec KRM).",
+      "section": [
+        "Plugins",
+        "Transformers"
+      ]
+    },
+    {
+      "key": "https://github.com/aabouzaid/kustomize-kubeconformvalidator",
+      "name": "KubeconformValidator",
+      "url": "https://github.com/aabouzaid/kustomize-kubeconformvalidator",
+      "description": "Validating Kubernetes manifests using embedded Kubeconform (Containerized KRM, Exec KRM).",
+      "section": [
+        "Plugins",
+        "Validators"
+      ]
+    },
+    {
+      "key": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization",
+      "name": "Declarative Management of Kubernetes Objects Using Kustomize",
+      "url": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/",
+      "description": "The official Kubernetes documentation task for Kustomize.",
+      "section": [
+        "Guides",
+        "Novice"
+      ]
+    },
+    {
+      "key": "https://cloud.google.com/anthos-config-management/docs/concepts/kustomize",
+      "name": "Configure Kubernetes with Kustomize",
+      "url": "https://cloud.google.com/anthos-config-management/docs/concepts/kustomize",
+      "description": "A guide helps to get started with Kustomize, understand its intended use cases, and find resources for using it with other Google Cloud tools.",
+      "section": [
+        "Guides",
+        "Novice"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=1fCAwFGX38U",
+      "name": "Organizing the YAML mess with Kustomize",
+      "url": "https://www.youtube.com/watch?v=1fCAwFGX38U",
+      "description": "A talk shows how Kustomize could help to manage Kubernetes YAML files with a growing number of services and environments.",
+      "section": [
+        "Guides",
+        "Novice"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ahMIBxufNR0",
+      "name": "Kustomize: Deploy Your App with Template Free YAML",
+      "url": "https://www.youtube.com/watch?v=ahMIBxufNR0",
+      "description": "A talk introduces Kustomize, a declarative application management system that allows deployments to be described as template-free YAML.",
+      "section": [
+        "Guides",
+        "Novice"
+      ]
+    },
+    {
+      "key": "https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/03-kustomize.html",
+      "name": "ArgoCD GitOps Tutorial - Working with Kustomize",
+      "url": "https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/03-kustomize.html",
+      "description": "A hands-on lab covers using Kustomize in GitOps, and it goes through the Kustomize syntax and deploying a Kustomized application.",
+      "section": [
+        "Guides",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html",
+      "name": "3 ways to customize off-the-shelf Helm charts with Kustomize",
+      "url": "https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html",
+      "description": "A guide covers 3 different ways to use Kustomize and Helm together.",
+      "section": [
+        "Guides",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://blog.scottlowe.org/2021/11/01/using-kustomize-components-with-cluster-api",
+      "name": "Using Kustomize Components with Cluster API",
+      "url": "https://blog.scottlowe.org/2021/11/01/using-kustomize-components-with-cluster-api/",
+      "description": "A clear use case of using Kustomize Components.",
+      "section": [
+        "Guides",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://innoq.com/en/blog/advanced-kustomize-features",
+      "name": "Advanced Kustomize features",
+      "url": "https://www.innoq.com/en/blog/advanced-kustomize-features/",
+      "description": "A guide covers more than 5 advanced Kustomize capabilities.",
+      "section": [
+        "Guides",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html",
+      "name": "Set OpenAPI patch strategy for Kubernetes Custom Resources",
+      "url": "https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html",
+      "description": "A guide shows how to provide a schema to control the patch strategy of the CRDs.",
+      "section": [
+        "Guides",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=YlFUv4F5PYc",
+      "name": "Customizing Kustomize with Client-Side Custom Resources",
+      "url": "https://www.youtube.com/watch?v=YlFUv4F5PYc",
+      "description": "A talk covers extending Kustomize via plugins to address common yet idiosyncratic application needs.",
+      "section": [
+        "Guides",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Xoh_OpLoVtI",
+      "name": "Own your YAML: extending Kustomize via Plugins",
+      "url": "https://www.youtube.com/watch?v=Xoh_OpLoVtI",
+      "description": "A talk shows how to create custom resources using Kustomize external plugins.",
+      "section": [
+        "Guides",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://innoq.com/en/blog/kustomize-enhancement-with-krm-functions",
+      "name": "Kustomize Enhancement with KRM Functions",
+      "url": "https://www.innoq.com/en/blog/kustomize-enhancement-with-krm-functions/",
+      "description": "A detailed guide covers the KRM concept and how to use it in Kustomize plugins.",
+      "section": [
+        "Guides",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://tech.aabouzaid.com/2021/05/delete-a-manifest-from-kustomize-base.html",
+      "name": "Delete a manifest from a Kustomize base",
+      "url": "https://tech.aabouzaid.com/2021/05/delete-a-manifest-from-kustomize-base.html",
+      "description": "A handy way to delete a named manifest using Kustomize patch.",
+      "section": [
+        "Guides",
+        "Tips & Tricks"
+      ]
+    },
+    {
+      "key": "https://tech.aabouzaid.com/2022/04/apply-kustomize-builtin-transformers-on-a-single-resource.html",
+      "name": "Apply Kustomize builtin transformers on a single resource",
+      "url": "https://tech.aabouzaid.com/2022/04/apply-kustomize-builtin-transformers-on-a-single-resource.html",
+      "description": "A way to use internal transformers on specific resources.",
+      "section": [
+        "Guides",
+        "Tips & Tricks"
+      ]
+    },
+    {
+      "key": "https://tech.aabouzaid.com/2022/12/pass-extra-data-to-the-containerized-krm-function.html",
+      "name": "Pass extra data to the Containerized KRM function",
+      "url": "https://tech.aabouzaid.com/2022/12/pass-extra-data-to-the-containerized-krm-function.html",
+      "description": "Different cases of sharing data with the Containerized KRM function.",
+      "section": [
+        "Guides",
+        "Tips & Tricks"
+      ]
+    },
+    {
+      "key": "https://github.com/3deep5me/awesome-kustomize/blob/add-security-context-component/snippets/add-pod-security-context/kustomization.yaml",
+      "name": "Add Pod security context",
+      "url": "https://github.com/3deep5me/awesome-kustomize/blob/add-security-context-component/snippets/add-pod-security-context/kustomization.yaml",
+      "description": "Ensure the security context is added to containers in the Pod.",
+      "section": [
+        "Snippets"
+      ]
+    },
+    {
+      "key": "https://github.com/Banno/asdf-kustomize",
+      "name": "Asdf-kustomize",
+      "url": "https://github.com/Banno/asdf-kustomize",
+      "description": "Kustomize plugin for asdf version manager.",
+      "section": [
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/ramitsurana/awesome-kubernetes",
+      "name": "Awesome Kubernetes",
+      "url": "https://github.com/ramitsurana/awesome-kubernetes",
+      "description": "A curated list of awesome Kubernetes resources.",
+      "section": [
+        "Related lists"
+      ]
+    },
+    {
+      "key": "https://github.com/ishantanu/awesome-kubectl-plugins",
+      "name": "Awesome Kubectl plugins",
+      "url": "https://github.com/ishantanu/awesome-kubectl-plugins",
+      "description": "A curated list of awesome Kubectl plugins.",
+      "section": [
+        "Related lists"
+      ]
+    },
+    {
+      "key": "https://github.com/cdwv/awesome-helm",
+      "name": "Awesome Helm",
+      "url": "https://github.com/cdwv/awesome-helm",
+      "description": "A curated list of awesome Helm charts and resources.",
+      "section": [
+        "Related lists"
+      ]
+    }
+  ]
+}

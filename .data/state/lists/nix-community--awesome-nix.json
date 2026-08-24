@@ -1,0 +1,1896 @@
+{
+  "etag": "W/\"e364aca6baa28363ad80b4b535e739969dc6b7df8dcf03a5d195f4e09c79303a\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://fasterthanli.me/series/building-a-rust-service-with-nix",
+      "name": "Building a Rust service with Nix",
+      "url": "https://fasterthanli.me/series/building-a-rust-service-with-nix",
+      "description": "An in-depth blog series about creating a Rust application with Nix.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://zaynetro.com/explainix",
+      "name": "Explainix",
+      "url": "https://zaynetro.com/explainix",
+      "description": "Explain Nix syntax visually.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://ianthehenry.com/posts/how-to-learn-nix",
+      "name": "How to Learn Nix",
+      "url": "https://ianthehenry.com/posts/how-to-learn-nix/",
+      "description": "It's like a Let's Play, but for obscure software documentation.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://code.tvl.fyi/about/nix/nix-1p",
+      "name": "Nix - A One Pager",
+      "url": "https://code.tvl.fyi/about/nix/nix-1p",
+      "description": "A one page introduction to the Nix language.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://saylesss88.github.io",
+      "name": "nix-book",
+      "url": "https://saylesss88.github.io",
+      "description": "A comprehensive guide to NixOS hardening and configuration.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://tonyfinn.com/blog/nix-from-first-principles-flake-edition",
+      "name": "Nix from First Principles: Flake Edition",
+      "url": "https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/",
+      "description": "A modern crash-course to using Nix features, Flakes, and developing with Nix.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=FJVFXsNzYZQ",
+      "name": "Nix in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=FJVFXsNzYZQ",
+      "description": "A YouTube video from Fireship presenting Nix in 100 seconds.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/noteed/nix-notes",
+      "name": "Nix Notes",
+      "url": "https://github.com/noteed/nix-notes",
+      "description": "A collection of short notes about Nix, each contributing to the same virtual machine image.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://nixos.org/guides/nix-pills",
+      "name": "Nix Pills",
+      "url": "https://nixos.org/guides/nix-pills/",
+      "description": "The best way to learn, with examples.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/alper/nix-shorts",
+      "name": "Nix Shorts",
+      "url": "https://github.com/alper/nix-shorts",
+      "description": "A collection of short notes about how to use Nix, updated for Nix Flakes.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/Misterio77/nix-starter-configs",
+      "name": "Nix Starter Config",
+      "url": "https://github.com/Misterio77/nix-starter-configs",
+      "description": "A few simple Nix Flake templates for getting started with NixOS + home-manager.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://nix.dev",
+      "name": "nix.dev",
+      "url": "https://nix.dev/",
+      "description": "An opinionated guide for developers about getting things done using the Nix ecosystem.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/ryan4yin/nixos-and-flakes-book",
+      "name": "NixOS & Flakes Book",
+      "url": "https://github.com/ryan4yin/nixos-and-flakes-book",
+      "description": "An unofficial and opinionated NixOS & Flakes book for beginners.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://nixos.asia/en/tutorial",
+      "name": "NixOS Asia Tutorial Series",
+      "url": "https://nixos.asia/en/tutorial",
+      "description": "A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://leanpub.com/nixos-in-production",
+      "name": "NixOS in Production",
+      "url": "https://leanpub.com/nixos-in-production",
+      "description": "Free (pay-what-you-want) book in pdf format.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://applicative.systems/nixos-test-driver-manual",
+      "name": "Unofficial NixOS test driver manual",
+      "url": "https://applicative.systems/nixos-test-driver-manual/",
+      "description": "Opinionated unofficial NixOS test driver manual with quick getting started guides and best practices.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://nix.dev/manual/nix/stable",
+      "name": "Official Nix manual",
+      "url": "https://nix.dev/manual/nix/stable/",
+      "description": "Latest stable version of the official Nix manual, best used as reference guide. Receives updates when available.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://nixos.org/manual/nixos/stable",
+      "name": "Official NixOS manual",
+      "url": "https://nixos.org/manual/nixos/stable/",
+      "description": "Latest stable version of the official NixOS manual, mix of tutorial and reference guide. Receives updates when available.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://nixos.org/manual/nixpkgs/stable",
+      "name": "Official Nixpkgs manual",
+      "url": "https://nixos.org/manual/nixpkgs/stable/",
+      "description": "Latest stable version of the official Nixpkgs reference manual. Receives updates when available.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://nixcloud.io/tour",
+      "name": "Tour of Nix",
+      "url": "https://nixcloud.io/tour/",
+      "description": "An online interactive tutorial on Nix language constructs.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://mhwombat.codeberg.page/nix-book",
+      "name": "Wombat's Book of Nix",
+      "url": "https://mhwombat.codeberg.page/nix-book/",
+      "description": "A book-length introduction to Nix and flakes.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://zero-to-nix.com",
+      "name": "Zero to Nix",
+      "url": "https://zero-to-nix.com/",
+      "description": "A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.",
+      "section": [
+        "Resources",
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://home-manager-options.extranix.com",
+      "name": "Home Manager Option Search",
+      "url": "https://home-manager-options.extranix.com/",
+      "description": "Search through all 2000+ Home Manager options and read how to use them.",
+      "section": [
+        "Resources",
+        "Discovery"
+      ]
+    },
+    {
+      "key": "https://lazamar.co.uk/nix-versions",
+      "name": "Nix Package Versions",
+      "url": "https://lazamar.co.uk/nix-versions/",
+      "description": "Find all versions of a package that were available in a channel and the revision you can download it from.",
+      "section": [
+        "Resources",
+        "Discovery"
+      ]
+    },
+    {
+      "key": "https://nixsoftware.org/en",
+      "name": "Nix Software",
+      "url": "https://nixsoftware.org/en/",
+      "description": "Friendly package search. Supports logos, screenshots, categories, and translations into multiple languages.",
+      "section": [
+        "Resources",
+        "Discovery"
+      ]
+    },
+    {
+      "key": "https://github.com/3timeslazy/nix-search-tv",
+      "name": "nix-search-tv",
+      "url": "https://github.com/3timeslazy/nix-search-tv",
+      "description": "CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.",
+      "section": [
+        "Resources",
+        "Discovery"
+      ]
+    },
+    {
+      "key": "https://noogle.dev",
+      "name": "Noogle",
+      "url": "https://noogle.dev/",
+      "description": "Nix API search engine allowing to search functions based on their types and other attributes.",
+      "section": [
+        "Resources",
+        "Discovery"
+      ]
+    },
+    {
+      "key": "https://github.com/NuschtOS/search",
+      "name": "NüschtOS Search",
+      "url": "https://github.com/NuschtOS/search",
+      "description": "Simple and fast static-page NixOS option search.",
+      "section": [
+        "Resources",
+        "Discovery"
+      ]
+    },
+    {
+      "key": "https://searchix.ovh",
+      "name": "Searchix",
+      "url": "https://searchix.ovh/",
+      "description": "Search Nix packages and options from NixOS, Darwin and Home Manager.",
+      "section": [
+        "Resources",
+        "Discovery"
+      ]
+    },
+    {
+      "key": "https://github.com/dnkmmr69420/nix-installer-scripts",
+      "name": "nix-installer-scripts",
+      "url": "https://github.com/dnkmmr69420/nix-installer-scripts",
+      "description": "Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.",
+      "section": [
+        "Installation Media"
+      ]
+    },
+    {
+      "key": "https://github.com/DeterminateSystems/nix-installer",
+      "name": "nix-installer",
+      "url": "https://github.com/DeterminateSystems/nix-installer",
+      "description": "Opinionated alternative to the official Nix install scripts.",
+      "section": [
+        "Installation Media"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nixos-anywhere",
+      "name": "nixos-anywhere",
+      "url": "https://github.com/nix-community/nixos-anywhere",
+      "description": "Install NixOS everywhere via SSH.",
+      "section": [
+        "Installation Media"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nixos-generators",
+      "name": "nixos-generators",
+      "url": "https://github.com/nix-community/nixos-generators",
+      "description": "Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.",
+      "section": [
+        "Installation Media"
+      ]
+    },
+    {
+      "key": "https://github.com/elitak/nixos-infect",
+      "name": "nixos-infect",
+      "url": "https://github.com/elitak/nixos-infect",
+      "description": "Replace a running non-NixOS Linux host with NixOS.",
+      "section": [
+        "Installation Media"
+      ]
+    },
+    {
+      "key": "https://github.com/samuela/nixos-up",
+      "name": "nixos-up",
+      "url": "https://github.com/samuela/nixos-up",
+      "description": "Super easy NixOS installer that can be used from the installation ISO.",
+      "section": [
+        "Installation Media"
+      ]
+    },
+    {
+      "key": "https://github.com/samestep/npc",
+      "name": "npc",
+      "url": "https://github.com/samestep/npc",
+      "description": "CLI to view and bisect Nixpkgs channel history.",
+      "section": [
+        "Channel History"
+      ]
+    },
+    {
+      "key": "https://status.nixos.org",
+      "name": "Nix Infra Status",
+      "url": "https://status.nixos.org",
+      "description": "Get the age and current Git commit of each Nix channel.",
+      "section": [
+        "Channel History"
+      ]
+    },
+    {
+      "key": "https://malob.github.io/nix-review-tools-reports",
+      "name": "Nix Review Tools Reports",
+      "url": "https://malob.github.io/nix-review-tools-reports/",
+      "description": "Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.",
+      "section": [
+        "Channel History"
+      ]
+    },
+    {
+      "key": "https://nixpk.gs/pr-tracker.html",
+      "name": "nixpkgs PR tracker",
+      "url": "https://nixpk.gs/pr-tracker.html",
+      "description": "A tracker for whether a PR has made it into a channel yet.",
+      "section": [
+        "Channel History"
+      ]
+    },
+    {
+      "key": "https://github.com/rapenne-s/bento",
+      "name": "bento",
+      "url": "https://github.com/rapenne-s/bento/",
+      "description": "A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://clan.lol",
+      "name": "Clan",
+      "url": "https://clan.lol",
+      "description": "A peer-to-peer deployment tool with inbuilt support for secrets and a module system to manage distributed networks.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/colmena",
+      "name": "Colmena",
+      "url": "https://github.com/nix-community/colmena",
+      "description": "A simple, stateless NixOS deployment tool modeled after NixOps and morph.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nlewo/comin",
+      "name": "comin",
+      "url": "https://github.com/nlewo/comin",
+      "description": "A deployment tool to continuously pull from Git repositories.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/serokell/deploy-rs",
+      "name": "deploy-rs",
+      "url": "https://github.com/serokell/deploy-rs",
+      "description": "A simple multi-profile Nix-flake deploy tool.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://cgit.krebsco.de/krops/about",
+      "name": "krops",
+      "url": "https://cgit.krebsco.de/krops/about/",
+      "description": "A lightweight toolkit to deploy NixOS systems, remotely or locally.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hall/kubenix",
+      "name": "KubeNix",
+      "url": "https://github.com/hall/kubenix",
+      "description": "A Kubernetes resource builder using Nix.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/saschagrunert/kubernix",
+      "name": "KuberNix",
+      "url": "https://github.com/saschagrunert/kubernix",
+      "description": "Single-dependency Kubernetes clusters via Nix packages.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/DBCDK/morph",
+      "name": "morph",
+      "url": "https://github.com/DBCDK/morph",
+      "description": "A tool for managing existing NixOS hosts.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/tazjin/nixery",
+      "name": "Nixery",
+      "url": "https://github.com/tazjin/nixery",
+      "description": "A Docker-compatible container registry which builds images ad-hoc via Nix.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/MatthewCroughan/nixinate",
+      "name": "Nixinate",
+      "url": "https://github.com/MatthewCroughan/nixinate",
+      "description": "A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/TECHNOFAB/nixlets",
+      "name": "Nixlets",
+      "url": "https://gitlab.com/TECHNOFAB/nixlets",
+      "description": "Like Helm but using only Nix, uses Kubenix under the hood.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/NixOS/nixops",
+      "name": "NixOps",
+      "url": "https://github.com/NixOS/nixops",
+      "description": "The official Nix deployment tool, compatible with AWS, Hetzner, and more.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/arnarg/pushnix",
+      "name": "pushnix",
+      "url": "https://github.com/arnarg/pushnix",
+      "description": "Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/terraform-nixos",
+      "name": "terraform-nixos",
+      "url": "https://github.com/nix-community/terraform-nixos",
+      "description": "A set of Terraform modules designed to deploy NixOS.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://terranix.org",
+      "name": "terranix",
+      "url": "https://terranix.org",
+      "description": "Use Nix and the NixOS module system to write your Terraform code.",
+      "section": [
+        "Deployment Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/archie-judd/agent-sandbox.nix",
+      "name": "agent-sandbox.nix",
+      "url": "https://github.com/archie-judd/agent-sandbox.nix",
+      "description": "Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.",
+      "section": [
+        "Virtualisation"
+      ]
+    },
+    {
+      "key": "https://github.com/erikarvstedt/extra-container",
+      "name": "extra-container",
+      "url": "https://github.com/erikarvstedt/extra-container",
+      "description": "Run declarative NixOS containers from the command line.",
+      "section": [
+        "Virtualisation"
+      ]
+    },
+    {
+      "key": "https://github.com/microvm-nix/microvm.nix",
+      "name": "microvm",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS-based MicroVMs.",
+      "section": [
+        "Virtualisation"
+      ]
+    },
+    {
+      "key": "https://github.com/Mic92/nixos-shell",
+      "name": "nixos-shell",
+      "url": "https://github.com/Mic92/nixos-shell",
+      "description": "Simple headless VM configuration using Nix (similar to Vagrant).",
+      "section": [
+        "Virtualisation"
+      ]
+    },
+    {
+      "key": "https://github.com/kamadorueda/alejandra",
+      "name": "alejandra",
+      "url": "https://github.com/kamadorueda/alejandra",
+      "description": "An opinionated Nix code formatter optimized for speed and consistency.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/linyinfeng/angrr",
+      "name": "angrr",
+      "url": "https://github.com/linyinfeng/angrr",
+      "description": "Auto Nix GC Roots Retention. This tool simply deletes auto GC roots based on the modified time of their symbolic link target.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/comma",
+      "name": "comma",
+      "url": "https://github.com/nix-community/comma",
+      "description": "Quickly run any binary; wraps together nix run and nix-index.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/astro/deadnix",
+      "name": "deadnix",
+      "url": "https://github.com/astro/deadnix",
+      "description": "Scan Nix files for dead code.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/cachix/devenv",
+      "name": "devenv",
+      "url": "https://github.com/cachix/devenv",
+      "description": "A Nix-based tool for creating developer shell environments quickly and reproducibly.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/manic-systems/dix",
+      "name": "dix",
+      "url": "https://github.com/manic-systems/dix",
+      "description": "Diff Nix; a super-fast tool to diff Nix related things.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mlvzk/manix",
+      "name": "manix",
+      "url": "https://github.com/mlvzk/manix",
+      "description": "Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nh",
+      "name": "nh",
+      "url": "https://github.com/nix-community/nh",
+      "description": "Better output for nix, nixos-rebuild, home-manager and nix-darwin CLI leveraging dix and nix-output-monitor.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/thiagokokada/nix-alien",
+      "name": "nix-alien",
+      "url": "https://github.com/thiagokokada/nix-alien",
+      "description": "Run unpatched binaries on Nix/NixOS easily.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Gabriella439/nix-diff",
+      "name": "nix-diff",
+      "url": "https://github.com/Gabriella439/nix-diff",
+      "description": "A tool to explain why two Nix derivations differ.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/symphorien/nix-du",
+      "name": "nix-du",
+      "url": "https://github.com/symphorien/nix-du",
+      "description": "Visualise which gc-roots to delete to free some space in your Nix store.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nix-index",
+      "name": "nix-index",
+      "url": "https://github.com/nix-community/nix-index",
+      "description": "Quickly locate Nix packages with specific files.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nix-init",
+      "name": "nix-init",
+      "url": "https://github.com/nix-community/nix-init",
+      "description": "Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nix-melt",
+      "name": "nix-melt",
+      "url": "https://github.com/nix-community/nix-melt",
+      "description": "A ranger-like flake.lock viewer.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/maralorn/nix-output-monitor",
+      "name": "nix-output-monitor",
+      "url": "https://github.com/maralorn/nix-output-monitor",
+      "description": "A tool to produce useful graphs and statistics when building derivations.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/msteen/nix-prefetch",
+      "name": "nix-prefetch",
+      "url": "https://github.com/msteen/nix-prefetch",
+      "description": "A universal tool for updating source checksums.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/utdemir/nix-tree",
+      "name": "nix-tree",
+      "url": "https://github.com/utdemir/nix-tree",
+      "description": "Interactively browse the dependency graph of Nix derivations.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/NixOS/nixfmt",
+      "name": "nixfmt",
+      "url": "https://github.com/NixOS/nixfmt",
+      "description": "A formatter for Nix code, intended to easily apply a uniform style.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nixos-cli",
+      "name": "nixos-cli",
+      "url": "https://github.com/nix-community/nixos-cli",
+      "description": "Configurable all-in-one CLI for common NixOS tools with an emphasis on improved user experience.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jtojnar/nixpkgs-hammering",
+      "name": "nixpkgs-hammering",
+      "url": "https://github.com/jtojnar/nixpkgs-hammering",
+      "description": "An opinionated linter for Nixpkgs package expressions.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nurl",
+      "name": "nurl",
+      "url": "https://github.com/nix-community/nurl",
+      "description": "Generate Nix fetcher calls from repository URLs.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://git.sr.ht/~khumba/nvd",
+      "name": "nvd",
+      "url": "https://git.sr.ht/~khumba/nvd",
+      "description": "Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://git.sr.ht/~watersucks/optnix",
+      "name": "optnix",
+      "url": "https://git.sr.ht/~watersucks/optnix",
+      "description": "A terminal-based options searcher for Nix module systems.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/oppiliappan/statix",
+      "name": "statix",
+      "url": "https://github.com/oppiliappan/statix",
+      "description": "A linter/fixer to check for and fix antipatterns in Nix code.",
+      "section": [
+        "Command-Line Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hercules-ci/arion",
+      "name": "Arion",
+      "url": "https://github.com/hercules-ci/arion",
+      "description": "Run docker-compose with help from Nix/NixOS.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/zhaofengli/attic",
+      "name": "attic",
+      "url": "https://github.com/zhaofengli/attic",
+      "description": "Multi-tenant Nix Binary Cache.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/xzfc/cached-nix-shell",
+      "name": "cached-nix-shell",
+      "url": "https://github.com/xzfc/cached-nix-shell",
+      "description": "A nix-shell replacement that uses caching to open subsequent shells quickly.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://cachix.org",
+      "name": "Cachix",
+      "url": "https://www.cachix.org",
+      "description": "Hosted binary cache service; free for open-source projects.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/aksiksi/compose2nix",
+      "name": "compose2nix",
+      "url": "https://github.com/aksiksi/compose2nix",
+      "description": "Generate a NixOS config from a Docker Compose project.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://ratson.github.io/conflake",
+      "name": "Conflake",
+      "url": "https://ratson.github.io/conflake/",
+      "description": "A batteries included, autoload files, convention-based configuration framework for flake.nix.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/jetify-com/devbox",
+      "name": "Devbox",
+      "url": "https://github.com/jetify-com/devbox",
+      "description": "Instant, portable, and predictable development environments.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/numtide/devshell",
+      "name": "devshell",
+      "url": "https://github.com/numtide/devshell",
+      "description": "mkShell with extra bits and a toml config option to be able to onboard non-nix users.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/dream2nix",
+      "name": "dream2nix",
+      "url": "https://github.com/nix-community/dream2nix",
+      "description": "A framework for automatically converting packages from other build systems to Nix.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/a-kenji/flake-edit",
+      "name": "flake-edit",
+      "url": "https://github.com/a-kenji/flake-edit",
+      "description": "Edit your flake inputs with auto-follows and update functionality directly from the CLI.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/gytis-ivaskevicius/flake-utils-plus",
+      "name": "flake-utils-plus",
+      "url": "https://github.com/gytis-ivaskevicius/flake-utils-plus",
+      "description": "A lightweight Nix library flake for painless NixOS flake configuration.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/numtide/flake-utils",
+      "name": "flake-utils",
+      "url": "https://github.com/numtide/flake-utils",
+      "description": "Pure Nix flake utility functions to help with writing flakes.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/hercules-ci/flake-parts",
+      "name": "flake.parts",
+      "url": "https://github.com/hercules-ci/flake-parts",
+      "description": "Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/flakelight",
+      "name": "flakelight",
+      "url": "https://github.com/nix-community/flakelight",
+      "description": "A modular flake framework aiming to minimize boilerplate.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/flox/flox",
+      "name": "flox",
+      "url": "https://github.com/flox/flox",
+      "description": "Manage and share development environments, package projects, and publish artifacts anywhere.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/hercules-ci/gitignore.nix",
+      "name": "gitignore.nix",
+      "url": "https://github.com/hercules-ci/gitignore.nix",
+      "description": "The most feature-complete and easy-to-use .gitignore integration.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/haumea",
+      "name": "haumea",
+      "url": "https://github.com/nix-community/haumea",
+      "description": "Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/lorri",
+      "name": "lorri",
+      "url": "https://github.com/nix-community/lorri/",
+      "description": "A much better nix-shell for development that augments direnv.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nicknovitski/make-shell",
+      "name": "make-shell",
+      "url": "https://github.com/nicknovitski/make-shell",
+      "description": "mkShell meets modules, a modular almost-drop-in replacement for pkgs.mkShell function.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/utensils/mcp-nixos",
+      "name": "MCP-NixOS",
+      "url": "https://github.com/utensils/mcp-nixos",
+      "description": "An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and nix-darwin configurations.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/namaka",
+      "name": "namaka",
+      "url": "https://github.com/nix-community/namaka",
+      "description": "Snapshot testing for Nix based on haumea.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/oxalica/nil",
+      "name": "nil",
+      "url": "https://github.com/oxalica/nil",
+      "description": "NIx Language server, an incremental analysis assistent for writing in Nix.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nmattia/niv",
+      "name": "niv",
+      "url": "https://github.com/nmattia/niv/",
+      "description": "Easy dependency management for Nix projects with package pinning.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nlewo/nix2container",
+      "name": "nix2container",
+      "url": "https://github.com/nlewo/nix2container",
+      "description": "An efficient container building workflow with Nix.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nix-direnv",
+      "name": "nix-direnv",
+      "url": "https://github.com/nix-community/nix-direnv",
+      "description": "A fast loader and flake-compliant configuration for the direnv environment auto-loader.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/juspay/nix-health",
+      "name": "nix-health",
+      "url": "https://github.com/juspay/nix-health",
+      "description": "A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their flake.nix.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/Dauliac/nix-oci",
+      "name": "nix-oci",
+      "url": "https://github.com/Dauliac/nix-oci",
+      "description": "A flake-parts module for building minimal, reproducible OCI containers using nix2container.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/Mic92/nix-update",
+      "name": "nix-update",
+      "url": "https://github.com/Mic92/nix-update",
+      "description": "Update versions/source hashes of nix packages.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nixd",
+      "name": "nixd",
+      "url": "https://github.com/nix-community/nixd",
+      "description": "Nix language server, based on Nix libraries.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/Mic92/nixpkgs-review",
+      "name": "nixpkgs-review",
+      "url": "https://github.com/Mic92/nixpkgs-review",
+      "description": "The best tool to verify that a pull-request in Nixpkgs is building properly.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/TECHNOFAB/nixtest",
+      "name": "Nixtest",
+      "url": "https://gitlab.com/TECHNOFAB/nixtest",
+      "description": "Testing framework for Nix, with snapshot and unit test support, JUnit generation etc.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/andir/npins",
+      "name": "npins",
+      "url": "https://github.com/andir/npins",
+      "description": "A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/jpetrucciani/pog",
+      "name": "pog",
+      "url": "https://github.com/jpetrucciani/pog",
+      "description": "A new, powerful way to do bash scripts. Pog is a powerful Nix library that transforms the way developers create command-line interfaces (CLIs).",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/cachix/git-hooks.nix",
+      "name": "pre-commit-hooks.nix",
+      "url": "https://github.com/cachix/git-hooks.nix",
+      "description": "Run linters/formatters at commit time and on your CI.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/rnix-lsp",
+      "name": "rnix-lsp",
+      "url": "https://github.com/nix-community/rnix-lsp",
+      "description": "A syntax-checking language server for Nix.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/robotnix",
+      "name": "robotnix",
+      "url": "https://github.com/nix-community/robotnix",
+      "description": "A declarative and reproducible build system for Android (AOSP) images.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/juspay/services-flake",
+      "name": "services-flake",
+      "url": "https://github.com/juspay/services-flake",
+      "description": "A NixOS-like service configuration framework for Nix flakes.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/snowfallorg/lib",
+      "name": "Snowfall Lib",
+      "url": "https://github.com/snowfallorg/lib",
+      "description": "A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/templates",
+      "name": "templates",
+      "url": "https://github.com/nix-community/templates",
+      "description": "Project templates for many languages using Nix flakes.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/numtide/treefmt-nix",
+      "name": "treefmt-nix",
+      "url": "https://github.com/numtide/treefmt-nix",
+      "description": "A formatter that allows formatting all your project files with a single command, all via a single .nix file.",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/TECHNOFAB/nix-gitlab-ci",
+      "name": "Nix GitLab CI",
+      "url": "https://gitlab.com/TECHNOFAB/nix-gitlab-ci",
+      "description": "Define GitLab CI pipelines in pure Nix with full access to all Nix packages (incl. caching).",
+      "section": [
+        "DevOps"
+      ]
+    },
+    {
+      "key": "https://github.com/arnarg/nixidy",
+      "name": "nixidy",
+      "url": "https://github.com/arnarg/nixidy",
+      "description": "Kubernetes GitOps with Nix and Argo CD.",
+      "section": [
+        "DevOps"
+      ]
+    },
+    {
+      "key": "https://github.com/divnix/std",
+      "name": "Standard",
+      "url": "https://github.com/divnix/std",
+      "description": "An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.",
+      "section": [
+        "DevOps"
+      ]
+    },
+    {
+      "key": "https://github.com/boredom101/nixduino",
+      "name": "nixduino",
+      "url": "https://github.com/boredom101/nixduino",
+      "description": "Nix-based tool to help build Arduino sketches.",
+      "section": [
+        "Programming Languages",
+        "Arduino"
+      ]
+    },
+    {
+      "key": "https://github.com/jlesquembre/clj-nix",
+      "name": "clj-nix",
+      "url": "https://github.com/jlesquembre/clj-nix",
+      "description": "Nix helper functions for Clojure projects.",
+      "section": [
+        "Programming Languages",
+        "Clojure"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/crystal2nix",
+      "name": "crystal2nix",
+      "url": "https://github.com/nix-community/crystal2nix",
+      "description": "Convert shard.lock into Nix expressions.",
+      "section": [
+        "Programming Languages",
+        "Crystal"
+      ]
+    },
+    {
+      "key": "https://github.com/code-supply/deps_nix",
+      "name": "deps_nix",
+      "url": "https://github.com/code-supply/deps_nix",
+      "description": "Converts Mix dependencies to Nix derivations.",
+      "section": [
+        "Programming Languages",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/cachix/elm2nix",
+      "name": "elm2nix",
+      "url": "https://github.com/cachix/elm2nix",
+      "description": "Convert elm.json into Nix expressions.",
+      "section": [
+        "Programming Languages",
+        "Elm"
+      ]
+    },
+    {
+      "key": "https://github.com/arnarg/nix-gleam",
+      "name": "nix-gleam",
+      "url": "https://github.com/arnarg/nix-gleam",
+      "description": "Generic Nix builder for Gleam applications.",
+      "section": [
+        "Programming Languages",
+        "Gleam"
+      ]
+    },
+    {
+      "key": "https://github.com/NixOS/cabal2nix",
+      "name": "cabal2nix",
+      "url": "https://github.com/NixOS/cabal2nix",
+      "description": "Converts a Cabal file into a Nix build expression.",
+      "section": [
+        "Programming Languages",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/srid/haskell-flake",
+      "name": "haskell-flake",
+      "url": "https://github.com/srid/haskell-flake",
+      "description": "A flake-parts Nix module for Haskell development.",
+      "section": [
+        "Programming Languages",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/input-output-hk/haskell.nix",
+      "name": "haskell.nix",
+      "url": "https://github.com/input-output-hk/haskell.nix",
+      "description": "Alternative Haskell Infrastructure for Nixpkgs.",
+      "section": [
+        "Programming Languages",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/matthewbauer/nix-haskell-mode",
+      "name": "nix-haskell-mode",
+      "url": "https://github.com/matthewbauer/nix-haskell-mode",
+      "description": "Automatic Haskell setup in Emacs.",
+      "section": [
+        "Programming Languages",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/pwm/nixkell",
+      "name": "nixkell",
+      "url": "https://github.com/pwm/nixkell",
+      "description": "A Haskell project template using Nix and direnv.",
+      "section": [
+        "Programming Languages",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/MadMcCrow/haxix",
+      "name": "haxix",
+      "url": "https://github.com/MadMcCrow/haxix",
+      "description": "Nix flake to build haxe/Heaps.io projects.",
+      "section": [
+        "Programming Languages",
+        "Haxe"
+      ]
+    },
+    {
+      "key": "https://github.com/bwkam/kebab",
+      "name": "kebab",
+      "url": "https://github.com/bwkam/kebab",
+      "description": "Haxe packages for Nix.",
+      "section": [
+        "Programming Languages",
+        "Haxe"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/aniva/Manifest2Nix.jl",
+      "name": "Manifest2Nix.jl",
+      "url": "https://codeberg.org/aniva/Manifest2Nix.jl",
+      "description": "A Nix library for creating reproducible Julia builds and experiments via precompilation.",
+      "section": [
+        "Programming Languages",
+        "Julia"
+      ]
+    },
+    {
+      "key": "https://github.com/lenianiva/lean4-nix",
+      "name": "lean4-nix",
+      "url": "https://github.com/lenianiva/lean4-nix",
+      "description": "Nix flake build for Lean 4, and lake2nix.",
+      "section": [
+        "Programming Languages",
+        "Lean"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/napalm",
+      "name": "Napalm",
+      "url": "https://github.com/nix-community/napalm",
+      "description": "Support for building npm packages in Nix with a lightweight npm registry.",
+      "section": [
+        "Programming Languages",
+        "Node.js"
+      ]
+    },
+    {
+      "key": "https://github.com/svanderburg/node2nix",
+      "name": "node2nix",
+      "url": "https://github.com/svanderburg/node2nix",
+      "description": "Generate Nix expression from a package.json (or package-lock.json) (to be stored as files).",
+      "section": [
+        "Programming Languages",
+        "Node.js"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/npmlock2nix",
+      "name": "npmlock2nix",
+      "url": "https://github.com/nix-community/npmlock2nix",
+      "description": "Generate Nix expressions from a package-lock.json (in-memory), primarily for web projects.",
+      "section": [
+        "Programming Languages",
+        "Node.js"
+      ]
+    },
+    {
+      "key": "https://github.com/timbertson/opam2nix",
+      "name": "opam2nix",
+      "url": "https://github.com/timbertson/opam2nix",
+      "description": "Generate Nix expressions from opam packages.",
+      "section": [
+        "Programming Languages",
+        "OCaml"
+      ]
+    },
+    {
+      "key": "https://github.com/stephank/composer-plugin-nixify",
+      "name": "composer-plugin-nixify",
+      "url": "https://github.com/stephank/composer-plugin-nixify",
+      "description": "Composer plugin to help with Nix packaging.",
+      "section": [
+        "Programming Languages",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/svanderburg/composer2nix",
+      "name": "composer2nix",
+      "url": "https://github.com/svanderburg/composer2nix",
+      "description": "Generate Nix expressions to build composer packages.",
+      "section": [
+        "Programming Languages",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/fossar/composition-c4",
+      "name": "composition-c4",
+      "url": "https://github.com/fossar/composition-c4",
+      "description": "Support for building composer packages from a composer.lock (using IFD).",
+      "section": [
+        "Programming Languages",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/fossar/nix-phps",
+      "name": "nix-phps",
+      "url": "https://github.com/fossar/nix-phps",
+      "description": "Flake containing old and unmaintained PHP versions (intended for CI use).",
+      "section": [
+        "Programming Languages",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/loophp/nix-shell",
+      "name": "nix-shell",
+      "url": "https://github.com/loophp/nix-shell/",
+      "description": "Nix shells for PHP development.",
+      "section": [
+        "Programming Languages",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/justinwoo/easy-purescript-nix",
+      "name": "Easy PureScript Nix",
+      "url": "https://github.com/justinwoo/easy-purescript-nix",
+      "description": "A project to easily use PureScript and other tools with Nix.",
+      "section": [
+        "Programming Languages",
+        "PureScript"
+      ]
+    },
+    {
+      "key": "https://github.com/purs-nix/purs-nix",
+      "name": "purs-nix",
+      "url": "https://github.com/purs-nix/purs-nix",
+      "description": "CLI and library combo designed for managing PureScript projects using Nix. It provides a Nix API that can be used within your projects, as well as a command-line interface for managing your development process.",
+      "section": [
+        "Programming Languages",
+        "PureScript"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/poetry2nix",
+      "name": "poetry2nix",
+      "url": "https://github.com/nix-community/poetry2nix",
+      "description": "Build Python packages directly from Poetry's poetry.lock. No conversion step needed.",
+      "section": [
+        "Programming Languages",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/pyproject-nix/uv2nix",
+      "name": "uv2nix",
+      "url": "https://github.com/pyproject-nix/uv2nix",
+      "description": "Convert uv workspaces into pure Nix derivations.",
+      "section": [
+        "Programming Languages",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/bundix",
+      "name": "Bundix",
+      "url": "https://github.com/nix-community/bundix",
+      "description": "Generates a Nix expression for your Bundler-managed application.",
+      "section": [
+        "Programming Languages",
+        "Ruby"
+      ]
+    },
+    {
+      "key": "https://github.com/inscapist/ruby-nix",
+      "name": "ruby-nix",
+      "url": "https://github.com/inscapist/ruby-nix",
+      "description": "Generates reproducible ruby/bundler app environment with Nix.",
+      "section": [
+        "Programming Languages",
+        "Ruby"
+      ]
+    },
+    {
+      "key": "https://github.com/cargo2nix/cargo2nix",
+      "name": "cargo2nix",
+      "url": "https://github.com/cargo2nix/cargo2nix",
+      "description": "Granular caching, development shell, Nix & Rust integration.",
+      "section": [
+        "Programming Languages",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/ipetkov/crane",
+      "name": "crane",
+      "url": "https://github.com/ipetkov/crane",
+      "description": "A Nix library for building Cargo projects with incremental artifact caching.",
+      "section": [
+        "Programming Languages",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/fenix",
+      "name": "fenix",
+      "url": "https://github.com/nix-community/fenix",
+      "description": "Rust toolchains and Rust analyzer nightly for nix.",
+      "section": [
+        "Programming Languages",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/naersk",
+      "name": "naersk",
+      "url": "https://github.com/nix-community/naersk",
+      "description": "Build Rust packages directly from Cargo.lock. No conversion step needed.",
+      "section": [
+        "Programming Languages",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/90-008/nix-cargo-integration",
+      "name": "nix-cargo-integration",
+      "url": "https://github.com/90-008/nix-cargo-integration",
+      "description": "A library that allows easy and effortless integration for Cargo projects.",
+      "section": [
+        "Programming Languages",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/90-008/rust-nix-templater",
+      "name": "rust-nix-templater",
+      "url": "https://github.com/90-008/rust-nix-templater",
+      "description": "Generates Nix build and development files for Rust projects.",
+      "section": [
+        "Programming Languages",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/zaninime/sbt-derivation",
+      "name": "sbt-derivation",
+      "url": "https://github.com/zaninime/sbt-derivation",
+      "description": "mkDerivation for sbt, similar to buildGoModule.",
+      "section": [
+        "Programming Languages",
+        "Scala"
+      ]
+    },
+    {
+      "key": "https://github.com/Cloudef/zig2nix",
+      "name": "zig2nix",
+      "url": "https://github.com/Cloudef/zig2nix",
+      "description": "Flake for packaging, building and running Zig projects.",
+      "section": [
+        "Programming Languages",
+        "Zig"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/zon2nix",
+      "name": "zon2nix",
+      "url": "https://github.com/nix-community/zon2nix",
+      "description": "Convert the dependencies in build.zig.zon to a Nix expression.",
+      "section": [
+        "Programming Languages",
+        "Zig"
+      ]
+    },
+    {
+      "key": "https://github.com/SenchoPens/base16.nix",
+      "name": "base16.nix",
+      "url": "https://github.com/SenchoPens/base16.nix",
+      "description": "Flake way to theme programs in base16 colorschemes, mustache template support included.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/home-manager",
+      "name": "Home Manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage your user configuration just like NixOS.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/impermanence",
+      "name": "impermanence",
+      "url": "https://github.com/nix-community/impermanence",
+      "description": "Lets you choose what files and directories you want to keep between reboots.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/musnix/musnix",
+      "name": "musnix",
+      "url": "https://github.com/musnix/musnix",
+      "description": "Do real-time audio work in NixOS.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/fort-nix/nix-bitcoin",
+      "name": "nix-bitcoin",
+      "url": "https://github.com/fort-nix/nix-bitcoin",
+      "description": "Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-darwin/nix-darwin",
+      "name": "nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage macOS configuration just like on NixOS.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/cynicsketch/nix-mineral",
+      "name": "nix-mineral",
+      "url": "https://github.com/cynicsketch/nix-mineral",
+      "description": "Conveniently and reasonably harden NixOS.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/oddlama/nix-topology",
+      "name": "nix-topology",
+      "url": "https://github.com/oddlama/nix-topology",
+      "description": "Generate infrastructure and network diagrams directly from your NixOS configuration.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/NixOS/nixos-hardware",
+      "name": "NixOS hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "NixOS profiles to optimize settings for different hardware.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/NixOS-WSL",
+      "name": "NixOS-WSL",
+      "url": "https://github.com/nix-community/NixOS-WSL",
+      "description": "Modules for running NixOS on the Windows Subsystem for Linux.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nixvim",
+      "name": "Nixvim",
+      "url": "https://github.com/nix-community/nixvim",
+      "description": "A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/NotAShelf/nvf",
+      "name": "nvf",
+      "url": "https://github.com/NotAShelf/nvf",
+      "description": "A portable, modular Neovim configuration framework for Nix.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/ibizaman/selfhostblocks",
+      "name": "Self Host Blocks",
+      "url": "https://github.com/ibizaman/selfhostblocks",
+      "description": "Modular server management based on NixOS modules and focused on best practices.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver",
+      "name": "Simple Nixos Mailserver",
+      "url": "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver",
+      "description": "A complete mailserver, managed with NixOS modules.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/stylix",
+      "name": "Stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "System-wide colorscheming and typography for NixOS.",
+      "section": [
+        "NixOS Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/snowfallorg/nix-software-center",
+      "name": "Nix Software Center",
+      "url": "https://github.com/snowfallorg/nix-software-center",
+      "description": "Install and manage Nix packages. Desktop app in Rust and GTK.",
+      "section": [
+        "NixOS Configuration Editors",
+        "Desktop apps"
+      ]
+    },
+    {
+      "key": "https://github.com/snowfallorg/nixos-conf-editor",
+      "name": "NixOS Configuration Editor",
+      "url": "https://github.com/snowfallorg/nixos-conf-editor",
+      "description": "Graphical editor for NixOS configuration. Desktop app in Rust and GTK.",
+      "section": [
+        "NixOS Configuration Editors",
+        "Desktop apps"
+      ]
+    },
+    {
+      "key": "https://mynixos.com",
+      "name": "MyNixOS",
+      "url": "https://mynixos.com/",
+      "description": "Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.",
+      "section": [
+        "NixOS Configuration Editors",
+        "Webinterface"
+      ]
+    },
+    {
+      "key": "https://github.com/freuk/awesome-nix-hpc",
+      "name": "awesome-nix-hpc",
+      "url": "https://github.com/freuk/awesome-nix-hpc",
+      "description": "High Performance Computing package sets.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/neovim-nightly-overlay",
+      "name": "neovim-nightly-overlay",
+      "url": "https://github.com/nix-community/neovim-nightly-overlay",
+      "description": "Daily bumped Neovim nightly package.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/bandithedoge/nixpkgs-firefox-darwin",
+      "name": "nixpkgs-firefox-darwin",
+      "url": "https://github.com/bandithedoge/nixpkgs-firefox-darwin",
+      "description": "Automatically updated Firefox binary packages for macOS.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/mozilla/nixpkgs-mozilla",
+      "name": "nixpkgs-mozilla",
+      "url": "https://github.com/mozilla/nixpkgs-mozilla",
+      "description": "Mozilla's overlay with Rust toolchains and Firefox.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/nixpkgs-wayland",
+      "name": "nixpkgs-wayland",
+      "url": "https://github.com/nix-community/nixpkgs-wayland",
+      "description": "Bleeding-edge Wayland packages.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/NUR",
+      "name": "NUR",
+      "url": "https://github.com/nix-community/NUR/",
+      "description": "Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/oxalica/rust-overlay",
+      "name": "rust-overlay",
+      "url": "https://github.com/oxalica/rust-overlay",
+      "description": "Pure and reproducible nix overlay of binary distributed Rust toolchains.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/numtide/system-manager",
+      "name": "System Manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "A non-NixOS Linux system configuration tool built on Nix.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/mitchellh/zig-overlay",
+      "name": "zig-overlay",
+      "url": "https://github.com/mitchellh/zig-overlay",
+      "description": "A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.",
+      "section": [
+        "Overlays"
+      ]
+    },
+    {
+      "key": "https://github.com/nixos-bsd/nixbsd",
+      "name": "nixbsd",
+      "url": "https://github.com/nixos-bsd/nixbsd",
+      "description": "A NixOS fork with a FreeBSD kernel.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://github.com/nix-community/NixNG",
+      "name": "NixNG",
+      "url": "https://github.com/nix-community/NixNG",
+      "description": "A GNU/Linux distribution similar to NixOS. The defining difference is a focus on containers and lightweightness.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://snowflakeos.org",
+      "name": "SnowflakeOS",
+      "url": "https://snowflakeos.org/",
+      "description": "A NixOS-based Linux distribution focused on beginner friendliness and ease of use.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://matrix.to",
+      "name": "#nix:nixos.org",
+      "url": "https://matrix.to/#/#nix:nixos.org",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://web.libera.chat?nick=Guest?",
+      "name": "#nixos on Libera.Chat",
+      "url": "https://web.libera.chat/?nick=Guest?#nixos",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://discord.com/invite/BMUCQx6",
+      "name": "Discord - Nix/Nixos (Unofficial)",
+      "url": "https://discord.com/invite/BMUCQx6",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://discourse.nixos.org",
+      "name": "Discourse",
+      "url": "https://discourse.nixos.org/",
+      "description": "The best place to get help and discuss Nix-related topics.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://nixcon.org",
+      "name": "NixCon",
+      "url": "https://nixcon.org/",
+      "description": "The annual community conference for contributors and users of Nix and NixOS.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://wiki.nixos.org/wiki/Main_Page",
+      "name": "Wiki (Official)",
+      "url": "https://wiki.nixos.org/wiki/Main_Page",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://nixos.wiki/wiki/Main_Page",
+      "name": "Wiki (Unofficial)",
+      "url": "https://nixos.wiki/wiki/Main_Page",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "etag": "W/\"ec2a96dc8a59df29e38b73da6d76121609507d343591cc03b93e453864d78504\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://openai.com/research/whisper",
+      "name": "Introduction",
+      "url": "https://openai.com/research/whisper",
+      "description": "",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://github.com/openai/whisper",
+      "name": "Source code",
+      "url": "https://github.com/openai/whisper",
+      "description": "",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://cdn.openai.com/papers/whisper.pdf",
+      "name": "White paper",
+      "url": "https://cdn.openai.com/papers/whisper.pdf",
+      "description": "",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://github.com/ggerganov/whisper.cpp",
+      "name": "Bindings for many languages",
+      "url": "https://github.com/ggerganov/whisper.cpp#bindings",
+      "description": "",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://github.com/m-bain/whisperX",
+      "name": "WhisperX",
+      "url": "https://github.com/m-bain/whisperX",
+      "description": "Adds fast automatic speaker recognition with word-level timestamps and speaker diarization.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://github.com/guillaumekln/faster-whisper",
+      "name": "faster-whisper",
+      "url": "https://github.com/guillaumekln/faster-whisper",
+      "description": "Faster reimplementation of Whisper using CTranslate2.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://github.com/sanchit-gandhi/whisper-jax",
+      "name": "Whisper JAX",
+      "url": "https://github.com/sanchit-gandhi/whisper-jax",
+      "description": "JAX implementation of Whisper for up to 70x speed-up on TPU.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://github.com/linto-ai/whisper-timestamped",
+      "name": "whisper-timestamped",
+      "url": "https://github.com/linto-ai/whisper-timestamped",
+      "description": "Adds word-level timestamps and confidence scores.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://github.com/zhuzilin/whisper-openvino",
+      "name": "whisper-openvino",
+      "url": "https://github.com/zhuzilin/whisper-openvino",
+      "description": "Whisper running on OpenVINO.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://github.com/usefulsensors/openai-whisper",
+      "name": "whisper.tflite",
+      "url": "https://github.com/usefulsensors/openai-whisper",
+      "description": "Whisper running on TensorFlow Lite.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://huggingface.co/models?other=whisper",
+      "name": "Whisper variants",
+      "url": "https://huggingface.co/models?other=whisper",
+      "description": "Various Whisper variants on Hugging Faces.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://github.com/YuanGongND/whisper-at",
+      "name": "Whisper-AT",
+      "url": "https://github.com/YuanGongND/whisper-at",
+      "description": "Whisper that can recognize non-speech audio events in addition to speech.",
+      "section": [
+        "Model variants"
+      ]
+    },
+    {
+      "key": "https://sindresorhus.com/aiko",
+      "name": "Aiko",
+      "url": "https://sindresorhus.com/aiko",
+      "description": "Audio transcription iOS and macOS app.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://goodsnooze.gumroad.com/l/macwhisper",
+      "name": "MacWhisper",
+      "url": "https://goodsnooze.gumroad.com/l/macwhisper",
+      "description": "Audio transcription macOS app. (Freemium)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://apps.apple.com/app/id6443658039",
+      "name": "Whisper Memos",
+      "url": "https://apps.apple.com/app/id6443658039",
+      "description": "Audio transcription iOS app. (Freemium)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://apps.apple.com/app/id1671616134",
+      "name": "FourYou",
+      "url": "https://apps.apple.com/app/id1671616134",
+      "description": "Audio journal iOS app.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://apps.apple.com/app/id1659864300",
+      "name": "Jojo Transcribe",
+      "url": "https://apps.apple.com/app/id1659864300",
+      "description": "Audio transcription macOS app.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/chidiwilliams/Buzz",
+      "name": "Buzz",
+      "url": "https://github.com/chidiwilliams/Buzz",
+      "description": "Audio transcription and translation macOS app.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://store.getwavery.com/l/whisperscript",
+      "name": "WhisperScript",
+      "url": "https://store.getwavery.com/l/whisperscript",
+      "description": "Audio transcription macOS app. (Freemium · Electron)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://apps.apple.com/app/id6449008295",
+      "name": "Audio Podium",
+      "url": "https://apps.apple.com/app/id6449008295",
+      "description": "Audio/video management macOS app.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://superwhisper.com",
+      "name": "superwhisper",
+      "url": "https://superwhisper.com",
+      "description": "Global audio transcription macOS menu bar app.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/TypeWhisper/typewhisper-mac",
+      "name": "TypeWhisper",
+      "url": "https://github.com/TypeWhisper/typewhisper-mac",
+      "description": "Local speech-to-text transcription for macOS and Windows with system-wide dictation.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/mkiol/dsnote",
+      "name": "Speech Note",
+      "url": "https://github.com/mkiol/dsnote",
+      "description": "Audio transcription Linux app.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://fridaygpt.app",
+      "name": "FridayGPT",
+      "url": "https://www.fridaygpt.app",
+      "description": "Dictation macOS app powered by OpenAI API.",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://easywhisper.io",
+      "name": "EasyWhisper",
+      "url": "https://easywhisper.io",
+      "description": "Windows and macOS app for audio transcription and speaker diarization. (Freemium)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://audionote.app",
+      "name": "Audio Note",
+      "url": "https://audionote.app",
+      "description": "Real-time audio transcription on macOS and Windows. (Freemium · Electron)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/woheller69/whisperIME",
+      "name": "Whisper",
+      "url": "https://github.com/woheller69/whisperIME",
+      "description": "Android app for transcription and translation. (FOSS)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Beingpax/VoiceInk",
+      "name": "VoiceInk",
+      "url": "https://github.com/Beingpax/VoiceInk",
+      "description": "Dictation and transcription macOS app. (FOSS)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/heyito/ito",
+      "name": "Ito AI",
+      "url": "https://github.com/heyito/ito",
+      "description": "AI voice dictation for Mac. (FOSS)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Starmel/OpenSuperWhisper",
+      "name": "OpenSuperWhisper",
+      "url": "https://github.com/Starmel/OpenSuperWhisper",
+      "description": "Dictation app for macOS. (FOSS)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://screenpi.pe",
+      "name": "Screenpipe",
+      "url": "https://screenpi.pe",
+      "description": "24/7 local screen and audio recording with AI search. (FOSS)",
+      "section": [
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://bigwav.app",
+      "name": "bigWav",
+      "url": "https://bigwav.app",
+      "description": "Audio transcription and annotation tool.",
+      "section": [
+        "Web apps",
+        "Hosted"
+      ]
+    },
+    {
+      "key": "https://freepodcasttranscription.com",
+      "name": "Free Podcast Transcription",
+      "url": "https://freepodcasttranscription.com",
+      "description": "Runs locally in your browser.",
+      "section": [
+        "Web apps",
+        "Hosted"
+      ]
+    },
+    {
+      "key": "https://gladia.io",
+      "name": "Gladia",
+      "url": "https://www.gladia.io",
+      "description": "Transcription with real-time processing.",
+      "section": [
+        "Web apps",
+        "Hosted"
+      ]
+    },
+    {
+      "key": "https://github.com/PierreMesure/whisper-web",
+      "name": "Whisper-Web",
+      "url": "https://github.com/PierreMesure/whisper-web",
+      "description": "Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)",
+      "section": [
+        "Web apps",
+        "Hosted"
+      ]
+    },
+    {
+      "key": "https://github.com/abdeladim-s/subsai",
+      "name": "Subs AI",
+      "url": "https://github.com/abdeladim-s/subsai",
+      "description": "Subtitle generation.",
+      "section": [
+        "Web apps",
+        "Self-hosted"
+      ]
+    },
+    {
+      "key": "https://github.com/schibsted/WAAS",
+      "name": "WaaS",
+      "url": "https://github.com/schibsted/WAAS",
+      "description": "GUI and API for Whisper.",
+      "section": [
+        "Web apps",
+        "Self-hosted"
+      ]
+    },
+    {
+      "key": "https://github.com/beyondcode/writeout.ai",
+      "name": "writeout.ai",
+      "url": "https://github.com/beyondcode/writeout.ai",
+      "description": "Laravel app to transcribe and translate audio files.",
+      "section": [
+        "Web apps",
+        "Self-hosted"
+      ]
+    },
+    {
+      "key": "https://github.com/pas1ko/meeper",
+      "name": "Meeper",
+      "url": "https://github.com/pas1ko/meeper",
+      "description": "Transcriptions, summary and more for meetings and any browser tab. (Chrome app)",
+      "section": [
+        "Web apps",
+        "Self-hosted"
+      ]
+    },
+    {
+      "key": "https://github.com/m1guelpf/yt-whisper",
+      "name": "yt-whisper",
+      "url": "https://github.com/m1guelpf/yt-whisper",
+      "description": "YouTube subtitle generation.",
+      "section": [
+        "CLI tools"
+      ]
+    },
+    {
+      "key": "https://github.com/platisd/phonix",
+      "name": "phonix",
+      "url": "https://github.com/platisd/phonix",
+      "description": "Generate captions for videos.",
+      "section": [
+        "CLI tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Purfview/whisper-standalone-win",
+      "name": "whisper-standalone-win",
+      "url": "https://github.com/Purfview/whisper-standalone-win",
+      "description": "Standalone Windows executable for Whisper and Faster Whisper.",
+      "section": [
+        "CLI tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Softcatala/whisper-ctranslate2",
+      "name": "whisper-ctranslate2",
+      "url": "https://github.com/Softcatala/whisper-ctranslate2",
+      "description": "Whisper command-line tool based on CTranslate2, compatible with the original.",
+      "section": [
+        "CLI tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ochen1/insanely-fast-whisper-cli",
+      "name": "insanely-fast-whisper-cli",
+      "url": "https://github.com/ochen1/insanely-fast-whisper-cli",
+      "description": "Achieve transcription speeds near 30x real-time with several optimizations.",
+      "section": [
+        "CLI tools"
+      ]
+    },
+    {
+      "key": "https://github.com/MahmoudAshraf97/whisper-diarization",
+      "name": "whisper-diarization",
+      "url": "https://github.com/MahmoudAshraf97/whisper-diarization",
+      "description": "Automatic speech recognition with speaker diarization.",
+      "section": [
+        "CLI tools"
+      ]
+    },
+    {
+      "key": "https://github.com/primaprashant/hns",
+      "name": "hns",
+      "url": "https://github.com/primaprashant/hns",
+      "description": "On-device speech-to-text CLI using faster-whisper with automatic clipboard copy.",
+      "section": [
+        "CLI tools"
+      ]
+    },
+    {
+      "key": "https://huggingface.co/spaces/openai/whisper",
+      "name": "Hugging Faces",
+      "url": "https://huggingface.co/spaces/openai/whisper",
+      "description": "Whisper demo running on Hugging Faces. (Source)",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://whisperui.monsterapi.ai",
+      "name": "Monster API",
+      "url": "https://whisperui.monsterapi.ai",
+      "description": "Whisper demo running on Monster API. (Source)",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://whisper.r3d.red",
+      "name": "Web Whisper",
+      "url": "https://whisper.r3d.red",
+      "description": "Whisper demo by Pluja. (Source)",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/ArthurFDLR/whisper-youtube",
+      "name": "YouTube Video Transcription",
+      "url": "https://github.com/ArthurFDLR/whisper-youtube",
+      "description": "Running on Colab.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/chengsokdara/use-whisper",
+      "name": "use-whisper",
+      "url": "https://github.com/chengsokdara/use-whisper",
+      "description": "React hook.",
+      "section": [
+        "Packages",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future",
+      "name": "Whispers of A.I.'s Modular Future",
+      "url": "https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future",
+      "description": "The future of machine learning lies in adaptable and accessible open-source speech-transcription programs.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model",
+      "name": "How to Run Whisper Speech Recognition Model",
+      "url": "https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/",
+      "description": "Explains how to install and run the model, as well as providing a performance analysis comparing Whisper to other models.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://blog.paperspace.com/whisper-openai-flask-application-deployment",
+      "name": "Create your own speech to text app using Flask",
+      "url": "https://blog.paperspace.com/whisper-openai-flask-application-deployment/",
+      "description": "The tutorial demonstrates Whisper's speech-to-text model, with a demo on running it in a Gradient Notebook and a guide for setting up a Flask app with Gradient Deployments.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://betterprogramming.pub/openais-whisper-tutorial-42140dd696ee",
+      "name": "Convert Podcasts to Text",
+      "url": "https://betterprogramming.pub/openais-whisper-tutorial-42140dd696ee",
+      "description": "Tutorial on the Whisper API with Python for speech-to-text transcription, showcasing GPU's faster transcription and advanced technology.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=OCBZtgQGt1I",
+      "name": "Open AI's Whisper is Amazing!",
+      "url": "https://www.youtube.com/watch?v=OCBZtgQGt1I",
+      "description": "Introduction to Whisper.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=msj3wuYf3d8",
+      "name": "How to do Free Speech-to-Text Transcription Better Than Google Premium API",
+      "url": "https://www.youtube.com/watch?v=msj3wuYf3d8",
+      "description": "Tutorial.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ywIyc8l1K1Q",
+      "name": "Multilingual AI Speech Recognition Live App",
+      "url": "https://www.youtube.com/watch?v=ywIyc8l1K1Q",
+      "description": "Tutorial.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://github.com/openai/whisper/discussions",
+      "name": "Discussions",
+      "url": "https://github.com/openai/whisper/discussions",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://discord.com/invite/openai",
+      "name": "Discord",
+      "url": "https://discord.com/invite/openai",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://oneai.com/speech-to-text",
+      "name": "Whisper+",
+      "url": "https://www.oneai.com/speech-to-text",
+      "description": "Extension of the Whisper model which adds powerful features such as speaker identification custom vocabulary, summarization, and chapter generation.",
+      "section": [
+        "Third-party APIs"
+      ]
+    },
+    {
+      "key": "https://replicate.com/openai/whisper",
+      "name": "Replicate",
+      "url": "https://replicate.com/openai/whisper",
+      "description": "Use Whisper running on Replicate.",
+      "section": [
+        "Third-party APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/awesome-chatgpt",
+      "name": "awesome-chatgpt",
+      "url": "https://github.com/sindresorhus/awesome-chatgpt",
+      "description": "ChatGPT resources.",
+      "section": [
+        "Related lists"
+      ]
+    }
+  ]
+}

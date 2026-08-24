@@ -1,0 +1,434 @@
+{
+  "etag": "W/\"2457cc9607fba6aac6199cc276ce4cdc2b5cc79a89d2dc9e4db13e14b8a2e15e\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://codepoints.net/box_drawing",
+      "name": "Box Drawing",
+      "url": "https://codepoints.net/box_drawing",
+      "description": "(U+2500 to U+257F) and Block Elements (U+2580 to U+259F) cover most of your monospace command-line visualization needs. ╭───────╮ │Unicode│ │rules! │ ╰┬─────┬╯",
+      "section": [
+        "Standalone Code Points"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2E2E",
+      "name": "U+2E2E",
+      "url": "https://codepoints.net/U+2E2E",
+      "description": "REVERSED QUESTION MARK - the “irony mark” to express irony/sarcasm. A useful character⸮",
+      "section": [
+        "Standalone Code Points"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+D800",
+      "name": "U+D800",
+      "url": "https://codepoints.net/U+D800",
+      "description": "to U+DFFF - surrogate code points. They are only reserved to ease UTF-16 encoding.",
+      "section": [
+        "Standalone Code Points"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+FEFF",
+      "name": "U+FEFF",
+      "url": "https://codepoints.net/U+FEFF",
+      "description": "ZERO WIDTH NO-BREAK SPACE - it’s name suggests, that it can be used like U+2060 WORD JOINER. And in fact the latter was introduced to inherit its semantics. This is because U+FEFF had become a special beacon called the byte order mark, that was placed on the beginning of some UTF-8 files. In complying software (including many text editors) this character is stripped from the start of a file and handled as metadata. In non-complying software (like the PHP interpreter) this leads to all sorts of fun behaviour.",
+      "section": [
+        "Standalone Code Points"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+FFFD",
+      "name": "U+FFFD",
+      "url": "https://codepoints.net/U+FFFD",
+      "description": "REPLACEMENT CHARACTER - when a character cannot be displayed (e.g., decoding an erroneous UTF-8 sequency), this code point steps into the breach.",
+      "section": [
+        "Standalone Code Points"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1D455",
+      "name": "U+1D455",
+      "url": "https://codepoints.net/U+1D455",
+      "description": "is missing. It would be an italic small “h”. It was not encoded, because it would be identical to the Planck constant ℎ (U+210E).",
+      "section": [
+        "Standalone Code Points"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+FF03",
+      "name": "U+FF03",
+      "url": "https://codepoints.net/U+FF03",
+      "description": "FULLWIDTH NUMBER SIGN - it is the \"Japanese Hashtag\" ＃. Sites like Twitter accept it as equivalent to the regular # (U+0023).",
+      "section": [
+        "Standalone Code Points"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+202D",
+      "name": "U+202D",
+      "url": "https://codepoints.net/U+202D",
+      "description": "and U+202E - change the text direction. Relevant XKCD:",
+      "section": [
+        "Code Points that Affect Others"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+FE0E",
+      "name": "U+FE0E",
+      "url": "https://codepoints.net/U+FE0E",
+      "description": "VARIATION SELECTOR-15 - force black-&-white emoji. If this code point follows an emoji, an explicit monochrome rendering of the emoji is requested (if the client supports it).",
+      "section": [
+        "Code Points that Affect Others"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+FE0F",
+      "name": "U+FE0F",
+      "url": "https://codepoints.net/U+FE0F",
+      "description": "VARIATION SELECTOR-16 - force colorful emoji. If this code point follows an emoji, an explicit colorful rendering of the emoji is requested (if the client supports it).",
+      "section": [
+        "Code Points that Affect Others"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/search?gc=Mn",
+      "name": "host of characters",
+      "url": "https://codepoints.net/search?gc=Mn",
+      "description": ", that add to the characters before. Those are called Combining Marks. Unicode provides a handy FAQ on the details, but in a nutshell: If you add one after a character, it is placed on top of that previous one. So, a + ̊ = å. This may lead to all kinds of funny problems, because for some combinations there are pre-composed characters. Our little å here can also be encoded as U+00E5. You might note, that while this has a length of one character, the combination of a and combining ring has a length of two characters.Of course, one can also do fun things with those characters like this answer on StackOverflow.",
+      "section": [
+        "Code Points that Affect Others"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1F1E6..U+1F1FF",
+      "name": "Regional Indicator Symbols",
+      "url": "https://codepoints.net/U+1F1E6..U+1F1FF",
+      "description": "U+1F1E6 to U+1F1FF resemble the 26 latin characters. They are used to create flag emoji. Since the Unicode consortium didn’t feel like getting on board with international politics, the solution to flags is to combine these 26 characters to the respective ISO code for a country. Examples:CountryISO CodeCode PointsEmoji (if supported)USAUSU+1F1FA + U+1F1F8🇺🇸GermanyDEU+1F1E9 + U+1F1EA🇩🇪ChinaCNU+1F1E8 + U+1F1F3🇨🇳",
+      "section": [
+        "Code Points that Affect Others"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1F3FB..U+1F3FF",
+      "name": "U+1F3FB to U+1F3FF",
+      "url": "https://codepoints.net/U+1F3FB..U+1F3FF",
+      "description": ". They are called “Emoji Modifier Fitzpatrick Type” 1 to 6, with 1 the palest and 6 the darkest. If one of these characters follows an emoji, that emoji is meant to be rendered in the appropriate skin color of the Fitzpatrick scale. If no such modifier is added, the skin tone should be unnatural, e. g., bright yellow. Fun fact: Since the Fitzpatrick modifiers are normal code points, emoji with such skin colors have the length 2, which Twitter users noticed first. Here is a comparison chart directly from the specification:CodeNameSamplesU+1F3FBEMOJI MODIFIER FITZPATRICK TYPE-1-2 U+1F3FCEMOJI MODIFIER FITZPATRICK TYPE-3 U+1F3FDEMOJI MODIFIER FITZPATRICK TYPE-4 U+1F3FEEMOJI MODIFIER FITZPATRICK TYPE-5 U+1F3FFEMOJI MODIFIER FITZPATRICK TYPE-6",
+      "section": [
+        "Code Points that Affect Others"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+00A0",
+      "name": "U+00A0",
+      "url": "https://codepoints.net/U+00A0",
+      "description": "NO-BREAK SPACE - force adjacent characters to stick together. Well known as &nbsp; in HTML.",
+      "section": [
+        "Code Points that Affect Others",
+        "Breaking and Gluing other characters"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+00AD",
+      "name": "U+00AD",
+      "url": "https://codepoints.net/U+00AD",
+      "description": "SOFT HYPHEN - (in HTML: &shy;) like ZERO WIDTH SPACE, but show a hyphen if (and only if) a break occurs.",
+      "section": [
+        "Code Points that Affect Others",
+        "Breaking and Gluing other characters"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+200B",
+      "name": "U+200B",
+      "url": "https://codepoints.net/U+200B",
+      "description": "ZERO WIDTH SPACE - the inverse to U+00A0: create no space, but allow word breaking.",
+      "section": [
+        "Code Points that Affect Others",
+        "Breaking and Gluing other characters"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+200D",
+      "name": "U+200D",
+      "url": "https://codepoints.net/U+200D",
+      "description": "ZERO WIDTH JOINER - force adjacent characters to be joined together (e.g., arabic characters or supported emoji). Apple uses this to compose some emoji like different families.",
+      "section": [
+        "Code Points that Affect Others",
+        "Breaking and Gluing other characters"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2060",
+      "name": "U+2060",
+      "url": "https://codepoints.net/U+2060",
+      "description": "WORD JOINER - the same as U+00A0, but completely invisible. Good for writing @font-face on Twitter.",
+      "section": [
+        "Code Points that Affect Others",
+        "Breaking and Gluing other characters"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+0000",
+      "name": "U+0000",
+      "url": "https://codepoints.net/U+0000",
+      "description": "<control> - first code point.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+10FFFF",
+      "name": "U+10FFFF",
+      "url": "https://codepoints.net/U+10FFFF",
+      "description": "(non-character) - last code point. The whole rest of its plane apart from U+10FFFE, the code points in the 0x10000-0x10FFFD range, are private use characters, guaranteed to be never filled by a future Unicode standard.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1F402",
+      "name": "U+1F402",
+      "url": "https://codepoints.net/U+1F402",
+      "description": "OX - shortest name.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+FDFA",
+      "name": "U+FDFA",
+      "url": "https://codepoints.net/U+FDFA",
+      "description": "ARABIC LIGATURE SALLALLAHOU ALAYHE WASALLAM - longest decomposition form: 18 characters.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+5146",
+      "name": "U+5146",
+      "url": "https://codepoints.net/U+5146",
+      "description": "and U+16B61 - code points that represent the highest “single-digit” number. In both cases that’s 1,000,000,000,000, a trillion.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+0F33",
+      "name": "U+0F33",
+      "url": "https://codepoints.net/U+0F33",
+      "description": "TIBETAN DIGIT HALF ZERO - code point that represents the lowest “single-digit” number and at the same time the only negative one, -½.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+0080",
+      "name": "U+0080",
+      "url": "https://codepoints.net/U+0080",
+      "description": ", U+0081 and U+0099. These so-called C1 control characters are more or less unspecified. They got into Unicode, because they were present in the very first version of what should later become ISO 10646, the ISO-standardized version of Unicode. They were meant to be part of an upgrade to ISO 2022, that never came to be.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+599B",
+      "name": "妛",
+      "url": "https://codepoints.net/U+599B",
+      "description": ", 挧, 暃, 椦, 槞, 蟐, 袮, 閠, 駲, 墸, 壥, and 彁. These so-called “ghost characters” came to Unicode via the Japanese JIS standard, where they were added, because they were mis-read or misinterpreted from other signs, when JIS was compiled from original printed text sources.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+006F",
+      "name": "U+006F",
+      "url": "https://codepoints.net/U+006F",
+      "description": "LATIN SMALL LETTER O - leads the list of characters with confusable shapes. Of all the possible mappings in the list of confusable characters, the small “o” leads with a whopping 73 entries of similar looking glyphs, followed by U+006C LATIN SMALL LETTER L with 70 entries.",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1F4C0",
+      "name": "U+1F4C0",
+      "url": "https://codepoints.net/U+1F4C0",
+      "description": "DVD - only code point name without any vowel (source)",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+3106C",
+      "name": "U+3106C",
+      "url": "https://codepoints.net/U+3106C",
+      "description": "CJK UNIFIED IDEOGRAPH 3106C - the character with the most strokes: 84. Take your time to write this one!",
+      "section": [
+        "Record Holders and Extremes"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1680",
+      "name": "U+1680",
+      "url": "https://codepoints.net/U+1680",
+      "description": "OGHAM SPACE MARK - a space that looks like a dash. Great to bring programmers close to madness: 1 + 2 === 3.",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+037E",
+      "name": "U+037E",
+      "url": "https://codepoints.net/U+037E",
+      "description": "GREEK QUESTION MARK - a look-alike to the semicolon. Also a fun way to annoy developers.",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1DD2",
+      "name": "U+1DD2",
+      "url": "https://codepoints.net/U+1DD2",
+      "description": "COMBINING US ABOVE - this is the most romantic code point.",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+F8FF",
+      "name": "U+F8FF",
+      "url": "https://codepoints.net/U+F8FF",
+      "description": "PRIVATE USE CODEPOINT - this private use code point is rendered as Apple logo on many Apple devices.",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1F574",
+      "name": "U+1F574",
+      "url": "https://codepoints.net/U+1F574",
+      "description": "MAN IN BUSINESS SUIT LEVITATING - A rather curious character, that only made it into Unicode for its appearance in the Webdings font (for reasons of backwards compatibility).",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1F596",
+      "name": "U+1F596",
+      "url": "https://codepoints.net/U+1F596",
+      "description": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS - the Vulcan salute. Live long and prosper! 🖖",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+1F918",
+      "name": "U+1F918",
+      "url": "https://codepoints.net/U+1F918",
+      "description": "SIGN OF THE HORNS - Rock on! 🤘",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2800",
+      "name": "U+2800",
+      "url": "https://codepoints.net/U+2800",
+      "description": "BRAILLE PATTERN BLANK - A Braille pattern that has zero of its six or eight dots filled in. According to the standard: “* while this character is imaged as a fixed-width blank in many fonts, it does not act as a space” Essentially it is rendered as white-space, but since it is designated as not white-space it isn't matched by white-space-validating regular expressions. This can be used to bypass all kinds of validation that disallows or trims white-space.",
+      "section": [
+        "For Funsies"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2654..U+265F",
+      "name": "Chess figures",
+      "url": "https://codepoints.net/U+2654..U+265F",
+      "description": ".",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2660..U+2667",
+      "name": "Card suits",
+      "url": "https://codepoints.net/U+2660..U+2667",
+      "description": "and even a whole deck of cards complete with joker and back of card.",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2680..U+2685",
+      "name": "Die faces",
+      "url": "https://codepoints.net/U+2680..U+2685",
+      "description": "and a nice die emoji.",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2686..U+2689",
+      "name": "Go pieces",
+      "url": "https://codepoints.net/U+2686..U+2689",
+      "description": ".",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+26C0..U+26C3",
+      "name": "Draughts (or checkers) pieces",
+      "url": "https://codepoints.net/U+26C0..U+26C3",
+      "description": ".",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/U+2616,U+2617,U+26C9,U+26CA",
+      "name": "Shogi pieces",
+      "url": "https://codepoints.net/U+2616,U+2617,U+26C9,U+26CA",
+      "description": ", a Japanese variant of chess.",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/domino_tiles",
+      "name": "Domino tiles",
+      "url": "https://codepoints.net/domino_tiles",
+      "description": "",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://codepoints.net/mahjong_tiles",
+      "name": "Mahjong tiles",
+      "url": "https://codepoints.net/mahjong_tiles",
+      "description": "",
+      "section": [
+        "For Funsies",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/ehmicky/cross-platform-terminal-characters",
+      "name": "Cross-platform terminal characters",
+      "url": "https://github.com/ehmicky/cross-platform-terminal-characters",
+      "description": "a list of characters that work on most terminals.",
+      "section": [
+        "Other Lists of Code Points"
+      ]
+    }
+  ]
+}

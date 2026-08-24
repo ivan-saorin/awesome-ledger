@@ -1,0 +1,2526 @@
+{
+  "etag": "W/\"45062abc7e10e5d858181273473021f1b92abedc05d8c1949f99d17b2ff610ac\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://wagtail.org",
+      "name": "Official site",
+      "url": "https://wagtail.org/",
+      "description": "",
+      "section": [
+        "General resources"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/wagtail",
+      "name": "GitHub repository",
+      "url": "https://github.com/wagtail/wagtail",
+      "description": "",
+      "section": [
+        "General resources"
+      ]
+    },
+    {
+      "key": "https://wagtail.org/roadmap",
+      "name": "Project roadmap",
+      "url": "https://wagtail.org/roadmap/",
+      "description": "",
+      "section": [
+        "General resources"
+      ]
+    },
+    {
+      "key": "https://github.com/coderedcorp/coderedcms",
+      "name": "Wagtail CRX (CodeRed Extensions)",
+      "url": "https://github.com/coderedcorp/coderedcms",
+      "description": "Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.",
+      "section": [
+        "Apps",
+        "Blogging/news"
+      ]
+    },
+    {
+      "key": "https://github.com/APSL/puput",
+      "name": "Puput",
+      "url": "https://github.com/APSL/puput",
+      "description": "A Django blog app implemented in Wagtail.",
+      "section": [
+        "Apps",
+        "Blogging/news"
+      ]
+    },
+    {
+      "key": "https://github.com/Nigel2392/wagtail_editorjs",
+      "name": "Wagtail EditorJS",
+      "url": "https://github.com/Nigel2392/wagtail_editorjs",
+      "description": "An EditorJS widget with great support for Wagtail's page, image and document choosers.",
+      "section": [
+        "Apps",
+        "Rich text editor extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/smark-1/wagtailterms",
+      "name": "Wagtail Terms",
+      "url": "https://github.com/smark-1/wagtailterms",
+      "description": "A plugin to add a glossary terms entity to the Draftail editor.",
+      "section": [
+        "Apps",
+        "Rich text editor extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/julinodev/wagtailmdx",
+      "name": "wagtailmdx",
+      "url": "https://github.com/julinodev/wagtailmdx",
+      "description": "A MDXEditor integration for Wagtail as textfield widget.",
+      "section": [
+        "Apps",
+        "Rich text editor extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/springload/wagtailgmaps",
+      "name": "wagtailgmaps",
+      "url": "https://github.com/springload/wagtailgmaps",
+      "description": "Simple Google Maps address formatter for Wagtail fields.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/Frojd/wagtail-geo-widget",
+      "name": "Wagtail-Geo-Widget",
+      "url": "https://github.com/Frojd/wagtail-geo-widget",
+      "description": "Google Maps widget for the GeoDjango PointField field in Wagtail.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/wagtail-markdown",
+      "name": "wagtail-markdown",
+      "url": "https://github.com/torchbox/wagtail-markdown",
+      "description": "Markdown support for Wagtail.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/wagtail-autocomplete",
+      "name": "wagtail-autocomplete",
+      "url": "https://github.com/wagtail/wagtail-autocomplete",
+      "description": "Autocompleting choosers for ForeignKey, ParentalKey, and ManyToMany fields.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/ixc/wagtail-instance-selector",
+      "name": "wagtail-instance-selector",
+      "url": "https://github.com/ixc/wagtail-instance-selector",
+      "description": "A ForeignKey widget to create and select related items. Similar to Django's raw_id_fields.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/wagtail-generic-chooser",
+      "name": "wagtail-generic-chooser",
+      "url": "https://github.com/wagtail/wagtail-generic-chooser",
+      "description": "provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/marteinn/wagtail-color-panel",
+      "name": "Wagtail-Color-Panel",
+      "url": "https://github.com/marteinn/wagtail-color-panel",
+      "description": "A package that adds new panels for selecting colors, works both on regular page fields and stream field.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/Nigel2392/wagtail_ace_editor",
+      "name": "Wagtail Ace Editor",
+      "url": "https://github.com/Nigel2392/wagtail_ace_editor",
+      "description": "Ace Editor right in your Wagtail admin.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/kkm-horikawa/wagtail-html-editor",
+      "name": "wagtail-html-editor",
+      "url": "https://github.com/kkm-horikawa/wagtail-html-editor",
+      "description": "Enhanced HTML editor block for Wagtail CMS with CodeMirror 6, syntax highlighting, Emmet support, and fullscreen mode.",
+      "section": [
+        "Apps",
+        "Widgets"
+      ]
+    },
+    {
+      "key": "https://github.com/cfpb/wagtail-inventory",
+      "name": "wagtail-inventory",
+      "url": "https://github.com/cfpb/wagtail-inventory",
+      "description": "Search Wagtail pages by the StreamField blocks they contain.",
+      "section": [
+        "Apps",
+        "StreamField"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail-nest/wagtailcodeblock",
+      "name": "Wagtail Code Block",
+      "url": "https://github.com/wagtail-nest/wagtailcodeblock",
+      "description": "StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.",
+      "section": [
+        "Apps",
+        "StreamField"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail-nest/wagtail-bakery",
+      "name": "Wagtail-bakery",
+      "url": "https://github.com/wagtail-nest/wagtail-bakery",
+      "description": "A set of helpers for baking your Django Wagtail site out as flat files.",
+      "section": [
+        "Apps",
+        "Static site generation"
+      ]
+    },
+    {
+      "key": "https://github.com/cfpb/wagtail-flags",
+      "name": "Wagtail-Flags",
+      "url": "https://github.com/cfpb/wagtail-flags",
+      "description": "Feature flags for Wagtail sites.",
+      "section": [
+        "Apps",
+        "Settings management"
+      ]
+    },
+    {
+      "key": "https://github.com/dinoperovic/django-salesman",
+      "name": "django-salesman",
+      "url": "https://github.com/dinoperovic/django-salesman",
+      "description": "Headless e-commerce framework for Django with Wagtail modeladmin integration.",
+      "section": [
+        "Apps",
+        "E-commerce"
+      ]
+    },
+    {
+      "key": "https://github.com/Frojd/wagtail-meta-preview",
+      "name": "wagtail-meta-preview",
+      "url": "https://github.com/Frojd/wagtail-meta-preview",
+      "description": "Wagtail Meta Preview provides panels for previewing Facebook sharing, Twitter sharing and Google search results in the Wagtail admin.",
+      "section": [
+        "Apps",
+        "SEO and SMO"
+      ]
+    },
+    {
+      "key": "https://github.com/Aleksi44/wagtailyoast",
+      "name": "Wagtail Yoast",
+      "url": "https://github.com/Aleksi44/wagtailyoast",
+      "description": "A tool to improve readability of your texts with SEO recommendations.",
+      "section": [
+        "Apps",
+        "SEO and SMO"
+      ]
+    },
+    {
+      "key": "https://github.com/coderedcorp/wagtail-seo",
+      "name": "Wagtail SEO",
+      "url": "https://github.com/coderedcorp/wagtail-seo",
+      "description": "Search engine and social media optimization for Wagtail.",
+      "section": [
+        "Apps",
+        "SEO and SMO"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/wagtail-experiments",
+      "name": "Wagtail Experiments",
+      "url": "https://github.com/torchbox/wagtail-experiments",
+      "description": "A/B testing for Wagtail.",
+      "section": [
+        "Apps",
+        "Customer experience"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail-nest/wagtail-personalisation",
+      "name": "Wagtail Personalisation",
+      "url": "https://github.com/wagtail-nest/wagtail-personalisation",
+      "description": "Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.",
+      "section": [
+        "Apps",
+        "Customer experience"
+      ]
+    },
+    {
+      "key": "https://github.com/labd/wagtail-2fa",
+      "name": "wagtail-2fa",
+      "url": "https://github.com/labd/wagtail-2fa",
+      "description": "Add two-factor authentication to Wagtail by integrating it with django-otp.",
+      "section": [
+        "Apps",
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/wagtailmedia",
+      "name": "wagtailmedia",
+      "url": "https://github.com/torchbox/wagtailmedia",
+      "description": "A Wagtail module for managing video and audio files within the admin.",
+      "section": [
+        "Apps",
+        "Media"
+      ]
+    },
+    {
+      "key": "https://github.com/j-bodek/wagtail-transcription",
+      "name": "Wagtail Transcription",
+      "url": "https://github.com/j-bodek/wagtail-transcription",
+      "description": "Provides a field to automatically creates transcriptions from YouTube videos.",
+      "section": [
+        "Apps",
+        "Media"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/wagtail-localize",
+      "name": "Wagtail Localize",
+      "url": "https://github.com/wagtail/wagtail-localize",
+      "description": "Translation plugin for Wagtail CMS.",
+      "section": [
+        "Apps",
+        "Translations"
+      ]
+    },
+    {
+      "key": "https://github.com/infoportugal/wagtail-modeltranslation",
+      "name": "Wagtail Modeltranslation",
+      "url": "https://github.com/infoportugal/wagtail-modeltranslation",
+      "description": "Simple app containing a mixin model that integrates django-modeltranslation into Wagtail panels system.",
+      "section": [
+        "Apps",
+        "Translations"
+      ]
+    },
+    {
+      "key": "https://docs.wagtail.org/en/stable/reference/contrib/forms",
+      "name": "Wagtail's built in Form Builder",
+      "url": "https://docs.wagtail.org/en/stable/reference/contrib/forms/",
+      "description": "for general use cases.",
+      "section": [
+        "Apps",
+        "Forms"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail-nest/wagtail-django-recaptcha",
+      "name": "Wagtail ReCaptcha",
+      "url": "https://github.com/wagtail-nest/wagtail-django-recaptcha",
+      "description": "wagtail-django-captcha provides an easy way to integrate the django-recaptcha field when using the Wagtail formbuilder.",
+      "section": [
+        "Apps",
+        "Forms"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/wagtail-jotform",
+      "name": "Wagtail Jotform",
+      "url": "https://github.com/torchbox/wagtail-jotform",
+      "description": "A plugin for using jotforms in wagtail.",
+      "section": [
+        "Apps",
+        "Forms"
+      ]
+    },
+    {
+      "key": "https://github.com/vicktornl/wagtail-model-forms",
+      "name": "Wagtail Model Forms",
+      "url": "https://github.com/vicktornl/wagtail-model-forms",
+      "description": "The Wagtail Form Builder functionalities available for your models/snippets.",
+      "section": [
+        "Apps",
+        "Forms"
+      ]
+    },
+    {
+      "key": "https://github.com/mwesterhof/wagtail_formation",
+      "name": "Wagtail Formation",
+      "url": "https://github.com/mwesterhof/wagtail_formation",
+      "description": "Fully dynamic and easy to use CMS-able forms for wagtail",
+      "section": [
+        "Apps",
+        "Forms"
+      ]
+    },
+    {
+      "key": "https://github.com/neon-jungle/wagtail-linkchecker",
+      "name": "wagtail-linkchecker",
+      "url": "https://github.com/neon-jungle/wagtail-linkchecker",
+      "description": "A tool to assist with finding broken links on your Wagtail site.",
+      "section": [
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail-nest/wagtail-accessibility",
+      "name": "Wagtail Accessibility",
+      "url": "https://github.com/wagtail-nest/wagtail-accessibility",
+      "description": "✅ Accessibility content checks for Wagtail websites.",
+      "section": [
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/wagtail-factories",
+      "name": "Wagtail Factories",
+      "url": "https://github.com/wagtail/wagtail-factories",
+      "description": "Factory boy classes for Wagtail.",
+      "section": [
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/ixc/wagtail-admin-list-controls",
+      "name": "wagtail-admin-list-controls",
+      "url": "https://github.com/ixc/wagtail-admin-list-controls",
+      "description": "Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.",
+      "section": [
+        "Apps",
+        "Modeladmin"
+      ]
+    },
+    {
+      "key": "https://github.com/wunderweiss/wagtail-rangefilter",
+      "name": "Wagtail Rangefilter",
+      "url": "https://github.com/wunderweiss/wagtail-rangefilter",
+      "description": "Integrates django-admin-rangefilter into Wagtail's ModelAdmin.",
+      "section": [
+        "Apps",
+        "Modeladmin"
+      ]
+    },
+    {
+      "key": "https://github.com/cfpb/wagtail-treemodeladmin",
+      "name": "Wagtail-TreeModelAdmin",
+      "url": "https://github.com/cfpb/wagtail-treemodeladmin",
+      "description": "An extension for Wagtail's ModelAdmin for a page explorer-like navigation of Django model relationships.",
+      "section": [
+        "Apps",
+        "Modeladmin"
+      ]
+    },
+    {
+      "key": "https://github.com/cfpb/wagtail-sharing",
+      "name": "Wagtail Sharing",
+      "url": "https://github.com/cfpb/wagtail-sharing",
+      "description": "Easier sharing of Wagtail drafts.",
+      "section": [
+        "Apps",
+        "Content Management"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/wagtail-transfer",
+      "name": "Wagtail Transfer",
+      "url": "https://github.com/wagtail/wagtail-transfer",
+      "description": "An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project",
+      "section": [
+        "Apps",
+        "Content Management"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/wagtail-content-import",
+      "name": "Wagtail Content Import",
+      "url": "https://github.com/torchbox/wagtail-content-import",
+      "description": "Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.",
+      "section": [
+        "Apps",
+        "Content Management"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/wagtail-headless-preview",
+      "name": "Wagtail Headless Preview",
+      "url": "https://github.com/torchbox/wagtail-headless-preview",
+      "description": "Previews for headless Wagtail setups",
+      "section": [
+        "Apps",
+        "Content Management"
+      ]
+    },
+    {
+      "key": "https://github.com/Nigel2392/wagtail_fedit",
+      "name": "Wagtail-FEdit",
+      "url": "https://github.com/Nigel2392/wagtail_fedit",
+      "description": "Add frontend editing to your Wagtail site.",
+      "section": [
+        "Apps",
+        "Content Management"
+      ]
+    },
+    {
+      "key": "https://github.com/jazzband/wagtailmenus",
+      "name": "wagtailmenus",
+      "url": "https://github.com/jazzband/wagtailmenus",
+      "description": "An app to help you manage and render menus in your Wagtail projects more effectively.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/wharton/wagtailgridder",
+      "name": "Wagtail Gridder",
+      "url": "https://github.com/wharton/wagtailgridder",
+      "description": "Grid card layout similar to Google image search results, with an expanded area for card details.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/mwesterhof/wagtail_app_pages",
+      "name": "Wagtail App Pages",
+      "url": "https://github.com/mwesterhof/wagtail_app_pages",
+      "description": "Extend Wagtail pages using an actual URL config and django views.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/coderedcorp/wagtail-cache",
+      "name": "Wagtail Cache",
+      "url": "https://github.com/coderedcorp/wagtail-cache",
+      "description": "A simple page cache for Wagtail using the Django cache middleware.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/elton2048/wagtail-orderable",
+      "name": "Wagtail Orderable",
+      "url": "https://github.com/elton2048/wagtail-orderable",
+      "description": "Mixin support for drag-and-drop ordering in admin panel.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/adinhodovic/wagtail-resume",
+      "name": "Wagtail Resume",
+      "url": "https://github.com/adinhodovic/wagtail-resume",
+      "description": "A Wagtail project made to simplify creation of resumes for developers.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/Frojd/wagtail-trash",
+      "name": "Wagtail Trash",
+      "url": "https://github.com/Frojd/wagtail-trash",
+      "description": "Instead of deleting pages when pressing delete, pages will get thrown into the \"Trash Can\".",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/donhauser/wagtail-pdf",
+      "name": "wagtail-pdf-view",
+      "url": "https://github.com/donhauser/wagtail-pdf",
+      "description": "PDF rendering views for the Wagtail CMS.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/wagtail-grapple",
+      "name": "Wagtail Grapple",
+      "url": "https://github.com/torchbox/wagtail-grapple",
+      "description": "A Wagtail app that makes building GraphQL endpoints a breeze.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/vicktornl/wagtail-cache-invalidator",
+      "name": "Wagtail Cache Invalidator",
+      "url": "https://github.com/vicktornl/wagtail-cache-invalidator",
+      "description": "Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/Frojd/Wagtail-Pipit",
+      "name": "Pipit",
+      "url": "https://github.com/Frojd/Wagtail-Pipit",
+      "description": "Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.",
+      "section": [
+        "Tools",
+        "Templates & Starter Kits"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/cookiecutter-wagtail-package",
+      "name": "cookiecutter-wagtail-package",
+      "url": "https://github.com/wagtail/cookiecutter-wagtail-package",
+      "description": "A cookiecutter template for building Wagtail add-on packages.",
+      "section": [
+        "Tools",
+        "Templates & Starter Kits"
+      ]
+    },
+    {
+      "key": "https://github.com/platformsh-templates/wagtail",
+      "name": "Wagtail for Platform.sh",
+      "url": "https://github.com/platformsh-templates/wagtail",
+      "description": "Wagtail template for Platform.sh.",
+      "section": [
+        "Tools",
+        "Templates & Starter Kits"
+      ]
+    },
+    {
+      "key": "https://github.com/engineervix/cookiecutter-wagtail-vix",
+      "name": "cookiecutter-wagtail-vix",
+      "url": "https://github.com/engineervix/cookiecutter-wagtail-vix",
+      "description": "a minimal, batteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.",
+      "section": [
+        "Tools",
+        "Templates & Starter Kits"
+      ]
+    },
+    {
+      "key": "https://github.com/numerique-gouv/sites-conformes",
+      "name": "Sites Conformes",
+      "url": "https://github.com/numerique-gouv/sites-conformes",
+      "description": "Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et sécurisé. Basé sur Wagtail CMS.",
+      "section": [
+        "Tools",
+        "Templates & Starter Kits"
+      ]
+    },
+    {
+      "key": "https://github.com/thibaudcolas/wagtail-tutorial-template",
+      "name": "Wagtail template: Your first Wagtail site",
+      "url": "https://github.com/thibaudcolas/wagtail-tutorial-template",
+      "description": "A Wagtail project starter template – with the solution to Wagtail's official Your first Wagtail site tutorial.",
+      "section": [
+        "Tools",
+        "Templates (start command)"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/news-template",
+      "name": "Wagtail News Template",
+      "url": "https://github.com/wagtail/news-template",
+      "description": "A Wagtail template for a news site.",
+      "section": [
+        "Tools",
+        "Templates (start command)"
+      ]
+    },
+    {
+      "key": "https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective",
+      "name": "Getting started in Wagtail, a newcomer's perspective",
+      "url": "https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective/",
+      "description": "Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail.",
+      "section": [
+        "Resources",
+        "Getting started"
+      ]
+    },
+    {
+      "key": "https://makina-corpus.com/django/presentation-de-wagtail-le-dernier-cms-django",
+      "name": "Présentation de Wagtail, le dernier CMS Django",
+      "url": "https://makina-corpus.com/django/presentation-de-wagtail-le-dernier-cms-django",
+      "description": "Wagtail est un CMS relativement récent dans l’écosystème Django. Pour autant, son jeune âge ne l’empêche pas de posséder de nombreuses fonctionnalités que nous découvrirons dans cet article.",
+      "section": [
+        "Resources",
+        "Getting started"
+      ]
+    },
+    {
+      "key": "https://vix.digital/insights/getting-started-wagtail",
+      "name": "Getting Started With Wagtail",
+      "url": "https://vix.digital/insights/getting-started-wagtail/",
+      "description": "Working extensively with Wagtail and the surrounding community, we have discovered a range of common pitfalls developers run into when beginning to deliver with Wagtail.",
+      "section": [
+        "Resources",
+        "Getting started"
+      ]
+    },
+    {
+      "key": "https://saashammer.com/blog/wagtail-tutorials",
+      "name": "Wagtail Tutorials: Build Blog Step by Step",
+      "url": "https://saashammer.com/blog/wagtail-tutorials/",
+      "description": "The tutorials teach you how to create a standard blog from scratch step by step.",
+      "section": [
+        "Resources",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://cynthiakiser.com/blog/2023/11/01/multitenancy-with-wagtail.html",
+      "name": "Multi-tenancy with Wagtail",
+      "url": "https://cynthiakiser.com/blog/2023/11/01/multitenancy-with-wagtail.html",
+      "description": "Multiple part guide on robust multi-tenancy support in Wagtail.",
+      "section": [
+        "Resources",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://timonweb.com/wagtail/how-to-prevent-users-from-creating-certain-page-types-in-wagtail-cms",
+      "name": "How to Prevent Users from Creating Pages by Type",
+      "url": "https://timonweb.com/wagtail/how-to-prevent-users-from-creating-certain-page-types-in-wagtail-cms/",
+      "description": "",
+      "section": [
+        "Resources",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://saashammer.com/blog/how-to-create-and-manage-menus-in-wagtail",
+      "name": "How to Create and Manage Menus of Wagtail application",
+      "url": "https://saashammer.com/blog/how-to-create-and-manage-menus-in-wagtail/",
+      "description": "",
+      "section": [
+        "Resources",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=glIIF-kBXf0",
+      "name": "An Introduction to Wagtail",
+      "url": "https://www.youtube.com/watch?v=glIIF-kBXf0",
+      "description": "by Eloise \"Ducky\" Macdonald-Meyer - This talk is an introduction to Wagtail, a content management system built on the Python web framework, Django.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=6j0NVq6g4FE",
+      "name": "DjangoCon US 2015 - Wagtail - Yet Another Django CMS",
+      "url": "https://www.youtube.com/watch?v=6j0NVq6g4FE",
+      "description": "by Tom Dyson - Tom will explain why his agency decided to build a new CMS, share some lessons learned in running a growing open source project, and outline Wagtail's roadmap to version 2 and beyond. Slide deck.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit",
+      "name": "Wellington Wagtail CMS Meetup - Meet Wagtail",
+      "url": "https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit",
+      "description": "by Josh, Jordi and Rich, from the Springload dev team - An introductory session to Wagtail to showcase the main features it has to offer.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=kqAKiouk1lY",
+      "name": "DjangoCon US 2016 - Atomic Wagtail",
+      "url": "https://www.youtube.com/watch?v=kqAKiouk1lY",
+      "description": "by Kurt Wall – Brad Frost's atomic design principles are taking the way we design the web by storm. I'll explain what Wagtail is, how you can use it with atomic design principles, and some hurdles you might run into along the way with suggestions on how to help.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=3UC1MNFOjEI",
+      "name": "PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine",
+      "url": "https://www.youtube.com/watch?v=3UC1MNFOjEI",
+      "description": "by Adam Brenecki – This talk explores the different approaches, strengths and weaknesses of each CMS, and what they mean for you as a developer and for your content editors.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=yRmZ6WUfoOc",
+      "name": "Wagtail — еще одна CMS на Django",
+      "url": "https://www.youtube.com/watch?v=yRmZ6WUfoOc",
+      "description": "by Mikalai Radchuk - This talk is an introduction to Wagtail in Russian.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2m21s&v=-Qii_AyQsxE",
+      "name": "Wagtail & Agile – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?t=2m21s&v=-Qii_AyQsxE",
+      "description": "by Edd Baldry.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=38m13s&v=-Qii_AyQsxE",
+      "name": "Deploy Wagtail to the Divio Cloud – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?t=38m13s&v=-Qii_AyQsxE",
+      "description": "by Daniele Procida.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=OedQi5W3Zho",
+      "name": "All about Wagtail – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?v=OedQi5W3Zho",
+      "description": "by Robin van der Rijst.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=19m1s&v=OedQi5W3Zho",
+      "name": "Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?t=19m1s&v=OedQi5W3Zho",
+      "description": "by Edd Baldry.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=34m37s&v=OedQi5W3Zho",
+      "name": "Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?t=34m37s&v=OedQi5W3Zho",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ObM2pUgY-bs",
+      "name": "Wagtail's preview, a new hope – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?v=ObM2pUgY-bs",
+      "description": "by Bertrand Bordage.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=16m38s&v=ObM2pUgY-bs",
+      "name": "The Zen of Wagtail – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?t=16m38s&v=ObM2pUgY-bs",
+      "description": "by Matt Westcott.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2m57s&v=hZcuq8WJVew",
+      "name": "Plone to Wagtail – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?t=2m57s&v=hZcuq8WJVew",
+      "description": "by Coen van der Kamp.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=24m9s&v=hZcuq8WJVew",
+      "name": "Hundreds of Wagtail in Flight – Wagtail Space 2017",
+      "url": "https://www.youtube.com/watch?t=24m9s&v=hZcuq8WJVew",
+      "description": "by Simon de Haan.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=1937s&v=lh9nmN1mzwQ",
+      "name": "How Google uses Wagtail – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s",
+      "description": "by Kevin Chung.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2690s&v=lh9nmN1mzwQ",
+      "name": "Introducing Draft.js in Wagtail – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s",
+      "description": "by Thibaud Colas. Presentation.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=3938s&v=lh9nmN1mzwQ",
+      "name": "Let It Go – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s",
+      "description": "by Matt Wescott.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=5184s&v=lh9nmN1mzwQ",
+      "name": "Developing Solutions for Girls, by Men – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s",
+      "description": "by Lisa Adams.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=265s&v=P8RUQE7Djdg",
+      "name": "Wagtail’s first hatch – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s",
+      "description": "by Bertrand Bordage.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2841s&v=P8RUQE7Djdg",
+      "name": "The Word Problem – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=3856s&v=P8RUQE7Djdg",
+      "name": "Wagtail on Divio Cloud – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s",
+      "description": "by Daniele Procida.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=152s&v=u0CPaXRSOzI",
+      "name": "Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s",
+      "description": "by Tony Yates.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=400s&v=u0CPaXRSOzI",
+      "name": "StreamField editor at UWKM – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s",
+      "description": "by Geert jan Hoogeslag.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=719s&v=u0CPaXRSOzI",
+      "name": "Things i learned at Wagtail Space – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s",
+      "description": "by Codie Roelf.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=912s&v=u0CPaXRSOzI",
+      "name": "Fly Wagtail to a PyCon – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s",
+      "description": "by Daniele Procida.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=1345s&v=u0CPaXRSOzI",
+      "name": "Wagtail Performance – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s",
+      "description": "by Michael van Tellingen. Code.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=1661s&v=u0CPaXRSOzI",
+      "name": "Mutliple images uploader – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s",
+      "description": "by Rajeev J Sebastian.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2057s&v=u0CPaXRSOzI",
+      "name": "Wagtail Space easter egg team demo – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s",
+      "description": "by Lars. Code.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2278s&v=u0CPaXRSOzI",
+      "name": "Wagtail Space 2019 – Wagtail Space 2018",
+      "url": "https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s",
+      "description": "by Maarten Kling.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=ICKYMO0YoFI",
+      "name": "Wagtail in 2018 – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=PCkxBNXWM64",
+      "name": "What the Wagtail Docs Don't Tell You – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "by Lacey Williams Henschel.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=4&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=kkztl9ORUKQ",
+      "name": "Django Logging for Wagtail – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4",
+      "description": "by Ryan Sullivan.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=AiOJAKE0M0I",
+      "name": "Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "by Lisa Adams and Codie Roelf.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=6&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=FYqbqsa04T8",
+      "name": "Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6",
+      "description": "by Harris Lapiroff.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=7&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=OiZScRcluCo",
+      "name": "Choosing Wagtail for Columbia University – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7",
+      "description": "by Zarina Mustapha.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=lMCjInjAz-M",
+      "name": "Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8",
+      "description": "by Ryan Verner.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=N1MeTEPRmJA",
+      "name": "Wagtail in the Cloud – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "by Daniele Procida.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=HZT14u6WwdY",
+      "name": "Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "by Michael Harrison.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=C-tXt5fLj_s",
+      "name": "Learning Wagtail – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "by Dawn Wages.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=6AXyg6vvMTE",
+      "name": "Sharing is Caring – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "by Andy Chosak.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&v=uoxyBIpaXTU",
+      "name": "Lightning Talks – Wagtail Space US 2018",
+      "url": "https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+      "description": "",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=xPPfTvLS7oQ",
+      "name": "Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018",
+      "url": "https://www.youtube.com/watch?v=xPPfTvLS7oQ",
+      "description": "by Игорь Мосягин",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=592&v=MAzZ2lhMhzM",
+      "name": "The State of Wagtail – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=592&v=MAzZ2lhMhzM",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2057&v=MAzZ2lhMhzM",
+      "name": "Image rotation feature – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=2057&v=MAzZ2lhMhzM",
+      "description": "by Chris Adams. Code.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2264&v=MAzZ2lhMhzM",
+      "name": "Debug templates – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=2264&v=MAzZ2lhMhzM",
+      "description": "by Coen van der Kamp.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2567&v=MAzZ2lhMhzM",
+      "name": "Wagtail Headless with HATEOAS – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=2567&v=MAzZ2lhMhzM",
+      "description": "by Duco Dokter.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=2926&v=MAzZ2lhMhzM",
+      "name": "Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=2926&v=MAzZ2lhMhzM",
+      "description": "by Chris Adams.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=4067&v=MAzZ2lhMhzM",
+      "name": "[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=4067&v=MAzZ2lhMhzM",
+      "description": "by Thibaud Colas.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=47&v=CSwpj-jyjP4",
+      "name": "Wagtail & Whatsapp – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=47&v=CSwpj-jyjP4",
+      "description": "by Lisa Adams & Codie Roelf.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=785&v=CSwpj-jyjP4",
+      "name": "Slack2Wagtail – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=785&v=CSwpj-jyjP4",
+      "description": "by Coen van der Kamp & Lucas Moeskops.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=1634&v=CSwpj-jyjP4",
+      "name": "Wagtail and Oscar – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=1634&v=CSwpj-jyjP4",
+      "description": "by Lars van de Kerkhof.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=3313&v=CSwpj-jyjP4",
+      "name": "wagtail-textract – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=3313&v=CSwpj-jyjP4",
+      "description": "by Kees Hink. Code.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=3468&v=CSwpj-jyjP4",
+      "name": "Django 2.2 compatibility – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=3468&v=CSwpj-jyjP4",
+      "description": "by Matt Wescott.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=3937&v=CSwpj-jyjP4",
+      "name": "SEO dashboard – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=3937&v=CSwpj-jyjP4",
+      "description": "by Janneke Janssen. Code.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=4126&v=CSwpj-jyjP4",
+      "name": "My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=4126&v=CSwpj-jyjP4",
+      "description": "by Arifin Ibne Matin.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=4404&v=CSwpj-jyjP4",
+      "name": "Fly, Wagtail, fly! – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=4404&v=CSwpj-jyjP4",
+      "description": "by Daniele Procida.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=24&v=YydSbL8gMS4",
+      "name": "Wagtail & GraphQL – Wagtail Space 2019",
+      "url": "https://www.youtube.com/watch?t=24&v=YydSbL8gMS4",
+      "description": "by Arthur Bayr.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=1&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=Ihsrki0d1G8",
+      "name": "Writing (code) for authors – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1",
+      "description": "by Brian Smith & Eric Sherman. Slides.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=2&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=QlLWvNT5Wrk",
+      "name": "Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2",
+      "description": "by Timothy Allen.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=3&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=1JUOAAmLQFA",
+      "name": "Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3",
+      "description": "by Vince Salvino.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=4&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=CxjlAI6R7iY",
+      "name": "Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4",
+      "description": "by Zarina Mustapha.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=5&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=tdB1I_gSCeY",
+      "name": "Making Wagtail Accessible – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5",
+      "description": "by Thibaud Colas. Slides.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=6&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=ZqwmgsqMTEs",
+      "name": "Everyone can fly a flag – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6",
+      "description": "by Will Barton. Slides.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=7&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=xMbJmHF7kCw",
+      "name": "Architecting for a multi-domain site – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7",
+      "description": "by Ben Beecher. Slides.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=tK-3kEBbblg",
+      "name": "Contributions can be more than code – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8",
+      "description": "by Kalob Taulien.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=9&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=RY0K1BEV-_U",
+      "name": "Thoughtful Code Review – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9",
+      "description": "by Naomi Morduch Toubman. Slides.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=10&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=BMoOhjgirFM",
+      "name": "Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10",
+      "description": "by Harris Lapiroff. Slides",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=11&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&v=s29vaGnFcq8",
+      "name": "The State of Wagtail: 2019 – Wagtail Space US 2019",
+      "url": "https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=E3-kFY6jPPY",
+      "name": "Wagtail Guide - Getting started - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=E3-kFY6jPPY",
+      "description": "by Coen van der Kamp.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=WN0L4YNrWes",
+      "name": "A New Approach to Multitenant Wagtail - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=WN0L4YNrWes",
+      "description": "by Stephanie C. Smith and Addison Hardy.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ueou6CxiR3Y",
+      "name": "The Wagtail Marketplace for Games-based Courses - Wagtail Space 2022",
+      "url": "https://www.youtube.com/watch?v=ueou6CxiR3Y",
+      "description": "by Sarah Toms.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=4Qd43nsxmoc",
+      "name": "The Wagtail Ecosystem - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=4Qd43nsxmoc",
+      "description": "by Vince Salvino.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=QK-Vhlpos3Q",
+      "name": "Wagtail charts and graphs - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=QK-Vhlpos3Q",
+      "description": "by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=bYRQ492BED0",
+      "name": "Wagtail as a headless CMS for JavaScript frontends - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=bYRQ492BED0",
+      "description": "by Tommaso Amici.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=_O5isU354vg",
+      "name": "Adding a GraphQL API to Wagtail - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=_O5isU354vg",
+      "description": "by Patrick Arminio.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=XtazMDNdlK8",
+      "name": "Bringing JSONField into Wagtail Core - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=XtazMDNdlK8",
+      "description": "by Sage Abdullah.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Vl2g7H3aodw",
+      "name": "Wagtail vs. WordPress - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=Vl2g7H3aodw",
+      "description": "by Kalob Taulien.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=t2xiPJ91UCE",
+      "name": "Designing the new page editor - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=t2xiPJ91UCE",
+      "description": "by Phil Dexter and Ben Enright.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=LNqVzLkZkig",
+      "name": "5 Things I Learned About Wagtail the Hard Way - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=LNqVzLkZkig",
+      "description": "by Meagen Voss.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Zh608nVBrEw",
+      "name": "Tips for Maintaining Wagtail Packages - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=Zh608nVBrEw",
+      "description": "by Tim Allen.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=W0tL-5V5BWA",
+      "name": "Wagtail Guide - Wagtail Space US 2022",
+      "url": "https://www.youtube.com/watch?v=W0tL-5V5BWA",
+      "description": "by Coen van der Kamp.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=4D49RENHfoM",
+      "name": "The state of Wagtail 2022 - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=4D49RENHfoM",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=nSjVAISLr4M",
+      "name": "Choosers - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=nSjVAISLr4M",
+      "description": "by Matthew Westcott.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=gCGT51BcTdM",
+      "name": "Working with Image Filters - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=gCGT51BcTdM",
+      "description": "by Arnar Tumi Þorsteinsson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=xG5-s48TZt8",
+      "name": "Things I learned - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=xG5-s48TZt8",
+      "description": "by Dan Braghis.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ynlFUcutSWQ",
+      "name": "Wagtail Roadrunner Beep Beep - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=ynlFUcutSWQ",
+      "description": "by Lars van de Kerkhof.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=PgkpBMoN4UY",
+      "name": "Dockerising wagtail projects in 5 minutes - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=PgkpBMoN4UY",
+      "description": "by Sævar Öfjörð Magnússon.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=B85HwmX5uaw",
+      "name": "Wagtail in the News Room - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=B85HwmX5uaw",
+      "description": "by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=9Evrwzpg-dw",
+      "name": "Digital Nomad - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=9Evrwzpg-dw",
+      "description": "by Maikel Martens.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=_dhScxTdtjA",
+      "name": "Unobtrusive internationalisation - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=_dhScxTdtjA",
+      "description": "by Lars van de Kerkhof.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=OFqPKffSVWI",
+      "name": "Moving Wagtail pages - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=OFqPKffSVWI",
+      "description": "by Viggo de Vries.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=JMULuz6RzjQ",
+      "name": "Wagtail architecture options, or should I go headless - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=JMULuz6RzjQ",
+      "description": "by Dan Braghis.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=s8cJhFtjqZA",
+      "name": "Wagtail headless and NextJS frontend - Wagtail Space NL 2022",
+      "url": "https://www.youtube.com/watch?v=s8cJhFtjqZA",
+      "description": "by Lucas Moeskops.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&v=TKLYeKpFbno",
+      "name": "State of Wagtail - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=TKLYeKpFbno&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&v=ZXGcqY-OeYk",
+      "name": "Pleasant Publishing Patterns - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=ZXGcqY-OeYk&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB",
+      "description": "by Michael Trythall.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=AC1gy9R2Z6c",
+      "name": "Accessibility for Complex Components and Interfaces - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=AC1gy9R2Z6c&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "by Kara Gaulrapp.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&v=yciVqzSGWTw",
+      "name": "One Thousand and One Wagtail Sites - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=yciVqzSGWTw&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB",
+      "description": "by Vince Salvino.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=ccBrb50xRCM",
+      "name": "3D Files with Wagtail - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=ccBrb50xRCM&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "by Dawn Wages and Mira Gibson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&v=mQsI8Ji3_LY",
+      "name": "Wagtail, Reactivated - Headless Without the Headache - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=mQsI8Ji3_LY&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB",
+      "description": "by Josh Marantz.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=UuE3Y15To8Q",
+      "name": "Lightning Talks June 20 - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=UuE3Y15To8Q&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "lightning talks.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&v=b-luIDn80bc",
+      "name": "LLMs and Wagtail - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=b-luIDn80bc&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB",
+      "description": "by Emily Topp-Mugglestone.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&v=SNEeo_ABQ7g",
+      "name": "PudlStack - Building Wagtail Affinity Group Communities That Offer Bot Helpers - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=SNEeo_ABQ7g&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB",
+      "description": "by Anthony Garcia.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=2&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&pp=i&v=a1O3hKib8Ns",
+      "name": "Auditing Wagtail Content - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=a1O3hKib8Ns&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB&index=2&pp=i",
+      "description": "by Will Barton & Chuck Sebian-Lander.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=1qF5wC4rCY4",
+      "name": "What Editors Really Want - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=1qF5wC4rCY4&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "by Meagen Voss.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=UVBHciwpgKM",
+      "name": "Improving the Editor Experience through Validation - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=UVBHciwpgKM&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "by Scott Cranfill.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=XxdJpYNT4EM",
+      "name": "sditail: Extending Wagtail CMS as a Spatial Data Infrastructure - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=XxdJpYNT4EM&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "by César Benjamin.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=r5ovJPWvxL4",
+      "name": "Packages! Packages! Packages! - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=r5ovJPWvxL4&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "panel.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ&v=vazMp9jTlEU",
+      "name": "Lightning Talks June 21 - Wagtail Space US 2024",
+      "url": "https://www.youtube.com/watch?v=vazMp9jTlEU&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ",
+      "description": "lightning talks.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=1&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=P9Ftbu5NVUI",
+      "name": "The State of Wagtail - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=P9Ftbu5NVUI&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=1",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=2&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=nweVHX5DgWU",
+      "name": "Headless Wagtail Strategies - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=nweVHX5DgWU&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=2",
+      "description": "by Rémy Sanchez.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=3&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=VUoOoRxlWrU",
+      "name": "Wagging HubSpot's Tail - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=VUoOoRxlWrU&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=3",
+      "description": "by Simon Blanchard and Joost Meijerink.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=4&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=vBdG2GfAZAo",
+      "name": "Wagtail and Caching - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=vBdG2GfAZAo&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=4",
+      "description": "by Jake Howard.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=5&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=0kHhGBxwzeM",
+      "name": "Faster Thumbnails for a Faster Web - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=0kHhGBxwzeM&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=5",
+      "description": "by Alex Tomkins.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=6&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=v3KEaMTfKg0",
+      "name": "The impossible art of making everyone happy - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=v3KEaMTfKg0&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=6",
+      "description": "by Matthew Westcott.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=7&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=qJwg2kFtFW4",
+      "name": "Bringing modern authentication to Wagtail: WebAuthn and Passkeys - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=qJwg2kFtFW4&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=7",
+      "description": "by Storm Heg.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=8&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=tOBGJ0riDRw",
+      "name": "How to abuse Wagtail's StreamFields as much as you want - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=tOBGJ0riDRw&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=8",
+      "description": "by Rémy Sanchez.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=9&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=jHuhX_SNF1s",
+      "name": "Wagtail AI and Wagtail Vector Index - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=jHuhX_SNF1s&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=9",
+      "description": "by Dan Braghiș.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=10&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=QxnC70Bwj0k",
+      "name": "Wagtail Translate - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=QxnC70Bwj0k&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=10",
+      "description": "by Coen van der Kamp.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=11&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=bWF06aCjbUM",
+      "name": "You've been caching your content website wrong - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=bWF06aCjbUM&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=11",
+      "description": "by Rémy Sanchez.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=12&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=aNto27_lfJ4",
+      "name": "Universal Listings - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=aNto27_lfJ4&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=12",
+      "description": "by Sage Abdullah.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=13&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=TB64DtQZeB0",
+      "name": "Recovering deleted Django models - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=TB64DtQZeB0&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=13",
+      "description": "by Jake Howard.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=14&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=0msxKe0RoNw",
+      "name": "Wagtail Dashboards - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=0msxKe0RoNw&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=14",
+      "description": "by Judith van Leersum and Emmelien Schiet.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=15&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&v=5rPvOsVeRhA",
+      "name": "Multi-lingual websites in Wagtail - Wagtail Space NL 2024",
+      "url": "https://www.youtube.com/watch?v=5rPvOsVeRhA&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP&index=15",
+      "description": "by Paul Stevens.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=2&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=9Kduqs6NH7Q",
+      "name": "State of Wagtail 2025 - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=9Kduqs6NH7Q&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=2",
+      "description": "by Thibaud Colas.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=3&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=DH87OzXzj28",
+      "name": "Wagtail in industry: from farming to finance - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=DH87OzXzj28&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=3",
+      "description": "by Vince Salvino.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=4&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=8h0fxe7b8s8",
+      "name": "Redesigning and refactoring Wagtail components - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=8h0fxe7b8s8&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=4",
+      "description": "by Mariana.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=5&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=n5KHTLS22YE",
+      "name": "Building Better Wagtail Sites: Traits of a Good CMS - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=n5KHTLS22YE&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=5",
+      "description": "by Michael Trythall.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=6&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=3T-ITKTByH4",
+      "name": "REX: Building a SaaS from Wagtail - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=3T-ITKTByH4&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=6",
+      "description": "by Sébastien Corbin.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=7&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=8_CBltGuv0g",
+      "name": "Implement the French Government Design System in Wagtail - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=8_CBltGuv0g&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=7",
+      "description": "by Sylvain Boissel and Lucie Laporte.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=8&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=h0kKy4R5kNY",
+      "name": "Wagtail Nest: Maintaining Community Packages Together - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=h0kKy4R5kNY&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=8",
+      "description": "by Coen van der Kamp.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=9&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=iTxcq__Gcr4",
+      "name": "Automated Data Loader: Wagtail for Weather Data Integration - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=iTxcq__Gcr4&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=9",
+      "description": "by Erick Otenyo and Grace Amondi.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=10&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=-azqKJdEivk",
+      "name": "Building Flexible Wagtail CMS Experiences for Editors - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=-azqKJdEivk&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=10",
+      "description": "by Annette Lewis and Eric Sherman.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=11&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=hLw3FWb2LfQ",
+      "name": "Building a little YouTube on Wagtail - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=hLw3FWb2LfQ&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=11",
+      "description": "by Tom Dyson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=12&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=Wkjm8xdV_6c",
+      "name": "Creating connections between stories and objects using AI - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=Wkjm8xdV_6c&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=12",
+      "description": "by Trish Thomas.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=16&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=n2fIFJLSH5E",
+      "name": "AI in Wagtail: responsible innovation for content editors - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=n2fIFJLSH5E&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=16",
+      "description": "by Sage Abdullah and Tom Usher.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=17&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=cbANVWkDIs0",
+      "name": "The Bogotá Digital Library: A Wagtail Success Story - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=cbANVWkDIs0&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=17",
+      "description": "by Juan Aguayo.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=18&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=pukU8F3ciEM",
+      "name": "Wagtail and AI Agentic Coding - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=pukU8F3ciEM&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=18",
+      "description": "by Maciej Baron.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=19&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=sW8k4F1DY18",
+      "name": "The Impact of A Contribution to Wagtail - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=sW8k4F1DY18&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=19",
+      "description": "by Chiemezuo Akujobi.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=20&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=UOEvu4Lyj8w",
+      "name": "One URL to Rule Them All: Dynamic Landing Pages in Wagtail - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=UOEvu4Lyj8w&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=20",
+      "description": "by Chrissy Wainwright and Doug Harris.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=21&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=Spdt-W5XotM",
+      "name": "Fact checking with Wagtail - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=Spdt-W5XotM&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=21",
+      "description": "by Jon Chittenden and Craig Dawson.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=22&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=n7bM54MAc24",
+      "name": "Sympa newsletters with Wagtail - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=n7bM54MAc24&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=22",
+      "description": "by Agnès Haasser.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=23&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=XkSX195ssjY",
+      "name": "Code that creates content - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=XkSX195ssjY&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=23",
+      "description": "by Alex Morega.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=24&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=VkPOe_JixTI",
+      "name": "Who's that code snippet? A screen reader guessing game - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=VkPOe_JixTI&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=24",
+      "description": "by Laura Wissiak and Pawel Masarczyk.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=25&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=SsjXnpuLnL0",
+      "name": "Bird Meets Bot: Using AI Tools to Make Wagtail Smarter - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=SsjXnpuLnL0&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=25",
+      "description": "by Alex Tomkins.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=26&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&v=LglWFsqIu3E",
+      "name": "Where next for Wagtail Search? - Wagtail Space 2025",
+      "url": "https://www.youtube.com/watch?v=LglWFsqIu3E&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ&index=26",
+      "description": "by Matt Westcott.",
+      "section": [
+        "Resources",
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://pythonpodcast.com/episodepage/episode-58-wagtail-with-tom-dyson",
+      "name": "Podcast.__init__ Episode 58 - Wagtail with Tom Dyson",
+      "url": "https://www.pythonpodcast.com/episodepage/episode-58-wagtail-with-tom-dyson",
+      "description": "In this episode Tom Dyson explains how Wagtail came to be created, what sets it apart from other options, and when you should implement it for your projects.",
+      "section": [
+        "Resources",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://djangochat.com/episodes/wagtail-cms-tom-dyson",
+      "name": "Django Chat E9: Wagtail CMS - Tom Dyson",
+      "url": "https://djangochat.com/episodes/wagtail-cms-tom-dyson",
+      "description": "An interview with Tom Dyson on Wagtail, the leading Django-based CMS used by tens of thousands of organizations including Google, NASA, and the British NHS.",
+      "section": [
+        "Resources",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://djangochat.com/episodes/wagtail-react-gatsby-dawn-wages-RaD8k37m",
+      "name": "Django Chat E84: Dawn Wages",
+      "url": "https://djangochat.com/episodes/wagtail-react-gatsby-dawn-wages-RaD8k37m",
+      "description": "An interview with Dawn Wages, a core Wagtail team member. Discussion about Wagtail, React and Gatsby.",
+      "section": [
+        "Resources",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations",
+      "name": "Django Chat E168: Thibaud Colas",
+      "url": "https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations",
+      "description": "An interview with a core team member of Wagtail, discussing the current status of Django, upcoming DSF Board elections, Wagtail roadmap & community opportunities.",
+      "section": [
+        "Resources",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://learnwagtail.com",
+      "name": "Learn Wagtail",
+      "url": "https://learnwagtail.com/",
+      "description": "Regular video tutorials about all aspects of Wagtail.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ciYNMcv3lE0",
+      "name": "Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience",
+      "url": "https://www.youtube.com/watch?v=ciYNMcv3lE0",
+      "description": "Catherine talks you through the steps you can take to add some useful supplementary text fields to the Wagtail admin.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ei7ot_Wry3o",
+      "name": "Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail",
+      "url": "https://www.youtube.com/watch?v=ei7ot_Wry3o",
+      "description": "Catherine talks you through the steps you can take to customise your rich text editors to control which features are available to your content editors.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=uZc0aZrHtQw",
+      "name": "Wagtail Wednesdays #03 - Using tabs to create a cleaner admin interface",
+      "url": "https://www.youtube.com/watch?v=uZc0aZrHtQw",
+      "description": "Chris talks you through using tabs to organise fields.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=HGXHtFpLDCA",
+      "name": "Wagtail Wednesdays #04 - Organising Images and Documents using Wagtail Collections",
+      "url": "https://www.youtube.com/watch?v=HGXHtFpLDCA",
+      "description": "Kieran talks you through the process of organising your images and documents into collections.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=CedcZmQ9KHs",
+      "name": "Wagtail Wednesdays #05 - How to organise your fields and streamline the editor experience",
+      "url": "https://www.youtube.com/watch?v=CedcZmQ9KHs",
+      "description": "Chelsea talks you through the process of organising your fields to make it easier to manage them and streamline the editor experience.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=KJWCGq3IRNc",
+      "name": "Wagtail Wednesdays #06 - Creating & using custom settings in your wagtail site",
+      "url": "https://www.youtube.com/watch?v=KJWCGq3IRNc",
+      "description": "Chris talks you through setting up and using custom site settings.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=_CfU9UivYPI",
+      "name": "Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide",
+      "url": "https://www.youtube.com/watch?v=_CfU9UivYPI",
+      "description": "It’s a really helpful resource that takes no time at all to enable and it allows you to check your components against the guidelines and shows all the available Wagtail icons.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=uD9PTag2-PQ",
+      "name": "How to Deploy Wagtail to Google App Engine",
+      "url": "https://www.youtube.com/watch?v=uD9PTag2-PQ",
+      "description": "Focus is Google Cloud Platform but a great introduction on how to get Wagtail up and running in their PAAS.",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://wagtail.org/showcase",
+      "name": "Offiical showcase - Projects made with Wagtail",
+      "url": "https://wagtail.org/showcase/",
+      "description": "Curated list of websites and apps that gives you a taste of the very best projects built with Wagtail.",
+      "section": [
+        "Resources",
+        "Showcases"
+      ]
+    },
+    {
+      "key": "https://madewithwagtail.org",
+      "name": "Made with Wagtail",
+      "url": "https://madewithwagtail.org/",
+      "description": "A showcase of sites and apps made with Wagtail CMS.",
+      "section": [
+        "Resources",
+        "Showcases"
+      ]
+    },
+    {
+      "key": "https://wagtail.org/packages",
+      "name": "Wagtail third-party packages",
+      "url": "https://wagtail.org/packages/",
+      "description": "Official list based on PyPI data.",
+      "section": [
+        "Resources",
+        "Package lists"
+      ]
+    },
+    {
+      "key": "https://pypi.org/search?c=Framework :: Wagtail",
+      "name": "Framework: Wagtail on PyPI",
+      "url": "https://pypi.org/search/?c=Framework+%3A%3A+Wagtail",
+      "description": "Packages tagged as Framework: Wagtail.",
+      "section": [
+        "Resources",
+        "Package lists"
+      ]
+    },
+    {
+      "key": "https://djangopackages.org/grids/g/wagtail-cms",
+      "name": "Wagtail grid - Django Packages",
+      "url": "https://djangopackages.org/grids/g/wagtail-cms/",
+      "description": "Wagtail projects and packages on Django Packages.",
+      "section": [
+        "Resources",
+        "Package lists"
+      ]
+    },
+    {
+      "key": "https://guide.wagtail.org",
+      "name": "Wagtail user guide",
+      "url": "https://guide.wagtail.org/",
+      "description": "The official user guide for anyone creating content or managing content production in Wagtail",
+      "section": [
+        "For editors"
+      ]
+    },
+    {
+      "key": "https://mozillafoundation.org/en/docs/how-do-i-wagtail",
+      "name": "How Do I Wagtail?",
+      "url": "https://www.mozillafoundation.org/en/docs/how-do-i-wagtail/",
+      "description": "Mozilla's editor facing guide for how to use Wagtail's admin interface.",
+      "section": [
+        "For editors"
+      ]
+    },
+    {
+      "key": "https://portal.cca.edu/help/wagtail-documentation",
+      "name": "CCA Wagtail Editor Portal",
+      "url": "https://portal.cca.edu/help/wagtail-documentation/",
+      "description": "User facing documentation for Wagtail by California College of the Arts",
+      "section": [
+        "For editors"
+      ]
+    },
+    {
+      "key": "https://sites.caltech.edu",
+      "name": "Caltech Wagtail Editor Portal",
+      "url": "https://sites.caltech.edu/",
+      "description": "User facing documentation for Wagtail by Caltech",
+      "section": [
+        "For editors"
+      ]
+    },
+    {
+      "key": "https://wagtail.space",
+      "name": "Wagtail Space",
+      "url": "https://www.wagtail.space/",
+      "description": "Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 13th until 15th 2019, Wagtail Space takes place in Arnhem, The Netherlands.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://telegram.me/wagtail",
+      "name": "Wagtail updates on Telegram",
+      "url": "https://telegram.me/wagtail",
+      "description": "Unofficial Telegram channel for general Wagtail updates.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://telegram.me/wagtailcms",
+      "name": "Wagtail support on Telegram",
+      "url": "https://telegram.me/wagtailcms",
+      "description": "Unofficial Telegram channel for support questions and discussions.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/bakerydemo",
+      "name": "Wagtail demo project",
+      "url": "https://github.com/wagtail/bakerydemo",
+      "description": "Next generation Wagtail demo, born in Reykjavík.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/torchbox/torchbox.com",
+      "name": "Torchbox.com on Wagtail",
+      "url": "https://github.com/torchbox/torchbox.com",
+      "description": "Torchbox website 2024 incarnation.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/springload/madewithwagtail",
+      "name": "Made with Wagtail",
+      "url": "https://github.com/springload/madewithwagtail",
+      "description": "A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/fecgov/fec-cms",
+      "name": "Federal Election Commission",
+      "url": "https://github.com/fecgov/fec-cms",
+      "description": "The content management system (CMS) for the new Federal Election Commission website.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/nfletton/bvspca",
+      "name": "Bow Valley SPCA Website",
+      "url": "https://github.com/nfletton/bvspca",
+      "description": "Wagtail/Django based website of the Bow Valley SPCA.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/freedomofpress/securedrop.org",
+      "name": "SecureDrop",
+      "url": "https://github.com/freedomofpress/securedrop.org",
+      "description": "Wagtail-powered website of the SecureDrop whistleblower document submission system.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/cfpb/consumerfinance.gov",
+      "name": "consumerfinance.gov",
+      "url": "https://github.com/cfpb/consumerfinance.gov",
+      "description": "Django project protecting American consumers.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/WesternFriend/westernfriend.org",
+      "name": "Western Friend website",
+      "url": "https://github.com/WesternFriend/westernfriend.org",
+      "description": "A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/outreachy/website",
+      "name": "Outreachy website",
+      "url": "https://github.com/outreachy/website",
+      "description": "Code for the Outreachy website, based on Python, Django, and Bootstrap.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/guide",
+      "name": "Wagtail user guide",
+      "url": "https://github.com/wagtail/guide",
+      "description": "A website to teach Wagtail to content editors, moderators and administrators.",
+      "section": [
+        "Open-source sites"
+      ]
+    },
+    {
+      "key": "https://github.com/danlerche/public-library-wagtailCMS",
+      "name": "Penticon Public Library",
+      "url": "https://github.com/danlerche/public-library-wagtailCMS",
+      "description": "This is an example public library website using wagtail CMS.",
+      "section": [
+        "Open-source sites"
+      ]
+    }
+  ]
+}

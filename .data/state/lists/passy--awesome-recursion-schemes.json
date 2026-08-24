@@ -1,0 +1,423 @@
+{
+  "etag": "W/\"6f244e439547654dd15596afbec93014e51128548ecb25d626f6ea1910820c9f\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/passy/awesome-recursion-schemes",
+      "name": "Awesome Recursion Schemes",
+      "url": "https://github.com/passy/awesome-recursion-schemes",
+      "description": "A curation of useful resources for learning about and using recursion schemes.",
+      "section": [
+        "Introductions"
+      ]
+    },
+    {
+      "key": "https://jtobin.io/practical-recursion-schemes",
+      "name": "Practical Recursion Schemes",
+      "url": "https://jtobin.io/practical-recursion-schemes",
+      "description": "Introduction to pattern functors, fix points, anamorphisms, catamorphisms, paramorphisms and hylomorphisms, requiring very little prior knowledge.",
+      "section": [
+        "Introductions"
+      ]
+    },
+    {
+      "key": "https://blog.sumtypeofway.com/an-introduction-to-recursion-schemes",
+      "name": "An Introduction to Recursion Schemes",
+      "url": "http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/",
+      "description": "Three-part series in which you discover recursion schemes from scratch and implement a small subset of Edward Kmett's library.",
+      "section": [
+        "Introductions"
+      ]
+    },
+    {
+      "key": "https://schoolofhaskell.com/user/bartosz/understanding-algebras",
+      "name": "Understanding Algebras",
+      "url": "https://www.schoolofhaskell.com/user/bartosz/understanding-algebras",
+      "description": "Bartosz Milewski explains F-algebras and shows how to use them in the context of catamorphisms.",
+      "section": [
+        "Introductions"
+      ]
+    },
+    {
+      "key": "https://medium.com/@JosephJnk/recursion-schemes-in-javascript-and-flow-with-static-land-recursision-schemes-97cf10599fb7",
+      "name": "Recursion Schemes in JavaScript and Flow",
+      "url": "https://medium.com/@JosephJnk/recursion-schemes-in-javascript-and-flow-with-static-land-recursision-schemes-97cf10599fb7",
+      "description": "Series introducing recursion schemes and related concepts in JavaScript, aimed at developers with a minimal functional programming background.",
+      "section": [
+        "Introductions"
+      ]
+    },
+    {
+      "key": "https://comonad.com/reader/2009/recursion-schemes",
+      "name": "Recursion Schemes: A Field Guide (Redux)",
+      "url": "http://comonad.com/reader/2009/recursion-schemes/",
+      "description": "List of various recursion schemes with code samples.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://wiki.haskell.org/Catamorphisms",
+      "name": "Catamorphisms",
+      "url": "https://wiki.haskell.org/Catamorphisms",
+      "description": "Definition on the Haskell Wiki.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms",
+      "name": "Catamorphisms",
+      "url": "https://www.schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms",
+      "description": "Short definition with code on School of Haskell by Edward Kmett.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://jtobin.io/rotating-squares",
+      "name": "Rotating Squares",
+      "url": "https://jtobin.io/rotating-squares",
+      "description": "Using a hylomorphism to rotate a quadtree by Jared Tobin.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://blog.sumtypeofway.com/recursion-schemes-part-v",
+      "name": "Recursion Schemes, Part V: Hello, Hylomorphisms",
+      "url": "http://blog.sumtypeofway.com/recursion-schemes-part-v/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://jtobin.io/promorphisms-pre-post",
+      "name": "Promorphisms, Pre and Post",
+      "url": "https://jtobin.io/promorphisms-pre-post",
+      "description": "Practical examples of pre- and postpromorphisms by Jared Tobin.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://jtobin.io/time-traveling-recursion",
+      "name": "Time Traveling Recursion Schemes",
+      "url": "https://jtobin.io/time-traveling-recursion",
+      "description": "Exploring histo and futu by example by Jared Tobin.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence",
+      "name": "Recursion Schemes, Part IV: Time is of the Essence",
+      "url": "http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/",
+      "description": "Practical article about histomorphism and the futumorphism.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf",
+      "name": "Cheat Sheet",
+      "url": "https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf",
+      "description": "Map of various recursion schemes and their duals.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html",
+      "name": "Correcting the Visitor pattern",
+      "url": "http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html",
+      "description": "Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://free.cofree.io/2017/11/13/recursion",
+      "name": "Recursion Schemes in Scala",
+      "url": "https://free.cofree.io/2017/11/13/recursion/",
+      "description": "Introduces the fixpoint combinator, anamorphism, catamorphism, hylomorphism, paramorphism, apomorphism, histomorphism, dynamorphism and futumorphism.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://duplode.github.io/posts/whats-in-a-fold.html",
+      "name": "What's in a Fold: The Basic Catamorphism in recursion-schemes",
+      "url": "https://duplode.github.io/posts/whats-in-a-fold.html",
+      "description": "Introduces catamorphism as a generalization of fold.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild",
+      "name": "Stalking a Hylomorphism in the Wild",
+      "url": "https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/",
+      "description": "Advent of Code 2017, Domino challenge",
+      "section": [
+        "Articles",
+        "Hylomorphisms in the Wild"
+      ]
+    },
+    {
+      "key": "https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms",
+      "name": "Open Seasons on Hylomorphisms",
+      "url": "https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms/",
+      "description": "Advent of Code 2018, String comparison challenge",
+      "section": [
+        "Articles",
+        "Hylomorphisms in the Wild"
+      ]
+    },
+    {
+      "key": "https://maartenfokkinga.github.io/utwente/mmf91m.pdf",
+      "name": "Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire, 1991, Meijer et al.",
+      "url": "http://maartenfokkinga.github.io/utwente/mmf91m.pdf",
+      "description": "The original paper most of this is based on.",
+      "section": [
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://cs.ox.ac.uk/ralf.hinze/publications/Sorting.pdf",
+      "name": "A Duality of Sorts, 2013, Hinze et al.",
+      "url": "http://www.cs.ox.ac.uk/ralf.hinze/publications/Sorting.pdf",
+      "description": "Shows that many basic sorting algorithms exist as a pair, and that these pairs arise naturally out of the duality between folds and unfolds.",
+      "section": [
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://cs.ox.ac.uk/people/daniel.james/sorting/sorting.pdf",
+      "name": "Sorting with Bialgebras and Distributive Laws, 2012, Hinze et al.",
+      "url": "http://www.cs.ox.ac.uk/people/daniel.james/sorting/sorting.pdf",
+      "description": "Shows how paramorphisms and apomorphisms can be used for more efficient implementations of sorting algorithms.",
+      "section": [
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://research.microsoft.com/en-us/um/people/simonpj/Papers/hmap/hmap.ps",
+      "name": "Scrap your boilerplate: a practical design pattern for generic programming, 2003, SPJ et al.",
+      "url": "http://research.microsoft.com/en-us/um/people/simonpj/Papers/hmap/hmap.ps",
+      "description": "Design pattern for writing programs that traverse data structures built from rich mutually-recursive data types.",
+      "section": [
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://timphilipwilliams.com/slides.html",
+      "name": "Slidedecks by Tim Philip Williams",
+      "url": "http://www.timphilipwilliams.com/slides.html",
+      "description": "\"Recursion Schemes by Example\" and \"Exotic Tools for Exotic Trades\" provide concise definitions as well as practical examples of many recursion schemes.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=9EGYSb9vov8",
+      "name": "Unifying Structured Recursion Schemes",
+      "url": "https://www.youtube.com/watch?v=9EGYSb9vov8",
+      "description": "12 min presentation by Ralf Hinze, Nicolas Wu, and Jeremy Gibbons.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Zw9KeP3OzpU",
+      "name": "Recursion Schemes",
+      "url": "https://www.youtube.com/watch?v=Zw9KeP3OzpU",
+      "description": "Presented by Tim Williams at the London Haskell meetup.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=PK4SOaAGVfg",
+      "name": "F-algebras or: How I Learned to Stop Worrying and Love the Type System",
+      "url": "https://www.youtube.com/watch?v=PK4SOaAGVfg",
+      "description": "Presented by Anthony Burzillo at the NYC Haskell User's Group.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=i5A2Amfcir8",
+      "name": "A Gentle Introduction to Recursion Schemes",
+      "url": "https://www.youtube.com/watch?v=i5A2Amfcir8",
+      "description": "Presented by Jean Remi Desjardins at Lambdaconf 2016.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://github.com/sellout/recursion-scheme-talk",
+      "name": "recursion-scheme-talk",
+      "url": "https://github.com/sellout/recursion-scheme-talk",
+      "description": "Collection of slide decks about recursion schemes.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=5Kr7IykGMzU",
+      "name": "Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes",
+      "url": "https://www.youtube.com/watch?v=5Kr7IykGMzU",
+      "description": "High-level talk about structuring programs with coproducts and recursion schemes by Patrick Thomson.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=24UoRaoKLjM",
+      "name": "Recursion: Where Functional Programming Hits Bottom",
+      "url": "https://www.youtube.com/watch?v=24UoRaoKLjM",
+      "description": "Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=-98fR9VmLbQ",
+      "name": "Programming with algebras",
+      "url": "https://www.youtube.com/watch?v=-98fR9VmLbQ",
+      "description": "Bartosz Milewski's article in talk form, presented at LambdaCon.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?t=3s&v=XZ9nPZbaYfE",
+      "name": "Peeling the Banana: Recursion Schemes from First Principles",
+      "url": "https://www.youtube.com/watch?v=XZ9nPZbaYfE&t=3s",
+      "description": "Zainab Ali's Introductory talk presented at LambdaWorld.",
+      "section": [
+        "Presentations"
+      ]
+    },
+    {
+      "key": "https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf",
+      "name": "The Hitchhiker's Guide to Morphisms",
+      "url": "https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf",
+      "description": "Overview of different morphisms including a printable PDF.",
+      "section": [
+        "Cheat Sheets"
+      ]
+    },
+    {
+      "key": "https://magicreadalong.com",
+      "name": "Magic Read Along",
+      "url": "http://www.magicreadalong.com/",
+      "description": "Casual discussions about category theory that often bring up recursion schemes, including episode 33 which talks about Histomorphisms and Futumorphisms.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://scala.love",
+      "name": "Scala Love",
+      "url": "https://scala.love/",
+      "description": "Podcast about Scala that brings up recursion schemes in the second episode.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://haskellcast.com",
+      "name": "The Haskell Cast",
+      "url": "https://www.haskellcast.com/",
+      "description": "Recursion schemes come up in Episode 13 with John Wiegley.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://github.com/ekmett/recursion-schemes",
+      "name": "recursion-schemes",
+      "url": "https://github.com/ekmett/recursion-schemes/",
+      "description": "for Haskell - The canonical implementation by Edward Kmett.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/slamdata/matryoshka",
+      "name": "Matryoshka",
+      "url": "https://github.com/slamdata/matryoshka",
+      "description": "for Scala using Scalaz - Generalized folds, unfolds, and traversals for fixed point data structures.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/andyscott/droste",
+      "name": "andyscott/droste",
+      "url": "https://github.com/andyscott/droste",
+      "description": "for Scala using Cats - Generalized folds, unfolds, and traversals for fixed point data structures.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/vmchale/recursion_schemes",
+      "name": "recursion_schemes",
+      "url": "https://github.com/vmchale/recursion_schemes/",
+      "description": "for Idris, based off Edward Kmett's Haskell library.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/slamdata/purescript-matryoshka",
+      "name": "purescript-matryoshka",
+      "url": "https://github.com/slamdata/purescript-matryoshka",
+      "description": "for PureScript - Work-in-process port of matryoshka.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/vmchale/recursion",
+      "name": "recursion",
+      "url": "https://github.com/vmchale/recursion",
+      "description": "for ATS - Demonstration of recursion schemes in ATS.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/sellout/dada",
+      "name": "dada",
+      "url": "https://github.com/sellout/dada",
+      "description": "for Dhall - a library for recursion schemes in Dhall.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/JosephJNK/static-land-recursion-schemes",
+      "name": "static-land-recursion-schemes",
+      "url": "https://github.com/JosephJNK/static-land-recursion-schemes",
+      "description": "for JavaScript/Flow - Schemes for data structures written in the style of flow-static-land.",
+      "section": [
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/aedans/Katalyst",
+      "name": "Katalyst",
+      "url": "https://github.com/aedans/Katalyst",
+      "description": "for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.",
+      "section": [
+        "Implementations"
+      ]
+    }
+  ]
+}

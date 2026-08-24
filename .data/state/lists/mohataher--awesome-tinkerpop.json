@@ -1,0 +1,696 @@
+{
+  "etag": "W/\"7428fc4ae1a35975f0d9bc18f240576fba4353a750ad237535091f8cef9a7455\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/apache/tinkerpop",
+      "name": "TinkerPop3 implementation",
+      "url": "https://github.com/apache/tinkerpop",
+      "description": "Mirror of Apache TinkerPop.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/pietermartin/sqlg",
+      "name": "sqlg",
+      "url": "https://github.com/pietermartin/sqlg",
+      "description": "Sqlg is a implementation of TinkerPop3 on a RDBMS.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/blazegraph/database",
+      "name": "blazegraph",
+      "url": "https://github.com/blazegraph/database",
+      "description": "TinkerPop3 implementation for Blaze Graph; a high performance graph database.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/jbmusso/tinkergraph-js",
+      "name": "tinkergraph-js",
+      "url": "https://github.com/jbmusso/tinkergraph-js",
+      "description": "A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/jbmusso/gremlin-javascript",
+      "name": "gremlin-javascript",
+      "url": "https://github.com/jbmusso/gremlin-javascript",
+      "description": "JavaScript graph database client for TinkerPop3 Gremlin Server.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/rmagen/elastic-gremlin",
+      "name": "Elastic Gremlin",
+      "url": "https://github.com/rmagen/elastic-gremlin",
+      "description": "TinkerPop3 implementation on Elasticsearch backend.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://tinkerpop.apache.org/docs/current/reference",
+      "name": "Hadoop (Giraph)",
+      "url": "http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer",
+      "description": "OLAP graph processor using Giraph.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://console.ng.bluemix.net/catalog/services/ibm-graph",
+      "name": "IBM Graph",
+      "url": "https://console.ng.bluemix.net/catalog/services/ibm-graph/",
+      "description": "OLTP graph database as a service.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://tinkerpop.apache.org/docs/currentg",
+      "name": "Neo4j",
+      "url": "http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin",
+      "description": "OLTP graph database.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://stardog.com",
+      "name": "Stardog",
+      "url": "http://stardog.com/",
+      "description": "RDF graph database with OLTP and OLAP support.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/rmagen/unipop",
+      "name": "Unipop",
+      "url": "https://github.com/rmagen/unipop",
+      "description": "OLTP Elasticsearch and JDBC backed graph.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/PureSolTechnologies/DuctileDB",
+      "name": "DuctileDB",
+      "url": "https://github.com/PureSolTechnologies/DuctileDB",
+      "description": "Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/rayokota/hgraphdb",
+      "name": "hgraphdb",
+      "url": "https://github.com/rayokota/hgraphdb",
+      "description": "HBase as a TinkerPop Graph Database.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/JanusGraph/janusgraph",
+      "name": "JanusGraph",
+      "url": "https://github.com/JanusGraph/janusgraph",
+      "description": "JanusGraph: an open-source, distributed graph database http://janusgraph.org",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/awslabs/dynamodb-janusgraph-storage-backend",
+      "name": "JanusGraph for DynamoDB (Amazon)",
+      "url": "https://github.com/awslabs/dynamodb-janusgraph-storage-backend",
+      "description": "The Amazon DynamoDB storage backend for JanusGraph.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://github.com/orientechnologies/orientdb-gremlin",
+      "name": "orientdb-gremlin",
+      "url": "https://github.com/orientechnologies/orientdb-gremlin",
+      "description": "TinkerPop3 Graph Structure Implementation for OrientDB.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Implementations"
+      ]
+    },
+    {
+      "key": "https://nuget.org/packages/Teva.Common.Data.Gremlin",
+      "name": "Teva Gremlin",
+      "url": "https://www.nuget.org/packages/Teva.Common.Data.Gremlin/",
+      "description": "(.NET - C#) - A Gremlin Server driver for .NET.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "C# .NET"
+      ]
+    },
+    {
+      "key": "https://github.com/clojurewerkz/ogre",
+      "name": "ogre",
+      "url": "https://github.com/clojurewerkz/ogre",
+      "description": "Clojure library for querying TinkerPop graphs.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Clojure"
+      ]
+    },
+    {
+      "key": "https://github.com/viagraphs/scalajs-gremlin-client",
+      "name": "scalajs-gremlin-client",
+      "url": "https://github.com/viagraphs/scalajs-gremlin-client",
+      "description": "(scala) - A Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Clojure"
+      ]
+    },
+    {
+      "key": "https://github.com/go-gremlin/gremlin",
+      "name": "go-gremlin",
+      "url": "https://github.com/go-gremlin/gremlin",
+      "description": "Go graph database client for TinkerPop3 Gremlin Server.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://github.com/qasaur/gremgo",
+      "name": "Gremgo",
+      "url": "https://github.com/qasaur/gremgo",
+      "description": "A fast, efficient, and easy-to-use Go client for the TinkerPop graph database stack.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://github.com/northwesternmutual/grammes",
+      "name": "grammes",
+      "url": "https://github.com/northwesternmutual/grammes",
+      "description": "A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://github.com/debug-ito/greskell",
+      "name": "greskell-websocket",
+      "url": "https://github.com/debug-ito/greskell",
+      "description": "Haskell client for TinkerPop3 Gremlin Server.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/neo4j-contrib/neo4j-tinkerpop-api",
+      "name": "neo4j-tinkerpop-api",
+      "url": "https://github.com/neo4j-contrib/neo4j-tinkerpop-api",
+      "description": "Apache Licensed Neo4j API for TinkerPop3.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt",
+      "name": "neo4j-gremlin-bolt",
+      "url": "https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt",
+      "description": "Allows use of the Apache Tinkerpop Java API with the neo4j server using the BOLT protocol.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/Syncleus/Ferma",
+      "name": "Ferma",
+      "url": "https://github.com/Syncleus/Ferma",
+      "description": "An ORM / OGM for the TinkerPop graph stack.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/RedSeal-co/ts-tinkerpop",
+      "name": "ts-tinkerpop",
+      "url": "https://github.com/RedSeal-co/ts-tinkerpop",
+      "description": "Utilities for using TinkerPop3 via the node-java API in Typescript.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Javascript"
+      ]
+    },
+    {
+      "key": "https://github.com/PommeVerte/gremlin-php",
+      "name": "gremlin-php",
+      "url": "https://github.com/PommeVerte/gremlin-php",
+      "description": "gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.).",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/platinummonkey/mogwai",
+      "name": "Mogwai",
+      "url": "https://github.com/platinummonkey/mogwai",
+      "description": "TinkerPop3 Graph Database Library for Python.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/windj007/python-gremlin-rest",
+      "name": "python-gremlin-rest",
+      "url": "https://github.com/windj007/python-gremlin-rest",
+      "description": "A REST-based client for Gremlin Server.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/davebshow/gremlinclient",
+      "name": "gremlinclient",
+      "url": "https://github.com/davebshow/gremlinclient",
+      "description": "An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/davebshow/aiogremlin",
+      "name": "aiogremlin",
+      "url": "https://github.com/davebshow/aiogremlin",
+      "description": "(python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://gremlinrestclient.readthedocs.org/en/latest",
+      "name": "gremlinrestclient",
+      "url": "http://gremlinrestclient.readthedocs.org/en/latest/",
+      "description": "(python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/ZEROFAIL/goblin",
+      "name": "goblin",
+      "url": "https://github.com/ZEROFAIL/goblin",
+      "description": "OGM for TinkerPop3 Gremlin Server.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/davebshow/goblin",
+      "name": "goblin 3.5",
+      "url": "https://github.com/davebshow/goblin",
+      "description": "A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/coreyauger/reactive-gremlin",
+      "name": "reactive-gremlin",
+      "url": "https://github.com/coreyauger/reactive-gremlin",
+      "description": "(scala) - An Akka HTTP Websocket Connector.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Reactive"
+      ]
+    },
+    {
+      "key": "https://github.com/mpollmeier/gremlin-scala",
+      "name": "Gremlin Scala",
+      "url": "https://github.com/mpollmeier/gremlin-scala",
+      "description": "Scala wrapper for Apache TinkerPop3 Graph DSL.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Scala"
+      ]
+    },
+    {
+      "key": "https://github.com/anvie/blueprints-scala",
+      "name": "blueprints-scala",
+      "url": "https://github.com/anvie/blueprints-scala",
+      "description": "Tinkerpop Blueprints Scala.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Wrappers/Clients",
+        "Scala"
+      ]
+    },
+    {
+      "key": "https://github.com/emehrkay/gremlinpy",
+      "name": "gremlin-py",
+      "url": "https://github.com/emehrkay/gremlinpy",
+      "description": "Write pure Python Gremlin that can be sent to Gremlin Server.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/jbmusso/gremlin-template-string",
+      "name": "gremlin-template-string",
+      "url": "https://github.com/jbmusso/gremlin-template-string",
+      "description": "A Javascript Gremlin language builder.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/davebshow/ipython-gremlin",
+      "name": "ipython-gremlin",
+      "url": "https://github.com/davebshow/ipython-gremlin",
+      "description": "Gremlin in IPython and Jupyter.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://ogre.clojurewerkz.org",
+      "name": "ogre",
+      "url": "http://ogre.clojurewerkz.org/",
+      "description": "A Clojure language wrapper for TinkerPop3.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/bayofmany/peapod",
+      "name": "Peapod",
+      "url": "https://github.com/bayofmany/peapod",
+      "description": "A new object-graph-wrapper for the Tinkerpop3 graph stack.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/dkuppitz/sparql-gremlin",
+      "name": "sparql-gremlin",
+      "url": "https://github.com/dkuppitz/sparql-gremlin",
+      "description": "A SPARQL to Gremlin traversal compiler.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/twilmes/sql-gremlin",
+      "name": "sql-gremlin",
+      "url": "https://github.com/twilmes/sql-gremlin",
+      "description": "A SQL to Gremlin traversal compiler.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/opencypher/cypher-for-gremlin",
+      "name": "Cypher for Gremlin",
+      "url": "https://github.com/opencypher/cypher-for-gremlin",
+      "description": "Cypher for Gremlin adds Cypher support to any Gremlin graph database.",
+      "section": [
+        "TinkerPop3 Libraries",
+        "Query Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/tinkerpop/frames",
+      "name": "Frames",
+      "url": "https://github.com/tinkerpop/frames",
+      "description": "An Object to Graph Framework.",
+      "section": [
+        "TinkerPop 2 Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/clojurewerkz/archimedes",
+      "name": "Archimedes",
+      "url": "https://github.com/clojurewerkz/archimedes",
+      "description": "Clojure library for Blueprints (part of the TinkerPop graph stack).",
+      "section": [
+        "TinkerPop 2 Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/JHUAPL/AccumuloGraph",
+      "name": "AccumuloGraph",
+      "url": "https://github.com/JHUAPL/AccumuloGraph",
+      "description": "An implementation of TinkerPop Blueprints using Accumulo.",
+      "section": [
+        "TinkerPop 2 Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/Loupi/Frontenac",
+      "name": "Frontenac",
+      "url": "https://github.com/Loupi/Frontenac",
+      "description": "A .NET port of the TinkerPop Stack.",
+      "section": [
+        "TinkerPop 2 Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/gjrwebber/spring-data-gremlin",
+      "name": "spring-data-gremlin",
+      "url": "https://github.com/gjrwebber/spring-data-gremlin",
+      "description": "Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the TinkerPop Blueprints 2.x API.",
+      "section": [
+        "TinkerPop 2 Libraries"
+      ]
+    },
+    {
+      "key": "https://groups.google.com/forum",
+      "name": "Gremlin-users",
+      "url": "https://groups.google.com/forum/#!forum/gremlin-users",
+      "description": "Mailing list for Gremlin users.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/questions/tagged/tinkerpop3",
+      "name": "Stack Overflow",
+      "url": "http://stackoverflow.com/questions/tagged/tinkerpop3",
+      "description": "Stack Overflow has a relatively active community.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev",
+      "name": "TinkerPop-dev",
+      "url": "http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/",
+      "description": "Mailing list for TP3 deverlopers.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://markorodriguez.com",
+      "name": "Marko Rodriguez",
+      "url": "https://markorodriguez.com/",
+      "description": "Founder of TinkerPop and Aurelius.",
+      "section": [
+        "People to Follow"
+      ]
+    },
+    {
+      "key": "https://twitter.com/spmallette?lang=en-gb",
+      "name": "Stephen Mallette",
+      "url": "https://twitter.com/spmallette?lang=en-gb",
+      "description": "Senior developer for Gremlin, TinkerPop and Titan DB.",
+      "section": [
+        "People to Follow"
+      ]
+    },
+    {
+      "key": "https://about.me/daniel.kuppitz",
+      "name": "Daniel Kuppitz",
+      "url": "https://about.me/daniel.kuppitz",
+      "description": "One of the main developers of Gremlin.",
+      "section": [
+        "People to Follow"
+      ]
+    },
+    {
+      "key": "https://github.com/pluradj",
+      "name": "Jason Plurad",
+      "url": "https://github.com/pluradj",
+      "description": "Senior Developer at IBM. TinkerPop committer and active on the community.",
+      "section": [
+        "People to Follow"
+      ]
+    },
+    {
+      "key": "https://tinkerpop.apache.org/gremlin.html",
+      "name": "Introduction to Gremlin",
+      "url": "http://tinkerpop.apache.org/gremlin.html",
+      "description": "Official introduction to the Gremlin language.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin",
+      "name": "Datastax Introduction",
+      "url": "https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin",
+      "description": "A tutorial provided by Datastax to Gremlin and TinkerPop3.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://tinkerpopbook.com",
+      "name": "TinkerPop Book",
+      "url": "http://www.tinkerpopbook.com/",
+      "description": "A long promised book for Tinkeprop but never fulfilled until now. You cans till request a notification.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf",
+      "name": "Linux Foundation Presentation",
+      "url": "http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf",
+      "description": "A presentation by Linux Foundation given by David Robinson at IBM aboit Apache TinkerPop3.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://tinkerpop.apache.org/docs/current/tutorials/getting-started",
+      "name": "Getting Started with TinkerPop",
+      "url": "http://tinkerpop.apache.org/docs/current/tutorials/getting-started/",
+      "description": "Learn the basics of getting up and going with TinkerPop.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console",
+      "name": "The Gremlin Console",
+      "url": "http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/",
+      "description": "Discusses uses cases of the Gremlin Console and usage patterns.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/recipes",
+      "name": "Gremlin Recipes",
+      "url": "http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/recipes/",
+      "description": "Reference for common traversal patterns and style.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants",
+      "name": "Gremlin Language Variants",
+      "url": "http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/",
+      "description": "Learn how to embed Gremlin in a host programming language.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://sql2gremlin.com",
+      "name": "SQL2Gremlin",
+      "url": "http://sql2gremlin.com/",
+      "description": "Learn Gremlin using typical patterns found when querying data with SQL.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://academy.datastax.com/demos/getting-started-graph-databases",
+      "name": "Getting Started with Graph Databases",
+      "url": "https://academy.datastax.com/demos/getting-started-graph-databases",
+      "description": "Compares relational databases to graph databases and SQL to Gremlin.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/krlawrence/graph",
+      "name": "Graph",
+      "url": "https://github.com/krlawrence/graph",
+      "description": "Graph Databases, Gremlin and TinkerPop - A Tutorial.",
+      "section": [
+        "Tutorials and Resources"
+      ]
+    }
+  ]
+}

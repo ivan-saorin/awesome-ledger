@@ -1,0 +1,1425 @@
+{
+  "etag": "W/\"1596e063aebb41b149360384b09e327c373d344b68a88f181ad6e78a13ad9405\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://getcomposer.org",
+      "name": "Official Website",
+      "url": "https://getcomposer.org/",
+      "description": "",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://github.com/composer/composer",
+      "name": "GitHub",
+      "url": "https://github.com/composer/composer",
+      "description": "",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://github.com/composer/composer/issues",
+      "name": "Issues",
+      "url": "https://github.com/composer/composer/issues",
+      "description": "",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://github.com/composer/composer/tree/HEAD/src/Composer",
+      "name": "Source",
+      "url": "https://github.com/composer/composer/tree/HEAD/src/Composer",
+      "description": "",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://getcomposer.org/doc",
+      "name": "Documentation",
+      "url": "https://getcomposer.org/doc/",
+      "description": "",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://getcomposer.org/doc/00-intro.md",
+      "name": "Getting Started Guide and Installation Instructions",
+      "url": "https://getcomposer.org/doc/00-intro.md",
+      "description": "",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://packagist.org",
+      "name": "Find Packages on Packagist",
+      "url": "https://packagist.org/",
+      "description": "",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://composer.json.jolicode.com",
+      "name": "CheatSheet",
+      "url": "https://composer.json.jolicode.com/",
+      "description": "Overview of CLI commands and composer.json schema.",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://github.com/composer/installers",
+      "name": "Composer Installers",
+      "url": "https://github.com/composer/installers",
+      "description": "Composer installers for multiple frameworks.",
+      "section": [
+        "Composer"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/questions/ask?tags=composer-php php",
+      "name": "Ask a new question",
+      "url": "https://stackoverflow.com/questions/ask?tags=composer-php+php",
+      "description": "",
+      "section": [
+        "Composer",
+        "Support",
+        "Stack Overflow"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/questions/tagged/composer-php",
+      "name": "Find questions tagged composer-php",
+      "url": "https://stackoverflow.com/questions/tagged/composer-php",
+      "description": "",
+      "section": [
+        "Composer",
+        "Support",
+        "Stack Overflow"
+      ]
+    },
+    {
+      "key": "https://irc.com",
+      "name": "#composer",
+      "url": "https://irc.com/#composer",
+      "description": "for users and #composer-dev for development.",
+      "section": [
+        "Composer",
+        "Support",
+        "IRC"
+      ]
+    },
+    {
+      "key": "https://getcomposer.org/doc/articles/plugins.md",
+      "name": "Documentation for Plugins",
+      "url": "https://getcomposer.org/doc/articles/plugins.md",
+      "description": "This offical documentation is good starting point, when writing a Composer plugin.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/fxpio/composer-asset-plugin",
+      "name": "Composer-Asset-Plugin",
+      "url": "https://github.com/fxpio/composer-asset-plugin",
+      "description": "A npm/Bower Dependencies Manager for Composer.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/naderman/composer-aws",
+      "name": "Composer-AWS",
+      "url": "https://github.com/naderman/composer-aws",
+      "description": "The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/bamarni/composition",
+      "name": "Composer-Composition",
+      "url": "https://github.com/bamarni/composition",
+      "description": "Provides an API, for checking your environment at runtime.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/nfreear/composer-suggest",
+      "name": "Composer-Suggest",
+      "url": "https://github.com/nfreear/composer-suggest",
+      "description": "Enables you to install a custom group of suggested packages, based on keyword patterns.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Soullivaneuh/composer-versions-check",
+      "name": "Composer-Versions-Check",
+      "url": "https://github.com/Soullivaneuh/composer-versions-check",
+      "description": "Shows outdated packages from last major versions after using the update command (showing \"Latest is vX.Y.Z\").",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/pyrech/composer-changelogs",
+      "name": "Composer-Changelogs",
+      "url": "https://github.com/pyrech/composer-changelogs",
+      "description": "Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/wikimedia/composer-merge-plugin",
+      "name": "Composer-Merge-Plugin",
+      "url": "https://github.com/wikimedia/composer-merge-plugin",
+      "description": "Merges multiple composer.json files at Composer runtime.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/bamarni/composer-bin-plugin",
+      "name": "Composer-Bin-Plugin",
+      "url": "https://github.com/bamarni/composer-bin-plugin",
+      "description": "Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/theofidry/composer-inheritance-plugin",
+      "name": "Composer-Inheritance-Plugin",
+      "url": "https://github.com/theofidry/composer-inheritance-plugin",
+      "description": "Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/beberlei/composer-monorepo-plugin",
+      "name": "Composer-MonoRepo-Plugin",
+      "url": "https://github.com/beberlei/composer-monorepo-plugin",
+      "description": "The plugin helps to manage dependencies for multiple packages in a single repository.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/netresearch/composer-patches-plugin",
+      "name": "Composer-Patches-Plugin",
+      "url": "https://github.com/netresearch/composer-patches-plugin",
+      "description": "Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/cweagans/composer-patches",
+      "name": "Composer-Patches",
+      "url": "https://github.com/cweagans/composer-patches",
+      "description": "The plugin applies a patch from a local or remote file to any required package.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/vaimo/composer-patches",
+      "name": "Composer-Patches",
+      "url": "https://github.com/vaimo/composer-patches",
+      "description": "Applies a patch from a local or remote file to any package that is part of a given composer project.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mageops/php-composer-plugin-patchset",
+      "name": "Composer-Patchset",
+      "url": "https://github.com/mageops/php-composer-plugin-patchset",
+      "description": "Automatically fetch, update and apply patches to any composer package with a twist - store the patchset as a composer package itself.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Webysther/composer-plugin-qa",
+      "name": "Composer-Plugin-QA",
+      "url": "https://github.com/Webysther/composer-plugin-qa",
+      "description": "Comprehensive Plugin for composer to execute PHP Quality assurance Tools.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/barryvdh/composer-cleanup-plugin",
+      "name": "Composer-Cleanup-Plugin",
+      "url": "https://github.com/barryvdh/composer-cleanup-plugin",
+      "description": "Removes tests & documentation folders from the vendor dir.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/dg/composer-cleaner",
+      "name": "Composer-Cleaner",
+      "url": "https://github.com/dg/composer-cleaner",
+      "description": "The tool removes unnecessary files and directories from the vendor directory.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/lichunqiang/composer-ignore-plugin",
+      "name": "Composer-Ignore-Plugin",
+      "url": "https://github.com/lichunqiang/composer-ignore-plugin",
+      "description": "Enables you to remove files and folders from the vendor folder (to make a cleaner and smaller deployment to production). It's an alternative to .gitattributes.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/liborm85/composer-vendor-cleaner",
+      "name": "Composer-Vendor-Cleaner",
+      "url": "https://github.com/liborm85/composer-vendor-cleaner",
+      "description": "Plugin removes unnecessary development files and directories from vendor directory by glob pattern syntax.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ssx/skrub",
+      "name": "Composer-Skrub",
+      "url": "https://github.com/ssx/skrub",
+      "description": "The plugin helps to remove junk from Composer installations and trim build sizes.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/drupal/core-vendor-hardening",
+      "name": "Drupal Vendor Hardening Composer Plugin",
+      "url": "https://github.com/drupal/core-vendor-hardening",
+      "description": "Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Letudiant/composer-shared-package-plugin",
+      "name": "Composer-Shared-Package-Plugin",
+      "url": "https://github.com/Letudiant/composer-shared-package-plugin",
+      "description": "Allows you to share selected packages between your projects by creating symlinks.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/e-picas/composer-symlinker",
+      "name": "Composer-Symlinker",
+      "url": "https://github.com/e-picas/composer-symlinker",
+      "description": "Enables you to load packages from different directories (instead of loading them from /vendor).",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/hirak/prestissimo",
+      "name": "Prestissimo",
+      "url": "https://github.com/hirak/prestissimo",
+      "description": "A parallel downloader using phpext_curl.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ngyuki/composer-curl-plugin",
+      "name": "Composer-Curl-Plugin",
+      "url": "https://github.com/ngyuki/composer-curl-plugin",
+      "description": "The plugin uses phpext_curl for downloading packages.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mnsami/composer-custom-directory-installer",
+      "name": "Composer-Custom-Directory-Installer",
+      "url": "https://github.com/mnsami/composer-custom-directory-installer",
+      "description": "A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/shipmonk-rnd/composer-dependency-analyser",
+      "name": "Composer-Dependency-Analyzer",
+      "url": "https://github.com/shipmonk-rnd/composer-dependency-analyser",
+      "description": "The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://packagist.org/packages/jms/composer-deps-analyzer",
+      "name": "Composer-Dependency-Analyzer",
+      "url": "https://packagist.org/packages/jms/composer-deps-analyzer",
+      "description": "Allows you to build a dependency graph for an installed composer project.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/clue/graph-composer",
+      "name": "Graph-Composer",
+      "url": "https://github.com/clue/graph-composer",
+      "description": "Provides a graph visualization for your project's composer.json and its dependencies.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Ocramius/PackageVersions",
+      "name": "PackageVersions",
+      "url": "https://github.com/Ocramius/PackageVersions",
+      "description": "Provides a very quick and easy access to installed composer dependency versions.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/composer/package-versions-deprecated",
+      "name": "PackageVersions Deprecated",
+      "url": "https://github.com/composer/package-versions-deprecated",
+      "description": "Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mindplay-dk/composer-locator",
+      "name": "Composer-Locator",
+      "url": "https://github.com/mindplay-dk/composer-locator",
+      "description": "Provides a means of locating the installation path for a given Composer package name.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ThaDafinser/PackageInfo",
+      "name": "PackageInfo",
+      "url": "https://github.com/ThaDafinser/PackageInfo",
+      "description": "Enables you to retrieve all package informations (like version, tag, release date, description).",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/BrainMaestro/composer-git-hooks",
+      "name": "Composer-Git-Hooks",
+      "url": "https://github.com/BrainMaestro/composer-git-hooks",
+      "description": "A library for easily managing git hooks in your composer config.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/symfony/flex",
+      "name": "Symfony-Flex",
+      "url": "https://github.com/symfony/flex",
+      "description": "Provides recipe-based installation and configuration management for Symfony packages.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/narrowspark/automatic",
+      "name": "Narrowspark-Automatic",
+      "url": "https://github.com/narrowspark/automatic",
+      "description": "Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/PHPCSStandards/composer-installer",
+      "name": "PHPCodeSniffer-Composer-Installer",
+      "url": "https://github.com/PHPCSStandards/composer-installer",
+      "description": "The plugin enables you to install PHP_CodeSniffer coding standards (rulesets).",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jderusse/composer-warmup",
+      "name": "Composer-Warmup",
+      "url": "https://github.com/jderusse/composer-warmup",
+      "description": "The plugin adds the command warmup-opcode to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/fxpio/foxy",
+      "name": "Foxy",
+      "url": "https://github.com/fxpio/foxy",
+      "description": "Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/thecodingmachine/nodejs-installer",
+      "name": "NodeJS-Installer",
+      "url": "https://github.com/thecodingmachine/nodejs-installer",
+      "description": "Installer for Node.js and npm.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mariusbuescher/node-composer",
+      "name": "Node-Composer",
+      "url": "https://github.com/mariusbuescher/node-composer",
+      "description": "Installer for Node.js, npm and yarn.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/typisttech/imposter-plugin",
+      "name": "Imposter-Plugin",
+      "url": "https://github.com/typisttech/imposter-plugin",
+      "description": "Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Ayesh/Composer-Preload",
+      "name": "Composer Preload",
+      "url": "https://github.com/Ayesh/Composer-Preload",
+      "description": "The plugin generates a vendor/preload.php file to warm up the Opcache.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/krakphp/php-inc",
+      "name": "PHP Inc",
+      "url": "https://github.com/krakphp/php-inc",
+      "description": "Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/slince/composer-registry-manager",
+      "name": "Composer Registry Manager",
+      "url": "https://github.com/slince/composer-registry-manager",
+      "description": "Enables you to switch between different composer repositories.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/kalessil/production-dependencies-guard",
+      "name": "Production-Dependencies-Guard",
+      "url": "https://github.com/kalessil/production-dependencies-guard",
+      "description": "Prevents development packages from being added into require and getting into production environment.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mcaskill/composer-plugin-exclude-files",
+      "name": "Composer-Plugin-Exclude-Files",
+      "url": "https://github.com/mcaskill/composer-plugin-exclude-files",
+      "description": "A plugin for excluding files required by packages using the 'files' autoloading mechanism.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/civicrm/composer-downloads-plugin",
+      "name": "Composer-Downloads-Plugin",
+      "url": "https://github.com/civicrm/composer-downloads-plugin",
+      "description": "Lightweight mechanism to download external resources (ZIP/TAR files) with only a url and path.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ffraenz/private-composer-installer",
+      "name": "Private-Composer-Installer",
+      "url": "https://github.com/ffraenz/private-composer-installer",
+      "description": "Install helper outsourcing sensitive keys from the package URL into environment variables.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/CycloneDX/cyclonedx-php-composer",
+      "name": "CycloneDX-PHP-Composer",
+      "url": "https://github.com/CycloneDX/cyclonedx-php-composer",
+      "description": "Creates a CycloneDX \"Software Bill-of-Materials\" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by OWASP DependencyTrack.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/civicrm/composer-compile-plugin",
+      "name": "Composer-Compile-Plugin",
+      "url": "https://github.com/civicrm/composer-compile-plugin",
+      "description": "Allow PHP libraries to define simple, freeform compilation tasks. Support post-install hooks in any package.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/SanderSander/composer-link",
+      "name": "Composer-Link",
+      "url": "https://github.com/SanderSander/composer-link",
+      "description": "Adds the ability to link local packages for development.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ramsey/composer-repl",
+      "name": "Composer-REPL",
+      "url": "https://github.com/ramsey/composer-repl",
+      "description": "The plugin provides the composer repl command, which gives you a PHP language shell (read-eval-print loop).",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/IonBazan/composer-diff",
+      "name": "Composer-Diff",
+      "url": "https://github.com/IonBazan/composer-diff",
+      "description": "Compares composer.lock changes and generates a Markdown report for usage in a pull request description.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/isaaceindhoven/composer-velocita",
+      "name": "Composer-Velocita",
+      "url": "https://github.com/isaaceindhoven/composer-velocita",
+      "description": "Fast and reliable Composer package downloads using Velocita: a caching reverse proxy that does not require you to modify your projects.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/move-elevator/composer-translation-validator",
+      "name": "Composer Translation Validator",
+      "url": "https://github.com/move-elevator/composer-translation-validator",
+      "description": "Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/wazum/composer-fanfare",
+      "name": "Composer-Fanfare",
+      "url": "https://github.com/wazum/composer-fanfare",
+      "description": "Displays a colored ASCII art banner after install/update, with color presets, gradients and animations.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://semver.madewithlove.com",
+      "name": "Composer SemVer Checker",
+      "url": "https://semver.madewithlove.com/",
+      "description": "Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/igorw/composer-yaml",
+      "name": "Composer-Yaml",
+      "url": "https://github.com/igorw/composer-yaml",
+      "description": "This tool converts composer.yml to composer.json.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/franzliedke/studio",
+      "name": "Studio",
+      "url": "https://github.com/franzliedke/studio",
+      "description": "A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using PathRepositories to load a local clone of your dependency into your project.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/OctoLinker/OctoLinker",
+      "name": "OctoLinker Browser Extension",
+      "url": "https://github.com/OctoLinker/OctoLinker",
+      "description": "Enables you to navigate Composer/NPM dependencies on GitHub.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/maglnet/ComposerRequireChecker",
+      "name": "ComposerRequireChecker",
+      "url": "https://github.com/maglnet/ComposerRequireChecker",
+      "description": "A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/composer-unused/composer-unused",
+      "name": "Composer-Unused",
+      "url": "https://github.com/composer-unused/composer-unused",
+      "description": "A CLI tool, which scans your code and shows unused Composer dependencies.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ergebnis/composer-normalize",
+      "name": "Composer-Normalize",
+      "url": "https://github.com/ergebnis/composer-normalize",
+      "description": "The plugin helps to keep your composer.json file(s) consistent by restructuring and sorting entries (normalizing).",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/pborreli/composer-service",
+      "name": "Composer-Service",
+      "url": "https://github.com/pborreli/composer-service",
+      "description": "Enables you to run Composer as a service on a remote server.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/dereuromark/composer-prefer-lowest",
+      "name": "Composer PreferLowest Checker",
+      "url": "https://github.com/dereuromark/composer-prefer-lowest",
+      "description": "Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/bramus/composer-autocomplete",
+      "name": "Bramus/Composer-Autocomplete",
+      "url": "https://github.com/bramus/composer-autocomplete",
+      "description": "A Bash/Shell autocompletion script for Composer.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/composer/xdebug-handler",
+      "name": "Composer/Xdebug-Handler",
+      "url": "https://github.com/composer/xdebug-handler",
+      "description": "Helps you to restart a CLI process without loading the xdebug extension.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/MattyRad/composer.guru",
+      "name": "Composer Semver Range Checker",
+      "url": "https://gitlab.com/MattyRad/composer.guru",
+      "description": "A tool to help check the satisfiable ranges of a composer constraint.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Incenteev/ParameterHandler",
+      "name": "ParameterHandler",
+      "url": "https://github.com/Incenteev/ParameterHandler",
+      "description": "Allows you to manage your ignored parameters when running a composer install or update.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/tommy-muehle/tooly-composer-script",
+      "name": "Tooly",
+      "url": "https://github.com/tommy-muehle/tooly-composer-script",
+      "description": "Manage needed PHAR files in your project composer.json. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/sensiolabs/melody",
+      "name": "Melody",
+      "url": "https://github.com/sensiolabs/melody",
+      "description": "One-file composer scripts.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/raphaelstolt/composer-travis-lint",
+      "name": "Composer-Travis-Lint",
+      "url": "https://github.com/raphaelstolt/composer-travis-lint",
+      "description": "Allows you to lint the Travis CI configuration file (.travis.yml).",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/raphaelstolt/composer-multitest",
+      "name": "Composer-Multitest",
+      "url": "https://github.com/raphaelstolt/composer-multitest",
+      "description": "Enables you to run a Composer script against multiple, locally installed PHP versions, which are managed by PHPBrew or phpenv.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/neronmoon/scriptsdev",
+      "name": "ScriptsDev",
+      "url": "https://github.com/neronmoon/scriptsdev",
+      "description": "Enables you to use a scripts-dev section, which triggers scripts only in dev mode.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/jakoch/phantomjs-installer",
+      "name": "PhantomJS-Installer",
+      "url": "https://github.com/jakoch/phantomjs-installer",
+      "description": "A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/0xch/composer-vendor-cleanup",
+      "name": "Composer-Vendor-Cleanup",
+      "url": "https://github.com/0xch/composer-vendor-cleanup",
+      "description": "A script which removes whitelisted unnecessary files (like tests/docs etc.) from the vendor directory.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/villfa/composer-substitution-plugin",
+      "name": "Composer-Substitution-Plugin",
+      "url": "https://github.com/villfa/composer-substitution-plugin",
+      "description": "A Composer plugin replacing placeholders in the scripts section by dynamic values.",
+      "section": [
+        "Scripts"
+      ]
+    },
+    {
+      "key": "https://github.com/security/advanced-security",
+      "name": "Dependabot",
+      "url": "https://github.com/security/advanced-security",
+      "description": "Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.",
+      "section": [
+        "Services"
+      ]
+    },
+    {
+      "key": "https://dev-metal.com/composer-tutorial",
+      "name": "A short & simple Composer tutorial",
+      "url": "https://dev-metal.com/composer-tutorial/",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://sitepoint.com/re-introducing-composer",
+      "name": "PHP Dependency Management with Composer",
+      "url": "https://www.sitepoint.com/re-introducing-composer/",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://daylerees.com/composer-primer",
+      "name": "Composer Primer",
+      "url": "https://daylerees.com/composer-primer/",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://alanastorm.com/php_composer_magento_tutorial",
+      "name": "PHP Composer Magento Tutorial by Alan Storm",
+      "url": "https://alanastorm.com/php_composer_magento_tutorial/",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://packtpub.com/en-us/learning/how-to-tutorials/creating-and-using-composer-packages",
+      "name": "Creating and Using Composer Packages",
+      "url": "https://www.packtpub.com/en-us/learning/how-to-tutorials/creating-and-using-composer-packages/",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://seld.be",
+      "name": "Jordi Boggiano (seldaek)",
+      "url": "https://seld.be/",
+      "description": "",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://naderman.de",
+      "name": "Nils Adermann (naderman)",
+      "url": "https://naderman.de/",
+      "description": "",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://igor.io/2013/02/07/composer-stability-flags.html",
+      "name": "Composer Stability Flags",
+      "url": "https://igor.io/2013/02/07/composer-stability-flags.html",
+      "description": "",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://igor.io/2013/01/07/composer-versioning.html",
+      "name": "Composer Versioning",
+      "url": "https://igor.io/2013/01/07/composer-versioning.html",
+      "description": "",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8",
+      "name": "The long journey of making PHPs Composer memory-efficient and fast (toflar)",
+      "url": "https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8",
+      "description": "",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=eQkFjMfyqFY",
+      "name": "Composer Best Practices 2018 - Nils Adermann @ scotphp18",
+      "url": "https://www.youtube.com/watch?v=eQkFjMfyqFY",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=EpvihKaQyLs",
+      "name": "Composer Best Practices 2018 - Nils Adermann @ phpday 2018",
+      "url": "https://www.youtube.com/watch?v=EpvihKaQyLs",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=QL6w8H2eHQE",
+      "name": "Managing dependencies is more than running \"composer update\" - Nils Adermann @ phpsrb17",
+      "url": "https://www.youtube.com/watch?v=QL6w8H2eHQE",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=uNlYpSTiAcA",
+      "name": "Composer Best Practices — Jordi Boggiano @ phptek 2015",
+      "url": "https://www.youtube.com/watch?v=uNlYpSTiAcA",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://symfonycasts.com/screencast/composer",
+      "name": "Wonderful World of Composer",
+      "url": "https://symfonycasts.com/screencast/composer",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Ejr4Xqs9V2I",
+      "name": "PHP Composer Quickstart",
+      "url": "https://www.youtube.com/watch?v=Ejr4Xqs9V2I",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=C2jfLM-Egvg",
+      "name": "How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt",
+      "url": "https://www.youtube.com/watch?v=C2jfLM-Egvg",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=P4Qnp90TG0g",
+      "name": "Composer Package Management - Nils Adermann @ T3CON12DE",
+      "url": "https://www.youtube.com/watch?v=P4Qnp90TG0g",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=BAgwWhRo82w",
+      "name": "Composer 2 - Jordi Boggiano @ Symfony UK usergroup 2020",
+      "url": "https://www.youtube.com/watch?v=BAgwWhRo82w",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=pjvbn6TBZqM",
+      "name": "Lessons learned building the Composer internals - Jordi Boggiano @ CODEiD Odessa PHP Conference 2017",
+      "url": "https://www.youtube.com/watch?v=pjvbn6TBZqM",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/src?file=2014-04-13-PHP-Reinvented.html",
+      "name": "PHP Reinvented - How Composer helped shape the new way of writing PHP",
+      "url": "https://naderman.de/slippy/src/?file=2014-04-13-PHP-Reinvented.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/src?file=2015-02-03-Composer-Update.html",
+      "name": "Composer Update",
+      "url": "https://naderman.de/slippy/src/?file=2015-02-03-Composer-Update.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/src?file=2015-02-01-Dependency-Management-with-Composer-PHP-Reinvented.html",
+      "name": "Dependency Management with Composer PHP Reinvented",
+      "url": "https://naderman.de/slippy/src/?file=2015-02-01-Dependency-Management-with-Composer-PHP-Reinvented.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2017-06-30-DPC-Dependency-Management-is-more-than-composer-update.pdf",
+      "name": "Managing dependencies is more than running \"composer update\"",
+      "url": "https://naderman.de/slippy/slides/2017-06-30-DPC-Dependency-Management-is-more-than-composer-update.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2017-07-13-T3DD17-Composer-Best-Practices.pdf",
+      "name": "Composer Best Practices @ T3DD17",
+      "url": "https://naderman.de/slippy/slides/2017-07-13-T3DD17-Composer-Best-Practices.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-control-over-your-dependencies-with-private-packagist.pdf",
+      "name": "Gain Control over your Dependencies with Private Packagist",
+      "url": "https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-control-over-your-dependencies-with-private-packagist.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2018-01-26-composer-lock-demystified.pdf",
+      "name": "Composer.lock demystified",
+      "url": "https://naderman.de/slippy/slides/2018-01-26-composer-lock-demystified.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2018-06-08-Contao-Konferenz-2018-Composer-In-Depth.pdf",
+      "name": "Compoer In-Depth @ Contao Konferenz 2018",
+      "url": "https://naderman.de/slippy/slides/2018-06-08-Contao-Konferenz-2018-Composer-In-Depth.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2018-06-27-Composer-Best-Practices-2018.pdf",
+      "name": "Composer Best Practices 2018",
+      "url": "https://naderman.de/slippy/slides/2018-06-27-Composer-Best-Practices-2018.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2018-06-18-Developing-and-Deploying-Magento-with-Composer-Best-Practices.pdf",
+      "name": "Developing and Deploying Magento with Composer Best Practices",
+      "url": "https://naderman.de/slippy/slides/2018-06-18-Developing-and-Deploying-Magento-with-Composer-Best-Practices.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf",
+      "name": "Composer Platform Config (check-platform-reqs) @ SymfonCon 2018",
+      "url": "https://naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://slides.seld.be?file=2013-10-04 Dependency Management with Composer.html",
+      "name": "Dependency Management with Composer (2013)",
+      "url": "http://slides.seld.be/?file=2013-10-04+Dependency+Management+with+Composer.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://slides.seld.be?file=2013-10-05 In-Depth with Composer.html",
+      "name": "In Depth with Composer (2013)",
+      "url": "http://slides.seld.be/?file=2013-10-05+In-Depth+with+Composer.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://slides.seld.be?file=2015-07-25 Composer Best Practices.html",
+      "name": "Composer Best Practices (2015)",
+      "url": "http://slides.seld.be/?file=2015-07-25+Composer+Best+Practices.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://slides.seld.be?file=2015-06-30 Introduction to Composer.html",
+      "name": "Introduction to Composer (2015)",
+      "url": "http://slides.seld.be/?file=2015-06-30+Introduction+to+Composer.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://slides.seld.be?file=2016-07-22 Composer in 2016.html",
+      "name": "Composer in 2016",
+      "url": "http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://slides.seld.be?file=2018-04-20 Lessons Learned Building the Composer Internals.html",
+      "name": "Lessons Learned Building the Composer Internals (2018)",
+      "url": "http://slides.seld.be/?file=2018-04-20+Lessons+Learned+Building+the+Composer+Internals.html",
+      "description": "",
+      "section": [
+        "Slides"
+      ]
+    },
+    {
+      "key": "https://github.com/Webysther/packagist-mirror",
+      "name": "Packagist Mirror",
+      "url": "https://github.com/Webysther/packagist-mirror",
+      "description": "This script helps to setup a packagist mirror. It is the maintained and stable version of Packagist Crawler.",
+      "section": [
+        "Packagist",
+        "Setup a Packagist Mirror"
+      ]
+    },
+    {
+      "key": "https://github.com/Webysther/packagist-mirror-docker",
+      "name": "Docker Image",
+      "url": "https://github.com/Webysther/packagist-mirror-docker",
+      "description": "This Docker image helps to create a customized packagist mirror.",
+      "section": [
+        "Packagist",
+        "Setup a Packagist Mirror"
+      ]
+    },
+    {
+      "key": "https://github.com/IndraGunawan/packagist-mirror",
+      "name": "Packagist Mirror from Indonesia",
+      "url": "https://github.com/IndraGunawan/packagist-mirror",
+      "description": "Another implementation for creating a packagist mirror.",
+      "section": [
+        "Packagist",
+        "Setup a Packagist Mirror"
+      ]
+    },
+    {
+      "key": "https://packagist.pages.dev",
+      "name": "packagist.pages.dev",
+      "url": "https://packagist.pages.dev/",
+      "description": "",
+      "section": [
+        "Packagist",
+        "Packagist Mirrors"
+      ]
+    },
+    {
+      "key": "https://pkg.xyz",
+      "name": "https://pkg.xyz/",
+      "url": "https://pkg.xyz/",
+      "description": ", https://developer.aliyun.com/composer",
+      "section": [
+        "Packagist",
+        "Packagist Mirrors"
+      ]
+    },
+    {
+      "key": "https://packagist.jp",
+      "name": "packagist.jp",
+      "url": "https://packagist.jp",
+      "description": "",
+      "section": [
+        "Packagist",
+        "Packagist Mirrors"
+      ]
+    },
+    {
+      "key": "https://packagist.kr",
+      "name": "https://packagist.kr/",
+      "url": "https://packagist.kr/",
+      "description": "",
+      "section": [
+        "Packagist",
+        "Packagist Mirrors"
+      ]
+    },
+    {
+      "key": "https://github.com/fxpio/tug",
+      "name": "fxpio/tug",
+      "url": "https://github.com/fxpio/tug",
+      "description": "Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.",
+      "section": [
+        "Composer Repositories",
+        "Private repositories"
+      ]
+    },
+    {
+      "key": "https://packagist.com",
+      "name": "Private Packagist Cloud",
+      "url": "https://packagist.com",
+      "description": "A Composer Repository as a Service for private packages and to mirror packages from other repositories.",
+      "section": [
+        "Composer Repositories",
+        "Private Packagist"
+      ]
+    },
+    {
+      "key": "https://github.com/packagist/private-packagist-api-client",
+      "name": "Private Packagist API Client",
+      "url": "https://github.com/packagist/private-packagist-api-client",
+      "description": "A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.",
+      "section": [
+        "Composer Repositories",
+        "Private Packagist"
+      ]
+    },
+    {
+      "key": "https://repman.io",
+      "name": "repman.io",
+      "url": "https://repman.io",
+      "description": "& repman-io/repman - A Private PHP Package Repository Manager & Packagist Proxy.",
+      "section": [
+        "Composer Repositories",
+        "Repman"
+      ]
+    },
+    {
+      "key": "https://github.com/repman-io/composer-plugin",
+      "name": "repman-io/composer-plugin",
+      "url": "https://github.com/repman-io/composer-plugin",
+      "description": "This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the composer.lock file).",
+      "section": [
+        "Composer Repositories",
+        "Repman"
+      ]
+    },
+    {
+      "key": "https://wpackagist.org",
+      "name": "WordPress Packagist",
+      "url": "https://wpackagist.org/",
+      "description": "Mirrors the WordPress plugin and theme directories as a Composer repository.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://asset-packagist.org",
+      "name": "Asset Packagist",
+      "url": "https://asset-packagist.org/",
+      "description": "Enables installation of Bower and NPM packages as native Composer packages.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://packages.firegento.com",
+      "name": "Firegento",
+      "url": "https://packages.firegento.com/",
+      "description": "A Composer Repository providing Magento Modules.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://drupal.org/node/2822344",
+      "name": "Drupal Packagist",
+      "url": "https://www.drupal.org/node/2822344",
+      "description": "Composer repositories for Drupal 7 and 8 core, modules, and themes.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://github.com/lukaszlach/satis-server",
+      "name": "Satis Server",
+      "url": "https://github.com/lukaszlach/satis-server",
+      "description": "This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://cloudsmith.com",
+      "name": "Cloudsmith",
+      "url": "https://cloudsmith.com/",
+      "description": "A fully managed package management SaaS with PHP/Composer support (and many others).",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://github.com/Rarst/release-belt",
+      "name": "Release Belt",
+      "url": "https://github.com/Rarst/release-belt",
+      "description": "Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://github.com/vtsykun/packeton",
+      "name": "Packeton",
+      "url": "https://github.com/vtsykun/packeton",
+      "description": "Private self-hosted Composer repository for vendors. Fork of packagist with adding support for authorization, customer users, groups, webhooks.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://repoflow.io",
+      "name": "RepoFlow",
+      "url": "https://www.repoflow.io",
+      "description": "Simple and fast platform for hosting private Composer registries. Also supports Docker, npm, PyPI, Maven, and RubyGems. Offers free options for both cloud and self-hosted setups.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://github.com/wemakecustom/gitlab-composer",
+      "name": "GitLab-Composer",
+      "url": "https://github.com/wemakecustom/gitlab-composer",
+      "description": "This is a branch/tag indexer for GitLab repositories.",
+      "section": [
+        "Packagist-compatible repositories",
+        "Satis"
+      ]
+    },
+    {
+      "key": "https://github.com/project-satisfy/satisfy",
+      "name": "Satisfy",
+      "url": "https://github.com/project-satisfy/satisfy",
+      "description": "Satis composer repository manager with a Web UI.",
+      "section": [
+        "Packagist-compatible repositories",
+        "Satis"
+      ]
+    },
+    {
+      "key": "https://github.com/realshadow/satis-control-panel",
+      "name": "Satis Control Panel",
+      "url": "https://github.com/realshadow/satis-control-panel",
+      "description": "A simple web UI for managing your Satis Repository with optional CI integration.",
+      "section": [
+        "Packagist-compatible repositories",
+        "Satis"
+      ]
+    },
+    {
+      "key": "https://github.com/benschw/satis-go",
+      "name": "Satis Go",
+      "url": "https://github.com/benschw/satis-go",
+      "description": "A web server for managing Satis configuration and hosting the generated Composer repository.",
+      "section": [
+        "Packagist-compatible repositories",
+        "Satis"
+      ]
+    },
+    {
+      "key": "https://toranproxy.com",
+      "name": "ToranProxy",
+      "url": "https://toranproxy.com/",
+      "description": "(deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.",
+      "section": [
+        "Packagist-compatible repositories",
+        "Toran Proxy"
+      ]
+    }
+  ]
+}

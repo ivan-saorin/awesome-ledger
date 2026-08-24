@@ -1,0 +1,529 @@
+{
+  "etag": "W/\"de5da8c381d1479d9a12f7d769cc731dff93da5586ea20f88f8ce0d1bf868c2c\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://vagrantup.com",
+      "name": "Vagrant site",
+      "url": "https://www.vagrantup.com/",
+      "description": "installation instruction, official manuals and docs.",
+      "section": [
+        "Official resources"
+      ]
+    },
+    {
+      "key": "https://github.com/hashicorp/vagrant",
+      "name": "GitHub repo",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "source code, issues discussion and collaboration.",
+      "section": [
+        "Official resources"
+      ]
+    },
+    {
+      "key": "https://vagrantbox.es",
+      "name": "Vagrantbox.es",
+      "url": "http://www.vagrantbox.es/",
+      "description": "the biggest list of all available boxes, maintained by community via GitHub pull requests.",
+      "section": [
+        "Boxes"
+      ]
+    },
+    {
+      "key": "https://app.vagrantup.com/boxes/search",
+      "name": "Vagrant Cloud",
+      "url": "https://app.vagrantup.com/boxes/search",
+      "description": "config share, boxes distribution and discovery (also premium features of private collaboration and sharing).",
+      "section": [
+        "Boxes"
+      ]
+    },
+    {
+      "key": "https://cloud-images.ubuntu.com/vagrant",
+      "name": "Cloud Images Ubuntu.com",
+      "url": "https://cloud-images.ubuntu.com/vagrant/",
+      "description": "\"clean\" official Ubuntu cloud images.",
+      "section": [
+        "Boxes"
+      ]
+    },
+    {
+      "key": "https://github.com/chef/bento",
+      "name": "Baseboxes from Opscode",
+      "url": "https://github.com/chef/bento#current-baseboxes",
+      "description": "CentOS, Fedora, Debian, FreeBSD, Ubuntu.",
+      "section": [
+        "Boxes"
+      ]
+    },
+    {
+      "key": "https://puppet-vagrant-boxes.puppetlabs.com",
+      "name": "Puppet Labs Vagrant Boxes",
+      "url": "http://puppet-vagrant-boxes.puppetlabs.com/",
+      "description": "these boxes are provided to be used by various Puppet projects.",
+      "section": [
+        "Boxes"
+      ]
+    },
+    {
+      "key": "https://cloudsmith.io",
+      "name": "Cloudsmith",
+      "url": "https://cloudsmith.io",
+      "description": "A fully managed package management SaaS with support for Vagrant repositories (and many others).",
+      "section": [
+        "Boxes"
+      ]
+    },
+    {
+      "key": "https://vagrantup.com/docs/provisioning",
+      "name": "All available build in provisioning providers",
+      "url": "https://www.vagrantup.com/docs/provisioning",
+      "description": "official doc.",
+      "section": [
+        "Provisioning"
+      ]
+    },
+    {
+      "key": "https://fideloper.github.io/Vaprobash/index.html",
+      "name": "Vaprobash",
+      "url": "http://fideloper.github.io/Vaprobash/index.html",
+      "description": "Vagrant Provisioning Bash Scripts.",
+      "section": [
+        "Provisioning"
+      ]
+    },
+    {
+      "key": "https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins",
+      "name": "List of available Vagrant plugins from GitHub wiki",
+      "url": "https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins",
+      "description": ".",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/dotless-de/vagrant-vbguest",
+      "name": "vagrant-vbguest",
+      "url": "https://github.com/dotless-de/vagrant-vbguest",
+      "description": "autoupdate VirtualBox guest additions (according to VB version).",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/cogitatio/vagrant-hostsupdater",
+      "name": "vagrant-hostsupdater",
+      "url": "https://github.com/cogitatio/vagrant-hostsupdater",
+      "description": "adds an entry to your /etc/hosts file on the host system.",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://fgrehm.viewdocs.io/vagrant-cachier",
+      "name": "vagrant-cachier",
+      "url": "http://fgrehm.viewdocs.io/vagrant-cachier/",
+      "description": "share a common package (apt-get, npm, etc.) cache among similar VM instances.",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/phinze/vagrant-host-shell",
+      "name": "vagrant-host-shell",
+      "url": "https://github.com/phinze/vagrant-host-shell",
+      "description": "a vagrant provisioner to run commands on the host when a VM boots.",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jaugustin/vagrant-ansible-local",
+      "name": "vagrant-ansible-local",
+      "url": "https://github.com/jaugustin/vagrant-ansible-local",
+      "description": "allow provisioning your VM with ansible playbooks directly from the guest VM.",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jedi4ever/sahara",
+      "name": "sahara",
+      "url": "https://github.com/jedi4ever/sahara",
+      "description": "easy manage VM state (commit/rollback while experimenting with software stack).",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/projectatomic/adb-vagrant-registration",
+      "name": "vagrant-registration",
+      "url": "https://github.com/projectatomic/adb-vagrant-registration",
+      "description": "add \"register\" and \"unregister\" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/projectatomic/vagrant-service-manager",
+      "name": "vagrant-service-manager",
+      "url": "https://github.com/projectatomic/vagrant-service-manager",
+      "description": "enable easier access to the features and services provided by the Atomic Developer Bundle (ADB).",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/invernizzi/vagrant-scp",
+      "name": "vagrant-scp",
+      "url": "https://github.com/invernizzi/vagrant-scp",
+      "description": "Copy files to a Vagrant VM via SCP.",
+      "section": [
+        "Notable plugins"
+      ]
+    },
+    {
+      "key": "https://packer.io",
+      "name": "Packer",
+      "url": "https://www.packer.io/",
+      "description": "a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.",
+      "section": [
+        "Helpers / Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Thomvaill/tads-boilerplate",
+      "name": "T.A.D.S. boilerplate",
+      "url": "https://github.com/Thomvaill/tads-boilerplate",
+      "description": "boilerplate to create, develop and deploy a Docker Swarm environment, using Vagrant to reproduce production environment locally.",
+      "section": [
+        "Helpers / Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jedi4ever/veewee",
+      "name": "Veewee",
+      "url": "https://github.com/jedi4ever/veewee",
+      "description": "a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.",
+      "section": [
+        "Helpers / Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins",
+      "name": "Vagrant plugin for ZSH shell",
+      "url": "https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant",
+      "description": "auto-complete for commands, task names, box names and built-in documentation.",
+      "section": [
+        "Helpers / Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/MunGell/vgm",
+      "name": "CLI Vagrant Manager",
+      "url": "https://github.com/MunGell/vgm",
+      "description": "simple command-line tool to manage multiple vagrant boxes",
+      "section": [
+        "Helpers / Tools"
+      ]
+    },
+    {
+      "key": "https://vagrantmanager.com",
+      "name": "Vagrant Manager",
+      "url": "http://vagrantmanager.com/",
+      "description": "for OS X.",
+      "section": [
+        "Desktop tools"
+      ]
+    },
+    {
+      "key": "https://phansible.com",
+      "name": "Phansible",
+      "url": "http://phansible.com/",
+      "description": "provides an easy to use interface that helps you generate Ansible Playbooks for PHP based projects.",
+      "section": [
+        "Web services"
+      ]
+    },
+    {
+      "key": "https://puphpet.com",
+      "name": "PuPHPet",
+      "url": "https://puphpet.com/",
+      "description": "a simple GUI to set up virtual machines for PHP Web development.",
+      "section": [
+        "Web services"
+      ]
+    },
+    {
+      "key": "https://getprotobox.com",
+      "name": "Protobox",
+      "url": "http://getprotobox.com/",
+      "description": "PuPHPet analog, but uses own installer with YAML configuration format to control everything that is installed on the virtual machine.",
+      "section": [
+        "Web services"
+      ]
+    },
+    {
+      "key": "https://rove.io",
+      "name": "Rove",
+      "url": "http://rove.io/",
+      "description": "a service that allows you to pregenerate typical Vagrant builds.",
+      "section": [
+        "Web services"
+      ]
+    },
+    {
+      "key": "https://vagrantup.com/docs/share",
+      "name": "Vagrant share",
+      "url": "https://www.vagrantup.com/docs/share/",
+      "description": "allows you to share your Vagrant environment with anyone in the world.",
+      "section": [
+        "Proxy services"
+      ]
+    },
+    {
+      "key": "https://nip.io",
+      "name": "nip.io",
+      "url": "http://nip.io",
+      "description": "a magic domain name that provides wildcard DNS for any IP address.",
+      "section": [
+        "Proxy services"
+      ]
+    },
+    {
+      "key": "https://ngrok.com",
+      "name": "ngrok",
+      "url": "https://ngrok.com/",
+      "description": "tool to create secure tunnels to expose a local server behind a NAT or firewall to the internet.",
+      "section": [
+        "Proxy services"
+      ]
+    },
+    {
+      "key": "https://serveo.net",
+      "name": "serveo",
+      "url": "https://serveo.net/",
+      "description": "expose local servers to the internet, without installing any client!",
+      "section": [
+        "Proxy services"
+      ]
+    },
+    {
+      "key": "https://proxylocal.com",
+      "name": "proxylocal.com",
+      "url": "http://proxylocal.com",
+      "description": "proxy your local web-server and make it publicly available over the internet.",
+      "section": [
+        "Proxy services"
+      ]
+    },
+    {
+      "key": "https://localtunnel.github.io/www",
+      "name": "localtunnel.me",
+      "url": "https://localtunnel.github.io/www/",
+      "description": "assign you a unique publicly accessible url that will proxy all requests to your locally running webserver.",
+      "section": [
+        "Proxy services"
+      ]
+    },
+    {
+      "key": "https://portmap.io",
+      "name": "portmap.io",
+      "url": "https://portmap.io/",
+      "description": "OpenVPN based free port forwarding solution.",
+      "section": [
+        "Proxy services"
+      ]
+    },
+    {
+      "key": "https://thisprogrammingthing.com/2013/getting-started-with-vagrant",
+      "name": "Getting Started With Vagrant",
+      "url": "http://www.thisprogrammingthing.com/2013/getting-started-with-vagrant/",
+      "description": "by This Programming Thing.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://stdout.in/en/post/getting_started_with_vagrant_automated_dev_servers_deploy_and_provisioning",
+      "name": "Getting started with Vagrant - automated dev servers deploy and provisioning.",
+      "url": "http://stdout.in/en/post/getting_started_with_vagrant_automated_dev_servers_deploy_and_provisioning",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm",
+      "name": "Working with Advanced Vagrant features in PhpStorm.",
+      "url": "http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share",
+      "name": "Sharing Your Virtual Machine on the Web with Vagrant Share",
+      "url": "https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share",
+      "description": ".",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://hackr.io/tutorials/learn-vagrant",
+      "name": "Programming Community Curated Resources for Learning Vagrant",
+      "url": "https://hackr.io/tutorials/learn-vagrant",
+      "description": "",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://classpert.com/vagrant",
+      "name": "Vagrant Online Courses at Classpert",
+      "url": "https://classpert.com/vagrant",
+      "description": "List of Vagrant Online Courses (free and paid)",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837",
+      "name": "Vagrant: Up and Running",
+      "url": "https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837",
+      "description": "by Mitchell Hashimoto.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://leanpub.com/vagrantcookbook",
+      "name": "Vagrant CookBook",
+      "url": "https://leanpub.com/vagrantcookbook",
+      "description": "by Erika Heidi.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://amazon.com/Pro-Vagrant-Wlodzimierz-Gajda/dp/1484200748",
+      "name": "Pro Vagrant",
+      "url": "https://www.amazon.com/Pro-Vagrant-Wlodzimierz-Gajda/dp/1484200748/",
+      "description": "by by Wlodzimierz Gajda.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://shop.oreilly.com/product/9781849519182.do",
+      "name": "Creating Development Environments with Vagrant",
+      "url": "http://shop.oreilly.com/product/9781849519182.do",
+      "description": "/ 2nd Edition by Michael Peacock",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://shop.oreilly.com/product/9781784393748.do",
+      "name": "Vagrant Virtual Development Environment Cookbook",
+      "url": "http://shop.oreilly.com/product/9781784393748.do",
+      "description": "by Chad Thompson",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://github.com/vagrantpress/vagrantpress",
+      "name": "Vagrantpress",
+      "url": "https://github.com/vagrantpress/vagrantpress",
+      "description": "development environment for creating and modifying WordPress sites.",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://github.com/Varying-Vagrant-Vagrants/VVV",
+      "name": "Varying Vagrant Vagrants",
+      "url": "https://github.com/Varying-Vagrant-Vagrants/VVV",
+      "description": "An open source Vagrant configuration focused on WordPress development.",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://github.com/joomlatools/joomlatools-vagrant",
+      "name": "Joomla-Vagrant",
+      "url": "https://github.com/joomlatools/joomlatools-vagrant",
+      "description": ".",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/vdd",
+      "name": "VDD",
+      "url": "https://www.drupal.org/project/vdd",
+      "description": "Vagrant Drupal Development.",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://drupalvm.com",
+      "name": "Drupal VM",
+      "url": "https://www.drupalvm.com/",
+      "description": "A VM for local Drupal development, built with Vagrant + Ansible",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://github.com/iJackUA/try-yii2",
+      "name": "Try Yii2",
+      "url": "https://github.com/iJackUA/try-yii2",
+      "description": "try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://github.com/bryannielsen/Laravel4-Vagrant",
+      "name": "Laravel4-Vagrant",
+      "url": "https://github.com/bryannielsen/Laravel4-Vagrant",
+      "description": "run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://github.com/openstack-ansible/openstack-ansible",
+      "name": "OpenStack on Ansible with Vagrant",
+      "url": "https://github.com/openstack-ansible/openstack-ansible",
+      "description": ".",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://laravel.com/docs/master/homestead",
+      "name": "Laravel Homestead",
+      "url": "https://laravel.com/docs/master/homestead",
+      "description": "Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.",
+      "section": [
+        "Popular readymade environments"
+      ]
+    },
+    {
+      "key": "https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved",
+      "name": "Scotch Box",
+      "url": "https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved",
+      "description": "Simple Vagrant Box with LAMP stack, plus some useful extras, based on Ubuntu 14.04 LTS.",
+      "section": [
+        "Popular readymade environments"
+      ]
+    }
+  ]
+}
