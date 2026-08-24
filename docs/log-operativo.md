@@ -1,5 +1,30 @@
 # log operativo — awesome-ledger
 
+## 2026-08-24 — M3 code: digest + run report + job pipeline (session ed5f811a, sigiled-claude)
+**Where were we:** M0+M1+M2 on master, tests green; job cron wired but
+never run; volume mount syntax unverified; operator prereqs (repo
+public, Pages, GH_DEPLOY_KEY, STACK_BEARER) pending.
+**Where were we going:** M3 — full enrollment live, digest, run reports.
+**Done:** digest.rs (compose day chunk from events — quiet day = none;
+ref awesome-ledger/digest/<date> unique per day because the memory store
+upserts by provenance; tags [changed, chg0, awesome-ledger]; queue on
+volume + flush POST /idx/mem0/chunks queue-until-acked — write verb dug
+out of mem0 itself, docs/skill-memory-recall.md in ivan-saorin/memory).
+update --report FILE writes the run report with parse skip-rate
+(target ≥90%, PLAN risk); jobs/update.sh = full SPEC §4 pipeline with
+soft-fail steps (state before publish; publish skipped without key;
+digest queues without bearer). sigiled.toml [volumes] fixed to
+"/data:rw" — the M0 "rw" shorthand had no mount path. 25 tests green;
+live smoke: seed awesome-rust, drop 2 entries, +2 events, chunk queued.
+**Deviations:** none of substance. python3 absent in container — job
+script stays pure bash. Digest ack not yet live-verified (needs
+STACK_BEARER, job-only).
+**State:** master = M0..M3 code. No job run yet; runs list empty.
+**Next (this session's second act):** close → ~5 min manifest refresh →
+trigger run #1 (full index seed, ~674 fetches, one slow run) → run #2
+(deltas only) → verify run reports on job branches, gh-pages push or
+skip-note, digest chunk in mem0 or queued. Then M4 catalog.
+
 ## 2026-08-24 — M1: enrollment + fetcher + parser + state (session c84be46a, sigiled-claude)
 **Where were we:** M0 closed same day (template v2, per-project image,
 cron wired, update skeleton). This session opened ON the new image
