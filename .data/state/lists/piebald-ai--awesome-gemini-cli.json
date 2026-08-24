@@ -1,0 +1,1339 @@
+{
+  "etag": "W/\"0f983ba26741d1935ec9e49fcee937fd953cc8aeb3dca84f7abd1233d18d176b\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/ASCIT31/Dark-Moon",
+      "name": "Darkmoon",
+      "url": "https://github.com/ASCIT31/Dark-Moon",
+      "description": "GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/alib8b8/llm-box",
+      "name": "llm-box",
+      "url": "https://github.com/alib8b8/llm-box",
+      "description": "Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes, 15+ LLM providers, and MCP server mode. Install via gemini extensions install https://github.com/alib8b8/llm-box.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/josstei/maestro-gemini",
+      "name": "Maestro",
+      "url": "https://github.com/josstei/maestro-gemini",
+      "description": "Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/davidwiet/task-monitor",
+      "name": "Task Monitor",
+      "url": "https://github.com/davidwiet/task-monitor",
+      "description": "Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/heurema/signum",
+      "name": "Signum",
+      "url": "https://github.com/heurema/signum",
+      "description": "Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://tars.saccolabs.com",
+      "name": "Tars",
+      "url": "https://tars.saccolabs.com",
+      "description": "A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/atxp-dev/atxp",
+      "name": "ATXP",
+      "url": "https://github.com/atxp-dev/atxp",
+      "description": "Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with gemini extensions install https://github.com/atxp-dev/atxp — no human login required, $5 free credits included.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/littlebearapps/untether",
+      "name": "Untether",
+      "url": "https://github.com/littlebearapps/untether",
+      "description": "Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/johannesjo/parallel-code",
+      "name": "Parallel Code",
+      "url": "https://github.com/johannesjo/parallel-code",
+      "description": "Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/almogdepaz/wolfpack",
+      "name": "wolfpack",
+      "url": "https://github.com/almogdepaz/wolfpack",
+      "description": "Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/Xquik-dev/x-twitter-scraper",
+      "name": "Xquik MCP",
+      "url": "https://github.com/Xquik-dev/x-twitter-scraper",
+      "description": "X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/nedcodes-ok/rule-gen",
+      "name": "rule-gen",
+      "url": "https://github.com/nedcodes-ok/rule-gen",
+      "description": "Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/caioribeiroclw-pixel/pluribus",
+      "name": "Pluribus",
+      "url": "https://github.com/caioribeiroclw-pixel/pluribus",
+      "description": "Sync one canonical project context into native AI coding-agent rule files, including Gemini CLI GEMINI.md, Claude Code CLAUDE.md/AGENTS.md, Cursor, Cline, Roo Code, Amazon Q, Junie, Warp, Copilot, Windsurf, Continue, Zed, OpenCode, and OpenClaw.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/connerlambden/bgpt-mcp",
+      "name": "BGPT MCP",
+      "url": "https://github.com/connerlambden/bgpt-mcp",
+      "description": "Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.",
+      "section": [
+        ":tada: New"
+      ]
+    },
+    {
+      "key": "https://github.com/google-gemini/gemini-cli",
+      "name": "Gemini CLI",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://github.com/google-gemini/cookbook",
+      "name": "Gemini CLI cookbook",
+      "url": "https://github.com/google-gemini/cookbook",
+      "description": "Official collection of examples and guides demonstrating best practices for using the Gemini API. Essential resource for developers getting started.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://github.com/google-github-actions/run-gemini-cli",
+      "name": "Run Gemini CLI",
+      "url": "https://github.com/google-github-actions/run-gemini-cli",
+      "description": "Official GitHub Action that seamlessly integrates Gemini into your CI/CD pipeline, enabling automated code reviews, testing, and documentation generation.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://github.com/Piebald-AI/gemini-CLI-desktop",
+      "name": "Gemini CLI Desktop",
+      "url": "https://github.com/Piebald-AI/gemini-CLI-desktop",
+      "description": "Beautiful desktop and web UI that makes Gemini CLI accessible to non-terminal/mobile users while preserving all its powerful features.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/iOfficeAI/AionUi",
+      "name": "AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://yaw.sh",
+      "name": "Yaw",
+      "url": "https://yaw.sh",
+      "description": "Cross-platform terminal that auto-detects Gemini CLI and opens a split-pane workflow with a companion terminal.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://termly.dev",
+      "name": "Termly",
+      "url": "https://termly.dev/",
+      "description": "Free native iOS and Android app to monitor and control Gemini CLI (and other CLI AI assistants) remotely. Zero-knowledge E2E encryption, pairs in under 60 seconds via QR code. No subscriptions, no usage limits.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/vybestack/llxprt-code",
+      "name": "LLxprt Code",
+      "url": "https://github.com/vybestack/llxprt-code",
+      "description": "An open-source multi-provider (including local) fork of Gemini CLI. Use whatever LLM you want to code in your terminal.",
+      "section": [
+        "Forks"
+      ]
+    },
+    {
+      "key": "https://github.com/iflow-ai/iflow-cli",
+      "name": "iFlow CLI",
+      "url": "https://github.com/iflow-ai/iflow-cli",
+      "description": "Powerful fork that extends Gemini CLI with repository analysis, context interpretation, and complex workflow automation. Perfect for teams needing advanced orchestration capabilities.",
+      "section": [
+        "Forks"
+      ]
+    },
+    {
+      "key": "https://github.com/QwenLM/qwen-code",
+      "name": "Qwen Code",
+      "url": "https://github.com/QwenLM/qwen-code/",
+      "description": "Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.",
+      "section": [
+        "Forks"
+      ]
+    },
+    {
+      "key": "https://github.com/rxdt/py_ralph_frame",
+      "name": "Ralph Harness",
+      "url": "https://github.com/rxdt/py_ralph_frame",
+      "description": "Tiny Python scaffold for running Gemini CLI, Claude Code, Codex CLI, and similar coding agents in guarded local loops. It uses repo-local specs, fresh-context iterations, hard caps, git-hook gates, CI verification, and coverage gates.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/chernistry/bernstein",
+      "name": "Bernstein",
+      "url": "https://github.com/chernistry/bernstein",
+      "description": "Multi-agent orchestrator that coordinates Gemini CLI alongside Claude Code and Codex CLI. Spawns parallel coding agents from a single goal, verifies with tests, auto-commits. Deterministic Python coordination, zero LLM tokens on orchestration.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/aannoo/hcom",
+      "name": "hcom",
+      "url": "https://github.com/aannoo/hcom",
+      "description": "Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/agents-squads/squads-cli",
+      "name": "squads-cli",
+      "url": "https://github.com/agents-squads/squads-cli",
+      "description": "Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state. Works with Gemini CLI.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/rustykuntz/clideck",
+      "name": "clideck",
+      "url": "https://github.com/rustykuntz/clideck",
+      "description": "WhatsApp-like dashboard for managing multiple AI coding agents (including Gemini CLI) in one browser window. Live status, session resume, autopilot that routes work between agents while afk, mobile remote to check in from a phone.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/toutkit/toutkit",
+      "name": "ToutKit",
+      "url": "https://github.com/toutkit/toutkit",
+      "description": "Desktop notebook with a built-in terminal that runs Gemini CLI alongside Claude Code and Codex; an in-app webview renders whatever the agent writes inline, and each note is a self-contained folder with its own SQLite, files, and scripts. Local-first, Electron, AGPL-3.0.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Ivy-Interactive/Ivy-Tendril",
+      "name": "Ivy Tendril",
+      "url": "https://github.com/Ivy-Interactive/Ivy-Tendril",
+      "description": "Open-source desktop app that orchestrates Gemini CLI alongside Claude Code, Codex, and Copilot through a plan-based lifecycle with verification gates, self-improving memory, and git worktree isolation. Local-first, agent-agnostic, FSL licensed.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Softeria/postmortemthis",
+      "name": "postmortemthis",
+      "url": "https://github.com/Softeria/postmortemthis",
+      "description": "Runs Gemini CLI alongside your other coding agents (Claude Code, Codex, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model review panel.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://codeagentswarm.com",
+      "name": "CodeAgentSwarm",
+      "url": "https://www.codeagentswarm.com",
+      "description": "Desktop app (macOS, Windows) that runs multiple Gemini CLI terminals in parallel alongside Claude Code and Codex CLI, under human supervision. Desktop notifications when an agent finishes or needs input, cross-session conversation history, per-terminal file diffs, and an MCP kanban board.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/madarco/agentbox",
+      "name": "AgentBox",
+      "url": "https://github.com/madarco/agentbox",
+      "description": "Run multiple coding agents (Gemini CLI, Claude Code, Codex, OpenCode) in parallel, each teleported into its own sandboxed VM — local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean). Sub-1s checkpoint startup; git credentials stay on the host. MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/getdevintern/devintern",
+      "name": "DevIntern",
+      "url": "https://github.com/getdevintern/devintern",
+      "description": "Tool that picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests by driving Gemini CLI non-interactively (also supports Claude Code, Codex, and others). A feasibility gate flags vague tickets back to the tracker with questions; optional unattended mode schedules ticket pickup and turns PR review comments into commits. Runs on your machines with your own Google keys. FSL-1.1, free for interactive use.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/KernelLord/pickysteve",
+      "name": "PickySteve",
+      "url": "https://github.com/KernelLord/pickysteve",
+      "description": "Skill router and context picker for coding agents: a local model (via Ollama, offline by default) routes each prompt to the right skill via hybrid BM25 + embedding retrieval, cross-encoder rerank, and an LLM judge, then assembles a minimal context bundle for the execution model. Built-in prompt-injection gate scans every retrieved document, fail-closed. Ships an MCP stdio server and an OpenAI-compatible proxy; one-command installer wires 18 coding agents including Gemini CLI. MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ofekron/better-agent",
+      "name": "Better Agent",
+      "url": "https://github.com/ofekron/better-agent",
+      "description": "Local workspace for persistent Gemini CLI, Claude Code, and Codex sessions with detached execution, restart recovery, parallel forks, delegation, and approval gates. Source-available; free for non-commercial use.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/agentlas-ai/Agentlas-OS",
+      "name": "Agentlas OS",
+      "url": "https://github.com/agentlas-ai/Agentlas-OS",
+      "description": "Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/intentic/intentic",
+      "name": "intentic",
+      "url": "https://github.com/intentic/intentic",
+      "description": "Self-hosted workspace that runs Gemini CLI over ACP (gemini --experimental-acp) alongside Claude Code, Codex, and OpenCode. Each agent gets its own Docker container and git worktree on hardware you own; terminals survive disconnects, any browser or phone reopens the same fleet, and changes land through per-file, per-hunk diff review. Scheduled and webhook-triggered runs. MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/sandbaseai/cli",
+      "name": "SandBase CLI",
+      "url": "https://github.com/sandbaseai/cli",
+      "description": "Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models through one account.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hyhmrright/brooks-lint",
+      "name": "brooks-lint",
+      "url": "https://github.com/hyhmrright/brooks-lint",
+      "description": "AI code reviews grounded in six classic engineering books. Diagnoses decay risks with structured findings (Symptom → Source → Consequence → Remedy).",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/thoreinstein/gemini-notifier",
+      "name": "gemini-notifier",
+      "url": "https://github.com/thoreinstein/gemini-notifier",
+      "description": "A Gemini extension to send native system-level notifications when Gemini requests permissions.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/galz10/pickle-rick-extension",
+      "name": "Pickle Rick",
+      "url": "http://github.com/galz10/pickle-rick-extension",
+      "description": "This extension transforms the Gemini CLI into \"Pickle Rick,\" a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/thoreinstein/gemini-beads",
+      "name": "gemini-beads",
+      "url": "https://github.com/thoreinstein/gemini-beads",
+      "description": "Git-backed persistent memory and task management for Gemini CLI.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/gemini-cli-extensions/conductor",
+      "name": "Conductor",
+      "url": "http://github.com/gemini-cli-extensions/conductor",
+      "description": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/automateyournetwork/GeminiCLI_Listen_Extension",
+      "name": "Listen",
+      "url": "https://github.com/automateyournetwork/GeminiCLI_Listen_Extension",
+      "description": "Run Gemini CLI as a server with /listen commands.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension",
+      "name": "Screenshare",
+      "url": "https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension",
+      "description": "Screen sharing via MCP and custom slash commands.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension",
+      "name": "pyATS",
+      "url": "https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension",
+      "description": "pyATS integration for network testing.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension",
+      "name": "Subnet calculator",
+      "url": "https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension",
+      "description": "An extension for GeminiCLI that performs subnet calculation.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension",
+      "name": "Packet Buddy",
+      "url": "https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension",
+      "description": "A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/flutter/gemini-cli-extension",
+      "name": "Flutter Gemini CLI extension",
+      "url": "https://github.com/flutter/gemini-cli-extension",
+      "description": "Official extension for Gemini CLI that assists with creating and maintaining Flutter code.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/d3j/gemini-cli-on-vscode",
+      "name": "gemini-cli-on-vscode",
+      "url": "https://github.com/d3j/gemini-cli-on-vscode",
+      "description": "MAGUS Council: World's first? 4-AI consultation system (Gemini+Claude+GPT-5+Qwen) in VS Code - Revolutionary multi-agent development environment",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/automateyournetwork/GeminiCLI_Slash_Listen",
+      "name": "GeminiCLI_Slash_Listen",
+      "url": "https://github.com/automateyournetwork/GeminiCLI_Slash_Listen",
+      "description": "Innovative /listen command enabling remote Gemini CLI access through Slack, perfect for collaborative coding and remote assistance scenarios.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/amitkmaraj/gemini-cli-custom-slash-commands",
+      "name": "gemini-cli-custom-slash-commands",
+      "url": "https://github.com/amitkmaraj/gemini-cli-custom-slash-commands",
+      "description": "Curated collection of productivity-boosting custom slash commands that extend Gemini CLI with specialized workflows and shortcuts.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/clduab11/gemini-flow",
+      "name": "gemini-flow",
+      "url": "https://github.com/clduab11/gemini-flow",
+      "description": "Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/talkstream/ru-text",
+      "name": "ru-text",
+      "url": "https://github.com/talkstream/ru-text",
+      "description": "Russian text quality — ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/henu-wang/tokrepo-search-skill",
+      "name": "TokRepo Search Skill",
+      "url": "https://github.com/henu-wang/tokrepo-search-skill",
+      "description": "Cross-platform TokRepo skill with Gemini extension files for finding and installing AI assets such as prompts, MCP configs, workflows, and reusable skills.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/drpcorg/drpc-agent-skills",
+      "name": "dRPC Agent Skills",
+      "url": "https://github.com/drpcorg/drpc-agent-skills",
+      "description": "Query blockchain RPCs from Gemini CLI. Fetch balances, read contracts, and check gas prices via dRPC.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/openaccountants/openaccountants",
+      "name": "OpenAccountants",
+      "url": "https://github.com/openaccountants/openaccountants",
+      "description": "371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Yamato-main/gemini-discord",
+      "name": "gemini-discord",
+      "url": "https://github.com/Yamato-main/gemini-discord",
+      "description": "Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/xberg-io/plugins",
+      "name": "xberg-io plugins",
+      "url": "https://github.com/xberg-io/plugins",
+      "description": "A suite of Gemini CLI extensions from Kreuzberg, Inc.: document extraction (xberg — 97+ formats with OCR), web crawling (crawlberg), HTML→Markdown, a universal LLM client for 143 providers (liter-llm), and code intelligence for 300+ languages (tree-sitter-language-pack). Install via gemini extensions install.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/kigiela/16-eyes",
+      "name": "16-eyes",
+      "url": "https://github.com/kigiela/16-eyes",
+      "description": "AI-driven security audits via custom Gemini CLI commands and subagents (also supports Claude Code, Cursor, GitHub Copilot) — profiles the repo, verifies every finding, adversarially disproves high-impact ones before they reach the report. Install via npx 16-eyes install --target gemini.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/plasma-ai/wiki",
+      "name": "wiki",
+      "url": "https://github.com/plasma-ai/wiki",
+      "description": "Indexed Markdown knowledge bases with a CLI and installable Agent Skill. wiki install writes the skill to ~/.agents/skills, which Gemini CLI discovers.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/armoriq/armorGemini",
+      "name": "ArmorGemini",
+      "url": "https://github.com/armoriq/armorGemini",
+      "description": "Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via BeforeTool / AfterTool hooks before it runs. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: curl -fsSL https://armoriq.ai/install_armorgemini.sh | bash.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/shinshin86/oh-my-logo",
+      "name": "Oh My Logo",
+      "url": "https://github.com/shinshin86/oh-my-logo",
+      "description": "Adds personality to your terminal with giant ASCII-art logos featuring beautiful color gradients, perfect for customizing your Gemini CLI startup experience.",
+      "section": [
+        "Fun"
+      ]
+    },
+    {
+      "key": "https://github.com/Moresl/cchub",
+      "name": "CCHub",
+      "url": "https://github.com/Moresl/cchub",
+      "description": "Desktop app for managing MCP servers and AI coding tool configs across Claude Code, Codex, Gemini CLI, and OpenCode. MCP marketplace, config profile switching, workflow templates, security audit. Built with Tauri + React + Rust.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/avifenesh/agnix",
+      "name": "agnix",
+      "url": "https://github.com/avifenesh/agnix",
+      "description": "Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/stevenAthompson/self-command",
+      "name": "Self Command",
+      "url": "https://github.com/stevenAthompson/self-command",
+      "description": "Allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux. Reduces usage and improves reliability by avoiding loop detection. After installing the extension you must lauch gemini-cli into a tmux session named \"gemini-cli\".",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/nicepkg/vsync",
+      "name": "vsync",
+      "url": "https://github.com/nicepkg/vsync",
+      "description": "Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/nordluf/gemini-dockerized-cli",
+      "name": "Gemini Dockerized CLI",
+      "url": "https://github.com/nordluf/gemini-dockerized-cli",
+      "description": "Gemini Dockerized CLI with small improvements.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://issue-queue.readthedocs.io/en/latest/llm_agents.html",
+      "name": "IssueDB",
+      "url": "https://issue-queue.readthedocs.io/en/latest/llm_agents.html",
+      "description": "LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/tgagor/docker-gemini-cli",
+      "name": "Docker Gemini CLI",
+      "url": "https://github.com/tgagor/docker-gemini-cli",
+      "description": "Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and its dependencies.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/dyoshikawa/rulesync",
+      "name": "Rulesync",
+      "url": "https://github.com/dyoshikawa/rulesync",
+      "description": "The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/numtide/nix-ai-tools",
+      "name": "Nix AI Tools",
+      "url": "https://github.com/numtide/nix-ai-tools",
+      "description": "Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/BA-CalderonMorales/terminal-jarvis",
+      "name": "Terminal Jarvis",
+      "url": "https://github.com/BA-CalderonMorales/terminal-jarvis",
+      "description": "Ultimate command center unifying multiple AI coding assistants in one elegant interface. Switch between tools seamlessly and manage sessions efficiently.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Piebald-AI/splitrail",
+      "name": "Splitrail",
+      "url": "https://github.com/Piebald-AI/splitrail",
+      "description": "Comprehensive usage analytics platform that tracks and optimizes your Gemini CLI workflows, helping teams understand and improve their AI-assisted development patterns.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/kbwo/ccmanager",
+      "name": "ccmanager",
+      "url": "https://github.com/kbwo/ccmanager",
+      "description": "Essential session management tool that saves, restores, and organizes multiple Gemini CLI sessions, perfect for juggling multiple projects or experiments.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/jazzyalex/agent-sessions",
+      "name": "Agent Sessions",
+      "url": "https://github.com/jazzyalex/agent-sessions",
+      "description": "Local-first macOS app to search, browse, and resume Gemini CLI sessions alongside Codex CLI, Claude Code, OpenCode, and other agents, with live iTerm2 monitoring via Agent Cockpit.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/yujiachen-y/codebase-recon-skill",
+      "name": "codebase-recon",
+      "url": "https://github.com/yujiachen-y/codebase-recon-skill",
+      "description": "AI agent skill that analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, and development momentum before reading any code. Works with Gemini CLI, Claude Code, Cursor, and 20+ other coding agents.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier",
+      "name": "Gemini CLI Logs Prettifier",
+      "url": "https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier",
+      "description": "Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/MohamedAbdallah-14/unslop",
+      "name": "unslop",
+      "url": "https://github.com/MohamedAbdallah-14/unslop",
+      "description": "CLI and MCP server that removes AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocabulary. Works with any MCP client including Gemini CLI. Five intensity levels and a lint-only audit mode. Useful for cleaning commit messages, PR descriptions, and documentation.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/mishanefedov/agentwatch",
+      "name": "agentwatch",
+      "url": "https://github.com/mishanefedov/agentwatch",
+      "description": "Local-only TUI + web dashboard that tails Gemini CLI sessions alongside Claude Code, Codex, Cursor, Hermes, and OpenClaw on one unified timeline. Parses tokens, tools, and per-turn cost from each Gemini CLI session (gemini-2.5-pro / flash rates), plus context compaction visualizer, MAD z-score anomaly detection, MCP server mode, and OpenTelemetry exporter. No cloud, no telemetry. macOS + Linux. MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/luoyuctl/agenttrace",
+      "name": "agenttrace",
+      "url": "https://github.com/luoyuctl/agenttrace",
+      "description": "Local-first TUI for Gemini CLI and AI coding agent session observability. Parses local logs for cost, tokens, tool failures, latency, anomalies, health gates, and diffs across Gemini CLI, Claude Code, Codex CLI, Aider, Cursor exports, OpenCode, and more.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/swarmclawai/andrej-karpathy-skills",
+      "name": "andrej-karpathy-skills",
+      "url": "https://github.com/swarmclawai/andrej-karpathy-skills",
+      "description": "Npm installer for Karpathy-inspired GEMINI.md guidelines, plus adapters for Codex, Claude Code, Cursor, OpenCode, OpenClaw, Windsurf, and Aider.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/agentrhq/authsome",
+      "name": "authsome",
+      "url": "https://github.com/agentrhq/authsome",
+      "description": "Local credential broker for AI agents. OAuth2 and API key vault stored locally, a loopback HTTPS proxy injects credentials into outbound provider requests so the Gemini CLI agent never sees raw secrets. 45 providers bundled (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, ...). Python 3.13+, MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/The-Untitled-Org/wasla",
+      "name": "Wasla",
+      "url": "https://github.com/The-Untitled-Org/wasla",
+      "description": "TypeScript CLI that syncs agents, MCP configs, skills, commands, and workflow assets across Gemini CLI, Claude Code, Codex, OpenCode/OpenClaw, and GitHub Copilot workflows.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/sorkila/lockpaw",
+      "name": "Lockpaw",
+      "url": "https://github.com/sorkila/lockpaw",
+      "description": "macOS menu bar screen guard for unattended Gemini CLI runs. One hotkey covers the screen and blocks input while the agent keeps running (no sleep), and the locked screen glows plus fires a notification when Gemini CLI needs input or finishes, via a lockpaw ping hook. Touch ID unlock. Also works with Claude Code and Codex. Native Swift, free, open source.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/sorkila/tintpad",
+      "name": "Tintpad",
+      "url": "https://github.com/sorkila/tintpad",
+      "description": "macOS menu bar launcher for the agentic-coding loop. One hotkey opens your terminal at the right repo with Gemini CLI (or Claude Code, Codex) already running. Frecency repo search, Safe/Default/YOLO run modes, git worktrees, headless background dispatch. Native Swift, local-only, free, open source.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/anthony-chaudhary/dos-kernel",
+      "name": "DOS",
+      "url": "https://github.com/anthony-chaudhary/dos-kernel",
+      "description": "Deterministic trust kernel for coding agents: hooks that verify \"done\" claims against git evidence and refuse file collisions between concurrent agents. Wires into Gemini CLI with dos init --hooks gemini; also ships an MCP server. Python, MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Brattlof/skillet",
+      "name": "skillet",
+      "url": "https://github.com/Brattlof/skillet",
+      "description": "Zero-dependency Go CLI / package manager that installs Agent Skills and MCP servers into Gemini CLI (and other tools), plus Claude Code slash commands and hooks.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Fmarzochi/EGC",
+      "name": "EGC",
+      "url": "https://github.com/Fmarzochi/EGC",
+      "description": "Persistent cross-session memory for Gemini CLI and 12 other AI coding tools. SQLite-backed state survives context resets, install with npm install -g @egchq/egc.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://mcpconfigdoctor.online",
+      "name": "MCP Config Doctor",
+      "url": "https://mcpconfigdoctor.online/",
+      "description": "Browser-local diagnostic that validates Gemini CLI ~/.gemini/settings.json MCP server entries (shape, env/secret references, transport fields). Also covers Claude Code, Codex CLI, and VS Code MCP configs. No account, no telemetry, no remote calls — runs entirely in the browser.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/tristan666666/agent-island",
+      "name": "Agent Island",
+      "url": "https://github.com/tristan666666/agent-island",
+      "description": "Free, MIT-licensed native status companion for Gemini CLI, Claude Code, Codex, Grok, and Cursor sessions. Shows local working, stalled, and your-turn state, and tracks Gemini Pro and Flash quota separately, without an Agent Island account or product telemetry. macOS and Windows.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Bevel-Software/Hexis",
+      "name": "Hexis",
+      "url": "https://github.com/Bevel-Software/Hexis",
+      "description": "Git-backed platform for skills, tools, and context for AI agents, available to Gemini CLI through a remote OAuth MCP server.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
+      "name": "SRT Subtitle Translator Validator",
+      "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
+      "description": "Browser-based tool to translate SRT subtitles using your Gemini subscription via CLI Proxy API with automatic validation/error correction - no API keys needed.",
+      "section": [
+        "Browser Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/oneryalcin/gemini-cli-sdk",
+      "name": "Python Gemini CLI SDK",
+      "url": "https://github.com/oneryalcin/gemini-cli-sdk",
+      "description": "Python SDK for Gemini CLI; API-compatible with Claude Code SDK.",
+      "section": [
+        "SDKs"
+      ]
+    },
+    {
+      "key": "https://github.com/ben-vargas/ai-sdk-provider-gemini-cli",
+      "name": "Gemini CLI Vercel AI SDK Provider",
+      "url": "https://github.com/ben-vargas/ai-sdk-provider-gemini-cli",
+      "description": "Seamless Vercel AI SDK integration that unlocks Gemini's capabilities in Next.js and React applications with minimal configuration.",
+      "section": [
+        "SDKs"
+      ]
+    },
+    {
+      "key": "https://github.com/gzzhongqi/geminicli2api",
+      "name": "geminicli2api",
+      "url": "https://github.com/gzzhongqi/geminicli2api",
+      "description": "Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/print-yuhuan/Gemini-CLI-Termux",
+      "name": "Gemini CLI Termux",
+      "url": "https://github.com/print-yuhuan/Gemini-CLI-Termux",
+      "description": "Provides a one-click deployment solution for Gemini CLI reverse proxy service for Android Termux users.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/Brioch/gemini-openai-proxy",
+      "name": "gemini-openai-proxy",
+      "url": "https://github.com/Brioch/gemini-openai-proxy",
+      "description": "Universal compatibility layer serving Gemini 2.5 Pro/Flash through OpenAI protocol. Works instantly with existing tools like LangChain, llama.cpp, and VS Code extensions.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/GewoonJaap/gemini-cli-openai",
+      "name": "gemini-cli-openai",
+      "url": "https://github.com/GewoonJaap/gemini-cli-openai",
+      "description": "Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/nettee/gemini-cli-proxy",
+      "name": "gemini-cli-proxy",
+      "url": "https://github.com/nettee/gemini-cli-proxy",
+      "description": "OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/router-form-me/CLIProxyAPI",
+      "name": "CLIProxyAPI",
+      "url": "https://github.com/router-form-me/CLIProxyAPI",
+      "description": "Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge",
+      "name": "gemini-cli-mcp-openai-bridge",
+      "url": "https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge",
+      "description": "Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/harish-garg/gemini-cli-prompt-library",
+      "name": "gemini-cli-prompt-library",
+      "url": "https://github.com/harish-garg/gemini-cli-prompt-library",
+      "description": "30+ professional prompts for Gemini CLI.",
+      "section": [
+        "Prompts"
+      ]
+    },
+    {
+      "key": "https://github.com/kaorii-ako/Shiori-v1",
+      "name": "Shiori",
+      "url": "https://github.com/kaorii-ako/Shiori-v1",
+      "description": "Open-source AI study companion powered by Gemini AI. Assignments tracker, SRS flashcards, GPA predictor, AI quiz generator, Pomodoro focus timer, and Claude Code MCP server. Live demo.",
+      "section": [
+        "Education & Study Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Vortx-AI/emem",
+      "name": "emem",
+      "url": "https://github.com/Vortx-AI/emem",
+      "description": "Shared, signed and content-addressed memory of the physical world that AI agents can read, cite, transfer and independently verify. 108 tools, no API key, no signup. Remote Streamable HTTP. Install: gemini extensions install https://emem.dev/gemini-extension.json.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/lusha-oss/lusha-mcp-plugin",
+      "name": "Lusha",
+      "url": "https://github.com/lusha-oss/lusha-mcp-plugin",
+      "description": "B2B prospecting and data enrichment: find and enrich contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Remote MCP server bundled with 4 prospecting skills and OAuth sign-in. Works with Gemini CLI (gemini extensions install) and Antigravity (agy plugin install).",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/supernovae-st/nika",
+      "name": "nika",
+      "url": "https://github.com/supernovae-st/nika",
+      "description": "Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args [mcp]).",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/tanaikech/ToolsForMCPServer",
+      "name": "ToolsForMCPServer",
+      "url": "https://github.com/tanaikech/ToolsForMCPServer",
+      "description": "Bridges Gemini CLI with Google Workspace through Apps Script integration, automating document processing, spreadsheet manipulation, and workflow automation.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/kubestellar/console",
+      "name": "KubeStellar Console kc-agent",
+      "url": "https://github.com/kubestellar/console",
+      "description": "Multi-cluster Kubernetes MCP server bridging Gemini CLI to kubeconfig and Kubernetes APIs. Manage clusters, policies, and 20+ CNCF project integrations across edge and cloud. Install via brew tap kubestellar/tap && brew install kc-agent.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/jamubc/gemini-mcp-tool",
+      "name": "gemini-mcp-tool",
+      "url": "https://github.com/jamubc/gemini-mcp-tool",
+      "description": "Leverages Gemini's industry-leading 2M token context window through MCP, enabling analysis of entire codebases and large documents that other tools can't handle.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/choplin/mcp-gemini-cli",
+      "name": "mcp-gemini-cli",
+      "url": "https://github.com/choplin/mcp-gemini-cli",
+      "description": "A simple MCP (Model Context Protocol) server wrapper for Google's Gemini CLI.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/InfolabAI/gemini-cli-mcp",
+      "name": "gemini-cli-mcp",
+      "url": "https://github.com/InfolabAI/gemini-cli-mcp",
+      "description": "Tool that enables using Gemini AI as an MCP server within Claude Code with large file analysis and token savings.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/neriousy/gemini-mcp",
+      "name": "gemini-mcp",
+      "url": "https://github.com/neriousy/gemini-mcp",
+      "description": "A simple MCP server for using the Gemini CLI.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/0xmountaintop/gemini-cli-mcp",
+      "name": "gemini-cli-mcp",
+      "url": "https://github.com/0xmountaintop/gemini-cli-mcp",
+      "description": "A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/henu-wang/tokrepo-mcp-server",
+      "name": "TokRepo MCP Server",
+      "url": "https://github.com/henu-wang/tokrepo-mcp-server",
+      "description": "Search and install AI skills, prompts, MCP configs, and workflows from TokRepo from Gemini CLI and other MCP clients.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/MohamedAbdallah-14/prompt-to-asset",
+      "name": "prompt-to-asset",
+      "url": "https://github.com/MohamedAbdallah-14/prompt-to-asset",
+      "description": "MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run via Pollinations and Stable Horde free tiers. Works with any MCP client including Gemini CLI.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://intel.twzrd.xyz/mcp",
+      "name": "TWZRD Agent Intel",
+      "url": "https://intel.twzrd.xyz/mcp",
+      "description": "Trust scoring and identity verification for AI agent wallets on Solana. Verify agent identity before x402 micropayments or agent-initiated operations. Free: score_agent, preflight_check. Paid (x402): get_trust_receipt. Works with any MCP client including Gemini CLI.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/IvanMurzak/Unity-MCP",
+      "name": "Unity-MCP",
+      "url": "https://github.com/IvanMurzak/Unity-MCP",
+      "description": "Open-source MCP server connecting AI agents (including Gemini CLI) to the Unity Editor and runtime, with 100+ built-in tools.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/IvanMurzak/Godot-MCP",
+      "name": "Godot-MCP",
+      "url": "https://github.com/IvanMurzak/Godot-MCP",
+      "description": "Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/IvanMurzak/Unreal-MCP",
+      "name": "Unreal-MCP",
+      "url": "https://github.com/IvanMurzak/Unreal-MCP",
+      "description": "Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/IvanMurzak/GameDev-MCP-Server",
+      "name": "GameDev-MCP-Server",
+      "url": "https://github.com/IvanMurzak/GameDev-MCP-Server",
+      "description": "Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/agentage/find-mcp",
+      "name": "Find MCP",
+      "url": "https://github.com/agentage/find-mcp",
+      "description": "Search 17,000+ MCP servers synced from the official MCP registry (registry.modelcontextprotocol.io). Remote Streamable HTTP (https://catalog.agentage.io/mcp, no auth for search) or stdio (npx -y @agentage/find-mcp). Works with Gemini CLI: gemini mcp add --transport http find-mcp https://catalog.agentage.io/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/hjqcan/GoodMemory",
+      "name": "GoodMemory",
+      "url": "https://github.com/hjqcan/GoodMemory",
+      "description": "Local-first durable memory for Gemini CLI through standalone MCP, with scoped recall, provenance and trace inspection, and explicit forgetting. Read-only by default with opt-in governed writes; install with npm install -g goodmemory@0.7.5 and follow the Gemini CLI setup guide.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/runapi-ai/mcp",
+      "name": "RunAPI MCP",
+      "url": "https://github.com/runapi-ai/mcp",
+      "description": "Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://aisotools.com/mcp",
+      "name": "AISO Tools MCP",
+      "url": "https://aisotools.com/mcp",
+      "description": "Query a catalog of 1,636 AI tools from the CLI: keyword/category/pricing search, side-by-side comparison, and alternatives lookup, with a canonical citation URL on every result. Remote Streamable HTTP, no API key. Works with any MCP client including Gemini CLI: gemini mcp add --transport http aisotools https://aisotools.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Lians-ai/Lians",
+      "name": "Lians",
+      "url": "https://github.com/Lians-ai/Lians",
+      "description": "Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: gemini extensions install https://github.com/Lians-ai/Lians.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/JanYork/llm-wiki-cli",
+      "name": "LWC",
+      "url": "https://github.com/JanYork/llm-wiki-cli",
+      "description": "Local-first, source-grounded project memory for Gemini CLI and other coding agents. Provides bounded recall, citations, atomic changesets, an installable Agent Skill, and a read-only stdio MCP server (lwc serve --mcp). Apache-2.0.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/vostride/agent-qa",
+      "name": "Agent QA",
+      "url": "https://github.com/vostride/agent-qa",
+      "description": "Open-source self-improving QA agent for natural-language web and mobile tests. Run its MCP server with agent-qa mcp to let Gemini CLI author, execute, inspect, triage, and repair tests.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/vshulcz/deja-vu",
+      "name": "deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: deja install gemini-auto.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/gutsavgupta/nvim-gemini-companion",
+      "name": "nvim Gemini Companion",
+      "url": "https://github.com/gutsavgupta/nvim-gemini-companion",
+      "description": "A Neovim plugin to integrate Gemini CLI well (+ Qwen Code now).",
+      "section": [
+        "Neovim Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/JonRoosevelt/gemini-cli.nvim",
+      "name": "gemini-cli.nvim",
+      "url": "https://github.com/JonRoosevelt/gemini-cli.nvim",
+      "description": "Native Neovim integration bringing Gemini's AI capabilities directly into your editor with keybindings, commands, and buffer manipulation support.",
+      "section": [
+        "Neovim Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/JunYang-tes/gemini-nvim",
+      "name": "gemini-nvim",
+      "url": "https://github.com/JunYang-tes/gemini-nvim",
+      "description": "Gemini CLI in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.",
+      "section": [
+        "Neovim Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/openmule/gacua",
+      "name": "GACUA",
+      "url": "https://github.com/openmule/gacua",
+      "description": "The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.",
+      "section": [
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/Theopsguide/gemini-code-flow",
+      "name": "gemini-code-flow",
+      "url": "https://github.com/Theopsguide/gemini-code-flow",
+      "description": "Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.",
+      "section": [
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/pauldatta/gemini-cli-commands-demo",
+      "name": "gemini-cli-commands-demo",
+      "url": "https://github.com/pauldatta/gemini-cli-commands-demo",
+      "description": "A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI.",
+      "section": [
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/megabytespace/claude-skills",
+      "name": "Emdash Skills",
+      "url": "https://github.com/megabytespace/claude-skills",
+      "description": "14-category autonomous product-building OS with 18 specialized agents. Turns one-line prompts into deployed products. Includes GEMINI.md compatibility for cross-tool portability. Skills cover architecture, planning, quality, brand, media, observability, and deployment on Cloudflare Workers.",
+      "section": [
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/addyosmani/gemini-cli-tips",
+      "name": "Gemini CLI Tips by Addy Osmani",
+      "url": "https://github.com/addyosmani/gemini-cli-tips",
+      "description": "~30 pro-tips for effectively using Gemini CLI for agentic coding.",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://github.com/philschmid/gemini-cli-extension",
+      "name": "gemini-cli-extension",
+      "url": "https://github.com/philschmid/gemini-cli-extension",
+      "description": "Essential collection of extensions and commands that enhance Gemini CLI with additional capabilities and workflow improvements.",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://github.com/markmcd/gemini-docs-ext",
+      "name": "gemini-docs-ext",
+      "url": "https://github.com/markmcd/gemini-docs-ext",
+      "description": "Gemini CLI extension that adds Gemini API docs and MCP.",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://github.com/vladkol/gemini-cli-media-generation",
+      "name": "gemini-cli-media-generation",
+      "url": "https://github.com/vladkol/gemini-cli-media-generation",
+      "description": "An example of using Gemini CLI with MCP Servers for Genmedia and Gemini 2.5 Flash Image model (Nano-banana)",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://github.com/palladius/gemini-cli-demos",
+      "name": "gemini-cli-demos",
+      "url": "https://github.com/palladius/gemini-cli-demos",
+      "description": "Ready-to-run demonstration scenarios showcasing Gemini CLI's capabilities, perfect for learning, presenting, or evaluating the tool.",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://github.com/ptone/cli-demo-cookbook",
+      "name": "cli-demo-cookbook",
+      "url": "https://github.com/ptone/cli-demo-cookbook",
+      "description": "Collection of demo scenario and casts for Gemini CLI.",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://github.com/ykdojo/antigravity-cli-tips",
+      "name": "Antigravity CLI Tips",
+      "url": "https://github.com/ykdojo/antigravity-cli-tips",
+      "description": "Practical tips for Antigravity CLI (agy), the official successor to Gemini CLI.",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://github.com/abduznik/Git-Alchemist",
+      "name": "Git-Alchemist",
+      "url": "https://github.com/abduznik/Git-Alchemist",
+      "description": "A unified AI-powered CLI tool for automating GitHub repository management (issues, PRs, topics, profiles) powered by Gemini 3 and Gemma 3.",
+      "section": [
+        "Non-Gemini CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/nowork-studio/toprank",
+      "name": "toprank",
+      "url": "https://github.com/nowork-studio/toprank",
+      "description": "Claude Code plugin for SEO and Google Ads that includes a Gemini cross-model review skill. Uses Gemini for second-opinion reviews on Google Ads campaigns, SEO metadata, and schema markup — leveraging Gemini's native Google ecosystem knowledge for higher-quality decisions than Claude alone. MIT, 107 stars.",
+      "section": [
+        "Non-Gemini CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/nowork-studio/NotFair",
+      "name": "NotFair",
+      "url": "https://github.com/nowork-studio/NotFair",
+      "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Includes a /notfair:gemini cross-model review skill that runs Gemini as a second-opinion gate on ad campaigns, SEO metadata, and schema markup. MIT, ~2.9k stars.",
+      "section": [
+        "Non-Gemini CLI"
+      ]
+    }
+  ]
+}

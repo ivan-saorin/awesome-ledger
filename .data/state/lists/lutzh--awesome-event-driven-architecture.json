@@ -1,0 +1,226 @@
+{
+  "etag": "W/\"397fd8c779d0f4ce0029272825e1ffb021e89c72fd371dcef795477bd2bfaf7e\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0",
+      "name": "Going “Events-First” for Microservices with Event Storming and DDD",
+      "url": "https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0",
+      "description": "By Russ Miles, October 2016. \"It is not the things that matter in early stages of design - it is the things that happen.\"",
+      "section": [
+        "📕 Articles",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://hackernoon.com/events-as-first-class-citizens-8633e8479493?gi=5ecff3301dfa",
+      "name": "Events As First-Class Citizens",
+      "url": "https://hackernoon.com/events-as-first-class-citizens-8633e8479493?gi=5ecff3301dfa",
+      "description": "By Randy Shoup, January 2018. Focusses on the most important part of EDA: The actual events.",
+      "section": [
+        "📕 Articles",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything",
+      "name": "Why Event-First Programming Changes Everything",
+      "url": "https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/",
+      "description": "By Neil Avery, January 2019. Somewhat lengthy article that's great in painting the \"big picture\".",
+      "section": [
+        "📕 Articles",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824",
+      "name": "Introduction to Event-Driven Architecture",
+      "url": "https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824",
+      "description": "By Kacey Bui, February 2021. Good overview of the basics.",
+      "section": [
+        "📕 Articles",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://kimjulianclark.medium.com/the-resurgence-of-event-driven-architecture-9c2daa41d9b6",
+      "name": "The Resurgence of Event Driven Architecture",
+      "url": "https://kimjulianclark.medium.com/the-resurgence-of-event-driven-architecture-9c2daa41d9b6",
+      "description": "By Kim Clark, May 2021. Historical context for the renewed interest in EDA. Provides a high-level view of Kafka vs. Queues, and unusually clear about runtime decoupling vs. request/response.",
+      "section": [
+        "📕 Articles",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://ben-morris.com/orchestration-vs-choreography-for-microservice-workflows",
+      "name": "Orchestration vs. Choreography",
+      "url": "https://www.ben-morris.com/orchestration-vs-choreography-for-microservice-workflows/",
+      "description": "By Ben Morris, December 2021. Every non-trivial system involves workflows that span multiple services. There are opposing schools of thought on how to handle this. Ben Morris gives a short, balanced introduction.",
+      "section": [
+        "📕 Articles",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications",
+      "name": "Event Granularity: Modelling events in event driven applications",
+      "url": "https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/",
+      "description": "By Barry O'Sullivan, December 2017. About finding the right granularity for events.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://blogit.michelin.io/choregraphy-or-orchestration-thats-the-question",
+      "name": "Moving from orchestration to choreography",
+      "url": "https://blogit.michelin.io/choregraphy-or-orchestration-thats-the-question/",
+      "description": "By Olivier Jauze, March 2021. Michelin's journey from BPM orchestration to event-driven choreography. It's the first of a series and continues with part 2 and part 3.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems",
+      "name": "The different types of events in event-driven systems",
+      "url": "https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/",
+      "description": "By Frank de Jonge, February 2022. There are different approaches to classifying events - this is a very good one.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox",
+      "name": "Reliable event dispatching using a transactional outbox",
+      "url": "https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/",
+      "description": "By Frank de Jonge, February 2022. Transactional outbox is a crucial pattern for services basing their persistence on CRUD/RDBMS.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86",
+      "name": "Behind the scenes: McDonald's event-driven architecture",
+      "url": "https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86",
+      "description": "From the McDonald's tech blog, August 2022. Not very detailed, but an easily digestible case study about event-driven architecture at scale. Listing this here is not an endorsement of their products. There's a second part, too.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1",
+      "name": "Event Driven Architecture — 5 Pitfalls to Avoid",
+      "url": "https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1",
+      "description": "By Natan Silnitsky, August 2022. Especially when you only just get started, check this to spare you some frustration later. You might also want to check the \"Further Reading\" section at the end.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca",
+      "name": "5 pitfalls to avoid when implementing an Event-Driven Architecture",
+      "url": "https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca",
+      "description": "By Kris Van Vlaenderen, January 2024. Sounds very similar to the previous one. But it's not a case of duplicate events - it's actually 5 different pieces of advice.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://infoq.com/articles/event-driven-banking-architecture",
+      "name": "Event-Driven Patterns for Cloud-Native Banking: Lessons from What Works and What Hurts",
+      "url": "https://www.infoq.com/articles/event-driven-banking-architecture/",
+      "description": "By Chris Tacey-Green, March 2026. Based on production experience at Investec, the article covers both the benefits and the costs of running EDA in a regulated environment.",
+      "section": [
+        "📕 Articles",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&v=SKXS2h3MdPM",
+      "name": "Core Decisions in Event-Driven Architecture",
+      "url": "https://www.youtube.com/watch?v=SKXS2h3MdPM&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Duana Stanley, October 2019. Overall a great talk, definitely worth watching. Below are some minor issues I have with it.",
+      "section": [
+        "📺 Videos",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&v=A_mstzRGfIE",
+      "name": "Event-Driven Architectures Done Right",
+      "url": "https://www.youtube.com/watch?v=A_mstzRGfIE&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Tim Berglund, May 2021. Good overview, clear presentation.",
+      "section": [
+        "📺 Videos",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&v=9guR3CBTG44",
+      "name": "Event Driven Architecture & Governance in Action",
+      "url": "https://www.youtube.com/watch?v=9guR3CBTG44&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Wim Debreuck, June 2023. A talk that goes beyond the technical fundamentals, into the architecture and design process of event-driven applications. The shown approach might not be universal, but provides important insights. I especially like the clarity around business events.",
+      "section": [
+        "📺 Videos",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&v=Fb_0UOD2X2I",
+      "name": "Event-Driven Architecture Explained in 15 Minutes",
+      "url": "https://www.youtube.com/watch?v=Fb_0UOD2X2I&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Dave Farley, July 2024. Watching videos by Dave Farley is always time well spent, and his short take on event-driven architecture is no exception.",
+      "section": [
+        "📺 Videos",
+        "Foundational"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&t=493s&v=wM-dTroS0FA",
+      "name": "EDA in Practice: Building an eCommerce Platform at Cinch",
+      "url": "https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.",
+      "section": [
+        "📺 Videos",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&v=5YLpjPmsPCA",
+      "name": "What is the Transactional Outbox Pattern?",
+      "url": "https://www.youtube.com/watch?v=5YLpjPmsPCA&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Wade Waldron, February 2024. A short video (just over 5 minutes) explaining what the transactional outbox pattern is and how it works.",
+      "section": [
+        "📺 Videos",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&v=1dWJO31wpV8",
+      "name": "Shifting Gears: From Events to Event-Driven",
+      "url": "https://www.youtube.com/watch?v=1dWJO31wpV8&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, and also includes a lot of foundational aspects.",
+      "section": [
+        "📺 Videos",
+        "Experience Reports And Practicalities"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq&v=1KlQVhVYiFU",
+      "name": "Event Sourcing – What, Why & How",
+      "url": "https://www.youtube.com/watch?v=1KlQVhVYiFU&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq",
+      "description": "By Anita Kvamme, June 2024. While also event based, Event Sourcing is not the same as Event-Driven Architecture. They complement each other well, but you can also use either without the other. Thankfully, this great overview of Event Sourcing makes that clear at the very start.",
+      "section": [
+        "Related Topics"
+      ]
+    }
+  ]
+}

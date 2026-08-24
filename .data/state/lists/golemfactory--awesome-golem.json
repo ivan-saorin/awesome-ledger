@@ -1,0 +1,1010 @@
+{
+  "etag": "W/\"bfb5e8eaf26c0fcb0dbd21a24d56d242e15f953fd83a9f71b6e52e20dc4aac60\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://golem.network/platform",
+      "name": "Golem Network Platform",
+      "url": "https://www.golem.network/platform",
+      "description": "Learn the Golem platform on the official Golem Network website.",
+      "section": [
+        "Golem"
+      ]
+    },
+    {
+      "key": "https://chat.golem.network",
+      "name": "Golem Network Discord",
+      "url": "https://chat.golem.network/",
+      "description": "Join the Golem Network community on Discord and chat directly with the team.",
+      "section": [
+        "Golem"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/GolemProject",
+      "name": "Reddit",
+      "url": "https://reddit.com/r/GolemProject",
+      "description": "Golem Network discussion on the Reddit platform.",
+      "section": [
+        "Golem"
+      ]
+    },
+    {
+      "key": "https://twitter.com/golemproject",
+      "name": "Twitter",
+      "url": "https://twitter.com/golemproject",
+      "description": "The Golem Project Twitter.",
+      "section": [
+        "Golem"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net",
+      "name": "Blog",
+      "url": "http://blog.golemproject.net/",
+      "description": "The official blog where you can find the most reliable information on announcements, summaries and updates.",
+      "section": [
+        "Golem"
+      ]
+    },
+    {
+      "key": "https://stats.golem.network",
+      "name": "Golem Network Stats",
+      "url": "https://stats.golem.network",
+      "description": "Statistics tracking tasks and provider resource utilization in the Golem Network.",
+      "section": [
+        "Network Statistics"
+      ]
+    },
+    {
+      "key": "https://github.com/cryptobench/golem-stats-backend",
+      "name": "Golem Stats backend",
+      "url": "https://github.com/cryptobench/golem-stats-backend",
+      "description": "Backend of the Golem Network Statistics page including API endpoint URLs.",
+      "section": [
+        "Network Statistics"
+      ]
+    },
+    {
+      "key": "https://docs.stats.golem.network",
+      "name": "Stats API Documentation",
+      "url": "https://docs.stats.golem.network/",
+      "description": "API endpoints that the Golem Network Stats page uses to display its data.",
+      "section": [
+        "Network Statistics"
+      ]
+    },
+    {
+      "key": "https://docs.golem.network",
+      "name": "Golem Docs",
+      "url": "https://docs.golem.network/",
+      "description": "A manual for Golem (both for Requestors and Providers).",
+      "section": [
+        "Developer and Requestor Resources"
+      ]
+    },
+    {
+      "key": "https://yapapi.readthedocs.io",
+      "name": "Python API Reference",
+      "url": "https://yapapi.readthedocs.io/",
+      "description": "Yapapi API Reference.",
+      "section": [
+        "Developer and Requestor Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/golemfactory/yagna/releases",
+      "name": "Releases List",
+      "url": "https://github.com/golemfactory/yagna/releases",
+      "description": "GitHub releases of Yagna.",
+      "section": [
+        "Developer and Requestor Resources"
+      ]
+    },
+    {
+      "key": "https://docs.golem.network/docs/quickstarts/js-quickstart",
+      "name": "JS Requestor Quickstart",
+      "url": "https://docs.golem.network/docs/quickstarts/js-quickstart",
+      "description": "Get started quickly and create your first tasks/request on Golem.",
+      "section": [
+        "Developer and Requestor Resources"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/questions/tagged/yagna",
+      "name": "Yagna tag on Stack Overflow",
+      "url": "https://stackoverflow.com/questions/tagged/yagna",
+      "description": "Use the Yagna tag if you have an interesting question you'd like answered.",
+      "section": [
+        "Developer and Requestor Resources"
+      ]
+    },
+    {
+      "key": "https://docs.golem.network/docs/providers/provider-installation",
+      "name": "Provider Tutorial",
+      "url": "https://docs.golem.network/docs/providers/provider-installation",
+      "description": "Get started as a Provider on Golem Network using the handbook.",
+      "section": [
+        "Provider Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/MarijnStevens/yagna-binaries",
+      "name": "Yagna-binaries for aarch64",
+      "url": "https://github.com/MarijnStevens/yagna-binaries",
+      "description": "Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi.",
+      "section": [
+        "Provider Resources"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c",
+      "name": "Automatically update provider node prices",
+      "url": "https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c",
+      "description": "Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price.",
+      "section": [
+        "Provider Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/jedbrooke/golem-price-updater",
+      "name": "Golem Price Updater",
+      "url": "https://github.com/jedbrooke/golem-price-updater",
+      "description": "Automatically adjust the price for your Golem node based on the current price of GLM.",
+      "section": [
+        "Provider Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/vciancio/golem-dashboard",
+      "name": "Golem Provider dashboard",
+      "url": "https://github.com/vciancio/golem-dashboard",
+      "description": "ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.",
+      "section": [
+        "Provider Resources",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/vciancio/golem-node-server",
+      "name": "Golem Provider dashboard backend / GolemBar",
+      "url": "https://github.com/vciancio/golem-node-server",
+      "description": "Flask backend that collects the data from the provider that's then used with the dashboard project above.",
+      "section": [
+        "Provider Resources",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://galaxy.ansible.com/golemfactory/ya_provider",
+      "name": "Ansible ya_provider",
+      "url": "https://galaxy.ansible.com/golemfactory/ya_provider",
+      "description": "Ansible role that deploys a Golem provider automatically with minimal configuration required.",
+      "section": [
+        "Provider Resources",
+        "Provisioning"
+      ]
+    },
+    {
+      "key": "https://github.com/nemani/golem-provider-terraform",
+      "name": "Golem Provider Terraform",
+      "url": "https://github.com/nemani/golem-provider-terraform",
+      "description": "Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.",
+      "section": [
+        "Provider Resources",
+        "Provisioning"
+      ]
+    },
+    {
+      "key": "https://github.com/r34x/Automatic-Golem",
+      "name": "Automatic Golem",
+      "url": "https://github.com/r34x/Automatic-Golem",
+      "description": "Setup a Golem Provider with simple instructions and logs guiding you through the process.",
+      "section": [
+        "Provider Resources",
+        "Provisioning"
+      ]
+    },
+    {
+      "key": "https://github.com/alexandre-abrioux/golem-node",
+      "name": "Golem Provider Node",
+      "url": "https://github.com/alexandre-abrioux/golem-node",
+      "description": "Docker version of a node to help you get started running as a provider in a Docker container quick.",
+      "section": [
+        "Provider Resources",
+        "Provisioning"
+      ]
+    },
+    {
+      "key": "https://github.com/blue-notes-robot/golem-node",
+      "name": "Golem Provider node",
+      "url": "https://github.com/blue-notes-robot/golem-node",
+      "description": "Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.",
+      "section": [
+        "Provider Resources",
+        "Provisioning"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=2iUhqOJUsoI",
+      "name": "Golem: Distributed parallel computing with JavaScript",
+      "url": "https://www.youtube.com/watch?v=2iUhqOJUsoI",
+      "description": "Presentation from Grzegorz Godlewski on Distributed Parallel Computing with JavaScript, based on Golem Network (meet.js Summit 2023).",
+      "section": [
+        "Learning Resources",
+        "Presentations and Workshop Material"
+      ]
+    },
+    {
+      "key": "https://youtu.be/1UoZWC9XI2g",
+      "name": "Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack",
+      "url": "https://youtu.be/1UoZWC9XI2g",
+      "description": "Live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem.",
+      "section": [
+        "Learning Resources",
+        "Presentations and Workshop Material"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/next-milestone",
+      "name": "Unraveling Golem's The Next Milestone",
+      "url": "https://blog.golemproject.net/next-milestone",
+      "description": "Introduction to the Yagna implementation of Golem.",
+      "section": [
+        "Learning Resources",
+        "Unraveling Golem's The Next Milestone Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/next-milestone-part-ii",
+      "name": "Unraveling Golem's The Next Milestone, Part II",
+      "url": "https://blog.golemproject.net/next-milestone-part-ii/",
+      "description": "Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna.",
+      "section": [
+        "Learning Resources",
+        "Unraveling Golem's The Next Milestone Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/next-milestone-part-iii",
+      "name": "Unraveling Golem's The Next Milestone, Part III",
+      "url": "https://blog.golemproject.net/next-milestone-part-iii/",
+      "description": "The elements of Golem's reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network.",
+      "section": [
+        "Learning Resources",
+        "Unraveling Golem's The Next Milestone Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-1",
+      "name": "Golem GitHub Digest #1",
+      "url": "https://blog.golemproject.net/golem-github-digest-1/",
+      "description": "Understanding the Golem Repositories.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-2",
+      "name": "Golem GitHub Digest #2",
+      "url": "https://blog.golemproject.net/golem-github-digest-2/",
+      "description": "Diving into the Golem Repositories.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-3",
+      "name": "Golem GitHub Digest #3",
+      "url": "https://blog.golemproject.net/golem-github-digest-3/",
+      "description": "Diving into Pull Requests of the Golem repositories.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-4",
+      "name": "Golem GitHub Digest #4",
+      "url": "https://blog.golemproject.net/golem-github-digest-4/",
+      "description": "Diving into latest releases in the Golem repositories.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-5",
+      "name": "Golem GitHub Digest #5",
+      "url": "https://blog.golemproject.net/golem-github-digest-5/",
+      "description": "Diving into the Golem alpha testnet.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-6",
+      "name": "Golem GitHub Digest #6",
+      "url": "https://blog.golemproject.net/golem-github-digest-6/",
+      "description": "SGX proof-of-concept for Golem.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-7",
+      "name": "Golem GitHub Digest #7",
+      "url": "https://blog.golemproject.net/golem-github-digest-7/",
+      "description": "Decentralization of the Golem marketplace.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-8",
+      "name": "Golem GitHub Digest #8",
+      "url": "https://blog.golemproject.net/golem-github-digest-8/",
+      "description": "Awesome Golem and next steps to Alpha 3.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-9",
+      "name": "Golem GitHub Digest #9",
+      "url": "https://blog.golemproject.net/golem-github-digest-9/",
+      "description": "AMD provider support, network metrics and improved proposal handling.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-10",
+      "name": "Golem GitHub Digest #10",
+      "url": "https://blog.golemproject.net/golem-github-digest-10/",
+      "description": "Improvements from community feedback.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-11",
+      "name": "Golem GitHub Digest #11",
+      "url": "https://blog.golemproject.net/golem-github-digest-11/",
+      "description": "Easy log collection.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-12",
+      "name": "Golem GitHub Digest #12",
+      "url": "https://blog.golemproject.net/golem-github-digest-12/",
+      "description": "We are on MAINNET and gathering feedback.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-13",
+      "name": "Golem GitHub Digest #13",
+      "url": "https://blog.golemproject.net/golem-github-digest-13/",
+      "description": "Progressing faster with the help of the Golem community.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-14",
+      "name": "Golem GitHub Digest #14",
+      "url": "https://blog.golemproject.net/golem-github-digest-14/",
+      "description": "Towards the next major release.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-15",
+      "name": "Golem GitHub Digest #15",
+      "url": "https://blog.golemproject.net/golem-github-digest-15/",
+      "description": "Awesome, Goth improvements and towards Beta 3.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://blog.golemproject.net/golem-github-digest-16",
+      "name": "Golem GitHub Digest #16",
+      "url": "https://blog.golemproject.net/golem-github-digest-16/",
+      "description": "VPN, ARM binaries for requestors, and custom usage counters.",
+      "section": [
+        "Learning Resources",
+        "GitHub Digest Blog Series"
+      ]
+    },
+    {
+      "key": "https://chessongolem.app",
+      "name": "Chess On Golem",
+      "url": "https://chessongolem.app/",
+      "description": "Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.",
+      "section": [
+        "Archive",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/DEUTSCHKLUB/go-le-m",
+      "name": "Go le' Machin",
+      "url": "https://github.com/DEUTSCHKLUB/go-le-m",
+      "description": "Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.",
+      "section": [
+        "Archive",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/DerekJarvis/general-golem",
+      "name": "Golem Requestor Node",
+      "url": "https://github.com/DerekJarvis/general-golem",
+      "description": "Dockerized requestor environment. Pass in the py script, it sets up the daemon and runs it.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/golemfactory/goth",
+      "name": "Golem Test Harness (Goth)",
+      "url": "https://github.com/golemfactory/goth",
+      "description": "Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/sladecek/golem-afl",
+      "name": "Golem-afl",
+      "url": "https://github.com/sladecek/golem-afl",
+      "description": "An experimental test-fuzzing framework. Assists in finding security holes.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/sladecek/golem_cargo_test",
+      "name": "Golem Cargo Test",
+      "url": "https://github.com/sladecek/golem_cargo_test",
+      "description": "An adaptive distributed test executor for Rust projects.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/hhio618/golem-ci",
+      "name": "Golem CI",
+      "url": "https://github.com/hhio618/golem-ci",
+      "description": "Decentralized task pipeline.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/deutschklub/golem-slate",
+      "name": "Golem SLATE",
+      "url": "https://github.com/deutschklub/golem-slate",
+      "description": "Open source repository for Golem SLATE described in the above Apps section.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/figurestudios/thorgpress",
+      "name": "ThorgPress",
+      "url": "https://github.com/figurestudios/thorgpress",
+      "description": "A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn",
+      "name": "Yagna httpx client",
+      "url": "https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn",
+      "description": "VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.",
+      "section": [
+        "Archive",
+        "Apps",
+        "VPN"
+      ]
+    },
+    {
+      "key": "https://github.com/jedbrooke/golem-network-requestor",
+      "name": "Golem Provider with network access",
+      "url": "https://github.com/jedbrooke/golem-network-requestor",
+      "description": "A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.",
+      "section": [
+        "Archive",
+        "Apps",
+        "VPN"
+      ]
+    },
+    {
+      "key": "https://github.com/Dodecane/golem-sudoku",
+      "name": "Golem Sudoku",
+      "url": "https://github.com/Dodecane/golem-sudoku",
+      "description": "Game of Sudoku with size variants.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrisHelmsC/hsog-requestor",
+      "name": "HSOG-requester",
+      "url": "https://github.com/ChrisHelmsC/hsog-requestor",
+      "description": "Helps the HearthStone community in the design and building of decks by running a large number of simulated games.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/broadcastmonkey/ChessOnGolem",
+      "name": "ChessOnGolem",
+      "url": "https://github.com/broadcastmonkey/ChessOnGolem",
+      "description": "Open source repository for Chess described in first Apps section. Includes React frontend for the 2 AI's playing against each other through the Golem backend.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator",
+      "name": "Golem Fleet Battle Simulator",
+      "url": "https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator",
+      "description": "System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/krunch3r76/gc__enhanced_completion",
+      "name": "Golem Completion Engine",
+      "url": "https://github.com/krunch3r76/gc__enhanced_completion",
+      "description": "Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.",
+      "section": [
+        "Archive",
+        "Apps",
+        "CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/davidstyers/golocity",
+      "name": "Golocity",
+      "url": "https://github.com/davidstyers/golocity",
+      "description": "Build and deploy your dockerized applications on the Golem Network in just two commands.",
+      "section": [
+        "Archive",
+        "Apps",
+        "CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/figurestudios/gc__push_image",
+      "name": "gc__push_image",
+      "url": "https://github.com/figurestudios/gc__push_image",
+      "description": "A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.",
+      "section": [
+        "Archive",
+        "Apps",
+        "CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Doc-Saintly/golem-video",
+      "name": "Golem Network Video Transcoder",
+      "url": "https://github.com/Doc-Saintly/golem-video",
+      "description": "Sample app to transcode videos. Select your transcoding profile and then upload your videos.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Video Transcoding and Editing"
+      ]
+    },
+    {
+      "key": "https://github.com/Edhendil/golem-transcoding",
+      "name": "Golem Transcoding requestor",
+      "url": "https://github.com/Edhendil/golem-transcoding",
+      "description": "React + Spring based webapp accepting video files as input and transcoding these files into different formats.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Video Transcoding and Editing"
+      ]
+    },
+    {
+      "key": "https://github.com/jedbrooke/golem-auto-editor",
+      "name": "Golem Auto Editor",
+      "url": "https://github.com/jedbrooke/golem-auto-editor",
+      "description": "Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Video Transcoding and Editing"
+      ]
+    },
+    {
+      "key": "https://github.com/pryce-turner/coacervate",
+      "name": "Coacervate",
+      "url": "https://github.com/pryce-turner/coacervate/",
+      "description": "Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/nestorbonilla/flan",
+      "name": "Flan",
+      "url": "https://github.com/nestorbonilla/flan",
+      "description": "Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/hhio618/golem-lorenz-attractor",
+      "name": "Golem Lorenz-attractor",
+      "url": "https://github.com/hhio618/golem-lorenz-attractor",
+      "description": "A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/Edhendil/golem-geomandel",
+      "name": "Golem Geomandel",
+      "url": "https://github.com/Edhendil/golem-geomandel",
+      "description": "Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/iRhonin/golem-covid",
+      "name": "Golem COVID",
+      "url": "https://github.com/iRhonin/golem-covid",
+      "description": "Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/CoeJoder/golem-parallel-matplotlib",
+      "name": "Golem Parallel Matplotlib",
+      "url": "https://github.com/CoeJoder/golem-parallel-matplotlib",
+      "description": "Various statistical analyses are performed on circadian rhythm measurements in human test subjects.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/niklr/golem-fulltext-search",
+      "name": "Full-Text Search Engine",
+      "url": "https://github.com/niklr/golem-fulltext-search",
+      "description": "A search engine service that goes through text files.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/rogervs/cadcadgolem",
+      "name": "cadCAD Golem",
+      "url": "https://github.com/rogervs/cadcadgolem",
+      "description": "Package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Simulation"
+      ]
+    },
+    {
+      "key": "https://github.com/johngrantuk/golem-array",
+      "name": "Golem Array",
+      "url": "https://github.com/johngrantuk/golem-array",
+      "description": "Antenna array design and simulation.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Simulation"
+      ]
+    },
+    {
+      "key": "https://github.com/vporton/limit-visualization",
+      "name": "Limit visualization",
+      "url": "https://github.com/vporton/limit-visualization",
+      "description": "Plots graphs with various limits. Supports discontinous graphs.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Simulation"
+      ]
+    },
+    {
+      "key": "https://github.com/smiley1983/golemGraphWavePair",
+      "name": "GolemGraphWavePair",
+      "url": "https://github.com/smiley1983/golemGraphWavePair",
+      "description": "Generates graph frames, then combine them into an animation.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Simulation"
+      ]
+    },
+    {
+      "key": "https://github.com/rezahsnz/golemized-strong-gravitational-lense",
+      "name": "Golemized strong-gravitational-lense",
+      "url": "https://github.com/rezahsnz/golemized-strong-gravitational-lense",
+      "description": "Simple distributed computing hack that simulates a physical phenomena called gravitional lensing.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Simulation"
+      ]
+    },
+    {
+      "key": "https://github.com/Doc-Saintly/golem-ortools",
+      "name": "Golem or-tools",
+      "url": "https://github.com/Doc-Saintly/golem-ortools",
+      "description": "Uses the or-tools Constraint Programming library to solve problems.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/DEUTSCHKLUB/no-more-COFUD",
+      "name": "No more COFUD",
+      "url": "https://github.com/DEUTSCHKLUB/no-more-COFUD",
+      "description": "Calculates how to fit the most people into a space while keeping 2 meters distance between each other.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/DeveloperInProgress/Mutta-Puffs",
+      "name": "Mutta Puffs",
+      "url": "https://github.com/DeveloperInProgress/Mutta-Puffs",
+      "description": "Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Data Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/anshuman73/DeML-Golem",
+      "name": "DeML-Golem",
+      "url": "https://github.com/anshuman73/DeML-Golem",
+      "description": "Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Machine Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/ControlCplusControlV/Golem-Image-Classifier",
+      "name": "Golem Image Classifier",
+      "url": "https://github.com/ControlCplusControlV/Golem-Image-Classifier",
+      "description": "Train and classify images through an active service.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Machine Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/rezahsnz/mlg",
+      "name": "Mlg",
+      "url": "https://github.com/rezahsnz/mlg",
+      "description": "CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Deep Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/echinocacti/deepart_golem",
+      "name": "Deepart Golem",
+      "url": "https://github.com/echinocacti/deepart_golem",
+      "description": "Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Deep Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/rezahsnz/gandom",
+      "name": "Gandom",
+      "url": "https://github.com/rezahsnz/gandom",
+      "description": "Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.",
+      "section": [
+        "Archive",
+        "Apps",
+        "RNG"
+      ]
+    },
+    {
+      "key": "https://github.com/krunch3r76/entropythief",
+      "name": "Entropythief",
+      "url": "https://github.com/krunch3r76/entropythief",
+      "description": "Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).",
+      "section": [
+        "Archive",
+        "Apps",
+        "RNG"
+      ]
+    },
+    {
+      "key": "https://github.com/hhio618/golem-jtr",
+      "name": "Golem-JTR",
+      "url": "https://github.com/hhio618/golem-jtr",
+      "description": "Run John The Ripper to recover a password.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Password Recovery"
+      ]
+    },
+    {
+      "key": "https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat",
+      "name": "Yacat",
+      "url": "https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat",
+      "description": "Hashcat password-recovery step-by-step.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Password Recovery"
+      ]
+    },
+    {
+      "key": "https://github.com/masaun/GLM-stake-pool",
+      "name": "Golem Staking Pool incentivize system for GLM holders",
+      "url": "https://github.com/masaun/GLM-stake-pool",
+      "description": "A smart contract in order to provide the opportunity of yield farming for GLM token holders.",
+      "section": [
+        "Archive",
+        "Apps",
+        "DeFi"
+      ]
+    },
+    {
+      "key": "https://github.com/bakaoh/magic-doll",
+      "name": "Magic-doll",
+      "url": "https://github.com/bakaoh/magic-doll",
+      "description": "Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. Its core is Kyle, a Golem app that does all the computation to pick the best team to play for each match.",
+      "section": [
+        "Archive",
+        "Apps",
+        "DeFi"
+      ]
+    },
+    {
+      "key": "https://github.com/shri4net/golem-hackathon-2020",
+      "name": "Golem UI",
+      "url": "https://github.com/shri4net/golem-hackathon-2020",
+      "description": "Electron user interface for Yagna.",
+      "section": [
+        "Archive",
+        "Apps",
+        "User Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/krunch3r76/gc__listoffers",
+      "name": "Gc__ListOffers",
+      "url": "https://github.com/krunch3r76/gc__listoffers",
+      "description": "List offers by providers on the Golem Network with a GUI.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/canokaue/gvm-vim",
+      "name": "gvm-vim",
+      "url": "https://github.com/canokaue/gvm-vim",
+      "description": "Golemized docker image for compiling the VIM editor.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/visualNext/golem",
+      "name": "Golem Image Sharpening",
+      "url": "https://github.com/visualNext/golem",
+      "description": "A tool to sharpen images.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/krunch3r76/filterms",
+      "name": "Filterms",
+      "url": "https://github.com/krunch3r76/filterms",
+      "description": "Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).",
+      "section": [
+        "Archive",
+        "Apps",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/figurestudios/golem-bulk-image-handler",
+      "name": "golem-bulk-image-handler",
+      "url": "https://github.com/figurestudios/golem-bulk-image-handler",
+      "description": "Takes an input image and processes it in many different ways using the Pillow library.",
+      "section": [
+        "Archive",
+        "Apps",
+        "Miscellaneous"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "etag": "W/\"598dc764a239969e379f0bac5dba130e2bf1df7f8d33ff0b70bfb572be765aa3\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://dtrace.org/guide/preface.html",
+      "name": "Dynamic Tracing Guide",
+      "url": "http://dtrace.org/guide/preface.html",
+      "description": "Illumos.org DTrace guide.",
+      "section": [
+        "Learn",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://dtracebook.com/index.php/Main_Page",
+      "name": "DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD",
+      "url": "http://www.dtracebook.com/index.php/Main_Page",
+      "description": "Official DTrace book.",
+      "section": [
+        "Learn",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://myaut.github.io/dtrace-stap-book",
+      "name": "Dynamic Tracing with DTrace & SystemTap",
+      "url": "http://myaut.github.io/dtrace-stap-book/",
+      "description": "A book introduces both DTrace and SystemTap.",
+      "section": [
+        "Learn",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://illumos.org/man/1m/dtrace",
+      "name": "dtrace(1m) man page",
+      "url": "https://illumos.org/man/1m/dtrace",
+      "description": "DTrace manual page.",
+      "section": [
+        "Learn",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/DTrace/DTrace-cheatsheet.pdf",
+      "name": "DTrace cheatsheet",
+      "url": "http://www.brendangregg.com/DTrace/DTrace-cheatsheet.pdf",
+      "description": "DTrace cheatsheet by Brendan Gregg.",
+      "section": [
+        "Learn",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/DTrace/dtrace_oneliners.txt",
+      "name": "DTrace one-liners",
+      "url": "http://www.brendangregg.com/DTrace/dtrace_oneliners.txt",
+      "description": "DTrace one liners. Handy commands.",
+      "section": [
+        "Learn",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://wiki.freebsd.org/DTrace/One-Liners",
+      "name": "DTrace one-liners (FreeBSD)",
+      "url": "https://wiki.freebsd.org/DTrace/One-Liners",
+      "description": "DTrace one liners from FreeBSD.",
+      "section": [
+        "Learn",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://tablespace.net/quicksheet/dtrace-quickstart.html",
+      "name": "DTrace QuickStart",
+      "url": "http://www.tablespace.net/quicksheet/dtrace-quickstart.html",
+      "description": "DTrace quick starting guide.",
+      "section": [
+        "Learn",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/NanXiao/using-dtrace-stories",
+      "name": "Using DTrace stories",
+      "url": "https://github.com/NanXiao/using-dtrace-stories",
+      "description": "A collection of using DTrace to debug system stories.",
+      "section": [
+        "Learn",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/resources/bmc/dtrace_tips.pdf",
+      "name": "Advanced DTrace Tips, Tricks and Gotchas",
+      "url": "http://dtrace.org/resources/bmc/dtrace_tips.pdf",
+      "description": "A collection of advanced tips for using DTrace.",
+      "section": [
+        "Learn",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/brendan/2011/02/09/dtrace-pid-provider",
+      "name": "pid provider: entry probe",
+      "url": "http://dtrace.org/blogs/brendan/2011/02/09/dtrace-pid-provider/",
+      "description": "DTrace PID Provider.",
+      "section": [
+        "Articles",
+        "PID Provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/brendan/2011/02/11/dtrace-pid-provider-arguments",
+      "name": "pid provider: entry arguments",
+      "url": "http://dtrace.org/blogs/brendan/2011/02/11/dtrace-pid-provider-arguments/",
+      "description": "DTrace PID Provider Arguments.",
+      "section": [
+        "Articles",
+        "PID Provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/brendan/2011/02/14/dtrace-pid-provider-return",
+      "name": "pid provider: return",
+      "url": "http://dtrace.org/blogs/brendan/2011/02/14/dtrace-pid-provider-return/",
+      "description": "DTrace PID Provider return.",
+      "section": [
+        "Articles",
+        "PID Provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/brendan/2011/02/16/dtrace-pid-provider-instructions",
+      "name": "pid provider: instructions",
+      "url": "http://dtrace.org/blogs/brendan/2011/02/16/dtrace-pid-provider-instructions/",
+      "description": "DTrace PID Provider Instructions.",
+      "section": [
+        "Articles",
+        "PID Provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/brendan/2011/02/18/dtrace-pid-provider-overhead",
+      "name": "pid provider: overhead",
+      "url": "http://dtrace.org/blogs/brendan/2011/02/18/dtrace-pid-provider-overhead/",
+      "description": "DTrace PID Provider Overhead.",
+      "section": [
+        "Articles",
+        "PID Provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/ahl/2005/03/01/pid-provider-exposed",
+      "name": "pid provider exposed",
+      "url": "http://dtrace.org/blogs/ahl/2005/03/01/pid-provider-exposed/",
+      "description": "PID providers internals by Adam Leventhal.",
+      "section": [
+        "Articles",
+        "PID Provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/bmc/2011/03/09/when-magic-collides",
+      "name": "When magic collides",
+      "url": "http://dtrace.org/blogs/bmc/2011/03/09/when-magic-collides/",
+      "description": "PID provider bug deep dive by Bryan Cantrill.",
+      "section": [
+        "Articles",
+        "PID Provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/dap/2013/11/20/understanding-dtrace-ustack-helpers",
+      "name": "Understanding DTrace ustack helpers",
+      "url": "http://dtrace.org/blogs/dap/2013/11/20/understanding-dtrace-ustack-helpers/",
+      "description": "DTrace ustack helpers.",
+      "section": [
+        "Articles",
+        "USDT provider"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/dap/2011/12/13/usdt-providers-redux",
+      "name": "USDT Providers Redux",
+      "url": "http://dtrace.org/blogs/dap/2011/12/13/usdt-providers-redux/",
+      "description": "Reference for building USDT providers in custom applications.",
+      "section": [
+        "Articles",
+        "USDT provider"
+      ]
+    },
+    {
+      "key": "https://blogs.oracle.com/eschrock/entry/dtrace_sysevent_provider",
+      "name": "DTrace sysevent provider",
+      "url": "https://blogs.oracle.com/eschrock/entry/dtrace_sysevent_provider",
+      "description": "Solaris/illumos sysevent provider for DTrace.",
+      "section": [
+        "Articles",
+        "Sysevent provider"
+      ]
+    },
+    {
+      "key": "https://vaneyckt.io/posts/using_dtrace_to_measure_mutex_contention_in_ruby",
+      "name": "Using DTrace to measure mutex contention in Ruby",
+      "url": "https://vaneyckt.io/posts/using_dtrace_to_measure_mutex_contention_in_ruby/",
+      "description": "Mutex contention measuring in Ruby.",
+      "section": [
+        "Articles",
+        "Ruby and DTrace"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/flamegraphs.html",
+      "name": "Flamegraphs",
+      "url": "http://www.brendangregg.com/flamegraphs.html",
+      "description": "A visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.",
+      "section": [
+        "Articles",
+        "Visualization methods"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/heatmaps.html",
+      "name": "Heat Maps",
+      "url": "http://brendangregg.com/heatmaps.html",
+      "description": "Heat maps allow three dimensions of data to be visualized, similar to weather radar maps where color is used as a dimension.",
+      "section": [
+        "Articles",
+        "Visualization methods"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=TgmA48fILq8",
+      "name": "DTrace review",
+      "url": "https://www.youtube.com/watch?v=TgmA48fILq8",
+      "description": "Bryan Cantrill explains how to significantly improve debugging both for development and live systems with DTrace.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=4&list=PL8516982CBF9FADCC&v=sgBCz7bXkSo",
+      "name": "NFSv3 and iSCSI providers",
+      "url": "https://www.youtube.com/watch?v=sgBCz7bXkSo&index=4&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=5&list=PL8516982CBF9FADCC&v=1Bc2Dz8aS6s",
+      "name": "DTrace for hardware",
+      "url": "https://www.youtube.com/watch?v=1Bc2Dz8aS6s&list=PL8516982CBF9FADCC&index=5",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=8&list=PL8516982CBF9FADCC&v=D8_onK0pSvA",
+      "name": "Zones & DTrace",
+      "url": "https://www.youtube.com/watch?v=D8_onK0pSvA&index=8&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=10&list=PL8516982CBF9FADCC&v=e55iXXYj-74",
+      "name": "DTracing a Solaris build",
+      "url": "https://www.youtube.com/watch?v=e55iXXYj-74&index=10&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=11&list=PL8516982CBF9FADCC&v=yR39YqVXQOM",
+      "name": "War Stories",
+      "url": "https://www.youtube.com/watch?v=yR39YqVXQOM&index=11&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=12&list=PL8516982CBF9FADCC&v=uK0DjEXo99w",
+      "name": "Sun Benchmarks",
+      "url": "https://www.youtube.com/watch?v=uK0DjEXo99w&list=PL8516982CBF9FADCC&index=12",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=13&list=PL8516982CBF9FADCC&v=PXIGE5GFAkE",
+      "name": "Erlang",
+      "url": "https://www.youtube.com/watch?v=PXIGE5GFAkE&index=13&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=14&list=PL8516982CBF9FADCC&v=YTNiCv9Za2Y",
+      "name": "Erlang (continued)",
+      "url": "https://www.youtube.com/watch?v=YTNiCv9Za2Y&index=14&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=15&list=PL8516982CBF9FADCC&v=4astU1_X5xM",
+      "name": "Instrumenting Adobe AIR",
+      "url": "https://www.youtube.com/watch?v=4astU1_X5xM&index=15&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=16&list=PL8516982CBF9FADCC&v=8kdJDHqiByI",
+      "name": "HotSpot Runtime & Java",
+      "url": "https://www.youtube.com/watch?v=8kdJDHqiByI&list=PL8516982CBF9FADCC&index=16",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=17&list=PL8516982CBF9FADCC&v=p5NKcxDny_4",
+      "name": "PostgreSQL: Looking Under the Hood with Solaris",
+      "url": "https://www.youtube.com/watch?v=p5NKcxDny_4&list=PL8516982CBF9FADCC&index=17",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=18&list=PL8516982CBF9FADCC&v=SJykRURWgeU",
+      "name": "PostgreSQL Provider",
+      "url": "https://www.youtube.com/watch?v=SJykRURWgeU&list=PL8516982CBF9FADCC&index=18",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=19&list=PL8516982CBF9FADCC&v=oYK1kgFwxk4",
+      "name": "Distributed DTrace",
+      "url": "https://www.youtube.com/watch?v=oYK1kgFwxk4&index=19&list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=21&list=PL8516982CBF9FADCC&v=OKSuox4eFrk",
+      "name": "Apple Port of DTrace",
+      "url": "https://www.youtube.com/watch?v=OKSuox4eFrk&list=PL8516982CBF9FADCC&index=21",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtu.be/RvyP61WeFdM?list=PL8516982CBF9FADCC",
+      "name": "dtrace.conf 2008",
+      "url": "https://youtu.be/RvyP61WeFdM?list=PL8516982CBF9FADCC",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL973D48F273EB0360&v=l_7v7Fn7uMQ",
+      "name": "DTrace State of the Union",
+      "url": "https://www.youtube.com/watch?v=l_7v7Fn7uMQ&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=3&list=PL973D48F273EB0360&v=0QF04ivO_WE",
+      "name": "User-Level CTF",
+      "url": "https://www.youtube.com/watch?v=0QF04ivO_WE&list=PL973D48F273EB0360&index=3",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=4&list=PL973D48F273EB0360&v=CqLcj0lVnp4",
+      "name": "Dynamic Translators",
+      "url": "https://www.youtube.com/watch?v=CqLcj0lVnp4&index=4&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=7&list=PL973D48F273EB0360&v=6NqV_Uj8Ba4",
+      "name": "Clang Parser for DTrace",
+      "url": "https://www.youtube.com/watch?v=6NqV_Uj8Ba4&index=7&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=8&list=PL973D48F273EB0360&v=XD5hdaWnQM4",
+      "name": "Visualizations",
+      "url": "https://www.youtube.com/watch?v=XD5hdaWnQM4&index=8&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=9&list=PL973D48F273EB0360&v=3Sqa8mmtnMM",
+      "name": "Visualizations, Enabling Toolchain for Seamless USDT",
+      "url": "https://www.youtube.com/watch?v=3Sqa8mmtnMM&index=9&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=10&list=PL973D48F273EB0360&v=-B6u6wY3Iro",
+      "name": "More Visualizations",
+      "url": "https://www.youtube.com/watch?v=-B6u6wY3Iro&index=10&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=11&list=PL973D48F273EB0360&v=0ZMvSh7lUdM",
+      "name": "DTrace in Node.js",
+      "url": "https://www.youtube.com/watch?v=0ZMvSh7lUdM&list=PL973D48F273EB0360&index=11",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=12&list=PL973D48F273EB0360&v=4Si-7nAic2c",
+      "name": "DTrace and Erlang",
+      "url": "https://www.youtube.com/watch?v=4Si-7nAic2c&list=PL973D48F273EB0360&index=12",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=13&list=PL973D48F273EB0360&v=NElog3MvUC8",
+      "name": "DTrace on Linux",
+      "url": "https://www.youtube.com/watch?v=NElog3MvUC8&list=PL973D48F273EB0360&index=13",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=14&list=PL973D48F273EB0360&v=m_V7yrrn49Y",
+      "name": "ZFS Provider",
+      "url": "https://www.youtube.com/watch?v=m_V7yrrn49Y&index=14&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=15&list=PL973D48F273EB0360&v=s5PpSiPfSNI",
+      "name": "DTrace on FreeBSD",
+      "url": "https://www.youtube.com/watch?v=s5PpSiPfSNI&index=15&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?index=16&list=PL973D48F273EB0360&v=P95LHZ-WOWw",
+      "name": "Barriers to DTrace Adoption",
+      "url": "https://www.youtube.com/watch?v=P95LHZ-WOWw&index=16&list=PL973D48F273EB0360",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346406",
+      "name": "Introduction",
+      "url": "https://player.vimeo.com/video/173346406",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346405",
+      "name": "(Useful!) DTrace intro",
+      "url": "https://player.vimeo.com/video/173346405",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346404",
+      "name": "CTF Everywhere!",
+      "url": "https://player.vimeo.com/video/173346404",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346403",
+      "name": "Distributed DTrace",
+      "url": "https://player.vimeo.com/video/173346403",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346402",
+      "name": "DTracign Apps",
+      "url": "https://player.vimeo.com/video/173346402",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346401",
+      "name": "DTrace and JSON: Together at last!",
+      "url": "https://player.vimeo.com/video/173346401",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346400",
+      "name": "ASSERT() as a DTrace probe (and why I need some help)",
+      "url": "https://player.vimeo.com/video/173346400",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346399",
+      "name": "Implementing (or not) fds[] in FreeBSD",
+      "url": "https://player.vimeo.com/video/173346399",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173346398",
+      "name": "OpenDTrace",
+      "url": "https://player.vimeo.com/video/173346398",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300658",
+      "name": "DTrace Performance Improvements with Always-on Instrumentation",
+      "url": "https://player.vimeo.com/video/173300658",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300657",
+      "name": "D language improvements",
+      "url": "https://player.vimeo.com/video/173300657",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300656",
+      "name": "D Syntactic Sugar",
+      "url": "https://player.vimeo.com/video/173300656",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300655",
+      "name": "DTrace and Go",
+      "url": "https://player.vimeo.com/video/173300655",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300654",
+      "name": "DTrace and Postgres",
+      "url": "https://player.vimeo.com/video/173300654",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300653",
+      "name": "DTrace in the Zone",
+      "url": "https://player.vimeo.com/video/173300653",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300651",
+      "name": "DTrace ustack() performance improvements",
+      "url": "https://player.vimeo.com/video/173300651",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://player.vimeo.com/video/173300650",
+      "name": "DTrace Exploitation",
+      "url": "https://player.vimeo.com/video/173300650",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://joyent.com/about/events/2016/dtrace-conf",
+      "name": "dtrace.conf 2016",
+      "url": "https://www.joyent.com/about/events/2016/dtrace-conf",
+      "description": "",
+      "section": [
+        "Videos",
+        "dtrace.conf"
+      ]
+    },
+    {
+      "key": "https://erlang.org/doc/apps/runtime_tools/DTRACE.html",
+      "name": "Erlang",
+      "url": "http://erlang.org/doc/apps/runtime_tools/DTRACE.html",
+      "description": "DTrace and Erlang/OTP.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Erlang"
+      ]
+    },
+    {
+      "key": "https://github.com/chrisa/lua-usdt",
+      "name": "lua-usdt",
+      "url": "https://github.com/chrisa/lua-usdt",
+      "description": "Libusdt bindings for Lua.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Lua"
+      ]
+    },
+    {
+      "key": "https://github.com/chrisa/node-dtrace-provider",
+      "name": "node-dtrace-provider",
+      "url": "https://github.com/chrisa/node-dtrace-provider",
+      "description": "Native DTrace probes for Node.js apps.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Node.js"
+      ]
+    },
+    {
+      "key": "https://github.com/chrisa/perl-Devel-DTrace-Provider",
+      "name": "perl-Devel-DTrace-Provider",
+      "url": "https://github.com/chrisa/perl-Devel-DTrace-Provider",
+      "description": "Perl wrapper for libusdt.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Perl"
+      ]
+    },
+    {
+      "key": "https://secure.php.net/manual/en/features.dtrace.dtrace.php",
+      "name": "PHP",
+      "url": "https://secure.php.net/manual/en/features.dtrace.dtrace.php",
+      "description": "Using PHP and DTrace.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://jcea.es/artic/python_dtrace.htm",
+      "name": "Python",
+      "url": "https://www.jcea.es/artic/python_dtrace.htm",
+      "description": "DTrace patch for Python 2.7.x and 3.x.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/nshalman/python-usdt",
+      "name": "python-usdt",
+      "url": "https://github.com/nshalman/python-usdt",
+      "description": "Libusdt bindings for Python.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html",
+      "name": "Ruby",
+      "url": "http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html",
+      "description": "Ruby DTrace probes.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Ruby"
+      ]
+    },
+    {
+      "key": "https://github.com/kevinykchan/ruby-usdt",
+      "name": "ruby-usdt",
+      "url": "https://github.com/kevinykchan/ruby-usdt",
+      "description": "Native DTrace probes for ruby apps.",
+      "section": [
+        "Software",
+        "Programming languages",
+        "Ruby"
+      ]
+    },
+    {
+      "key": "https://dev.mysql.com/doc/refman/5.7/en/dba-dtrace-mysqld-ref.html",
+      "name": "MySQL",
+      "url": "https://dev.mysql.com/doc/refman/5.7/en/dba-dtrace-mysqld-ref.html",
+      "description": "MySQL DTrace probes.",
+      "section": [
+        "Software",
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://postgresql.org/docs/current/static/dynamic-trace.html",
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org/docs/current/static/dynamic-trace.html",
+      "description": "PostgreSQL DTrace probes.",
+      "section": [
+        "Software",
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/davepacheco/mod_usdt",
+      "name": "mod_usdt",
+      "url": "https://github.com/davepacheco/mod_usdt",
+      "description": "\"httpd\" DTrace provider.",
+      "section": [
+        "Software",
+        "Webservers"
+      ]
+    },
+    {
+      "key": "https://github.com/brendangregg/FlameGraph",
+      "name": "FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer.",
+      "section": [
+        "Software",
+        "Visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/joyent/node-stackvis",
+      "name": "node-stackvis",
+      "url": "https://github.com/joyent/node-stackvis",
+      "description": "Stack trace visualizer.",
+      "section": [
+        "Software",
+        "Visualization"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/dtracetoolkit.html",
+      "name": "DTraceToolkit",
+      "url": "http://www.brendangregg.com/dtracetoolkit.html",
+      "description": "A collection of useful documented DTrace scripts.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/brendangregg/dtrace-cloud-tools",
+      "name": "dtrace-cloud-tools",
+      "url": "https://github.com/brendangregg/dtrace-cloud-tools",
+      "description": "DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/joyent/pgsqlstat",
+      "name": "pgsql tools",
+      "url": "https://github.com/joyent/pgsqlstat",
+      "description": "Report top-level PostgreSQL stats.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/davepacheco/portsnoop",
+      "name": "portsnoop",
+      "url": "https://github.com/davepacheco/portsnoop",
+      "description": "Trace event port activity.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/richardelling/tools",
+      "name": "storage tools",
+      "url": "https://github.com/richardelling/tools",
+      "description": "Report NFS, CIFS and iSCSI stats.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://dtrace.org",
+      "name": "Community site",
+      "url": "http://dtrace.org",
+      "description": "DTrace community site.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://dtrace.org/blogs/mailing-list",
+      "name": "Mailing list",
+      "url": "http://dtrace.org/blogs/mailing-list/",
+      "description": "DTrace community mailing list.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://lists.freebsd.org/mailman/listinfo/freebsd-dtrace",
+      "name": "FreeBSD DTrace mailing list",
+      "url": "https://lists.freebsd.org/mailman/listinfo/freebsd-dtrace",
+      "description": "FreeBSD DTrace community mailing list.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://chinadtrace.org",
+      "name": "China DTrace",
+      "url": "http://chinadtrace.org/",
+      "description": "A Chinese DTrace site.",
+      "section": [
+        "Community"
+      ]
+    }
+  ]
+}

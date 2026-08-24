@@ -1,0 +1,1549 @@
+{
+  "etag": "W/\"bcf7a1745aacc3b304ec65d016fe4fdd464543008d76bee2c4dd68b1bb941ab7\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://tug.org/mactex",
+      "name": "MacTeX",
+      "url": "https://tug.org/mactex/",
+      "description": "Most common LaTeX distribution for macOS, basically TeXLive with some Mac-specific tools added.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://tug.org/texlive",
+      "name": "TeX Live",
+      "url": "https://www.tug.org/texlive/",
+      "description": "Most common LaTeX distribution for Unix-like operating systems, including GNU/Linux. Also works on Windows.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://miktex.org",
+      "name": "MikTeX",
+      "url": "https://miktex.org",
+      "description": "Most common LaTeX distribution for Windows, but also available for Mac, Linux or as Docker image.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://github.com/reitzig/texlive-docker",
+      "name": "reitzig/texlive-docker",
+      "url": "https://github.com/reitzig/texlive-docker",
+      "description": "minimal TeXLive system with package installation possibility",
+      "section": [
+        "Docker Images"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/islandoftex/images/texlive",
+      "name": "Island of TeX/texlive",
+      "url": "https://gitlab.com/islandoftex/images/texlive",
+      "description": "debian-based full TeXLive system",
+      "section": [
+        "Docker Images"
+      ]
+    },
+    {
+      "key": "https://github.com/dante-ev/docker-texlive",
+      "name": "dante-ev/docker-texlive",
+      "url": "https://github.com/dante-ev/docker-texlive",
+      "description": "debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed",
+      "section": [
+        "Docker Images"
+      ]
+    },
+    {
+      "key": "https://tug.org/applications/pdftex",
+      "name": "pdfTeX",
+      "url": "https://www.tug.org/applications/pdftex/",
+      "description": "TeX compiler that produces PDF files immediately instead of DVI files (nowadays, this is the standard compiler for many users).",
+      "section": [
+        "Engines"
+      ]
+    },
+    {
+      "key": "https://xetex.sourceforge.net",
+      "name": "XeTeX",
+      "url": "http://xetex.sourceforge.net",
+      "description": "TeX compiler that provides better unicode and font support than TeX/pdfTeX (i.e. you can use the fonts of your operating system instead of only TeX fonts).",
+      "section": [
+        "Engines"
+      ]
+    },
+    {
+      "key": "https://luatex.org",
+      "name": "LuaTeX",
+      "url": "https://www.luatex.org",
+      "description": "(La)TeX compiler that supports Lua code for scripting and has improved unicode and font support than standard TeX/pdfTeX.",
+      "section": [
+        "Engines"
+      ]
+    },
+    {
+      "key": "https://tectonic-typesetting.github.io/en-US",
+      "name": "tectonic",
+      "url": "https://tectonic-typesetting.GitHub.io/en-US/",
+      "description": "Modern, self contained (La)TeX compiler powered by XeTeX and TeXLive.",
+      "section": [
+        "Engines"
+      ]
+    },
+    {
+      "key": "https://sites.google.com/site/autolatexequations",
+      "name": "Auto-LaTeX Equations with Google Docs",
+      "url": "https://sites.google.com/site/autolatexequations",
+      "description": "Render high-quality math equations directly in Google Docs.",
+      "section": [
+        "Engines",
+        "LaTeX formulas on the web"
+      ]
+    },
+    {
+      "key": "https://mathjax.org",
+      "name": "MathJaX",
+      "url": "https://www.mathjax.org",
+      "description": "JavaScript engine to render mathematical formulas on the web. The outcome looks really slick.",
+      "section": [
+        "Engines",
+        "LaTeX formulas on the web"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/mimetex",
+      "name": "mimeTeX",
+      "url": "https://ctan.org/pkg/mimetex",
+      "description": "mimeTeX is a rather old tool to render LaTeX formulas to PNG figures for your web site, without actually needing a LaTeX installation on your server.",
+      "section": [
+        "Engines",
+        "LaTeX formulas on the web"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/mathtex",
+      "name": "mathTeX",
+      "url": "https://ctan.org/pkg/mathtex",
+      "description": "mathTeX is the successor of mimeTeX: it produces nicer-looking images but it requires LaTeX to be installed on your server.",
+      "section": [
+        "Engines",
+        "LaTeX formulas on the web"
+      ]
+    },
+    {
+      "key": "https://khan.github.io/KaTeX",
+      "name": "KaTeX",
+      "url": "https://khan.GitHub.io/KaTeX/",
+      "description": "KaTeX is a math rendering library made by Khan Academy focusing on fast load times. All output is processed as plain HTML instead of fixed images.",
+      "section": [
+        "Engines",
+        "LaTeX formulas on the web"
+      ]
+    },
+    {
+      "key": "https://franklinjl.org",
+      "name": "Franklin.jl",
+      "url": "https://franklinjl.org/",
+      "description": "Static site generator with KaTeX support, code evaluation, LaTeX-like commands and optional pre-rendering, in Julia.",
+      "section": [
+        "Engines",
+        "LaTeX formulas on the web"
+      ]
+    },
+    {
+      "key": "https://github.com/nschloe/xhub",
+      "name": "xhub",
+      "url": "https://github.com/nschloe/xhub",
+      "description": "Browser extension that lets you use LaTeX in GitHub pages.",
+      "section": [
+        "Engines",
+        "LaTeX formulas on the web"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com/questions/339/latex-editors-ides",
+      "name": "List of popular LaTeX editors",
+      "url": "https://tex.stackexchange.com/questions/339/latex-editors-ides",
+      "description": "Community-maintained list of popular LaTeX editors including a screenshot and a short description.",
+      "section": [
+        "Editors"
+      ]
+    },
+    {
+      "key": "https://kile.sourceforge.io",
+      "name": "Kile",
+      "url": "https://kile.sourceforge.io",
+      "description": "Great LaTeX editor originally from the Linux/KDE community. It runs fine on Windows and macOS as well.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://xm1math.net/texmaker",
+      "name": "TeXMaker",
+      "url": "https://www.xm1math.net/texmaker/",
+      "description": "Pretty good alternative to Kile.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://texstudio.org",
+      "name": "TeXStudio",
+      "url": "https://www.texstudio.org",
+      "description": "Cross-platform LaTeX editor that stems from TeXMaker.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://winedt.com",
+      "name": "WinEdt",
+      "url": "https://www.winedt.com",
+      "description": "The LaTeX editor many people swear by. Only for .",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://texniccenter.org",
+      "name": "TeXnicCenter",
+      "url": "https://www.texniccenter.org",
+      "description": "Quite old but free and decent editor for LaTeX.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://lyx.org",
+      "name": "LyX",
+      "url": "https://www.lyx.org",
+      "description": "Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://pages.uoregon.edu/koch/texshop",
+      "name": "TeXShop",
+      "url": "https://pages.uoregon.edu/koch/texshop/",
+      "description": "No-nonsense editor for LaTeX documents which is included in MacTeX.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://tug.org/texworks",
+      "name": "TeXWorks",
+      "url": "https://www.tug.org/texworks/",
+      "description": "No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://bakoma-tex.com",
+      "name": "BakomaTex",
+      "url": "https://www.bakoma-tex.com",
+      "description": "Commercial LaTeX editor that allows to edit your document both using its source code and WYSIWYG.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://texifier.com",
+      "name": "Texifier",
+      "url": "https://www.texifier.com/",
+      "description": "Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://tex64.com",
+      "name": "TeX64",
+      "url": "https://tex64.com",
+      "description": "Native macOS LaTeX editor with AI-powered error fixing, equation OCR, live PDF preview, and structured math editing.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://github.com/Oleafly/Oleafly",
+      "name": "Oleafly",
+      "url": "https://github.com/Oleafly/Oleafly",
+      "description": "Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects.",
+      "section": [
+        "Editors",
+        "LaTeX-focused"
+      ]
+    },
+    {
+      "key": "https://atom.io/packages/latextools",
+      "name": "LaTeXTools",
+      "url": "https://atom.io/packages/latextools",
+      "description": "Atom port of the Sublime Text package of the same name.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://atom.io",
+      "name": "Atom",
+      "url": "https://atom.io",
+      "description": "",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/LaTeXing/LaTeXing",
+      "name": "LaTeXing",
+      "url": "https://github.com/LaTeXing/LaTeXing",
+      "description": "Free plug-in to edit LaTeX.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/SublimeText/LaTeXTools",
+      "name": "LaTeXTools",
+      "url": "https://github.com/SublimeText/LaTeXTools",
+      "description": "Free LaTeX plugin for Sublime Text.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://sublimetext.com",
+      "name": "Sublime Text",
+      "url": "https://www.sublimetext.com",
+      "description": "",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://gnu.org/software/auctex",
+      "name": "AucTeX",
+      "url": "https://www.gnu.org/software/auctex/",
+      "description": "Emacs plugin for LaTeX that also shows a preview of equations and figures.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://gnu.org/software/auctex/reftex",
+      "name": "RefTeX",
+      "url": "https://www.gnu.org/software/auctex/reftex",
+      "description": "Emacs plugin for LaTeX that adds support for labels, references, and citations.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://gnu.org/software/emacs",
+      "name": "Emacs",
+      "url": "https://www.gnu.org/software/emacs/",
+      "description": "",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://vim-latex.sourceforge.net",
+      "name": "Vim-LaTeX",
+      "url": "http://vim-latex.sourceforge.net",
+      "description": "",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/xuhdev/vim-latex-live-preview",
+      "name": "LaTeX Live Preview",
+      "url": "https://github.com/xuhdev/vim-latex-live-preview",
+      "description": "Instantly previews your LaTeX document.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/lervag/vimtex",
+      "name": "vimtex",
+      "url": "https://github.com/lervag/vimtex",
+      "description": "Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://vim.org",
+      "name": "Vim",
+      "url": "https://www.vim.org",
+      "description": "",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/Hannah-Sten/TeXiFy-IDEA",
+      "name": "TeXiFy-IDEA",
+      "url": "https://github.com/Hannah-Sten/TeXiFy-IDEA",
+      "description": "Free LaTeX plugin for IntelliJ IDEA.",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://jetbrains.com/idea",
+      "name": "IntelliJ",
+      "url": "https://www.jetbrains.com/idea/",
+      "description": "",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/James-Yu/LaTeX-Workshop",
+      "name": "LaTeX Workshop",
+      "url": "https://github.com/James-Yu/LaTeX-Workshop",
+      "description": "LaTeX extension for Visual Studio Code",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/a-nau/latex-devcontainer",
+      "name": "a-nau/latex-devcontainer",
+      "url": "https://github.com/a-nau/latex-devcontainer",
+      "description": "Devcontainer setup for easy LaTeX usage without local installation",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://code.visualstudio.com",
+      "name": "VS Code",
+      "url": "https://code.visualstudio.com/",
+      "description": "",
+      "section": [
+        "Editors",
+        "General purpose text editors"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com/questions/3/compiling-documents-online/1654",
+      "name": "List of popular online LaTeX editors",
+      "url": "https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654",
+      "description": "Community-maintained list of popular online LaTeX editor including equation editors.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://authorea.com",
+      "name": "Authorea",
+      "url": "https://www.authorea.com",
+      "description": "Online editor with built-in git support and bibliography tools.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://prism.openai.com",
+      "name": "OpenAI Prism",
+      "url": "https://prism.openai.com",
+      "description": "Online editor with realtime collaboration features.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://github.com/InMDev/Modern-LaTeX-Editor",
+      "name": "Modern LaTeX Editor",
+      "url": "https://github.com/InMDev/Modern-LaTeX-Editor",
+      "description": "Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://useoctree.com",
+      "name": "Octree",
+      "url": "https://www.useoctree.com",
+      "description": "Online editor with AI writing assistance.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://androma.org",
+      "name": "Androma TeX Editor",
+      "url": "https://androma.org",
+      "description": "Collaborative LaTeX editor integrated into a mathematics wiki, with issue tracking, pull requests, and WASM-based compilation.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://github.com/aloth/olcli",
+      "name": "olcli",
+      "url": "https://github.com/aloth/olcli",
+      "description": "Command-line interface for Overleaf to sync, manage, and compile projects from the terminal.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://overleaf.com",
+      "name": "Overleaf",
+      "url": "https://www.overleaf.com",
+      "description": "Online editor, also with a WYSIWYM editor and git support. Also available as Overleaf Community Edition (self-hosted, AGPL licensed).",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://github.com/ywatanabe1989/scitex-cloud",
+      "name": "SciTeX Cloud",
+      "url": "https://github.com/ywatanabe1989/scitex-cloud",
+      "description": "Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools).",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://github.com/sanjib-sen/weblatex",
+      "name": "WebLaTeX",
+      "url": "https://github.com/sanjib-sen/weblatex",
+      "description": "Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://papeeria.com",
+      "name": "Papeeria",
+      "url": "https://papeeria.com",
+      "description": "Online editor with built-in git support.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://zohooo.github.io/jaxedit",
+      "name": "JaxEdit",
+      "url": "https://zohooo.GitHub.io/jaxedit/",
+      "description": "Online LaTeX editor with Live Preview and nice presentation mode.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://vexlio.com",
+      "name": "Vexlio",
+      "url": "https://vexlio.com/",
+      "description": "Online diagram editor with built-in LaTeX equation support including live preview and easy exports.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://tex.swimmingbrain.dev",
+      "name": "TeXbrain",
+      "url": "https://tex.swimmingbrain.dev",
+      "description": "Free, open-source browser-based LaTeX editor with in-browser compilation, live PDF preview and Git integration. No account or install required.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://letx.app",
+      "name": "LetX",
+      "url": "https://letx.app",
+      "description": "Online editor with real-time multi-author collaboration (CRDT), bidirectional SyncTeX, and 1000+ journal/thesis templates.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://sarmate.net",
+      "name": "Sarmate.net",
+      "url": "https://www.sarmate.net",
+      "description": "Online editor with 5 built-in WYSIWYG helpers (TikZ figures, probability trees, sign tables, color boxes, LaTeX tables) that auto-generate clean LaTeX code. Cloud compilation, real-time collaboration, free tier.",
+      "section": [
+        "Editors",
+        "Online editors"
+      ]
+    },
+    {
+      "key": "https://github.com/latex-lsp/texlab",
+      "name": "TexLab",
+      "url": "https://github.com/latex-lsp/texlab",
+      "description": "Language server for LaTeX and BibTeX with completion, definitions, references, rename, formatting, and forward search.",
+      "section": [
+        "Language Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/jolars/badness",
+      "name": "Badness",
+      "url": "https://github.com/jolars/badness",
+      "description": "Language server, formatter, and linter for LaTeX built on a lossless, error-tolerant syntax tree in the style of rust-analyzer.",
+      "section": [
+        "Language Servers"
+      ]
+    },
+    {
+      "key": "https://jabref.org",
+      "name": "JabRef",
+      "url": "https://www.jabref.org",
+      "description": "Very powerful cross-platform (Java) bibtex editor.",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://github.com/papis/papis",
+      "name": "Papis",
+      "url": "https://github.com/papis/papis",
+      "description": "Extremely customizable, powerful and simple cross-platform (Python) library manager. It has a very complete Command-Line-Interface, several GUIs and scripting capability.",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://bibdesk.sourceforge.net",
+      "name": "Bibdesk",
+      "url": "http://bibdesk.sourceforge.net",
+      "description": "Great bibliography editor for .",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://zotero.org",
+      "name": "Zotero",
+      "url": "https://www.zotero.org",
+      "description": "Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors.",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://mendeley.com",
+      "name": "Mendeley",
+      "url": "https://www.mendeley.com",
+      "description": "Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow.",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nschloe/betterbib",
+      "name": "betterbib",
+      "url": "https://github.com/nschloe/betterbib",
+      "description": "Command-line utility for improving your BibTeX files. Fetches information from online sources.",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://github.com/HzaCode/OneCite",
+      "name": "OneCite",
+      "url": "https://github.com/HzaCode/OneCite",
+      "description": "Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats.",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ywatanabe1989/crossref-local",
+      "name": "CrossRef Local",
+      "url": "https://github.com/ywatanabe1989/crossref-local",
+      "description": "Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools).",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ywatanabe1989/openalex-local",
+      "name": "OpenAlex Local",
+      "url": "https://github.com/ywatanabe1989/openalex-local",
+      "description": "Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server.",
+      "section": [
+        "Bibliography tools"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/arara",
+      "name": "Arara",
+      "url": "https://www.ctan.org/pkg/arara",
+      "description": "(GitHub repo) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily.",
+      "section": [
+        "Build Tools"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/latexmk",
+      "name": "latexmk",
+      "url": "https://www.ctan.org/pkg/latexmk",
+      "description": "Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files.",
+      "section": [
+        "Build Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/xu-cheng/latex-action",
+      "name": "xu-cheng/latex-action",
+      "url": "https://github.com/xu-cheng/latex-action",
+      "description": "GitHub Action to compile LaTeX documents",
+      "section": [
+        "Build Tools",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "key": "https://github.com/dante-ev/latex-action",
+      "name": "dante-ev/latex-action",
+      "url": "https://github.com/dante-ev/latex-action",
+      "description": "DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.",
+      "section": [
+        "Build Tools",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "key": "https://github.com/Alexis-benoist/CaTeX",
+      "name": "CaTeX",
+      "url": "https://github.com/Alexis-benoist/CaTeX",
+      "description": "Concatenates LaTeX documents with attention for properly merging the preamble.",
+      "section": [
+        "Misc. Tools"
+      ]
+    },
+    {
+      "key": "https://pandoc.org",
+      "name": "Pandoc",
+      "url": "https://pandoc.org",
+      "description": "This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used.",
+      "section": [
+        "Misc. Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ywatanabe1989/scitex-writer",
+      "name": "SciTeX Writer",
+      "url": "https://github.com/ywatanabe1989/scitex-writer",
+      "description": "Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools).",
+      "section": [
+        "Misc. Tools"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/latexindent",
+      "name": "latexindent",
+      "url": "https://ctan.org/pkg/latexindent",
+      "description": "Perl script that indents and reformats LaTeX documents, highly configurable through YAML settings and shipped with the major TeX distributions.",
+      "section": [
+        "Misc. Tools",
+        "Formatters"
+      ]
+    },
+    {
+      "key": "https://github.com/WGUNDERWOOD/tex-fmt",
+      "name": "tex-fmt",
+      "url": "https://github.com/WGUNDERWOOD/tex-fmt",
+      "description": "Extremely fast LaTeX formatter written in Rust, with sensible defaults and minimal configuration.",
+      "section": [
+        "Misc. Tools",
+        "Formatters"
+      ]
+    },
+    {
+      "key": "https://nongnu.org/chktex",
+      "name": "ChkTeX",
+      "url": "https://www.nongnu.org/chktex/",
+      "description": "Linter / code checker for LaTeX documents.",
+      "section": [
+        "Misc. Tools",
+        "Quality Check Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nschloe/blacktex",
+      "name": "blacktex",
+      "url": "https://github.com/nschloe/blacktex",
+      "description": "Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files.",
+      "section": [
+        "Misc. Tools",
+        "Quality Check Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/sylvainhalle/textidote",
+      "name": "TeXtidote",
+      "url": "https://github.com/sylvainhalle/textidote",
+      "description": "A cross-platform (Java) spelling, grammar and style checker for LaTeX documents.",
+      "section": [
+        "Misc. Tools",
+        "Quality Check Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/YuZh98/latex2arxiv",
+      "name": "latex2arxiv",
+      "url": "https://github.com/YuZh98/latex2arxiv",
+      "description": "CLI tool that prepares a LaTeX project for arXiv submission: prunes unreachable files, strips draft markup, validates the bibliography, and catches desk-rejection errors before upload. Also available as a GitHub Action and MCP server for AI agents.",
+      "section": [
+        "Misc. Tools",
+        "Quality Check Tools"
+      ]
+    },
+    {
+      "key": "https://editor.codecogs.com",
+      "name": "Codecogs Eqn Editor",
+      "url": "https://editor.codecogs.com/",
+      "description": "Online LaTeX equation editor that allows you to produce figures containing an equation.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://equalx.sourceforge.io",
+      "name": "EqualX",
+      "url": "https://equalx.sourceforge.io/",
+      "description": "Graphical LaTeX formula editor.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://klatexformula.sourceforge.io",
+      "name": "KLaTeXFormula",
+      "url": "https://klatexformula.sourceforge.io",
+      "description": "Cross-platform alternative for LaTeXit.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://thrysoee.dk/laeqed",
+      "name": "Laeqed",
+      "url": "https://www.thrysoee.dk/laeqed/",
+      "description": "Crossplatform LaTeX formula to PNG convertor.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://latexeqedit.sourceforge.net",
+      "name": "LaTeXEqEdit",
+      "url": "http://latexeqedit.sourceforge.net/",
+      "description": "LaTeX formula editor for Windows.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://chachatelier.fr/latexit",
+      "name": "LaTeXiT",
+      "url": "https://www.chachatelier.fr/latexit/",
+      "description": "LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://thomasahle.com/latex2png",
+      "name": "LaTeX to Image",
+      "url": "https://thomasahle.com/latex2png/",
+      "description": "Convert LaTeX to PNG, JPEG, or SVG images. Big symbols menu and easy drag-and-drop equations.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://lukas-blecher.github.io/LaTeX-OCR",
+      "name": "pix2tex",
+      "url": "https://lukas-blecher.github.io/LaTeX-OCR/",
+      "description": "LaTeX OCR",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://underleaf.ai/tools/image-to-latex",
+      "name": "Image to LaTeX",
+      "url": "https://www.underleaf.ai/tools/image-to-latex",
+      "description": "AI-powered converter that transforms images of handwritten notes, equations, or tables into clean LaTeX code.",
+      "section": [
+        "Misc. Tools",
+        "Tools centered around equations"
+      ]
+    },
+    {
+      "key": "https://tikzedt.org",
+      "name": "TikzEdt",
+      "url": "https://www.tikzedt.org",
+      "description": "(also: GitHub repo) - WYSIWYG and text-based editor for TikZ pictures.",
+      "section": [
+        "LaTeX-compatible GUI tools"
+      ]
+    },
+    {
+      "key": "https://github.com/fredokun/TikZ-Editor",
+      "name": "TikZ-Editor",
+      "url": "https://github.com/fredokun/TikZ-Editor",
+      "description": "Live-previewing editor for TikZ figures.",
+      "section": [
+        "LaTeX-compatible GUI tools"
+      ]
+    },
+    {
+      "key": "https://ipe.otfried.org",
+      "name": "IPE",
+      "url": "https://ipe.otfried.org",
+      "description": "Drawing tool that integrates well with LaTeX commands and documents.",
+      "section": [
+        "LaTeX-compatible GUI tools"
+      ]
+    },
+    {
+      "key": "https://geogebra.org",
+      "name": "GeoGebra",
+      "url": "https://www.geogebra.org/",
+      "description": "Cross-platform geometry tool with output to TikZ.",
+      "section": [
+        "LaTeX-compatible GUI tools"
+      ]
+    },
+    {
+      "key": "https://wiki.gnome.org/Apps/Dia",
+      "name": "Dia",
+      "url": "https://wiki.gnome.org/Apps/Dia",
+      "description": "Cross-platform diagramming tool that can export to PSTricks and MetaPost code.",
+      "section": [
+        "LaTeX-compatible GUI tools"
+      ]
+    },
+    {
+      "key": "https://tikzit.github.io",
+      "name": "TikZiT",
+      "url": "https://tikzit.GitHub.io",
+      "description": "GUI tool for creating graphs and string diagrams using PGF/TikZ.",
+      "section": [
+        "LaTeX-compatible GUI tools"
+      ]
+    },
+    {
+      "key": "https://latexdraw.sourceforge.net",
+      "name": "LaTeXDraw",
+      "url": "https://latexdraw.sourceforge.net/",
+      "description": "Vector-based drawing tool having LaTeX as first-class citizen.",
+      "section": [
+        "LaTeX-compatible GUI tools"
+      ]
+    },
+    {
+      "key": "https://ctan.org",
+      "name": "CTAN",
+      "url": "https://www.ctan.org",
+      "description": "The Comprehensive TeX Archive Network is the place to look for useful packages and documentation.",
+      "section": [
+        "Packages"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com/a/36312/9075",
+      "name": "Cross-reference packages explained",
+      "url": "https://tex.stackexchange.com/a/36312/9075",
+      "description": "Elaboration on cross-reference packages (cleveref, varioref, theoremref, nameref, etc.): Which to use, which conflict?",
+      "section": [
+        "Packages",
+        "References"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/excel2latex?lang=en",
+      "name": "Excel2LaTeX",
+      "url": "https://www.ctan.org/pkg/excel2latex?lang=en",
+      "description": "Excel (2010 and older) macros to produce LaTeX tabular code.",
+      "section": [
+        "Packages",
+        "Tables"
+      ]
+    },
+    {
+      "key": "https://freshmeat.sourceforge.net/projects/csv2latex",
+      "name": "csv2latex",
+      "url": "http://freshmeat.sourceforge.net/projects/csv2latex",
+      "description": "Converts CSV files from your favorite programs to LaTeX tabulars.",
+      "section": [
+        "Packages",
+        "Tables"
+      ]
+    },
+    {
+      "key": "https://tablesgenerator.com",
+      "name": "Tables Generator",
+      "url": "https://www.tablesgenerator.com",
+      "description": "This website provides a graphical interface to input your table and produces properly-formatted code for LaTeX, Markdown, HTML, etc.",
+      "section": [
+        "Packages",
+        "Tables"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/pgfplotstable?lang=en",
+      "name": "pgfplotstable",
+      "url": "https://www.ctan.org/pkg/pgfplotstable?lang=en",
+      "description": "This package displays numerical tables rounded to desired precision in various display formats. It can even read CSV files to include directly in your LaTeX document.",
+      "section": [
+        "Packages",
+        "Tables"
+      ]
+    },
+    {
+      "key": "https://texample.net",
+      "name": "TeXample",
+      "url": "https://www.texample.net",
+      "description": "Blog about LaTeX, with a big collection of TikZ figures.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://pgfplots.sourceforge.net",
+      "name": "pgfplots",
+      "url": "http://pgfplots.sourceforge.net",
+      "description": "Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://cremeronline.com/LaTeX/minimaltikz.pdf",
+      "name": "A very minimal introduction to TikZ (PDF)",
+      "url": "https://cremeronline.com/LaTeX/minimaltikz.pdf",
+      "description": "Short introductory document to the world of TikZ, written by Jacques Crémer.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://github.com/PetarV-/TikZ",
+      "name": "PetarV-/TikZ",
+      "url": "https://github.com/PetarV-/TikZ",
+      "description": "Collection of publication-ready PGF/TikZ figures by Petar Veličković.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://github.com/matlab2tikz/matlab2tikz",
+      "name": "matlab2tikz",
+      "url": "https://github.com/matlab2tikz/matlab2tikz",
+      "description": "Convert your MATLAB plots to PGFPlots/TikZ.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://github.com/nschloe/tikzplotlib",
+      "name": "tikzplotlib",
+      "url": "https://github.com/nschloe/tikzplotlib",
+      "description": "Convert your matplotlib plots to PGFPlots/TikZ.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://latexdraw.com",
+      "name": "TikZBlog",
+      "url": "https://latexdraw.com",
+      "description": "Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://github.com/opentikz/opentikz",
+      "name": "OpenTikZ",
+      "url": "https://github.com/opentikz/opentikz",
+      "description": "Community library of copyable TikZ icons and editable, parametric templates for academic conceptual diagrams (system/architecture, pipelines, flowcharts); CC0 content, with a Claude Code skill to edit figures on request.",
+      "section": [
+        "Packages",
+        "Graphics",
+        "TikZ"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/minted",
+      "name": "minted",
+      "url": "https://www.ctan.org/pkg/minted",
+      "description": "The minted package uses pygments to generate the listings. In this way, LaTeX is able to format more than 300 programming and markup languages and other text formats.",
+      "section": [
+        "Packages",
+        "Source Code"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/microtype",
+      "name": "microtype",
+      "url": "https://ctan.org/pkg/microtype",
+      "description": "This package improves the appearance of your documents by enabling margin kerning and font expansion.",
+      "section": [
+        "Packages",
+        "Typography"
+      ]
+    },
+    {
+      "key": "https://nics.nilcons.com",
+      "name": "nics",
+      "url": "https://nics.nilcons.com/",
+      "description": "An opinionated alternative to Beamer, that we created with the hopes to make common tasks very easy and beautifully rendered by default. Has awesome documentation and a detailed cheatsheet to help you getting started.",
+      "section": [
+        "Packages",
+        "Presentations, Slides"
+      ]
+    },
+    {
+      "key": "https://latextemplates.com",
+      "name": "LaTeX templates",
+      "url": "https://www.latextemplates.com",
+      "description": "Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.",
+      "section": [
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/martinbjeldbak/ultimate-beamer-theme-list",
+      "name": "Ultimate Beamer Theme List",
+      "url": "https://github.com/martinbjeldbak/ultimate-beamer-theme-list",
+      "description": "Links to various beamer themes along with PDF previews.",
+      "section": [
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md",
+      "name": "LaTeX Beamer Theme Overview",
+      "url": "https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md",
+      "description": "Visual overview of beamer themes included in TeXLive",
+      "section": [
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/jdujava/TeXtured",
+      "name": "TeXtured",
+      "url": "https://github.com/jdujava/TeXtured",
+      "description": "A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).",
+      "section": [
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://ctan.org/tex-archive/info/symbols/comprehensive",
+      "name": "Comprehensive LaTeX symbol list",
+      "url": "https://www.ctan.org/tex-archive/info/symbols/comprehensive/",
+      "description": "Very extensive list of symbols for LaTeX. Available in A4 and letter sizes.",
+      "section": [
+        "Symbols"
+      ]
+    },
+    {
+      "key": "https://detexify.kirelabs.org/classify.html",
+      "name": "Detexify",
+      "url": "https://detexify.kirelabs.org/classify.html",
+      "description": "You draw the symbol and this site/app will tell you the LaTeX command.",
+      "section": [
+        "Symbols"
+      ]
+    },
+    {
+      "key": "https://tug.org",
+      "name": "TUG",
+      "url": "https://www.tug.org",
+      "description": "The TeX User Group is a way to get in touch with other (La)TeX users.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://texdoc.net",
+      "name": "TeXDoc",
+      "url": "https://texdoc.net",
+      "description": "Online interface to the texdoc utility to browse LaTeX packages and documentation.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://dickimaw-books.com/latexresources.html",
+      "name": "Dickimaw Books: LaTeX resources",
+      "url": "https://www.dickimaw-books.com/latexresources.html",
+      "description": "Great overview of resources useful for LaTeX.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://latex-cookbook.net",
+      "name": "LaTeX cookbook",
+      "url": "https://latex-cookbook.net",
+      "description": "Sibling of TeXample, contains quite a bit of example code.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/visualfaq",
+      "name": "Visual FAQ",
+      "url": "https://ctan.org/pkg/visualfaq",
+      "description": "Typesetting issues and a link to appropriate TeX FAQ answers.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinThoma/LaTeX-examples",
+      "name": "MartinThoma's LaTeX example",
+      "url": "https://github.com/MartinThoma/LaTeX-examples/",
+      "description": "GitHub repository containing example LaTeX documents.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://latex.org/forum",
+      "name": "LaTeX community",
+      "url": "https://latex.org/forum",
+      "description": "Forum about LaTeX.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://texfragen.de",
+      "name": "Neue TeX FAQ",
+      "url": "https://texfragen.de",
+      "description": "Modern and updated LaTeX FAQ in German.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://cs.stir.ac.uk/~kjt/software/latex/showbst.html",
+      "name": "BibTeX Style Examples",
+      "url": "http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html",
+      "description": "Example output of common BibTeX styles (BST files).",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://tex.world",
+      "name": "TeX World",
+      "url": "https://tex.world/",
+      "description": "Websites supported by the TeX Users Group, DANTE, and GUTenberg.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://texnique.xyz",
+      "name": "TeXnique",
+      "url": "https://texnique.xyz",
+      "description": "A LaTeX Typesetting Game.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends",
+      "name": "Showcase of beautiful typography done in TeX & friends",
+      "url": "https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends",
+      "description": "Set of examples demonstrating the power of LaTeX.",
+      "section": [
+        "Showcases"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com/q/281415/9075",
+      "name": "Showcase of beautiful invitations in TeX",
+      "url": "https://tex.stackexchange.com/q/281415/9075",
+      "description": "Showcase of invitations typeset using LaTeX.",
+      "section": [
+        "Showcases"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com/q/219774/9075",
+      "name": "Showcase of \"programming your document\" paradigm",
+      "url": "https://tex.stackexchange.com/q/219774/9075",
+      "description": "Collection of LaTeX documents demonstrating how LaTeX can be used like a programming language.",
+      "section": [
+        "Showcases"
+      ]
+    },
+    {
+      "key": "https://tug.org/texshowcase",
+      "name": "TUG: TeX showcase",
+      "url": "https://www.tug.org/texshowcase/",
+      "description": "Website from the TUG that shows some examples of what LaTeX can do.",
+      "section": [
+        "Showcases"
+      ]
+    },
+    {
+      "key": "https://github.com/xinychen/awesome-latex-drawing",
+      "name": "Awesome LaTeX drawing",
+      "url": "https://github.com/xinychen/awesome-latex-drawing",
+      "description": "Curated list of academic drawing examples for using LaTeX",
+      "section": [
+        "Showcases"
+      ]
+    },
+    {
+      "key": "https://learnlatex.org",
+      "name": "LearnLaTeX.org",
+      "url": "https://www.learnlatex.org/",
+      "description": "Browser-based LaTeX tutorial.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://mirrors.ctan.org/info/lshort/english/lshort.pdf",
+      "name": "The (Not So) Short Introduction to LaTeX2e",
+      "url": "https://mirrors.ctan.org/info/lshort/english/lshort.pdf",
+      "description": "Very comprehensive introduction to LaTeX.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/luong-komorebi/Begin-Latex-in-minutes",
+      "name": "Begin LaTeX in minutes",
+      "url": "https://github.com/luong-komorebi/Begin-Latex-in-minutes",
+      "description": "Brief intro to LaTeX for beginners that helps you use LaTeX with ease.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://andy-roberts.net/writing/latex",
+      "name": "Getting to Grips with LaTeX",
+      "url": "https://www.andy-roberts.net/writing/latex",
+      "description": "Complete guide going through the majority of things you need to know about LaTeX.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com/questions/84384/latex-introductions-in-languages-other-than-english/84385",
+      "name": "LaTeX introductions in languages other than English",
+      "url": "https://tex.stackexchange.com/questions/84384/latex-introductions-in-languages-other-than-english/84385",
+      "description": "Collection of introductions in many languages.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://en.wikibooks.org/wiki/LaTeX",
+      "name": "Wikibooks: LaTeX",
+      "url": "https://en.wikibooks.org/wiki/LaTeX",
+      "description": "The LaTeX wikibook. Not really a paper book, but it is equally extensive.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://informit.com/store/latex-companion-9780201362992",
+      "name": "The LaTeX Companion, F. Mittelbach (2004)",
+      "url": "https://www.informit.com/store/latex-companion-9780201362992",
+      "description": "",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://informit.com/store/latex-graphics-companion-9780321508928",
+      "name": "LaTeX Graphics Companion, M. Goossens (2007)",
+      "url": "https://www.informit.com/store/latex-graphics-companion-9780321508928",
+      "description": "",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/texbytopic",
+      "name": "TeX by Topic (2007)",
+      "url": "https://ctan.org/pkg/texbytopic",
+      "description": "",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://ctan.org/pkg/impatient",
+      "name": "TeX for the Impatient (2020)",
+      "url": "https://ctan.org/pkg/impatient",
+      "description": "",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://latex.silmaril.ie/formattinginformation",
+      "name": "Formatting Information (2020)",
+      "url": "https://latex.silmaril.ie/formattinginformation",
+      "description": "This is the HTML5-based online version of the book Formatting Information - An introduction to typesetting with LATEX. It has been continuously updated since the early 2000s.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://texblog.net",
+      "name": "TeXblog",
+      "url": "https://texblog.net",
+      "description": "Blog about LaTeX and everything related.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://texblog.org",
+      "name": "texblog.org",
+      "url": "https://texblog.org",
+      "description": "Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://tex-talk.net",
+      "name": "TeX Talk",
+      "url": "https://tex-talk.net",
+      "description": "Blog for the TeX Stack Exchange site with news and interviews.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://texhour.github.io",
+      "name": "TeX Hour",
+      "url": "https://texhour.github.io/",
+      "description": "A weekly video meeting",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://linkedin.com/groups/1600297",
+      "name": "LinkedIn: TeX/LaTeX User Group",
+      "url": "https://www.linkedin.com/groups/1600297",
+      "description": "",
+      "section": [
+        "Social media"
+      ]
+    },
+    {
+      "key": "https://twitter.com/TeXtip",
+      "name": "Twitter: @TeXtip",
+      "url": "https://twitter.com/TeXtip",
+      "description": "Tips related to (La)TeX by John D. Cook.",
+      "section": [
+        "Social media"
+      ]
+    },
+    {
+      "key": "https://tex.stackexchange.com",
+      "name": "TeX.StackExchange",
+      "url": "https://tex.stackexchange.com",
+      "description": "StackExchange TeX section.",
+      "section": [
+        "Social media"
+      ]
+    },
+    {
+      "key": "https://topanswers.xyz/tex",
+      "name": "TopAnswers TeX",
+      "url": "https://topanswers.xyz/tex",
+      "description": "a free and open source Q&A site for TeX and friends",
+      "section": [
+        "Social media"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "etag": "W/\"351ae59c51decf1a29f64ee3baa493ca01440784a1e0bc7a491ff92b6536315a\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://garrensmith.com/blogs/mini-couch-hack-week",
+      "name": "MiniCouchDB in Rust",
+      "url": "https://www.garrensmith.com/blogs/mini-couch-hack-week",
+      "description": "",
+      "section": [
+        "News & Blog Posts"
+      ]
+    },
+    {
+      "key": "https://blog.couchdb.org/2020/02/26/the-road-to-couchdb-3-0-prepare-for-4-0",
+      "name": "The Road to CouchDB 3.0: Prepare for 4.0",
+      "url": "https://blog.couchdb.org/2020/02/26/the-road-to-couchdb-3-0-prepare-for-4-0/",
+      "description": "(02-26-2020)",
+      "section": [
+        "News & Blog Posts"
+      ]
+    },
+    {
+      "key": "https://ehealthafrica.github.io/couchdb-best-practices",
+      "name": "Best Practices",
+      "url": "http://ehealthafrica.github.io/couchdb-best-practices/",
+      "description": "Best Practices, eHealth Africa.",
+      "section": [
+        "Patterns & Best Practices"
+      ]
+    },
+    {
+      "key": "https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html",
+      "name": "Pagination strategies with PouchDB",
+      "url": "https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html",
+      "description": "",
+      "section": [
+        "Patterns & Best Practices"
+      ]
+    },
+    {
+      "key": "https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html",
+      "name": "12 pro tips for better code with PouchDB",
+      "url": "https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html",
+      "description": "",
+      "section": [
+        "Patterns & Best Practices"
+      ]
+    },
+    {
+      "key": "https://github.com/assafmo/couchdb-linux-performance",
+      "name": "Linux tuning for better CouchDB performance",
+      "url": "https://github.com/assafmo/couchdb-linux-performance",
+      "description": "",
+      "section": [
+        "Patterns & Best Practices"
+      ]
+    },
+    {
+      "key": "https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html",
+      "name": "PouchDB - Secondary Indexes",
+      "url": "https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html",
+      "description": "",
+      "section": [
+        "Patterns & Best Practices",
+        "Map/Reduce"
+      ]
+    },
+    {
+      "key": "https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful",
+      "name": "Cloudant - MapReduce Primer",
+      "url": "https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl",
+      "description": "Great intro on reduce, group, group_level.",
+      "section": [
+        "Patterns & Best Practices",
+        "Map/Reduce"
+      ]
+    },
+    {
+      "key": "https://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html",
+      "name": "Using View Collation",
+      "url": "http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation",
+      "description": "Index mapping (emits) for data joins.",
+      "section": [
+        "Patterns & Best Practices",
+        "Map/Reduce"
+      ]
+    },
+    {
+      "key": "https://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html",
+      "name": "Views Collation",
+      "url": "http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html",
+      "description": "More documentation on \"View Collation\".",
+      "section": [
+        "Patterns & Best Practices",
+        "Map/Reduce"
+      ]
+    },
+    {
+      "key": "https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index",
+      "name": "Cloudant - MapReduce and the Secondary Index (Video)",
+      "url": "https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/",
+      "description": "Great videos here on mapReduce, secondary indexes, and complex keys.",
+      "section": [
+        "Patterns & Best Practices",
+        "Map/Reduce"
+      ]
+    },
+    {
+      "key": "https://docs.cloudant.com/design_documents.html",
+      "name": "Cloudant - Design Documents",
+      "url": "https://docs.cloudant.com/design_documents.html",
+      "description": "Cloudant's documentation is also great resource for learning concepts of CouchDB.",
+      "section": [
+        "Patterns & Best Practices",
+        "Map/Reduce"
+      ]
+    },
+    {
+      "key": "https://docs.cloudant.com/design_document_management.html",
+      "name": "Cloudant - Design Document Management",
+      "url": "https://docs.cloudant.com/design_document_management.html",
+      "description": "How to manage design doc changes in production.",
+      "section": [
+        "Patterns & Best Practices",
+        "Map/Reduce"
+      ]
+    },
+    {
+      "key": "https://docs.cloudant.com/transactions.html",
+      "name": "Grouping related documents together in Cloudant",
+      "url": "https://docs.cloudant.com/transactions.html",
+      "description": "An approach that leverages CouchDB high availability nature.",
+      "section": [
+        "Patterns & Best Practices",
+        "Joins"
+      ]
+    },
+    {
+      "key": "https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions",
+      "name": "Document Revisions (from wiki)",
+      "url": "https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions",
+      "description": "",
+      "section": [
+        "Patterns & Best Practices",
+        "Document Versioning"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20100701165612/http://blog.couch.io/post/632718824/simple-document-versioning-with-couchdb",
+      "name": "Simple Document Versioning",
+      "url": "http://web.archive.org/web/20100701165612/http://blog.couch.io/post/632718824/simple-document-versioning-with-couchdb",
+      "description": "",
+      "section": [
+        "Patterns & Best Practices",
+        "Document Versioning"
+      ]
+    },
+    {
+      "key": "https://blog.couchdb.org",
+      "name": "Official Blog",
+      "url": "https://blog.couchdb.org/",
+      "description": "",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://docs.couchdb.org",
+      "name": "Official Docs",
+      "url": "http://docs.couchdb.org/",
+      "description": "",
+      "section": [
+        "Docs"
+      ]
+    },
+    {
+      "key": "https://wiki.apache.org/couchdb/Frequently_asked_questions",
+      "name": "FAQ (old wiki)",
+      "url": "https://wiki.apache.org/couchdb/Frequently_asked_questions",
+      "description": "Seems to have more faqs than the new wiki.",
+      "section": [
+        "Docs"
+      ]
+    },
+    {
+      "key": "https://guide.couchdb.org",
+      "name": "The Definitive Guide",
+      "url": "http://guide.couchdb.org/",
+      "description": "CouchDB's \"Dog\" Book.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://cwiki.apache.org/confluence/display/COUCHDB/Books",
+      "name": "List of books on the Wiki",
+      "url": "https://cwiki.apache.org/confluence/display/COUCHDB/Books",
+      "description": "",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=BKQ9kXKoHS810",
+      "name": "10 Common Misconceptions",
+      "url": "https://www.youtube.com/watch?v=BKQ9kXKoHS810",
+      "description": "More videos from this conference.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://nosqltapes.com",
+      "name": "The NoSQL Tapes",
+      "url": "http://nosqltapes.com",
+      "description": "CouchDB is discussed on Volume 5 - CouchDB, Volume 8 - MapReduce.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://oreilly.com/pub/e/1760",
+      "name": "Scaling Out with BigCouch",
+      "url": "http://www.oreilly.com/pub/e/1760",
+      "description": "O'Reilly video on scaling out with BigCouch.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://event.on24.com/eventRegistration/EventLobbyServlet?eventid=1240121&key=9E23B44802902EAD0BB2603F0434742E&partnerref=cdc&regTag=35370&sessionid=1&sourcepage=register&target=reg20.jsp",
+      "name": "IBM - The New Builders Webinar Series",
+      "url": "https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=cdc&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://github.com/pandeiro/jaki",
+      "name": "Jaki",
+      "url": "https://github.com/pandeiro/jaki",
+      "description": "A simple ClojureScript CouchDB client",
+      "section": [
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://webchat.freenode.net?channels=couchdb",
+      "name": "IRC",
+      "url": "http://webchat.freenode.net/?channels=couchdb",
+      "description": "irc://irc.freenode.net/couchdb",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://conf.couchdb.org",
+      "name": "Apache CouchDB Conf",
+      "url": "http://conf.couchdb.org/",
+      "description": "Lots of video links.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://couchdb.apache.org/bylaws.html",
+      "name": "Bylaws",
+      "url": "http://couchdb.apache.org/bylaws.html",
+      "description": ", Minutes",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://mail-archives.apache.org/mod_mbox",
+      "name": "Mailing Lists",
+      "url": "https://mail-archives.apache.org/mod_mbox/#couchdb",
+      "description": "",
+      "section": [
+        "Community",
+        "Mailing List"
+      ]
+    },
+    {
+      "key": "https://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000",
+      "name": "Mailing Lists Description",
+      "url": "http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000",
+      "description": "",
+      "section": [
+        "Community",
+        "Mailing List"
+      ]
+    },
+    {
+      "key": "https://grokbase.com/s/couchdb",
+      "name": "Grokbase",
+      "url": "http://grokbase.com/s/couchdb",
+      "description": "Mailing lists in a Stack Overflow-like interface.",
+      "section": [
+        "Community",
+        "Mailing List"
+      ]
+    },
+    {
+      "key": "https://github.com/eHealthAfrica",
+      "name": "eHealth Africa",
+      "url": "https://github.com/eHealthAfrica",
+      "description": "Big user of CouchDB, check out their best practices.",
+      "section": [
+        "Community",
+        "Companies"
+      ]
+    },
+    {
+      "key": "https://cloudant.com",
+      "name": "Cloudant",
+      "url": "https://cloudant.com/",
+      "description": "Distributed database as a service (DBaaS).",
+      "section": [
+        "Community",
+        "Companies",
+        "Hosting"
+      ]
+    },
+    {
+      "key": "https://fly.io",
+      "name": "Fly.io",
+      "url": "https://fly.io",
+      "description": "use this Guide to host",
+      "section": [
+        "Community",
+        "Companies",
+        "Hosting"
+      ]
+    },
+    {
+      "key": "https://bitnami.com/stack/couchdb/cloud/google",
+      "name": "Bitnami Launchpad for Google Cloud Platform",
+      "url": "https://bitnami.com/stack/couchdb/cloud/google",
+      "description": "Host CouchDB on Google Cloud Platform.",
+      "section": [
+        "Community",
+        "Companies",
+        "Hosting"
+      ]
+    },
+    {
+      "key": "https://pouchdb.com",
+      "name": "PouchDB",
+      "url": "https://pouchdb.com/",
+      "description": "A pocket-sized database.",
+      "section": [
+        "Community",
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://foundationdb.org",
+      "name": "FoundationDB",
+      "url": "https://www.foundationdb.org/",
+      "description": "CouchDB 4.0 will utilize FoundationDB.",
+      "section": [
+        "Community",
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://hood.ie",
+      "name": "Hoodie",
+      "url": "http://hood.ie/",
+      "description": "A backend for Offline First applications.",
+      "section": [
+        "Community",
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://docs.couchbase.com/server/current/install/migrate-couchdb.html",
+      "name": "Migrating from Apache CouchDB",
+      "url": "https://docs.couchbase.com/server/current/install/migrate-couchdb.html",
+      "description": "Comparison of CouchDB and CouchBase",
+      "section": [
+        "Community",
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://couchbase.com",
+      "name": "Couchbase",
+      "url": "https://www.couchbase.com/",
+      "description": "NoSQL database.",
+      "section": [
+        "Community",
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://rxdb.info",
+      "name": "RxDB",
+      "url": "https://rxdb.info/",
+      "description": "NoSQL-database for JavaScript Applications. RxDB provides modules for realtime replication with any CouchDB compliant endpoint and also with custom GraphQL endpoints.",
+      "section": [
+        "Community",
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20160311144130/https://cloudant.com/blog/dynamo-and-couchdb-clusters",
+      "name": "Dynamo and CouchDB Clusters",
+      "url": "https://web.archive.org/web/20160311144130/https://cloudant.com/blog/dynamo-and-couchdb-clusters/#.WIEp4xsrKUk",
+      "description": "Article about scaling CouchDB, using clusters.",
+      "section": [
+        "Misc/Technical"
+      ]
+    },
+    {
+      "key": "https://research.google.com/archive/sawzall.html",
+      "name": "Google’s paper on Sawzall",
+      "url": "http://research.google.com/archive/sawzall.html",
+      "description": "Exotic Reductions Examples.",
+      "section": [
+        "Misc/Technical"
+      ]
+    },
+    {
+      "key": "https://dimagi.com/blog/what-every-developer-should-know-about-couchdb",
+      "name": "What Every Developer Should Know About CouchDB",
+      "url": "http://www.dimagi.com/blog/what-every-developer-should-know-about-couchdb/",
+      "description": "Article about lessons learned.",
+      "section": [
+        "Misc/Technical"
+      ]
+    },
+    {
+      "key": "https://nosql.se/2011/09/couchdb-maximum-database-size",
+      "name": "CouchDB Maximum Database Size",
+      "url": "http://www.nosql.se/2011/09/couchdb-maximum-database-size/",
+      "description": "",
+      "section": [
+        "Misc/Technical"
+      ]
+    },
+    {
+      "key": "https://horicky.blogspot.com/2009/11/nosql-patterns.html",
+      "name": "NOSQL Patterns",
+      "url": "http://horicky.blogspot.com/2009/11/nosql-patterns.html",
+      "description": "",
+      "section": [
+        "Misc/Technical"
+      ]
+    },
+    {
+      "key": "https://eclipsesource.com/blogs/2009/12/13/persistent-trees-in-git-clojure-and-couchdb-data-structure-convergence",
+      "name": "Persistent Trees in git, Clojure and CouchDB",
+      "url": "https://eclipsesource.com/blogs/2009/12/13/persistent-trees-in-git-clojure-and-couchdb-data-structure-convergence/",
+      "description": "",
+      "section": [
+        "Misc/Technical"
+      ]
+    },
+    {
+      "key": "https://pozorvlak.livejournal.com/176385.html",
+      "name": "CouchDB - JSON and B-trees and REST, oh my!",
+      "url": "https://pozorvlak.livejournal.com/176385.html",
+      "description": "",
+      "section": [
+        "Misc/Technical"
+      ]
+    },
+    {
+      "key": "https://docs.cloudant.com/attachments.html",
+      "name": "Cloudant - Attachments Performance Considerations",
+      "url": "https://docs.cloudant.com/attachments.html#performance-considerations",
+      "description": "",
+      "section": [
+        "Misc/Technical",
+        "Attachments"
+      ]
+    },
+    {
+      "key": "https://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well",
+      "name": "Are attachments duplicated for each revision?",
+      "url": "http://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well",
+      "description": "Mailing list discussion about attachments across revisions.",
+      "section": [
+        "Misc/Technical",
+        "Attachments"
+      ]
+    },
+    {
+      "key": "https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup",
+      "name": "Simple CouchDB and Cloudant Backup",
+      "url": "https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/",
+      "description": "Article on IBM about backups.",
+      "section": [
+        "Misc/Technical",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://docs.cloudant.com/backup-guide.html",
+      "name": "Cloudant Backup Guide",
+      "url": "https://docs.cloudant.com/backup-guide.html",
+      "description": "Cloudant docs on backups.",
+      "section": [
+        "Misc/Technical",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html",
+      "name": "List of CouchApps",
+      "url": "https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html",
+      "description": "",
+      "section": [
+        "Misc/Technical",
+        "CouchApps"
+      ]
+    },
+    {
+      "key": "https://ddoc.me",
+      "name": "Ddoc Lab",
+      "url": "http://ddoc.me/",
+      "description": "Create couchapps and CouchDB design docs right in your browser.",
+      "section": [
+        "Misc/Technical",
+        "CouchApps"
+      ]
+    },
+    {
+      "key": "https://bitnami.com/stack/couchdb",
+      "name": "Bitnami CouchDB",
+      "url": "https://bitnami.com/stack/couchdb",
+      "description": "Bitnami makes it easy to run CouchDB in the cloud.",
+      "section": [
+        "Misc/Technical",
+        "Scaling"
+      ]
+    },
+    {
+      "key": "https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki",
+      "name": "Official CouchDB Wiki",
+      "url": "https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki",
+      "description": "",
+      "section": [
+        "Resource Lists"
+      ]
+    },
+    {
+      "key": "https://wiki.apache.org/couchdb",
+      "name": "Official CouchDB Wiki (old)",
+      "url": "https://wiki.apache.org/couchdb/",
+      "description": "Some things aren't on new wiki yet.",
+      "section": [
+        "Resource Lists"
+      ]
+    },
+    {
+      "key": "https://docs.cloudant.com/guides.html",
+      "name": "Cloudant Official Guides",
+      "url": "https://docs.cloudant.com/guides.html",
+      "description": "Applicable to CouchDB.",
+      "section": [
+        "Resource Lists"
+      ]
+    },
+    {
+      "key": "https://cwiki.apache.org/confluence/display/COUCHDB/CouchDB+clients",
+      "name": "List of CouchDB Clients",
+      "url": "https://cwiki.apache.org/confluence/display/COUCHDB/CouchDB+clients",
+      "description": "",
+      "section": [
+        "Resource Lists"
+      ]
+    },
+    {
+      "key": "https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities",
+      "name": "List of CouchDB Useful Utilities",
+      "url": "https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities",
+      "description": "",
+      "section": [
+        "Resource Lists"
+      ]
+    },
+    {
+      "key": "https://wiki.apache.org/couchdb/Related_Projects",
+      "name": "Old Wiki's Related Projects List",
+      "url": "https://wiki.apache.org/couchdb/Related_Projects",
+      "description": "",
+      "section": [
+        "Resource Lists"
+      ]
+    }
+  ]
+}

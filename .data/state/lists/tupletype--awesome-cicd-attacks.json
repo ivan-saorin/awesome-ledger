@@ -1,0 +1,865 @@
+{
+  "etag": "W/\"f0659580eae49199417ac80f0e9da71e095bd00d0d9f92d5946959ea301d7c77\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://trufflesecurity.com/blog/postman-carries-lots-of-secrets",
+      "name": "(The) Postman Carries Lots of Secrets",
+      "url": "https://trufflesecurity.com/blog/postman-carries-lots-of-secrets",
+      "description": "Postman's public API network leaks thousands of secrets due to confusing UI, forks, and insufficient secret scanning.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://paloaltonetworks.com/blog/prisma-cloud/secrets-leakage-user-error-azure-cli",
+      "name": "All the Small Things: Azure CLI Leakage and Problematic Usage Patterns",
+      "url": "https://www.paloaltonetworks.com/blog/prisma-cloud/secrets-leakage-user-error-azure-cli/",
+      "description": "Azure CLI leaks secrets to CI/CD logs due to usage patterns.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github",
+      "name": "Anyone can Access Deleted and Private Repository Data on GitHub",
+      "url": "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github",
+      "description": "As long as it's part of a fork network.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://duo.com/blog/beyond-s3-exposed-resources-on-aws",
+      "name": "Beyond S3: Exposed Resources on AWS",
+      "url": "https://duo.com/blog/beyond-s3-exposed-resources-on-aws",
+      "description": "Public EBS, RDS, AMI and Elasticsearch clusters exposed to the internet.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://securitycafe.ro/2024/05/08/aws-cloudquarry-digging-for-secrets-in-public-amis",
+      "name": "CloudQuarry: Digging for secrets in public AMIs",
+      "url": "https://securitycafe.ro/2024/05/08/aws-cloudquarry-digging-for-secrets-in-public-amis/",
+      "description": "Researchers found 500GB of credentials, private repos, and keys in public AWS AMIs, impacting various industries.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://aquasec.com/blog/github-repos-expose-azure-and-red-hat-secrets",
+      "name": "Employee Personal GitHub Repos Expose Internal Azure and Red Hat Secrets",
+      "url": "https://www.aquasec.com/blog/github-repos-expose-azure-and-red-hat-secrets/",
+      "description": "Employee's personal GitHub repos expose internal Azure & Red Hat secrets.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://aquasec.com/blog/250m-artifacts-exposed-via-misconfigured-registries",
+      "name": "Fortune 500 at Risk: 250M Artifacts Exposed via Misconfigured Registries",
+      "url": "https://www.aquasec.com/blog/250m-artifacts-exposed-via-misconfigured-registries/",
+      "description": "Misconfigured public registries with software artifacts containing sensitive proprietary code and secrets.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://github.com/RichardoC/gitlab-secrets",
+      "name": "GitLab Secrets",
+      "url": "https://github.com/RichardoC/gitlab-secrets",
+      "description": "A tool that can reveal deleted GitLab commits that potentially contain sensitive information and are not accessible via the public Git history.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://neodyme.io/en/blog/github_secrets",
+      "name": "Hidden GitHub Commits and How to Reveal Them",
+      "url": "https://neodyme.io/en/blog/github_secrets/",
+      "description": "A tool that can reveal deleted GitHub commits that potentially contain sensitive information and are not accessible via the public Git history.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://cloud.google.com/blog/topics/threat-intelligence/bitbucket-pipeline-leaking-secrets",
+      "name": "Holes in Your Bitbucket: Why Your CI/CD Pipeline Is Leaking Secrets",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/bitbucket-pipeline-leaking-secrets",
+      "description": "Bitbucket Secured Variables leak secrets via artifact objects; recommendations include using dedicated secrets managers and code scanning.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20230531032433/https://redhuntlabs.com/blog/millions-of-secrets-exposed-via-web-application-frontend",
+      "name": "Millions of Secrets Exposed via Web Application Frontends",
+      "url": "https://web.archive.org/web/20230531032433/https://redhuntlabs.com/blog/millions-of-secrets-exposed-via-web-application-frontend/",
+      "description": "Millions of secrets exposed in web app frontends via JavaScript and debug pages.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://ramimac.me/exposed-docdb",
+      "name": "Publicly Exposed AWS Document DB Snapshots",
+      "url": "https://ramimac.me/exposed-docdb",
+      "description": "Publicly exposed AWS DocumentDB snapshot of Cinemark Brazil revealed millions of customer records.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://bleepingcomputer.com/news/security/thousands-of-images-on-docker-hub-leak-auth-secrets-private-keys",
+      "name": "Thousands of images on Docker Hub leak auth secrets, private keys",
+      "url": "https://www.bleepingcomputer.com/news/security/thousands-of-images-on-docker-hub-leak-auth-secrets-private-keys/",
+      "description": "Researchers found thousands of Docker Hub images leaking private keys and API secrets.",
+      "section": [
+        "Techniques",
+        "Publicly Exposed Sensitive Data"
+      ]
+    },
+    {
+      "key": "https://github.com/AdnaneKhan/ActionsTOCTOU",
+      "name": "ActionsTOCTOU (Time Of Check to Time Of Use)",
+      "url": "https://github.com/AdnaneKhan/ActionsTOCTOU/",
+      "description": "A tool to monitor for an approval event and then quickly replace a file in the PR head with a local file specified as a parameter.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://mend.io/blog/aws-targeted-by-a-package-backfill-attack",
+      "name": "AWS Targeted by a Package Backfill Attack",
+      "url": "https://www.mend.io/blog/aws-targeted-by-a-package-backfill-attack/",
+      "description": "Scan commit history for internal packages to execute dependency confusion.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://vulcan.io/blog/ai-hallucinations-package-risk",
+      "name": "Can you trust ChatGPT's package recommendations?",
+      "url": "https://vulcan.io/blog/ai-hallucinations-package-risk",
+      "description": "Exploit generative AI platforms' tendency to generate non-existent coding libraries to execute Dependecy Confusion.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://aquasec.com/blog/can-you-trust-your-vscode-extensions",
+      "name": "Can You Trust Your VSCode Extensions?",
+      "url": "https://www.aquasec.com/blog/can-you-trust-your-vscode-extensions/",
+      "description": "Impersonate popular VSCode extensions and trick unknowing developers into downloading them.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive",
+      "name": "Deep dive into Visual Studio Code extension security vulnerabilities",
+      "url": "https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive/",
+      "description": "VS Code extensions have vulnerabilities (command injection, path traversal, zip slip) that can compromise developer machines.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610",
+      "name": "Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies",
+      "url": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610",
+      "description": "Researchers uploaded malicious packages with internal company names, gaining access to Apple, Microsoft, and others due to dependency confusion.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://errno.fr/DockerDependencyConfusion.html",
+      "name": "Dependency Confusions in Docker and remote pwning of your infra",
+      "url": "https://www.errno.fr/DockerDependencyConfusion.html",
+      "description": "Docker dependency confusion occurs when a misconfigured Docker mirror pulls malicious public images instead of private ones.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://boostsecurity.io/blog/erosion-of-trust-unmasking-supply-chain-vulnerabilities-in-the-terraform-registry",
+      "name": "Erosion of Trust: Unmasking Supply Chain Vulnerabilities in the Terraform Registry",
+      "url": "https://boostsecurity.io/blog/erosion-of-trust-unmasking-supply-chain-vulnerabilities-in-the-terraform-registry",
+      "description": "Terraform modules are not protected by the Dependency Lock File, consequently, a seemingly harmless module could potentially introduce malicious code.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://johnstawinski.com/2024/04/15/fixing-typos-and-breaching-microsofts-perimeter",
+      "name": "Fixing typos and breaching microsoft's perimeter",
+      "url": "https://johnstawinski.com/2024/04/15/fixing-typos-and-breaching-microsofts-perimeter/",
+      "description": "Bypass GitHub workflow approval requirement by becoming a contributor.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://aquasec.com/blog/github-dataset-research-reveals-millions-potentially-vulnerable-to-repojacking",
+      "name": "GitHub Dataset Research Reveals Millions Potentially Vulnerable to RepoJacking",
+      "url": "https://www.aquasec.com/blog/github-dataset-research-reveals-millions-potentially-vulnerable-to-repojacking/",
+      "description": "Millions of GitHub repos are vulnerable to RepoJacking due to org renames, leading to potential code execution.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://bleepingcomputer.com/news/security/gitloker-attacks-abuse-github-notifications-to-push-malicious-oauth-apps",
+      "name": "Gitloker attacks abuse GitHub notifications to push malicious OAuth apps",
+      "url": "https://www.bleepingcomputer.com/news/security/gitloker-attacks-abuse-github-notifications-to-push-malicious-oauth-apps/",
+      "description": "Attackers use fake GitHub notifications to trick users into authorizing malicious OAuth apps that steal repo access.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://dagrz.com/writing/aws-security/hacking-github-aws-oidc",
+      "name": "Hacking GitHub AWS integrations again",
+      "url": "https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/",
+      "description": "Attacking misconfigured pipelines that use OIDC.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://observationsinsecurity.com/2024/04/25/how-i-hacked-into-googles-internal-corporate-assets",
+      "name": "How I hacked into Google's internal corporate assets",
+      "url": "https://observationsinsecurity.com/2024/04/25/how-i-hacked-into-googles-internal-corporate-assets/",
+      "description": "More ways to find dependencies in code for Dependency Confusion.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://maia.crimew.gay/posts/how-to-hack-an-airline",
+      "name": "How to completely own an airline in 3 easy steps",
+      "url": "https://maia.crimew.gay/posts/how-to-hack-an-airline/",
+      "description": "Misconfigured CI system accessible from the internet.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://landh.tech/blog/20250211-hack-supply-chain-for-50k",
+      "name": "How We Hacked a Software Supply Chain for $50K",
+      "url": "https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/",
+      "description": "Scraped JavaScript front-end files of the target and used ASTs to identify import/require statements which lead to discovering a public container with NPM credentials.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://blog.oversecured.com/Introducing-MavenGate-a-supply-chain-attack-method-for-Java-and-Android-applications",
+      "name": "Introducing MavenGate: a supply chain attack method for Java and Android applications",
+      "url": "https://blog.oversecured.com/Introducing-MavenGate-a-supply-chain-attack-method-for-Java-and-Android-applications/",
+      "description": "Many public and popular libraries that have long been abandoned are still being used in huge projects. Access to projects can be hijacked through domain name purchases.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://securitylab.github.com/research/github-actions-preventing-pwn-requests",
+      "name": "Keeping your GitHub Actions and workflows secure Part 1: Preventing pwn requests",
+      "url": "https://securitylab.github.com/research/github-actions-preventing-pwn-requests/",
+      "description": "Combining pull_request_target workflow trigger with an explicit checkout of an untrusted PR may lead to repository compromise.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://securitylab.github.com/research/github-actions-untrusted-input",
+      "name": "Keeping your GitHub Actions and workflows secure Part 2: Untrusted input",
+      "url": "https://securitylab.github.com/research/github-actions-untrusted-input/",
+      "description": "GitHub Actions command injection.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://medium.com/cider-sec/malicious-code-analysis-abusing-sast-mis-configurations-to-hack-ci-systems-13d5c1b37ffe",
+      "name": "Malicious code analysis: Abusing SAST (mis)configurations to hack CI systems",
+      "url": "https://medium.com/cider-sec/malicious-code-analysis-abusing-sast-mis-configurations-to-hack-ci-systems-13d5c1b37ffe",
+      "description": "Misconfigured SAST tools can be exploited to execute malicious code on CI systems, allowing attackers to steal credentials or deploy malicious artifacts.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://medium.com/cider-sec/ppe-poisoned-pipeline-execution-34f4e8d0d4e9",
+      "name": "PPE — Poisoned Pipeline Execution",
+      "url": "https://medium.com/cider-sec/ppe-poisoned-pipeline-execution-34f4e8d0d4e9",
+      "description": "Poisoned Pipeline Execution (PPE) lets attackers run malicious code in a CI/CD system without direct access.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees",
+      "name": "Security alert: social engineering campaign targets technology industry employees",
+      "url": "https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/",
+      "description": "Phishing GitHub users to download and execute repositories.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://wiz.io/blog/github-actions-security-ai-powered-actions-vulnerabilities",
+      "name": "The (In)security Landscape of AI-Powered GitHub Actions (Part 2/2)",
+      "url": "https://www.wiz.io/blog/github-actions-security-ai-powered-actions-vulnerabilities",
+      "description": "Vulnerabilities in AI-powered GitHub Actions. Syntactical permission checks that let attackers impersonate trusted apps and Dependabot Deputy Confusion Injection.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://adnanthekhan.com/2024/05/06/the-monsters-in-your-build-cache-github-actions-cache-poisoning",
+      "name": "The Monsters in Your Build Cache – GitHub Actions Cache Poisoning",
+      "url": "https://adnanthekhan.com/2024/05/06/the-monsters-in-your-build-cache-github-actions-cache-poisoning/",
+      "description": "Allows attackers to compromise workflows even with limited permissions by exploiting vulnerabilities or dependency flaws, attackers steal cache tokens, fill the cache to force evictions, and replace legitimate entries with malicious code.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://therecord.media/thousands-of-npm-accounts-use-email-addresses-with-expired-domains",
+      "name": "Thousands of npm accounts use email addresses with expired domains",
+      "url": "https://therecord.media/thousands-of-npm-accounts-use-email-addresses-with-expired-domains",
+      "description": "Maintainer Email hijacking.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://bytesafe.dev/posts/understanding-typosquatting-methods",
+      "name": "Understanding typosquatting methods - for a secure supply chain",
+      "url": "https://bytesafe.dev/posts/understanding-typosquatting-methods/",
+      "description": "Typosquatting involves publishing malicious packages with names similar to legitimate ones, exploiting typos to inject malicious code.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://legitsecurity.com/blog/github-privilege-escalation-vulnerability",
+      "name": "Vulnerable GitHub Actions Workflows Part 1: Privilege Escalation Inside Your CI/CD Pipeline",
+      "url": "https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability",
+      "description": "GitHub Actions workflow_run PE.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://chainguard.dev/unchained/what-the-fork-imposter-commits-in-github-actions-and-ci-cd",
+      "name": "What the fork? Imposter commits in GitHub Actions and CI/CD",
+      "url": "https://www.chainguard.dev/unchained/what-the-fork-imposter-commits-in-github-actions-and-ci-cd",
+      "description": "GitHub Actions vulnerability allows forked commits to bypass workflow security settings.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://securitylabs.datadoghq.com/articles/whoami-a-cloud-image-name-confusion-attack",
+      "name": "whoAMI: A cloud image name confusion attack",
+      "url": "https://securitylabs.datadoghq.com/articles/whoami-a-cloud-image-name-confusion-attack/",
+      "description": "Dependency Confusion using AWS AMIs.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned",
+      "name": "WordPress Plugin Confusion: How an update can get you pwned",
+      "url": "https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/",
+      "description": "Unclaimed WordPress plugins are vulnerable to takeover via the plugin directory.",
+      "section": [
+        "Techniques",
+        "Initial Code Execution"
+      ]
+    },
+    {
+      "key": "https://praetorian.com/blog/self-hosted-github-runners-are-backdoors",
+      "name": "From Self-Hosted GitHub Runner to Self-Hosted Backdoor",
+      "url": "https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/",
+      "description": "Attackers exploit misconfigured runners and weak PAT security to gain persistence, escalate privileges, and move laterally.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://blog.plerion.com/hacking-terraform-state-privilege-escalation",
+      "name": "Hacking Terraform State for Privilege Escalation",
+      "url": "https://blog.plerion.com/hacking-terraform-state-privilege-escalation/",
+      "description": "Modifying a Terraform state file allows attackers to delete infrastructure or execute code via custom providers.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization",
+      "name": "Hijacking GitHub runners to compromise the organization",
+      "url": "https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization",
+      "description": "Registering a GitHub runner with the ubuntu-latest tag grants access to jobs originally designated for GitHub-provisioned runners.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://cycode.com/blog/github-actions-vulnerabilities",
+      "name": "How We Discovered Vulnerabilities in CI/CD Pipelines of Popular Open-Source Projects",
+      "url": "https://cycode.com/blog/github-actions-vulnerabilities",
+      "description": "Extracting all repository and organization secrets in GitHub Actions.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://apexhq.ai/blog/blog/invisible-ghost-alarming-vulnerability-in-github-copilot",
+      "name": "Invisible Ghost: Alarming Vulnerability in GitHub Copilot",
+      "url": "https://www.apexhq.ai/blog/blog/invisible-ghost-alarming-vulnerability-in-github-copilot/",
+      "description": "Using hidden Unicode characters to manipulate GitHub Copilot's suggestions.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://karimrahal.com/2023/01/05/github-actions-leaking-secrets",
+      "name": "Leaking Secrets From GitHub Actions: Reading Files And Environment Variables, Intercepting Network/Process Communication, Dumping Memory",
+      "url": "https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/",
+      "description": "Leaking secrets from vulnerable GitHub Actions workflows is possible via several methods: reading files/environment variables, intercepting communication, and dumping runner memory.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://github.com/boostsecurityio/lotp",
+      "name": "Living off the pipeline",
+      "url": "https://github.com/boostsecurityio/lotp",
+      "description": "Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://paloaltonetworks.com/blog/prisma-cloud/github-actions-worm-dependencies",
+      "name": "The GitHub Actions Worm: Compromising GitHub Repositories Through the Actions Dependency Tree",
+      "url": "https://www.paloaltonetworks.com/blog/prisma-cloud/github-actions-worm-dependencies/",
+      "description": "A novel GitHub Actions worm exploits the action dependency tree. Attackers compromise an action, then infect dependent actions via branch pushes or tag overwrites, spreading malware recursively.",
+      "section": [
+        "Techniques",
+        "Post Exploitation"
+      ]
+    },
+    {
+      "key": "https://twitter.com/_alxk/status/1442519103885959172?s=21",
+      "name": "#redteam tip: want to discretely extract credentials from a CI/CD pipeline?",
+      "url": "https://twitter.com/_alxk/status/1442519103885959172?s=21",
+      "description": "Draft pull requests won't alert repository contributors, but will still trigger pipelines.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://paloaltonetworks.com/blog/prisma-cloud/repository-webhook-abuse-access-ci-cd-systems-at-scale",
+      "name": "Abusing Repository Webhooks to Access Internal CI/CD Systems at Scale",
+      "url": "https://www.paloaltonetworks.com/blog/prisma-cloud/repository-webhook-abuse-access-ci-cd-systems-at-scale/",
+      "description": "Repository webhooks, used to trigger CI/CD pipelines, can be abused to access internal systems.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7",
+      "name": "Bypassing required reviews using GitHub Actions",
+      "url": "https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7",
+      "description": "GitHub Actions can bypass required reviews, allowing malicious code pushes to protected branches.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://iter.ca/post/gh-sig-pwn",
+      "name": "Forging signed commits on GitHub",
+      "url": "https://iter.ca/post/gh-sig-pwn/",
+      "description": "A bug in GitHub's API allowed forging signed commits. By exploiting a regex flaw in an internal Codespaces API endpoint, an attacker could create commits signed by any user, despite GitHub's web flow signature.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls",
+      "name": "GitHub comments abused to push malware via Microsoft repo URLs",
+      "url": "https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/",
+      "description": "Hidden GitHub comment link.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://landh.tech/blog/20240603-npm-cache-poisoning",
+      "name": "How a Single Vulnerability Can Bring Down the JavaScript Ecosystem",
+      "url": "https://www.landh.tech/blog/20240603-npm-cache-poisoning/",
+      "description": "Cache poisoning attack on the NPM registry rendering packages unavailable.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all",
+      "name": "One Supply Chain Attack to Rule Them All – Poisoning GitHub's Runner Images",
+      "url": "https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/",
+      "description": "A critical vulnerability in GitHub Actions, involving a misconfigured self-hosted runner in the actions/runner-images repository, allowed potential compromise of all GitHub and Azure hosted runner images.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://github.com/mortenson/pr-sneaking",
+      "name": "PR sneaking",
+      "url": "https://github.com/mortenson/pr-sneaking",
+      "description": "Methods of sneaking malicious code into GitHub pull requests.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://x.com/adnanthekhan/status/1829116171045474374",
+      "name": "Remove evidence of malicious pull requests on GitHub",
+      "url": "https://x.com/adnanthekhan/status/1829116171045474374",
+      "description": "Changing account's email to block-listed domain, automatically bans the account.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://checkmarx.com/blog/starjacking-making-your-new-open-source-package-popular-in-a-snap",
+      "name": "StarJacking – Making Your New Open Source Package Popular in a Snap",
+      "url": "https://checkmarx.com/blog/starjacking-making-your-new-open-source-package-popular-in-a-snap/",
+      "description": "StarJacking is a technique where attackers make malicious open-source packages appear popular.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem",
+      "name": "The massive bug at the heart of the npm ecosystem",
+      "url": "https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem",
+      "description": "NPM Manifest Confusion.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://trojansource.codes",
+      "name": "Trojan Source",
+      "url": "https://trojansource.codes/",
+      "description": "Rather than inserting logical bugs, adversaries can attack the encoding of source code files to inject vulnerabilities.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://paloaltonetworks.com/blog/prisma-cloud/unpinnable-actions-github-security",
+      "name": "Unpinnable Actions: How Malicious Code Can Sneak into Your GitHub Actions Workflows",
+      "url": "https://www.paloaltonetworks.com/blog/prisma-cloud/unpinnable-actions-github-security/",
+      "description": "GitHub Actions, even when pinned to a commit SHA, can still pull in malicious code via mutable dependencies like Docker images, unlocked packages, or external scripts.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules",
+      "name": "Why npm lockfiles can be a security blindspot for injecting malicious modules",
+      "url": "https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/",
+      "description": "Malicious code can be injected into npm projects via lockfiles (package-lock.json or yarn.lock) because these large, machine-generated files are rarely reviewed thoroughly.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://chainguard.dev/unchained/working-as-unexpected",
+      "name": "Working as unexpected",
+      "url": "https://www.chainguard.dev/unchained/working-as-unexpected",
+      "description": "Creating a GitHub branch that matches a branch protection rule pattern with a workflow file that triggers on push to gain access to environment secrets.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://marcyoung.us/post/zuckerpunch",
+      "name": "Zuckerpunch - Abusing Self Hosted GitHub Runners at Facebook",
+      "url": "https://marcyoung.us/post/zuckerpunch/",
+      "description": "Hide commits in a GitHub PR.",
+      "section": [
+        "Techniques",
+        "Defense Evasion"
+      ]
+    },
+    {
+      "key": "https://github.com/xforcered/ADOKit",
+      "name": "ADOKit",
+      "url": "https://github.com/xforcered/ADOKit",
+      "description": "Azure DevOps Services Attack Toolkit.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/praetorian-inc/gato",
+      "name": "Gato",
+      "url": "https://github.com/praetorian-inc/gato",
+      "description": "GitHub Attack Toolkit.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/AdnaneKhan/Gato-X",
+      "name": "Gato-X",
+      "url": "https://github.com/AdnaneKhan/Gato-X",
+      "description": "GitHub Attack Toolkit - Extreme Edition.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://gharchive.org",
+      "name": "GH Archive",
+      "url": "https://www.gharchive.org/",
+      "description": "A project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://ghtorrent-downloads.ewi.tudelft.nl/mysql",
+      "name": "GHTorrent Project",
+      "url": "http://ghtorrent-downloads.ewi.tudelft.nl/mysql/",
+      "description": "A queryable offline mirror of the GitHub API data. Tutorial.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/arthaud/git-dumper",
+      "name": "git-dumper",
+      "url": "https://github.com/arthaud/git-dumper",
+      "description": "Dump Git repository from a website.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mxrch/gitfive",
+      "name": "GitFive",
+      "url": "https://github.com/mxrch/gitfive",
+      "description": "OSINT tool to investigate GitHub profiles.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://grep.app",
+      "name": "Grep.app",
+      "url": "https://grep.app/",
+      "description": "Search GitHub using regex.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Accenture/jenkins-attack-framework",
+      "name": "Jenkins Attack Framework",
+      "url": "https://github.com/Accenture/jenkins-attack-framework",
+      "description": "This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/synacktiv/nord-stream",
+      "name": "Nord Stream",
+      "url": "https://github.com/synacktiv/nord-stream",
+      "description": "A tool to extract secrets stored inside CI/CD environments.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/gquere/pwn_jenkins",
+      "name": "pwn_jenkins",
+      "url": "https://github.com/gquere/pwn_jenkins",
+      "description": "Notes about attacking Jenkins servers.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mazen160/secrets-patterns-db",
+      "name": "Secrets Patterns Database",
+      "url": "https://github.com/mazen160/secrets-patterns-db",
+      "description": "The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://sourcegraph.com/search",
+      "name": "Sourcegraph",
+      "url": "https://sourcegraph.com/search",
+      "description": "A web-based code search and navigation tool for public repositories.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://blog.projectdiscovery.io/nuclei-v2-5-3-release",
+      "name": "Token-Spray",
+      "url": "https://blog.projectdiscovery.io/nuclei-v2-5-3-release/",
+      "description": "Automate token validation using Nuclei.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/zizmorcore/zizmor",
+      "name": "zizmor",
+      "url": "https://github.com/zizmorcore/zizmor",
+      "description": "Static analysis for GitHub Actions.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://nccgroup.com/research-blog/10-real-world-stories-of-how-we-ve-compromised-cicd-pipelines",
+      "name": "10 real-world stories of how we've compromised CI/CD pipelines",
+      "url": "https://www.nccgroup.com/research-blog/10-real-world-stories-of-how-we-ve-compromised-cicd-pipelines/",
+      "description": "Examples include exploiting S3 misconfigurations, Jenkins plugin flaws, GitLab runner privilege escalations, Kubernetes pod annotation vulnerabilities, and compromised developer laptops.",
+      "section": [
+        "Case Studies"
+      ]
+    },
+    {
+      "key": "https://github.com/jstawinski/GitHub-Actions-Attack-Diagram",
+      "name": "GitHub Actions Attack Diagram",
+      "url": "https://github.com/jstawinski/GitHub-Actions-Attack-Diagram",
+      "description": "Includes public vulnerability research presented at Black Hat USA 2024 and DEF CON 32.",
+      "section": [
+        "Case Studies"
+      ]
+    },
+    {
+      "key": "https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch",
+      "name": "Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch",
+      "url": "https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/",
+      "description": "Researchers exploited a critical PyTorch vulnerability via a malicious pull request to execute code on self-hosted runners.",
+      "section": [
+        "Case Studies"
+      ]
+    },
+    {
+      "key": "https://github.com/rung/threat-matrix-cicd",
+      "name": "Common Threat Matrix for CI/CD Pipeline",
+      "url": "https://github.com/rung/threat-matrix-cicd",
+      "description": "",
+      "section": [
+        "Similar Projects"
+      ]
+    },
+    {
+      "key": "https://pbom.dev",
+      "name": "Open Software Supply Chain Attack Reference (OSC&R)",
+      "url": "https://pbom.dev/",
+      "description": "",
+      "section": [
+        "Similar Projects"
+      ]
+    },
+    {
+      "key": "https://riskexplorer.endorlabs.com",
+      "name": "Risk Explorer for Software Supply Chains",
+      "url": "https://riskexplorer.endorlabs.com/#/attack-tree",
+      "description": "",
+      "section": [
+        "Similar Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/wiz-sec-public/SITF",
+      "name": "SDLC Infrastructure Threat Framework (SITF)",
+      "url": "https://github.com/wiz-sec-public/SITF",
+      "description": "A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.",
+      "section": [
+        "Similar Projects"
+      ]
+    }
+  ]
+}

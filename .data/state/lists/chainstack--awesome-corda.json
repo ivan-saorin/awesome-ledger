@@ -1,0 +1,421 @@
+{
+  "etag": "W/\"6f8418d8d0d6eddcffa45b978faa4f7efc9e87ab1abc553b74f77ae5b4cc635f\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://docs.corda.net",
+      "name": "Documentation",
+      "url": "https://docs.corda.net/",
+      "description": "Corda documentation. The go-to place for all things.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://r3.com/reports/corda-technical-whitepaper",
+      "name": "Technical whitepaper",
+      "url": "https://www.r3.com/reports/corda-technical-whitepaper/",
+      "description": "Technical description of Corda.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://api.corda.net",
+      "name": "Corda API reference",
+      "url": "https://api.corda.net/",
+      "description": "Corda public API reference.",
+      "section": [
+        "Programming"
+      ]
+    },
+    {
+      "key": "https://docs.corda.net/getting-set-up.html",
+      "name": "Development environment",
+      "url": "https://docs.corda.net/getting-set-up.html#set-up-instructions",
+      "description": "Step-by-step instructions to start developing on Corda.",
+      "section": [
+        "Programming"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/bluebank/braid/tree/master/braid-corda",
+      "name": "Braid Corda",
+      "url": "https://gitlab.com/bluebank/braid/tree/master/braid-corda",
+      "description": "Create Braid endpoints and streams from your Corda node.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/180Protocol/codaptor",
+      "name": "Codaptor",
+      "url": "https://github.com/180Protocol/codaptor",
+      "description": "Create REST API for any CorDapp running on a Corda node automatically.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://manosbatsis.github.io/corbeans",
+      "name": "Corbeans",
+      "url": "https://manosbatsis.github.io/corbeans",
+      "description": "Corda integration for Spring Boot.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/LayerXcom/cordage",
+      "name": "Cordage",
+      "url": "https://github.com/LayerXcom/cordage",
+      "description": "Provide modules that make the interoperability possible between Corda and other blockchains without further trusted third party.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/cordalo-ch",
+      "name": "Cordalo",
+      "url": "https://github.com/cordalo-ch",
+      "description": "Provide Corda frameworks to speed up your development in the decentralized space.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://manosbatsis.github.io/corda-lean-state",
+      "name": "Corda Lean State",
+      "url": "https://manosbatsis.github.io/corda-lean-state",
+      "description": "Generate Corda Contract and Persistent states from a simplified interface.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hyperledger-labs/cordentity",
+      "name": "Cordentity",
+      "url": "https://github.com/hyperledger-labs/cordentity",
+      "description": "Integrate Hyperledger Indy capabilities into Corda.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/chainstack/awesome-corda",
+      "name": "DAML for Corda",
+      "url": "https://github.com/chainstack/awesome-corda",
+      "description": "DAML smart contracts for Corda.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://corda.net/demobench",
+      "name": "DemoBench",
+      "url": "https://www.corda.net/demobench/",
+      "description": "A standalone desktop app to configure and launch local Corda nodes.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://docs.chainstack.com/operations/corda/tools",
+      "name": "Interact with nodes",
+      "url": "https://docs.chainstack.com/operations/corda/tools",
+      "description": "Interact with your Corda nodes through a standalone shell, from an app, or a web server.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://chainstack.com/corda",
+      "name": "Nodes and networks deployment with Chainstack",
+      "url": "https://chainstack.com/corda/",
+      "description": "Easy Corda nodes and networks deployment.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://manosbatsis.github.io/partiture",
+      "name": "Partiture",
+      "url": "https://manosbatsis.github.io/partiture/",
+      "description": "A compact component framework for your CorDapps. Currently, its primary goal is to simplify flow composition.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/chainhaus/pycorda",
+      "name": "PyCorda",
+      "url": "https://github.com/chainhaus/pycorda",
+      "description": "Access node and vault data for analytics using pandas DataFrames.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://manosbatsis.github.io/corda-rpc-poolboy",
+      "name": "RPC PoolBoy",
+      "url": "https://manosbatsis.github.io/corda-rpc-poolboy/",
+      "description": "RPC connection pool with support for multiple Corda nodes.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://accordproject.org/news/smart-legal-contracts-on-corda",
+      "name": "Smart legal contracts with Accord",
+      "url": "https://www.accordproject.org/news/smart-legal-contracts-on-corda/",
+      "description": "A reference implementation for smart legal contracts on Corda.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/manosbatsis/corda-testacles",
+      "name": "Testacles",
+      "url": "https://github.com/manosbatsis/corda-testacles",
+      "description": "Tools to grow CorDapp test suites.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://manosbatsis.github.io/vaultaire",
+      "name": "Vaultaire",
+      "url": "https://manosbatsis.github.io/vaultaire/",
+      "description": "Query DSL and data access utilities for Corda developers.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/corda/vscode-corda",
+      "name": "VS Code Corda extension",
+      "url": "https://github.com/corda/vscode-corda",
+      "description": "VS Code tools for developing CorDapps on the Corda platform.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://corda.web3j.io",
+      "name": "Web3j integration for Corda",
+      "url": "http://corda.web3j.io/",
+      "description": "A lightweight client library for working with CorDapps.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://cordite.foundation",
+      "name": "XTS Fountain",
+      "url": "https://cordite.foundation/",
+      "description": "Mint XTS tokens and send them to a token account on a Corda node.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/splunkdlt/splunk-app-for-corda",
+      "name": "Splunk App for Corda",
+      "url": "https://github.com/splunkdlt/splunk-app-for-corda",
+      "description": "Splunk official integration app for Corda monitoring.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://docs.corda.net/tutorials-index.html",
+      "name": "Official Corda tutorials",
+      "url": "https://docs.corda.net/tutorials-index.html",
+      "description": "Learn to build and run CorDapps.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/corda/samples",
+      "name": "Sample CorDapps",
+      "url": "https://github.com/corda/samples/",
+      "description": "Explore the code of sample CorDapps targeting various uses.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda",
+      "name": "No ticket scalping CorDapp",
+      "url": "https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda",
+      "description": "Build, run, and interact with a CorDapp from scratch.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://medium.com/@manosbatsis/vaultaire-corda-vault-queries-made-simple-d13db4147298",
+      "name": "Vaultaire: Corda Vault Queries Made Simple",
+      "url": "https://medium.com/@manosbatsis/vaultaire-corda-vault-queries-made-simple-d13db4147298",
+      "description": "Upgrade to a clean and easy to use query DSL generated just for you.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://training.corda.net",
+      "name": "Official Corda Training Platform",
+      "url": "https://training.corda.net/",
+      "description": "Free training platform maintained by R3 (Corda + SDKs). Self-paced with optional support.",
+      "section": [
+        "Learning and online courses"
+      ]
+    },
+    {
+      "key": "https://udemy.com/course/corda-development",
+      "name": "Introduction to Corda Development",
+      "url": "https://www.udemy.com/course/corda-development/",
+      "description": "A free self-paced online course.",
+      "section": [
+        "Learning and online courses"
+      ]
+    },
+    {
+      "key": "https://r3.com/training-and-certification",
+      "name": "Corda developer certification",
+      "url": "https://www.r3.com/training-and-certification/",
+      "description": "Become a certified Corda developer.",
+      "section": [
+        "Learning and online courses"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLi1PppB3-YrVq5Qy_RM9Qidq0eh-nL11N",
+      "name": "Corda Bootcamp",
+      "url": "https://www.youtube.com/playlist?list=PLi1PppB3-YrVq5Qy_RM9Qidq0eh-nL11N",
+      "description": "A playlist of 20 videos for Corda beginners.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/cordite/cordite",
+      "name": "Cordite",
+      "url": "https://gitlab.com/cordite/cordite",
+      "description": "A collection of CorDapps providing decentralized economics and governance services.",
+      "section": [
+        "CorDapps"
+      ]
+    },
+    {
+      "key": "https://github.com/rafaelazeredo/creditbank",
+      "name": "Credit scoring",
+      "url": "https://github.com/rafaelazeredo/creditbank",
+      "description": "A credit scoring service between the user and retail banks.",
+      "section": [
+        "CorDapps"
+      ]
+    },
+    {
+      "key": "https://github.com/ashutoshmeher-r3/auction-cordapp",
+      "name": "Auction",
+      "url": "https://github.com/ashutoshmeher-r3/auction-cordapp",
+      "description": "A demo auction CorDapp.",
+      "section": [
+        "CorDapps"
+      ]
+    },
+    {
+      "key": "https://github.com/corda-codeclub/marge",
+      "name": "Private health insurance management",
+      "url": "https://github.com/corda-codeclub/marge",
+      "description": "A private health insurance CorDapp.",
+      "section": [
+        "CorDapps"
+      ]
+    },
+    {
+      "key": "https://github.com/joeldudleyr3/olive-oyl",
+      "name": "Sustainable fishing rights",
+      "url": "https://github.com/joeldudleyr3/olive-oyl",
+      "description": "A CorDapp to manage fishing rights.",
+      "section": [
+        "CorDapps"
+      ]
+    },
+    {
+      "key": "https://corda.network",
+      "name": "Corda Network",
+      "url": "https://corda.network/",
+      "description": "A global production network run by the Corda Network Foundation.",
+      "section": [
+        "Networks"
+      ]
+    },
+    {
+      "key": "https://corda.network/participation/preprod.html",
+      "name": "Corda Pre-Production Network",
+      "url": "https://corda.network/participation/preprod.html",
+      "description": "A UAT network providing a pre-production environment run by the Corda Network Foundation.",
+      "section": [
+        "Networks"
+      ]
+    },
+    {
+      "key": "https://docs.corda.net/corda-testnet-intro.html",
+      "name": "Corda Testnet",
+      "url": "https://docs.corda.net/corda-testnet-intro.html",
+      "description": "A free public testnet with minimal permissions run by the the Corda Network Foundation.",
+      "section": [
+        "Networks"
+      ]
+    },
+    {
+      "key": "https://slack.corda.net",
+      "name": "Slack",
+      "url": "http://slack.corda.net/",
+      "description": "Talk to the Corda community.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://groups.io/g/corda-dev",
+      "name": "Mailing list",
+      "url": "https://groups.io/g/corda-dev",
+      "description": "Join the Corda developers mailing list.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://meetup.com/Corda-Code-Club",
+      "name": "Corda Code Club",
+      "url": "https://www.meetup.com/Corda-Code-Club/",
+      "description": "Corda Developer Meetup in London.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://lankydan.dev",
+      "name": "Corda developer blog",
+      "url": "https://lankydan.dev",
+      "description": "A very helpful blog from a Corda developer.",
+      "section": [
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://corda.net",
+      "name": "Corda website",
+      "url": "https://www.corda.net/",
+      "description": "",
+      "section": [
+        "Official"
+      ]
+    }
+  ]
+}

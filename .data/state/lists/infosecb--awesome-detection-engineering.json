@@ -1,0 +1,682 @@
+{
+  "etag": "W/\"5e813b783ee7fd04f76a9b5969753eb537f05eaea2070aac87f7869160b397b3\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://attack.mitre.org",
+      "name": "MITRE ATT&CK",
+      "url": "https://attack.mitre.org/",
+      "description": "The foundational framework of adversary tactics, techniques, and procedures based on real-world observations.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/palantir/alerting-detection-strategy-framework",
+      "name": "Alerting and Detection Strategies (ADS) Framework | Palantir",
+      "url": "https://github.com/palantir/alerting-detection-strategy-framework",
+      "description": "A blueprint for creating and documenting effective detection content.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://detectionengineering.io",
+      "name": "Detection Engineering Maturity Matrix | Kyle Bailey",
+      "url": "https://detectionengineering.io",
+      "description": "A detailed matrix that serves as a tool to measure the overall maturity of an organization's Detection Engineering program.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html",
+      "name": "Detection Maturity Level (DML) Model | Ryan Stillions",
+      "url": "http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html",
+      "description": "Defines and describes 8 different levels of an organization's threat detection program maturity.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html",
+      "name": "The Pyramid of Pain | David J Bianco",
+      "url": "http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html",
+      "description": "A model used to describe various categorizations of indicator's of compromise and their level of effectiveness in detecting threat actors.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html",
+      "name": "Cyber Kill Chain | Lockheed Martin",
+      "url": "https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html",
+      "description": "Lockheed Martin's framework that outlines the 7 stages commonly observed in a cyber attack.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://betaalvereniging.nl/wp-content/uploads/2026/03/FI-ISAC-use-case-framework-verkorte-versie.pdf",
+      "name": "MaGMa (Management, Growth and Metrics & Assessment) Use Case Defintion Model",
+      "url": "https://www.betaalvereniging.nl/wp-content/uploads/2026/03/FI-ISAC-use-case-framework-verkorte-versie.pdf",
+      "description": "A business-centric approach for defining threat detection use cases.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/splunk/salo",
+      "name": "Synthetic Adversarial Log Objects (SALO) | Splunk",
+      "url": "https://github.com/splunk/salo",
+      "description": "Synthetic Adversarial Log Objects (SALO) is a framework for the generation of log events without the need for infrastructure or actions to initiate the event that causes a log event.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://br0k3nlab.com/resources/zen-of-security-rules",
+      "name": "The Zen of Security Rules | Justin Ibarra",
+      "url": "https://br0k3nlab.com/resources/zen-of-security-rules/",
+      "description": "Outlines 19 aphorisms that serve as universal principles for the creation of high quality detection content.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://sansorg.egnyte.com/dl/KTc16ldiqv",
+      "name": "Blue-team-as-Code - the Spiral of Joy | Den Iuzvyk, Oleg Kolesnikov",
+      "url": "https://sansorg.egnyte.com/dl/KTc16ldiqv",
+      "description": "Blue-Team-as-Code: Lessons From Real-world Red Team Detection Automation Using Logs.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc",
+      "name": "Detection Development Lifecycle | Haider Dost et al.",
+      "url": "https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc",
+      "description": "Snowflake’s implementation of the Detection Development Lifecycle.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc",
+      "name": "Threat Detection Maturity Framework | Haider Dost of Snowflake",
+      "url": "https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc",
+      "description": "A maturity matrix to measure the success of your threat detection program.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://elastic.co/security-labs/elastic-releases-debmm",
+      "name": "Elastic's Detection Engineering Behavior Maturity Model",
+      "url": "https://www.elastic.co/security-labs/elastic-releases-debmm",
+      "description": "Elastic's qualitative and quantitative approach to measuring threat detection program maturity.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://infosecb.github.io/detection-engineering-ai-maturity",
+      "name": "Detection Engineering AI Maturity Framework | Brendan Chamberlain",
+      "url": "https://infosecb.github.io/detection-engineering-ai-maturity/",
+      "description": "A community framework with four maturity levels across ten dimensions for assessing how organizations apply AI and LLMs across a detection engineering program, from foundations through the detection lifecycle.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051",
+      "name": "Prioritizing Detection Engineering | Ryan McGeehan",
+      "url": "https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051",
+      "description": "A longtime detection engineer outlines how a detection engineering program should be built from the ground up.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://detectionengineering.net/s/field-manual",
+      "name": "Detection Engineering Field Manual | Zack Allen",
+      "url": "https://www.detectionengineering.net/s/field-manual",
+      "description": "a series of posts exploring the various foundational components of Detection Engineering.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenTideHQ",
+      "name": "Open Threat Informed Detection Engineering aka OpenTide'",
+      "url": "https://github.com/OpenTideHQ",
+      "description": "an all-in-one Detection Engineering Operations framework created and maintained by the European Commission to convert your CTI into an actionable detection coverage graph combining threat vectors with detection objectives, and manage your entire detection library from a central repository with a detection-as-code deployment system. The OpenTide format aims at measuring and expanding detection coverage, and its rule deployment engine is fully extensible and support multiple platforms in parallel (leveraging all the technology features and native query language). OpenTide works both within a single DE team as a main framework, and across SOC as a common format to facilitate data interexchange.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/anpa1200/threatmapper",
+      "name": "ThreatMapper | Andrey Pautov",
+      "url": "https://github.com/anpa1200/threatmapper",
+      "description": "CTI-to-detection workbench for mapping threat reports to ATT&CK, comparing TTP overlap with groups and campaigns, identifying detection gaps, and exporting analyst-ready outputs.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/rolandpg/zettelforge",
+      "name": "ZettelForge",
+      "url": "https://github.com/rolandpg/zettelforge",
+      "description": "Agentic memory system that treats Sigma and YARA rules as first-class memory entities, with an LLM rule explainer, STIX 2.1 knowledge graph of CTI entities, and offline-first RAG to connect rules to the actors and techniques they detect. Python, MIT.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://rulehound.com",
+      "name": "Rulehound",
+      "url": "https://rulehound.com",
+      "description": "An index of publicly available and open-source threat detection rulesets.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://car.mitre.org",
+      "name": "MITRE Cyber Analytics Repository (CAR)",
+      "url": "https://car.mitre.org",
+      "description": "MITRE's well-maintained repository of detection content.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://car.mitre.org/coverage",
+      "name": "CAR Coverage Comparision",
+      "url": "https://car.mitre.org/coverage/",
+      "description": "A matrix of MITRE ATT&CK technique IDs and links to available Splunk Security Content, Elastic detection rules, Sigma rules, and CAR content.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/SigmaHQ/sigma",
+      "name": "Sigma Rules",
+      "url": "https://github.com/SigmaHQ/sigma",
+      "description": "Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://sigconverter.io",
+      "name": "Sigma rule converter",
+      "url": "https://sigconverter.io/",
+      "description": "An opensource tool that can convert detection content for use with most SIEMs.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/timescale/rsigma",
+      "name": "RSigma | Timescale",
+      "url": "https://github.com/timescale/rsigma",
+      "description": "A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://attackrulemap.com",
+      "name": "AttackRuleMap",
+      "url": "https://attackrulemap.com",
+      "description": "Mapping of open-source detection rules and atomic tests.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/splunk/security_content",
+      "name": "Splunk Security Content",
+      "url": "https://github.com/splunk/security_content",
+      "description": "Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/elastic/detection-rules/tree/main/rules",
+      "name": "Elastic Detection Rules",
+      "url": "https://github.com/elastic/detection-rules/tree/main/rules",
+      "description": "Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/elastic/protections-artifacts/tree/main/behavior/rules",
+      "name": "Elastic Endpoint Behavioral Rules",
+      "url": "https://github.com/elastic/protections-artifacts/tree/main/behavior/rules",
+      "description": "Elastic's endpoint behavioral (prevention) rules written in EQL, natively for the Elastic endpoint agent.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+      "name": "Agent Threat Rules (ATR)",
+      "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+      "description": "An open MIT detection-rule standard for AI-agent and MCP attacks (prompt injection, tool poisoning, context exfiltration), like Sigma or YARA for the agent layer, with OWASP LLM/Agentic and MITRE ATLAS mappings on each rule.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/elastic/protections-artifacts/tree/main/yara/rules",
+      "name": "Elastic Yara Signatures",
+      "url": "https://github.com/elastic/protections-artifacts/tree/main/yara/rules",
+      "description": "Elastic's YARA signatures, which run on the Elastic endpoint agent.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua",
+      "name": "Elastic Endpoint Ransomware Artifact",
+      "url": "https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua",
+      "description": "Elastic's ranswomware artifact, which runs on the Elastic endpoint agent.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/chronicle/detection-rules",
+      "name": "Chronicle (GCP) Detection Rules",
+      "url": "https://github.com/chronicle/detection-rules",
+      "description": "Chronicle's detection rules written natively for the the Chronicle Platform.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/ExabeamLabs/Content-Library-CIM2",
+      "name": "Exabeam Content Library",
+      "url": "https://github.com/ExabeamLabs/Content-Library-CIM2",
+      "description": "Exabeam's out of the box detection content compatible with the Exabeam Common Information Model.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/panther-labs/panther-analysis/tree/main/rules",
+      "name": "Panther Labs Detection Rules",
+      "url": "https://github.com/panther-labs/panther-analysis/tree/main/rules",
+      "description": "Panther Lab's native detection rules.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/anvilogic-forge/armory",
+      "name": "Anvilogic Detection Armory",
+      "url": "https://github.com/anvilogic-forge/armory",
+      "description": "Anvilogic's opensource and publicly available detection content.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html",
+      "name": "AWS GuardDuty Findings",
+      "url": "https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html",
+      "description": "A list of all AWS GuardDuty Findings, their descriptions, and associated data sources.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://docs.cloud.google.com/security-command-center/docs/concepts-security-sources",
+      "name": "GCP Security Command Center Findings",
+      "url": "https://docs.cloud.google.com/security-command-center/docs/concepts-security-sources#threats",
+      "description": "A list of all GCP Security Command Center Findings, their descriptions, and associated data sources.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference",
+      "name": "Azure Defender for Cloud Security Alerts",
+      "url": "https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference",
+      "description": "A list of all Azure Security for Cloud Alerts, their descriptions, and associated data sources.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/center-for-threat-informed-defense/security-stack-mappings",
+      "name": "Center for Threat Informed Defense Security Stack Mappings",
+      "url": "https://github.com/center-for-threat-informed-defense/security-stack-mappings",
+      "description": "Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mapings to the MITRE ATT&CK framework.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/west-wind/Threat-Hunting-With-Splunk",
+      "name": "Detection Engineering with Splunk",
+      "url": "https://github.com/west-wind/Threat-Hunting-With-Splunk",
+      "description": "A GitHub repo dedicated to sharing detection analytics in SPL.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/GoogleCloudPlatform/security-analytics",
+      "name": "Google Cloud Security Analytics",
+      "url": "https://github.com/GoogleCloudPlatform/security-analytics",
+      "description": "This repository serves as a community-driven list of sample security analytics for auditing cloud usage and for detecting threats to your data & workloads in Google Cloud.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules",
+      "name": "KQL Advanced Hunting Queries & Analytics Rules",
+      "url": "https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules",
+      "description": "A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/Khadinxc/Sigma2KQL",
+      "name": "Sigma2KQL",
+      "url": "https://github.com/Khadinxc/Sigma2KQL",
+      "description": "A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://github.com/Khadinxc/TerraSigma",
+      "name": "TerraSigma",
+      "url": "https://github.com/Khadinxc/TerraSigma",
+      "description": "A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://detections-digest.rulecheck.io",
+      "name": "Detections Digest | Sergey Polzunov",
+      "url": "https://detections-digest.rulecheck.io",
+      "description": "A newsletter that features updates from many popular detection content sources listed here.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://malwarearchaeology.com/cheat-sheets",
+      "name": "Windows Logging Cheatsheets",
+      "url": "https://www.malwarearchaeology.com/cheat-sheets",
+      "description": "Multiple cheatsheets outlined recommendations for Windows Event logging at various levels of granularity.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/Neo23x0/auditd/blob/master/audit.rules",
+      "name": "Linux auditd Detection Ruleset",
+      "url": "https://github.com/Neo23x0/auditd/blob/master/audit.rules",
+      "description": "Linux auditd ruleset that produces telemetry required for threat detection use cases.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f",
+      "name": "MITRE ATT&CK Data Sources Blog Post",
+      "url": "https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f",
+      "description": "MITRE describes various data sources and how they relate to the TTPs found in the MITRE ATT&CK framework.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://attack.mitre.org/datasources",
+      "name": "MITRE ATT&CK Data Sources List",
+      "url": "https://attack.mitre.org/datasources/",
+      "description": "Data source objects added to MITRE ATT&CK as part of v10.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://docs.splunk.com/Documentation/CIM/5.0.0/User/Overview",
+      "name": "Splunk Common Information Model (CIM)",
+      "url": "https://docs.splunk.com/Documentation/CIM/5.0.0/User/Overview",
+      "description": "Splunk's proprietary model used as a framework for normalizing security data.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://elastic.co/docs/reference/ecs/ecs-getting-started",
+      "name": "Elastic Common Schema",
+      "url": "https://www.elastic.co/docs/reference/ecs/ecs-getting-started",
+      "description": "Elastic's proprietary model used as a framework for normalizing security data.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/ExabeamLabs/CIMLibrary",
+      "name": "Exabeam Common Information Model",
+      "url": "https://github.com/ExabeamLabs/CIMLibrary",
+      "description": "Exabeam's proprietary model used as a framework for normalizing security data.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://schema.ocsf.io/categories?extensions",
+      "name": "Open Cybersecurity Schema Framework (OCSF)",
+      "url": "https://schema.ocsf.io/categories?extensions",
+      "description": "An opensource security data source and event schema.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://osquery.io",
+      "name": "osquery | Facebook",
+      "url": "https://osquery.io",
+      "description": "A SQL-powered operating system instrumentation, monitoring, and analytics framework that exposes OS data as relational tables for querying and detection.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/logpai/loghub",
+      "name": "Loghub",
+      "url": "https://github.com/logpai/loghub",
+      "description": "Opensource and freely available security data sources for research and testing.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/YelpArchive/elastalert",
+      "name": "Elastalert | Yelp",
+      "url": "https://github.com/YelpArchive/elastalert",
+      "description": "ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/matanolabs/matano",
+      "name": "Matano",
+      "url": "https://github.com/matanolabs/matano",
+      "description": "Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables",
+      "name": "Microsoft XDR Advanced Hunting Schema",
+      "url": "https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables",
+      "description": "To help with multi-table queries, you can use the advanced hunting schema, which includes tables and columns with event information and details about devices, alerts, identities, and other entity types.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/InnerWarden/innerwarden",
+      "name": "InnerWarden",
+      "url": "https://github.com/InnerWarden/innerwarden",
+      "description": "Autonomous security agent for Linux with real-time threat detection and response via 38 eBPF hooks, 48 detectors, and 23 correlation rules.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/Karib0u/rustinel",
+      "name": "Rustinel | Karib0u",
+      "url": "https://github.com/Karib0u/rustinel",
+      "description": "Open-source endpoint detection engine for Windows and Linux that collects ETW/eBPF telemetry and evaluates Sigma, YARA, and IOC detections.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/soctalk/soctalk",
+      "name": "SOCTalk",
+      "url": "https://github.com/soctalk/soctalk",
+      "description": "Open source, LLM driven SOC automation platform for MSPs and MSSPs built on Wazuh. Triages, investigates, and escalates alerts through a two tier AI pipeline with human in the loop review, multi tenant isolation, and a no code triage policy editor backed by deterministic execution. Apache 2.0.",
+      "section": [
+        "Logging, Monitoring & Data Sources"
+      ]
+    },
+    {
+      "key": "https://mitre-attack.github.io/attack-navigator/enterprise",
+      "name": "ATT&CK Navigator | MITRE",
+      "url": "https://mitre-attack.github.io/attack-navigator/enterprise/",
+      "description": "MITRE's open-source tool that can be used to track detection coverage, visibility, and other efforts and their relationship to the ATT&CK framework.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://detectionengineering.net",
+      "name": "Detection Engineering Weekly | Zack Allen",
+      "url": "https://www.detectionengineering.net",
+      "description": "A newsletter dedicated to news and how-tos for Detection Engineering.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://x.com/i/lists/1629936556298436608",
+      "name": "Detection Engineering Twitter List | Zack Allen",
+      "url": "https://x.com/i/lists/1629936556298436608",
+      "description": "A Twitter list of Detection Engineering thought leaders.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack",
+      "name": "DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™",
+      "url": "https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack",
+      "description": "Outlines a methodology measuring security data visibility and detection coverage against the MITRE ATT&CK framework.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/jatrost/awesome-kubernetes-threat-detection",
+      "name": "Awesome Kubernetes (K8s) Threat Detection",
+      "url": "https://github.com/jatrost/awesome-kubernetes-threat-detection",
+      "description": "Another Awesome List dedicated to Kubernetes (K8s) threat detection.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/0x4D31/detection-and-response-pipeline",
+      "name": "Detection and Response Pipeline",
+      "url": "https://github.com/0x4D31/detection-and-response-pipeline",
+      "description": "A list of tools for each component of a detection and response pipeline which includes real-world examples.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://lolol.farm",
+      "name": "Living Off the Living Off the Land",
+      "url": "https://lolol.farm",
+      "description": "A collection of resources for thriving off the land.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270",
+      "name": "Detection at Scale Podcast | Jack Naglieri",
+      "url": "https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270",
+      "description": "A detection engineering-focused podcast featuring many thought leaders in the specialization.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://threats.wiz.io/all-techniques",
+      "name": "Cloud Threat Landscape | Wiz",
+      "url": "https://threats.wiz.io/all-techniques",
+      "description": "A cloud detection engineering-focused database, that lists threat actors known to have compromised cloud environments, the tools and techniques in their arsenal, and the technologies they prefer to target.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://1200km.com/cti-analyst-field-manual",
+      "name": "CTI Analyst Field Manual | Andrey Pautov",
+      "url": "https://1200km.com/cti-analyst-field-manual/",
+      "description": "Practical CTI-to-detection reference covering evidence labels, source reliability, ATT&CK mapping gates, hunting hypotheses, and detection backlog workflow.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/inodee/threathunting-spl/blob/master/Splunk%20ES%20Correlation%20Searches%20Best%20Practices%20v1.3.pdf",
+      "name": "Splunk ES Correlation Searches Best Practices | OpsTune",
+      "url": "https://github.com/inodee/threathunting-spl/blob/master/Splunk%20ES%20Correlation%20Searches%20Best%20Practices%20v1.3.pdf",
+      "description": "A highly detailed guide to producing high quality detection content in the Splunk Enterprise Security app.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://cloud.google.com/transform/how-google-does-it-modernizing-threat-detection",
+      "name": "How Google Does It: Making threat detection high-quality, scalable, and modern | Anton Chuvakin, Tim Nguyen",
+      "url": "https://cloud.google.com/transform/how-google-does-it-modernizing-threat-detection",
+      "description": "The team at Google highlights 5 key principles for building a high quality, scalable and modern threat detection program.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://soc-labs.top",
+      "name": "SOCLabs",
+      "url": "https://www.soc-labs.top/",
+      "description": "A lab for blue teamers and detection engineers, with real threat data and support for popular SIEM query languages, enabling hands-on learning and practice in detection rule writing and threat hunting.",
+      "section": [
+        "General Resources"
+      ]
+    }
+  ]
+}

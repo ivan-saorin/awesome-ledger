@@ -1,0 +1,1393 @@
+{
+  "etag": "W/\"fcd2caa59f793392cbf19a9ac4df6bba693dbbb6995235ccade4c94dd6d703b0\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/vulpemventures/nigiri",
+      "name": "Nigiri",
+      "url": "https://github.com/vulpemventures/nigiri/",
+      "description": "CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/stevenroose/hal",
+      "name": "hal",
+      "url": "https://github.com/stevenroose/hal",
+      "description": "Bitcoin CLI swiss-army-knife (based on rust-bitcoin).",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://bitkey.io",
+      "name": "BitKey",
+      "url": "https://bitkey.io",
+      "description": "Live USB for airgapped transactions and Bitcoin swiss army knife.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/boazeb/papervault",
+      "name": "PaperVault",
+      "url": "https://github.com/boazeb/papervault",
+      "description": "Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/richardkiss/pycoin",
+      "name": "Pycoin",
+      "url": "https://github.com/richardkiss/pycoin",
+      "description": "Python-based Bitcoin and alt-coin utility library.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/libbitcoin/libbitcoin-explorer",
+      "name": "bx",
+      "url": "https://github.com/libbitcoin/libbitcoin-explorer",
+      "description": "Bitcoin Command Line Tool.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://deadhandprotocol.com",
+      "name": "Deadhand Protocol",
+      "url": "https://deadhandprotocol.com",
+      "description": "Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/tsileo/txwatcher",
+      "name": "txwatcher",
+      "url": "https://github.com/tsileo/txwatcher",
+      "description": "A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/prettymuchbryce/hellobitcoin",
+      "name": "hellobitcoin",
+      "url": "https://github.com/prettymuchbryce/hellobitcoin",
+      "description": "A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://yogh.io/landing",
+      "name": "Mining visualization",
+      "url": "https://yogh.io/landing/",
+      "description": "",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/alexk111/HD-Wallet-Scanner",
+      "name": "HD Wallet Scanner",
+      "url": "https://github.com/alexk111/HD-Wallet-Scanner",
+      "description": "Find all used addresses in your Bitcoin HD wallets bypassing gap limits.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/bitjson/qr-code",
+      "name": "<qr-code>",
+      "url": "https://github.com/bitjson/qr-code",
+      "description": "A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> web component.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/tombennet/bitcoin-serverless-donations",
+      "name": "Bitcoin Serverless Donations",
+      "url": "https://github.com/tombennet/bitcoin-serverless-donations",
+      "description": "Self-custodial serverless donation widget with address rotation derived from an XPUB.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/douvy/btc-tooling",
+      "name": "BTC Tooling",
+      "url": "https://github.com/douvy/btc-tooling",
+      "description": "Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. Live Demo",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://chartscout.io",
+      "name": "Chartscout",
+      "url": "https://chartscout.io",
+      "description": "Real-time BTC chart pattern detection and trading alerts across multiple exchanges.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://bitcoinbottom.app",
+      "name": "Bitcoin Bottom Score",
+      "url": "https://bitcoinbottom.app",
+      "description": "Real-time Bitcoin cycle bottom probability tracker. Aggregates 25 on-chain and macro signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, ETF flows) into a daily P(bottom) score. Free, updated twice daily.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/paranoid-qrypto/btc-airgap-bridge",
+      "name": "BTC Airgap Bridge",
+      "url": "https://github.com/paranoid-qrypto/btc-airgap-bridge",
+      "description": "100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/8144225309/superscalar-mcp",
+      "name": "SuperScalar MCP",
+      "url": "https://github.com/8144225309/superscalar-mcp",
+      "description": "MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/singularityjason/lightning-memory",
+      "name": "Lightning Memory",
+      "url": "https://github.com/singularityjason/lightning-memory",
+      "description": "Open-source memory layer for AI agents in the Bitcoin/Lightning economy. L402 payment gateway, vendor reputation, spending anomaly detection.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://cryptocalk.com",
+      "name": "CryptoCalk",
+      "url": "https://cryptocalk.com",
+      "description": "Bitcoin profitability and on-chain calculators: ASIC/GPU mining ROI, hash rate converter, halving countdown, Mayer Multiple, Stock-to-Flow (S2F), Rainbow chart, profit/loss, DCA simulator, tax estimator, liquidation price. Client-side, no signup, available in 6 languages.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://freedomclock.io",
+      "name": "Freedom Clock",
+      "url": "https://freedomclock.io",
+      "description": "Bitcoin-aware FIRE calculator with sell, borrow, and borrow-then-sell spend models. Converts savings and BTC holdings into years of financial freedom. Fully local, no account, MIT. Also an open-source e-ink desk device (~$30).",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://dont-trust-verify.com",
+      "name": "dont-trust-verify",
+      "url": "https://dont-trust-verify.com",
+      "description": "Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://3xpl.com",
+      "name": "3xpl.com",
+      "url": "https://3xpl.com/",
+      "description": "Fastest ad-free universal block explorer.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://bitquery.io",
+      "name": "Bitquery.io",
+      "url": "https://bitquery.io/",
+      "description": "Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://block.io",
+      "name": "block.io",
+      "url": "https://block.io",
+      "description": "",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://blockchair.com",
+      "name": "blockchair.com",
+      "url": "https://blockchair.com/",
+      "description": "Universal blockchain explorer and search engine.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://blockcypher.com",
+      "name": "BlockCypher",
+      "url": "https://www.blockcypher.com",
+      "description": "",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://github.com/Blockstream/esplora",
+      "name": "Esplora",
+      "url": "https://github.com/Blockstream/esplora",
+      "description": "Self-hosted blockchain explorer.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://insight.is",
+      "name": "Insight",
+      "url": "https://insight.is",
+      "description": "",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://chain.com",
+      "name": "Chain.com",
+      "url": "https://chain.com",
+      "description": "",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://wallet.coinbase.com",
+      "name": "Coinbase Wallet",
+      "url": "https://wallet.coinbase.com/",
+      "description": "",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://github.com/yasaricli/chainradar-api",
+      "name": "Chainradar API",
+      "url": "https://github.com/yasaricli/chainradar-api",
+      "description": "Blockchain Explorer API for Chainradar.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://github.com/alexk111/One-Time-Address",
+      "name": "One-Time Address",
+      "url": "https://github.com/alexk111/One-Time-Address",
+      "description": "A better way to share your Bitcoin address.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://cryptocurrencyalerting.com/blockchain-alerts.html",
+      "name": "Cryptocurrency Alerting",
+      "url": "https://cryptocurrencyalerting.com/blockchain-alerts.html",
+      "description": "Bitcoin wallet monitoring and blockchain alerts.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://developers.particle.network/reference/introduction-to-btc-connect",
+      "name": "BTC Connect",
+      "url": "https://developers.particle.network/reference/introduction-to-btc-connect",
+      "description": "Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://tatum.io/blockchain-api",
+      "name": "Tatum",
+      "url": "https://tatum.io/blockchain-api",
+      "description": "The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://mempool.space/docs/api/rest",
+      "name": "mempool.space",
+      "url": "https://mempool.space/docs/api/rest",
+      "description": "Open source and self hostable REST, WebSocket and Electrum RPC API",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://bitview.space",
+      "name": "Bitview",
+      "url": "https://bitview.space/",
+      "description": "An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://gomaestro.org",
+      "name": "Maestro",
+      "url": "https://www.gomaestro.org/",
+      "description": "A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://onfinality.io/en/networks/bitcoin",
+      "name": "OnFinality",
+      "url": "https://onfinality.io/en/networks/bitcoin",
+      "description": "Bitcoin RPC endpoints and API access for dApps, wallets, analytics, and backend services.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://coingapradar.com",
+      "name": "CoinGapRadar",
+      "url": "https://coingapradar.com",
+      "description": "Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.",
+      "section": [
+        "Market Data API"
+      ]
+    },
+    {
+      "key": "https://docs.coinmetrics.io",
+      "name": "CoinMetrics.io",
+      "url": "https://docs.coinmetrics.io/",
+      "description": "JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.",
+      "section": [
+        "Market Data API"
+      ]
+    },
+    {
+      "key": "https://api.coinpaprika.com",
+      "name": "CoinPaprika",
+      "url": "https://api.coinpaprika.com",
+      "description": "Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.",
+      "section": [
+        "Market Data API"
+      ]
+    },
+    {
+      "key": "https://messari.io/api",
+      "name": "Messari.io",
+      "url": "https://messari.io/api",
+      "description": "JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.",
+      "section": [
+        "Market Data API"
+      ]
+    },
+    {
+      "key": "https://prereason.com",
+      "name": "PreReason",
+      "url": "https://www.prereason.com",
+      "description": "Pre-analyzed Bitcoin market briefings via REST API. Covers BTC price, hash rate, difficulty, mining production costs, treasury holdings (30 public companies), and macro signals that move Bitcoin (Fed balance sheet, M2, Treasury yields). Returns trend direction, confidence scores, and regime classification instead of raw numbers. Free tier available.",
+      "section": [
+        "Market Data API"
+      ]
+    },
+    {
+      "key": "https://developers.bitgo.com",
+      "name": "BitGo",
+      "url": "https://developers.bitgo.com",
+      "description": "",
+      "section": [
+        "Wallets API"
+      ]
+    },
+    {
+      "key": "https://developers.coinbase.com",
+      "name": "Coinbase",
+      "url": "https://developers.coinbase.com",
+      "description": "",
+      "section": [
+        "Wallets API"
+      ]
+    },
+    {
+      "key": "https://blockchain.com/api",
+      "name": "Blockchain.com",
+      "url": "https://www.blockchain.com/api",
+      "description": "",
+      "section": [
+        "Wallets API"
+      ]
+    },
+    {
+      "key": "https://bip32.org",
+      "name": "BIP32",
+      "url": "http://bip32.org",
+      "description": "",
+      "section": [
+        "Wallets API"
+      ]
+    },
+    {
+      "key": "https://pinestreetlabs.com/walletos",
+      "name": "walletOS",
+      "url": "https://www.pinestreetlabs.com/walletos/",
+      "description": "",
+      "section": [
+        "Wallets API"
+      ]
+    },
+    {
+      "key": "https://bluewallet.io",
+      "name": "Blue Wallet",
+      "url": "https://bluewallet.io/",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://copay.io",
+      "name": "CoPay by BitPay",
+      "url": "https://copay.io/",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://coinb.in",
+      "name": "Coinb.in",
+      "url": "https://coinb.in",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://coin.space",
+      "name": "Coin Wallet",
+      "url": "https://coin.space/",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://electrum.org",
+      "name": "Electrum",
+      "url": "https://electrum.org/",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://blockstream.com/green",
+      "name": "Green",
+      "url": "https://blockstream.com/green/",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://sparrowwallet.com",
+      "name": "Sparrow",
+      "url": "https://sparrowwallet.com/",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://wasabiwallet.io",
+      "name": "Wasabi Wallet",
+      "url": "https://wasabiwallet.io/",
+      "description": "",
+      "section": [
+        "Open Source Wallets"
+      ]
+    },
+    {
+      "key": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
+      "name": "Joinmarket",
+      "url": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
+      "description": "Decentralized CoinJoin implementation",
+      "section": [
+        "Privacy projects"
+      ]
+    },
+    {
+      "key": "https://jamapp.org",
+      "name": "Jam",
+      "url": "https://jamapp.org/",
+      "description": "User friendly frontend for Joinmarket",
+      "section": [
+        "Privacy projects"
+      ]
+    },
+    {
+      "key": "https://3xpl.com/bitcoin",
+      "name": "3xpl.com",
+      "url": "https://3xpl.com/bitcoin",
+      "description": "Fastest ad-free universal block explorer.",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://chain.so",
+      "name": "Chain.so",
+      "url": "http://chain.so",
+      "description": "",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://blockchain.com",
+      "name": "Blockchain.com",
+      "url": "https://blockchain.com",
+      "description": "",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://blockchair.com/bitcoin",
+      "name": "Blockchair.com",
+      "url": "https://blockchair.com/bitcoin",
+      "description": "Universal blockchain explorer and search engine.",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://blockstream.info",
+      "name": "Blockstream.info",
+      "url": "https://blockstream.info",
+      "description": "Blockchain explorer with API (mainnet, testnet and Liquid).",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://github.com/JornC/bitcoin-transaction-explorer",
+      "name": "Bitcoin Transaction Explorer",
+      "url": "https://github.com/JornC/bitcoin-transaction-explorer",
+      "description": "",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://blockexplorer.com",
+      "name": "Blockexplorer.com",
+      "url": "https://blockexplorer.com",
+      "description": "",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://smartbit.com.au",
+      "name": "Smartbit",
+      "url": "https://www.smartbit.com.au",
+      "description": "",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://mempool.space",
+      "name": "mempool.space",
+      "url": "https://mempool.space/",
+      "description": "Open source, self hostable blockchain, mempool and lightning network explorer",
+      "section": [
+        "Blockchain Explorers"
+      ]
+    },
+    {
+      "key": "https://github.com/bitcoin-core/secp256k1",
+      "name": "libsecp256k1",
+      "url": "https://github.com/bitcoin-core/secp256k1",
+      "description": "",
+      "section": [
+        "C Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/shrec/UltrafastSecp256k1",
+      "name": "UltrafastSecp256k1",
+      "url": "https://github.com/shrec/UltrafastSecp256k1",
+      "description": "High-performance secp256k1 engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.",
+      "section": [
+        "C Libraries"
+      ]
+    },
+    {
+      "key": "https://libbitcoin.org",
+      "name": "Libbitcoin",
+      "url": "https://libbitcoin.org/",
+      "description": "",
+      "section": [
+        "C++ Libraries"
+      ]
+    },
+    {
+      "key": "https://libbitcoin.info",
+      "name": "Libbitcoin",
+      "url": "https://libbitcoin.info/",
+      "description": "A set of cross platform C++ libraries for building bitcoin applications",
+      "section": [
+        "C++ Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/ElementsProject/libwally-core",
+      "name": "libwally-core",
+      "url": "https://github.com/ElementsProject/libwally-core",
+      "description": "",
+      "section": [
+        "C++ Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/cryptocoinjs/awesome-cryptocoinjs",
+      "name": "Awesome CryptoCoinJS",
+      "url": "https://github.com/cryptocoinjs/awesome-cryptocoinjs",
+      "description": "",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib",
+      "name": "Bitcore Library",
+      "url": "https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib",
+      "description": "",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/bitcoinjs/bitcoinjs-lib",
+      "name": "Bitcoinjs-lib",
+      "url": "https://github.com/bitcoinjs/bitcoinjs-lib",
+      "description": "",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://cryptocoinjs.com",
+      "name": "Cryptocoin",
+      "url": "http://cryptocoinjs.com/#modules",
+      "description": "",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/blocktrail/blocktrail-sdk-nodejs",
+      "name": "BlockTrail SDK NodeJS",
+      "url": "https://github.com/blocktrail/blocktrail-sdk-nodejs",
+      "description": "",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/bcoin-org/bcoin",
+      "name": "bcoin",
+      "url": "https://github.com/bcoin-org/bcoin",
+      "description": "Javascript bitcoin library for node.js and browsers.",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://libauth.org",
+      "name": "Libauth",
+      "url": "https://libauth.org/",
+      "description": "A lightweight, zero-dependency, JavaScript/TypeScript bitcoin library.",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/noble-curves",
+      "name": "noble-curves",
+      "url": "https://github.com/paulmillr/noble-curves",
+      "description": "audited implementation of secp256k1 + schnorr in pure typescript",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/noble-secp256k1",
+      "name": "noble-secp256k1",
+      "url": "https://github.com/paulmillr/noble-secp256k1",
+      "description": "alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/scure-btc-signer",
+      "name": "scure-btc-signer",
+      "url": "https://github.com/paulmillr/scure-btc-signer",
+      "description": "audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrisCho-H/bitcoin-sdk-js",
+      "name": "bitcoin-sdk-js",
+      "url": "https://github.com/ChrisCho-H/bitcoin-sdk-js",
+      "description": "Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/forgesworn/toll-booth",
+      "name": "toll-booth",
+      "url": "https://github.com/forgesworn/toll-booth",
+      "description": "HTTP 402 payment middleware for Node.js; gates any API behind Lightning, Cashu, or stablecoin payments with five backend options.",
+      "section": [
+        "JavaScript Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/coinspark/php-OP_RETURN",
+      "name": "PHP-OP_RETURN",
+      "url": "https://github.com/coinspark/php-OP_RETURN",
+      "description": "",
+      "section": [
+        "PHP Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/blocktrail/blocktrail-sdk-php",
+      "name": "BlockTrail PHP SDK",
+      "url": "https://github.com/blocktrail/blocktrail-sdk-php",
+      "description": "",
+      "section": [
+        "PHP Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/lian/bitcoin-ruby",
+      "name": "Bitcoin-ruby",
+      "url": "https://github.com/lian/bitcoin-ruby",
+      "description": "",
+      "section": [
+        "Ruby Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/chaintope/bitcoinrb",
+      "name": "bitcoinrb",
+      "url": "https://github.com/chaintope/bitcoinrb",
+      "description": "Ruby bitcoin library including script interpreter.",
+      "section": [
+        "Ruby Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/azuchi/bech32rb",
+      "name": "bech32rb",
+      "url": "https://github.com/azuchi/bech32rb",
+      "description": "Bech32 and Bech32m encode/decode library.",
+      "section": [
+        "Ruby Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/chaintope/bip-schnorrrb",
+      "name": "bip-schnorrrb",
+      "url": "https://github.com/chaintope/bip-schnorrrb",
+      "description": "Schnorr signature library for Bitcoin.",
+      "section": [
+        "Ruby Libraries"
+      ]
+    },
+    {
+      "key": "https://bitcoindevkit.org",
+      "name": "Bitcoin Dev Kit (BDK)",
+      "url": "https://bitcoindevkit.org/",
+      "description": "With BDK, you can seamlessly build cross platform mobile wallets",
+      "section": [
+        "Rust Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/rust-bitcoin/rust-bitcoin",
+      "name": "Rust Bitcoin",
+      "url": "https://github.com/rust-bitcoin/rust-bitcoin",
+      "description": "support for de/serialization, parsing and executing on data-structures and network messages.",
+      "section": [
+        "Rust Libraries"
+      ]
+    },
+    {
+      "key": "https://lightningdevkit.org",
+      "name": "Lightning Dev Kit (LDK)",
+      "url": "https://lightningdevkit.org/",
+      "description": "Complete Lightning implementation packaged as an SDK",
+      "section": [
+        "Rust Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrisCho-H/bithoven",
+      "name": "Bithoven",
+      "url": "https://github.com/ChrisCho-H/bithoven",
+      "description": "A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.",
+      "section": [
+        "Rust Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/blocktrail/blocktrail-sdk-python",
+      "name": "BlockTrail SDK Python",
+      "url": "https://github.com/blocktrail/blocktrail-sdk-python",
+      "description": "",
+      "section": [
+        "Python Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/F483/btctxstore",
+      "name": "btctxstore",
+      "url": "https://github.com/F483/btctxstore",
+      "description": "Simple library to store/retrieve information in bitcoin transactions using OP_RETURN.",
+      "section": [
+        "Python Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/vbuterin/pybitcointools",
+      "name": "pybitcointools",
+      "url": "https://github.com/vbuterin/pybitcointools",
+      "description": "Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.",
+      "section": [
+        "Python Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/sr-gi/bitcoin_tools",
+      "name": "bitcoin_tools",
+      "url": "https://github.com/sr-gi/bitcoin_tools",
+      "description": "Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.",
+      "section": [
+        "Python Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/mohanson/pybtc",
+      "name": "pybtc",
+      "url": "https://github.com/mohanson/pybtc",
+      "description": "Python BTC is an experimental project that aims to provide human-friendly interfaces for common BTC operations.",
+      "section": [
+        "Python Libraries"
+      ]
+    },
+    {
+      "key": "https://bitcoinj.github.io",
+      "name": "BitcoinJ",
+      "url": "https://bitcoinj.github.io",
+      "description": "",
+      "section": [
+        "Java Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/knowm/XChange",
+      "name": "XChange",
+      "url": "https://github.com/knowm/XChange",
+      "description": "Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.",
+      "section": [
+        "Java Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/theborakompanioni/bitcoin-spring-boot-starter",
+      "name": "Bitcoin Spring Boot Starter",
+      "url": "https://github.com/theborakompanioni/bitcoin-spring-boot-starter",
+      "description": "Bitcoin integration for Spring Boot applications.",
+      "section": [
+        "Java Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/NostrGameEngine/bech32",
+      "name": "bech32",
+      "url": "https://github.com/NostrGameEngine/bech32",
+      "description": "Bech32 and Bech32m encode/decode library.",
+      "section": [
+        "Java Libraries"
+      ]
+    },
+    {
+      "key": "https://bitcoin-s.org",
+      "name": "Bitcoin-S",
+      "url": "https://bitcoin-s.org",
+      "description": "Scala/JVM toolkit for Bitcoin applications, includes Bitcoin data structures, transaction signing, strongly typed bitcoind/Eclair RPC clients, and more.",
+      "section": [
+        "Scala libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/GigaBitcoin/secp256k1.swift",
+      "name": "secp256k1.swift",
+      "url": "https://github.com/GigaBitcoin/secp256k1.swift",
+      "description": "Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.",
+      "section": [
+        "Swift libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/MetacoSA/NBitcoin",
+      "name": "NBitcoin",
+      "url": "https://github.com/MetacoSA/NBitcoin",
+      "description": "Comprehensive Bitcoin library for the .NET framework.",
+      "section": [
+        ".Net Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/cryptean/bitcoinlib",
+      "name": "BitcoinLib",
+      "url": "https://github.com/cryptean/bitcoinlib",
+      "description": "The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.",
+      "section": [
+        ".Net Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/haskoin/haskoin-core",
+      "name": "Haskoin-core",
+      "url": "https://github.com/haskoin/haskoin-core",
+      "description": "Haskoin Core is a library of Bitcoin and Bitcoin Cash functions written in Haskell.",
+      "section": [
+        "Haskell Libraries"
+      ]
+    },
+    {
+      "key": "https://crmarsh.com/script-playground",
+      "name": "Script Playground",
+      "url": "https://www.crmarsh.com/script-playground/",
+      "description": "",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/siminchen/bitcoinIDE",
+      "name": "Bitcoin IDE",
+      "url": "https://github.com/siminchen/bitcoinIDE",
+      "description": "Bitcoin Script for dummies.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/kallewoof/btcdeb",
+      "name": "Script Debugger",
+      "url": "https://github.com/kallewoof/btcdeb",
+      "description": "",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://bitcore.io/playground",
+      "name": "Bitcore Playground",
+      "url": "https://bitcore.io/playground/",
+      "description": "",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://iancoleman.io/bip39",
+      "name": "Mnemonic Code generator",
+      "url": "https://iancoleman.io/bip39/",
+      "description": "",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/anders94/blockchain-demo",
+      "name": "blockchain-demo",
+      "url": "https://github.com/anders94/blockchain-demo/",
+      "description": "A web-based demonstration of blockchain concepts.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/liuhongchao/bitcoin4s",
+      "name": "Bitcoin Script Debugger",
+      "url": "https://github.com/liuhongchao/bitcoin4s",
+      "description": "Visualize Bitcoin script execution for real transactions.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://ide.bitauth.com",
+      "name": "Bitauth IDE",
+      "url": "https://ide.bitauth.com/",
+      "description": "An interactive development environment for Bitcoin contracts.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://chainquery.com",
+      "name": "ChainQuery Bitcoin RPC",
+      "url": "https://chainquery.com",
+      "description": "Run select bitcoin RPC API calls and read full RPC docs in your browser.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://bithoven-lang.github.io/bithoven/ide",
+      "name": "Bithoven IDE",
+      "url": "https://bithoven-lang.github.io/bithoven/ide/",
+      "description": "Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/ladimolnar/BitcoinDatabaseGenerator",
+      "name": "BitcoinDatabaseGenerator",
+      "url": "https://github.com/ladimolnar/BitcoinDatabaseGenerator",
+      "description": "A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.",
+      "section": [
+        "Blockchain dump"
+      ]
+    },
+    {
+      "key": "https://github.com/mcdee/blockparser",
+      "name": "Blockparser+SQL",
+      "url": "https://github.com/mcdee/blockparser",
+      "description": "Fast, quick and dirty bitcoin blockchain parser.",
+      "section": [
+        "Blockchain dump"
+      ]
+    },
+    {
+      "key": "https://github.com/bitcoin-abe/bitcoin-abe",
+      "name": "BitcoinABE",
+      "url": "https://github.com/bitcoin-abe/bitcoin-abe",
+      "description": "Abe: block browser for Bitcoin and similar currencies.",
+      "section": [
+        "Blockchain dump"
+      ]
+    },
+    {
+      "key": "https://github.com/bitauth/chaingraph",
+      "name": "Chaingraph",
+      "url": "https://github.com/bitauth/chaingraph/",
+      "description": "A multi-node blockchain indexer and GraphQL API.",
+      "section": [
+        "Blockchain dump"
+      ]
+    },
+    {
+      "key": "https://github.com/btcsuite/btcd",
+      "name": "btcd",
+      "url": "https://github.com/btcsuite/btcd/",
+      "description": "Go-based full node since 2013.",
+      "section": [
+        "Full nodes"
+      ]
+    },
+    {
+      "key": "https://github.com/mhanne/bitcoin-ruby-node",
+      "name": "Bitcoin-ruby-node",
+      "url": "https://github.com/mhanne/bitcoin-ruby-node",
+      "description": "bitcoin node based on bitcoin-ruby-blockchain.",
+      "section": [
+        "Full nodes"
+      ]
+    },
+    {
+      "key": "https://github.com/moneybutton/yours-bitcoin",
+      "name": "Fullnode",
+      "url": "https://github.com/moneybutton/yours-bitcoin",
+      "description": "Javascript implementation of bitcoin.",
+      "section": [
+        "Full nodes"
+      ]
+    },
+    {
+      "key": "https://github.com/bitpay/bitcore-node",
+      "name": "Bitcore Node",
+      "url": "https://github.com/bitpay/bitcore-node",
+      "description": "bitcoind linked to node.js by BitPay.",
+      "section": [
+        "Full nodes"
+      ]
+    },
+    {
+      "key": "https://github.com/bitpay/bitcore",
+      "name": "Bitcore",
+      "url": "https://github.com/bitpay/bitcore",
+      "description": "Formerly just a Nodejs library, now a full node.",
+      "section": [
+        "Full nodes"
+      ]
+    },
+    {
+      "key": "https://bitcoincore.org",
+      "name": "Bitcoin Core",
+      "url": "https://bitcoincore.org/",
+      "description": "direct descendant of the original Bitcoin implementation in C++",
+      "section": [
+        "Full nodes"
+      ]
+    },
+    {
+      "key": "https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8",
+      "name": "A Gentle Introduction to Bitcoin Core Development",
+      "url": "https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8",
+      "description": "",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://github.com/bitcoinbook/bitcoinbook",
+      "name": "Mastering Bitcoin",
+      "url": "https://github.com/bitcoinbook/bitcoinbook",
+      "description": "",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/grokking-bitcoin",
+      "name": "Grokking Bitcoin",
+      "url": "https://www.manning.com/books/grokking-bitcoin",
+      "description": "An in-depth technical book with rich illustrations.",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://bitcoin.stackexchange.com",
+      "name": "Bitcoin Stackexchange",
+      "url": "https://bitcoin.stackexchange.com",
+      "description": "",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction",
+      "name": "Elliptic Curve Cryptography A Gentle Introduction",
+      "url": "https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/",
+      "description": ".",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS",
+      "name": "Bitcoin Programming with BitcoinJS and Bitcoin Core CLI",
+      "url": "https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS",
+      "description": ".",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://github.com/chaincodelabs/bitcoin-curriculum",
+      "name": "Bitcoin Protocol Development Curriculum - Chaincode Labs",
+      "url": "https://github.com/chaincodelabs/bitcoin-curriculum",
+      "description": ".",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://github.com/chaincodelabs/lightning-curriculum",
+      "name": "Lightning Network Protocol Development Curriculum - Chaincode Labs",
+      "url": "https://github.com/chaincodelabs/lightning-curriculum",
+      "description": ".",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://btcinformation.org/en/developer-documentation",
+      "name": "btcinformation.org / Developer Documentation",
+      "url": "https://btcinformation.org/en/developer-documentation",
+      "description": "Find useful resources, guides and reference material for developers.",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://bitcoinbook.cs.princeton.edu",
+      "name": "Bitcoin & Cryptocurrency",
+      "url": "http://bitcoinbook.cs.princeton.edu/",
+      "description": ".",
+      "section": [
+        "Course"
+      ]
+    },
+    {
+      "key": "https://twitter.com/lopp/lists/bitcoin-developers",
+      "name": "@lopp / Bitcoin Developers",
+      "url": "https://twitter.com/lopp/lists/bitcoin-developers",
+      "description": "Software developers who have experience working on Bitcoin implementations or applications.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://twitter.com/i/lists/981976067551490048",
+      "name": "@lopp / Lightning Developers",
+      "url": "https://twitter.com/i/lists/981976067551490048",
+      "description": "Software developers with experience working on LN implementations / applications.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw",
+      "name": "Practical Bitcoin Info - Google Sheets",
+      "url": "https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/",
+      "description": ".",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ZfFNce6CVsE",
+      "name": "A brief history of Bitcoin development...",
+      "url": "https://www.youtube.com/watch?v=ZfFNce6CVsE",
+      "description": "",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://bitcoin-resources.com",
+      "name": "bitcoin-resources.com",
+      "url": "https://bitcoin-resources.com/",
+      "description": "Meta-list of Bitcoin resources, from books, articles, to podcasts.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://lopp.net/bitcoin-information.html",
+      "name": "Jameson Lopp Bitcoin Resource List",
+      "url": "https://www.lopp.net/bitcoin-information.html",
+      "description": "Very detailed curated Bitcoin resource list and meta-list by J. Lopp",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://svrgnty.com",
+      "name": "Svrgnty.com: Everything Bitcoin",
+      "url": "https://svrgnty.com/",
+      "description": "A curated list of the best Bitcoin resources.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://river.com/learn",
+      "name": "River Learn",
+      "url": "https://river.com/learn",
+      "description": "A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://bitcoincompanies.co",
+      "name": "BitcoinCompanies",
+      "url": "https://bitcoincompanies.co/",
+      "description": "Corporate Bitcoin treasury map and leaderboard with claimed vs verified holdings.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://learnmeabitcoin.com",
+      "name": "Learn me a Bitcoin - Greg Walker",
+      "url": "https://learnmeabitcoin.com/",
+      "description": "extensive learning resource for bitcoin developers",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://bennet.org",
+      "name": "Bennet.org",
+      "url": "https://bennet.org/",
+      "description": "Interactive technical guides for bitcoiners.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://knowingbitcoin.com",
+      "name": "Knowing Bitcoin",
+      "url": "https://knowingbitcoin.com/",
+      "description": "Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://bitcoin.diy",
+      "name": "Bitcoin.diy",
+      "url": "https://bitcoin.diy",
+      "description": "Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.",
+      "section": [
+        "Additional Resources"
+      ]
+    },
+    {
+      "key": "https://bitcoin-institute.pages.dev",
+      "name": "Bitcoin Institute",
+      "url": "https://bitcoin-institute.pages.dev",
+      "description": "Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.",
+      "section": [
+        "Additional Resources"
+      ]
+    }
+  ]
+}
