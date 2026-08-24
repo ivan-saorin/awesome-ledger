@@ -7,11 +7,11 @@
 
 use anyhow::{Context, Result};
 use chrono::NaiveDate;
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use std::fs;
 use std::path::Path;
 
-#[derive(Debug, Clone, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct ListInfo {
     pub owner: String,
     pub repo: String,
@@ -44,14 +44,14 @@ pub fn slug_of(owner: &str, repo: &str) -> String {
     format!("{}-{}", owner, repo).to_lowercase()
 }
 
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Deserialize)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 #[serde(rename_all = "lowercase")]
 pub enum Kind {
     Added,
     Removed,
 }
 
-#[derive(Debug, Clone, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Event {
     pub date: NaiveDate,
     pub kind: Kind,
@@ -75,10 +75,15 @@ impl Event {
     }
 }
 
-#[derive(Debug, Default, Deserialize)]
+#[derive(Debug, Default, Serialize, Deserialize)]
 pub struct Meta {
     #[serde(default)]
     pub edition: Option<u64>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub first_run: Option<NaiveDate>,
+    /// Last sindresorhus index scan — drives the weekly re-scan (M1).
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub index_scanned: Option<NaiveDate>,
 }
 
 pub struct State {

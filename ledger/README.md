@@ -6,13 +6,19 @@ fetch/diff half (M1) plugs in by writing the state dir this crate reads.
 ## CLI
 
 ```
-awesome-ledger update  --lists FILE --state DIR
+awesome-ledger update  --state DIR [--lists FILE] [--no-index] [--enroll]
+                       [--limit N] [--date YYYY-MM-DD]
 awesome-ledger render  --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]
 awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]
 ```
 
-`update` (M0 skeleton) reads the enrollment registry `lists.toml` and
-reports the enrolled count; M1 grows it into fetch → parse → diff → state.
+`update` (M1) runs SPEC §4 steps 1–3: enrolls from the sindresorhus index
+(weekly re-scan; `--enroll` forces one, `--no-index` skips it) merged with
+`lists.toml` extras minus its blocklist, then conditionally fetches every
+live list (etag, retries, 1 s politeness delay), parses entries, and
+set-diffs against per-list snapshots under `state/lists/` — additions and
+removals become events; the first sight of a list seeds silently. Two
+consecutive 404s retire a list. `--limit N` bounds a run for smokes.
 `render` builds the whole static site (front page, per-list pages, monthly
 archives, RSS feeds, style.css, .nojekyll) from the state dir.
 `publish` force-pushes the rendered dir as a fresh single-commit `gh-pages`

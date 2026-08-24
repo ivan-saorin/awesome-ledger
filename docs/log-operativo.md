@@ -1,5 +1,41 @@
 # log operativo — awesome-ledger
 
+## 2026-08-24 — M1: enrollment + fetcher + parser + state (session c84be46a, sigiled-claude)
+**Where were we:** M0 closed same day (template v2, per-project image,
+cron wired, update skeleton). This session opened ON the new image
+(vm-awesome-ledger:df-65c7d1ec) — Dockerfile validated by the open
+itself, no fallback shout; cargo works natively, zig workaround gone.
+**Where were we going:** M1 — the fetch/diff half the M2 renderer
+already consumes.
+**Done:** five modules in ledger/: norm (canonical URL keys — https/www
+fold, tracking-param strip, trailing-slash + .git strip, sorted query),
+parse (pulldown-cmark event machine: heading-trail sections, first
+non-image link wins, badge links — link-wrapped images — rejected by
+empty link text; index scan keeps plain github.com/owner/repo only),
+fetch (Source trait + blocking reqwest impl: raw.githubusercontent at
+HEAD, etag conditional, README-path candidates, 3-try backoff, 1 s
+politeness), store (per-list snapshots under state/lists/ with etag +
+entry set; lists.json/events.jsonl/meta.json writers — events.jsonl
+always exists post-run, renderer requires it), update (enroll = weekly
+index scan ∪ extras ∖ blocklist, retire-on-index-drop except pins,
+revive on return; set-diff by canonical key → events; silent first-seed;
+parsed-0-on-populated = skip not wipe; 404×2 retires). model.rs types now
+Serialize; Meta grew first_run + index_scanned. CLI: update --state
+[--lists --no-index --enroll --limit --date]. 21 tests green incl. the
+M1 smoke offline (FakeSource) AND live: 3 real lists seeded (awesome-rust
+= 1755 entries), rerun all-304, hand-edited snapshot → exactly +2 added
+events; live index scan enrolled 674 lists with sane categories.
+**Deviations:** blocking reqwest, no tokio (sequential + politeness delay
+= async buys nothing). Summary grew a `missing` count — first-404s were
+invisible (found live: two dead 0xnr lists in the index). Job [volumes]
+mount path still unverified (M3).
+**State:** master = M0+M1, tests green, release binary builds. Site still
+unpublished (operator prereqs pending).
+**Next:** M3 — full seed run (one slow run, ~674 fetches), wire render +
+publish + mem0 digest + run report into jobs/update.sh, verify volume
+mount + cron live; operator: repo public, Pages on gh-pages,
+GH_DEPLOY_KEY + STACK_BEARER secrets. Then M4 catalog registration.
+
 ## 2026-08-24 — M0: template v2 port + skeleton (session c9073156, sigiled-claude)
 **Where were we:** M2 done out of order (renderer + publisher on master,
 tests green); repo still on template v1 (mgr.toml, vendored server/, ext/,

@@ -1,8 +1,13 @@
 mod feed;
+mod fetch;
 mod model;
+mod norm;
+mod parse;
 mod publish;
 mod registry;
 mod render;
+mod store;
+mod update;
 mod view;
 
 use anyhow::{bail, Context, Result};
@@ -21,7 +26,7 @@ fn main() {
 
 fn usage() -> ! {
     eprintln!(
-        "usage:\n  awesome-ledger update --lists FILE --state DIR\n  awesome-ledger render --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]\n  awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]"
+        "usage:\n  awesome-ledger update --state DIR [--lists FILE] [--no-index] [--enroll] [--limit N] [--date YYYY-MM-DD]\n  awesome-ledger render --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]\n  awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]"
     );
     std::process::exit(2);
 }
@@ -38,22 +43,41 @@ fn run() -> Result<()> {
         if !k.starts_with("--") {
             bail!("unexpected argument {k}");
         }
+        let key = k.trim_start_matches("--").to_string();
+        if matches!(key.as_str(), "no-index" | "enroll") {
+            opts.insert(key, "true".to_string());
+            continue;
+        }
         let v = it.next().with_context(|| format!("missing value for {k}"))?;
-        opts.insert(k.trim_start_matches("--").to_string(), v.clone());
+        opts.insert(key, v.clone());
     }
     let get = |k: &str| -> Option<PathBuf> { opts.get(k).map(PathBuf::from) };
 
     match cmd {
         "update" => {
             let lists = get("lists").unwrap_or_else(|| PathBuf::from("lists.toml"));
-            let reg = registry::Registry::load(&lists)?;
-            // M0 skeleton: prove the registry round-trips and the cron can
-            // run the binary. Index scan, fetch, parse and diff land in M1.
-            println!(
-                "enrolled: {} extra pinned, {} blocklisted (index scan lands in M1)",
-                reg.extra.len(),
-                reg.blocklist.len()
-            );
+            let state = get("state").context("--state DIR is required")?;
+            let date = match opts.get("date") {
+                Some(d) => d.parse().context("--date must be YYYY-MM-DD")?,
+                None => chrono::Utc::now().date_naive(),
+            };
+            let limit = match opts.get("limit") {
+                Some(n) => Some(n.parse::<usize>().context("--limit must be a number")?),
+                None => None,
+            };
+            let mut src = fetch::Http::new()?;
+            let summary = update::run(
+                &mut src,
+                &update::Options {
+                    lists_path: &lists,
+                    state_dir: &state,
+                    use_index: !opts.contains_key("no-index"),
+                    force_enroll: opts.contains_key("enroll"),
+                    limit,
+                    date,
+                },
+            )?;
+            println!("{summary}");
             Ok(())
         }
         "render" => {
