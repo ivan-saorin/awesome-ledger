@@ -1,6 +1,7 @@
 mod feed;
 mod model;
 mod publish;
+mod registry;
 mod render;
 mod view;
 
@@ -20,7 +21,7 @@ fn main() {
 
 fn usage() -> ! {
     eprintln!(
-        "usage:\n  awesome-ledger render --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]\n  awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]"
+        "usage:\n  awesome-ledger update --lists FILE --state DIR\n  awesome-ledger render --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]\n  awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]"
     );
     std::process::exit(2);
 }
@@ -43,6 +44,18 @@ fn run() -> Result<()> {
     let get = |k: &str| -> Option<PathBuf> { opts.get(k).map(PathBuf::from) };
 
     match cmd {
+        "update" => {
+            let lists = get("lists").unwrap_or_else(|| PathBuf::from("lists.toml"));
+            let reg = registry::Registry::load(&lists)?;
+            // M0 skeleton: prove the registry round-trips and the cron can
+            // run the binary. Index scan, fetch, parse and diff land in M1.
+            println!(
+                "enrolled: {} extra pinned, {} blocklisted (index scan lands in M1)",
+                reg.extra.len(),
+                reg.blocklist.len()
+            );
+            Ok(())
+        }
         "render" => {
             let state_dir = get("state").context("--state DIR is required")?;
             let out_dir = get("out").context("--out DIR is required")?;

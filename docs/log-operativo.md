@@ -1,5 +1,35 @@
 # log operativo — awesome-ledger
 
+## 2026-08-24 — M0: template v2 port + skeleton (session c9073156, sigiled-claude)
+**Where were we:** M2 done out of order (renderer + publisher on master,
+tests green); repo still on template v1 (mgr.toml, vendored server/, ext/,
+build-ext.sh); no manifest, no cron, sessions built Rust via the
+userspace rustup + zig workaround.
+**Where were we going:** recover M0 then M1 (operator: "let's recover
+M0/M1").
+**Done:** sigiled.toml v2 (template pin vm-tmpl@0.1.0; `[workspace]
+dockerfile` → per-project image; `[jobs.update]` cron 05:30 daily,
+45 min, STACK_BEARER + GH_DEPLOY_KEY secrets; volume
+awesome-ledger-data rw). New thin Dockerfile: FROM vm-base:0.1.0 +
+build-essential + rustup 1.97.1 for uid 1000 — kills the zig workaround
+from the next open. Removed v1 template artifacts (mgr.toml, server/,
+ext/, build-ext.sh, .dockerignore). lists.toml registry (extra pins +
+blocklist) + `update` subcommand skeleton reading it (registry.rs, toml
+dep, unit tests) + jobs/update.sh (volume-backed state + cargo target
+cache; render/publish/digest hooks land at M3).
+**Deviations:** template pin is declarative only — vm-tmpl's
+tools/sync-template.sh not vendored (needs template repo access; a later
+`sync` adopts it). Job [volumes] schema for v2 unverified — mount path
+resolved at M3 first live run; update.sh takes STATE_DIR override.
+Code not built in this session (v1 container has no toolchain); session 2
+scruple-builds on the new image before M1 — the reopen itself smoke-tests
+the Dockerfile (DEC-25 shouts build_error instead of blocking).
+**State:** M0 committed on master at close. Cargo.lock stale for the new
+toml dep until first build.
+**Next:** reopen (pays the image build) → cargo test → M1: index scan,
+conditional fetcher, markdown → entry-set parser, URL normalization,
+state store + silent seeding + set-diff events; smoke on 3 lists.
+
 ## 2026-08-24 — M2: renderer + publisher (session 9cdf5d5d, sigiled-claude)
 **Where were we:** docs only (SPEC/PLAN ported, no code); Claude Design
 mockups landed in `design/` — final direction is turns 6–7 (centered, no

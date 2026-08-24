@@ -6,10 +6,13 @@ fetch/diff half (M1) plugs in by writing the state dir this crate reads.
 ## CLI
 
 ```
+awesome-ledger update  --lists FILE --state DIR
 awesome-ledger render  --state DIR --out DIR [--date YYYY-MM-DD] [--site-url URL]
 awesome-ledger publish --site DIR [--remote GIT_URL] [--branch NAME]
 ```
 
+`update` (M0 skeleton) reads the enrollment registry `lists.toml` and
+reports the enrolled count; M1 grows it into fetch → parse → diff → state.
 `render` builds the whole static site (front page, per-list pages, monthly
 archives, RSS feeds, style.css, .nojekyll) from the state dir.
 `publish` force-pushes the rendered dir as a fresh single-commit `gh-pages`

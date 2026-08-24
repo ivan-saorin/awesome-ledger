@@ -1,0 +1,13 @@
+# lists.toml â€” enrollment registry (SPEC Â§3).
+# Enrollment is auto-seeded from the sindresorhus/awesome index (M1);
+# this file pins extras and silences noise. Edits happen in sessions.
+
+# Lists to track that are not in the index. category is optional and
+# defaults to "Uncategorized".
+# [[extra]]
+# owner = "someone"
+# repo = "awesome-something"
+# category = "Miscellaneous"
+
+# "owner/repo" entries never fetched, even if the index links them.
+blocklist = []

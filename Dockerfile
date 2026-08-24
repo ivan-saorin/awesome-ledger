@@ -1,18 +1,16 @@
-FROM rust:1.97.1-slim AS build
-WORKDIR /src
-COPY . .
-RUN ./build-ext.sh && cd server && cargo build --release --locked
+# awesome-ledger workspace image (DEC-17/DEC-25): thin layer over vm-base
+# adding the Rust toolchain for sessions and job runs. No COPY â€” SIGILED
+# builds this at master and mounts the repo as /workspace at runtime.
+FROM ghcr.io/ivan-saorin/vm-base:0.1.0
 
-FROM debian:13.6-slim
+USER root
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends git openssh-client ca-certificates bash curl \
-    && rm -rf /var/lib/apt/lists/* \
-    && useradd -u 1000 -m dev \
-    && mkdir -p /workspace /secrets && chown 1000:1000 /workspace /secrets
-COPY --from=build /src/server/target/release/vm-base /usr/local/bin/vm-base
+    && apt-get install -y --no-install-recommends build-essential pkg-config \
+    && rm -rf /var/lib/apt/lists/*
 
 USER 1000:1000
-WORKDIR /workspace
-EXPOSE 8000
-HEALTHCHECK --interval=30s --timeout=5s --retries=3 CMD ["vm-base", "health-probe"]
-CMD ["vm-base"]
+ENV RUSTUP_HOME=/home/dev/.rustup \
+    CARGO_HOME=/home/dev/.cargo \
+    PATH=/home/dev/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs \
+    | sh -s -- -y --profile minimal --default-toolchain 1.97.1
