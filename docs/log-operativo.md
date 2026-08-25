@@ -1,5 +1,32 @@
 # log operativo — awesome-ledger
 
+## 2026-08-25 — M4 DONE: catalog registration + skill note (session 06f6e57c + sigiled 5e5bb8f4, sigiled-claude)
+**Where were we:** M3 done — nightly runs green, site live, state on its
+own branch. M4 (catalog) the last planned milestone.
+**Where were we going:** register as a stack service (job-class) + the
+skill note.
+**Done:** `docs/skill-awesome-ledger.md` written here — recall leg
+(memory service, `idx=mem0&tags=awesome-ledger`, one chunk per eventful
+day, quiet day = NO chunk by design), browsing leg (site + RSS),
+enrollment edits (lists.toml via session), recap pointers. Catalog entry
+landed in sigiled/catalog.json (elevated session 5e5bb8f4, ff-merged
+f05cbbe6): the `changed` pattern — job-class with no surface of its own,
+machine leg https://memory.016180.xyz gate stack-bearer, status live,
+skill awesome-ledger. sigiled suite green in-session (111 passed,
+embedded catalog validates).
+**Deviations:** the session opened hours late — the repo's GitHub deploy
+key had been replaced by an orphan (`sigiled-deploy-awesome-ledger`,
+added 2026-08-25, never used; production names keys `sigiled-<project>`).
+Operator restored the real pub from sigiled's /data/keys. awesome-updates
+(the predecessor repo) was deleted on GitHub deliberately; its key
+material removed from /data.
+**State:** PLAN complete — M0 through M4 all done. The live
+`GET /sigiled/services` shows awesome-ledger after the operator's next
+sigiledd rebuild+redeploy (catalog is embedded at build).
+**Next:** steady state — nightly `update` runs, enrollment edits on
+request, blocklist candidates from the per-run skip-rate reports. No
+further milestones planned.
+
 ## 2026-08-25 — M3 DONE: two green runs, site live, state on its own branch (sessions 2611d44f + 3c06dd29, sigiled-claude)
 **Where were we:** both keyed runs failed; the SIGILED source revealed
 why: job containers mount NO volumes (only [app.volumes] binds exist) —
@@ -188,3 +215,4 @@ convention). Enrollment auto-seeded from sindresorhus/awesome.
 **State:** docs only, master clean.
 **Next:** M0. Operator prereqs at M2: repo public, Pages on gh-pages,
 GH_DEPLOY_KEY.
+
