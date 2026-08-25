@@ -1,0 +1,688 @@
+{
+  "etag": "W/\"4f3666ead4f79d2a91e1266931a244232018230279b7e4493a9e9d5a99212503\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://nodejs.org/en/docs",
+      "name": "Core Node.js documentation",
+      "url": "https://nodejs.org/en/docs/",
+      "description": "Especially the os, path, fs, process and child_process modules.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/ehmicky/cross-platform-node-guide",
+      "name": "Cross-platform Node.js guide",
+      "url": "https://github.com/ehmicky/cross-platform-node-guide",
+      "description": "How to write cross-platform Node.js code.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/Microsoft/nodejs-guidelines",
+      "name": "Microsoft Node.js Guidelines",
+      "url": "https://github.com/Microsoft/nodejs-guidelines",
+      "description": "Tips, tricks, and resources for working with Node.js on Microsoft platforms.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://shapeshed.com/writing-cross-platform-node",
+      "name": "Writing Cross-Platform Node.js",
+      "url": "http://shapeshed.com/writing-cross-platform-node/",
+      "description": "Great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/ehmicky/cross-platform-terminal-characters",
+      "name": "Cross-platform terminal characters",
+      "url": "https://github.com/ehmicky/cross-platform-terminal-characters",
+      "description": "All the characters that work on most terminals and most operating systems.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://nodejs.org/en/download",
+      "name": "Node.js",
+      "url": "https://nodejs.org/en/download/",
+      "description": "Node.js installer for various platforms.",
+      "section": [
+        "Applications",
+        "Development environment"
+      ]
+    },
+    {
+      "key": "https://github.com/coreybutler/nvm-windows",
+      "name": "nvm-windows",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "description": "Manage multiple installations of Node.js on a Windows computer.",
+      "section": [
+        "Applications",
+        "Development environment"
+      ]
+    },
+    {
+      "key": "https://github.com/creationix/nvm",
+      "name": "nvm",
+      "url": "https://github.com/creationix/nvm",
+      "description": "/ n - Node version manager for macOS/Linux.",
+      "section": [
+        "Applications",
+        "Development environment"
+      ]
+    },
+    {
+      "key": "https://github.com/felixrieseberg/npm-windows-upgrade",
+      "name": "npm-windows-upgrade",
+      "url": "https://github.com/felixrieseberg/npm-windows-upgrade",
+      "description": "Upgrade npm on Windows.",
+      "section": [
+        "Applications",
+        "Development environment"
+      ]
+    },
+    {
+      "key": "https://github.com/felixrieseberg/windows-build-tools",
+      "name": "windows-build-tools",
+      "url": "https://github.com/felixrieseberg/windows-build-tools",
+      "description": "Install C++ Build Tools for Windows using npm.",
+      "section": [
+        "Applications",
+        "Development environment"
+      ]
+    },
+    {
+      "key": "https://appveyor.com",
+      "name": "AppVeyor",
+      "url": "http://www.appveyor.com/",
+      "description": "Focused on Windows. Free tiers are available for OSS projects.",
+      "section": [
+        "Applications",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://travis-ci.org",
+      "name": "Travis",
+      "url": "https://travis-ci.org/",
+      "description": "Windows/macOS/Linux. Free for OSS projects.",
+      "section": [
+        "Applications",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://azure.microsoft.com/en-us/services/devops/pipelines",
+      "name": "Azure Pipelines",
+      "url": "https://azure.microsoft.com/en-us/services/devops/pipelines/",
+      "description": "Windows/macOS/Linux. Free for OSS projects with 10 parallel jobs.",
+      "section": [
+        "Applications",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://github.com/features/actions",
+      "name": "Github Action",
+      "url": "https://github.com/features/actions",
+      "description": "Windows/macOS/Linux. GitHub Actions makes it easy to automate all your software workflows.",
+      "section": [
+        "Applications",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://docs.gitlab.com/ee/ci",
+      "name": "Gitlab CI",
+      "url": "https://docs.gitlab.com/ee/ci/",
+      "description": "Windows/macOS/Linux. GitLab CI/CD is a tool built into GitLab for software development.",
+      "section": [
+        "Applications",
+        "Continuous integration"
+      ]
+    },
+    {
+      "key": "https://github.com/amichaelparker/ievms",
+      "name": "ievms",
+      "url": "https://github.com/amichaelparker/ievms",
+      "description": "Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.",
+      "section": [
+        "Applications",
+        "Virtualization"
+      ]
+    },
+    {
+      "key": "https://virtualbox.org/wiki/Downloads",
+      "name": "VirtualBox",
+      "url": "https://www.virtualbox.org/wiki/Downloads",
+      "description": "General purpose software for running x86 virtual machines.",
+      "section": [
+        "Applications",
+        "Virtualization"
+      ]
+    },
+    {
+      "key": "https://docker.com",
+      "name": "Docker",
+      "url": "https://www.docker.com/",
+      "description": "Software platform to create, deploy and manage virtualized application containers on a common operating system, with an ecosystem of allied tools.",
+      "section": [
+        "Applications",
+        "Virtualization"
+      ]
+    },
+    {
+      "key": "https://winehq.org",
+      "name": "Wine",
+      "url": "https://www.winehq.org/",
+      "description": "Run Windows API calls on Linux, Mac, BSD and Solaris.",
+      "section": [
+        "Applications",
+        "Compatibility"
+      ]
+    },
+    {
+      "key": "https://cygwin.com",
+      "name": "Cygwin",
+      "url": "https://www.cygwin.com/",
+      "description": "Run POSIX on Windows.",
+      "section": [
+        "Applications",
+        "Compatibility"
+      ]
+    },
+    {
+      "key": "https://docs.microsoft.com/en-us/windows/wsl/install-win10",
+      "name": "WSL",
+      "url": "https://docs.microsoft.com/en-us/windows/wsl/install-win10",
+      "description": "Run the Linux command line on Windows (ELF binary execution, system calls, filesystem, Bash, core utilities, common applications).",
+      "section": [
+        "Applications",
+        "Compatibility"
+      ]
+    },
+    {
+      "key": "https://mingw.org",
+      "name": "MinGW",
+      "url": "http://www.mingw.org/",
+      "description": "gcc on Windows.",
+      "section": [
+        "Applications",
+        "Compatibility"
+      ]
+    },
+    {
+      "key": "https://mingw.org/wiki/msys",
+      "name": "msys",
+      "url": "http://www.mingw.org/wiki/msys",
+      "description": "/ Git Bash - Bash on Windows.",
+      "section": [
+        "Applications",
+        "Compatibility"
+      ]
+    },
+    {
+      "key": "https://github.com/tporadowski/redis",
+      "name": "Redis",
+      "url": "https://github.com/tporadowski/redis",
+      "description": "Native port of Redis for Windows.",
+      "section": [
+        "Applications",
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/jonschlinkert/is-windows",
+      "name": "is-windows",
+      "url": "https://github.com/jonschlinkert/is-windows",
+      "description": "Detect whether the current platform is Windows.",
+      "section": [
+        "Libraries",
+        "OS identification"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/is-wsl",
+      "name": "is-wsl",
+      "url": "https://github.com/sindresorhus/is-wsl",
+      "description": "Detect whether current platform is WSL (Windows Subsystem for Linux).",
+      "section": [
+        "Libraries",
+        "OS identification"
+      ]
+    },
+    {
+      "key": "https://github.com/retrohacker/getos",
+      "name": "getos",
+      "url": "https://github.com/retrohacker/getos",
+      "description": "Retrieve the current OS, including Linux distribution.",
+      "section": [
+        "Libraries",
+        "OS identification"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/os-name",
+      "name": "os-name",
+      "url": "https://github.com/sindresorhus/os-name",
+      "description": "Get the name of the current operating system.",
+      "section": [
+        "Libraries",
+        "OS identification"
+      ]
+    },
+    {
+      "key": "https://github.com/sebhildebrandt/systeminformation",
+      "name": "systeminformation",
+      "url": "https://github.com/sebhildebrandt/systeminformation",
+      "description": "Hardware/software system information.",
+      "section": [
+        "Libraries",
+        "OS identification"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/execa",
+      "name": "execa",
+      "url": "https://github.com/sindresorhus/execa",
+      "description": "Cross-platform implementation of child_process.{execFile,exec}.",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/ehmicky/gulp-execa",
+      "name": "gulp-execa",
+      "url": "https://github.com/ehmicky/gulp-execa",
+      "description": "Cross-platform command execution in Gulp.js.",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/IndigoUnited/node-cross-spawn",
+      "name": "cross-spawn",
+      "url": "https://github.com/IndigoUnited/node-cross-spawn",
+      "description": "Cross-platform implementation of child_process.spawn().",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/shelljs/shelljs",
+      "name": "shelljs",
+      "url": "https://github.com/shelljs/shelljs",
+      "description": "Cross-platform Unix shell commands.",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/coreybutler/node-windows",
+      "name": "node-windows",
+      "url": "https://github.com/coreybutler/node-windows",
+      "description": "Windows support for Node.js scripts (daemons, eventlog, UAC, etc).",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/log-symbols",
+      "name": "log-symbols",
+      "url": "https://github.com/sindresorhus/log-symbols",
+      "description": "Colored symbols for various log levels with Windows fallbacks.",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/figures",
+      "name": "figures",
+      "url": "https://github.com/sindresorhus/figures",
+      "description": "Unicode symbols with Windows fallbacks.",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/clipboardy",
+      "name": "clipboardy",
+      "url": "https://github.com/sindresorhus/clipboardy",
+      "description": "/ clipboard-cli - Cross-platform copy/paste.",
+      "section": [
+        "Libraries",
+        "Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/kentcdodds/cross-env",
+      "name": "cross-env",
+      "url": "https://github.com/kentcdodds/cross-env",
+      "description": "Set environment variables cross-platform.",
+      "section": [
+        "Libraries",
+        "Environment"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/user-home",
+      "name": "user-home",
+      "url": "https://github.com/sindresorhus/user-home",
+      "description": "Get the path to the user home directory. Cross-platform.",
+      "section": [
+        "Libraries",
+        "Environment"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/username",
+      "name": "username",
+      "url": "https://github.com/sindresorhus/username",
+      "description": "Get the current username.",
+      "section": [
+        "Libraries",
+        "Environment"
+      ]
+    },
+    {
+      "key": "https://github.com/npm/osenv",
+      "name": "osenv",
+      "url": "https://github.com/npm/osenv",
+      "description": "Cross-platform environment variables.",
+      "section": [
+        "Libraries",
+        "Environment"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/is-elevated",
+      "name": "is-elevated",
+      "url": "https://github.com/sindresorhus/is-elevated",
+      "description": "Check if the process is running with elevated privileges.",
+      "section": [
+        "Libraries",
+        "Environment"
+      ]
+    },
+    {
+      "key": "https://github.com/npm/node-which",
+      "name": "which",
+      "url": "https://github.com/npm/node-which",
+      "description": "Cross-platform implementation of Unix's which.",
+      "section": [
+        "Libraries",
+        "Environment"
+      ]
+    },
+    {
+      "key": "https://github.com/isaacs/rimraf",
+      "name": "rimraf",
+      "url": "https://github.com/isaacs/rimraf",
+      "description": "/ del - Delete files and folders. Cross-platform.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/make-dir",
+      "name": "make-dir",
+      "url": "https://github.com/sindresorhus/make-dir",
+      "description": "Cross-platform mkdir -p.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/readdirp",
+      "name": "readdirp",
+      "url": "https://github.com/paulmillr/readdirp",
+      "description": "Recursive version of fs.readdir().",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/cpy",
+      "name": "cpy",
+      "url": "https://github.com/sindresorhus/cpy",
+      "description": "Copy files. Cross-platform.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/chokidar",
+      "name": "chokidar",
+      "url": "https://github.com/paulmillr/chokidar",
+      "description": "Improved cross-platform file watching.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/isaacs/node-graceful-fs",
+      "name": "graceful-fs",
+      "url": "https://github.com/isaacs/node-graceful-fs",
+      "description": "Improves the fs module, especially on Windows.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/jprichardson/node-fs-extra",
+      "name": "fs-extra",
+      "url": "https://github.com/jprichardson/node-fs-extra",
+      "description": "Combines graceful-fs with better JSON file reading and promises.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/bcoe/any-path",
+      "name": "any-path",
+      "url": "https://github.com/bcoe/any-path",
+      "description": "Use Windows and POSIX paths interchangeably when fetching values from an object.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/dev-null-cli",
+      "name": "dev-null-cli",
+      "url": "https://github.com/sindresorhus/dev-null-cli",
+      "description": "Cross-platform /dev/null.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/ehmicky/global-cache-dir",
+      "name": "global-cache-dir",
+      "url": "https://github.com/ehmicky/global-cache-dir",
+      "description": "Get the global OS-specific cache directory.",
+      "section": [
+        "Libraries",
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/fkill",
+      "name": "fkill",
+      "url": "https://github.com/sindresorhus/fkill",
+      "description": "Kill processes. Cross-platform.",
+      "section": [
+        "Libraries",
+        "Signals"
+      ]
+    },
+    {
+      "key": "https://github.com/tapjs/signal-exit",
+      "name": "signal-exit",
+      "url": "https://github.com/tapjs/signal-exit",
+      "description": "Cross-platform exit handler.",
+      "section": [
+        "Libraries",
+        "Signals"
+      ]
+    },
+    {
+      "key": "https://github.com/ehmicky/human-signals",
+      "name": "human-signals",
+      "url": "https://github.com/ehmicky/human-signals",
+      "description": "Human-friendly process signals.",
+      "section": [
+        "Libraries",
+        "Signals"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/ps-list",
+      "name": "ps-list",
+      "url": "https://github.com/sindresorhus/ps-list",
+      "description": "Get running processes.",
+      "section": [
+        "Libraries",
+        "Processes"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/process-exists",
+      "name": "process-exists",
+      "url": "https://github.com/sindresorhus/process-exists",
+      "description": "Check if a process exists.",
+      "section": [
+        "Libraries",
+        "Processes"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/noop-stream",
+      "name": "noop-stream",
+      "url": "https://github.com/sindresorhus/noop-stream",
+      "description": "Cross-platform fs.createReadStream('/dev/null').",
+      "section": [
+        "Libraries",
+        "Streams"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/random-bytes-readable-stream",
+      "name": "random-bytes-readable-stream",
+      "url": "https://github.com/sindresorhus/random-bytes-readable-stream",
+      "description": "Cross-platform fs.createReadStream('/dev/urandom').",
+      "section": [
+        "Libraries",
+        "Streams"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/open",
+      "name": "open",
+      "url": "https://github.com/sindresorhus/open",
+      "description": "Opens stuff like websites, files, executables. Cross-platform.",
+      "section": [
+        "Libraries",
+        "Desktop UI"
+      ]
+    },
+    {
+      "key": "https://github.com/mikaelbr/node-notifier",
+      "name": "node-notifier",
+      "url": "https://github.com/mikaelbr/node-notifier",
+      "description": "Cross-platform desktop notifications.",
+      "section": [
+        "Libraries",
+        "Desktop UI"
+      ]
+    },
+    {
+      "key": "https://github.com/fresc81/node-winreg",
+      "name": "node-winreg",
+      "url": "https://github.com/fresc81/node-winreg",
+      "description": "Access the Windows registry.",
+      "section": [
+        "Libraries",
+        "Windows registry"
+      ]
+    },
+    {
+      "key": "https://github.com/MikeKovarik/rage-edit",
+      "name": "rage-edit",
+      "url": "https://github.com/MikeKovarik/rage-edit",
+      "description": "Access/modify the Windows registry.",
+      "section": [
+        "Libraries",
+        "Windows registry"
+      ]
+    },
+    {
+      "key": "https://github.com/CatalystCode/windows-registry-node",
+      "name": "windows-registry-node",
+      "url": "https://github.com/CatalystCode/windows-registry-node",
+      "description": "Access/modify the Windows registry and set file associations.",
+      "section": [
+        "Libraries",
+        "Windows registry"
+      ]
+    },
+    {
+      "key": "https://github.com/nodejs/node-v0.x-archive/issues/7940",
+      "name": "cmd.exe unicode woes",
+      "url": "https://github.com/nodejs/node-v0.x-archive/issues/7940",
+      "description": "By default, cmd.exe does not display Unicode characters on Windows.",
+      "section": [
+        "Known issues"
+      ]
+    },
+    {
+      "key": "https://github.com/nodejs/node-v0.x-archive/issues/2318",
+      "name": "spawn issues",
+      "url": "https://github.com/nodejs/node-v0.x-archive/issues/2318",
+      "description": "child_process.spawn() behavior is not consistent between Windows and Linux.",
+      "section": [
+        "Known issues"
+      ]
+    },
+    {
+      "key": "https://github.com/isaacs/spawn-wrap",
+      "name": "exec() behavior between shells",
+      "url": "https://github.com/isaacs/spawn-wrap#contracts-and-caveats",
+      "description": "Depending on the shell being used, e.g., bash vs. dash, child_process.exec() has inconsistent exit behavior.",
+      "section": [
+        "Known issues"
+      ]
+    },
+    {
+      "key": "https://github.com/styfle/awesome-desktop-js",
+      "name": "awesome-desktop-js",
+      "url": "https://github.com/styfle/awesome-desktop-js",
+      "description": "List of tools to build JavaScript applications on the desktop.",
+      "section": [
+        "See also"
+      ]
+    }
+  ]
+}

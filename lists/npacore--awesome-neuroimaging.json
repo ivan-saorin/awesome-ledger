@@ -1,0 +1,921 @@
+{
+  "etag": "W/\"3535a514965cc7ffab010c03a21587314d18ed3ff3ddf39d5f353c61156a4094\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/afniandafni/gui_guide/main_toc.html",
+      "name": "AFNI",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/afniandafni/gui_guide/main_toc.html",
+      "description": "Volumetric viewer from the AFNI suit. GUI's aesthetic defined by the '90s era Motif toolkit.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://surfer.nmr.mgh.harvard.edu/fswiki/FreeviewGuide/FreeviewIntroduction",
+      "name": "freeview",
+      "url": "https://surfer.nmr.mgh.harvard.edu/fswiki/FreeviewGuide/FreeviewIntroduction",
+      "description": "Surface and volumetric image viewer in Freesurfer suit. Uses the QT toolkit.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes",
+      "name": "fsleyes",
+      "url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes",
+      "description": "Volumetric viewer from FSL.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://nitrc.org/projects/mricron",
+      "name": "mricron",
+      "url": "https://www.nitrc.org/projects/mricron",
+      "description": "Volumetric viewer that works on windows.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://dsi-studio.labsolver.org/doc/gui_t1.html",
+      "name": "dsistudio",
+      "url": "https://dsi-studio.labsolver.org/doc/gui_t1.html",
+      "description": "DSI viewer from the dsi-studio suit of tools.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://osirix-viewer.com",
+      "name": "osirix",
+      "url": "https://www.osirix-viewer.com/",
+      "description": "DICOM database organizer and viewer.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://mangoviewer.com",
+      "name": "Mango",
+      "url": "https://mangoviewer.com/",
+      "description": "Multi-image Analysis GUI is a viewer for medical research images for dcm, nii, surface, etc; version 4.1 released in 2019.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://humanconnectome.org/software/connectome-workbench",
+      "name": "wb_view",
+      "url": "https://www.humanconnectome.org/software/connectome-workbench",
+      "description": "Connectome workbench surface file viewer.",
+      "section": [
+        "Viewers"
+      ]
+    },
+    {
+      "key": "https://dbic-handbook.readthedocs.io/en/latest/mri/reproin.html",
+      "name": "reproIn",
+      "url": "https://dbic-handbook.readthedocs.io/en/latest/mri/reproin.html",
+      "description": "Naming exam card sequences.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Organization"
+      ]
+    },
+    {
+      "key": "https://bids-specification.readthedocs.io/en/stable",
+      "name": "BIDS",
+      "url": "https://bids-specification.readthedocs.io/en/stable/",
+      "description": "Brain Imaging Data Structure - directory hierarchy and file naming specification.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Organization"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system",
+      "name": "PACS",
+      "url": "https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system",
+      "description": "Picture Archiving and Communication System standard used to store and transfer DICOM images from medical equipment and likely implemented by scanner manufacture. See Siemens Healthineers Syngo Carbon, Phillips Vue PACS, GE HealthCare True PACS.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://github.com/VUIIS/dax",
+      "name": "DAX",
+      "url": "https://github.com/VUIIS/dax",
+      "description": "Distributed Automation for XNAT: use containerization w/YAML defined input/output.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://xnat.org",
+      "name": "XNAT",
+      "url": "https://www.xnat.org/",
+      "description": "An extensible open-source imaging informatics software platform dedicated to imaging-based research.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://mcin.ca/technology/loris",
+      "name": "LORIS",
+      "url": "https://mcin.ca/technology/loris/",
+      "description": "Longitudinal Online Research and Imaging System is a web-based data and project management software for neuroimaging research studies.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://brainlife.io",
+      "name": "brainlife.io",
+      "url": "https://brainlife.io",
+      "description": "Open-source, free and secure reproducible neuroscience analysis platform.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://mcin.ca/technology/cbrain",
+      "name": "cbrain",
+      "url": "https://mcin.ca/technology/cbrain/",
+      "description": "Web-based software that allows neuroimaging researchers to perform computationally intensive analyses on data by connecting them to High-Performance Computing (HPC).",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://flywheel.io",
+      "name": "Flywheel",
+      "url": "https://flywheel.io",
+      "description": "A cloud-based imaging research data platform for data capture, curating, automation, and machine learning.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://qmenta.com",
+      "name": "QMENTA",
+      "url": "https://qmenta.com",
+      "description": "The all in one imaging platform for your clinical trial.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Management"
+      ]
+    },
+    {
+      "key": "https://firmm.readthedocs.io",
+      "name": "FIRMM",
+      "url": "https://firmm.readthedocs.io",
+      "description": "Real-time motion monitoring for fMRI, diffusion, and navigated T1/T2 image acquisition.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Motion"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/Dimon.html",
+      "name": "Dimon",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/Dimon.html",
+      "description": "Monitor real-time acquisition of DICOM image files with AFNI.",
+      "section": [
+        "Acquisition",
+        "MR",
+        "Motion"
+      ]
+    },
+    {
+      "key": "https://mriqc.readthedocs.io",
+      "name": "MRIQC",
+      "url": "https://mriqc.readthedocs.io/",
+      "description": "Extracts no-reference IQMs (image quality metrics) from structural (T1w and T2w) and functional MRI (magnetic resonance imaging) data.",
+      "section": [
+        "Quality Assurance and Checking"
+      ]
+    },
+    {
+      "key": "https://github.com/Open-Minds-Lab/mrQA",
+      "name": "mrQA",
+      "url": "https://github.com/Open-Minds-Lab/mrQA",
+      "description": "Tools for quality assurance in medical imaging datasets, including protocol compliance.",
+      "section": [
+        "Quality Assurance and Checking"
+      ]
+    },
+    {
+      "key": "https://github.com/bids-standard/bids-validator",
+      "name": "bids-validator",
+      "url": "https://github.com/bids-standard/bids-validator/",
+      "description": "Validator for the Brain Imaging Data Structure.",
+      "section": [
+        "Quality Assurance and Checking"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov",
+      "name": "AFNI",
+      "url": "https://afni.nimh.nih.gov/",
+      "description": "Analysis of Functional NeuroImages is a leading software suite of C, Python, R programs and shell scripts primarily developed for the analysis and display of multiple MRI modalities.",
+      "section": [
+        "Pipelines",
+        "Suites"
+      ]
+    },
+    {
+      "key": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki",
+      "name": "FSL",
+      "url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki",
+      "description": "A comprehensive library of analysis tools for FMRI, MRI and diffusion brain imaging data.",
+      "section": [
+        "Pipelines",
+        "Suites"
+      ]
+    },
+    {
+      "key": "https://fil.ion.ucl.ac.uk/spm",
+      "name": "SPM",
+      "url": "https://www.fil.ion.ucl.ac.uk/spm/",
+      "description": "Statistical Parametric Mapping refers to the construction and assessment of spatially extended statistical processes used to test hypotheses about functional imaging data.",
+      "section": [
+        "Pipelines",
+        "Suites"
+      ]
+    },
+    {
+      "key": "https://qunex.yale.edu",
+      "name": "Qu|Nex",
+      "url": "https://qunex.yale.edu/",
+      "description": "The Quantitative Neuroimaging Environment & Toolbox (QuNex) is an open-source software suite that collectively supports an extensible framework for data organization, preprocessing, quality assurance, and analyses across neuroimaging modalities.",
+      "section": [
+        "Pipelines",
+        "Suites"
+      ]
+    },
+    {
+      "key": "https://fmriprep.org",
+      "name": "fmriprep",
+      "url": "https://fmriprep.org/",
+      "description": "Accessible preprocessing pipeline robust to variations in scan acquisition protocols with comprehensive error and output reporting. Input is BIDS dataset.",
+      "section": [
+        "Pipelines",
+        "BOLD"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html",
+      "name": "afni_proc.py",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html",
+      "description": "Best practice pipelines with pre-configured blocks using AFNI.",
+      "section": [
+        "Pipelines",
+        "BOLD"
+      ]
+    },
+    {
+      "key": "https://github.com/HALFpipe/HALFpipe",
+      "name": "HALFpipe",
+      "url": "https://github.com/HALFpipe/HALFpipe",
+      "description": "User-friendly software that facilitates reproducible analysis of fMRI data.",
+      "section": [
+        "Pipelines",
+        "BOLD"
+      ]
+    },
+    {
+      "key": "https://xcp-d.readthedocs.io/en/latest",
+      "name": "XCP-D",
+      "url": "https://xcp-d.readthedocs.io/en/latest/",
+      "description": "Post-processing and noise regression pipeline picks up right where fMRIprep ends.",
+      "section": [
+        "Pipelines",
+        "BOLD"
+      ]
+    },
+    {
+      "key": "https://clpipe.readthedocs.io/en/latest",
+      "name": "clpipe",
+      "url": "https://clpipe.readthedocs.io/en/latest/",
+      "description": "Uses fmriprep for preprocessing fMRI data and implements a variety of additional processing steps important for functional connectivity analyses such as nuisance regression and filtering.",
+      "section": [
+        "Pipelines",
+        "BOLD"
+      ]
+    },
+    {
+      "key": "https://github.com/LabNeuroCogDevel/fmri_processing_scripts",
+      "name": "fmri_processing_scripts",
+      "url": "https://github.com/LabNeuroCogDevel/fmri_processing_scripts",
+      "description": "Legacy pipeline for maximal preprocessing.",
+      "section": [
+        "Pipelines",
+        "BOLD"
+      ]
+    },
+    {
+      "key": "https://humanconnectome.org/software/hcp-mr-pipelines",
+      "name": "HCP Pipeline",
+      "url": "https://www.humanconnectome.org/software/hcp-mr-pipelines",
+      "description": "Pipeline scripts implement the Minimal Preprocessing Pipeline (MPP) described in Glasser et al. 2013.",
+      "section": [
+        "Pipelines",
+        "BOLD"
+      ]
+    },
+    {
+      "key": "https://dsi-studio.labsolver.org",
+      "name": "dsi-studio",
+      "url": "https://dsi-studio.labsolver.org/",
+      "description": "A tractography software tool that maps brain connections and correlates findings with neuropsychological disorders.",
+      "section": [
+        "Pipelines",
+        "DSI"
+      ]
+    },
+    {
+      "key": "https://qsiprep.readthedocs.io",
+      "name": "qsiprep",
+      "url": "https://qsiprep.readthedocs.io/",
+      "description": "Configures pipelines for processing diffusion-weighted MRI (dMRI) data.",
+      "section": [
+        "Pipelines",
+        "DSI"
+      ]
+    },
+    {
+      "key": "https://freesurfer.net",
+      "name": "Freesurfer",
+      "url": "https://freesurfer.net/",
+      "description": "An open source neuroimaging toolkit for processing, analyzing, and visualizing human brain MR images.",
+      "section": [
+        "Pipelines",
+        "Structural"
+      ]
+    },
+    {
+      "key": "https://mcin.ca/technology/civet",
+      "name": "CIVET",
+      "url": "https://mcin.ca/technology/civet/",
+      "description": "An image processing pipeline for fully automated volumetric, corticometric, and morphometric analysis of human brain imaging data.",
+      "section": [
+        "Pipelines",
+        "Structural"
+      ]
+    },
+    {
+      "key": "https://github.com/rordenlab/dcm2niix",
+      "name": "dcm2niix",
+      "url": "https://github.com/rordenlab/dcm2niix",
+      "description": "DICOM to NIfTI converter.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://github.com/nipy/heudiconv",
+      "name": "heudiconv",
+      "url": "https://github.com/nipy/heudiconv/",
+      "description": "A flexible DICOM converter for organizing brain imaging data into structured directory layouts.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://sourceforge.net/projects/gdcm",
+      "name": "gdcm",
+      "url": "https://sourceforge.net/projects/gdcm/",
+      "description": "Grassroots DICOM is a C++ library and CLI tool for DICOM medical files.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://pydicom.github.io",
+      "name": "pydicom",
+      "url": "https://pydicom.github.io/",
+      "description": "Python package and cli tool for inspecting, modifying, and creating DICOM files.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/dicom_hinfo.html",
+      "name": "dicom_hinfo",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/dicom_hinfo.html",
+      "description": ", dicom_hdr - Prints selected information from the DICOM file.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://lncd.github.io/lncdtools/BIDS",
+      "name": "dcmdirtab, dcmtab_bids",
+      "url": "https://lncd.github.io/lncdtools/BIDS/",
+      "description": "CLI focused, regular expression based, and iteration friendly BIDS conversion pipeline from lncdtools.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://git.fmrib.ox.ac.uk/wclarke/pymapvbvd",
+      "name": "pymapVBVD",
+      "url": "https://git.fmrib.ox.ac.uk/wclarke/pymapvbvd",
+      "description": "Reads Siemens .dat 'twix' raw data files. Python port of Philipp Ehses' Matlab tool mapVBVD.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://github.com/FNNDSC/med2image/pulls",
+      "name": "med2image",
+      "url": "https://github.com/FNNDSC/med2image/pulls",
+      "description": "Python CLI tool for generating jpg or png images from DICOM or nifti files.",
+      "section": [
+        "Raw Data"
+      ]
+    },
+    {
+      "key": "https://frontiersin.org/articles/10.3389/fninf.2016.00002/full",
+      "name": "make",
+      "url": "https://www.frontiersin.org/articles/10.3389/fninf.2016.00002/full",
+      "description": "follow script recipes defined in Makefile.",
+      "section": [
+        "Provenance and Automation"
+      ]
+    },
+    {
+      "key": "https://github.com/datalad/datalad",
+      "name": "datalad",
+      "url": "https://github.com/datalad/datalad",
+      "description": "Keep code, data, containers under control with git and git-annex. Esp datalad run --input=... --output=....",
+      "section": [
+        "Provenance and Automation"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dNotes.html",
+      "name": "3dNotes",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dNotes.html",
+      "description": "A program to add, delete and show notes for AFNI datasets.",
+      "section": [
+        "Provenance and Automation"
+      ]
+    },
+    {
+      "key": "https://github.com/lncd/lncdtools/blob/master/niinote",
+      "name": "niinote",
+      "url": "https://github.com/lncd/lncdtools/blob/master/niinote",
+      "description": "Add AFNI nifti XML history to header to run and record any command. Part of lncdtools.",
+      "section": [
+        "Provenance and Automation"
+      ]
+    },
+    {
+      "key": "https://montilab.psych.ucla.edu/fmri-wiki/optibet",
+      "name": "optibet",
+      "url": "https://montilab.psych.ucla.edu/fmri-wiki/optibet/",
+      "description": "Shell script to combine afni and fsl tools for more robust skull stripping in patient populations.",
+      "section": [
+        "Imaging Tools",
+        "Skullstripping"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html",
+      "name": "3dSkullStrip",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html",
+      "description": "AFNI's skull stripping utility with many parameters.",
+      "section": [
+        "Imaging Tools",
+        "Skullstripping"
+      ]
+    },
+    {
+      "key": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide",
+      "name": "bet",
+      "url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide",
+      "description": "FSL's brain extraction tool.",
+      "section": [
+        "Imaging Tools",
+        "Skullstripping"
+      ]
+    },
+    {
+      "key": "https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ants.html",
+      "name": "antsBrainExtraction.sh",
+      "url": "https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ants.html",
+      "description": "ANTs version.",
+      "section": [
+        "Imaging Tools",
+        "Skullstripping"
+      ]
+    },
+    {
+      "key": "https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed",
+      "name": "mri-watershed",
+      "url": "https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed",
+      "description": "Part of the Freesurfer pipeline.",
+      "section": [
+        "Imaging Tools",
+        "Skullstripping"
+      ]
+    },
+    {
+      "key": "https://nitrc.org/projects/robex",
+      "name": "ROBEX",
+      "url": "https://www.nitrc.org/projects/robex",
+      "description": "Robust Brain Extraction without parameter tweaking.",
+      "section": [
+        "Imaging Tools",
+        "Skullstripping"
+      ]
+    },
+    {
+      "key": "https://stnava.github.io/ANTs",
+      "name": "ANTs",
+      "url": "http://stnava.github.io/ANTs/",
+      "description": "Advanced Normalization Tools includes probabilistic tissue segmentation and machine learning methods based on expert labeled data to order to maximize reliability and consistency of multiple modality image segmentation.",
+      "section": [
+        "Imaging Tools",
+        "Warping"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dQwarp.html",
+      "name": "3dQwarp",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dQwarp.html",
+      "description": "OpenMP parallelized AFNI tool to compute a nonlinearly warped version of source dataset to match a base dataset.",
+      "section": [
+        "Imaging Tools",
+        "Warping"
+      ]
+    },
+    {
+      "key": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FNIRT/UserGuide",
+      "name": "flirt, fnirt",
+      "url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FNIRT/UserGuide",
+      "description": "Warping software provided by FSL tools.",
+      "section": [
+        "Imaging Tools",
+        "Warping"
+      ]
+    },
+    {
+      "key": "https://templateflow.org",
+      "name": "templateflow",
+      "url": "https://www.templateflow.org/",
+      "description": "A modular, version-controlled resource that allows researchers to use templates \"off-the-shelf\" and share new ones.",
+      "section": [
+        "Imaging Tools",
+        "Warping",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009",
+      "name": "MNI152",
+      "url": "https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009",
+      "description": "Unbiased standard magnetic resonance imaging template brain volume for normal population.",
+      "section": [
+        "Imaging Tools",
+        "Warping",
+        "Templates"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dcalc.html",
+      "name": "3dcalc",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dcalc.html",
+      "description": "Voxel-by-voxel arithmetic on 1D to 4D datasets. From AFNI.",
+      "section": [
+        "Imaging Tools",
+        "Manipulation"
+      ]
+    },
+    {
+      "key": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Fslutils",
+      "name": "fslmaths",
+      "url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Fslutils#:~:text=a%20combined%20image.-,fslmaths,--%20simple%20but%20powerful",
+      "description": "Simple but powerful program to allow mathematical manipulation of images. From FSL.",
+      "section": [
+        "Imaging Tools",
+        "Manipulation"
+      ]
+    },
+    {
+      "key": "https://freesurfer.net/pub/dist/freesurfer/dev_binaries/centos6_x86_64/fscalc.fsl",
+      "name": "fscalc",
+      "url": "https://www.freesurfer.net/pub/dist/freesurfer/dev_binaries/centos6_x86_64/fscalc.fsl",
+      "description": "Freesurfer wrapper of fslmaths.",
+      "section": [
+        "Imaging Tools",
+        "Manipulation"
+      ]
+    },
+    {
+      "key": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDeconvolve.html",
+      "name": "3dDeconvolve",
+      "url": "https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDeconvolve.html",
+      "description": "AFNI - Program to calculate the deconvolution of a measurement 3D+time dataset with a specified input stimulus time series. This program can also perform multiple linear regression using multiple input stimulus time series.",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "HRF"
+      ]
+    },
+    {
+      "key": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FEAT",
+      "name": "FEAT",
+      "url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FEAT",
+      "description": "GUI guided analysis of simple experiment based on general linear modeling. Part of FSL.",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "HRF"
+      ]
+    },
+    {
+      "key": "https://github.com/schorschinho/LCModel",
+      "name": "lcmodel",
+      "url": "https://github.com/schorschinho/LCModel",
+      "description": "Implements linear-combination modeling of magnetic resonance spectroscopy data.",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "MRSI"
+      ]
+    },
+    {
+      "key": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL-MRS",
+      "name": "FSL-MRS",
+      "url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL-MRS",
+      "description": "A suite of tools for MR Spectroscopy, including single voxel (SVS), MRS imaging (MRSI), functional MRS (fMRS), diffusion MRS (dwMRS), edited spectroscopy, etc.",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "MRSI"
+      ]
+    },
+    {
+      "key": "https://github.com/schorschinho/osprey",
+      "name": "Osprey",
+      "url": "https://github.com/schorschinho/osprey",
+      "description": "An all-in-one software suite for state-of-the art processing and quantitative analysis of in-vivo magnetic resonance spectroscopy (MRS) data.",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "MRSI"
+      ]
+    },
+    {
+      "key": "https://fooof-tools.github.io/fooof/index.html",
+      "name": "fooof",
+      "url": "https://fooof-tools.github.io/fooof/index.html",
+      "description": "Fast, efficient, and physiologically-informed tool to parameterize neural power spectra.",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "EEG"
+      ]
+    },
+    {
+      "key": "https://github.com/elifesciences-publications/ei_hurst",
+      "name": "hurst",
+      "url": "https://github.com/elifesciences-publications/ei_hurst/",
+      "description": "Algorithm to assess intrinsic excitation-inhibition imbalance in MR (Trakoshis et al, eLife, 2020).",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://lncd.github.io/lncdtools/tat2",
+      "name": "tat2",
+      "url": "https://lncd.github.io/lncdtools/tat2/",
+      "description": "Time-averaged T2* wrapper script using AFNI binaries from lncdtools.",
+      "section": [
+        "Imaging Tools",
+        "Modeling",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://nipy.org",
+      "name": "nipy",
+      "url": "https://nipy.org/",
+      "description": "Includes nibabel, nipype, and nilearn.",
+      "section": [
+        "Libraries",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/bjw34032/oro.nifti",
+      "name": "oro.nifti",
+      "url": "https://github.com/bjw34032/oro.nifti",
+      "description": "Functions for the input/output and visualization of medical imaging data that follow either the ANALYZE, NIfTI or AFNI formats.",
+      "section": [
+        "Libraries",
+        "R"
+      ]
+    },
+    {
+      "key": "https://github.com/tanguyduval/imtool3D_td",
+      "name": "imtool3D_td",
+      "url": "https://github.com/tanguyduval/imtool3D_td",
+      "description": "3D Image Viewer with ROI tools for Matlab (NIFTI viewer, Manual segmentation).",
+      "section": [
+        "Libraries",
+        "MATLAB"
+      ]
+    },
+    {
+      "key": "https://andysbrainblog.com",
+      "name": "Andy's brain blog",
+      "url": "https://andysbrainblog.com/",
+      "description": "Tutorials and videos about neuroimaging analysis from start to finish in all the major software packages (AFNI, SPM, and FSL).",
+      "section": [
+        "Resources",
+        "Blogs, Books, and Docs"
+      ]
+    },
+    {
+      "key": "https://handbook.datalad.org",
+      "name": "DataLad handbook",
+      "url": "https://handbook.datalad.org/",
+      "description": "Start-to-end use cases of specific applications in neuroimaging using provenance tracking software datalad.",
+      "section": [
+        "Resources",
+        "Blogs, Books, and Docs"
+      ]
+    },
+    {
+      "key": "https://learn-neuroimaging.github.io/hitchhackers_guide_brain",
+      "name": "Hitchhacker's guide to the brain",
+      "url": "https://learn-neuroimaging.github.io/hitchhackers_guide_brain/",
+      "description": "Notes from study planning to reporting and data sharing by way of acquisition, processing, analysis, and quality control.",
+      "section": [
+        "Resources",
+        "Blogs, Books, and Docs"
+      ]
+    },
+    {
+      "key": "https://github.com/Remi-Gau/online_neuroimaging_resources",
+      "name": "Online Neuroimaging Resources",
+      "url": "https://github.com/Remi-Gau/online_neuroimaging_resources",
+      "description": "A laundry list of online resources for MRI, fMRI, EEG, MEG.",
+      "section": [
+        "Resources",
+        "Blogs, Books, and Docs"
+      ]
+    },
+    {
+      "key": "https://neuroimaging-core-docs.readthedocs.io",
+      "name": "U of A: Neuroimaging Core Documentation",
+      "url": "https://neuroimaging-core-docs.readthedocs.io/",
+      "description": "Documentation for approaches used and/or developed by the neuroimaging core at the University of Arizona.",
+      "section": [
+        "Resources",
+        "Blogs, Books, and Docs"
+      ]
+    },
+    {
+      "key": "https://neurostars.org",
+      "name": "neurostars",
+      "url": "https://neurostars.org/",
+      "description": "General neuroimaging discuss form. fmriprep suggested Q&A site.",
+      "section": [
+        "Resources",
+        "Boards And Chats"
+      ]
+    },
+    {
+      "key": "https://discuss.afni.nimh.nih.gov",
+      "name": "afni discuss",
+      "url": "https://discuss.afni.nimh.nih.gov",
+      "description": "AFNI's discuss instance.",
+      "section": [
+        "Resources",
+        "Boards And Chats"
+      ]
+    },
+    {
+      "key": "https://mattermost.brainhack.org",
+      "name": "brainhack",
+      "url": "https://mattermost.brainhack.org/",
+      "description": "A mattermoust community of neuroimagers.",
+      "section": [
+        "Resources",
+        "Boards And Chats"
+      ]
+    },
+    {
+      "key": "https://openneuro.org",
+      "name": "openneuro",
+      "url": "https://openneuro.org/",
+      "description": "A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data.",
+      "section": [
+        "Resources",
+        "Datasets Repositories"
+      ]
+    },
+    {
+      "key": "https://nda.nih.gov",
+      "name": "NDA",
+      "url": "https://nda.nih.gov/",
+      "description": "National Institute of Mental Health Data Archive (NDA) makes available human subjects data collected from hundreds of research projects across many scientific domains.",
+      "section": [
+        "Resources",
+        "Datasets Repositories"
+      ]
+    },
+    {
+      "key": "https://nitrc.org",
+      "name": "NITRC",
+      "url": "https://www.nitrc.org/",
+      "description": "NeuroImaging Tools & Resources Collaboratory library of neuroinformatics software and data.",
+      "section": [
+        "Resources",
+        "Datasets Repositories"
+      ]
+    },
+    {
+      "key": "https://abcdstudy.org",
+      "name": "ABCD",
+      "url": "https://abcdstudy.org/",
+      "description": "Long-term Adolescent Brain Cognitive Development study including 1000s of longitudinal MRI scans.",
+      "section": [
+        "Resources",
+        "Datasets Repositories",
+        "Big datasets"
+      ]
+    },
+    {
+      "key": "https://ukbiobank.ac.uk",
+      "name": "UK Biobank",
+      "url": "https://www.ukbiobank.ac.uk/",
+      "description": "A large-scale biomedical database and research resource with 500,000 research participants.",
+      "section": [
+        "Resources",
+        "Datasets Repositories",
+        "Big datasets"
+      ]
+    },
+    {
+      "key": "https://ncanda.org",
+      "name": "NCANDA",
+      "url": "http://www.ncanda.org/",
+      "description": "National Consortium on Alcohol and Neurodevelopment in Adolescence (4000+ MR visits).",
+      "section": [
+        "Resources",
+        "Datasets Repositories",
+        "Big datasets"
+      ]
+    },
+    {
+      "key": "https://med.upenn.edu/bbl/philadelphianeurodevelopmentalcohort.html",
+      "name": "PNC",
+      "url": "https://www.med.upenn.edu/bbl/philadelphianeurodevelopmentalcohort.html",
+      "description": "A population-based sample of over 9500 individuals from the greater Philadelphia area, ages 8-21 years who received medical care at the CHOP network.",
+      "section": [
+        "Resources",
+        "Datasets Repositories",
+        "Big datasets"
+      ]
+    },
+    {
+      "key": "https://enigma.ini.usc.edu",
+      "name": "ENIGMA",
+      "url": "https://enigma.ini.usc.edu/",
+      "description": "The Enhancing Neuro Imaging Genetics through Meta Analysis Consortium contains 50 working group's imaging and genomics data.",
+      "section": [
+        "Resources",
+        "Datasets Repositories",
+        "Big datasets"
+      ]
+    }
+  ]
+}

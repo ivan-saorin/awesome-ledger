@@ -1,0 +1,2995 @@
+{
+  "etag": "W/\"187e02061f84420a92f9385f7d38deccf0a8b97eba54a31d71a7d9064eb8477a\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://honerix.com",
+      "name": "honerix",
+      "url": "https://www.honerix.com",
+      "description": "Honerix is a distributed system for capturing web-based attacks. Honerix works by simulating vulnerable applications, with the goal of pushing attackers into deploying their malicious payload.",
+      "section": [
+        "Commercial Honepots"
+      ]
+    },
+    {
+      "key": "https://github.com/caesar0301/awesome-pcaptools",
+      "name": "awesome-pcaptools",
+      "url": "https://github.com/caesar0301/awesome-pcaptools",
+      "description": "Useful in network traffic analysis.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/rshipp/awesome-malware-analysis",
+      "name": "awesome-malware-analysis",
+      "url": "https://github.com/rshipp/awesome-malware-analysis",
+      "description": "Some overlap here for artifact analysis.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://cyberbriefing.info",
+      "name": "CyberBriefing IOC Feeds API",
+      "url": "https://cyberbriefing.info",
+      "description": "REST API with 63K+ active IOCs from 20+ feeds. Useful for cross-referencing honeypot-captured IPs and domains against known malicious indicators. Free tier available.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/acra",
+      "name": "Acra",
+      "url": "https://github.com/cossacklabs/acra",
+      "description": "Effective SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system based on using honeypots/poison records in the database.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Novetta/delilah",
+      "name": "Delilah",
+      "url": "https://github.com/Novetta/delilah",
+      "description": "An Elasticsearch Honeypot written in Python.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mycert/ESPot",
+      "name": "ESPot",
+      "url": "https://github.com/mycert/ESPot",
+      "description": "An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/jordan-wright/elastichoney",
+      "name": "Elastic honey",
+      "url": "https://github.com/jordan-wright/elastichoney",
+      "description": "A Simple Elasticsearch Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/xiaoxiaoleo/HoneyMysql",
+      "name": "HoneyMysql",
+      "url": "https://github.com/xiaoxiaoleo/HoneyMysql",
+      "description": "A simple Mysql honeypot project.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Plazmaz/MongoDB-HoneyProxy",
+      "name": "MongoDB-HoneyProxy",
+      "url": "https://github.com/Plazmaz/MongoDB-HoneyProxy",
+      "description": "A MongoDB honeypot proxy.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/torque59/nosqlpot",
+      "name": "NoSQLpot",
+      "url": "https://github.com/torque59/nosqlpot",
+      "description": "The NoSQL Honeypot Framework.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sjinks/mysql-honeypotd",
+      "name": "mysql-honeypotd",
+      "url": "https://github.com/sjinks/mysql-honeypotd",
+      "description": "Low interaction MySQL honeypot written in C.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/schmalle/MysqlPot",
+      "name": "MysqlPot",
+      "url": "https://github.com/schmalle/MysqlPot",
+      "description": "A mysql honeypot, still very very early stage.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/betheroot/pghoney",
+      "name": "pghoney",
+      "url": "https://github.com/betheroot/pghoney",
+      "description": "Low-interaction Postgres Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/betheroot/sticky_elephant",
+      "name": "sticky_elephant",
+      "url": "https://github.com/betheroot/sticky_elephant",
+      "description": "medium interaction postgresql honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/SecurityTW/delilah",
+      "name": "Delilah",
+      "url": "https://github.com/SecurityTW/delilah",
+      "description": "Elasticsearch Honeypot written in Python (originally from Novetta).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/bontchev/elasticpot",
+      "name": "ElasticPot",
+      "url": "https://gitlab.com/bontchev/elasticpot",
+      "description": "An Elasticsearch Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/cypwnpwnsocute/RedisHoneyPot",
+      "name": "RedisHoneyPot",
+      "url": "https://github.com/cypwnpwnsocute/RedisHoneyPot",
+      "description": "High Interaction Honeypot Solution for Redis protocol.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/jeremyfritzen/Ethereum-honey-pot",
+      "name": "Ethereum-honey-pot",
+      "url": "https://github.com/jeremyfritzen/Ethereum-honey-pot",
+      "description": "Tool hacking-back hackers who tried to steal tokens.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/BlessedRebuS/Krawl",
+      "name": "Krawl",
+      "url": "https://github.com/BlessedRebuS/Krawl",
+      "description": "Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/SAP/cloud-active-defense?tab=readme-ov-file",
+      "name": "Cloud Active Defense",
+      "url": "https://github.com/SAP/cloud-active-defense?tab=readme-ov-file",
+      "description": "Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/christophe77/express-honeypot",
+      "name": "Express honeypot",
+      "url": "https://github.com/christophe77/express-honeypot",
+      "description": "RFI & LFI honeypot using nodeJS and express.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/eymengunay/EoHoneypotBundle",
+      "name": "EoHoneypotBundle",
+      "url": "https://github.com/eymengunay/EoHoneypotBundle",
+      "description": "Honeypot type for Symfony2 forms.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/WebDecoy/FCaptcha",
+      "name": "FCaptcha",
+      "url": "https://github.com/WebDecoy/FCaptcha",
+      "description": "Self-hosted CAPTCHA that acts as an inline honeypot, detecting bots and vision AI agents through 40+ behavioral signals, headless browser fingerprinting, and SHA-256 proof of work.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mushorg/glastopf",
+      "name": "Glastopf",
+      "url": "https://github.com/mushorg/glastopf",
+      "description": "Web Application Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://ghh.sourceforge.net",
+      "name": "Google Hack Honeypot",
+      "url": "http://ghh.sourceforge.net",
+      "description": "Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/yunginnanet/HellPot",
+      "name": "HellPot",
+      "url": "https://github.com/yunginnanet/HellPot",
+      "description": "Honeypot that tries to crash the bots and clients that visit it's location.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/msurguy/Honeypot",
+      "name": "Laravel Application Honeypot",
+      "url": "https://github.com/msurguy/Honeypot",
+      "description": "Simple spam prevention package for Laravel applications.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mrheinen/lophiid",
+      "name": "Lophiid",
+      "url": "https://github.com/mrheinen/lophiid/",
+      "description": "Distributed web application honeypot to interact with large scale exploitation attempts.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/schmalle/Nodepot",
+      "name": "Nodepot",
+      "url": "https://github.com/schmalle/Nodepot",
+      "description": "NodeJS web application honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Marist-Innovation-Lab/PasitheaHoneypot",
+      "name": "PasitheaHoneypot",
+      "url": "https://github.com/Marist-Innovation-Lab/PasitheaHoneypot",
+      "description": "RestAPI honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/schmalle/servletpot",
+      "name": "Servletpot",
+      "url": "https://github.com/schmalle/servletpot",
+      "description": "Web application Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://shadowd.zecure.org/overview/introduction",
+      "name": "Shadow Daemon",
+      "url": "https://shadowd.zecure.org/overview/introduction/",
+      "description": "Modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl, and Python apps.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Cymmetria/StrutsHoneypot",
+      "name": "StrutsHoneypot",
+      "url": "https://github.com/Cymmetria/StrutsHoneypot",
+      "description": "Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/IllusiveNetworks-Labs/WebTrap",
+      "name": "WebTrap",
+      "url": "https://github.com/IllusiveNetworks-Labs/WebTrap",
+      "description": "Designed to create deceptive webpages to deceive and redirect attackers away from real websites.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/bjeborn/basic-auth-pot",
+      "name": "basic-auth-pot (bap)",
+      "url": "https://github.com/bjeborn/basic-auth-pot",
+      "description": "HTTP Basic Authentication honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/graneed/bwpot",
+      "name": "bwpot",
+      "url": "https://github.com/graneed/bwpot",
+      "description": "Breakable Web applications honeyPot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/dmpayton/django-admin-honeypot",
+      "name": "django-admin-honeypot",
+      "url": "https://github.com/dmpayton/django-admin-honeypot",
+      "description": "Fake Django admin login screen to notify admins of attempted unauthorized access.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/d1str0/drupot",
+      "name": "drupo",
+      "url": "https://github.com/d1str0/drupot",
+      "description": "Drupal Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/andrewmichaelsmith/flux",
+      "name": "flux",
+      "url": "https://github.com/andrewmichaelsmith/flux",
+      "description": "Dynamic Web Honeypot with Canary Token Integration that is being actively maintained by LLMs.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/0x4D31/galah",
+      "name": "galah",
+      "url": "https://github.com/0x4D31/galah",
+      "description": "an LLM-powered web honeypot using the OpenAI API.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/bocajspear1/honeyhttpd",
+      "name": "honeyhttpd",
+      "url": "https://github.com/bocajspear1/honeyhttpd",
+      "description": "Python-based web server honeypot builder.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/LogoiLab/honeyup",
+      "name": "honeyup",
+      "url": "https://github.com/LogoiLab/honeyup",
+      "description": "An uploader honeypot designed to look like poor website security.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/referefref/modpot",
+      "name": "modpot",
+      "url": "https://github.com/referefref/modpot",
+      "description": "Modpot is a modular web application honeypot framework and management application written in Golang and making use of gin framework.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/GetPageSpeed/nginx-honeypot",
+      "name": "nginx-honeypot",
+      "url": "https://github.com/GetPageSpeed/nginx-honeypot",
+      "description": "A simple honeypot based on NGINX configuration that logs and blocks bots scanning for vulnerabilities.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/joda32/owa-honeypot",
+      "name": "owa-honeypot",
+      "url": "https://github.com/joda32/owa-honeypot",
+      "description": "A basic flask based Outlook Web Honey pot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/gfoss/phpmyadmin_honeypot",
+      "name": "phpmyadmin_honeypot",
+      "url": "https://github.com/gfoss/phpmyadmin_honeypot",
+      "description": "Simple and effective phpMyAdmin honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/threatstream/shockpot",
+      "name": "shockpot",
+      "url": "https://github.com/threatstream/shockpot",
+      "description": "WebApp Honeypot for detecting Shell Shock exploit attempts.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/freak3dot/smart-honeypot",
+      "name": "smart-honeypot",
+      "url": "https://github.com/freak3dot/smart-honeypot",
+      "description": "PHP Script demonstrating a smart honey pot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mushorg/snare",
+      "name": "Snare",
+      "url": "https://github.com/mushorg/snare",
+      "description": "Super Next generation Advanced Reactive honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mushorg/tanner",
+      "name": "Tanner",
+      "url": "https://github.com/mushorg/tanner",
+      "description": "Evaluating SNARE events.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/CHH/stack-honeypot",
+      "name": "stack-honeypot",
+      "url": "https://github.com/CHH/stack-honeypot",
+      "description": "Inserts a trap for spam bots into responses.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/helospark/tomcat-manager-honeypot",
+      "name": "tomcat-manager-honeypot",
+      "url": "https://github.com/helospark/tomcat-manager-honeypot",
+      "description": "Honeypot that mimics Tomcat manager endpoints. Logs requests and saves attacker's WAR file for later study.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinIngesen/HonnyPotter",
+      "name": "HonnyPotter",
+      "url": "https://github.com/MartinIngesen/HonnyPotter",
+      "description": "WordPress login honeypot for collection and analysis of failed login attempts.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/kungfuguapo/HoneyPress",
+      "name": "HoneyPress",
+      "url": "https://github.com/kungfuguapo/HoneyPress",
+      "description": "Python based WordPress honeypot in a Docker container.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/freak3dot/wp-smart-honeypot",
+      "name": "wp-smart-honeypot",
+      "url": "https://github.com/freak3dot/wp-smart-honeypot",
+      "description": "WordPress plugin to reduce comment spam with a smarter honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/WebDecoy/wordpress-plugin",
+      "name": "WebDecoy",
+      "url": "https://github.com/WebDecoy/wordpress-plugin",
+      "description": "Zero-configuration WordPress plugin with invisible honeypot fields, behavioral analysis, and SHA-256 proof-of-work challenges to detect bots, headless browsers, and automation frameworks.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/gbrindisi/wordpot",
+      "name": "wordpot",
+      "url": "https://github.com/gbrindisi/wordpot",
+      "description": "WordPress Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/OWASP/Python-Honeypot",
+      "name": "Python-Honeypot",
+      "url": "https://github.com/OWASP/Python-Honeypot",
+      "description": "OWASP Honeypot, Automated Deception Framework.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/huuck/ADBHoney",
+      "name": "ADBHoney",
+      "url": "https://github.com/huuck/ADBHoney",
+      "description": "Low interaction honeypot that simulates an Android device running Android Debug Bridge (ADB) server process.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/packetflare/amthoneypot",
+      "name": "AMTHoneypot",
+      "url": "https://github.com/packetflare/amthoneypot",
+      "description": "Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/aelth/ddospot",
+      "name": "ddospot",
+      "url": "https://github.com/aelth/ddospot",
+      "description": "NTP, DNS, SSDP, Chargen and generic UDP-based amplification DDoS honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/DinoTools/dionaea",
+      "name": "dionaea",
+      "url": "https://github.com/DinoTools/dionaea",
+      "description": "Home of the dionaea honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ciscocsirt/dhp",
+      "name": "dhp",
+      "url": "https://github.com/ciscocsirt/dhp",
+      "description": "Simple Docker Honeypot server emulating small snippets of the Docker HTTP API.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Marist-Innovation-Lab/DolosHoneypot",
+      "name": "DolosHoneypot",
+      "url": "https://github.com/Marist-Innovation-Lab/DolosHoneypot",
+      "description": "SDN (software defined networking) honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ahoernecke/ensnare",
+      "name": "Ensnare",
+      "url": "https://github.com/ahoernecke/ensnare",
+      "description": "Easy to deploy Ruby honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ls1911/GenAIPot",
+      "name": "GenAIPot",
+      "url": "https://github.com/ls1911/GenAIPot",
+      "description": "The first A.I based open source honeypot. supports POP3 and SMTP protocols and generates content using A.I based on user description.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Zeerg/helix-honeypot",
+      "name": "Helix",
+      "url": "https://github.com/Zeerg/helix-honeypot",
+      "description": "K8s API Honeypot with Active Defense Capabilities.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Cymmetria/honeycomb_plugins",
+      "name": "honeycomb_plugins",
+      "url": "https://github.com/Cymmetria/honeycomb_plugins",
+      "description": "Plugin repository for Honeycomb, the honeypot framework by Cymmetria.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/fygrave/honeyntp",
+      "name": "honeyntp",
+      "url": "https://github.com/fygrave/honeyntp",
+      "description": "NTP logger/honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/alexbredo/honeypot-camera",
+      "name": "honeypot-camera",
+      "url": "https://github.com/alexbredo/honeypot-camera",
+      "description": "Observation camera honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/alexbredo/honeypot-ftp",
+      "name": "honeypot-ftp",
+      "url": "https://github.com/alexbredo/honeypot-ftp",
+      "description": "FTP Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/qeeqbox/honeypots",
+      "name": "honeypots",
+      "url": "https://github.com/qeeqbox/honeypots",
+      "description": "25 different honeypots in a single pypi package! (dns, ftp, httpproxy, http, https, imap, mysql, pop3, postgres, redis, smb, smtp, socks5, ssh, telnet, vnc, mssql, elastic, ldap, ntp, memcache, snmp, oracle, sip and irc).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/honeytrap/honeytrap",
+      "name": "honeytrap",
+      "url": "https://github.com/honeytrap/honeytrap",
+      "description": "Advanced Honeypot framework written in Go that can be connected with other honeypot software.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/foospidy/HoneyPy",
+      "name": "HoneyPy",
+      "url": "https://github.com/foospidy/HoneyPy",
+      "description": "Low interaction honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/UHH-ISS/honeygrove",
+      "name": "Honeygrove",
+      "url": "https://github.com/UHH-ISS/honeygrove",
+      "description": "Multi-purpose modular honeypot based on Twisted.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/securitygeneration/Honeyport",
+      "name": "Honeyport",
+      "url": "https://github.com/securitygeneration/Honeyport",
+      "description": "Simple honeyport written in Bash and Python.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/glaslos/honeyprint",
+      "name": "Honeyprint",
+      "url": "https://github.com/glaslos/honeyprint",
+      "description": "Printer honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/r/lyrebird/honeypot-base",
+      "name": "Lyrebird",
+      "url": "https://hub.docker.com/r/lyrebird/honeypot-base/",
+      "description": "Modern high-interaction honeypot framework.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Cymmetria/micros_honeypot",
+      "name": "MICROS honeypot",
+      "url": "https://github.com/Cymmetria/micros_honeypot",
+      "description": "Low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/christophe77/node-ftp-honeypot",
+      "name": "node-ftp-honeypot",
+      "url": "https://github.com/christophe77/node-ftp-honeypot",
+      "description": "FTP server honeypot in JS.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/gosecure/pyrdp",
+      "name": "pyrdp",
+      "url": "https://github.com/gosecure/pyrdp",
+      "description": "RDP man-in-the-middle and library for Python 3 with the ability to watch connections live or after the fact.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/kryptoslogic/rdppot",
+      "name": "rdppot",
+      "url": "https://github.com/kryptoslogic/rdppot",
+      "description": "RDP honeypot",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/citronneur/rdpy",
+      "name": "RDPy",
+      "url": "https://github.com/citronneur/rdpy",
+      "description": "Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/r0hi7/HoneySMB",
+      "name": "SMB Honeypot",
+      "url": "https://github.com/r0hi7/HoneySMB",
+      "description": "High interaction SMB service honeypot capable of capturing wannacry-like Malware.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/inguardians/toms_honeypot",
+      "name": "Tom's Honeypot",
+      "url": "https://github.com/inguardians/toms_honeypot",
+      "description": "Low interaction Python honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/0xBallpoint/trapster-community",
+      "name": "Trapster Commmunity",
+      "url": "https://github.com/0xBallpoint/trapster-community",
+      "description": "Modural and easy to install Python Honeypot, with comprehensive alerting",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/dutchcoders/troje",
+      "name": "troje",
+      "url": "https://github.com/dutchcoders/troje/",
+      "description": "Honeypot that runs each connection with the service within a separate LXC container.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Cymmetria/weblogic_honeypot",
+      "name": "WebLogic honeypot",
+      "url": "https://github.com/Cymmetria/weblogic_honeypot",
+      "description": "Low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/csirtgadgets/csirtg-honeypot",
+      "name": "WhiteFace Honeypot",
+      "url": "https://github.com/csirtgadgets/csirtg-honeypot",
+      "description": "Twisted based honeypot for WhiteFace.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/RevengeComing/DemonHunter",
+      "name": "DemonHunter",
+      "url": "https://github.com/RevengeComing/DemonHunter",
+      "description": "Low interaction honeypot server.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/referefref/canarytokendetector",
+      "name": "canarytokendetector",
+      "url": "https://github.com/referefref/canarytokendetector",
+      "description": "Tool for detection and nullification of Thinkst CanaryTokens",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/referefref/honeydet",
+      "name": "honeydet",
+      "url": "https://github.com/referefref/honeydet",
+      "description": "Signature based honeypot detector tool written in Golang",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/andrew-morris/kippo_detect",
+      "name": "kippo_detect",
+      "url": "https://github.com/andrew-morris/kippo_detect",
+      "description": "Offensive component that detects the presence of the kippo honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/f0rw4rd/potsnitch",
+      "name": "potsnitch",
+      "url": "https://github.com/f0rw4rd/potsnitch",
+      "description": "Honeypot detection toolkit with protocol fingerprinting for 25+ honeypot types.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mushorg/conpot",
+      "name": "Conpot",
+      "url": "https://github.com/mushorg/conpot",
+      "description": "ICS/SCADA honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sjhilt/GasPot",
+      "name": "GasPot",
+      "url": "https://github.com/sjhilt/GasPot",
+      "description": "Veeder Root Gaurdian AST, common in the oil and gas industry.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://scadahoneynet.sourceforge.net",
+      "name": "SCADA honeynet",
+      "url": "http://scadahoneynet.sourceforge.net",
+      "description": "Building Honeypots for Industrial Networks.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sk4ld/gridpot",
+      "name": "gridpot",
+      "url": "https://github.com/sk4ld/gridpot",
+      "description": "Open source tools for realistic-behaving electric grid honeynets.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication",
+      "name": "scada-honeynet",
+      "url": "http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/",
+      "description": "Mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sefcom/honeyplc",
+      "name": "HoneyPLC",
+      "url": "https://github.com/sefcom/honeyplc",
+      "description": "Mimics multiple PLC devices, including Siemenens and Rockewell",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/HoneySat/honeysat-deploy",
+      "name": "HoneySat",
+      "url": "https://github.com/HoneySat/honeysat-deploy",
+      "description": "Mimics multiple satellite missions",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/MalwareTech/CitrixHoneypot",
+      "name": "CitrixHoneypot",
+      "url": "https://github.com/MalwareTech/CitrixHoneypot",
+      "description": "Detect and log CVE-2019-19781 scan and exploitation attempts.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/naorlivne/dshp",
+      "name": "Damn Simple Honeypot (DSHP)",
+      "url": "https://github.com/naorlivne/dshp",
+      "description": "Honeypot framework with pluggable handlers.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/nsmfoo/dicompot",
+      "name": "dicompot",
+      "url": "https://github.com/nsmfoo/dicompot",
+      "description": "DICOM Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/bontchev/ipphoney",
+      "name": "IPP Honey",
+      "url": "https://gitlab.com/bontchev/ipphoney",
+      "description": "A honeypot for the Internet Printing Protocol.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/thomaspatzke/Log4Pot",
+      "name": "Log4Pot",
+      "url": "https://github.com/thomaspatzke/Log4Pot",
+      "description": "A honeypot for the Log4Shell vulnerability (CVE-2021-44228).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ivre/masscanned",
+      "name": "Masscanned",
+      "url": "https://github.com/ivre/masscanned",
+      "description": "Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/schmalle/medpot",
+      "name": "medpot",
+      "url": "https://github.com/schmalle/medpot",
+      "description": "HL7 / FHIR honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/DataSoft/Nova",
+      "name": "NOVA",
+      "url": "https://github.com/DataSoft/Nova",
+      "description": "Uses honeypots as detectors, looks like a complete system.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/upa/ofpot",
+      "name": "OpenFlow Honeypot (OFPot)",
+      "url": "https://github.com/upa/ofpot",
+      "description": "Redirects traffic for unused IPs to a honeypot, built on POX.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/thinkst/opencanary",
+      "name": "OpenCanary",
+      "url": "https://github.com/thinkst/opencanary",
+      "description": "Modular and decentralised honeypot daemon that runs several canary versions of services that alerts when a service is (ab)used.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/cymmetria/ciscoasa_honeypot",
+      "name": "ciscoasa_honeypot",
+      "url": "https://github.com/cymmetria/ciscoasa_honeypot",
+      "description": "A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sa7mon/miniprint",
+      "name": "miniprint",
+      "url": "https://github.com/sa7mon/miniprint",
+      "description": "A medium interaction printer honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/PeterGabaldon/Fortigate.VPN-SSL.Honeypot",
+      "name": "FortiGate SSL-VPN Honeypot",
+      "url": "https://github.com/PeterGabaldon/Fortigate.VPN-SSL.Honeypot",
+      "description": "Mimics FortiGate SSL-VPN devices to capture brute-force attempts, symlink exploit probes, and malicious IP telemetry.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/pjlantz/Hale",
+      "name": "Hale",
+      "url": "https://github.com/pjlantz/Hale",
+      "description": "Botnet command and control monitor.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://code.google.com/archive/p/dns-mole",
+      "name": "dnsMole",
+      "url": "https://code.google.com/archive/p/dns-mole/",
+      "description": "Analyses DNS traffic and potentionaly detect botnet command and control server activity, along with infected hosts.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mzweilin/ipv6-attack-detector",
+      "name": "ipv6-attack-detector",
+      "url": "https://github.com/mzweilin/ipv6-attack-detector/",
+      "description": "Google Summer of Code 2012 project, supported by The Honeynet Project organization.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://frida.re",
+      "name": "Frida",
+      "url": "https://www.frida.re",
+      "description": "Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://hihat.sourceforge.net",
+      "name": "HIHAT",
+      "url": "http://hihat.sourceforge.net/",
+      "description": "Transform arbitrary PHP applications into web-based high-interaction Honeypots.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://bruteforcelab.com/kippo-malware",
+      "name": "Kippo-Malware",
+      "url": "https://bruteforcelab.com/kippo-malware",
+      "description": "Python script that will download all malicious files stored as URLs in a Kippo SSH honeypot database.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://communityhoneynetwork.readthedocs.io/en/stable",
+      "name": "Community Honey Network",
+      "url": "https://communityhoneynetwork.readthedocs.io/en/stable/",
+      "description": "CHN aims to make deployments honeypots and honeypot management tools easy and flexible. The default deployment method uses Docker Compose and Docker to deploy with a few simple commands.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/threatstream/mhn",
+      "name": "Modern Honey Network",
+      "url": "https://github.com/threatstream/mhn",
+      "description": "Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://code.google.com/archive/p/tracexploit",
+      "name": "Tracexploit",
+      "url": "https://code.google.com/archive/p/tracexploit/",
+      "description": "Replay network packets.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://code.google.com/archive/p/loganon",
+      "name": "LogAnon",
+      "url": "http://code.google.com/archive/p/loganon/",
+      "description": "Log anonymization library that helps having anonymous logs consistent between logs and network captures.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/chaitin/mimicry",
+      "name": "Mimicry",
+      "url": "https://github.com/chaitin/mimicry",
+      "description": "Mimicry is a dynamic deception tool that actively deceives an attacker during exploitation and post-exploitation.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/knalli/honeypot-for-tcp-32764",
+      "name": "Honeypot-32764",
+      "url": "https://github.com/knalli/honeypot-for-tcp-32764",
+      "description": "Honeypot for router backdoor (TCP 32764).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/lcashdol/WAPot",
+      "name": "WAPot",
+      "url": "https://github.com/lcashdol/WAPot",
+      "description": "Honeypot that can be used to observe traffic directed at home routers.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole",
+      "name": "Honeymole",
+      "url": "https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole",
+      "description": "Deploy multiple sensors that redirect traffic to a centralized collection of honeypots.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://mitmproxy.org",
+      "name": "mitmproxy",
+      "url": "https://mitmproxy.org/",
+      "description": "Allows traffic flows to be intercepted, inspected, modified, and replayed.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://sysdig.com/opensource",
+      "name": "Sysdig",
+      "url": "https://sysdig.com/opensource/",
+      "description": "Open source, system-level exploration allows one to capture system state and activity from a running GNU/Linux instance, then save, filter, and analyze the results.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/rabbitstack/fibratus",
+      "name": "Fibratus",
+      "url": "https://github.com/rabbitstack/fibratus",
+      "description": "Tool for exploration and tracing of the Windows kernel.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/honeynet/ghost-usb-honeypot",
+      "name": "Ghost-usb",
+      "url": "https://github.com/honeynet/ghost-usb-honeypot",
+      "description": "Honeypot for malware that propagates via USB storage devices.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://bruteforcelab.com/kippo2mysql",
+      "name": "Kippo2MySQL",
+      "url": "https://bruteforcelab.com/kippo2mysql",
+      "description": "Extracts some very basic stats from Kippo’s text-based log files and inserts them in a MySQL database.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://bruteforcelab.com/kippo2elasticsearch",
+      "name": "Kippo2ElasticSearch",
+      "url": "https://bruteforcelab.com/kippo2elasticsearch",
+      "description": "Python script to transfer data from a Kippo SSH honeypot MySQL database to an ElasticSearch instance (server or cluster).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/jusafing/pnaf",
+      "name": "Passive Network Audit Framework (pnaf)",
+      "url": "https://github.com/jusafing/pnaf",
+      "description": "Framework that combines multiple passive and automated analysis techniques in order to provide a security assessment of network platforms.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/nsmfoo/antivmdetection",
+      "name": "Antivmdetect",
+      "url": "https://github.com/nsmfoo/antivmdetection",
+      "description": "Script to create templates to use with VirtualBox to make VM detection harder.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/hatching/vmcloak",
+      "name": "VMCloak",
+      "url": "https://github.com/hatching/vmcloak",
+      "description": "Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://libvmi.com",
+      "name": "vmitools",
+      "url": "http://libvmi.com/",
+      "description": "C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/hexgolems/pint",
+      "name": "Hexgolems - Pint Debugger Backend",
+      "url": "https://github.com/hexgolems/pint",
+      "description": "Debugger backend and LUA wrapper for PIN.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/hexgolems/schem",
+      "name": "Hexgolems - Schem Debugger Frontend",
+      "url": "https://github.com/hexgolems/schem",
+      "description": "Debugger frontend.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/androguard/androguard",
+      "name": "Androguard",
+      "url": "https://github.com/androguard/androguard",
+      "description": "Reverse engineering, Malware and goodware analysis of Android applications and more.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/honeynet/apkinspector",
+      "name": "APKinspector",
+      "url": "https://github.com/honeynet/apkinspector/",
+      "description": "Powerful GUI tool for analysts to analyze the Android applications.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://sourceforge.net/projects/honeyperl",
+      "name": "Honeyperl",
+      "url": "https://sourceforge.net/projects/honeyperl/",
+      "description": "Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/dtag-dev-sec/tpotce",
+      "name": "T-Pot",
+      "url": "https://github.com/dtag-dev-sec/tpotce",
+      "description": "All in one honeypot appliance from telecom provider T-Mobile",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mariocandela/beelzebub",
+      "name": "beelzebub",
+      "url": "https://github.com/mariocandela/beelzebub",
+      "description": "A secure honeypot framework, extremely easy to configure by yaml 🚀",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://projects.honeynet.org/hflow",
+      "name": "HFlow2",
+      "url": "https://projects.honeynet.org/hflow",
+      "description": "Data coalesing tool for honeynet/network analysis.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://amunhoney.sourceforge.net",
+      "name": "Amun",
+      "url": "http://amunhoney.sourceforge.net",
+      "description": "Vulnerability emulation honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/BinaryDefense/artillery",
+      "name": "Artillery",
+      "url": "https://github.com/BinaryDefense/artillery",
+      "description": "Open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://baitnswitch.sourceforge.net",
+      "name": "Bait and Switch",
+      "url": "http://baitnswitch.sourceforge.net",
+      "description": "Redirects all hostile traffic to a honeypot that is partially mirroring your production system.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Ziemeck/bifrozt-ansible",
+      "name": "Bifrozt",
+      "url": "https://github.com/Ziemeck/bifrozt-ansible",
+      "description": "Automatic deploy bifrozt with ansible.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://conpot.org",
+      "name": "Conpot",
+      "url": "http://conpot.org/",
+      "description": "Low interactive server side Industrial Control Systems honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/johnnykv/heralding",
+      "name": "Heralding",
+      "url": "https://github.com/johnnykv/heralding",
+      "description": "Credentials catching honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/CanadianJeff/honeywrt",
+      "name": "HoneyWRT",
+      "url": "https://github.com/CanadianJeff/honeywrt",
+      "description": "Low interaction Python honeypot designed to mimic services or ports that might get targeted by attackers.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/provos/honeyd",
+      "name": "Honeyd",
+      "url": "https://github.com/provos/honeyd",
+      "description": "See honeyd tools.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://honeynet.org/node/773",
+      "name": "Honeysink",
+      "url": "http://www.honeynet.org/node/773",
+      "description": "Open source network sinkhole that provides a mechanism for detection and prevention of malicious traffic on a given network.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/stamparm/hontel",
+      "name": "Hontel",
+      "url": "https://github.com/stamparm/hontel",
+      "description": "Telnet Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://keyfocus.net/kfsensor",
+      "name": "KFSensor",
+      "url": "http://www.keyfocus.net/kfsensor/",
+      "description": "Windows based honeypot Intrusion Detection System (IDS).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://labrea.sourceforge.net/labrea-info.html",
+      "name": "LaBrea",
+      "url": "http://labrea.sourceforge.net/labrea-info.html",
+      "description": "Takes over unused IP addresses, and creates virtual servers that are attractive to worms, hackers, and other denizens of the Internet.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Cymmetria/MTPot",
+      "name": "MTPot",
+      "url": "https://github.com/Cymmetria/MTPot",
+      "description": "Open Source Telnet Honeypot, focused on Mirai malware.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/blaverick62/SIREN",
+      "name": "SIREN",
+      "url": "https://github.com/blaverick62/SIREN",
+      "description": "Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/balte/TelnetHoney",
+      "name": "TelnetHoney",
+      "url": "https://github.com/balte/TelnetHoney",
+      "description": "Simple telnet honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/jekil/UDPot",
+      "name": "UDPot Honeypot",
+      "url": "https://github.com/jekil/UDPot",
+      "description": "Simple UDP/DNS honeypot scripts.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/fnzv/YAFH",
+      "name": "Yet Another Fake Honeypot (YAFH)",
+      "url": "https://github.com/fnzv/YAFH",
+      "description": "Simple honeypot written in Go.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ajackal/arctic-swallow",
+      "name": "arctic-swallow",
+      "url": "https://github.com/ajackal/arctic-swallow",
+      "description": "Low interaction honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/fofapro/fapro",
+      "name": "fapro",
+      "url": "https://github.com/fofapro/fapro",
+      "description": "Fake Protocol Server.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mushorg/glutton",
+      "name": "glutton",
+      "url": "https://github.com/mushorg/glutton",
+      "description": "All eating honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Mojachieee/go-HoneyPot",
+      "name": "go-HoneyPot",
+      "url": "https://github.com/Mojachieee/go-HoneyPot",
+      "description": "Honeypot server written in Go.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/kingtuna/go-emulators",
+      "name": "go-emulators",
+      "url": "https://github.com/kingtuna/go-emulators",
+      "description": "Honeypot Golang emulators.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sec51/honeymail",
+      "name": "honeymail",
+      "url": "https://github.com/sec51/honeymail",
+      "description": "SMTP honeypot written in Golang.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/tillmannw/honeytrap",
+      "name": "honeytrap",
+      "url": "https://github.com/tillmannw/honeytrap",
+      "description": "Low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/yvesago/imap-honey",
+      "name": "imap-honey",
+      "url": "https://github.com/yvesago/imap-honey",
+      "description": "IMAP honeypot written in Golang.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://openhub.net/p/mwcollectd",
+      "name": "mwcollectd",
+      "url": "https://www.openhub.net/p/mwcollectd",
+      "description": "Versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/lnslbrty/potd",
+      "name": "potd",
+      "url": "https://github.com/lnslbrty/potd",
+      "description": "Highly scalable low- to medium-interaction SSH/TCP honeypot designed for OpenWrt/IoT devices leveraging several Linux kernel features, such as namespaces, seccomp and thread capabilities.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/bartnv/portlurker",
+      "name": "portlurker",
+      "url": "https://github.com/bartnv/portlurker",
+      "description": "Port listener in Rust with protocol guessing and safe string display.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/rshipp/slipm-honeypot",
+      "name": "slipm-honeypot",
+      "url": "https://github.com/rshipp/slipm-honeypot",
+      "description": "Simple low-interaction port monitoring honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Phype/telnet-iot-honeypot",
+      "name": "telnet-iot-honeypot",
+      "url": "https://github.com/Phype/telnet-iot-honeypot",
+      "description": "Python telnet honeypot for catching botnet binaries.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/robertdavidgraham/telnetlogger",
+      "name": "telnetlogger",
+      "url": "https://github.com/robertdavidgraham/telnetlogger",
+      "description": "Telnet honeypot designed to track the Mirai botnet.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/magisterquis/vnclowpot",
+      "name": "vnclowpot",
+      "url": "https://github.com/magisterquis/vnclowpot",
+      "description": "Low interaction VNC honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://icir.org/christian/honeycomb",
+      "name": "Honeycomb",
+      "url": "http://www.icir.org/christian/honeycomb/",
+      "description": "Automated signature creation using honeypots.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://cc2asn.com",
+      "name": "CC2ASN",
+      "url": "http://www.cc2asn.com/",
+      "description": "Simple lookup service for AS-numbers and prefixes belonging to any given country in the world.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://heipei.io/sigint-hpfriends",
+      "name": "hpfriends - real-time social data-sharing",
+      "url": "https://heipei.io/sigint-hpfriends/",
+      "description": "Presentation about HPFriends feed system",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://hpfriends.honeycloud.net",
+      "name": "HPfriends",
+      "url": "http://hpfriends.honeycloud.net/#/home",
+      "description": "Honeypot data-sharing platform.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/rep/hpfeeds",
+      "name": "HPFeeds",
+      "url": "https://github.com/rep/hpfeeds/",
+      "description": "Lightweight authenticated publish-subscribe protocol.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://nepenthespharm.com",
+      "name": "PHARM",
+      "url": "http://www.nepenthespharm.com/",
+      "description": "Manage, report, and analyze your distributed Nepenthes instances.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://impost.sourceforge.net",
+      "name": "Impost",
+      "url": "http://impost.sourceforge.net/",
+      "description": "Network security auditing tool designed to analyze the forensics behind compromised and/or vulnerable daemons.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/referefref/honeyfs",
+      "name": "honeyfs",
+      "url": "https://github.com/referefref/honeyfs",
+      "description": "Tool to create artificial file systems for medium/high interaction honeypots.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://threatstream.github.io/mhn",
+      "name": "Modern Honeynet Network",
+      "url": "http://threatstream.github.io/mhn/",
+      "description": "Streamlines deployment and management of secure honeypots.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://honeynet.org/project/WiresharkExtensions",
+      "name": "Wireshark Extensions",
+      "url": "https://www.honeynet.org/project/WiresharkExtensions",
+      "description": "Apply Snort IDS rules and signatures against packet capture files using Wireshark.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://gfi.com/products-and-solutions/all-products",
+      "name": "CWSandbox / GFI Sandbox",
+      "url": "https://www.gfi.com/products-and-solutions/all-products",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://redmine.honeynet.org/projects/linux-capture-hpc/wiki",
+      "name": "Capture-HPC-Linux",
+      "url": "https://redmine.honeynet.org/projects/linux-capture-hpc/wiki",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/CERT-Polska/HSN-Capture-HPC-NG",
+      "name": "Capture-HPC-NG",
+      "url": "https://github.com/CERT-Polska/HSN-Capture-HPC-NG",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://projects.honeynet.org/capture-hpc",
+      "name": "Capture-HPC",
+      "url": "https://projects.honeynet.org/capture-hpc",
+      "description": "High interaction client honeypot (also called honeyclient).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://atomicsoftwaresolutions.com",
+      "name": "HoneyBOT",
+      "url": "http://www.atomicsoftwaresolutions.com/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://projects.honeynet.org/honeyc",
+      "name": "HoneyC",
+      "url": "https://projects.honeynet.org/honeyc",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/CERT-Polska/hsn2-bundle",
+      "name": "HoneySpider Network",
+      "url": "https://github.com/CERT-Polska/hsn2-bundle",
+      "description": "Highly-scalable system integrating multiple client honeypots to detect malicious websites.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://code.google.com/archive/p/gsoc-honeyweb",
+      "name": "HoneyWeb",
+      "url": "https://code.google.com/archive/p/gsoc-honeyweb/",
+      "description": "Web interface created to manage and remotely share Honeyclients resources.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/urule99/jsunpack-n",
+      "name": "Jsunpack-n",
+      "url": "https://github.com/urule99/jsunpack-n",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://monkeyspider.sourceforge.net",
+      "name": "MonkeySpider",
+      "url": "http://monkeyspider.sourceforge.net",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/honeynet/phoneyc",
+      "name": "PhoneyC",
+      "url": "https://github.com/honeynet/phoneyc",
+      "description": "Python honeyclient (later replaced by Thug).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/shjalayeri/pwnypot",
+      "name": "Pwnypot",
+      "url": "https://github.com/shjalayeri/pwnypot",
+      "description": "High Interaction Client Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/thugs-rumal",
+      "name": "Rumal",
+      "url": "https://github.com/thugs-rumal/",
+      "description": "Thug's Rumāl: a Thug's dress and weapon.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://cs.vu.nl/~herbertb/misc/shelia",
+      "name": "Shelia",
+      "url": "https://www.cs.vu.nl/~herbertb/misc/shelia/",
+      "description": "Client-side honeypot for attack detection.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://buffer.github.io/thug",
+      "name": "Thug",
+      "url": "https://buffer.github.io/thug/",
+      "description": "Python-based low-interaction honeyclient.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://thug-distributed.readthedocs.io/en/latest/index.html",
+      "name": "Thug Distributed Task Queuing",
+      "url": "https://thug-distributed.readthedocs.io/en/latest/index.html",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://honeynet.org/project/Trigona",
+      "name": "Trigona",
+      "url": "https://www.honeynet.org/project/Trigona",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://urlquery.net",
+      "name": "URLQuery",
+      "url": "https://urlquery.net/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Masood-M/yalih",
+      "name": "YALIH (Yet Another Low Interaction Honeyclient)",
+      "url": "https://github.com/Masood-M/yalih",
+      "description": "Low-interaction client honeypot designed to detect malicious websites through signature, anomaly, and pattern matching techniques.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://all.net/dtk/dtk.html",
+      "name": "Deception Toolkit",
+      "url": "http://www.all.net/dtk/dtk.html",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mushorg/imhoneypot",
+      "name": "IMHoneypot",
+      "url": "https://github.com/mushorg/imhoneypot",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/jesparza/peepdf",
+      "name": "peepdf",
+      "url": "https://github.com/jesparza/peepdf",
+      "description": "Powerful Python tool to analyze PDF documents.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://honeybrid.sourceforge.net",
+      "name": "HoneyBrid",
+      "url": "http://honeybrid.sourceforge.net",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/morian/blacknet",
+      "name": "Blacknet",
+      "url": "https://github.com/morian/blacknet",
+      "description": "Multi-head SSH honeypot system.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/cowrie/cowrie",
+      "name": "Cowrie",
+      "url": "https://github.com/cowrie/cowrie",
+      "description": "Cowrie SSH Honeypot (based on kippo).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/xme/dshield-docker",
+      "name": "DShield docker",
+      "url": "https://github.com/xme/dshield-docker",
+      "description": "Docker container running cowrie with DShield output enabled.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/skeeto/endlessh",
+      "name": "endlessh",
+      "url": "https://github.com/skeeto/endlessh",
+      "description": "SSH tarpit that slowly sends an endless banner. (docker image)",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/tnich/honssh",
+      "name": "HonSSH",
+      "url": "https://github.com/tnich/honssh",
+      "description": "Logs all SSH communications between a client and server.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/Cryptix720/HUDINX",
+      "name": "HUDINX",
+      "url": "https://github.com/Cryptix720/HUDINX",
+      "description": "Tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/InnerWarden/innerwarden",
+      "name": "InnerWarden",
+      "url": "https://github.com/InnerWarden/innerwarden",
+      "description": "Security agent with built-in SSH and HTTP honeypots featuring an LLM-powered interactive fake shell that captures credentials and attacker commands.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/desaster/kippo",
+      "name": "Kippo",
+      "url": "https://github.com/desaster/kippo",
+      "description": "Medium interaction SSH honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/gregcmartin/Kippo_JunOS",
+      "name": "Kippo_JunOS",
+      "url": "https://github.com/gregcmartin/Kippo_JunOS",
+      "description": "Kippo configured to be a backdoored netscreen.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/madirish/kojoney2",
+      "name": "Kojoney2",
+      "url": "https://github.com/madirish/kojoney2",
+      "description": "Low interaction SSH honeypot written in Python and based on Kojoney by Jose Antonio Coret.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://kojoney.sourceforge.net",
+      "name": "Kojoney",
+      "url": "http://kojoney.sourceforge.net/",
+      "description": "Python-based Low interaction honeypot that emulates an SSH server implemented with Twisted Conch.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/deroux/longitudinal-analysis-cowrie",
+      "name": "Longitudinal Analysis of SSH Cowrie Honeypot Logs",
+      "url": "https://github.com/deroux/longitudinal-analysis-cowrie",
+      "description": "Python based command line tool to analyze cowrie logs over time.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://longtail.it.marist.edu/honey",
+      "name": "LongTail Log Analysis @ Marist College",
+      "url": "http://longtail.it.marist.edu/honey/",
+      "description": "Analyzed SSH honeypot logs.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/batchmcnulty/Malbait",
+      "name": "Malbait",
+      "url": "https://github.com/batchmcnulty/Malbait",
+      "description": "Simple TCP/UDP honeypot implemented in Perl.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ncouture/MockSSH",
+      "name": "MockSSH",
+      "url": "https://github.com/ncouture/MockSSH",
+      "description": "Mock an SSH server and define all commands it supports (Python, Twisted).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/xlfe/cowrie2neo",
+      "name": "cowrie2neo",
+      "url": "https://github.com/xlfe/cowrie2neo",
+      "description": "Parse cowrie honeypot logs into a neo4j database.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ashmckenzie/go-sshoney",
+      "name": "go-sshoney",
+      "url": "https://github.com/ashmckenzie/go-sshoney",
+      "description": "SSH Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/fzerorubigd/go0r",
+      "name": "go0r",
+      "url": "https://github.com/fzerorubigd/go0r",
+      "description": "Simple ssh honeypot in Golang.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/PaulMaddox/gohoney",
+      "name": "gohoney",
+      "url": "https://github.com/PaulMaddox/gohoney",
+      "description": "SSH honeypot written in Go.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sahilm/hived",
+      "name": "hived",
+      "url": "https://github.com/sahilm/hived",
+      "description": "Golang-based honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/joshrendek/hnypots-agent",
+      "name": "hnypots-agent)",
+      "url": "https://github.com/joshrendek/hnypots-agent",
+      "description": "SSH Server in Go that logs username and password combinations.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mdp/honeypot.go",
+      "name": "honeypot.go",
+      "url": "https://github.com/mdp/honeypot.go",
+      "description": "SSH Honeypot written in Go.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/ppacher/honeyssh",
+      "name": "honeyssh",
+      "url": "https://github.com/ppacher/honeyssh",
+      "description": "Credential dumping SSH honeypot with statistics.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/czardoz/hornet",
+      "name": "hornet",
+      "url": "https://github.com/czardoz/hornet",
+      "description": "Medium interaction SSH honeypot that supports multiple virtual hosts.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/JustinAzoff/ssh-auth-logger",
+      "name": "ssh-auth-logger",
+      "url": "https://github.com/JustinAzoff/ssh-auth-logger",
+      "description": "Low/zero interaction SSH authentication logging honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/droberson/ssh-honeypot",
+      "name": "ssh-honeypot",
+      "url": "https://github.com/droberson/ssh-honeypot",
+      "description": "Fake sshd that logs IP addresses, usernames, and passwords.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/amv42/sshd-honeypot",
+      "name": "ssh-honeypot",
+      "url": "https://github.com/amv42/sshd-honeypot",
+      "description": "Modified version of the OpenSSH deamon that forwards commands to Cowrie where all commands are interpreted and returned.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sjinks/ssh-honeypotd",
+      "name": "ssh-honeypotd",
+      "url": "https://github.com/sjinks/ssh-honeypotd",
+      "description": "Low-interaction SSH honeypot written in C.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/traetox/sshForShits",
+      "name": "sshForShits",
+      "url": "https://github.com/traetox/sshForShits",
+      "description": "Framework for a high interaction SSH honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/jaksi/sshesame",
+      "name": "sshesame",
+      "url": "https://github.com/jaksi/sshesame",
+      "description": "Fake SSH server that lets everyone in and logs their activity.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/magisterquis/sshhipot",
+      "name": "sshhipot",
+      "url": "https://github.com/magisterquis/sshhipot",
+      "description": "High-interaction MitM SSH honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/magisterquis/sshlowpot",
+      "name": "sshlowpot",
+      "url": "https://github.com/magisterquis/sshlowpot",
+      "description": "Yet another no-frills low-interaction SSH honeypot in Go.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mkishere/sshsyrup",
+      "name": "sshsyrup",
+      "url": "https://github.com/mkishere/sshsyrup",
+      "description": "Simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/lanjelot/twisted-honeypots",
+      "name": "twisted-honeypots",
+      "url": "https://github.com/lanjelot/twisted-honeypots",
+      "description": "SSH, FTP and Telnet honeypots based on Twisted.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://sites.google.com/site/webhoneypotsite",
+      "name": "DShield Web Honeypot Project",
+      "url": "https://sites.google.com/site/webhoneypotsite/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://projects.honeynet.org/honeysnap",
+      "name": "Honeysnap",
+      "url": "https://projects.honeynet.org/honeysnap/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://projects.honeynet.org/honeywall",
+      "name": "Honeywall",
+      "url": "https://projects.honeynet.org/honeywall/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://honeynet.org/tags/honeydrive",
+      "name": "HoneyDrive",
+      "url": "https://www.honeynet.org/tags/honeydrive/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://redmine.honeynet.org/projects/honeeepi/wiki",
+      "name": "Honeeepi",
+      "url": "https://redmine.honeynet.org/projects/honeeepi/wiki",
+      "description": "Honeypot sensor on a Raspberry Pi based on a customized Raspbian OS.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://cgsecurity.org",
+      "name": "TestDisk & PhotoRec",
+      "url": "https://www.cgsecurity.org/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://honeynet.org/node/315",
+      "name": "Capture BAT",
+      "url": "https://www.honeynet.org/node/315",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://secviz.org/node/89",
+      "name": "DAVIX",
+      "url": "https://www.secviz.org/node/89",
+      "description": "The DAVIX Live CD.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm",
+      "name": "Mail::SMTP::Honeypot",
+      "url": "https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm",
+      "description": "Perl module that appears to provide the functionality of a standard SMTP server.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/phin3has/mailoney",
+      "name": "Mailoney",
+      "url": "https://github.com/phin3has/mailoney",
+      "description": "SMTP honeypot written in python.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/johestephan/VerySimpleHoneypot",
+      "name": "SendMeSpamIDS.py",
+      "url": "https://github.com/johestephan/VerySimpleHoneypot",
+      "description": "Simple SMTP fetch all IDS and analyzer.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running",
+      "name": "Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running",
+      "url": "https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/shiva-spampot/shiva",
+      "name": "Shiva",
+      "url": "https://github.com/shiva-spampot/shiva",
+      "description": "Spam Honeypot with Intelligent Virtual Analyzer.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/referefref/SMTPLLMPot",
+      "name": "SMTPLLMPot",
+      "url": "https://github.com/referefref/SMTPLLMPot",
+      "description": "A super simple SMTP Honeypot built using GPT3.5",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/miguelraulb/spamhat",
+      "name": "SpamHAT",
+      "url": "https://github.com/miguelraulb/spamhat",
+      "description": "Spam Honeypot Tool.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://spamhole.net",
+      "name": "Spamhole",
+      "url": "http://www.spamhole.net/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/jadb/honeypot",
+      "name": "honeypot",
+      "url": "https://github.com/jadb/honeypot",
+      "description": "The Project Honey Pot un-official PHP SDK.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://man.openbsd.org/cgi-bin/man.cgi?query=spamd&apropos=0&sektion=0&manpath=OpenBSD Current&arch=i386&format=html",
+      "name": "spamd",
+      "url": "http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/andrewmichaelsmith/bluepot",
+      "name": "Bluepot",
+      "url": "https://github.com/andrewmichaelsmith/bluepot",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://code.google.com/archive/p/droidbox",
+      "name": "Droidbox",
+      "url": "https://code.google.com/archive/p/droidbox/",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/sreinhardt/Docker-Honeynet",
+      "name": "Docker honeynet",
+      "url": "https://github.com/sreinhardt/Docker-Honeynet",
+      "description": "Several Honeynet tools set up for Docker containers.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/r/honeynet/thug",
+      "name": "Dockerized Thug",
+      "url": "https://hub.docker.com/r/honeynet/thug/",
+      "description": "Dockerized Thug to analyze malicious web content.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/mrschyte/dockerpot",
+      "name": "Dockerpot",
+      "url": "https://github.com/mrschyte/dockerpot",
+      "description": "Docker based honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/andrewmichaelsmith/manuka",
+      "name": "Manuka",
+      "url": "https://github.com/andrewmichaelsmith/manuka",
+      "description": "Docker based honeypot (Dionaea and Kippo).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/run41/honey_ports",
+      "name": "honey_ports",
+      "url": "https://github.com/run41/honey_ports",
+      "description": "Very simple but effective docker deployed honeypot to detect port scanning in your environment.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/MattCarothers/mhn-core-docker",
+      "name": "mhn-core-docker",
+      "url": "https://github.com/MattCarothers/mhn-core-docker",
+      "description": "Core elements of the Modern Honey Network implemented in Docker.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://bitbucket.org/zaccone/quechua",
+      "name": "Quechua",
+      "url": "https://bitbucket.org/zaccone/quechua",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://artemisa.sourceforge.net",
+      "name": "Artemnesia VoIP",
+      "url": "http://artemisa.sourceforge.net",
+      "description": "",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/SentryPeer/SentryPeer",
+      "name": "SentryPeer",
+      "url": "https://github.com/SentryPeer/SentryPeer",
+      "description": "Protect your SIP Servers from bad actors.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/omererdem/honeything",
+      "name": "HoneyThing",
+      "url": "https://github.com/omererdem/honeything",
+      "description": "TR-069 Honeypot.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/darkarnium/kako",
+      "name": "Kako",
+      "url": "https://github.com/darkarnium/kako",
+      "description": "Honeypots for a number of well known and deployed embedded device vulnerabilities.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/thinkst/canarytokens",
+      "name": "CanaryTokens",
+      "url": "https://github.com/thinkst/canarytokens",
+      "description": "Self-hostable honeytoken generator and reporting dashboard; demo version available at CanaryTokens.org.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/0x4D31/honeybits",
+      "name": "Honeybits",
+      "url": "https://github.com/0x4D31/honeybits",
+      "description": "Simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs and honeytokens across your production servers and workstations to lure the attacker toward your honeypots.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/0x4D31/honeylambda",
+      "name": "Honeyλ (HoneyLambda)",
+      "url": "https://github.com/0x4D31/honeylambda",
+      "description": "Simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/secureworks/dcept",
+      "name": "dcept",
+      "url": "https://github.com/secureworks/dcept",
+      "description": "Tool for deploying and detecting use of Active Directory honeytokens.",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://github.com/0x4D31/honeyku",
+      "name": "honeyku",
+      "url": "https://github.com/0x4D31/honeyku",
+      "description": "Heroku-based web honeypot that can be used to create and monitor fake HTTP endpoints (i.e. honeytokens).",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://community.tracebit.com",
+      "name": "Tracebit Community Edition",
+      "url": "https://community.tracebit.com",
+      "description": "online free canary tokens (AWS, SSH, Email, Web)",
+      "section": [
+        "Honeypots"
+      ]
+    },
+    {
+      "key": "https://honeyd.org/tools.php",
+      "name": "Honeycomb",
+      "url": "http://www.honeyd.org/tools.php",
+      "description": "",
+      "section": [
+        "Honeyd Tools"
+      ]
+    },
+    {
+      "key": "https://honeyview.sourceforge.net",
+      "name": "Honeyview",
+      "url": "http://honeyview.sourceforge.net/",
+      "description": "",
+      "section": [
+        "Honeyd Tools"
+      ]
+    },
+    {
+      "key": "https://bruteforcelab.com/honeyd2mysql",
+      "name": "Honeyd2MySQL",
+      "url": "https://bruteforcelab.com/honeyd2mysql",
+      "description": "",
+      "section": [
+        "Honeyd Tools"
+      ]
+    },
+    {
+      "key": "https://bruteforcelab.com/honeyd-viz",
+      "name": "Honeyd-Viz",
+      "url": "https://bruteforcelab.com/honeyd-viz",
+      "description": "",
+      "section": [
+        "Honeyd Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl",
+      "name": "Honeydsum.pl",
+      "url": "https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl",
+      "description": "",
+      "section": [
+        "Honeyd Tools"
+      ]
+    },
+    {
+      "key": "https://few.vu.nl/argos",
+      "name": "Argos",
+      "url": "http://www.few.vu.nl/argos/",
+      "description": "Emulator for capturing zero-day attacks.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://help.comodo.com/topic-72-1-451-4768-.html",
+      "name": "COMODO automated sandbox",
+      "url": "https://help.comodo.com/topic-72-1-451-4768-.html",
+      "description": "",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://cuckoosandbox.org",
+      "name": "Cuckoo",
+      "url": "https://cuckoosandbox.org/",
+      "description": "Leading open source automated malware analysis system.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/buffer/pylibemu",
+      "name": "Pylibemu",
+      "url": "https://github.com/buffer/pylibemu",
+      "description": "Libemu Cython wrapper.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://monkey.org/~jose/software/rfi-sandbox",
+      "name": "RFISandbox",
+      "url": "https://monkey.org/~jose/software/rfi-sandbox/",
+      "description": "PHP 5.x script sandbox built on top of funcall.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/m4rco-/dorothy2",
+      "name": "dorothy2",
+      "url": "https://github.com/m4rco-/dorothy2",
+      "description": "Malware/botnet analysis framework written in Ruby.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/hbhzwj/imalse",
+      "name": "imalse",
+      "url": "https://github.com/hbhzwj/imalse",
+      "description": "Integrated MALware Simulator and Emulator.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/buffer/libemu",
+      "name": "libemu",
+      "url": "https://github.com/buffer/libemu",
+      "description": "Shellcode emulation library, useful for shellcode detection.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://hybrid-analysis.com",
+      "name": "Hybrid Analysis",
+      "url": "https://www.hybrid-analysis.com",
+      "description": "Free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://jbxcloud.joesecurity.org/login",
+      "name": "Joebox Cloud",
+      "url": "https://jbxcloud.joesecurity.org/login",
+      "description": "Analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://virustotal.com",
+      "name": "VirusTotal",
+      "url": "https://www.virustotal.com/",
+      "description": "Analyze suspicious files and URLs to detect types of malware, and automatically share them with the security community.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://malwr.com",
+      "name": "malwr.com",
+      "url": "https://malwr.com/",
+      "description": "Free malware analysis service and community.",
+      "section": [
+        "Network and Artifact Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/rubenespadas/DionaeaFR",
+      "name": "DionaeaFR",
+      "url": "https://github.com/rubenespadas/DionaeaFR",
+      "description": "Front Web to Dionaea low-interaction honeypot.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jedie/django-kippo",
+      "name": "Django-kippo",
+      "url": "https://github.com/jedie/django-kippo",
+      "description": "Django App for kippo SSH Honeypot.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/GovCERT-CZ/Shockpot-Frontend",
+      "name": "Shockpot-Frontend",
+      "url": "https://github.com/GovCERT-CZ/Shockpot-Frontend",
+      "description": "Full featured script to visualize statistics from a Shockpot honeypot.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/aplura/Tango",
+      "name": "Tango",
+      "url": "https://github.com/aplura/Tango",
+      "description": "Honeypot Intelligence with Splunk.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/GovCERT-CZ/Wordpot-Frontend",
+      "name": "Wordpot-Frontend",
+      "url": "https://github.com/GovCERT-CZ/Wordpot-Frontend",
+      "description": "Full featured script to visualize statistics from a Wordpot honeypot.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/schmalle/honeyalarmg2",
+      "name": "honeyalarmg2",
+      "url": "https://github.com/schmalle/honeyalarmg2",
+      "description": "Simplified UI for showing honeypot alarms.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Joss-Steward/honeypotDisplay",
+      "name": "honeypotDisplay",
+      "url": "https://github.com/Joss-Steward/honeypotDisplay",
+      "description": "Flask website which displays data gathered from an SSH Honeypot.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hgascon/acapulco",
+      "name": "Acapulco",
+      "url": "https://github.com/hgascon/acapulco",
+      "description": "Automated Attack Community Graph Construction.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ayrus/afterglow-cloud",
+      "name": "Afterglow Cloud",
+      "url": "https://github.com/ayrus/afterglow-cloud",
+      "description": "",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://afterglow.sourceforge.net",
+      "name": "Afterglow",
+      "url": "http://afterglow.sourceforge.net/",
+      "description": "",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/katkad/Glastopf-Analytics",
+      "name": "Glastopf Analytics",
+      "url": "https://github.com/katkad/Glastopf-Analytics",
+      "description": "Easy honeypot statistics.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/SneakersInc/HoneyMalt",
+      "name": "HoneyMalt",
+      "url": "https://github.com/SneakersInc/HoneyMalt",
+      "description": "Maltego tranforms for mapping Honeypot systems.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/fw42/honeymap",
+      "name": "HoneyMap",
+      "url": "https://github.com/fw42/honeymap",
+      "description": "Real-time websocket stream of GPS events on a fancy SVG world map.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://sourceforge.net/projects/honeystats",
+      "name": "HoneyStats",
+      "url": "https://sourceforge.net/projects/honeystats/",
+      "description": "Statistical view of the recorded activity on a Honeynet.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/yuchincheng/HpfeedsHoneyGraph",
+      "name": "HpfeedsHoneyGraph",
+      "url": "https://github.com/yuchincheng/HpfeedsHoneyGraph",
+      "description": "Visualization app to visualize hpfeeds logs.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ivre/ivre",
+      "name": "IVRE",
+      "url": "https://github.com/ivre/ivre",
+      "description": "Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Criminalip / Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mfontani/kippo-stats",
+      "name": "Kippo stats",
+      "url": "https://github.com/mfontani/kippo-stats",
+      "description": "Mojolicious app to display statistics for your kippo SSH honeypot.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://bruteforcelab.com/kippo-graph",
+      "name": "Kippo-Graph",
+      "url": "https://bruteforcelab.com/kippo-graph",
+      "description": "Full featured script to visualize statistics from a Kippo SSH honeypot.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jpyorre/IntelligentHoneyNet",
+      "name": "The Intelligent HoneyNet",
+      "url": "https://github.com/jpyorre/IntelligentHoneyNet",
+      "description": "Create actionable information from honeypots.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/oguzy/ovizart",
+      "name": "ovizart",
+      "url": "https://github.com/oguzy/ovizart",
+      "description": "Visual analysis for network traffic.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/antonsatt/ssh-radar",
+      "name": "SSH-Radar",
+      "url": "https://github.com/antonsatt/ssh-radar",
+      "description": "Real-time monitoring and visualization of failed SSH login attempts with geolocation and Grafana dashboards.",
+      "section": [
+        "Data Tools"
+      ]
+    },
+    {
+      "key": "https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html",
+      "name": "T-Pot: A Multi-Honeypot Platform",
+      "url": "https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html",
+      "description": "",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://github.com/andrewmichaelsmith/honeypot-setup-script",
+      "name": "Honeypot (Dionaea and kippo) setup script",
+      "url": "https://github.com/andrewmichaelsmith/honeypot-setup-script/",
+      "description": "",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://tracebit.com/blog/the-security-canary-maturity-model",
+      "name": "The Security Canary Maturity Model",
+      "url": "https://tracebit.com/blog/the-security-canary-maturity-model",
+      "description": "",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes",
+      "name": "Dionaea and EC2 in 20 Minutes",
+      "url": "http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/",
+      "description": "Tutorial on setting up Dionaea on an EC2 instance.",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://isc.sans.edu/diary/22680",
+      "name": "Using a Raspberry Pi honeypot to contribute data to DShield/ISC",
+      "url": "https://isc.sans.edu/diary/22680",
+      "description": "The Raspberry Pi based system will allow us to maintain one code base that will make it easier to collect rich logs beyond firewall logs.",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://github.com/free5ty1e/honeypotpi",
+      "name": "honeypotpi",
+      "url": "https://github.com/free5ty1e/honeypotpi",
+      "description": "Script for turning a Raspberry Pi into a HoneyPot Pi.",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://github.com/shbhmsingh72/Honeypot-Research-Papers",
+      "name": "Honeypot research papers",
+      "url": "https://github.com/shbhmsingh72/Honeypot-Research-Papers",
+      "description": "PDFs of research papers on honeypots.",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://link.springer.com/article/10.1007%2Fs10115-008-0137-3",
+      "name": "vEYE",
+      "url": "https://link.springer.com/article/10.1007%2Fs10115-008-0137-3",
+      "description": "Behavioral footprinting for self-propagating worm detection and profiling.",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://osti.gov/servlets/purl/1524844",
+      "name": "The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception",
+      "url": "https://www.osti.gov/servlets/purl/1524844",
+      "description": "",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://scholarspace.manoa.hawaii.edu/items/88cd00a5-914f-456e-a322-01c22fd5b7d7",
+      "name": "'It's Not Paranoia If They're Really After You': When Announcing Deception Technology Can Change Attacker Decisions",
+      "url": "https://scholarspace.manoa.hawaii.edu/items/88cd00a5-914f-456e-a322-01c22fd5b7d7",
+      "description": "",
+      "section": [
+        "Guides"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/pdf/2505.21244",
+      "name": "When to Deceive: A Cross-Layer Stackelberg Game Framework for Strategic Timing of Cyber Deception",
+      "url": "https://arxiv.org/pdf/2505.21244",
+      "description": "",
+      "section": [
+        "Guides"
+      ]
+    }
+  ]
+}

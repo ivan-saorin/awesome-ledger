@@ -1,0 +1,3358 @@
+{
+  "etag": "W/\"cf8a76bcda888ce6357140329ffa418c71f61301090a979be974c50938de3e24\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://manual.gamemaker.io",
+      "name": "GameMaker Manual",
+      "url": "https://manual.gamemaker.io/",
+      "description": "",
+      "section": [
+        "Getting Started"
+      ]
+    },
+    {
+      "key": "https://gms.yoyogames.com/ReleaseNotes.html",
+      "name": "GameMaker Release Notes",
+      "url": "https://gms.yoyogames.com/ReleaseNotes.html",
+      "description": "",
+      "section": [
+        "Getting Started"
+      ]
+    },
+    {
+      "key": "https://marketplace.gamemaker.io",
+      "name": "GameMaker Marketplace",
+      "url": "https://marketplace.gamemaker.io/",
+      "description": "",
+      "section": [
+        "Getting Started"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP&v=nBCDzE9MDbk",
+      "name": "Beginner GameMaker Tutorials",
+      "url": "https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP",
+      "description": "Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner.",
+      "section": [
+        "Getting Started"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2&v=n8-MuIuOQFE",
+      "name": "Advanced GameMaker Tutorials",
+      "url": "https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2",
+      "description": "Tutorials from DragoniteSpam that dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos.",
+      "section": [
+        "Getting Started"
+      ]
+    },
+    {
+      "key": "https://aseprite.org",
+      "name": "Aseprite",
+      "url": "https://www.aseprite.org/",
+      "description": "is a popular alternative to the native sprite editor. 💸",
+      "section": [
+        "Getting Started",
+        "Recommendations"
+      ]
+    },
+    {
+      "key": "https://github.com/aseprite/aseprite",
+      "name": "Aseprite's source code",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Can be compiled for free.",
+      "section": [
+        "Getting Started",
+        "Recommendations"
+      ]
+    },
+    {
+      "key": "https://git-lfs.github.com",
+      "name": "Git LFS",
+      "url": "https://git-lfs.github.com/",
+      "description": ".",
+      "section": [
+        "Getting Started",
+        "Recommendations"
+      ]
+    },
+    {
+      "key": "https://github.com/Mtax-Development/GML-OOP",
+      "name": "GML-OOP",
+      "url": "https://github.com/Mtax-Development/GML-OOP",
+      "description": "A constructor library for operating the primary functionalities of GameMaker.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/Nikko-the-cat/GML-Classes",
+      "name": "GML-Classes",
+      "url": "https://github.com/Nikko-the-cat/GML-Classes",
+      "description": "Another project that adds OOP functionality to GameMaker.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/DatZach/Destructors",
+      "name": "Destructors",
+      "url": "https://github.com/DatZach/Destructors",
+      "description": "Allows you to use ds_* types such as lists and maps inside of structs.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/SNAP",
+      "name": "SNAP",
+      "url": "https://github.com/JujuAdams/SNAP",
+      "description": "Easy data format saving and loading. Please note that newer versions of GameMaker contain json_parse and json_stringify. However, if you are converting csv, ini, xml, etc, you may find this very useful.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/lwo",
+      "name": "LWO",
+      "url": "https://github.com/tabularelf/lwo",
+      "description": "Lightweight objects using structs.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/AlubJ/Lock-And-Key",
+      "name": "Lock And Key",
+      "url": "https://github.com/AlubJ/Lock-And-Key",
+      "description": "String and file encryption.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/GameMakerDiscord/Map.gml",
+      "name": "Map",
+      "url": "https://github.com/GameMakerDiscord/Map.gml",
+      "description": "Hash table implementations.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/matrices",
+      "name": "Matrices",
+      "url": "https://github.com/JujuAdams/matrices",
+      "description": "A collection of matrix handling scripts.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/daikon-games/gm-stream",
+      "name": "gm-stream",
+      "url": "https://github.com/daikon-games/gm-stream",
+      "description": "Data structure manipulation.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/KeeVeeGames/foreach.gml",
+      "name": "ForEach",
+      "url": "https://github.com/KeeVeeGames/foreach.gml",
+      "description": "Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/KeeVeeGames/DeepCopy.gml",
+      "name": "DeepCopy",
+      "url": "https://github.com/KeeVeeGames/DeepCopy.gml",
+      "description": "Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Cottonwool",
+      "name": "Cottonwool",
+      "url": "https://github.com/JujuAdams/Cottonwool",
+      "description": "Safe surfaces without memory leaks.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/LAGameStudio/BSONGML",
+      "name": "BSONGML",
+      "url": "https://github.com/LAGameStudio/BSONGML",
+      "description": "Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/Homunculus84/Binder",
+      "name": "Binder",
+      "url": "https://github.com/Homunculus84/Binder",
+      "description": "A binary search library for efficient lookups on large datasets.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/AlubJ/Airkiver",
+      "name": "Airkiver",
+      "url": "https://github.com/AlubJ/Airkiver",
+      "description": "Game file archive tool.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/KeeVeeGames/OKColor.gml",
+      "name": "OKColor",
+      "url": "https://github.com/KeeVeeGames/OKColor.gml",
+      "description": "An okay color manager for implementing OKLab/OKLCH colors.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/KeeVeeGames/Exception.gml",
+      "name": "Exception",
+      "url": "https://github.com/KeeVeeGames/Exception.gml",
+      "description": "A base class for custom exceptions.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/KeeVeeGames/ArrayList.gml",
+      "name": "ArrayList",
+      "url": "https://github.com/KeeVeeGames/ArrayList.gml",
+      "description": "The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-bit-buffers",
+      "name": "Bit Buffers",
+      "url": "https://yellowafterlife.itch.io/gamemaker-bit-buffers",
+      "description": "Read and write buffers with per-bit granularity.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-sprite-add-gif",
+      "name": "sprite_add_gif",
+      "url": "https://yellowafterlife.itch.io/gamemaker-sprite-add-gif",
+      "description": "Dynamically load animated GIFs as sprites.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/managix",
+      "name": "Managix",
+      "url": "https://foxyofjungle.itch.io/managix",
+      "description": "Async memory & resources manager (texture groups, audio groups, etc). 💸",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/tinkerer-red/Ngrams",
+      "name": "Ngrams",
+      "url": "https://github.com/tinkerer-red/Ngrams",
+      "description": "Lightweight n-gram library for fuzzy search, predictive text or token sequence modeling.",
+      "section": [
+        "Data Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/YoYoGames/GM-ExtensionGenerator",
+      "name": "GM-ExtensionGenerator",
+      "url": "https://github.com/YoYoGames/GM-ExtensionGenerator",
+      "description": "Official, schema-driven code generator for native extensions.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-zlib",
+      "name": "zlib functions",
+      "url": "https://yellowafterlife.itch.io/gamemaker-zlib",
+      "description": "Simple compression/decompression functions.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-window-taskbar",
+      "name": "Window Taskbar",
+      "url": "https://yellowafterlife.itch.io/gamemaker-window-taskbar",
+      "description": "Windows only. Flash the game window border and/or its taskbar button.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/GMSDLL",
+      "name": "GMSDLL",
+      "url": "https://github.com/YAL-GameMaker/GMSDLL",
+      "description": "A template project for building DLLs for GameMaker.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://samuel-venable.itch.io/gamemaker-extension-collection",
+      "name": "Extension Collection",
+      "url": "https://samuel-venable.itch.io/gamemaker-extension-collection",
+      "description": "A suite of various extensions.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/gameframe",
+      "name": "gameframe",
+      "url": "https://github.com/YAL-GameMaker/gameframe",
+      "description": "Custom window caption and border for Windows.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/blueburncz/GMD3D11",
+      "name": "GMD3D11",
+      "url": "https://github.com/blueburncz/GMD3D11",
+      "description": "A DLL for interfacing with Windows Direct3D.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/SpikeHD/gm-sysinfo",
+      "name": "GM Sysinfo",
+      "url": "https://github.com/SpikeHD/gm-sysinfo",
+      "description": "Cross-platform extension for getting system information and resource usage.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://forum.gamemaker.io/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/",
+      "name": "Video Player Extension",
+      "url": "https://forum.gamemaker.io/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/",
+      "description": "Play videos. However, the latest version of GMS has video support.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://marketplace.gamemaker.io/assets/9529/gmescapi",
+      "name": "GMESCAPI",
+      "url": "https://marketplace.gamemaker.io/assets/9529/gmescapi",
+      "description": "Webcam capture.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/rousr-release",
+      "name": "Rousr Release",
+      "url": "https://gitlab.com/rousr-release/",
+      "description": "Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-window-shape",
+      "name": "window_shape",
+      "url": "https://yellowafterlife.itch.io/gamemaker-window-shape",
+      "description": "Custom-shaped windows on Windows. 💸",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-winwin",
+      "name": "Windows' windows",
+      "url": "https://yellowafterlife.itch.io/gamemaker-winwin",
+      "description": "Multiple windows on Windows. 💸",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-winmenu",
+      "name": "winMenu",
+      "url": "https://yellowafterlife.itch.io/gamemaker-winmenu",
+      "description": "Native menus on Windows. 💸",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/window-set-icon",
+      "name": "window_set_icon",
+      "url": "https://yellowafterlife.itch.io/window-set-icon",
+      "description": "Change window and/or taskbar icons on Windows.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-file-dropper",
+      "name": "file_dropper",
+      "url": "https://yellowafterlife.itch.io/gamemaker-file-dropper",
+      "description": "Accept drag-and-dropping files onto a game window on Windows.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/file_dragger",
+      "name": "file_dragger",
+      "url": "https://github.com/YAL-GameMaker/file_dragger",
+      "description": "Drag-and-drop files out of the game window on Windows.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-window-commands",
+      "name": "Window Commands",
+      "url": "https://yellowafterlife.itch.io/gamemaker-window-commands",
+      "description": "Dispatch/intercept window controls like Minimize (and other window-related functions).",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Sidorakh/wasm-bridge",
+      "name": "wasm-bridge",
+      "url": "https://github.com/Sidorakh/wasm-bridge",
+      "description": "A way to use JS extensions in GX/WebAssembly games.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-web-dyn-textures",
+      "name": "Web Dynamic Textures",
+      "url": "https://yellowafterlife.itch.io/gamemaker-web-dyn-textures",
+      "description": "A dynamic texture page loading system for HTML5.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/gmwinbackdrop",
+      "name": "GMWinBackdrop",
+      "url": "https://topherlicious.itch.io/gmwinbackdrop",
+      "description": "Windows 11 backdrop materials.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/GMSDLL.rs",
+      "name": "GMSDLL.rs",
+      "url": "https://github.com/YAL-GameMaker/GMSDLL.rs?",
+      "description": "Example on how to make native DLL extensions in Rust.",
+      "section": [
+        "Native Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/DoLater",
+      "name": "DoLater",
+      "url": "https://github.com/JujuAdams/DoLater",
+      "description": "Deferred code execution improving on the native call_later() function.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/Lojemiru/Stopwatch",
+      "name": "Stopwatch",
+      "url": "https://github.com/Lojemiru/Stopwatch",
+      "description": "GameMaker alarm replacement.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://mors-games.itch.io/wtimer",
+      "name": "wTimer",
+      "url": "https://mors-games.itch.io/wtimer",
+      "description": "Robust alternative for alarms.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/colmeye/FrogAlarms",
+      "name": "FrogAlarm",
+      "url": "https://github.com/colmeye/FrogAlarms",
+      "description": "Another easy alternative to GameMaker alarms.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/kemonologic/fuwafuwa",
+      "name": "fuwafuwa",
+      "url": "https://github.com/kemonologic/fuwafuwa",
+      "description": "Easy-to-use timer system.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/nommiin/Timers",
+      "name": "Timer",
+      "url": "https://github.com/nommiin/Timers",
+      "description": "Interval-based timing methods modeled after JS's setTimeout and setInterval.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/TimVN/GMTimeLine",
+      "name": "GMTimeLine",
+      "url": "https://github.com/TimVN/GMTimeLine",
+      "description": "A pure code alternative to GameMaker timelines.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/benal20/Agenda.gml",
+      "name": "Agenda",
+      "url": "https://github.com/benal20/Agenda.gml",
+      "description": "Schedule and delay the execution of callbacks.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/erkan612/GMMT",
+      "name": "GMMT",
+      "url": "https://github.com/erkan612/GMMT",
+      "description": "Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/sdelaughter/STAGING",
+      "name": "STAGING",
+      "url": "https://github.com/sdelaughter/STAGING",
+      "description": "Split initialization tasks over multiple frames, including support for asynchronous tasks.",
+      "section": [
+        "Timing"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Coroutines",
+      "name": "Coroutines",
+      "url": "https://github.com/JujuAdams/Coroutines",
+      "description": "Asynchronous functions for GameMaker.",
+      "section": [
+        "Async"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/SimThreads",
+      "name": "SimThreads",
+      "url": "https://github.com/tabularelf/SimThreads",
+      "description": "Simulated threads for GameMaker.",
+      "section": [
+        "Async"
+      ]
+    },
+    {
+      "key": "https://github.com/tinkerer-red/MultiProcessing",
+      "name": "MultiProcessing",
+      "url": "https://github.com/tinkerer-red/MultiProcessing",
+      "description": "A proof of concept for multiprocessing in GameMaker.",
+      "section": [
+        "Async"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/Promise.gml",
+      "name": "Promises",
+      "url": "https://github.com/YAL-GameMaker/Promise.gml",
+      "description": "An adaptation of JavaScript Promises.",
+      "section": [
+        "Async"
+      ]
+    },
+    {
+      "key": "https://github.com/tinkerer-red/GML-Promise",
+      "name": "GML Promise",
+      "url": "https://github.com/tinkerer-red/GML-Promise",
+      "description": "Another JS-style promise library.",
+      "section": [
+        "Async"
+      ]
+    },
+    {
+      "key": "https://github.com/gm-core",
+      "name": "gm-core",
+      "url": "https://github.com/gm-core",
+      "description": "Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Hyomoto/FAST",
+      "name": "FAST",
+      "url": "https://github.com/Hyomoto/FAST",
+      "description": "Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/DragoniteSpam/DDDEditorGMS2",
+      "name": "DDDEditor",
+      "url": "https://github.com/DragoniteSpam/DDDEditorGMS2",
+      "description": "General purpose game editor.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/handytools",
+      "name": "handytools",
+      "url": "https://github.com/JujuAdams/handytools/",
+      "description": "A collection of Juju's libraries in one convenient project.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/babaganosch/GameMakerScaffolding",
+      "name": "GameMaker Scaffolding",
+      "url": "https://github.com/babaganosch/GameMakerScaffolding",
+      "description": "Another cool all-encompassing template with a focus on building low-res, tile-based games.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/JulianDicken/Broadcast",
+      "name": "Broadcast",
+      "url": "https://github.com/JulianDicken/Broadcast",
+      "description": "Event handling library.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/VitorEstevam/polarca",
+      "name": "Polarca",
+      "url": "https://github.com/VitorEstevam/polarca",
+      "description": "Interpolation functions.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://pixelatedpope.itch.io/twerp",
+      "name": "Twerp",
+      "url": "https://pixelatedpope.itch.io/twerp",
+      "description": "Easing function similar to lerp().",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Dynamo",
+      "name": "Dynamo",
+      "url": "https://github.com/JujuAdams/Dynamo",
+      "description": "Dynamic data loader.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Gumshoe",
+      "name": "Gumshoe",
+      "url": "https://github.com/JujuAdams/Gumshoe",
+      "description": "Simple deep file search function.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/adam-rumpf/game-maker-scripts",
+      "name": "Mathematical Scripts",
+      "url": "https://github.com/adam-rumpf/game-maker-scripts",
+      "description": "A collection of math scripts.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/daikon-games/gm-seedpod",
+      "name": "Seedpod",
+      "url": "https://github.com/daikon-games/gm-seedpod",
+      "description": "A collection of scripts to improve the GML programming experience.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://trixelized.itch.io/trixscript",
+      "name": "Trixscript",
+      "url": "https://trixelized.itch.io/trixscript",
+      "description": "Juices up your game with useful functions.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/blueburncz/CoreExtension",
+      "name": "CoreExtension",
+      "url": "https://github.com/blueburncz/CoreExtension",
+      "description": "A collection of CC0 programming libraries. (archived)",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/vphoton/FreeGMScripts",
+      "name": "Voxeledphoton's FreeGMScripts",
+      "url": "https://github.com/vphoton/FreeGMScripts",
+      "description": "Additional GML helper functions. Some may be out of date with 2.3+ syntax.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://avis.itch.io/motion-scripts",
+      "name": "Motion Scripts",
+      "url": "https://avis.itch.io/motion-scripts",
+      "description": "Provides replacement methods for built-in motion variables.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/Canvas",
+      "name": "Canvas",
+      "url": "https://github.com/tabularelf/Canvas",
+      "description": "Another great solution for surface management.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/DatZach/GMLodash",
+      "name": "GMLodash",
+      "url": "https://github.com/DatZach/GMLodash",
+      "description": "Functional programming in GML.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/mstop4/auto-framer",
+      "name": "Autoframer",
+      "url": "https://github.com/mstop4/auto-framer",
+      "description": "Automatically handles resizing the game view across different display and window sizes.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://xgasoft.itch.io/gmlp",
+      "name": "GML+",
+      "url": "https://xgasoft.itch.io/gmlp",
+      "description": "A script collection with a goal to \"fill the gaps\" in GML. 💸",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-live",
+      "name": "GMLive",
+      "url": "https://yellowafterlife.itch.io/gamemaker-live",
+      "description": "Livecoding / interactive programming. 💸",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Grisgram/gml-highscorer",
+      "name": "gml-highscorer",
+      "url": "https://github.com/Grisgram/gml-highscorer",
+      "description": "Highscore and trophy system.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/stoozey/SSave",
+      "name": "SSave",
+      "url": "https://github.com/stoozey/SSave",
+      "description": "Simple file saving system.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/katsaii/catspeak-lang",
+      "name": "Catspeak",
+      "url": "https://github.com/katsaii/catspeak-lang",
+      "description": "Cross-platform programming language for modding support.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/BenjaminUrquhart/JITSpeak",
+      "name": "JITSpeak",
+      "url": "https://github.com/BenjaminUrquhart/JITSpeak",
+      "description": "Improves Catspeak performance.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/DragoniteSpam/GMBenchmark",
+      "name": "GMBenchmark",
+      "url": "https://github.com/DragoniteSpam/GMBenchmark",
+      "description": "A tool to benchmark GML code.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/glebtsereteli/Figgy",
+      "name": "Figgy",
+      "url": "https://github.com/glebtsereteli/Figgy",
+      "description": "Centralized and persistent live configs for seamless game tuning and balancing.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/FoxyOfJungle/RenderStack",
+      "name": "RenderStack",
+      "url": "https://github.com/FoxyOfJungle/RenderStack",
+      "description": "Organize your game's rendering into a customizable order.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/erkan612/GMLiteSearch",
+      "name": "GMLiteSearch",
+      "url": "https://github.com/erkan612/GMLiteSearch",
+      "description": "Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/iota",
+      "name": "Iota",
+      "url": "https://github.com/JujuAdams/iota",
+      "description": "Lightweight timestep library.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/erkan612/GMVex",
+      "name": "GMVex",
+      "url": "https://github.com/erkan612/GMVex",
+      "description": "Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/sdelaughter/RunGML",
+      "name": "RunGML",
+      "url": "https://github.com/sdelaughter/RunGML",
+      "description": "A runtime scripting language with a Lisp-like syntax. Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Kruger0/Tweeny",
+      "name": "Tweeny",
+      "url": "https://github.com/Kruger0/Tweeny",
+      "description": "A fire-and-forget tweening library with support for animation curves and ease functions",
+      "section": [
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://marketplace.visualstudio.com/items?itemName=bscotch.bscotch-stitch-vscode",
+      "name": "Stitch for VSCode",
+      "url": "https://marketplace.visualstudio.com/items?itemName=bscotch.bscotch-stitch-vscode",
+      "description": "Edit GameMaker projects in VSCode.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/YellowAfterlife/GMEdit",
+      "name": "GMEdit",
+      "url": "https://github.com/YellowAfterlife/GMEdit",
+      "description": "Code editor to use in conjunction with GameMaker.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://sahaun.itch.io/yyp-maker",
+      "name": "YYP Maker",
+      "url": "https://sahaun.itch.io/yyp-maker",
+      "description": "Makes .yyp files for you.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/GameMakerDiscord/Rubber",
+      "name": "Rubber",
+      "url": "https://github.com/GameMakerDiscord/Rubber",
+      "description": "Compile GameMaker projects via the command line. Here's a great guide on how to use it.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://manta-ray.itch.io/gmsnip",
+      "name": "GMSnip",
+      "url": "https://manta-ray.itch.io/gmsnip",
+      "description": "Experimental tool to define unlimited code snippets in the IDE.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/JafarDakhan/vim-gml",
+      "name": "vim-GML",
+      "url": "https://github.com/JafarDakhan/vim-gml",
+      "description": "High quality Vim syntax highlighting for GameMaker.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-haxe",
+      "name": "sfGML",
+      "url": "https://yellowafterlife.itch.io/gamemaker-haxe",
+      "description": "Generate GML code from strongly-typed Haxe.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gm2024-win7-patcher",
+      "name": "Win7 patcher for GM2024.11+",
+      "url": "https://yellowafterlife.itch.io/gm2024-win7-patcher",
+      "description": "Makes games made in new GM versions run on Windows 7.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-reroute-audio",
+      "name": "RerouteAudio",
+      "url": "https://yellowafterlife.itch.io/gamemaker-reroute-audio",
+      "description": "Organizes audio files compiled games into subdirectories. 💸",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/tinkerer-red/GMLC",
+      "name": "GMLC",
+      "url": "https://github.com/tinkerer-red/GMLC",
+      "description": "Runtime compiler and interpreter to load, compile, and execute GML code at runtime.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/erkan612/GMLVM",
+      "name": "GMLVM",
+      "url": "https://github.com/erkan612/GMLVM",
+      "description": "An easy to use complete GML interpreter to execute GML at runtime.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/daikon-games/rt-shell",
+      "name": "rt-shell",
+      "url": "https://github.com/daikon-games/rt-shell",
+      "description": "Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Snitch",
+      "name": "Snitch",
+      "url": "https://github.com/JujuAdams/Snitch",
+      "description": "Crash and logging system.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://mulfok.itch.io/gamemaker-deerlog",
+      "name": "DeerLog",
+      "url": "https://mulfok.itch.io/gamemaker-deerlog",
+      "description": "Small log writer.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/nommiin/meta",
+      "name": "Meta",
+      "url": "https://github.com/nommiin/meta",
+      "description": "Runtime asset inspector.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://dragonite.itch.io/fps-speedometer-for-gamemaker",
+      "name": "FPS Speedometer",
+      "url": "https://dragonite.itch.io/fps-speedometer-for-gamemaker",
+      "description": "Pretty framerate display.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/imlazyeye/duck",
+      "name": "Duck",
+      "url": "https://github.com/imlazyeye/duck",
+      "description": "A fast GML analyzer to enforce code styling and detect errors.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/Pizzaandy/Gobo",
+      "name": "Gobo",
+      "url": "https://github.com/Pizzaandy/Gobo/",
+      "description": "An opinionated code formatter for GML.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/EttyKitty/Gobo",
+      "name": "Gobo (EttyKitty fork)",
+      "url": "https://github.com/EttyKitty/Gobo/",
+      "description": "A bit less opinionated code formatter for GML, with more options and functionality.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/shdwcat/Inspectron",
+      "name": "Inspectron",
+      "url": "https://github.com/shdwcat/Inspectron",
+      "description": "A fluent API for easily creating GameMaker debug views.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/gmpulse",
+      "name": "GMPulse",
+      "url": "https://topherlicious.itch.io/gmpulse",
+      "description": "A runtime inspector and control panel. 💸",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/glebtsereteli/Lookout",
+      "name": "Lookout",
+      "url": "https://github.com/glebtsereteli/Lookout",
+      "description": "Helpful debug overlay views.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/bscotch/olympus",
+      "name": "Olympus",
+      "url": "https://github.com/bscotch/olympus",
+      "description": "Testing Framework.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/bscotch/ganary",
+      "name": "Ganary",
+      "url": "https://github.com/bscotch/ganary",
+      "description": "Uses Olympus to perform regression tests.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/Alphish/gm-verrific",
+      "name": "gm-verrific",
+      "url": "https://github.com/Alphish/gm-verrific",
+      "description": "The ultimate automated testing framework.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/pmarincak/gms2-test",
+      "name": "gms2-test",
+      "url": "https://github.com/pmarincak/gms2-test",
+      "description": "Unit testing framework.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/bfrymire/crispy",
+      "name": "Crispy",
+      "url": "https://github.com/bfrymire/crispy",
+      "description": "Unit testing in GameMaker.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/offalynne/Input",
+      "name": "Input",
+      "url": "https://codeberg.org/offalynne/Input",
+      "description": "No nonsense gamepad/keyboard library.",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/AlubJ/InputTouch",
+      "name": "InputTouch",
+      "url": "https://github.com/AlubJ/InputTouch",
+      "description": "Touch controls plugin for Input.",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler",
+      "name": "XeroInput",
+      "url": "https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/",
+      "description": "Another library to handle multiple inputs for a single action.",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/LAGameStudio/InputCandy",
+      "name": "InputCandy",
+      "url": "https://github.com/LAGameStudio/InputCandy",
+      "description": "Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/mrdaneeyul/good-vibes",
+      "name": "Good Vibes",
+      "url": "https://github.com/mrdaneeyul/good-vibes",
+      "description": "Device vibration.",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/window_mouse_queue",
+      "name": "Mouse Queue",
+      "url": "https://github.com/YAL-GameMaker/window_mouse_queue",
+      "description": "Tracks the Windows mouse pointer with high precision.",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-native-cursors",
+      "name": "Native Cursors",
+      "url": "https://yellowafterlife.itch.io/gamemaker-native-cursors",
+      "description": "System-level custom cursors. 💸",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-native-mouselock",
+      "name": "Native Mouselock",
+      "url": "https://yellowafterlife.itch.io/gamemaker-native-mouselock",
+      "description": "System-level mouse locking. 💸",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-raw-input",
+      "name": "Raw Input",
+      "url": "https://yellowafterlife.itch.io/gamemaker-raw-input",
+      "description": "Use multiple mice and keyboards. 💸",
+      "section": [
+        "Input Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/scribble",
+      "name": "Scribble",
+      "url": "https://github.com/JujuAdams/scribble",
+      "description": "Efficient multi-effects text renderer.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://pixelatedpope.itch.io/scripture",
+      "name": "Scripture",
+      "url": "https://pixelatedpope.itch.io/scripture",
+      "description": "Another easy to use, highly compatible text renderer.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/chatterbox",
+      "name": "Chatterbox",
+      "url": "https://github.com/JujuAdams/chatterbox",
+      "description": "Narrative scripting tool.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/glitchroy/textboxy",
+      "name": "Textboxy",
+      "url": "https://github.com/glitchroy/textboxy",
+      "description": "Simple textboxes.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/FaultyFunctions/Crochet",
+      "name": "Crochet",
+      "url": "https://github.com/FaultyFunctions/Crochet",
+      "description": "An interactive dialogue editor for writers and programmers.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/babaganosch/NotificationSystem",
+      "name": "NotificationSystem",
+      "url": "https://github.com/babaganosch/NotificationSystem",
+      "description": "Notifications in GameMaker.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/shdwcat/YUI",
+      "name": "YUI",
+      "url": "https://github.com/shdwcat/YUI",
+      "description": "A UI system with live reloading, template system, data binding, and a drag and drop feature.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Guido",
+      "name": "Guido",
+      "url": "https://github.com/JujuAdams/Guido",
+      "description": "Simple immediate mode GUI framework.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/AlertStudios/GMUI-Framework",
+      "name": "GMUI-Framework",
+      "url": "https://github.com/AlertStudios/GMUI-Framework",
+      "description": "A pure GML solution to structure and control your menus, drawing parallels to .NET UI.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/erkan612/GMUI",
+      "name": "GMUI",
+      "url": "https://github.com/erkan612/GMUI",
+      "description": "Immediate mode GameMaker UI library, tons of UI components.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/erkan612/MajorGUI_GML",
+      "name": "MajorGUI",
+      "url": "https://github.com/erkan612/MajorGUI_GML",
+      "description": "Surface-based GUI that allows 100% control over UI styling and functionality.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/nabilatsoulcade/GMS2-UI-Library",
+      "name": "GMS2-UI-Library",
+      "url": "https://github.com/nabilatsoulcade/GMS2-UI-Library",
+      "description": "A Library Full of useful scripts for implementing your UI designs in GameMaker.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/DragoniteSpam/Emu",
+      "name": "Emu UI",
+      "url": "https://github.com/DragoniteSpam/Emu",
+      "description": "Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://pkgames.itch.io/easy-and-fast-menus-for-gms-23",
+      "name": "Easy And Fast Menu",
+      "url": "https://pkgames.itch.io/easy-and-fast-menus-for-gms-23",
+      "description": "Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://jasontomlee.itch.io/pause-menu-gamemaker-1-2",
+      "name": "Pause Menu",
+      "url": "https://jasontomlee.itch.io/pause-menu-gamemaker-1-2",
+      "description": "Another smaller implementation but has a cool animation between menu options.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://dragonite.itch.io/magpie",
+      "name": "Magpie",
+      "url": "https://dragonite.itch.io/magpie",
+      "description": "Generic Inventory System.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://rousr.itch.io/imguigml",
+      "name": "ImGuiGML",
+      "url": "https://rousr.itch.io/imguigml",
+      "description": "DLL/GML wrapper of Dear ImGui.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://niris.itch.io/gui-framework",
+      "name": "GUI Framework",
+      "url": "https://niris.itch.io/gui-framework",
+      "description": "GUI implementation from Niris Games.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1&v=1ITZOrI2qkA",
+      "name": "Menu Tutorial",
+      "url": "https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1",
+      "description": "FriendlyCosmonaut.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=RbBgE3cUShc",
+      "name": "Smart Clickable GUI",
+      "url": "https://www.youtube.com/watch?v=RbBgE3cUShc",
+      "description": "Pixelated Pope.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/TandyRum1024/zitk",
+      "name": "zitk",
+      "url": "https://github.com/TandyRum1024/zitk",
+      "description": "Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://manta-ray.itch.io/gooey",
+      "name": "gooey",
+      "url": "https://manta-ray.itch.io/gooey",
+      "description": "Sprite-based UI Library for GameMaker LTS.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/evolutionleo/SimpleUI",
+      "name": "SimpleUI",
+      "url": "https://github.com/evolutionleo/SimpleUI",
+      "description": "Minimalistic UI framework.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/Limekys/LimeUI",
+      "name": "LimeUI",
+      "url": "https://github.com/Limekys/LimeUI",
+      "description": "Flexpanel system for modern, touch-friendly interfaces.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Bento",
+      "name": "Bento",
+      "url": "https://github.com/JujuAdams/Bento",
+      "description": "Cross-platform UI framework.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books",
+      "name": "InteractiveBooks",
+      "url": "https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books",
+      "description": "Highly flexible, interactable books.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/Gizmo199/SimpleBook",
+      "name": "SimpleBook",
+      "url": "https://github.com/Gizmo199/SimpleBook",
+      "description": "Simple book rendering framework.",
+      "section": [
+        "User Interface"
+      ]
+    },
+    {
+      "key": "https://github.com/daikon-games/polyglot",
+      "name": "polyglot",
+      "url": "https://github.com/daikon-games/polyglot",
+      "description": "Localization library.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/CreativeHandOficial/gm-i18n",
+      "name": "gm-i18n",
+      "url": "https://github.com/CreativeHandOficial/gm-i18n",
+      "description": "Internationalization of texts simply and quickly, using JSON files.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/lexicon",
+      "name": "Lexicon",
+      "url": "https://github.com/tabularelf/lexicon",
+      "description": "Another localization solution focused on simplifying implementation.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/DragoniteSpam/GMLocalize2",
+      "name": "GMLocalize",
+      "url": "https://github.com/DragoniteSpam/GMLocalize2",
+      "description": "Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/AntonBergaker/small_pp_localization_tool",
+      "name": "Small Pentapop Localization Tool",
+      "url": "https://github.com/AntonBergaker/small_pp_localization_tool",
+      "description": "Similar export tool to GMLocalize but exports to a csv.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/pmarincak/gms2-mofile",
+      "name": "gms2-mofile",
+      "url": "https://github.com/pmarincak/gms2-mofile",
+      "description": "Mofile reader used for localization.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://yellowafterlife.itch.io/gamemaker-cmn-loc",
+      "name": "cmnLoc",
+      "url": "https://yellowafterlife.itch.io/gamemaker-cmn-loc",
+      "description": "Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://mythloco.co.uk",
+      "name": "MythLoco",
+      "url": "https://mythloco.co.uk",
+      "description": "A localization system with a web-based strings editor.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/Kruger0/Localize",
+      "name": "Krug's Localize System",
+      "url": "https://github.com/Kruger0/Localize",
+      "description": "A localization system with real-time Google Sheets API synchronization.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/Lojemiru/Loj-Hadron-Collider",
+      "name": "Loj Hadron Collider",
+      "url": "https://github.com/Lojemiru/Loj-Hadron-Collider",
+      "description": "A robust, pixel-perfect collision engine.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://forum.gamemaker.io/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/",
+      "name": "On Slopes and Grids",
+      "url": "https://forum.gamemaker.io/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/",
+      "description": "A tutorial to implement 45° slopes.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://benal.itch.io/basic-modern-platforming-system",
+      "name": "GMS2 Platforming System",
+      "url": "https://benal.itch.io/basic-modern-platforming-system",
+      "description": "GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker",
+      "name": "Inverse Kinematics Extension",
+      "url": "https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker",
+      "description": "A library for working with inverse kinematics.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2",
+      "name": "Verlet Integration Library",
+      "url": "https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2",
+      "description": "Verlet integration by Sarek Lambert.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/GMVerlet-Integration",
+      "name": "GMVerlet-Integration",
+      "url": "https://github.com/tabularelf/GMVerlet-Integration",
+      "description": "Verlet integration example used for visuals.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles",
+      "name": "Top-Down Movement & Collision",
+      "url": "https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles",
+      "description": "Robust object-based collision system from Pixelated Pope.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://bytecauldron.itch.io/gmphysx",
+      "name": "GMPhysX",
+      "url": "https://bytecauldron.itch.io/gmphysx",
+      "description": "Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. 💸",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://github.com/GlebTsereteli/Fracture",
+      "name": "Fracture",
+      "url": "https://github.com/GlebTsereteli/Fracture",
+      "description": "Physics-based destruction for procedural Box2D fracture effects.",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://github.com/angelwire/AESnips",
+      "name": "AESnips",
+      "url": "https://github.com/angelwire/AESnips",
+      "description": "A sprite playback system.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/squircledev/phgen",
+      "name": "phgen",
+      "url": "https://github.com/squircledev/phgen",
+      "description": "Placeholder asset generation.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/NuxiiGit/disarm",
+      "name": "Disarm",
+      "url": "https://github.com/NuxiiGit/disarm",
+      "description": "A spriter skeletal animation at runtime.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/bscotch/stitch/tree/develop/packages/sprite-source",
+      "name": "SpriteSource",
+      "url": "https://github.com/bscotch/stitch/tree/develop/packages/sprite-source",
+      "description": "Utilities for creating art asset pipelines.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Pixel-Art-Upscaling",
+      "name": "PixelUpscaler",
+      "url": "https://github.com/JujuAdams/Pixel-Art-Upscaling",
+      "description": "Pixel art upscaling shader for awkward resolutions for GameMaker.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://sahaun.itch.io/asesync",
+      "name": "ASESync",
+      "url": "https://sahaun.itch.io/asesync",
+      "description": "Automatically syncs aseprite files in GameMaker.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/imissmyfriends/conveyorbelt",
+      "name": "conveyorbelt",
+      "url": "https://github.com/imissmyfriends/conveyorbelt",
+      "description": "Similar to ASESync. Export Aseprite files to GameMaker sprites.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/Collage",
+      "name": "Collage",
+      "url": "https://github.com/tabularelf/Collage",
+      "description": "Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/KormexGit/GM-Animate",
+      "name": "GM Animate",
+      "url": "https://github.com/KormexGit/GM-Animate",
+      "description": "Sprite animation manager.",
+      "section": [
+        "Sprites"
+      ]
+    },
+    {
+      "key": "https://github.com/YoYoGames/GMEXT-FMOD",
+      "name": "GMEXT-FMOD",
+      "url": "https://github.com/YoYoGames/GMEXT-FMOD",
+      "description": "Official support for FMOD in GameMaker.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/Nikkilae/fml",
+      "name": "FML",
+      "url": "https://github.com/Nikkilae/fml",
+      "description": "GameMaker bindings for the FMOD Studio API.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2",
+      "name": "Echo/Delay Effect",
+      "url": "https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2",
+      "description": "Optimized delay effect. 💸",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/nkrapivin/wavload",
+      "name": "wavload",
+      "url": "https://github.com/nkrapivin/wavload",
+      "description": "Demonstrates how to externally load .wav files.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/audioExt",
+      "name": "audioExt",
+      "url": "https://github.com/tabularelf/audioExt",
+      "description": "Sound External Loader/Unloader Manager.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/NuxiiGit/ExternalAudio",
+      "name": "ExternalAudio",
+      "url": "https://github.com/NuxiiGit/ExternalAudio",
+      "description": "Load external .wav files at runtime.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/Andre-404/Phonix",
+      "name": "Phonix",
+      "url": "https://github.com/Andre-404/Phonix/",
+      "description": "Compact audio system. Great for dynamic music!",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Vinyl",
+      "name": "Vinyl",
+      "url": "https://github.com/JujuAdams/Vinyl",
+      "description": "Live updating audio system.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/WangleLine/LineAudio",
+      "name": "LineAudio",
+      "url": "https://github.com/WangleLine/LineAudio",
+      "description": "Audio helper functions.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://github.com/gl326/bard-audio",
+      "name": "Bard",
+      "url": "https://github.com/gl326/bard-audio",
+      "description": "An engine for designing and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/synthengine",
+      "name": "SynthEngine",
+      "url": "https://topherlicious.itch.io/synthengine",
+      "description": "A fully-featured musical synthesizer for GameMaker.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/musictheorylib",
+      "name": "MusicTheoryLib",
+      "url": "https://topherlicious.itch.io/musictheorylib",
+      "description": "Convenient music theory utilities for GameMaker.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/waveform",
+      "name": "WaveForm",
+      "url": "https://topherlicious.itch.io/waveform",
+      "description": "Render audio wave forms from audio buffers in GameMaker.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/wavewrite",
+      "name": "WaveWrite",
+      "url": "https://topherlicious.itch.io/wavewrite",
+      "description": "Read and write WAV files in GameMaker.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/gmmidi",
+      "name": "GMMidi",
+      "url": "https://topherlicious.itch.io/gmmidi",
+      "description": "Read and write MIDI files in GameMaker.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/ezafx",
+      "name": "EZAFX",
+      "url": "https://topherlicious.itch.io/ezafx",
+      "description": "Instant preset audio effects for GameMaker.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/gmsync",
+      "name": "GMSync",
+      "url": "https://topherlicious.itch.io/gmsync",
+      "description": "Perfectly sync game elements to the rhythm of your music.",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://topherlicious.itch.io/micvol",
+      "name": "MicVol",
+      "url": "https://topherlicious.itch.io/micvol",
+      "description": "Easily monitor microphone volume in real time in GameMaker. 💸",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
+      "key": "https://shynif.itch.io/ldtk-to-gms",
+      "name": "LDtk to GMS",
+      "url": "https://shynif.itch.io/ldtk-to-gms",
+      "description": "LDtk Importer.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://github.com/evolutionleo/LDtkParser",
+      "name": "LDtkParser",
+      "url": "https://github.com/evolutionleo/LDtkParser",
+      "description": "Advanced LDtk Importer.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://github.com/heygleeson/GM-RoomInspector",
+      "name": "Room Data Inspector",
+      "url": "https://github.com/heygleeson/GM-RoomInspector",
+      "description": "Collects room data and stores it into a JSON for later use.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3",
+      "name": "Random Dungeon Generator",
+      "url": "https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3",
+      "description": "Combines user-defined chambers to create a dungeon.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://github.com/GameMakerDiscord/random-level-gen-gms2",
+      "name": "Random Level Generator",
+      "url": "https://github.com/GameMakerDiscord/random-level-gen-gms2",
+      "description": "A random level generation example (similar to Nuclear Throne) using GameMaker.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://quadolorgames.itch.io/wfc-gml-demo",
+      "name": "Wave Function Collapse",
+      "url": "https://quadolorgames.itch.io/wfc-gml-demo",
+      "description": "Generates a random tile map but not production ready in its current state.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://github.com/niksudan/gms2-destructible-terrain",
+      "name": "Destructible Terrain",
+      "url": "https://github.com/niksudan/gms2-destructible-terrain",
+      "description": "An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://alessiogamedev.itch.io/gms-cellular-automata-algorithm",
+      "name": "Cellular Automata Caves",
+      "url": "https://alessiogamedev.itch.io/gms-cellular-automata-algorithm",
+      "description": "Generates huge caves in a few hundred milliseconds.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://github.com/glebtsereteli/GMRoomLoader",
+      "name": "GMRoomLoader",
+      "url": "https://github.com/glebtsereteli/GMRoomLoader",
+      "description": "Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.",
+      "section": [
+        "Levels"
+      ]
+    },
+    {
+      "key": "https://gamemakercasts.itch.io/particle-editor",
+      "name": "Particle Editor",
+      "url": "https://gamemakercasts.itch.io/particle-editor",
+      "description": "Create particles with an easy UI and export into GML code.",
+      "section": [
+        "Particles"
+      ]
+    },
+    {
+      "key": "https://github.com/GamemakerCasts/particles",
+      "name": "Particles Wrapper",
+      "url": "https://github.com/GamemakerCasts/particles",
+      "description": "A simplistic particle system wrapper that is designed to make creating particles fun and easy.",
+      "section": [
+        "Particles"
+      ]
+    },
+    {
+      "key": "https://limekys.itch.io/advanced-particle-system",
+      "name": "Advanced Particles",
+      "url": "https://limekys.itch.io/advanced-particle-system",
+      "description": "A particle implementation that comes with its own delta timing methods.",
+      "section": [
+        "Particles"
+      ]
+    },
+    {
+      "key": "https://github.com/Delfos1/Pulse",
+      "name": "Pulse",
+      "url": "https://github.com/Delfos1/Pulse",
+      "description": "A library to create more complex particle emitters, systems and particles.",
+      "section": [
+        "Particles"
+      ]
+    },
+    {
+      "key": "https://github.com/FoxyOfJungle/Burrn",
+      "name": "Burrn",
+      "url": "https://github.com/FoxyOfJungle/Burrn",
+      "description": "Built-in particle system that uses the particle asset built into the IDE.",
+      "section": [
+        "Particles"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Bulb",
+      "name": "Bulb",
+      "url": "https://github.com/JujuAdams/Bulb",
+      "description": "2D lighting and shadows.",
+      "section": [
+        "Lighting"
+      ]
+    },
+    {
+      "key": "https://github.com/bilouw/Gamemaker-Lighting-Engine",
+      "name": "GameMaker Lighting Engine",
+      "url": "https://github.com/bilouw/Gamemaker-Lighting-Engine",
+      "description": "Tile-based Lighting Engine that projects shadows.",
+      "section": [
+        "Lighting"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy",
+      "name": "Lighting Systems",
+      "url": "https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy",
+      "description": "Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.",
+      "section": [
+        "Lighting"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/crystal-2d-lighting-engine",
+      "name": "Crystal",
+      "url": "https://foxyofjungle.itch.io/crystal-2d-lighting-engine",
+      "description": "Complete and efficient 2D lighting & shadows solution. 💸",
+      "section": [
+        "Lighting"
+      ]
+    },
+    {
+      "key": "https://short-bread.itch.io/transfx",
+      "name": "TransFX",
+      "url": "https://short-bread.itch.io/transfx",
+      "description": "Transition Library.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/post-processing-fx",
+      "name": "Post-Processing FX",
+      "url": "https://foxyofjungle.itch.io/post-processing-fx",
+      "description": "50+ high-quality, customizable effects. 💸",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/lens-distortion-fov-shader",
+      "name": "Lens Distortion FOV",
+      "url": "https://foxyofjungle.itch.io/lens-distortion-fov-shader",
+      "description": "Useful FOV depth effect. 💸",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/foxey-blur-area",
+      "name": "Fast Blur Area",
+      "url": "https://foxyofjungle.itch.io/foxey-blur-area",
+      "description": "Fast alpha blur shader effect in two lines of code. 💸",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/foxey-transitions-pro",
+      "name": "Transitions Pro",
+      "url": "https://foxyofjungle.itch.io/foxey-transitions-pro",
+      "description": "42 customizable transitions. 💸",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/sketch-cartoon-shader",
+      "name": "Sketch Cartoon Shader",
+      "url": "https://foxyofjungle.itch.io/sketch-cartoon-shader",
+      "description": "Turn your game visuals into a drawing/sketch style. 💸",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/water-reflective",
+      "name": "2D Water Reflections",
+      "url": "https://foxyofjungle.itch.io/water-reflective",
+      "description": "Customizable water object to easily display reflections. 💸",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://zikbakguru.itch.io/bjrtfx",
+      "name": "BJRTFX",
+      "url": "https://zikbakguru.itch.io/bjrtfx",
+      "description": "Zik's CRT Utility Shader.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://odditica.itch.io/bktglitch",
+      "name": "bktGlitch",
+      "url": "https://odditica.itch.io/bktglitch",
+      "description": "Glitch shader.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://gizmo199.itch.io/horri-fi",
+      "name": "H O R R I - F I",
+      "url": "https://gizmo199.itch.io/horri-fi",
+      "description": "VHS Shader.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://pixelatedpope.itch.io/depth-sorted-silhouette-example",
+      "name": "Depth Sorted Silhouettes",
+      "url": "https://pixelatedpope.itch.io/depth-sorted-silhouette-example",
+      "description": "Example project to demonstrate shader-based depth sorting silhouettes. Tested on PC, Mac, HTML5, and Android.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://gmshaders.com",
+      "name": "GMShaders.com",
+      "url": "https://gmshaders.com/",
+      "description": "Shader tutorials from Xor. Originally hosted at \"xorshaders.com\".",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/XorDev/1PassBlur/wiki",
+      "name": "1PassBlur",
+      "url": "https://github.com/XorDev/1PassBlur/wiki",
+      "description": "Blur Shader with adjustable radius.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/XorDev/Bokeh/wiki",
+      "name": "Bokeh Blur",
+      "url": "https://github.com/XorDev/Bokeh/wiki",
+      "description": "Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/XorDev/Dual-Kawase/wiki",
+      "name": "Dual-Kawase",
+      "url": "https://github.com/XorDev/Dual-Kawase/wiki",
+      "description": "Blur Shader that limits radius but is very efficient.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://xordev.itch.io/halftone",
+      "name": "Xor's Halftone",
+      "url": "https://xordev.itch.io/halftone",
+      "description": "A wonderful, versatile halftone shader. Lots of tweakable settings.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/XorDev/GMS-Voronoi-Pixels",
+      "name": "Voronoi",
+      "url": "https://github.com/XorDev/GMS-Voronoi-Pixels",
+      "description": "Sampled pixels on a Voronoi diagram.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/XorDev/Fire-Fun/wiki",
+      "name": "Fire-Fun",
+      "url": "https://github.com/XorDev/Fire-Fun/wiki",
+      "description": "Some fun magic fireballs.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://terohannula.itch.io/jump-flooding-algorithm",
+      "name": "Jump Flooding",
+      "url": "https://terohannula.itch.io/jump-flooding-algorithm",
+      "description": "GML implementation of the jump flooding algorithm, using shaders.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/Grisgram/gml-outline-shader-drawer",
+      "name": "Outline Shader",
+      "url": "https://github.com/Grisgram/gml-outline-shader-drawer",
+      "description": "Draws outlines around sprites using a shader.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/Lojemiru/Chameleon",
+      "name": "Chameleon",
+      "url": "https://github.com/Lojemiru/Chameleon",
+      "description": "Palette Swapper.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/GameMakerDiscord/Xpanda",
+      "name": "Xpanda",
+      "url": "https://github.com/GameMakerDiscord/Xpanda",
+      "description": "Include code from external files in your shaders.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/jfkn1ght/Shadertoy2GM",
+      "name": "Shadertoy to GameMaker",
+      "url": "https://github.com/jfkn1ght/Shadertoy2GM",
+      "description": "Convert shadertoy.com shaders to run in GameMaker (GLSL ES).",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P&v=ch4BYqkL1w8",
+      "name": "Shader Tutorials",
+      "url": "https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P",
+      "description": "Gaming Reverends.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa&v=a4S7LXx6-sQ",
+      "name": "Shader Tutorials",
+      "url": "https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa",
+      "description": "DragoniteSpam.",
+      "section": [
+        "Shaders"
+      ]
+    },
+    {
+      "key": "https://github.com/YoYoGames/3D-2D",
+      "name": "3D-2D",
+      "url": "https://github.com/YoYoGames/3D-2D",
+      "description": "Official tool to turn 3D models into 2D sprites.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/blueburn-cz/BBMOD",
+      "name": "BBMOD",
+      "url": "https://github.com/blueburn-cz/BBMOD",
+      "description": "3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://forum.gamemaker.io/index.php?threads/colmesh-3d-collisions-made-easy.82765/",
+      "name": "ColMesh",
+      "url": "https://forum.gamemaker.io/index.php?threads/colmesh-3d-collisions-made-easy.82765/",
+      "description": "3D Collision Library from TheSnidr.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://cdlegasse.itch.io/ozarq-bsp-4-gms",
+      "name": "BSP 4 GMS",
+      "url": "https://cdlegasse.itch.io/ozarq-bsp-4-gms",
+      "description": "Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/dotobj",
+      "name": "dotobj",
+      "url": "https://github.com/JujuAdams/dotobj",
+      "description": "Lightweight .obj/.mtl 3D model loader written in native GML.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/cicadian/Bronze-Box",
+      "name": "Bronze Box",
+      "url": "https://github.com/cicadian/Bronze-Box",
+      "description": "Example of how to build 3D world models from a 2D grid.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://lemontoast-games.itch.io/dopefish-respawned",
+      "name": "DopeFish Respawned",
+      "url": "https://lemontoast-games.itch.io/dopefish-respawned",
+      "description": "Extensive WAD manager to load DOOM maps in GameMaker.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/blender-to-gmstudio",
+      "name": "Blender to GameMaker",
+      "url": "https://github.com/blender-to-gmstudio",
+      "description": "A collection of scripts to export and import Blender models to and from GameMaker.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2",
+      "name": "DmrVBM",
+      "url": "https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2",
+      "description": "Import/Export tools to load vertex buffer data out of Blender and into GMS.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://dragonite.itch.io/penguin",
+      "name": "Penguin",
+      "url": "https://dragonite.itch.io/penguin",
+      "description": "3D model conversion tool.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/XorDev/ThreeMiceInaTrenchcoat",
+      "name": "Three Mice In a Trench Coat",
+      "url": "https://github.com/XorDev/ThreeMiceInaTrenchcoat",
+      "description": "Source for a GameMaker 3D game.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://marketplace.gamemaker.io/assets/7299/spart-3d-particle-system",
+      "name": "sPart",
+      "url": "https://marketplace.gamemaker.io/assets/7299/spart-3d-particle-system",
+      "description": "3D Particle System from TheSnidr.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://dragonite.itch.io/terrain",
+      "name": "Terrain Editor",
+      "url": "https://dragonite.itch.io/terrain",
+      "description": "Exports terrain to GM models, obj, or vertex buffers.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://dragonite.itch.io/snowy-snow",
+      "name": "Snowy Snow",
+      "url": "https://dragonite.itch.io/snowy-snow",
+      "description": "3D Snow Shader.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://dragonite.itch.io/collisions",
+      "name": "Collisions",
+      "url": "https://dragonite.itch.io/collisions",
+      "description": "3D collision system that works with native GML.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Bonk",
+      "name": "Bonk",
+      "url": "https://github.com/JujuAdams/Bonk",
+      "description": "Another cool collision library handling a majority of collision shape use-cases.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://danieldavis.itch.io/ddg-point-light-shader-system",
+      "name": "3D Fragment Point Lights",
+      "url": "https://danieldavis.itch.io/ddg-point-light-shader-system",
+      "description": "3D point lights using shaders. 💸",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V&v=ojfN--tdSNM",
+      "name": "3D GameMaker Playlist",
+      "url": "https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V",
+      "description": "DragoniteSpam.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC&v=o7kjtTEMpeU",
+      "name": "3D Collisions Playlist",
+      "url": "https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC",
+      "description": "DragoniteSpam.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t&v=knfAZbJJKNY",
+      "name": "3D Optimization Playlist",
+      "url": "https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t",
+      "description": "DragoniteSpam.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main",
+      "name": "glTF parser",
+      "url": "https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main/",
+      "description": "A model loader with support for animations.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://github.com/Fanatrick/GMFlux",
+      "name": "GMFlux",
+      "url": "https://github.com/Fanatrick/GMFlux",
+      "description": "Heightfield fluid simulation solver.",
+      "section": [
+        "3D"
+      ]
+    },
+    {
+      "key": "https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0",
+      "name": "Beginners Guide to Sprite Stacking",
+      "url": "https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0",
+      "description": "A primer on sprite stacking from Avis. Check out part 2 from dev_dwarf as well.",
+      "section": [
+        "Sprite Stacking"
+      ]
+    },
+    {
+      "key": "https://gizmo199.itch.io/fauxton3d",
+      "name": "Fauxton3D",
+      "url": "https://gizmo199.itch.io/fauxton3d",
+      "description": "Sprite stacking engine.",
+      "section": [
+        "Sprite Stacking"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j&v=VIDN-nG3EOU",
+      "name": "Sprite Stacking Tutorials",
+      "url": "https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j",
+      "description": "Gizmo199.",
+      "section": [
+        "Sprite Stacking"
+      ]
+    },
+    {
+      "key": "https://github.com/evolutionleo/Warp",
+      "name": "Warp",
+      "url": "https://github.com/evolutionleo/Warp",
+      "description": "A feature-rich framework for multiplayer games, written in GameMaker and Node.js.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://jasontomlee.itch.io/easy-gms-networking-platformer-build",
+      "name": "EZ Networking",
+      "url": "https://jasontomlee.itch.io/easy-gms-networking-platformer-build",
+      "description": "Host/client implementation with a chat feature.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/gm-core/patchwire-gm",
+      "name": "Patchwire-GM",
+      "url": "https://github.com/gm-core/patchwire-gm",
+      "description": "The network library from gm-core if you want to use this implementation without the entire gm-core suite.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8",
+      "name": "GMHandshake",
+      "url": "https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8",
+      "description": "A Gist demonstrating a network handshake.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/Sidorakh/http.gml",
+      "name": "HTTP GML",
+      "url": "https://github.com/Sidorakh/http.gml",
+      "description": "Receive GET requests and upload files in GML.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/TimVN/GMNest",
+      "name": "GMNest",
+      "url": "https://github.com/TimVN/GMNest",
+      "description": "Socket.IO extension for HTML5 games.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/MultiClient",
+      "name": "MultiClient",
+      "url": "https://github.com/tabularelf/MultiClient",
+      "description": "Non-dll, multiple client launcher for network development.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626&v=NbsXRuNijlo",
+      "name": "Multiplayer Networking Tutorial",
+      "url": "https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626",
+      "description": "Wizirdi.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://springrollgames.itch.io/ggmr",
+      "name": "Good GameMaker Rollback",
+      "url": "https://springrollgames.itch.io/ggmr",
+      "description": "Rollback netcode library.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/gmclan-org/gm_networking",
+      "name": "GM Networking",
+      "url": "https://github.com/gmclan-org/gm_networking",
+      "description": "Very simple network code demonstration.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/gmclan-org/gm_boomers_networking",
+      "name": "Boomers Networking",
+      "url": "https://github.com/gmclan-org/gm_boomers_networking",
+      "description": "Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine",
+      "name": "Rocket Networking Engine",
+      "url": "https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine",
+      "description": "Easy low-code multiplayer engine.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/tabularelf/DHook",
+      "name": "DHook",
+      "url": "https://github.com/tabularelf/DHook",
+      "description": "Discord integration.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Mtax-Development/GMS2_RPC",
+      "name": "GMS2_RPC",
+      "url": "https://github.com/Mtax-Development/GMS2_RPC",
+      "description": "Another Discord integration.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://marketplace.gamemaker.io/assets/9526/nekopresence",
+      "name": "NekoPresence",
+      "url": "https://marketplace.gamemaker.io/assets/9526/nekopresence",
+      "description": "Oops, all Discord integration.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Kruger0/GMHook",
+      "name": "GMHook",
+      "url": "https://github.com/Kruger0/GMHook",
+      "description": "We really like Discord integration.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/steamworks.gml",
+      "name": "Steamworks.gml",
+      "url": "https://github.com/YAL-GameMaker/steamworks.gml",
+      "description": "Various expansions to Steamworks SDK support in GameMaker: Studio.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/nkrapivin/Parworks",
+      "name": "Parworks",
+      "url": "https://github.com/nkrapivin/Parworks",
+      "description": "Additional functionality for the YYG Steamworks extension.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/GameMakerDiscord/GOG.gml",
+      "name": "GOG.gml",
+      "url": "https://github.com/GameMakerDiscord/GOG.gml",
+      "description": "A native extension for GOG.com SDK support.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/GameMakerDiscord/GMTwitch",
+      "name": "GMTwitch",
+      "url": "https://github.com/GameMakerDiscord/GMTwitch",
+      "description": "Twitch integration.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/AlubJ/GitHub.gml",
+      "name": "Github.gml",
+      "url": "https://github.com/AlubJ/GitHub.gml",
+      "description": "GitHub REST API.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=_g1LQ6aIJFk",
+      "name": "GameMaker Cameras: As Simple as Possible",
+      "url": "https://www.youtube.com/watch?v=_g1LQ6aIJFk",
+      "description": "Pixelated Pope's guide on GameMaker's camera system.",
+      "section": [
+        "Camera"
+      ]
+    },
+    {
+      "key": "https://maddestudiosgames.com/gms2-meet-the-camera-system",
+      "name": "Camera System Guide",
+      "url": "https://maddestudiosgames.com/gms2-meet-the-camera-system/",
+      "description": "Getting started with cameras in GameMaker.",
+      "section": [
+        "Camera"
+      ]
+    },
+    {
+      "key": "https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera",
+      "name": "Pixel Perfect Smooth Camera",
+      "url": "https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera",
+      "description": "An example of pixel-perfect yet smooth camera.",
+      "section": [
+        "Camera"
+      ]
+    },
+    {
+      "key": "https://maddestudios.itch.io/gms2-project-dynamic-splitscreen",
+      "name": "Dynamic Splitscreen",
+      "url": "https://maddestudios.itch.io/gms2-project-dynamic-splitscreen",
+      "description": "Local multiplayer split screen implementation that merges the camera when players are close.",
+      "section": [
+        "Camera"
+      ]
+    },
+    {
+      "key": "https://github.com/jack27121/STANNcam",
+      "name": "STANNcam",
+      "url": "https://github.com/jack27121/STANNcam",
+      "description": "Camera and resolution manager.",
+      "section": [
+        "Camera"
+      ]
+    },
+    {
+      "key": "https://jasontomlee.itch.io/allinone-camera",
+      "name": "Camera All-In-One",
+      "url": "https://jasontomlee.itch.io/allinone-camera",
+      "description": "Editor, screenshake, view-resizing, follow modes, screen effects, etc. 💸",
+      "section": [
+        "Camera"
+      ]
+    },
+    {
+      "key": "https://foxyofjungle.itch.io/rezol",
+      "name": "REZOL",
+      "url": "https://foxyofjungle.itch.io/rezol",
+      "description": "Complete resolution & screen manager (with split-screen support). 💸",
+      "section": [
+        "Camera"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=WO6gzhrx5b8",
+      "name": "Sequences Tutorial",
+      "url": "https://www.youtube.com/watch?v=WO6gzhrx5b8",
+      "description": "Shaun Spalding.",
+      "section": [
+        "Sequences"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=hTh5UpFxx1E",
+      "name": "Making Splash Screen Sequences",
+      "url": "https://www.youtube.com/watch?v=hTh5UpFxx1E",
+      "description": "Mash Arcade.",
+      "section": [
+        "Sequences"
+      ]
+    },
+    {
+      "key": "https://github.com/KeeVeeGames/DuplicateSequence.gml",
+      "name": "DuplicateSequence",
+      "url": "https://github.com/KeeVeeGames/DuplicateSequence.gml",
+      "description": "Make a deep copy of sequence assets/structs for editing at runtime.",
+      "section": [
+        "Sequences"
+      ]
+    },
+    {
+      "key": "https://github.com/sohomsahaun/SnowState",
+      "name": "SnowState",
+      "url": "https://github.com/sohomsahaun/SnowState",
+      "description": "Robust finite state machine.",
+      "section": [
+        "State Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/JulianDicken/FastSM",
+      "name": "FastSM",
+      "url": "https://github.com/JulianDicken/FastSM",
+      "description": "Lightweight alternative to SnowState.",
+      "section": [
+        "State Machines"
+      ]
+    },
+    {
+      "key": "https://mors-games.itch.io/wfsm",
+      "name": "wFSM",
+      "url": "https://mors-games.itch.io/wfsm",
+      "description": "Another Easy-to-use Finite State Machine library.",
+      "section": [
+        "State Machines"
+      ]
+    },
+    {
+      "key": "https://pixelatedpope.itch.io/truestate",
+      "name": "True State",
+      "url": "https://pixelatedpope.itch.io/truestate",
+      "description": "Feature-rich finite state machine to handle complex objects.",
+      "section": [
+        "State Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Pinocchio",
+      "name": "Pinocchio",
+      "url": "https://github.com/JujuAdams/Pinocchio",
+      "description": "State-based animation system.",
+      "section": [
+        "State Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/Gizmo199/BehaviorTree",
+      "name": "BehaviorTree",
+      "url": "https://github.com/Gizmo199/BehaviorTree",
+      "description": "A simple behavior tree system.",
+      "section": [
+        "State Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/gmclan-org/FSM-AI-module",
+      "name": "FSM AI",
+      "url": "https://github.com/gmclan-org/FSM-AI-module",
+      "description": "Finite state machine for NPC AI.",
+      "section": [
+        "State Machines"
+      ]
+    },
+    {
+      "key": "https://dragonite.itch.io/aquila",
+      "name": "Aquila",
+      "url": "https://dragonite.itch.io/aquila",
+      "description": "A* Pathfinding implementation.",
+      "section": [
+        "Pathing"
+      ]
+    },
+    {
+      "key": "https://github.com/helloalbertdang/A-Star-Pathing",
+      "name": "A-Star-Pathing",
+      "url": "https://github.com/helloalbertdang/A-Star-Pathing",
+      "description": "Another A* pathfinding implementation.",
+      "section": [
+        "Pathing"
+      ]
+    },
+    {
+      "key": "https://proton-squid.itch.io/pathfinding",
+      "name": "Grid-based Pathfinding Scripts",
+      "url": "https://proton-squid.itch.io/pathfinding",
+      "description": "Flexible pathfinding system with 3 different algorithms.",
+      "section": [
+        "Pathing"
+      ]
+    },
+    {
+      "key": "https://github.com/gmclan-org/dijkstra-graph",
+      "name": "Pathfinding in graph",
+      "url": "https://github.com/gmclan-org/dijkstra-graph",
+      "description": "Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.",
+      "section": [
+        "Pathing"
+      ]
+    },
+    {
+      "key": "https://delfos1.itch.io/pathplus-for-gamemaker/devlog/1115089/pathplus-220-follower-and-spriter",
+      "name": "PathPlus",
+      "url": "https://delfos1.itch.io/pathplus-for-gamemaker/devlog/1115089/pathplus-220-follower-and-spriter",
+      "description": "Enhance GameMaker Paths with CatmullRom and Bezier Interpolations.",
+      "section": [
+        "Pathing"
+      ]
+    },
+    {
+      "key": "https://github.com/erkan612/GMNav",
+      "name": "GMNav",
+      "url": "https://github.com/erkan612/GMNav",
+      "description": "High-performance, resumable navigation engine for GameMaker that handles grid, isometric, hex, and platformer maps with flow fields, dynamic costs, and multi-agent pathfinding.",
+      "section": [
+        "Pathing"
+      ]
+    },
+    {
+      "key": "https://github.com/Grisgram/gml-animated-flag",
+      "name": "Animated Flag",
+      "url": "https://github.com/Grisgram/gml-animated-flag",
+      "description": "Vertex-animated flag.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/OmegaX1000/DanmakuProject",
+      "name": "Danmaku Project",
+      "url": "https://github.com/OmegaX1000/DanmakuProject",
+      "description": "Bullet hell engine.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/TrianglyRU/OrbinautFramework",
+      "name": "OrbinautFramework",
+      "url": "https://github.com/TrianglyRU/OrbinautFramework",
+      "description": "Accurate framework to make classic Sonic games.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://all-x.itch.io/gms2-mouse-trail-effect",
+      "name": "Mouse Trail Effect",
+      "url": "https://all-x.itch.io/gms2-mouse-trail-effect",
+      "description": "Shows how to trace a line with primitives to create a colorful trail.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/PixelProphecy/gml_starfield_generator",
+      "name": "Starfield Generator",
+      "url": "https://github.com/PixelProphecy/gml_starfield_generator",
+      "description": "A script to generate starfields in GameMaker's GML language.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/Clean-Shapes",
+      "name": "CleanShapes",
+      "url": "https://github.com/JujuAdams/Clean-Shapes",
+      "description": "Antialiased primitives library for GameMaker.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://gmlscripts.com/script/index",
+      "name": "GMLScripts.com",
+      "url": "https://www.gmlscripts.com/script/index",
+      "description": "Dozens of helper scripts, organized similarly to the official documentation.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://gm48.net/resources",
+      "name": "GM48 Resources",
+      "url": "https://gm48.net/resources",
+      "description": "Free resources from the community to become better at GameMaker Studio, game development and game jams.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://gamemakerkitchen.com",
+      "name": "GameMaker Kitchen",
+      "url": "https://www.gamemakerkitchen.com/",
+      "description": "Another great resource for open source libraries, assets, and snippets.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/dracula/gamemaker-studio",
+      "name": "Dracula Theme",
+      "url": "https://github.com/dracula/gamemaker-studio",
+      "description": "A dark theme for the IDE.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/heygleeson/Gruvbox-GMTheme",
+      "name": "Gruvbox Theme",
+      "url": "https://github.com/heygleeson/Gruvbox-GMTheme",
+      "description": "A retro groove theme for the IDE.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://yal.cc/gamemaker-2-3-syntax-in-details",
+      "name": "2.3 Syntax in Detail",
+      "url": "https://yal.cc/gamemaker-2-3-syntax-in-details/",
+      "description": "A full guide of the syntax features/changes in GML from Yal.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b",
+      "name": "GameMaker Garbage Collection",
+      "url": "https://gist.github.com/DatZach/96a30d6ae4225f8ec152719e57aed26b",
+      "description": "How garbage collection works in GML.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting",
+      "name": "GitHub Yacc to GML Fix",
+      "url": "https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/",
+      "description": "Tell GitHub your repo is all GML, not Yacc.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges",
+      "name": "GameMaker Repo Badges",
+      "url": "https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges",
+      "description": "Fancy badges to add to your README files.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/GameMakerDiscord",
+      "name": "GameMaker Discord Community GitHub",
+      "url": "https://github.com/GameMakerDiscord",
+      "description": "Have you made a gamemaker tool you want to share? Consider submitting it to the official Discord's GitHub.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC&v=UZG-P68xWio",
+      "name": "Source Control with Git & GameMaker",
+      "url": "https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC",
+      "description": "FriendlyCosmonaut.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO&v=_g1LQ6aIJFk",
+      "name": "Game Resolution & Aspect Ratio Management",
+      "url": "https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO",
+      "description": "Pixelated Pope.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=cK5k1_zN4eM",
+      "name": "Setting up a Virtual Machine for GameMaker",
+      "url": "https://www.youtube.com/watch?v=cK5k1_zN4eM",
+      "description": "MicahTheManiac.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=RWkMsD2WUz8",
+      "name": "Making Attacks Feel Good",
+      "url": "https://www.youtube.com/watch?v=RWkMsD2WUz8",
+      "description": "Blobfish.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/chesrowe/Tome",
+      "name": "Tome",
+      "url": "https://github.com/chesrowe/Tome/",
+      "description": "Automatically generate documentation sites from GameMaker projects.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/gmclan-org/piano_example",
+      "name": "Piano example",
+      "url": "https://github.com/gmclan-org/piano_example",
+      "description": "Example of playing instrument notes by changing pitch, using only one audio file.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/gmclan-org/compatibility-scripts",
+      "name": "Compatibility scripts",
+      "url": "https://github.com/gmclan-org/compatibility-scripts",
+      "description": "Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/gmclan-org/pause_no_surface",
+      "name": "Pause example",
+      "url": "https://github.com/gmclan-org/pause_no_surface",
+      "description": "Simple example of a pause screen without using surfaces.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/shichen85/887d237cdc4338fa3f4e4749a14990db",
+      "name": "Build Automation, CI/CD",
+      "url": "https://gist.github.com/shichen85/887d237cdc4338fa3f4e4749a14990db",
+      "description": "Tutorial on using GitHub Actions as a CI/CD pipeline to automate building games.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://cowcat.itch.io/brokvn-engine",
+      "name": "BROKVN",
+      "url": "https://cowcat.itch.io/brokvn-engine",
+      "description": "A visual novel engine.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://github.com/DecadeDecaf/AssParser",
+      "name": "AssParser",
+      "url": "https://github.com/DecadeDecaf/AssParser",
+      "description": "Subtitle support for video playback.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://forum.gamemaker.io/index.php?threads/the-ultimate-gamemaker-optimization-tier-list.122141/",
+      "name": "Ultimate Optimization Tier List",
+      "url": "https://forum.gamemaker.io/index.php?threads/the-ultimate-gamemaker-optimization-tier-list.122141/",
+      "description": "Excellent forum thread on GameMaker optimization.",
+      "section": [
+        "Useful Extras"
+      ]
+    },
+    {
+      "key": "https://refreshertowelgames.wordpress.com/category/tutorial",
+      "name": "RefresherTowel",
+      "url": "https://refreshertowelgames.wordpress.com/category/tutorial/",
+      "description": "Contains several posts on level generation.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://tonystr.net",
+      "name": "Tony Str",
+      "url": "https://tonystr.net/",
+      "description": "Some great articles on working with JSON, regular expressions (regex), and drawing circles in GML.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://katsaii.com/content/blog/posts.html",
+      "name": "Katsaii",
+      "url": "https://www.katsaii.com/content/blog/posts.html",
+      "description": "Some articles on more advanced GML topics.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://meseta.dev",
+      "name": "Meseta on Game Dev",
+      "url": "https://meseta.dev/",
+      "description": "Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://github.com/JujuAdams/ThoughtsOnGameMaker",
+      "name": "Thoughts On GameMaker",
+      "url": "https://github.com/JujuAdams/ThoughtsOnGameMaker",
+      "description": "Not a traditional blog but has great info on different GML techniques.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://yal.cc/category/gm",
+      "name": "YellowAfterlife",
+      "url": "https://yal.cc/category/gm/",
+      "description": "Tutorials on intermediate/advanced topics.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ",
+      "name": "Jordan Guillou",
+      "url": "https://www.youtube.com/channel/UCBmOLRTaPrfOxnTqpCLrwdQ",
+      "description": "Hobbyist indie dev with a few GameMaker-related tutorials.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/DragoniteSpam",
+      "name": "DragoniteSpam",
+      "url": "https://www.youtube.com/c/DragoniteSpam",
+      "description": "Covers highly technical elements of GameMaker with a focus on 3D.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/ShaunSpalding",
+      "name": "Shaun Spalding",
+      "url": "https://www.youtube.com/c/ShaunSpalding",
+      "description": "Previous community manager at YoYo Games. Has a wide variety of beginner-friendly GameMaker tutorials and helpful updates on new GameMaker features.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/FriendlyCosmonaut",
+      "name": "FriendlyCosmonaut",
+      "url": "https://www.youtube.com/c/FriendlyCosmonaut",
+      "description": "Great playlist on building a farming RPG in GameMaker with several other tutorials.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/PixelatedPope",
+      "name": "Pixelated Pope",
+      "url": "https://www.youtube.com/c/PixelatedPope",
+      "description": "Guides on GameMaker resolution management, cameras, GUI, and more.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/XorDev",
+      "name": "Xor",
+      "url": "https://www.youtube.com/c/XorDev",
+      "description": "Tons of shader demonstrations with a focus on 3D.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/GamingEngineer",
+      "name": "GamingEngineer",
+      "url": "https://www.youtube.com/c/GamingEngineer",
+      "description": "A GameMaker developer that has been in the community for many years. They have a wide variety videos showcasing what GameMaker is capable of, with a focus on 3D.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/TheSnidr",
+      "name": "TheSnidr",
+      "url": "https://www.youtube.com/c/TheSnidr",
+      "description": "A lot of awesome 3D showcases and tutorials for GameMaker.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ",
+      "name": "Peyton Burnham",
+      "url": "https://www.youtube.com/channel/UCfh2Q3TsvlxM1S2GvXQ4eeQ",
+      "description": "GameMaker tutorials for top-down shooters and RPGs.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A",
+      "name": "Gaming Reverends",
+      "url": "https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A",
+      "description": "If you want to learn foundational material regarding GameMaker shaders, the \"Shaders for Hobby-Programmers\" playlist is definitely worth checking out.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/LetsLearnThisTogether",
+      "name": "Let's Learn This Together",
+      "url": "https://www.youtube.com/c/LetsLearnThisTogether",
+      "description": "Small indie dev company with a focus on providing GameMaker guides.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/GameMakerStationMatharoo",
+      "name": "Matharoo",
+      "url": "https://www.youtube.com/c/GameMakerStationMatharoo",
+      "description": "Tons of free GameMaker tutorials and news about GameMaker.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/SlasherXGAMES",
+      "name": "GravityShift Games",
+      "url": "https://www.youtube.com/c/SlasherXGAMES/",
+      "description": "A couple of genre-specific GameMaker tutorials, integrating databases into GameMaker, and more.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/c/Slyddar",
+      "name": "Slyddar",
+      "url": "https://www.youtube.com/c/Slyddar/",
+      "description": "A channel dedicated to both DnD and GML tutorials.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/@SamSpadeGameDev",
+      "name": "SamSpadeGameDev",
+      "url": "https://www.youtube.com/@SamSpadeGameDev",
+      "description": "In-depth coding tutorials for the hobbyist game maker.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLks6h7R6jAUGrofUAQB178r6K8h43Ml5-",
+      "name": "gentoo's iceberg Playlist",
+      "url": "https://www.youtube.com/playlist?list=PLks6h7R6jAUGrofUAQB178r6K8h43Ml5-",
+      "description": "Series based on iceberg to display advanced programming ideas in GameMaker.",
+      "section": [
+        "YouTube"
+      ]
+    },
+    {
+      "key": "https://github.com/FaultyFunctions/GameMakerLibraries",
+      "name": "GameMaker Libraries",
+      "url": "https://github.com/FaultyFunctions/GameMakerLibraries",
+      "description": "and from Gleb Tsereteli with additional links/details.",
+      "section": [
+        "Footnotes"
+      ]
+    },
+    {
+      "key": "https://github.com/Calinou/awesome-gamedev",
+      "name": "Awesome Gamedev",
+      "url": "https://github.com/Calinou/awesome-gamedev",
+      "description": "or MagicTools.",
+      "section": [
+        "Footnotes"
+      ]
+    }
+  ]
+}

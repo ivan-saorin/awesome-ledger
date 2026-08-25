@@ -1,0 +1,3175 @@
+{
+  "etag": "W/\"b6d4454263781be2c7a6ddae00b7d7fda15f4789c8c16eb1905a37b85f76d68d\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://wiki.openjdk.java.net/display/CodeTools/asmtools",
+      "name": "asmtools",
+      "url": "https://wiki.openjdk.java.net/display/CodeTools/asmtools",
+      "description": "Used to develop tools for the production of Java .class files.",
+      "section": [
+        "Bytecode"
+      ]
+    },
+    {
+      "key": "https://bytebuddy.net",
+      "name": "Byte Buddy",
+      "url": "http://bytebuddy.net",
+      "description": "Code generation library creating Java classes at runtime without the help of a compiler.",
+      "section": [
+        "Bytecode"
+      ]
+    },
+    {
+      "key": "https://github.com/qmx/jitescript",
+      "name": "Jitescript",
+      "url": "https://github.com/qmx/jitescript",
+      "description": "Bytecode generation library similar to BiteScript.",
+      "section": [
+        "Bytecode"
+      ]
+    },
+    {
+      "key": "https://azul.com/files/wp_pgc_zing_v52.pdf",
+      "name": "Azul Pauseless Garbage Collection",
+      "url": "https://www.azul.com/files/wp_pgc_zing_v52.pdf",
+      "description": "Providing continuous, pauseless operation for Java applications.",
+      "section": [
+        "Garbage collectors"
+      ]
+    },
+    {
+      "key": "https://ibm.com/developerworks/websphere/techjournal/1108_sciampacone/1108_sciampacone.html",
+      "name": "Balanced GC",
+      "url": "http://www.ibm.com/developerworks/websphere/techjournal/1108_sciampacone/1108_sciampacone.html",
+      "description": "GC policy available in the Java Virtual Machine for IBM WebSphere Application Server V8.",
+      "section": [
+        "Garbage collectors"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/jeps/318",
+      "name": "Epsilon GC",
+      "url": "http://openjdk.java.net/jeps/318",
+      "description": "Completely passive GC implementation with bounded allocation limit, and lowest runtime performance overhead possible.",
+      "section": [
+        "Garbage collectors"
+      ]
+    },
+    {
+      "key": "https://oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html",
+      "name": "G1",
+      "url": "http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html",
+      "description": "The Garbage-First Garbage Collector.",
+      "section": [
+        "Garbage collectors"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/jeps/189",
+      "name": "Shenandoah",
+      "url": "http://openjdk.java.net/jeps/189",
+      "description": "Ultra-Low-Pause-Time Garbage Collector.",
+      "section": [
+        "Garbage collectors"
+      ]
+    },
+    {
+      "key": "https://gchandbook.org",
+      "name": "The Garbage Collection Handbook",
+      "url": "http://gchandbook.org",
+      "description": "Book that addresses new challenges to garbage collection made by recent advances in hardware and software.",
+      "section": [
+        "Garbage collectors"
+      ]
+    },
+    {
+      "key": "https://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html",
+      "name": "ZGC",
+      "url": "http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html",
+      "description": "Garbage collector optimized for low latency and very large heaps.",
+      "section": [
+        "Garbage collectors"
+      ]
+    },
+    {
+      "key": "https://gatling.io",
+      "name": "Gatling",
+      "url": "http://gatling.io",
+      "description": "Asynchronous non-blocking scenario driven load testing tool for testing HTTP servers.",
+      "section": [
+        "Load tools"
+      ]
+    },
+    {
+      "key": "https://github.com/giltene/wrk2",
+      "name": "wrk2",
+      "url": "https://github.com/giltene/wrk2",
+      "description": "A constant throughput, correct latency recording variant of wrk.",
+      "section": [
+        "Load tools"
+      ]
+    },
+    {
+      "key": "https://ceylon-lang.org",
+      "name": "Ceylon",
+      "url": "http://ceylon-lang.org/",
+      "description": "Object-oriented, strong and static programming language with an emphasis on immutability, created by Red Hat.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://clojure.org",
+      "name": "Clojure",
+      "url": "http://clojure.org/",
+      "description": "Dialect of Lisp created by Rich Hickey. Dynamically typed with emphasis on functional programming.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://erjang.org",
+      "name": "Erjang",
+      "url": "http://www.erjang.org",
+      "description": "A JVM-based Erlang VM.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://eta-lang.org",
+      "name": "Eta",
+      "url": "http://eta-lang.org/",
+      "description": "Pure, lazy, strongly typed functional programming language on the JVM.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/Frege/frege",
+      "name": "Frege",
+      "url": "https://github.com/Frege/frege",
+      "description": "Pure functional programming language in the spirit of Haskell.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/sridharv/gojava",
+      "name": "gojava",
+      "url": "https://github.com/sridharv/gojava",
+      "description": "Java bindings for Go packages.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://golo-lang.org",
+      "name": "Golo",
+      "url": "http://golo-lang.org/",
+      "description": "A simple dynamic language that makes extensive usage of invokedynamic.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://groovy-lang.org",
+      "name": "Groovy",
+      "url": "http://www.groovy-lang.org/",
+      "description": "Optionally typed and dynamic language, with static-typing and static compilation capabilities.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://oracle.com/technetwork/java/javase/overview/index.html",
+      "name": "Java",
+      "url": "http://www.oracle.com/technetwork/java/javase/overview/index.html",
+      "description": "General-purpose, concurrent, strongly typed, class-based object-oriented language.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://jruby.org",
+      "name": "JRuby",
+      "url": "http://jruby.org",
+      "description": "Implementation of the Ruby language on the JVM.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/jphp-group/jphp",
+      "name": "JPHP",
+      "url": "https://github.com/jphp-group/jphp",
+      "description": "PHP on the Java VM.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://jython.org",
+      "name": "Jython",
+      "url": "http://www.jython.org",
+      "description": "Python for the Java Platform.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://gnu.org/software/kawa",
+      "name": "Kawa",
+      "url": "http://www.gnu.org/software/kawa/",
+      "description": "Extension of the Scheme language, which is in the Lisp family of programming languages.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://kotlinlang.org",
+      "name": "Kotlin",
+      "url": "http://kotlinlang.org/",
+      "description": "Statically typed programming language for the JVM, Android and the browser.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://luaj.org/luaj/3.0/README.html",
+      "name": "LuaJ",
+      "url": "http://www.luaj.org/luaj/3.0/README.html",
+      "description": "Java-centric implementation of lua vm built to leverage standard Java features.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/projects/nashorn",
+      "name": "Nashorn",
+      "url": "http://openjdk.java.net/projects/nashorn/",
+      "description": "Lightweight high-performance JavaScript runtime in Java with a native JVM.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://ocamljava.org",
+      "name": "OCaml-Java",
+      "url": "http://www.ocamljava.org/",
+      "description": "Supports OCaml language v4. Generates plain Java bytecode and have seamless integration with Java.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/mjanicek/rembulan",
+      "name": "Rembulan",
+      "url": "https://github.com/mjanicek/rembulan",
+      "description": "Rembulan is an implementation of Lua 5.3 for the JVM, written in pure Java with minimal dependencies.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://renjin.org",
+      "name": "Renjin",
+      "url": "http://www.renjin.org/",
+      "description": "JVM-based interpreter for the R language for the statistical analysis",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://scala-lang.org",
+      "name": "Scala",
+      "url": "http://www.scala-lang.org/",
+      "description": "Strong and static programming language that combine object-oriented and functional programming ideas.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://eclipse.org/xtend",
+      "name": "Xtend",
+      "url": "http://www.eclipse.org/xtend/",
+      "description": "Flexible and expressive dialect of Java, which compiles into Java 5 source code.",
+      "section": [
+        "Languages"
+      ]
+    },
+    {
+      "key": "https://deeplearning4j.org",
+      "name": "Deeplearning4j",
+      "url": "https://deeplearning4j.org/",
+      "description": "Open-Source, Distributed, Deep Learning Library for the JVM.",
+      "section": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "key": "https://h2o.ai",
+      "name": "H2O",
+      "url": "https://www.h2o.ai/",
+      "description": "Fast statistical, machine learning & math runtime.",
+      "section": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/haifengl/smile",
+      "name": "Smile",
+      "url": "https://github.com/haifengl/smile",
+      "description": "Statistical Machine Intelligence & Learning Engine.",
+      "section": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/google/agera",
+      "name": "Agera",
+      "url": "https://github.com/google/agera",
+      "description": "Reactive Programming for Android by Google.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/real-logic/Agrona",
+      "name": "Agrona",
+      "url": "https://github.com/real-logic/Agrona",
+      "description": "Library of data structures and utility methods that are a common need when building high-performance applications.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://arrow.apache.org",
+      "name": "Apache Arrow",
+      "url": "http://arrow.apache.org/",
+      "description": "A high-performance cross-system data layer for columnar in-memory analytics.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/lemire/bloofi",
+      "name": "bloofi",
+      "url": "https://github.com/lemire/bloofi",
+      "description": "Java implementation of multidimensional Bloom filters",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://capnproto.org",
+      "name": "Cap’n Proto",
+      "url": "https://capnproto.org/",
+      "description": "Insanely fast data interchange format and capability-based RPC system.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/ben-manes/caffeine",
+      "name": "caffeine",
+      "url": "https://github.com/ben-manes/caffeine",
+      "description": "A high performance caching library for Java 8.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHFT/Chronicle-Bytes",
+      "name": "Chronicle-Bytes",
+      "url": "https://github.com/OpenHFT/Chronicle-Bytes",
+      "description": "Low level memory access wrappers.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHFT/Chronicle-Queue",
+      "name": "Chronicle-Queue",
+      "url": "https://github.com/OpenHFT/Chronicle-Queue",
+      "description": "Micro second messaging that stores everything to disk.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHFT/Chronicle-Map",
+      "name": "Chronicle-Map",
+      "url": "https://github.com/OpenHFT/Chronicle-Map",
+      "description": "In-memory key-value store designed for low-latency and/or multi-process applications.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/krukow/clj-ds",
+      "name": "clj-ds",
+      "url": "https://github.com/krukow/clj-ds",
+      "description": "Clojure's data structures modified for use outside of Clojure.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/pascaldekloe/colfer",
+      "name": "colfer",
+      "url": "https://github.com/pascaldekloe/colfer",
+      "description": "Binary serialization format and class generator.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://commons.apache.org/proper/commons-math",
+      "name": "commons-math",
+      "url": "http://commons.apache.org/proper/commons-math",
+      "description": "Library of lightweight, self-contained mathematics and statistics components.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/MGunlogson/CuckooFilter4J",
+      "name": "CuckooFilter4J",
+      "url": "https://github.com/MGunlogson/CuckooFilter4J",
+      "description": "Bloom filter replacement for approximated set-membership queries.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/aol/cyclops",
+      "name": "cyclops",
+      "url": "https://github.com/aol/cyclops",
+      "description": "Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/eclipse/eclipse-collections",
+      "name": "Eclipse Collections",
+      "url": "https://github.com/eclipse/eclipse-collections",
+      "description": "Collections framework for Java.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/lemire/externalsortinginjava",
+      "name": "externalsortinginjava",
+      "url": "https://github.com/lemire/externalsortinginjava",
+      "description": "Sort very large files using multiple cores and an external-memory algorithm.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/jhalterman/failsafe",
+      "name": "failsafe",
+      "url": "https://github.com/jhalterman/failsafe",
+      "description": "A lightweight, zero-dependency library for handling failures.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/boundary/fasttuple",
+      "name": "fasttuple",
+      "url": "https://github.com/boundary/fasttuple",
+      "description": "Collections that are laid out adjacently in both on- and off-heap memory.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/jchambers/fast-uuid",
+      "name": "fast-uuid",
+      "url": "https://github.com/jchambers/fast-uuid",
+      "description": "Java library for quickly and efficiently parsing and writing UUIDs.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://google.github.io/flatbuffers",
+      "name": "FlatBuffers",
+      "url": "http://google.github.io/flatbuffers/",
+      "description": "Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/davidmoten/geo",
+      "name": "geohash",
+      "url": "https://github.com/davidmoten/geo",
+      "description": "Java utility methods for geohashing.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/goldmansachs/gs-collections",
+      "name": "gs-collections",
+      "url": "https://github.com/goldmansachs/gs-collections",
+      "description": "Goldman Sachs collections framework.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/Netflix/hollow",
+      "name": "hollow",
+      "url": "https://github.com/Netflix/hollow",
+      "description": "Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/boundary/high-scale-lib",
+      "name": "high-scale-lib",
+      "url": "https://github.com/boundary/high-scale-lib",
+      "description": "Cliff Click's High Scale Library.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/carrotsearch/hppc",
+      "name": "hppc",
+      "url": "https://github.com/carrotsearch/hppc",
+      "description": "High Performance Primitive Collections.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/belliottsmith/injector",
+      "name": "injector",
+      "url": "https://github.com/belliottsmith/injector",
+      "description": "A new Executor for Java.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/romix/java-concurrent-hash-trie-map",
+      "name": "java-concurrent-hash-trie-map",
+      "url": "https://github.com/romix/java-concurrent-hash-trie-map",
+      "description": "Java port of a concurrent trie hash map implementation from Scala collections.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/aggregateknowledge/java-hll",
+      "name": "java-hll",
+      "url": "https://github.com/aggregateknowledge/java-hll",
+      "description": "Java library for the HyperLogLog algorithm.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/lemire/JavaFastPFOR",
+      "name": "JavaFastPFOR",
+      "url": "https://github.com/lemire/JavaFastPFOR",
+      "description": "Library to compress and uncompress arrays of integers very fast.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/tdebatty/java-string-similarity",
+      "name": "java-string-similarity",
+      "url": "https://github.com/tdebatty/java-string-similarity",
+      "description": "String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://jctools.github.io/JCTools",
+      "name": "JCTools",
+      "url": "http://jctools.github.io/JCTools/",
+      "description": "Concurrent data structures currently missing from the JDK.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/ngs-doo/dsl-json",
+      "name": "DSL-JSON",
+      "url": "http://github.com/ngs-doo/dsl-json",
+      "description": "High performance JSON library with advanced compile-time databinding.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://jsoniter.com",
+      "name": "jsoniter",
+      "url": "http://jsoniter.com/",
+      "description": "Claims to be the fastest JSON parser ever (copy of DSL-JSON).",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/jOOQ/jOOL",
+      "name": "jOOL",
+      "url": "https://github.com/jOOQ/jOOL",
+      "description": "Useful extensions to Java 8 lambdas.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHFT/Koloboke",
+      "name": "Koloboke",
+      "url": "https://github.com/OpenHFT/Koloboke",
+      "description": "Java Collections til the last breadcrumb of memory and performance.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/dain/leveldb",
+      "name": "LevelDB",
+      "url": "https://github.com/dain/leveldb",
+      "description": "Rewrite (port) of LevelDB in Java.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/bryanduxbury/lightweight_trie",
+      "name": "lightweight_trie",
+      "url": "https://github.com/bryanduxbury/lightweight_trie",
+      "description": "A very memory-efficient trie (radix tree) implementation.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/deephacks/lmdbjni",
+      "name": "lmdbjni",
+      "url": "https://github.com/deephacks/lmdbjni",
+      "description": "Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/lmdbjava/lmdbjava",
+      "name": "lmdbjava",
+      "url": "https://github.com/lmdbjava/lmdbjava",
+      "description": "Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/cowtowncoder/low-gc-membuffers",
+      "name": "low-gc-membuffers",
+      "url": "https://github.com/cowtowncoder/low-gc-membuffers",
+      "description": "In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/LWJGL/lwjgl3",
+      "name": "lwjgl3",
+      "url": "https://github.com/LWJGL/lwjgl3",
+      "description": "Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://mapdb.org",
+      "name": "MapDB",
+      "url": "http://www.mapdb.org",
+      "description": "Collections backed by off-heap or on-disk storage.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/indeedeng/mph-table",
+      "name": "mph-table",
+      "url": "https://github.com/indeedeng/mph-table",
+      "description": "Minimal Perfect Hash Tables are an immutable key/value store with efficient space utilization and fast reads.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://google.github.io/mug",
+      "name": "mug",
+      "url": "https://google.github.io/mug/",
+      "description": "A small, zero-dep functional util library originating from Google.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://netty.io/wiki/using-as-a-generic-library.html",
+      "name": "netty-buffers",
+      "url": "http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1",
+      "description": "Memory buffer pool implementation similar to jemalloc.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://objectlayout.org",
+      "name": "ObjectLayout",
+      "url": "http://objectlayout.org",
+      "description": "A layout-optimized Java data structure package.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/snazy/ohc",
+      "name": "ohc",
+      "url": "https://github.com/snazy/ohc",
+      "description": "Java large off heap cache developed for Apache Cassandra 3.0.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/square/okio",
+      "name": "okio",
+      "url": "https://github.com/square/okio",
+      "description": "Modern Java IO library that do clever things to save CPU and memory.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/onyx-platform/onyx-java",
+      "name": "onyx-java",
+      "url": "https://github.com/onyx-platform/onyx-java",
+      "description": "Mirrors the Onyx Platform core API by providing a Java equivalent for each component of an Onyx workflow.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://parquet.apache.org",
+      "name": "parquet",
+      "url": "https://parquet.apache.org/",
+      "description": "Columnar storage format that uses the record shredding and assembly algorithm described in the Dremel paper.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/giltene/PauselessHashMap",
+      "name": "PauselessHashMap",
+      "url": "https://github.com/giltene/PauselessHashMap",
+      "description": "A java.util.HashMap compatible map that won't stall puts or gets when resizing.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/hrldcpr/pcollections",
+      "name": "pcollections",
+      "url": "https://github.com/hrldcpr/pcollections",
+      "description": "A Persistent Java Collections Library.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://developers.google.com/protocol-buffers",
+      "name": "protobuf",
+      "url": "https://developers.google.com/protocol-buffers",
+      "description": "Google's data interchange format.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://paralleluniverse.co/quasar",
+      "name": "Quasar",
+      "url": "http://www.paralleluniverse.co/quasar/",
+      "description": "Lightweight threads and actors for the JVM.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/davidmoten/rtree",
+      "name": "rtree",
+      "url": "https://github.com/davidmoten/rtree",
+      "description": "Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/Sizmek/rtree2d",
+      "name": "RTree2D",
+      "url": "https://github.com/Sizmek/rtree2d",
+      "description": "RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://reactive-streams.org",
+      "name": "Reactive Streams",
+      "url": "http://www.reactive-streams.org/",
+      "description": "Standard for asynchronous stream processing with non-blocking back pressure.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/lightbend/reactive-streams-utils",
+      "name": "Reactive Streams Utilities",
+      "url": "https://github.com/lightbend/reactive-streams-utils",
+      "description": "Future standard utilities library for Reactive Streams.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/RoaringBitmap/RoaringBitmap",
+      "name": "RoaringBitmap",
+      "url": "https://github.com/RoaringBitmap/RoaringBitmap",
+      "description": "A better compressed bitset in Java.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/lemire/rollinghashjava",
+      "name": "rollinghashjava",
+      "url": "https://github.com/lemire/rollinghashjava",
+      "description": "Rolling hash functions in Java.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://projectreactor.io",
+      "name": "Reactor",
+      "url": "http://projectreactor.io/",
+      "description": "Reactive data applications on the JVM for Java, Groovy, Clojure and other.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/ReactiveX/RxJava",
+      "name": "RxJava",
+      "url": "https://github.com/ReactiveX/RxJava",
+      "description": "Library for composing asynchronous and event-based programs using observable sequences.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHFT/SmoothieMap",
+      "name": "SmoothieMap",
+      "url": "https://github.com/OpenHFT/SmoothieMap",
+      "description": "java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/real-logic/simple-binary-encoding",
+      "name": "Simple Binary Encoding",
+      "url": "https://github.com/real-logic/simple-binary-encoding",
+      "description": "High Performance Message Codec.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/richardstartin/splitmap",
+      "name": "splitmap",
+      "url": "https://github.com/richardstartin/splitmap/",
+      "description": "A parallel bitmap implementation.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://datasketches.github.io",
+      "name": "DataSketches",
+      "url": "https://datasketches.github.io/",
+      "description": "A Java software library of stochastic streaming algorithms.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/chrisvest/stormpot",
+      "name": "stormpot",
+      "url": "https://github.com/chrisvest/stormpot",
+      "description": "A fast object pool for the JVM.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/addthis/stream-lib",
+      "name": "stream-lib",
+      "url": "https://github.com/addthis/stream-lib",
+      "description": "A Java library for summarizing data in streams for which it is infeasible to store all events.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/lemire/streamvbyte",
+      "name": "streamvbyte",
+      "url": "https://github.com/lemire/streamvbyte",
+      "description": "Fast integer compression in C using the StreamVByte codec.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://trane.io",
+      "name": "TraneIO",
+      "url": "http://trane.io/",
+      "description": "High-performance implementation of the Future abstraction.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/cognitect-labs/transducers-java",
+      "name": "transducers-java",
+      "url": "https://github.com/cognitect-labs/transducers-java",
+      "description": "Composable algorithmic transformations independent from the context of their input and output sources.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java",
+      "name": "VarInt",
+      "url": "https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java",
+      "description": "No-deps variable int implementation without deps (by Bazel).",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://vavr.io",
+      "name": "vavr",
+      "url": "http://www.vavr.io/",
+      "description": "Functional Library for Java 8+.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/square/wire",
+      "name": "wire",
+      "url": "https://github.com/square/wire",
+      "description": "Clean, lightweight protocol buffers for Android and Java.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHFT/Zero-Allocation-Hashing",
+      "name": "Zero-Allocation-Hashing",
+      "url": "https://github.com/OpenHFT/Zero-Allocation-Hashing",
+      "description": "Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.",
+      "section": [
+        "Memory and concurrency"
+      ]
+    },
+    {
+      "key": "https://antlr.org",
+      "name": "Antlr",
+      "url": "http://www.antlr.org/",
+      "description": "Parser generator for reading, processing, executing, or translating structured text or binary files.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/google/auto",
+      "name": "auto",
+      "url": "https://github.com/google/auto",
+      "description": "A collection of source code generators for Java.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://calcite.apache.org/docs",
+      "name": "Apache Calcite",
+      "url": "http://calcite.apache.org/docs/",
+      "description": "Dynamic data management framework and SQL parser plugin.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://types.cs.washington.edu/checker-framework",
+      "name": "Checker Framework",
+      "url": "http://types.cs.washington.edu/checker-framework/",
+      "description": "Compiler plug-ins that find bugs or verify their absence.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/google/compile-testing",
+      "name": "compile-testing",
+      "url": "https://github.com/google/compile-testing",
+      "description": "Testing tools for javac and annotation processors.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/derive4j/derive4j",
+      "name": "derive4j",
+      "url": "https://github.com/derive4j/derive4j",
+      "description": "Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/google/error-prone",
+      "name": "error-prone",
+      "url": "https://github.com/google/error-prone",
+      "description": "Catch common Java mistakes as compile-time errors.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/rahulmutt/ghcvm",
+      "name": "GHCVM",
+      "url": "https://github.com/rahulmutt/ghcvm",
+      "description": "A Haskell to JVM compiler that supports GHC Haskell.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/projects/graal",
+      "name": "Graal",
+      "url": "http://openjdk.java.net/projects/graal/",
+      "description": "New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/fge/grappa",
+      "name": "grappa",
+      "url": "https://github.com/fge/grappa",
+      "description": "Java fork of Parboiled. Write grammars with no preprocessing phase.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://immutables.github.io",
+      "name": "immutables",
+      "url": "http://immutables.github.io/",
+      "description": "Generate simple, safe and consistent value objects.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://javacc.java.net",
+      "name": "javacc",
+      "url": "https://javacc.java.net/",
+      "description": "Parser generator for use with Java.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/javaparser/javaparser",
+      "name": "javaparser",
+      "url": "https://github.com/javaparser/javaparser",
+      "description": "Java 1.8 Parser and Abstract Syntax Tree for Java.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/square/javapoet",
+      "name": "JavaPoet",
+      "url": "https://github.com/square/javapoet",
+      "description": "A Java API for generating .java source files.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/jparsec/jparsec",
+      "name": "jparsec",
+      "url": "https://github.com/jparsec/jparsec",
+      "description": "Builds mini parsers in pure Java a la Haskell Parsec.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://jsweet.org",
+      "name": "JSweet",
+      "url": "http://www.jsweet.org/",
+      "description": "A transpiler from Java to TypeScript/JavaScript.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://jetbrains.com/mps",
+      "name": "MPS",
+      "url": "https://www.jetbrains.com/mps/",
+      "description": "Design and build extensible DSLs and editors.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://projectlombok.org",
+      "name": "lombok",
+      "url": "https://projectlombok.org/",
+      "description": "Reduce the amount of boilerplate code that is commonly written for Java classes.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/sirthias/parboiled",
+      "name": "parboiled",
+      "url": "https://github.com/sirthias/parboiled",
+      "description": "Parsing of arbitrary input text based on parsing expression grammars.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/graalvm/sulong",
+      "name": "Sulong",
+      "url": "https://github.com/graalvm/sulong",
+      "description": "LLVM IR interpreter written in Java using Truffle and Graal.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/konsoletyper/teavm",
+      "name": "TeaVM",
+      "url": "https://github.com/konsoletyper/teavm",
+      "description": "Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/graalvm/truffle",
+      "name": "Truffle",
+      "url": "https://github.com/graalvm/truffle",
+      "description": "Framework for implementing languages as simple interpreters.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://eclipse.org/Xtext",
+      "name": "Xtext",
+      "url": "https://eclipse.org/Xtext/",
+      "description": "Framework for development of programming languages and DSLs.",
+      "section": [
+        "Metaprogramming"
+      ]
+    },
+    {
+      "key": "https://github.com/fusesource/hawtjni",
+      "name": "hawtjni",
+      "url": "https://github.com/fusesource/hawtjni",
+      "description": "A JNI code generator based on the JNI generator used in Eclipse SWT.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://github.com/mikeakohn/java_grinder",
+      "name": "Java Grinder",
+      "url": "https://github.com/mikeakohn/java_grinder",
+      "description": "Compile Java bytecode to microcontroller assembly.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://github.com/eclipsesource/j2v8",
+      "name": "j2v8",
+      "url": "https://github.com/eclipsesource/j2v8",
+      "description": "Java API for Google's V8 JavaScript engine.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://github.com/bytedeco/javacpp",
+      "name": "JavaCPP",
+      "url": "https://github.com/bytedeco/javacpp",
+      "description": "JavaCPP provides efficient access to native C++ inside Java.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://github.com/jnr/jnr-ffi",
+      "name": "jnr-ffi",
+      "url": "https://github.com/jnr/jnr-ffi",
+      "description": "Load native libraries without writing JNI code by hand.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://github.com/dvx/jssembly",
+      "name": "jssembly",
+      "url": "https://github.com/dvx/jssembly",
+      "description": "Execution of native assembly from Java.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://github.com/brettwooldridge/NuProcess",
+      "name": "NuProcess",
+      "url": "https://github.com/brettwooldridge/NuProcess",
+      "description": "A low-overhead, non-blocking I/O, external Process execution implementation for Java.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/projects/panama",
+      "name": "Project Panama",
+      "url": "http://openjdk.java.net/projects/panama/",
+      "description": "Enriching the connections between the JVM and APIs used by C programmers.",
+      "section": [
+        "Native"
+      ]
+    },
+    {
+      "key": "https://github.com/real-logic/Aeron",
+      "name": "Aeron",
+      "url": "https://github.com/real-logic/Aeron",
+      "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/line/armeria",
+      "name": "armeria",
+      "url": "https://github.com/line/armeria",
+      "description": "Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHFT/Chronicle-Network",
+      "name": "Chronicle-Network",
+      "url": "https://github.com/OpenHFT/Chronicle-Network",
+      "description": "A High Performance Network library.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/tylertreat/comcast",
+      "name": "comcast",
+      "url": "https://github.com/tylertreat/comcast",
+      "description": "Simulating shitty network connections.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/buger/gor",
+      "name": "gor",
+      "url": "https://github.com/buger/gor",
+      "description": "HTTP traffic replay in real-time.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://grpc.io",
+      "name": "gRPC",
+      "url": "http://www.grpc.io/",
+      "description": "A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/LatencyUtils/jRT",
+      "name": "jRT",
+      "url": "https://github.com/LatencyUtils/jRT",
+      "description": "Measures response time of a java application to socket-based requests.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/accelio/JXIO",
+      "name": "JXIO",
+      "url": "https://github.com/accelio/JXIO",
+      "description": "Java API over AccelIO (C library), a high-performance asynchronous reliable messaging and RPC library optimized for hardware acceleration.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/k3po/k3po",
+      "name": "K3PO",
+      "url": "https://github.com/k3po/k3po",
+      "description": "Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/mefellows/muxy",
+      "name": "muxy",
+      "url": "https://github.com/mefellows/muxy",
+      "description": "Simulating real-world distributed system failures.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://netty.io",
+      "name": "Netty",
+      "url": "http://netty.io/",
+      "description": "Async event-driven network library for high performance protocol servers & clients.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/square/okhttp",
+      "name": "okhttp",
+      "url": "https://github.com/square/okhttp",
+      "description": "An HTTP+HTTP/2 client for Android and Java applications.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/odnoklassniki/one-nio",
+      "name": "one-nio",
+      "url": "https://github.com/odnoklassniki/one-nio",
+      "description": "library for building high performance Java servers.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/netifi-proteus/proteus-java",
+      "name": "proteus-java",
+      "url": "https://github.com/netifi-proteus/proteus-java",
+      "description": "Proteus Java Client based on RSocket.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/salesforce/reactive-grpc",
+      "name": "reactive-grpc",
+      "url": "https://github.com/salesforce/reactive-grpc",
+      "description": "Reactive gRPC is a suite of libraries for using gRPC with Reactive Streams programming libraries.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://rsocket.io",
+      "name": "RSocket",
+      "url": "http://rsocket.io/",
+      "description": "RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/Netflix/SimianArmy",
+      "name": "SimianArmy",
+      "url": "https://github.com/Netflix/SimianArmy",
+      "description": "Resiliency tool that helps ensure that your applications can tolerate random instance failures.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/kaitoy/pcap4j",
+      "name": "pcap4j",
+      "url": "https://github.com/kaitoy/pcap4j",
+      "description": "Java library for capturing, crafting, and sending packets using libpcap.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/rafael-santiago/pig",
+      "name": "pig",
+      "url": "https://github.com/rafael-santiago/pig",
+      "description": "A Linux packet crafting tool.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://tcpdump.org",
+      "name": "tcpdump",
+      "url": "http://www.tcpdump.org/",
+      "description": "Packet analyzer for network traffic capture.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/simsong/tcpflow",
+      "name": "tcpflow",
+      "url": "https://github.com/simsong/tcpflow",
+      "description": "Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://github.com/appneta/tcpreplay",
+      "name": "tcpreplay",
+      "url": "https://github.com/appneta/tcpreplay",
+      "description": "Pcap editing and replay tools.",
+      "section": [
+        "Network"
+      ]
+    },
+    {
+      "key": "https://atoptool.nl",
+      "name": "atoptool",
+      "url": "http://www.atoptool.nl/",
+      "description": "Logging of system and process activity for long-term analysis, highlighting overloaded system.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://github.com/iovisor/bcc",
+      "name": "bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "Tools for BPF-based Linux IO analysis, networking, monitoring, and more.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/flamegraphs.html",
+      "name": "Flame Graphs",
+      "url": "http://www.brendangregg.com/flamegraphs.html",
+      "description": "Visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://github.com/koct9i/ioping",
+      "name": "ioping",
+      "url": "https://github.com/koct9i/ioping",
+      "description": "Simple disk I/0 latency measuring tool.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html",
+      "name": "javap",
+      "url": "http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html",
+      "description": "Disassembles class files into code that reflects the java bytecode.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html",
+      "name": "jhat",
+      "url": "http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html",
+      "description": "Java Heap Analysis Tool",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/9/tools/jhsdb.htm",
+      "name": "jhsdb",
+      "url": "https://docs.oracle.com/javase/9/tools/jhsdb.htm",
+      "description": "Launch a postmortem debugger to analyze the content of a core-dump from a crashed JVM.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html",
+      "name": "jinfo",
+      "url": "http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html",
+      "description": "Prints configuration information for a given process.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html",
+      "name": "jstack",
+      "url": "http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html",
+      "description": "Prints stack traces of threads for a given Java process.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html",
+      "name": "jstat",
+      "url": "https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html",
+      "description": "Monitors GC and compiler statistics in the JVM.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://linux.die.net/man/7/hwloc",
+      "name": "hwloc",
+      "url": "http://linux.die.net/man/7/hwloc",
+      "description": "Reports the structure of the processor, number of cores, hyperthreads and cache size.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://github.com/RRZE-HPC/likwid",
+      "name": "likwid",
+      "url": "https://github.com/RRZE-HPC/likwid",
+      "description": "Read hardware performance counters on Intel and AMD processors.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://linux.die.net/man/8/numactl",
+      "name": "numactl",
+      "url": "http://linux.die.net/man/8/numactl",
+      "description": "Control NUMA policy for processes or shared memory.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://oprofile.sourceforge.net/news",
+      "name": "oprofile",
+      "url": "http://oprofile.sourceforge.net/news/",
+      "description": "System-wide hardware performance monitoring with easy-to-use interface at low overhead.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://perf.wiki.kernel.org/index.php/Main_Page",
+      "name": "perf",
+      "url": "https://perf.wiki.kernel.org/index.php/Main_Page",
+      "description": "Linux profiling with performance counters.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://github.com/brendangregg/perf-tools",
+      "name": "perf-tools",
+      "url": "https://github.com/brendangregg/perf-tools",
+      "description": "Performance analysis tools based on Linux perf_events (aka perf) and ftrace.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://sysdig.org",
+      "name": "sysdig",
+      "url": "http://www.sysdig.org/",
+      "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://sebastien.godard.pagesperso-orange.fr",
+      "name": "sysstat",
+      "url": "http://sebastien.godard.pagesperso-orange.fr",
+      "description": "Performance monitoring tools for Linux.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://glennklockwood.com/hpc-howtos/process-affinity.html",
+      "name": "taskset/process-affinity",
+      "url": "https://www.glennklockwood.com/hpc-howtos/process-affinity.html",
+      "description": "Retrieve or set a processes’s CPU affinity.",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://tiptop.gforge.inria.fr",
+      "name": "tiptop",
+      "url": "http://tiptop.gforge.inria.fr/",
+      "description": "Like top but also shows instructions per cycle (IPC).",
+      "section": [
+        "Nix tools"
+      ]
+    },
+    {
+      "key": "https://github.com/google/allocation-instrumenter",
+      "name": "allocation-instrumenter",
+      "url": "https://github.com/google/allocation-instrumenter",
+      "description": "Java agent that rewrites bytecode to instrument allocation sites.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/Devexperts/aprof",
+      "name": "aprof",
+      "url": "https://github.com/Devexperts/aprof",
+      "description": "Java memory allocation profiler.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/jvm-profiling-tools/async-profiler",
+      "name": "async-profiler",
+      "url": "https://github.com/jvm-profiling-tools/async-profiler",
+      "description": "Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf_events.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/jbachorik/btrace",
+      "name": "BTrace",
+      "url": "https://github.com/jbachorik/btrace",
+      "description": "a safe, dynamic tracing tool for the Java platform.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://byteman.jboss.org",
+      "name": "Byteman",
+      "url": "http://byteman.jboss.org/",
+      "description": "tracing, monitoring and testing tool for Java",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/cl4es/bytestacks",
+      "name": "bytestacks",
+      "url": "https://github.com/cl4es/bytestacks",
+      "description": "Turn JVM bytecode execution into flame graphs.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://chrononsystems.com",
+      "name": "Chronon",
+      "url": "http://chrononsystems.com",
+      "description": "Record your entire java program. Replay on any machine.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://gceasy.io",
+      "name": "GCeasy",
+      "url": "http://gceasy.io/",
+      "description": "Machine learning guided Garbage collection log analysis tool. Auto-detect problems in the JVM GC logs and recommend solutions to it.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/chewiebug/GCViewer",
+      "name": "GCViewer",
+      "url": "https://github.com/chewiebug/GCViewer",
+      "description": "GCViewer is a tool that visualizes verbose GC output.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/epickrram/grav",
+      "name": "grav",
+      "url": "https://github.com/epickrram/grav",
+      "description": "A collection of tools to help visualise process execution.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/jClarity/hawkshaw",
+      "name": "hawkshaw",
+      "url": "https://github.com/jClarity/hawkshaw",
+      "description": "Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://hdrhistogram.github.io/HdrHistogram",
+      "name": "HdrHistogram",
+      "url": "http://hdrhistogram.github.io/HdrHistogram/",
+      "description": "A Histogram that supports recording and analyzing sampled data value counts.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir",
+      "name": "hdrhistogram-metrics-reservoir",
+      "url": "https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir",
+      "description": "A Metrics Reservoir implementation backed by HdrHistogram.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/nitsanw/HdrLogProcessing",
+      "name": "HdrLogProcessing",
+      "url": "https://github.com/nitsanw/HdrLogProcessing",
+      "description": "Utilities for HDR Histogram logs manipulation.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/mariusae/heapster",
+      "name": "heapster",
+      "url": "https://github.com/mariusae/heapster",
+      "description": "Production heap profiling for the JVM.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/RichardWarburton/honest-profiler",
+      "name": "honest-profiler",
+      "url": "https://github.com/RichardWarburton/honest-profiler",
+      "description": "Sampling JVM profiler without the safepoint sample bias.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/jbellis/jamm",
+      "name": "jamm",
+      "url": "https://github.com/jbellis/jamm",
+      "description": "Measure actual object memory use including JVM overhead.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html",
+      "name": "Java Flight Recorder (JFR)",
+      "url": "http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html",
+      "description": "Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/dweiss/java-sizeof",
+      "name": "java-sizeof",
+      "url": "https://github.com/dweiss/java-sizeof",
+      "description": "Memory consumption estimator for Java.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/projects/code-tools/jcstress",
+      "name": "jcstress",
+      "url": "http://openjdk.java.net/projects/code-tools/jcstress/",
+      "description": "Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/chrishantha/jfr-flame-graph",
+      "name": "jfr-flame-graph",
+      "url": "https://github.com/chrishantha/jfr-flame-graph",
+      "description": "Converting JFR Method Profiling Samples to FlameGraph compatible format.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/lhotari/jfr-report-tool",
+      "name": "jfr-report-tool",
+      "url": "https://github.com/lhotari/jfr-report-tool",
+      "description": "Tool for creating reports from Java Flight Recorder dumps.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/AdoptOpenJDK/jitwatch",
+      "name": "jitwatch",
+      "url": "https://github.com/AdoptOpenJDK/jitwatch",
+      "description": "Log analyser / visualiser for Java HotSpot JIT compiler.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/yole/jitwatch-intellij",
+      "name": "jitwatch-intellij",
+      "url": "https://github.com/yole/jitwatch-intellij",
+      "description": "JITWatch plugin for IntelliJ IDEA.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://azul.com/jhiccup",
+      "name": "jHiccup",
+      "url": "http://www.azul.com/jhiccup/",
+      "description": "jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/projects/code-tools/jmh",
+      "name": "jmh",
+      "url": "http://openjdk.java.net/projects/code-tools/jmh/",
+      "description": "Micro benchmarks written in Java and other languages targetting the JVM.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/akarnokd/jmh-compare-gui",
+      "name": "jmh-compare-gui",
+      "url": "https://github.com/akarnokd/jmh-compare-gui",
+      "description": "GUI for comparing JMH results.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/projects/code-tools/jol",
+      "name": "JOL",
+      "url": "http://openjdk.java.net/projects/code-tools/jol/",
+      "description": "Analyze actual object layout schemes, footprint, and references in JVMs.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://ej-technologies.com/products/jprofiler/overview.html",
+      "name": "JProfiler",
+      "url": "https://www.ej-technologies.com/products/jprofiler/overview.html",
+      "description": "Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti",
+      "name": "JVMTI",
+      "url": "https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/",
+      "description": "Provide a native API to inspect the state and to control the execution of applications running in the JVM.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/patric-r/jvmtop",
+      "name": "jvmtop",
+      "url": "https://github.com/patric-r/jvmtop",
+      "description": "Lightweight console application to monitor running jvms on a machine in top-like manner.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/uber-common/jvm-profiler",
+      "name": "jvm-profiler",
+      "url": "https://github.com/uber-common/jvm-profiler",
+      "description": "Java Agent to collect various metrics and stacktraces for Hadoop/Spark JVM processes in a distributed way.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://eclipse.org/mat",
+      "name": "MAT",
+      "url": "https://eclipse.org/mat/",
+      "description": "Java heap analyzer that help find memory leaks and reduce memory consumption.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/square/leakcanary",
+      "name": "leakcanary",
+      "url": "https://github.com/square/leakcanary",
+      "description": "A memory leak detection library for Android and Java.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://metrics.dropwizard.io",
+      "name": "metrics",
+      "url": "http://metrics.dropwizard.io/",
+      "description": "Measure the behavior of critical components in production environment.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/micrometer-metrics/micrometer",
+      "name": "micrometer",
+      "url": "https://github.com/micrometer-metrics/micrometer",
+      "description": "An application metrics facade for the most popular monitoring tools.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://osquery.io",
+      "name": "osquery",
+      "url": "https://osquery.io/",
+      "description": "osquery is an instrumentation framework that expose the operating system as a high-performance relational database.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://peternier.com/projects/overseer/overseer.php",
+      "name": "Overseer",
+      "url": "http://www.peternier.com/projects/overseer/overseer.php",
+      "description": "Low-Level Hardware Monitoring and Management for Java.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://opentracing.io",
+      "name": "OpenTracing",
+      "url": "http://opentracing.io/",
+      "description": "A vendor-neutral open standard for distributed tracing.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/jrudolph/perf-map-agent",
+      "name": "perf-map-agent",
+      "url": "https://github.com/jrudolph/perf-map-agent",
+      "description": "Generate method mappings to use with the linux perf tool.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/coderplay/perfj",
+      "name": "perfj",
+      "url": "https://github.com/coderplay/perfj",
+      "description": "Linux perf for java programs.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/Cue/polarbear",
+      "name": "polarbear",
+      "url": "https://github.com/Cue/polarbear",
+      "description": "A tool to help diagnose OutOfMemoryError conditions.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/riemann/riemann-jvm-profiler",
+      "name": "Riemann JVM Profiler",
+      "url": "https://github.com/riemann/riemann-jvm-profiler",
+      "description": "JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/etsy/statsd-jvm-profiler",
+      "name": "statsd-jvm-profiler",
+      "url": "https://github.com/etsy/statsd-jvm-profiler",
+      "description": "JVM agent profiler that sends profiling data to StatsD.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/aragozin/jvm-tools",
+      "name": "Swiss Java Knife",
+      "url": "https://github.com/aragozin/jvm-tools",
+      "description": "Small set of tools for JVM troublshooting, monitoring and profiling.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://takipi.com",
+      "name": "Takipi",
+      "url": "https://www.takipi.com/",
+      "description": "Tells you when and why code breaks in production.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/zalando/tracer",
+      "name": "Tracer",
+      "url": "https://github.com/zalando/tracer",
+      "description": "Manages custom trace identifiers and carries them through distributed systems.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://yourkit.com",
+      "name": "YourKit",
+      "url": "https://www.yourkit.com/",
+      "description": "Fully featured, easy to use, low overhead profiler.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/openzipkin/zipkin",
+      "name": "Zipkin",
+      "url": "https://github.com/openzipkin/zipkin",
+      "description": "A distributed tracing system gather timing data for disparate services developed by Twitter.",
+      "section": [
+        "Profilers"
+      ]
+    },
+    {
+      "key": "https://github.com/puniverse/capsule",
+      "name": "Capsule",
+      "url": "https://github.com/puniverse/capsule",
+      "description": "Dead-Simple Packaging and Deployment for JVM Apps.",
+      "section": [
+        "Runtimes"
+      ]
+    },
+    {
+      "key": "https://crashub.org",
+      "name": "CRaSH",
+      "url": "http://www.crashub.org/",
+      "description": "The shell for the Java Platform.",
+      "section": [
+        "Runtimes"
+      ]
+    },
+    {
+      "key": "https://github.com/ninjudd/drip",
+      "name": "Drip",
+      "url": "https://github.com/ninjudd/drip",
+      "description": "Fast JVM launching without the hassle of persistent JVMs.",
+      "section": [
+        "Runtimes"
+      ]
+    },
+    {
+      "key": "https://github.com/HotswapProjects/HotswapAgent",
+      "name": "HotswapAgent",
+      "url": "https://github.com/HotswapProjects/HotswapAgent",
+      "description": "Redefine classes at runtime and skip the redeploy process.",
+      "section": [
+        "Runtimes"
+      ]
+    },
+    {
+      "key": "https://github.com/airlift/jvmkill",
+      "name": "jvmkill",
+      "url": "https://github.com/airlift/jvmkill",
+      "description": "Agent that forcibly terminates the JVM when it is unable to allocate memory or create a thread.",
+      "section": [
+        "Runtimes"
+      ]
+    },
+    {
+      "key": "https://martiansoftware.com/nailgun",
+      "name": "Nailgun",
+      "url": "http://martiansoftware.com/nailgun/",
+      "description": "Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.",
+      "section": [
+        "Runtimes"
+      ]
+    },
+    {
+      "key": "https://github.com/ReadyTalk/avian",
+      "name": "Avian",
+      "url": "https://github.com/ReadyTalk/avian",
+      "description": "Lightweight highly portable JVM with an option for AOT compilation.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://source.android.com/devices/tech/dalvik",
+      "name": "Dalvik",
+      "url": "https://source.android.com/devices/tech/dalvik/",
+      "description": "Android runtime (ART) is the managed runtime used by applications and some system services on Android.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://dcevm.github.io",
+      "name": "DCEVM",
+      "url": "http://dcevm.github.io",
+      "description": "Modification of Java HotSwap VM with unlimited support for reloading classes at runtime.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/groups/hotspot",
+      "name": "HotSpot",
+      "url": "http://openjdk.java.net/groups/hotspot/",
+      "description": "HotSpot virtual machine maintained and distributed by Oracle Corporation.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://ibm.com/developerworks/java/jdk",
+      "name": "IBM J9",
+      "url": "http://www.ibm.com/developerworks/java/jdk/",
+      "description": "JVM developed by IBM.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/eclipse/openj9",
+      "name": "Eclipse OpenJ9",
+      "url": "https://github.com/eclipse/openj9",
+      "description": "Eclipse OpenJ9.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/google/j2objc",
+      "name": "J2ObjC",
+      "url": "https://github.com/google/j2objc",
+      "description": "Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/zxh0/jvm.go",
+      "name": "jvm.go",
+      "url": "https://github.com/zxh0/jvm.go",
+      "description": "A JVM written in Go.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/codenameone/CodenameOne/tree/master/vm",
+      "name": "ParparVM",
+      "url": "https://github.com/codenameone/CodenameOne/tree/master/vm",
+      "description": "An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the Codename One WORA for mobile project.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/MobiVM/robovm",
+      "name": "MobiDevelop's RoboVM Fork",
+      "url": "https://github.com/MobiVM/robovm",
+      "description": "Ahead of time compiler for JVM bytecode targeting iOS, Mac OSX and Linux.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://azul.com/products/zing",
+      "name": "Zing",
+      "url": "https://www.azul.com/products/zing/",
+      "description": "The only JVM that eliminates Java garbage collection pauses for large heap sizes.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://azul.com/products/zulu",
+      "name": "Zulu",
+      "url": "https://www.azul.com/products/zulu/",
+      "description": "The only certified multi-platform build of OpenJDK: Free, 100% open source Java.",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/blog/2018-03-22/tcp-tracepoints.html",
+      "name": "TCP Tracepoints",
+      "url": "http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html",
+      "description": "Linux bcc/BPF using tcplife by Brendan Gregg",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://github.com/goldshtn/linux-tracing-workshop",
+      "name": "Linux tracing workshop",
+      "url": "https://github.com/goldshtn/linux-tracing-workshop",
+      "description": "JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://shipilev.net/jvm-anatomy-park",
+      "name": "JVM Anatomy Park",
+      "url": "https://shipilev.net/jvm-anatomy-park/",
+      "description": "mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://groups.google.com/forum",
+      "name": "Coordinated Omission problem",
+      "url": "https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ",
+      "description": "Discussion on Mechanical Sympathy.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html",
+      "name": "False sharing",
+      "url": "http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html",
+      "description": "Threads impact the performance of each other while modifying independent variables sharing the same cache line. Martin Thompson.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf",
+      "name": "The JVM specification",
+      "url": "https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf",
+      "description": "The Java Virtual Machine Specification Java SE 8 Edition.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://cs.umd.edu/~pugh/java/memoryModel",
+      "name": "The Java Memory Model",
+      "url": "http://www.cs.umd.edu/~pugh/java/memoryModel/",
+      "description": "Starting point for discussions of and information concerning the Java Memory Model.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://gee.cs.oswego.edu/dl/jmm/cookbook.html",
+      "name": "The JSR-133 Cookbook for Compiler Writers",
+      "url": "http://gee.cs.oswego.edu/dl/jmm/cookbook.html",
+      "description": "Unofficial guide to implementing the new Java Memory Model (JMM) specified by JSR-133.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning",
+      "name": "Garbage Collection Tuning Guide",
+      "url": "http://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/",
+      "description": "HotSpot Virtual Machine Garbage Collection Tuning Guide.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html",
+      "name": "Safepoints",
+      "url": "http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html",
+      "description": "Where is my safepoint? Nitsan Wakart.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm",
+      "name": "Topics in High-Performance Messaging",
+      "url": "https://www.informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm",
+      "description": "Design decisions, experience and constraints explained in high performance messaging systems.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://infoq.com/articles/top-10-performance-mistakes",
+      "name": "Top 10 Performance Mistakes",
+      "url": "http://www.infoq.com/articles/top-10-performance-mistakes",
+      "description": "Digest of the top 10 performance related mistakes Martin Thompson has seen in production.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/usemethod.html",
+      "name": "The USE method",
+      "url": "http://www.brendangregg.com/usemethod.html",
+      "description": "The Utilization Saturation and Errors (USE) Method is a methodology for analyzing the performance of any system. Brendan Gregg.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://github.com/aphyr/distsys-class",
+      "name": "An introduction to distributed systems",
+      "url": "https://github.com/aphyr/distsys-class",
+      "description": "Kyle Kingsbury (author of Jepsen).",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://gee.cs.oswego.edu/dl/html/j9mm.html",
+      "name": "Using JDK 9 Memory Order Modes",
+      "url": "http://gee.cs.oswego.edu/dl/html/j9mm.html",
+      "description": "For expert programmers familiar with Java concurrency, but unfamiliar with the memory order modes available in JDK 9 provided by VarHandles.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html",
+      "name": "CPU Utilization is Wrong",
+      "url": "http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html",
+      "description": "Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com/blog/2017-08-08/linux-load-averages.html",
+      "name": "Linux Load Averages: Solving the Mystery",
+      "url": "http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html",
+      "description": "Brendan Gregg.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives",
+      "name": "What every programmer should know about solid-state drives",
+      "url": "http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/",
+      "description": "Emmanuel Goossaert.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef",
+      "name": "Quick Tips for Fast Code on the JVM",
+      "url": "https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef",
+      "description": "Daniel Spiewak.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://altair.cs.oswego.edu/mailman/listinfo/concurrency-interest",
+      "name": "concurrency-interest",
+      "url": "http://altair.cs.oswego.edu/mailman/listinfo/concurrency-interest",
+      "description": "Discussion list for JSR-166.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://mail.openjdk.java.net/mailman/listinfo/hotspot-compiler-dev",
+      "name": "hotspot-compiler-dev",
+      "url": "http://mail.openjdk.java.net/mailman/listinfo/hotspot-compiler-dev",
+      "description": "Technical discussion about the development of the HotSpot bytecode compilers.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://mail.openjdk.java.net/mailman/listinfo/hotspot-dev",
+      "name": "hotspot-dev",
+      "url": "http://mail.openjdk.java.net/mailman/listinfo/hotspot-dev",
+      "description": "HotSpot development mailing list.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev",
+      "name": "hotspot-gc-dev",
+      "url": "http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev",
+      "description": "Technical discussion about the development of the HotSpot garbage collectors.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://plus.google.com/u/0/communities/107178245817384004088",
+      "name": "Performance Java User's Group",
+      "url": "https://plus.google.com/u/0/communities/107178245817384004088/",
+      "description": "For expert Java developers who want to push their systems to the next level",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://vmmeetup.github.io/2017",
+      "name": "Virtual Machine Meetup 2017",
+      "url": "http://vmmeetup.github.io/2017/",
+      "description": "Venue for discussing the latest research and developments in the area of managed language execution.",
+      "section": [
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://fosdem.org/2018/schedule/track/free_java",
+      "name": "FOSDEM 2018",
+      "url": "https://fosdem.org/2018/schedule/track/free_java/",
+      "description": "FOSDEM 2018 Free Java devroom.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr",
+      "name": "JFokus 2018",
+      "url": "https://www.youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr",
+      "description": "The GC edition. Shenandoah, ZGC, Zing, Fibers, Falcon etc.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://nighthacking.com/g1-gc-with-kirk-pepperdine",
+      "name": "G1 Garbage Collector in Java 8/9",
+      "url": "http://nighthacking.com/g1-gc-with-kirk-pepperdine/",
+      "description": "Kirk Pepperdine.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD",
+      "name": "Extreme Profiling: Digging Into Hotspots",
+      "url": "https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD",
+      "description": "Nitsan Wakart.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://infoq.com/presentations/java-vs-c-performance",
+      "name": "Java vs. C Performance",
+      "url": "http://www.infoq.com/presentations/java-vs-c-performance",
+      "description": "Cliff Click.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=LoyBTqkSkZk",
+      "name": "Why JNI is slow?",
+      "url": "https://www.youtube.com/watch?v=LoyBTqkSkZk",
+      "description": "Cliff Click",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=OFgxAFdxYAQ",
+      "name": "A Crash Course in Modern Hardware",
+      "url": "https://www.youtube.com/watch?v=OFgxAFdxYAQ",
+      "description": "Cliff Click",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=_6vJyciXkwo",
+      "name": "Java Profiling from the Ground Up",
+      "url": "https://www.youtube.com/watch?v=_6vJyciXkwo",
+      "description": "Nitsan Wakart.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=3g9R-RVIkOE",
+      "name": "The Illusion of Execution",
+      "url": "https://www.youtube.com/watch?v=3g9R-RVIkOE",
+      "description": "Nitsan Wakart.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=MC1EKLQ2Wmg",
+      "name": "Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'",
+      "url": "https://www.youtube.com/watch?v=MC1EKLQ2Wmg",
+      "description": "Martin Thompson.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=fDGWWpHlzvw",
+      "name": "Designing for Performance",
+      "url": "https://www.youtube.com/watch?v=fDGWWpHlzvw",
+      "description": "Martin Thompson.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=lJ8ydIuPFeU",
+      "name": "How NOT to Measure Latency",
+      "url": "https://www.youtube.com/watch?v=lJ8ydIuPFeU",
+      "description": "Gil Tene.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://openjdk.java.net/projects/mlvm/jvmlangsummit",
+      "name": "JVM Language Summit 2015",
+      "url": "http://openjdk.java.net/projects/mlvm/jvmlangsummit/",
+      "description": "JVM Language Summit 2015.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_",
+      "name": "JVM Language Summit 2016",
+      "url": "https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_",
+      "description": "JVM Language Summit 2016.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n",
+      "name": "JVM Language Summit 2017",
+      "url": "https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n",
+      "description": "JVM Language Summit 2017.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=vzzABBxo44g",
+      "name": "Bits of advice for VM writers",
+      "url": "https://www.youtube.com/watch?v=vzzABBxo44g",
+      "description": "Cliff Click.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=_e5hujoTkgY",
+      "name": "Understanding Java garbage collection ...",
+      "url": "https://www.youtube.com/watch?v=_e5hujoTkgY",
+      "description": "Gil Tene.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=bZuPTCaciLU",
+      "name": "Faster Object Arrays",
+      "url": "https://www.youtube.com/watch?v=bZuPTCaciLU",
+      "description": "Gil Tene at GOTO Conferences.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=TxqsKzxyySo",
+      "name": "Java Memory Model Pragmatics",
+      "url": "https://www.youtube.com/watch?v=TxqsKzxyySo",
+      "description": "Aleksey Shipilev.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Y39kllzX1P8",
+      "name": "With GC Solved, What Else Makes a JVM Pause?",
+      "url": "https://www.youtube.com/watch?v=Y39kllzX1P8",
+      "description": "John Cuthbertson.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://vimeo.com/120533011",
+      "name": "JVM Mechanics",
+      "url": "https://vimeo.com/120533011",
+      "description": "Douglas Hawkins.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=GsMs3n8CB6g",
+      "name": "Give me 15 minutes and I'll change your view of Linux tracing",
+      "url": "https://www.youtube.com/watch?v=GsMs3n8CB6g",
+      "description": "Brendan Gregg.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://slideshare.net/brendangregg/kernel-recipes-2017-performance-analysis-with-bpf",
+      "name": "Kernel Recipes 2017: Performance Analysis with BPF",
+      "url": "https://www.slideshare.net/brendangregg/kernel-recipes-2017-performance-analysis-with-bpf",
+      "description": "Brendan Gregg.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://shipilev.net/talks/vmm-Sep2017-shenandoah.pdf",
+      "name": "Shenandoah deep talk",
+      "url": "https://shipilev.net/talks/vmm-Sep2017-shenandoah.pdf",
+      "description": "Aleksey Shipilëv slightly-deeper-than-usual Shenandoah talk from Virtual Machine Meetup 2017.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=VCeHkcwfF9Q",
+      "name": "Shenandoah: The Garbage Collector That Could",
+      "url": "https://www.youtube.com/watch?v=VCeHkcwfF9Q",
+      "description": "Aleksey Shipilev - Devoxx 2017/11",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=k7IX_diKCEo",
+      "name": "Analyzing and Debugging the Java HotSpot VM at the OS Level",
+      "url": "https://www.youtube.com/watch?v=k7IX_diKCEo",
+      "description": "Volker Simonis.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/09/16/programming-and-performance-intro",
+      "name": "Cliff Click podcast 2017/09/16",
+      "url": "http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/",
+      "description": "Programming and Performance Intro.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles",
+      "name": "Cliff Click podcast 2017/09/16",
+      "url": "http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/",
+      "description": "Bugs and Coding Styles.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast",
+      "name": "Cliff Click podcast 2017/09/18",
+      "url": "http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/",
+      "description": "Java vs C/C++.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/09/21/debugging-data-races",
+      "name": "Cliff Click podcast 2017/09/21",
+      "url": "http://www.cliffc.org/blog/2017/09/21/debugging-data-races/",
+      "description": "Debugging Data Races.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages",
+      "name": "Cliff Click podcast 2017/09/24",
+      "url": "http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/",
+      "description": "Fast Bytecodes for Funny Languages.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs",
+      "name": "Cliff Click podcast 2017/09/28",
+      "url": "http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/",
+      "description": "Struct of Arrays vs Array of Structs.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming",
+      "name": "Cliff Click podcast 2017/10/04",
+      "url": "http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/",
+      "description": "The 3 Hardest Problems in Programming.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines",
+      "name": "Cliff Click podcast 2017/11/05",
+      "url": "http://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines/",
+      "description": "Modern Hardware Performance and Cache Lines.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog/2017/11/09/queuing-in-practice",
+      "name": "Cliff Click podcast 2017/11/09",
+      "url": "http://cliffc.org/blog/2017/11/09/queuing-in-practice/",
+      "description": "Queuing In Practice.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx",
+      "name": "Which technique do programming language parsers and interpreters use?",
+      "url": "https://www.quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx",
+      "description": "Cliff Click.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://vimeo.com/233820012",
+      "name": "Everything about Stack Traces and Heap Dumps",
+      "url": "https://vimeo.com/233820012",
+      "description": "Andrei Pangin.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://s.sashag.net/velny17-jvm",
+      "name": "Fast and safe production monitoring of JVM with BPF tools",
+      "url": "http://s.sashag.net/velny17-jvm",
+      "description": "Sasha Goldshtein.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?time_continue=1&v=xxWaa-lPR-8",
+      "name": "The Future of the Linux Page Cache",
+      "url": "https://www.youtube.com/watch?time_continue=1&v=xxWaa-lPR-8",
+      "description": "Matthew Wilcox.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://shipilev.net",
+      "name": "Aleksey Shipilëv",
+      "url": "http://shipilev.net/",
+      "description": "Developing Oracle/Open JDK/Hotspot and other Java-related technologies.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/abreslav",
+      "name": "Andrey Breslav",
+      "url": "https://twitter.com/abreslav",
+      "description": "Lead Language Designer of Kotlin @ JetBrains.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/BrianGoetz",
+      "name": "Brian Goetz",
+      "url": "https://twitter.com/BrianGoetz",
+      "description": "Java Language Architect at Oracle.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/benjchristensen",
+      "name": "Ben Christensen",
+      "url": "https://twitter.com/benjchristensen",
+      "description": "Facebook, Netflix, Apple engineering.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://brendangregg.com",
+      "name": "Brendan Gregg",
+      "url": "http://www.brendangregg.com",
+      "description": "Cloud performance, kernel engineer, speaker, author.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/headius",
+      "name": "Charles Nutter",
+      "url": "https://twitter.com/headius",
+      "description": "JRuby guy.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/cl4es",
+      "name": "Claes Redestad",
+      "url": "https://twitter.com/cl4es",
+      "description": "Working with OpenJDK stuff @ Oracle.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://cliffc.org/blog",
+      "name": "Cliff Click",
+      "url": "http://www.cliffc.org/blog/",
+      "description": "Creator of the HotSpot Server Compiler.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://blogs.oracle.com/dave",
+      "name": "Dave Dice",
+      "url": "https://blogs.oracle.com/dave/",
+      "description": "Senior research scientist in the Scalable Synchronization Research Group within Oracle.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://akarnokd.blogspot.se",
+      "name": "Dávid Karnok",
+      "url": "http://akarnokd.blogspot.se/",
+      "description": "RxJava committer that blogs about advanced RxJava.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://g.oswego.edu",
+      "name": "Doug Lea",
+      "url": "http://g.oswego.edu/",
+      "description": "Author of the Java memory model.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/giltene",
+      "name": "Gil Tene",
+      "url": "https://twitter.com/giltene",
+      "description": "Azul Systems.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/heinzkabutz",
+      "name": "Heinz Kabutz",
+      "url": "https://twitter.com/heinzkabutz",
+      "description": "Author of 250+ Java Specialists' Newsletters.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/JohnWings",
+      "name": "Ivan Krylov",
+      "url": "https://twitter.com/JohnWings",
+      "description": "JVM expert.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/JakeWharton",
+      "name": "Jake Wharton",
+      "url": "https://twitter.com/JakeWharton",
+      "description": "Square, Google, open source hacker.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://blogs.oracle.com/jrose",
+      "name": "John Rose",
+      "url": "https://blogs.oracle.com/jrose/",
+      "description": "HotSpot developer.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/jboner",
+      "name": "Jonas Bonér",
+      "url": "https://twitter.com/jboner",
+      "description": "Founder & CTO of Lightbend.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/lukaseder",
+      "name": "Lukas Eder",
+      "url": "https://twitter.com/lukaseder",
+      "description": "Blogger. Author of JOOQ.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/lagergren",
+      "name": "Marcus Lagergren",
+      "url": "https://twitter.com/lagergren",
+      "description": "Java language team alumnus.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/mreinhold",
+      "name": "Mark Reinhold",
+      "url": "https://twitter.com/mreinhold",
+      "description": "Chief Architect, Java Platform Group, Oracle.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://mechanical-sympathy.blogspot.se",
+      "name": "Martin Thompson",
+      "url": "http://mechanical-sympathy.blogspot.se/",
+      "description": "Pasty faced performance gangster.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/karianna",
+      "name": "Martijn Verburg",
+      "url": "https://twitter.com/karianna",
+      "description": "Java Champion.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/javaperftuning",
+      "name": "Kirk Pepperdine",
+      "url": "https://twitter.com/javaperftuning",
+      "description": "Working in high performance and distributed computing for nearly 20 years.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/normanmaurer",
+      "name": "Norman Maurer",
+      "url": "https://twitter.com/normanmaurer",
+      "description": "Netty developer.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/contrarivariant",
+      "name": "Paul Phillips",
+      "url": "https://twitter.com/contrarivariant",
+      "description": "Forever undisputed SLOC Scala compiler dev.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/perliden",
+      "name": "Per Liden",
+      "url": "https://twitter.com/perliden",
+      "description": "Hacking on the HotSpot JVM at Oracle.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/PeterLawrey",
+      "name": "Peter Lawrey",
+      "url": "https://twitter.com/PeterLawrey",
+      "description": "Innovative developer of high performance Java systems for competitive advantage.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/rafaelcodes",
+      "name": "Rafael Winterhalter",
+      "url": "https://twitter.com/rafaelcodes",
+      "description": "Author of ByteBuddy.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/RichardWarburto",
+      "name": "Richard Warburton",
+      "url": "https://twitter.com/RichardWarburto",
+      "description": "Developer, Speaker, Author.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://richardstartin.uk",
+      "name": "Richard Startin",
+      "url": "http://richardstartin.uk/",
+      "description": "Performance Analyst, developer, blogger.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/pressron",
+      "name": "Ron Pressler",
+      "url": "https://twitter.com/pressron",
+      "description": "Parallel Universe. Leading Fibers and Continuations for the JVM.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/jodastephen",
+      "name": "Stephen Colebourne",
+      "url": "https://twitter.com/jodastephen",
+      "description": "Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/toddlmontgomery",
+      "name": "Todd L. Montgomery",
+      "url": "https://twitter.com/toddlmontgomery",
+      "description": "Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/smaldini",
+      "name": "Stéphane Maldini",
+      "url": "https://twitter.com/smaldini",
+      "description": "Project Reactor Lead @Pivotal.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/stuartmarks",
+      "name": "Stuart Marks",
+      "url": "https://twitter.com/stuartmarks",
+      "description": "Doctor Deprecator. Java/JDK/OpenJDK developer",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/iwan0www",
+      "name": "Vladimir Ivanov",
+      "url": "https://twitter.com/iwan0www",
+      "description": "hacking HotSpot JVM @ Oracle.",
+      "section": [
+        "People"
+      ]
+    },
+    {
+      "key": "https://twitter.com/viktorklang",
+      "name": "Viktor Klang",
+      "url": "https://twitter.com/viktorklang",
+      "description": "Deputy CTO at Typesafe Inc.",
+      "section": [
+        "People"
+      ]
+    }
+  ]
+}

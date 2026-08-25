@@ -1,0 +1,2720 @@
+{
+  "etag": "W/\"7052f512b764959d08660d9560d9823f26dfecc260b715ee0973961ee681371f\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://en.wikipedia.org/wiki/Triple_DES",
+      "name": "3DES",
+      "url": "https://en.wikipedia.org/wiki/Triple_DES",
+      "description": "Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Symmetric encryption"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard",
+      "name": "AES",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard",
+      "description": "Symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Symmetric encryption"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Blowfish_(cipher)",
+      "name": "Blowfish",
+      "url": "https://en.wikipedia.org/wiki/Blowfish_(cipher)",
+      "description": "Symmetric-key block cipher, designed in 1993 by Bruce Schneier. Notable features of the design include key-dependent S-boxes and a highly complex key schedule.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Symmetric encryption"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange",
+      "name": "DH",
+      "url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange",
+      "description": "A method of exchanging cryptographic keys securely over a public channel. Unlike RSA, the Diffie-Hellman Key Exchange is not encryption, and is only a way for two parties to agree on a shared secret value. Since the keys generated are completely pseudo-random, DH key exchanges can provide forward secrecy (https://en.wikipedia.org/wiki/Forward_secrecy).",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Asymmetric encryption"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Elliptic-curve_cryptography",
+      "name": "ECC",
+      "url": "https://en.wikipedia.org/wiki/Elliptic-curve_cryptography",
+      "description": "Public-key cryptosystems based on the algebraic structure of elliptic curves over finite fields.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Asymmetric encryption"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+      "name": "RSA",
+      "url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+      "description": "One of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Asymmetric encryption"
+      ]
+    },
+    {
+      "key": "https://docs.ironcorelabs.com/concepts/transform-encryption",
+      "name": "Transform Encryption (aka Proxy Re-Encryption)",
+      "url": "https://docs.ironcorelabs.com/concepts/transform-encryption",
+      "description": "Transform encryption uses three mathematically related keys: one to encrypt plaintext to a recipient, a second to decrypt the ciphertext, and a third to transform ciphertext encrypted to one recipient so it can be decrypted by a different recipient.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Transform Encryption"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/MD5",
+      "name": "MD5",
+      "url": "https://en.wikipedia.org/wiki/MD5",
+      "description": "Widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Hash functions"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/SHA-1",
+      "name": "SHA1",
+      "url": "https://en.wikipedia.org/wiki/SHA-1",
+      "description": "Cryptographic hash function designed by the NSA. SHA-1 produces a 160-bit hash value known as a message digest. SHA-1 is no longer considered secure against well-funded opponents.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Hash functions"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/SHA-2",
+      "name": "SHA2",
+      "url": "https://en.wikipedia.org/wiki/SHA-2",
+      "description": "Set of hash functions designed by the NSA. SHA-256 and SHA-512 are novel hash functions computed with 32-bit and 64-bit words, respectively. They use different shift amounts and additive constants, but their structures are otherwise virtually identical, differing only in the number of rounds.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Hash functions"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/SHA-3",
+      "name": "SHA3",
+      "url": "https://en.wikipedia.org/wiki/SHA-3",
+      "description": "Cryptographic hash function that produces a fixed-size output, typically 224, 256, 384, or 512 bits, from variable-size input data. It is part of the SHA-3 family of cryptographic algorithms designed to resist attacks from quantum computers and offers security properties such as pre-image resistance, second pre-image resistance, and collision resistance.",
+      "section": [
+        "Theory",
+        "Algorithms",
+        "Hash functions"
+      ]
+    },
+    {
+      "key": "https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages",
+      "name": "How to Generate Secure Random Numbers in Various Programming Languages",
+      "url": "https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages",
+      "description": ".",
+      "section": [
+        "Theory",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://netlogix.at/news/artikel/password-insecurity-part-1",
+      "name": "Password Insecurity",
+      "url": "https://www.netlogix.at/news/artikel/password-insecurity-part-1/",
+      "description": "This article is written for everybody who is interested in password security.",
+      "section": [
+        "Theory",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple",
+      "name": "Secure Account Recovery Made Simple",
+      "url": "https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple",
+      "description": ".",
+      "section": [
+        "Theory",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://crypto.stanford.edu/~dabo/cryptobook",
+      "name": "A Graduate Course in Applied Cryptography",
+      "url": "https://crypto.stanford.edu/~dabo/cryptobook/",
+      "description": "The book covers many constructions for different tasks in cryptography.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://math.brown.edu/~jhs/MathCryptoHome.html",
+      "name": "An Introduction to Mathematical Cryptography",
+      "url": "http://www.math.brown.edu/~jhs/MathCryptoHome.html",
+      "description": "Introduction to modern cryptography.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028",
+      "name": "Applied Cryptography: Protocols, Algorithms and Source Code in C",
+      "url": "https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028",
+      "description": "This cryptography classic provides you with a comprehensive survey of modern cryptography.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://crypto101.io",
+      "name": "Crypto101",
+      "url": "https://www.crypto101.io/",
+      "description": "Crypto 101 is an introductory course on cryptography.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://schneier.com/books/cryptography_engineering",
+      "name": "Cryptography Engineering",
+      "url": "https://www.schneier.com/books/cryptography_engineering/",
+      "description": "Learn to build cryptographic protocols that work in the real world.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://cacr.uwaterloo.ca/hac",
+      "name": "Handbook of Applied Cryptography",
+      "url": "https://cacr.uwaterloo.ca/hac/",
+      "description": "This book is intended as a reference for professional cryptographers.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://cs.umd.edu/~jkatz/imc.html",
+      "name": "Introduction to Modern Cryptography",
+      "url": "http://www.cs.umd.edu/~jkatz/imc.html",
+      "description": "Introductory-level treatment of cryptography written from a modern, computer science perspective.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://feistyduck.com/library/openssl-cookbook",
+      "name": "OpenSSL Cookbook",
+      "url": "https://www.feistyduck.com/library/openssl-cookbook/",
+      "description": "The book about OpenSSL.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://cryptobook.nakov.com",
+      "name": "Practical Cryptography for Developers",
+      "url": "https://cryptobook.nakov.com",
+      "description": "Developer-friendly book on modern cryptography (hashes, MAC codes, symmetric and asymmetric ciphers, key exchange, elliptic curves, digital signatures) with lots of code examples.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/real-world-cryptography",
+      "name": "Real World Cryptography",
+      "url": "https://www.manning.com/books/real-world-cryptography/",
+      "description": "This book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://cl.cam.ac.uk/~rja14/book.html",
+      "name": "Security Engineering",
+      "url": "http://www.cl.cam.ac.uk/~rja14/book.html",
+      "description": "There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://nostarch.com/seriouscrypto",
+      "name": "Serious Cryptography",
+      "url": "https://nostarch.com/seriouscrypto",
+      "description": "A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://simonsingh.net/books/the-code-book",
+      "name": "The Code Book",
+      "url": "https://simonsingh.net/books/the-code-book/",
+      "description": "This book is a digest of the history of cryptography, covering both ancient times, and newer cryptography methods. There are exercises at the end and the solution of those was rewarded with $10.000.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://unglue.it/work/141611",
+      "name": "The Cryptoparty Handbook",
+      "url": "https://unglue.it/work/141611/",
+      "description": "This book provides a comprehensive guide to the various topics of the computer and internet security.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://crypto-textbook.com",
+      "name": "Understanding Cryptography",
+      "url": "http://www.crypto-textbook.com/",
+      "description": "Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.",
+      "section": [
+        "Theory",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf",
+      "name": "A Self-Study Course In Block-Cipher Cryptanalysis",
+      "url": "https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf",
+      "description": "This paper attempts to organize the existing literature of block-cipher cryptanalysis in a way that students can use to learn cryptanalytic techniques and ways to break algorithms, by Bruce Schneier.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://udacity.com/course/applied-cryptography--cs387",
+      "name": "Applied Cryptography",
+      "url": "https://www.udacity.com/course/applied-cryptography--cs387",
+      "description": "Cryptography is present in everyday life, from paying with a credit card to using the telephone. Learn all about making and breaking puzzles in computing.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ySQl0NhW1J0",
+      "name": "Crypto Strikes Back!",
+      "url": "https://www.youtube.com/watch?v=ySQl0NhW1J0",
+      "description": "This talk will cover crypto vulnerabilities in widely-deployed systems and how the smallest oversight resulted in catastrophe.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://coursera.org/learn/cryptography",
+      "name": "Cryptography",
+      "url": "https://www.coursera.org/learn/cryptography",
+      "description": "A practical oriented course in Cryptography by University of Maryland College Park.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://online.stanford.edu/course/cryptography",
+      "name": "Cryptography - Stanford University",
+      "url": "http://online.stanford.edu/course/cryptography",
+      "description": "This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://cryptography101.ca/crypto101-building-blocks",
+      "name": "Cryptography 101: Building Blocks",
+      "url": "https://cryptography101.ca/crypto101-building-blocks/",
+      "description": "This introductory course (Fall 2024) by Alfred Menezes covers the fundamental cryptographic primitives: symmetric-key encryption, hash functions, MACs, authenticated encryption, public-key encryption, signatures, key agreement, RSA, elliptic curve cryptography.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://coursera.org/learn/crypto",
+      "name": "Cryptography I",
+      "url": "https://www.coursera.org/learn/crypto",
+      "description": "The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://cybrary.it/course/cryptography",
+      "name": "Cybrary Cryptography",
+      "url": "https://www.cybrary.it/course/cryptography/",
+      "description": "This online course we will cover how cryptography is the cornerstone of security, and how through its use of different encryption methods, such as ciphers, and public or private keys, you can protect private or sensitive information from unauthorized access.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://intensecrypto.org",
+      "name": "Harvard's Cryptography Lecture notes",
+      "url": "https://intensecrypto.org/",
+      "description": "An introductory but fast-paced undergraduate/beginning graduate course on cryptography, Used for Harvard CS 127.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://khanacademy.org/computing/computer-science/cryptography",
+      "name": "Journey into cryptography",
+      "url": "https://www.khanacademy.org/computing/computer-science/cryptography",
+      "description": "The course of cryptography by Khan Academy.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://courses.cs.washington.edu/courses/csep590/06wi",
+      "name": "Practical Aspects of Modern Cryptography",
+      "url": "http://courses.cs.washington.edu/courses/csep590/06wi/",
+      "description": "Practical Aspects of Modern Cryptography, Winter 2006 University of Washington CSE.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ZDnShu5V99s",
+      "name": "Theory and Practice of Cryptography",
+      "url": "https://www.youtube.com/watch?v=ZDnShu5V99s",
+      "description": "Introduction to Modern Cryptography, Using Cryptography in Practice and at Google, Proofs of Security and Security Definitions and A Special Topic in Cryptography.",
+      "section": [
+        "Theory",
+        "Courses"
+      ]
+    },
+    {
+      "key": "https://github.com/pFarb/awesome-crypto-papers",
+      "name": "Awesome crypto-papers",
+      "url": "https://github.com/pFarb/awesome-crypto-papers",
+      "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
+      "section": [
+        "Theory",
+        "Other lists"
+      ]
+    },
+    {
+      "key": "https://github.com/jonaschn/awesome-he",
+      "name": "Awesome HE",
+      "url": "https://github.com/jonaschn/awesome-he",
+      "description": "A curated list of homomorphic encryption libraries, software and resources.",
+      "section": [
+        "Theory",
+        "Other lists"
+      ]
+    },
+    {
+      "key": "https://stellastra.com/cipher-suite",
+      "name": "TLS Cipher Suites",
+      "url": "https://stellastra.com/cipher-suite",
+      "description": "A list of TLS cipher suites and their security ratings.",
+      "section": [
+        "Theory",
+        "Other lists"
+      ]
+    },
+    {
+      "key": "https://bcrypt.sourceforge.net",
+      "name": "Bcrypt",
+      "url": "http://bcrypt.sourceforge.net/",
+      "description": "Cross-platform file encryption utility.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/StackExchange/blackbox",
+      "name": "blackbox",
+      "url": "https://github.com/StackExchange/blackbox",
+      "description": "safely store secrets in Git/Mercurial/Subversion.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/certbot/certbot",
+      "name": "certbot",
+      "url": "https://github.com/certbot/certbot",
+      "description": "Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/liesware/coherence",
+      "name": "Coherence",
+      "url": "https://github.com/liesware/coherence/",
+      "description": "Cryptographic server for modern web apps.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/cryptomator/cryptomator",
+      "name": "cryptomator",
+      "url": "https://github.com/cryptomator/cryptomator",
+      "description": "Multi-platform transparent client-side encryption of your files in the cloud.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://databunker.org",
+      "name": "Databunker",
+      "url": "https://databunker.org/",
+      "description": "API based personal data or PII storage service built to comply with GDPR and CCPA.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://gnupg.org",
+      "name": "gpg",
+      "url": "https://www.gnupg.org/",
+      "description": "Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/IronCoreLabs/ironssh",
+      "name": "ironssh",
+      "url": "https://github.com/IronCoreLabs/ironssh",
+      "description": "End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/GouveaHeitor/nipe",
+      "name": "Nipe",
+      "url": "https://github.com/GouveaHeitor/nipe",
+      "description": "Nipe is a script to make Tor Network your default gateway.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/mozilla/sops",
+      "name": "sops",
+      "url": "https://github.com/mozilla/sops",
+      "description": "sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://ves.host/docs/ves-util",
+      "name": "ves",
+      "url": "https://ves.host/docs/ves-util",
+      "description": "End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.",
+      "section": [
+        "Tools",
+        "Standalone"
+      ]
+    },
+    {
+      "key": "https://github.com/AGWA/git-crypt",
+      "name": "git-crypt",
+      "url": "https://github.com/AGWA/git-crypt",
+      "description": "Transparent file encryption in git.",
+      "section": [
+        "Tools",
+        "Plugins",
+        "Git"
+      ]
+    },
+    {
+      "key": "https://sobolevn.github.io/git-secret",
+      "name": "git-secret",
+      "url": "https://sobolevn.github.io/git-secret/",
+      "description": "Bash-tool to store your private data inside a git repository.",
+      "section": [
+        "Tools",
+        "Plugins",
+        "Git"
+      ]
+    },
+    {
+      "key": "https://vishwas1.github.io/crypto/index.html",
+      "name": "Cryptography Playground",
+      "url": "https://vishwas1.github.io/crypto/index.html#/crypto",
+      "description": "A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.",
+      "section": [
+        "Tools",
+        "Playgrounds"
+      ]
+    },
+    {
+      "key": "https://github.com/B-Con/crypto-algorithms",
+      "name": "crypto-algorithms",
+      "url": "https://github.com/B-Con/crypto-algorithms",
+      "description": "Basic implementations of standard cryptography algorithms, like AES and SHA-1.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://directory.fsf.org/wiki/Libgcrypt",
+      "name": "libgcrypt",
+      "url": "http://directory.fsf.org/wiki/Libgcrypt",
+      "description": "Cryptographic library developed as a separated module of GnuPG.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/smuellerDD/libkcapi",
+      "name": "libkcapi",
+      "url": "https://github.com/smuellerDD/libkcapi",
+      "description": "Linux Kernel Crypto API User Space Interface Library.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/jedisct1/libsodium",
+      "name": "libsodium",
+      "url": "https://github.com/jedisct1/libsodium",
+      "description": "Modern and easy-to-use crypto library.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/libtom/libtomcrypt",
+      "name": "libtomcrypt",
+      "url": "https://github.com/libtom/libtomcrypt",
+      "description": "Fairly comprehensive, modular and portable cryptographic toolkit.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/vesvault/libVES.c",
+      "name": "libVES.c",
+      "url": "https://github.com/vesvault/libVES.c",
+      "description": "End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-milagro-crypto-c",
+      "name": "milagro-crypto-c",
+      "url": "https://github.com/apache/incubator-milagro-crypto-c",
+      "description": "Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://monocypher.org",
+      "name": "monocypher",
+      "url": "https://monocypher.org",
+      "description": "small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://nacl.cr.yp.to",
+      "name": "NaCl",
+      "url": "https://nacl.cr.yp.to/",
+      "description": "High-speed library for network communication, encryption, decryption, signatures, etc.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/gnutls/nettle",
+      "name": "nettle",
+      "url": "https://github.com/gnutls/nettle",
+      "description": "is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/openssl/openssl",
+      "name": "OpenSSL",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://tls.mbed.org",
+      "name": "PolarSSL",
+      "url": "https://tls.mbed.org/",
+      "description": "PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/rhash/RHash",
+      "name": "RHash",
+      "url": "https://github.com/rhash/RHash",
+      "description": "Great utility for computing hash sums.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis",
+      "name": "themis",
+      "url": "https://github.com/cossacklabs/themis",
+      "description": "High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/kokke/tiny-AES128-C",
+      "name": "tiny-AES128-C",
+      "url": "https://github.com/kokke/tiny-AES128-C",
+      "description": "Small portable AES128 in C.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/wolfSSL/wolfssl",
+      "name": "wolfSSL",
+      "url": "https://github.com/wolfSSL/wolfssl",
+      "description": "Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/XKCP/XKCP",
+      "name": "XKCP",
+      "url": "https://github.com/XKCP/XKCP",
+      "description": "is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/Cyan4973/xxHash",
+      "name": "xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast hash algorithm.",
+      "section": [
+        "Frameworks and Libs",
+        "C"
+      ]
+    },
+    {
+      "key": "https://github.com/NilFoundation/crypto3",
+      "name": "=nil; Crypto3",
+      "url": "https://github.com/NilFoundation/crypto3",
+      "description": "Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).",
+      "section": [
+        "Frameworks and Libs",
+        "C++"
+      ]
+    },
+    {
+      "key": "https://botan.randombit.net",
+      "name": "Botan",
+      "url": "https://botan.randombit.net/",
+      "description": "Cryptography library written in C++20.",
+      "section": [
+        "Frameworks and Libs",
+        "C++"
+      ]
+    },
+    {
+      "key": "https://github.com/weidai11/cryptopp",
+      "name": "cryptopp",
+      "url": "https://github.com/weidai11/cryptopp",
+      "description": "Crypto++ Library is a free C++ class library of cryptographic schemes.",
+      "section": [
+        "Frameworks and Libs",
+        "C++"
+      ]
+    },
+    {
+      "key": "https://github.com/shaih/HElib",
+      "name": "HElib",
+      "url": "https://github.com/shaih/HElib",
+      "description": "Software library that implements homomorphic encryption (HE).",
+      "section": [
+        "Frameworks and Libs",
+        "C++"
+      ]
+    },
+    {
+      "key": "https://lysator.liu.se/~nisse/nettle",
+      "name": "Nettle",
+      "url": "http://www.lysator.liu.se/~nisse/nettle/",
+      "description": "Low-level cryptographic library.",
+      "section": [
+        "Frameworks and Libs",
+        "C++"
+      ]
+    },
+    {
+      "key": "https://github.com/awslabs/s2n",
+      "name": "s2n",
+      "url": "https://github.com/awslabs/s2n",
+      "description": "Implementation of the TLS/SSL protocols.",
+      "section": [
+        "Frameworks and Libs",
+        "C++"
+      ]
+    },
+    {
+      "key": "https://bouncycastle.org/csharp/index.html",
+      "name": "Bouncy Castle",
+      "url": "https://bouncycastle.org/csharp/index.html",
+      "description": "All-purpose cryptographic library.",
+      "section": [
+        "Frameworks and Libs",
+        "C-sharp"
+      ]
+    },
+    {
+      "key": "https://github.com/adamcaudill/libsodium-net",
+      "name": "libsodium-net",
+      "url": "https://github.com/adamcaudill/libsodium-net",
+      "description": "Secure cryptographic library, port of libsodium for .NET.",
+      "section": [
+        "Frameworks and Libs",
+        "C-sharp"
+      ]
+    },
+    {
+      "key": "https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model",
+      "name": "Microsoft .NET Framework Cryptography Model",
+      "url": "https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model",
+      "description": "The .NET Framework implementations of many standard cryptographic algorithms.",
+      "section": [
+        "Frameworks and Libs",
+        "C-sharp"
+      ]
+    },
+    {
+      "key": "https://github.com/AArnott/PCLCrypto",
+      "name": "PCLCrypto",
+      "url": "https://github.com/AArnott/PCLCrypto",
+      "description": "Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.",
+      "section": [
+        "Frameworks and Libs",
+        "C-sharp"
+      ]
+    },
+    {
+      "key": "https://github.com/sdrapkin/SecurityDriven.Inferno",
+      "name": "SecurityDriven.Inferno",
+      "url": "https://github.com/sdrapkin/SecurityDriven.Inferno",
+      "description": ".NET crypto done right.",
+      "section": [
+        "Frameworks and Libs",
+        "C-sharp"
+      ]
+    },
+    {
+      "key": "https://github.com/bitbeans/StreamCryptor",
+      "name": "StreamCryptor",
+      "url": "https://github.com/bitbeans/StreamCryptor",
+      "description": "Stream encryption & decryption with libsodium and protobuf.",
+      "section": [
+        "Frameworks and Libs",
+        "C-sharp"
+      ]
+    },
+    {
+      "key": "https://funcool.github.io/buddy-core/latest",
+      "name": "buddy-core",
+      "url": "https://funcool.github.io/buddy-core/latest/",
+      "description": "Cryptographic Api.",
+      "section": [
+        "Frameworks and Libs",
+        "Clojure"
+      ]
+    },
+    {
+      "key": "https://github.com/macourtney/clj-crypto",
+      "name": "clj-crypto",
+      "url": "https://github.com/macourtney/clj-crypto/",
+      "description": "Wrapper for Bouncy Castle.",
+      "section": [
+        "Frameworks and Libs",
+        "Clojure"
+      ]
+    },
+    {
+      "key": "https://github.com/xsc/pandect",
+      "name": "pandect",
+      "url": "https://github.com/xsc/pandect",
+      "description": "Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.",
+      "section": [
+        "Frameworks and Libs",
+        "Clojure"
+      ]
+    },
+    {
+      "key": "https://github.com/lk-geimfari/secrets.clj",
+      "name": "secrets.clj",
+      "url": "https://github.com/lk-geimfari/secrets.clj",
+      "description": "A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.",
+      "section": [
+        "Frameworks and Libs",
+        "Clojure"
+      ]
+    },
+    {
+      "key": "https://github.com/Shinmera/crypto-shortcuts",
+      "name": "crypto-shortcuts",
+      "url": "https://github.com/Shinmera/crypto-shortcuts",
+      "description": "Collection of common cryptography functions.",
+      "section": [
+        "Frameworks and Libs",
+        "Common Lisp"
+      ]
+    },
+    {
+      "key": "https://method-combination.net/lisp/ironclad",
+      "name": "ironclad",
+      "url": "http://method-combination.net/lisp/ironclad/",
+      "description": "Collection of common crypto shortcuts.",
+      "section": [
+        "Frameworks and Libs",
+        "Common Lisp"
+      ]
+    },
+    {
+      "key": "https://github.com/eudoxia0/trivial-ssh",
+      "name": "trivial-ssh",
+      "url": "https://github.com/eudoxia0/trivial-ssh",
+      "description": "SSH client library for Common Lisp (Built on libssh2).",
+      "section": [
+        "Frameworks and Libs",
+        "Common Lisp"
+      ]
+    },
+    {
+      "key": "https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases",
+      "name": "DelphiEncryptionCompendium",
+      "url": "https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases",
+      "description": "Cryptographic library for Delphi.",
+      "section": [
+        "Frameworks and Libs",
+        "Delphi"
+      ]
+    },
+    {
+      "key": "https://sourceforge.net/projects/tplockbox",
+      "name": "LockBox",
+      "url": "https://sourceforge.net/projects/tplockbox/",
+      "description": "LockBox 3 is a Delphi library for cryptography.",
+      "section": [
+        "Frameworks and Libs",
+        "Delphi"
+      ]
+    },
+    {
+      "key": "https://github.com/synopse/mORMot/blob/master/SynCrypto.pas",
+      "name": "SynCrypto",
+      "url": "https://github.com/synopse/mORMot/blob/master/SynCrypto.pas",
+      "description": "Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.",
+      "section": [
+        "Frameworks and Libs",
+        "Delphi"
+      ]
+    },
+    {
+      "key": "https://bitbucket.org/sergworks/tforge",
+      "name": "TForge",
+      "url": "https://bitbucket.org/sergworks/tforge",
+      "description": "TForge is open-source crypto library written in Delphi, compatible with FPC.",
+      "section": [
+        "Frameworks and Libs",
+        "Delphi"
+      ]
+    },
+    {
+      "key": "https://github.com/rubencaro/cipher",
+      "name": "cipher",
+      "url": "https://github.com/rubencaro/cipher",
+      "description": "Elixir crypto library to encrypt/decrypt arbitrary binaries.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/danielberkompas/cloak",
+      "name": "cloak",
+      "url": "https://github.com/danielberkompas/cloak",
+      "description": "Cloak makes it easy to use encryption with Ecto.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/elixircnx/comeonin",
+      "name": "comeonin",
+      "url": "https://github.com/elixircnx/comeonin",
+      "description": "Password authorization (bcrypt) library for Elixir.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/trapped/elixir-rsa",
+      "name": "elixir-rsa",
+      "url": "https://github.com/trapped/elixir-rsa",
+      "description": "public_key cryptography wrapper for Elixir.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/keichan34/elixir_tea",
+      "name": "elixir_tea",
+      "url": "https://github.com/keichan34/elixir_tea",
+      "description": "TEA implementation in Elixir.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/ntrepid8/ex_crypto",
+      "name": "ex_crypto",
+      "url": "https://github.com/ntrepid8/ex_crypto",
+      "description": "Elixir wrapper for Erlang :crypto and :public_key modules. Provides sensible defaults for many crypto functions to make them easier to use.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/rozap/exgpg",
+      "name": "exgpg",
+      "url": "https://github.com/rozap/exgpg",
+      "description": "Use gpg from Elixir.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/yuce/pot",
+      "name": "pot",
+      "url": "https://github.com/yuce/pot",
+      "description": "Erlang library for generating one time passwords compatible with Google Authenticator.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://github.com/zackehh/siphash-elixir",
+      "name": "siphash-elixir",
+      "url": "https://github.com/zackehh/siphash-elixir",
+      "description": "Elixir implementation of the SipHash hash family.",
+      "section": [
+        "Frameworks and Libs",
+        "Elixir"
+      ]
+    },
+    {
+      "key": "https://erlang.org/doc/apps/crypto",
+      "name": "crypto",
+      "url": "http://erlang.org/doc/apps/crypto/",
+      "description": "Functions for computation of message digests, and functions for encryption and decryption.",
+      "section": [
+        "Frameworks and Libs",
+        "Erlang"
+      ]
+    },
+    {
+      "key": "https://erlang.org/doc/man/public_key.html",
+      "name": "public_key",
+      "url": "http://erlang.org/doc/man/public_key.html",
+      "description": "Provides functions to handle public-key infrastructure.",
+      "section": [
+        "Frameworks and Libs",
+        "Erlang"
+      ]
+    },
+    {
+      "key": "https://golang.org/pkg/crypto",
+      "name": "crypto",
+      "url": "https://golang.org/pkg/crypto/",
+      "description": "Official Website Resources.",
+      "section": [
+        "Frameworks and Libs",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://github.com/dgryski/dkeyczar",
+      "name": "dkeyczar",
+      "url": "https://github.com/dgryski/dkeyczar",
+      "description": "Port of Google's Keyczar cryptography library to Go.",
+      "section": [
+        "Frameworks and Libs",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://github.com/kisom/gocrypto",
+      "name": "gocrypto",
+      "url": "https://github.com/kisom/gocrypto",
+      "description": "Example source code for the Practical Crypto with Go book.",
+      "section": [
+        "Frameworks and Libs",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/Go-Howto",
+      "name": "goThemis",
+      "url": "https://github.com/cossacklabs/themis/wiki/Go-Howto",
+      "description": "Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://github.com/dedis/kyber",
+      "name": "kyber",
+      "url": "https://github.com/dedis/kyber",
+      "description": "Advanced crypto library for the Go language.",
+      "section": [
+        "Frameworks and Libs",
+        "Go"
+      ]
+    },
+    {
+      "key": "https://hackage.haskell.org/packages",
+      "name": "Cryptography",
+      "url": "http://hackage.haskell.org/packages/#cat:Cryptography",
+      "description": "Collaborative Hackage list.",
+      "section": [
+        "Frameworks and Libs",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://wiki.haskell.org/Applications_and_libraries/Cryptography",
+      "name": "Cryptography & Hashing",
+      "url": "https://wiki.haskell.org/Applications_and_libraries/Cryptography",
+      "description": "Official Website of Haskell.",
+      "section": [
+        "Frameworks and Libs",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/GaloisInc/cryptol",
+      "name": "cryptol",
+      "url": "https://github.com/GaloisInc/cryptol",
+      "description": "The Language of Cryptography.",
+      "section": [
+        "Frameworks and Libs",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://hackage.haskell.org/package/cryptonite",
+      "name": "Cryptonite",
+      "url": "https://hackage.haskell.org/package/cryptonite",
+      "description": "Haskell repository of cryptographic primitives.",
+      "section": [
+        "Frameworks and Libs",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/phonohawk/HsOpenSSL",
+      "name": "HsOpenSSL",
+      "url": "https://github.com/phonohawk/HsOpenSSL",
+      "description": "OpenSSL binding for Haskel.",
+      "section": [
+        "Frameworks and Libs",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://github.com/informatikr/scrypt",
+      "name": "scrypt",
+      "url": "https://github.com/informatikr/scrypt",
+      "description": "Haskell bindings to Colin Percival's scrypt implementation.",
+      "section": [
+        "Frameworks and Libs",
+        "Haskell"
+      ]
+    },
+    {
+      "key": "https://lib.haxe.org/p/haxe-crypto",
+      "name": "haxe-crypto",
+      "url": "http://lib.haxe.org/p/haxe-crypto/",
+      "description": "Haxe Cryptography Library.",
+      "section": [
+        "Frameworks and Libs",
+        "Haxe"
+      ]
+    },
+    {
+      "key": "https://github.com/vibornoff/asmcrypto.js",
+      "name": "asmCrypto",
+      "url": "https://github.com/vibornoff/asmcrypto.js/",
+      "description": "JavaScript implementation of popular cryptographic utilities with performance in mind.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/shaneGirish/bcrypt-Node.js",
+      "name": "bcrypt-Node.js",
+      "url": "https://github.com/shaneGirish/bcrypt-Node.js",
+      "description": "Native implementation of bcrypt for Node.js.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/openpeer/cifre",
+      "name": "cifre",
+      "url": "https://github.com/openpeer/cifre",
+      "description": "Fast crypto toolkit for modern client-side JavaScript.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/google/closure-library/tree/master/closure/goog/crypt",
+      "name": "closure-library",
+      "url": "https://github.com/google/closure-library/tree/master/closure/goog/crypt",
+      "description": "Google's common JavaScript library.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/wwwtyro/cryptico",
+      "name": "cryptico",
+      "url": "https://github.com/wwwtyro/cryptico",
+      "description": "Easy-to-use encryption system utilizing RSA and AES for JavaScript.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/brix/crypto-js",
+      "name": "crypto-js",
+      "url": "https://github.com/brix/crypto-js",
+      "description": "JavaScript library of crypto standards.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/gwjjeff/cryptojs",
+      "name": "cryptojs",
+      "url": "https://github.com/gwjjeff/cryptojs",
+      "description": "Provide standard and secure cryptographic algorithms for Node.js.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/digitalbazaar/forge",
+      "name": "forge",
+      "url": "https://github.com/digitalbazaar/forge",
+      "description": "Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://docs.ironcorelabs.com/ironnode-sdk/overview",
+      "name": "IronNode",
+      "url": "https://docs.ironcorelabs.com/ironnode-sdk/overview",
+      "description": "Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding strong data controls to Node.js apps.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://docs.ironcorelabs.com/ironweb-sdk/overview",
+      "name": "IronWeb",
+      "url": "https://docs.ironcorelabs.com/ironweb-sdk/overview",
+      "description": "Transform encryption library, a variant of proxy re-encryption, for easily managing end-to-end encryption securely in the browser.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/clipperz/javascript-crypto-library",
+      "name": "javascript-crypto-library",
+      "url": "https://github.com/clipperz/javascript-crypto-library",
+      "description": "JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/tonyg/js-nacl",
+      "name": "js-nacl",
+      "url": "https://github.com/tonyg/js-nacl",
+      "description": "Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/travist/jsencrypt",
+      "name": "jsencrypt",
+      "url": "https://github.com/travist/jsencrypt",
+      "description": "JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/h2non/jshashes",
+      "name": "JShashes",
+      "url": "https://github.com/h2non/jshashes",
+      "description": "Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/kjur/jsrsasign",
+      "name": "jsrsasign",
+      "url": "https://github.com/kjur/jsrsasign",
+      "description": "The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/Nodejs-Howto",
+      "name": "jsThemis",
+      "url": "https://github.com/cossacklabs/themis/wiki/Nodejs-Howto",
+      "description": "JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/jedisct1/libsodium.js",
+      "name": "libsodium.js",
+      "url": "https://github.com/jedisct1/libsodium.js",
+      "description": "libsodium compiled to pure JavaScript, with convenient wrappers.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/vesvault/libVES",
+      "name": "libVES.js",
+      "url": "https://github.com/vesvault/libVES",
+      "description": "End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/micro-rsa-dsa-dh",
+      "name": "micro-rsa-dsa-dh",
+      "url": "https://github.com/paulmillr/micro-rsa-dsa-dh",
+      "description": "Minimal implementation of older cryptography algorithms: RSA, DSA, DH, ElGamal.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-milagro-crypto-js",
+      "name": "milagro-crypto-js",
+      "url": "https://github.com/apache/incubator-milagro-crypto-js",
+      "description": "MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/noble-ciphers",
+      "name": "noble-ciphers",
+      "url": "https://github.com/paulmillr/noble-ciphers",
+      "description": "cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/noble-curves",
+      "name": "noble-curves",
+      "url": "https://github.com/paulmillr/noble-curves",
+      "description": "elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb noble-secp256k1, noble-ed25519",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/noble-hashes",
+      "name": "noble-hashes",
+      "url": "https://github.com/paulmillr/noble-hashes",
+      "description": "SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2, Scrypt & Argon2id",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/paulmillr/noble-post-quantum",
+      "name": "noble-post-quantum",
+      "url": "https://github.com/paulmillr/noble-post-quantum",
+      "description": "ML-KEM, ML-DSA, SLH-DSA (CRYSTALS-Kyber, CRYSTALS-Dilithium, Sphincs+) and hybrids",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/ncb000gt/node.bcrypt.js",
+      "name": "node.bcrypt.js",
+      "url": "https://github.com/ncb000gt/node.bcrypt.js",
+      "description": "bcrypt for Node.js.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/openpgpjs/openpgpjs",
+      "name": "OpenPGP.js",
+      "url": "https://github.com/openpgpjs/openpgpjs",
+      "description": "OpenPGP implementation for JavaScript.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/polycrypt/polycrypt",
+      "name": "PolyCrypt",
+      "url": "https://github.com/polycrypt/polycrypt",
+      "description": "Pure JS implementation of the WebCrypto API.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/srijs/rusha",
+      "name": "rusha",
+      "url": "https://github.com/srijs/rusha",
+      "description": "High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/bitwiseshiftleft/sjcl",
+      "name": "sjcl",
+      "url": "https://github.com/bitwiseshiftleft/sjcl",
+      "description": "Stanford JavaScript Crypto Library.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/dchest/tweetnacl-js",
+      "name": "TweetNaCl.js",
+      "url": "https://github.com/dchest/tweetnacl-js",
+      "description": "A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://github.com/quartzjer/ursa",
+      "name": "URSA",
+      "url": "https://github.com/quartzjer/ursa",
+      "description": "RSA public/private key OpenSSL bindings for Node.",
+      "section": [
+        "Frameworks and Libs",
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://shiro.apache.org",
+      "name": "Apache Shiro",
+      "url": "http://shiro.apache.org/",
+      "description": "Performs authentication, authorization, cryptography and session management.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://bouncycastle.org/java.html",
+      "name": "Bouncy Castle",
+      "url": "https://www.bouncycastle.org/java.html",
+      "description": "All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://flexiprovider.de",
+      "name": "Flexiprovider",
+      "url": "http://www.flexiprovider.de/",
+      "description": "Powerful toolkit for the Java Cryptography Architecture.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/maxamel/GDH",
+      "name": "GDH",
+      "url": "https://github.com/maxamel/GDH",
+      "description": "Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/tink-crypto/tink-java",
+      "name": "Google Tink",
+      "url": "https://github.com/tink-crypto/tink-java",
+      "description": "A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto",
+      "name": "Java Themis",
+      "url": "https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto",
+      "description": "Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://mindrot.org/projects/jBCrypt",
+      "name": "jbcrypt",
+      "url": "http://www.mindrot.org/projects/jBCrypt/",
+      "description": "jBCrypt is an implementation the OpenBSD Blowfish password hashing algorithm.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/keycloak/keycloak",
+      "name": "Keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/pac4j/pac4j",
+      "name": "pac4j",
+      "url": "https://github.com/pac4j/pac4j",
+      "description": "Security engine.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/Password4j/password4j",
+      "name": "Password4j",
+      "url": "https://github.com/Password4j/password4j",
+      "description": "A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://abstractj.github.io/kalium",
+      "name": "Project Kalium",
+      "url": "http://abstractj.github.io/kalium/",
+      "description": "Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/wg/scrypt",
+      "name": "scrypt",
+      "url": "https://github.com/wg/scrypt",
+      "description": "Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/tersesystems/securitybuilder",
+      "name": "securitybuilder",
+      "url": "https://github.com/tersesystems/securitybuilder",
+      "description": "Fluent Builder API for JCA/JSSE objects.",
+      "section": [
+        "Frameworks and Libs",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/danielsuo/Crypto.jl",
+      "name": "Crypto.jl",
+      "url": "https://github.com/danielsuo/Crypto.jl",
+      "description": "Library that wraps OpenSSL, but also has pure Julia implementations for reference.",
+      "section": [
+        "Frameworks and Libs",
+        "Julia"
+      ]
+    },
+    {
+      "key": "https://github.com/JuliaWeb/MbedTLS.jl",
+      "name": "MbedTLS.jl",
+      "url": "https://github.com/JuliaWeb/MbedTLS.jl",
+      "description": "Wrapper around the mbed TLS and cryptography C libary.",
+      "section": [
+        "Frameworks and Libs",
+        "Julia"
+      ]
+    },
+    {
+      "key": "https://github.com/staticfloat/Nettle.jl",
+      "name": "Nettle.jl",
+      "url": "https://github.com/staticfloat/Nettle.jl",
+      "description": "Julia wrapper around nettle cryptographic hashing/ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.",
+      "section": [
+        "Frameworks and Libs",
+        "Julia"
+      ]
+    },
+    {
+      "key": "https://github.com/staticfloat/SHA.jl",
+      "name": "SHA.jl",
+      "url": "https://github.com/staticfloat/SHA.jl",
+      "description": "Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.",
+      "section": [
+        "Frameworks and Libs",
+        "Julia"
+      ]
+    },
+    {
+      "key": "https://github.com/somesocks/lua-lockbox",
+      "name": "lua-lockbox",
+      "url": "https://github.com/somesocks/lua-lockbox",
+      "description": "Collection of cryptographic primitives written in pure Lua.",
+      "section": [
+        "Frameworks and Libs",
+        "Lua"
+      ]
+    },
+    {
+      "key": "https://github.com/mkottman/luacrypto",
+      "name": "LuaCrypto",
+      "url": "https://github.com/mkottman/luacrypto",
+      "description": "Lua bindings to OpenSSL.",
+      "section": [
+        "Frameworks and Libs",
+        "Lua"
+      ]
+    },
+    {
+      "key": "https://github.com/mirage/digestif",
+      "name": "Digestif",
+      "url": "https://github.com/mirage/digestif",
+      "description": "is a toolbox that implements various cryptographic primitives in C and OCaml.",
+      "section": [
+        "Frameworks and Libs",
+        "OCaml"
+      ]
+    },
+    {
+      "key": "https://github.com/mirleft/ocaml-tls",
+      "name": "ocaml-tls",
+      "url": "https://github.com/mirleft/ocaml-tls",
+      "description": "TLS in pure OCaml.",
+      "section": [
+        "Frameworks and Libs",
+        "OCaml"
+      ]
+    },
+    {
+      "key": "https://github.com/kelp404/CocoaSecurity",
+      "name": "CocoaSecurity",
+      "url": "https://github.com/kelp404/CocoaSecurity",
+      "description": "AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.",
+      "section": [
+        "Frameworks and Libs",
+        "Objective-C"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/Objective-C-Howto",
+      "name": "ObjC Themis",
+      "url": "https://github.com/cossacklabs/themis/wiki/Objective-C-Howto",
+      "description": "ObjC wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "Objective-C"
+      ]
+    },
+    {
+      "key": "https://github.com/krzyzanowskim/ObjectivePGP",
+      "name": "ObjectivePGP",
+      "url": "https://github.com/krzyzanowskim/ObjectivePGP",
+      "description": "ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.",
+      "section": [
+        "Frameworks and Libs",
+        "Objective-C"
+      ]
+    },
+    {
+      "key": "https://github.com/RNCryptor/RNCryptor",
+      "name": "RNCryptor",
+      "url": "https://github.com/RNCryptor/RNCryptor",
+      "description": "CCCryptor (AES encryption) wrappers for iOS and Mac.",
+      "section": [
+        "Frameworks and Libs",
+        "Objective-C"
+      ]
+    },
+    {
+      "key": "https://paragonie.com/project/halite",
+      "name": "halite",
+      "url": "https://paragonie.com/project/halite",
+      "description": "Simple library for encryption using libsodium.",
+      "section": [
+        "Frameworks and Libs",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/scrothers/libsodium-laravel",
+      "name": "libsodium-laravel",
+      "url": "https://github.com/scrothers/libsodium-laravel",
+      "description": "Laravel Package Abstraction using libsodium.",
+      "section": [
+        "Frameworks and Libs",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/defuse/php-encryption",
+      "name": "PHP Encryption",
+      "url": "https://github.com/defuse/php-encryption",
+      "description": "Library for encrypting data with a key or password in PHP.",
+      "section": [
+        "Frameworks and Libs",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/PHP-Howto",
+      "name": "PHP Themis",
+      "url": "https://github.com/cossacklabs/themis/wiki/PHP-Howto",
+      "description": "PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/timoh6/TCrypto",
+      "name": "TCrypto",
+      "url": "https://github.com/timoh6/TCrypto",
+      "description": "TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.",
+      "section": [
+        "Frameworks and Libs",
+        "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/pyca/bcrypt",
+      "name": "bcrypt",
+      "url": "https://github.com/pyca/bcrypt",
+      "description": "Modern password hashing for your software and your servers.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/JHUISI/charm",
+      "name": "charm",
+      "url": "https://github.com/JHUISI/charm",
+      "description": "Framework for rapidly prototyping cryptosystems.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/aditisrinivas97/Crypto-Vinaigrette",
+      "name": "Crypto-Vinaigrette",
+      "url": "https://github.com/aditisrinivas97/Crypto-Vinaigrette",
+      "description": "Quantum resistant asymmetric key generation tool for digital signatures.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://cryptography.io/en/latest",
+      "name": "cryptography",
+      "url": "https://cryptography.io/en/latest/",
+      "description": "Python library which exposes cryptographic recipes and primitives.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://sourceforge.net/projects/cryptopy",
+      "name": "cryptopy",
+      "url": "https://sourceforge.net/projects/cryptopy/",
+      "description": "Pure python implementation of cryptographic algorithms and applications.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/georgemarshall/django-cryptography",
+      "name": "django-cryptography",
+      "url": "https://github.com/georgemarshall/django-cryptography",
+      "description": "Easily encrypt data in Django.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/tlsfuzzer/python-ecdsa",
+      "name": "ecdsa",
+      "url": "https://github.com/tlsfuzzer/python-ecdsa",
+      "description": "An easy-to-use implementation of ECC with support for ECDSA and ECDH.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/davidaurelio/hashids-python",
+      "name": "hashids",
+      "url": "https://github.com/davidaurelio/hashids-python",
+      "description": "Implementation of hashids in Python.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://paramiko.org",
+      "name": "paramiko",
+      "url": "http://www.paramiko.org/",
+      "description": "Python implementation of the SSHv2 protocol, providing both client and server functionality.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/ofek/privy",
+      "name": "Privy",
+      "url": "https://github.com/ofek/privy",
+      "description": "An easy, fast lib to correctly password-protect your data.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/Legrandin/pycryptodome",
+      "name": "pycryptodome",
+      "url": "https://github.com/Legrandin/pycryptodome",
+      "description": "Self-contained Python package of low-level cryptographic primitives.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/yann2192/pyelliptic",
+      "name": "PyElliptic",
+      "url": "https://github.com/yann2192/pyelliptic",
+      "description": "Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/pyca/pynacl",
+      "name": "pynacl",
+      "url": "https://github.com/pyca/pynacl",
+      "description": "Python binding to the Networking and Cryptography (NaCl) library.",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/Python-Howto",
+      "name": "pythemis",
+      "url": "https://github.com/cossacklabs/themis/wiki/Python-Howto",
+      "description": "Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "Python"
+      ]
+    },
+    {
+      "key": "https://github.com/rstudio/rscrypt",
+      "name": "rscrypt",
+      "url": "https://github.com/rstudio/rscrypt",
+      "description": "Package for a collection of scrypt cryptographic functions.",
+      "section": [
+        "Frameworks and Libs",
+        "R"
+      ]
+    },
+    {
+      "key": "https://github.com/codahale/bcrypt-ruby",
+      "name": "bcrypt-ruby",
+      "url": "https://github.com/codahale/bcrypt-ruby",
+      "description": "Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.",
+      "section": [
+        "Frameworks and Libs",
+        "Ruby"
+      ]
+    },
+    {
+      "key": "https://github.com/cryptosphere/rbnacl",
+      "name": "RbNaCl",
+      "url": "https://github.com/cryptosphere/rbnacl",
+      "description": "Ruby binding to the Networking and Cryptography (NaCl) library.",
+      "section": [
+        "Frameworks and Libs",
+        "Ruby"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/Ruby-Howto",
+      "name": "Ruby Themis",
+      "url": "https://github.com/cossacklabs/themis/wiki/Ruby-Howto",
+      "description": "Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "Ruby"
+      ]
+    },
+    {
+      "key": "https://github.com/RustCrypto/AEADs",
+      "name": "AEADs",
+      "url": "https://github.com/RustCrypto/AEADs",
+      "description": "Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/BLAKE3-team/BLAKE3",
+      "name": "BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "is official Rust and C implementations of the BLAKE3 cryptographic hash function.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/randombit/botan-rs",
+      "name": "botan-rs",
+      "url": "https://github.com/randombit/botan-rs",
+      "description": "Botan bindings for Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/cryptoballot/cryptoballot",
+      "name": "cryptoballot",
+      "url": "https://github.com/cryptoballot/cryptoballot",
+      "description": "Cryptographically secure online voting.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/dalek-cryptography",
+      "name": "dalek cryptography",
+      "url": "https://github.com/dalek-cryptography/",
+      "description": "Fast yet safe mid-level API for ECC, Bulletproofs, and more.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/brndnmtthws/dryoc",
+      "name": "dryoc",
+      "url": "https://github.com/brndnmtthws/dryoc",
+      "description": "A pure-Rust, general purpose crypto library that implements libsodium primitives.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/RustCrypto/elliptic-curves",
+      "name": "elliptic-curves",
+      "url": "https://github.com/RustCrypto/elliptic-curves",
+      "description": "Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/RustCrypto/formats",
+      "name": "formats",
+      "url": "https://github.com/RustCrypto/formats",
+      "description": "Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/RustCrypto/hashes",
+      "name": "hashes",
+      "url": "https://github.com/RustCrypto/hashes",
+      "description": "Collection of cryptographic hash functions written in pure Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/google/mundane",
+      "name": "mundane",
+      "url": "https://github.com/google/mundane",
+      "description": "is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/ockam-network/ockam",
+      "name": "ockam",
+      "url": "https://github.com/ockam-network/ockam",
+      "description": "is a Rust library for end-to-end encryption and mutual authentication.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/libOctavo/octavo",
+      "name": "octavo",
+      "url": "https://github.com/libOctavo/octavo",
+      "description": "Highly modular & configurable hash & crypto library.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/orion-rs/orion",
+      "name": "orion",
+      "url": "https://github.com/orion-rs/orion",
+      "description": "is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/RustCrypto/password-hashes",
+      "name": "password-hashes",
+      "url": "https://github.com/RustCrypto/password-hashes",
+      "description": "Collection of password hashing algorithms, otherwise known as password-based key derivation functions, written in pure Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/wireapp/proteus",
+      "name": "proteus",
+      "url": "https://github.com/wireapp/proteus",
+      "description": "Axolotl protocol implementation, without header keys, in Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/str4d/rage",
+      "name": "rage",
+      "url": "https://github.com/str4d/rage",
+      "description": "is a simple, modern, and secure file encryption tool, using the age format.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/IronCoreLabs/recrypt-rs",
+      "name": "recrypt",
+      "url": "https://github.com/IronCoreLabs/recrypt-rs",
+      "description": "A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/briansmith/ring",
+      "name": "ring",
+      "url": "https://github.com/briansmith/ring",
+      "description": "Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/pluto/ronkathon",
+      "name": "ronkathon",
+      "url": "https://github.com/pluto/ronkathon",
+      "description": "Educational, mathematically transparent, well documentated cryptography in rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/DaGenix/rust-crypto",
+      "name": "rust-crypto",
+      "url": "https://github.com/DaGenix/rust-crypto",
+      "description": "Mostly pure-Rust implementation of various cryptographic algorithms.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/sfackler/rust-openssl",
+      "name": "rust-openssl",
+      "url": "https://github.com/sfackler/rust-openssl",
+      "description": "OpenSSL bindings for Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/ctz/rustls",
+      "name": "rustls",
+      "url": "https://github.com/ctz/rustls",
+      "description": "Rustls is a new, modern TLS library written in Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/RustCrypto/signatures",
+      "name": "signatures",
+      "url": "https://github.com/RustCrypto/signatures",
+      "description": "Cryptographic signature algorithms: DSA, ECDSA, Ed25519.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/mcginty/snow?tab=readme-ov-file",
+      "name": "snow",
+      "url": "https://github.com/mcginty/snow?tab=readme-ov-file",
+      "description": "Pure Rust implementation of Trevor Perrin’s Noise Protocol.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/dnaq/sodiumoxide",
+      "name": "sodiumoxide",
+      "url": "https://github.com/dnaq/sodiumoxide",
+      "description": "Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/klutzy/suruga",
+      "name": "suruga",
+      "url": "https://github.com/klutzy/suruga",
+      "description": "TLS 1.2 implementation in Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/briansmith/webpki",
+      "name": "webpki",
+      "url": "https://github.com/briansmith/webpki",
+      "description": "Web PKI TLS X.509 certificate validation in Rust.",
+      "section": [
+        "Frameworks and Libs",
+        "Rust"
+      ]
+    },
+    {
+      "key": "https://github.com/IronCoreLabs/recrypt",
+      "name": "recrypt",
+      "url": "https://github.com/IronCoreLabs/recrypt",
+      "description": "Transform encryption library for Scala.",
+      "section": [
+        "Frameworks and Libs",
+        "Scala"
+      ]
+    },
+    {
+      "key": "https://github.com/input-output-hk/scrypto",
+      "name": "scrypto",
+      "url": "https://github.com/input-output-hk/scrypto",
+      "description": "Cryptographic primitives for Scala.",
+      "section": [
+        "Frameworks and Libs",
+        "Scala"
+      ]
+    },
+    {
+      "key": "https://github.com/jmcardon/tsec",
+      "name": "tsec",
+      "url": "https://github.com/jmcardon/tsec",
+      "description": "A type-safe, functional, general purpose security and cryptography library.",
+      "section": [
+        "Frameworks and Libs",
+        "Scala"
+      ]
+    },
+    {
+      "key": "https://github.com/caolan/chicken-sodium",
+      "name": "chicken-sodium",
+      "url": "https://github.com/caolan/chicken-sodium",
+      "description": "Bindings to libsodium crypto library for Chicken Scheme.",
+      "section": [
+        "Frameworks and Libs",
+        "Scheme"
+      ]
+    },
+    {
+      "key": "https://wiki.call-cc.org/eggref/5/crypto-tools",
+      "name": "crypto-tools",
+      "url": "https://wiki.call-cc.org/eggref/5/crypto-tools",
+      "description": "Useful cryptographic primitives for Chicken Scheme.",
+      "section": [
+        "Frameworks and Libs",
+        "Scheme"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/gnutls/guile",
+      "name": "guile-gnutls",
+      "url": "https://gitlab.com/gnutls/guile/",
+      "description": "GnuTLS bindings for GNU Guile.",
+      "section": [
+        "Frameworks and Libs",
+        "Scheme"
+      ]
+    },
+    {
+      "key": "https://github.com/artyom-poptsov/guile-ssh",
+      "name": "guile-ssh",
+      "url": "https://github.com/artyom-poptsov/guile-ssh",
+      "description": "libssh bindings for GNU Guile.",
+      "section": [
+        "Frameworks and Libs",
+        "Scheme"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/weinholt/industria",
+      "name": "industria",
+      "url": "https://gitlab.com/weinholt/industria",
+      "description": "Motley assortment of cryptographic primitives, OpenSSH, DNS.",
+      "section": [
+        "Frameworks and Libs",
+        "Scheme"
+      ]
+    },
+    {
+      "key": "https://github.com/krzyzanowskim/CryptoSwift",
+      "name": "CryptoSwift",
+      "url": "https://github.com/krzyzanowskim/CryptoSwift",
+      "description": "Crypto related functions and helpers for Swift implemented in Swift programming language.",
+      "section": [
+        "Frameworks and Libs",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/iosdevzone/IDZSwiftCommonCrypto",
+      "name": "IDZSwiftCommonCrypto",
+      "url": "https://github.com/iosdevzone/IDZSwiftCommonCrypto",
+      "description": "Wrapper for Apple's CommonCrypto library written in Swift.",
+      "section": [
+        "Frameworks and Libs",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/Zewo/OpenSSL",
+      "name": "OpenSSL",
+      "url": "https://github.com/Zewo/OpenSSL",
+      "description": "Swift OpenSSL for macOS and Linux.",
+      "section": [
+        "Frameworks and Libs",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/jancassio/SweetHMAC",
+      "name": "SweetHMAC",
+      "url": "https://github.com/jancassio/SweetHMAC",
+      "description": "Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.",
+      "section": [
+        "Frameworks and Libs",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/jedisct1/swift-sodium",
+      "name": "Swift-Sodium",
+      "url": "https://github.com/jedisct1/swift-sodium",
+      "description": "Swift interface to the Sodium library for common crypto operations for iOS and macOS.",
+      "section": [
+        "Frameworks and Libs",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/SwiftP2P/SwiftSSL",
+      "name": "SwiftSSL",
+      "url": "https://github.com/SwiftP2P/SwiftSSL",
+      "description": "Elegant crypto toolkit in Swift.",
+      "section": [
+        "Frameworks and Libs",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/themis/wiki/Swift-Howto",
+      "name": "SwiftThemis",
+      "url": "https://github.com/cossacklabs/themis/wiki/Swift-Howto",
+      "description": "Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+      "section": [
+        "Frameworks and Libs",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://blog.cryptographyengineering.com",
+      "name": "A Few Thoughts on Cryptographic Engineering",
+      "url": "http://blog.cryptographyengineering.com/",
+      "description": "Some random thoughts about crypto.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://bristolcrypto.blogspot.co.uk",
+      "name": "Bristol Cryptography Blog",
+      "url": "http://bristolcrypto.blogspot.co.uk/",
+      "description": "Official blog for the University of Bristol cryptography research group. It's a group blog, primarily targeted towards cryptographers and crypto students.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://blog.engelke.com/tag/webcrypto",
+      "name": "Charles Engelke's Blog",
+      "url": "https://blog.engelke.com/tag/webcrypto/",
+      "description": "WebCrypto Blog Posts.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://rdist.root.org",
+      "name": "Root Labs rdist",
+      "url": "https://rdist.root.org/",
+      "description": "Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://blog.ironcorelabs.com",
+      "name": "Salty Hash",
+      "url": "https://blog.ironcorelabs.com",
+      "description": "Covers topics on encryption, data control, privacy, and security.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://schneier.com",
+      "name": "Schneier on security",
+      "url": "https://www.schneier.com/",
+      "description": "One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://metzdowd.com/mailman/listinfo/cryptography",
+      "name": "metzdowd.com",
+      "url": "http://www.metzdowd.com/mailman/listinfo/cryptography",
+      "description": "\"Cryptography\" is a low-noise moderated mailing list devoted to cryptographic technology and its political impact.",
+      "section": [
+        "Resources",
+        "Mailing lists"
+      ]
+    },
+    {
+      "key": "https://moderncrypto.org",
+      "name": "Modern Crypto",
+      "url": "https://moderncrypto.org/",
+      "description": "Forums for discussing modern cryptographic practice.",
+      "section": [
+        "Resources",
+        "Mailing lists"
+      ]
+    },
+    {
+      "key": "https://lists.randombit.net/mailman/listinfo/cryptography",
+      "name": "randombit.net",
+      "url": "https://lists.randombit.net/mailman/listinfo/cryptography",
+      "description": "List for general discussion of cryptography, particularly the technical aspects.",
+      "section": [
+        "Resources",
+        "Mailing lists"
+      ]
+    },
+    {
+      "key": "https://boxentriq.com/code-breaking",
+      "name": "Boxentriq",
+      "url": "https://www.boxentriq.com/code-breaking",
+      "description": "Easy to use tools for analysis and code-breaking of the most frequent ciphers, including Vigenère, Beaufort, Keyed Caesar, Transposition Ciphers, etc.",
+      "section": [
+        "Resources",
+        "Web-tools"
+      ]
+    },
+    {
+      "key": "https://manansingh.github.io/Cryptolab-Offline/cryptolab.html",
+      "name": "Cryptolab",
+      "url": "http://manansingh.github.io/Cryptolab-Offline/cryptolab.html",
+      "description": "is a set of cryptography related tools.",
+      "section": [
+        "Resources",
+        "Web-tools"
+      ]
+    },
+    {
+      "key": "https://cryptool-online.org",
+      "name": "CrypTool",
+      "url": "http://www.cryptool-online.org/",
+      "description": "Great variety of ciphers, encryption methods and analysis tools are introduced, often together with illustrated examples.",
+      "section": [
+        "Resources",
+        "Web-tools"
+      ]
+    },
+    {
+      "key": "https://gchq.github.io/CyberChef",
+      "name": "CyberChef",
+      "url": "https://gchq.github.io/CyberChef/",
+      "description": "a web app for encryption, encoding, compression, and data analysis.",
+      "section": [
+        "Resources",
+        "Web-tools"
+      ]
+    },
+    {
+      "key": "https://factordb.com",
+      "name": "factordb.com",
+      "url": "http://factordb.com/",
+      "description": "Factordb.com is tool used to store known factorizations of any number.",
+      "section": [
+        "Resources",
+        "Web-tools"
+      ]
+    },
+    {
+      "key": "https://keybase.io",
+      "name": "keybase.io",
+      "url": "https://keybase.io/",
+      "description": "Keybase maps your identity to your public keys, and vice versa.",
+      "section": [
+        "Resources",
+        "Web-tools"
+      ]
+    },
+    {
+      "key": "https://bettercrypto.org",
+      "name": "Applied Crypto Hardening",
+      "url": "https://bettercrypto.org/",
+      "description": "A lot ready to use best practice examples for securing web servers and more.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits",
+      "name": "Cryptocurrencies Dashboard",
+      "url": "https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/",
+      "description": "A dashboard of most active cryptocurrencies discussed on Reddit.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://crypto.stackexchange.com",
+      "name": "Cryptography Stackexchange",
+      "url": "http://crypto.stackexchange.com/",
+      "description": "Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://cryptohack.org",
+      "name": "Cryptohack",
+      "url": "https://cryptohack.org/",
+      "description": "A platform with lots of interactive cryptography challenges, similar to Cryptopals.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://cryptopals.com",
+      "name": "Cryptopals Crypto Challenges",
+      "url": "http://cryptopals.com/",
+      "description": "A series of applied cryptography challenges, starting from very basic challenges, such as hex to base 64 challanges, and gradually increasing the difficulty up to abstract algebra.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://paulmillr.com/noble",
+      "name": "Eliptic Curve Calculator",
+      "url": "https://paulmillr.com/noble/#demo",
+      "description": "simple form that allows to calculate elliptic curve public keys and signatures. Features include ability to create custom curves and different signature types",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://garykessler.net/library/crypto.html",
+      "name": "Garykessler Crypto",
+      "url": "http://www.garykessler.net/library/crypto.html",
+      "description": "An Overview of Cryptography.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://iacr.org",
+      "name": "IACR",
+      "url": "https://www.iacr.org/",
+      "description": "The International Association for Cryptologic Research is a non-profit scientific organization whose purpose is to further research in cryptology and related fields.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://learncryptography.com",
+      "name": "Learn Cryptography",
+      "url": "https://learncryptography.com/",
+      "description": "Dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/cryptography",
+      "name": "Subreddit of Cryptography",
+      "url": "https://www.reddit.com/r/cryptography/",
+      "description": "This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://iacr.org/authors/tikz",
+      "name": "TikZ for Cryptographers",
+      "url": "https://www.iacr.org/authors/tikz/",
+      "description": "A collection of block diagrams of common cryptographic functions drawn in TikZ to be used in research papers and presentations written in LaTeX.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    },
+    {
+      "key": "https://w3.org/TR/WebCryptoAPI",
+      "name": "WebCryptoAPI",
+      "url": "https://www.w3.org/TR/WebCryptoAPI/",
+      "description": "This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.",
+      "section": [
+        "Resources",
+        "Web-sites"
+      ]
+    }
+  ]
+}

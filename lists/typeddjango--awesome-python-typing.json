@@ -1,0 +1,1310 @@
+{
+  "etag": "W/\"900514c4fa4221808915a77e402d930e2b839f9a99d59936eb4b8c242dcb9350\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/KotlinIsland/basedmypy",
+      "name": "basedmypy",
+      "url": "https://github.com/KotlinIsland/basedmypy",
+      "description": "Based static typing with baseline functionality.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/detachhead/basedpyright",
+      "name": "basedpyright",
+      "url": "https://github.com/detachhead/basedpyright",
+      "description": "Pyright fork with improvements to VSCode support and various other fixes.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/python/mypy",
+      "name": "mypy",
+      "url": "https://github.com/python/mypy",
+      "description": "Optional static typing (PEP 484).",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/quora/pyanalyze",
+      "name": "pyanalyze",
+      "url": "https://github.com/quora/pyanalyze",
+      "description": "Extensible static analyzer and type checker.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://jetbrains.com/pycharm",
+      "name": "PyCharm",
+      "url": "https://www.jetbrains.com/pycharm/",
+      "description": "IDE for Professional Developers.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/mtshiba/pylyzer",
+      "name": "pylyzer",
+      "url": "https://github.com/mtshiba/pylyzer/",
+      "description": "A fast static code analyzer & language server for Python, written in Rust.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/facebook/pyrefly",
+      "name": "pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and language server for Python.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/Microsoft/pyright",
+      "name": "pyright",
+      "url": "https://github.com/Microsoft/pyright",
+      "description": "Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/JelleZijlstra/pycroscope",
+      "name": "pycroscope",
+      "url": "https://github.com/JelleZijlstra/pycroscope",
+      "description": "A semi-static type checker for Python code. It imports the modules it type checks, enabling pycroscope to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend pycroscope with plugins that interact directly with your code.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/google/pytype",
+      "name": "pytype",
+      "url": "https://github.com/google/pytype",
+      "description": "Tool to check and infer types - without requiring type annotations.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/astral-sh/ty",
+      "name": "ty",
+      "url": "https://github.com/astral-sh/ty",
+      "description": "An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/zubanls/zuban",
+      "name": "zuban",
+      "url": "https://github.com/zubanls/zuban",
+      "description": "A Mypy-compatible Python type checker and Language Server built in Rust.",
+      "section": [
+        "Static type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/beartype/beartype",
+      "name": "beartype",
+      "url": "https://github.com/beartype/beartype",
+      "description": "Unbearably fast O(1) runtime type-checking in pure Python.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/samuelcolvin/pydantic",
+      "name": "pydantic",
+      "url": "https://github.com/samuelcolvin/pydantic",
+      "description": "Data parsing using Python type hinting. Supports dataclasses.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/Stewori/pytypes",
+      "name": "pytypes",
+      "url": "https://github.com/Stewori/pytypes",
+      "description": "Provides a rich set of utilities for runtime typechecking.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/FelixTheC/strongtyping",
+      "name": "strongtyping",
+      "url": "https://github.com/FelixTheC/strongtyping",
+      "description": "Decorator which checks whether the function is called with the correct type of parameters.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/loyada/typedpy",
+      "name": "typedpy",
+      "url": "https://github.com/loyada/typedpy",
+      "description": "Type-safe, strict Python. Works well with standard Python.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/agronholm/typeguard",
+      "name": "typeguard",
+      "url": "https://github.com/agronholm/typeguard",
+      "description": "Another one runtime type checker.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/seandstewart/typical",
+      "name": "typical",
+      "url": "https://github.com/seandstewart/typical/",
+      "description": "Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/davidfstr/trycast",
+      "name": "trycast",
+      "url": "https://github.com/davidfstr/trycast",
+      "description": "Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/django/asgiref",
+      "name": "asgiref",
+      "url": "https://github.com/django/asgiref",
+      "description": "ASGI specification, provides asgiref.typing module with type annotations for ASGI servers.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://vemel.github.io/boto3_stubs_docs",
+      "name": "boto3-stubs",
+      "url": "https://vemel.github.io/boto3_stubs_docs/",
+      "description": "Stubs for boto3.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/jeshan/botostubs",
+      "name": "botostubs",
+      "url": "https://github.com/jeshan/botostubs",
+      "description": "Gives you code assistance for any boto3 API in any IDE.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/sbdchd/celery-types",
+      "name": "celery-types",
+      "url": "https://github.com/sbdchd/celery-types",
+      "description": "Type stubs for Celery and its related packages django-celery-results, ampq, kombu, billiard, vine and ephem.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/typeddjango/django-stubs",
+      "name": "django-stubs",
+      "url": "https://github.com/typeddjango/django-stubs",
+      "description": "Stubs for Django.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/typeddjango/djangorestframework-stubs",
+      "name": "djangorestframework-stubs",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs",
+      "description": "Stubs for DRF.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/shabbyrobe/grpc-stubs",
+      "name": "grpc-stubs",
+      "url": "https://github.com/shabbyrobe/grpc-stubs",
+      "description": "Stubs for grpc.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/lxml/lxml-stubs",
+      "name": "lxml-stubs",
+      "url": "https://github.com/lxml/lxml-stubs",
+      "description": "Stubs for lxml.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/stlehmann/PyQt5-stubs",
+      "name": "PyQt5-stubs",
+      "url": "https://github.com/stlehmann/PyQt5-stubs",
+      "description": "Stubs for PyQt5.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/AA-Turner/python-phonenumbers-stubs",
+      "name": "python-phonenumbers-stubs",
+      "url": "https://github.com/AA-Turner/python-phonenumbers-stubs",
+      "description": "Stubs for phonenumbers.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/hbmartin/pythonista-stubs",
+      "name": "pythonista-stubs",
+      "url": "https://github.com/hbmartin/pythonista-stubs",
+      "description": "Stubs for Pythonista.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/jorenham/scipy-stubs",
+      "name": "scipy-stubs",
+      "url": "https://github.com/jorenham/scipy-stubs",
+      "description": "Stubs for SciPy.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/dropbox/sqlalchemy-stubs",
+      "name": "sqlalchemy-stubs",
+      "url": "https://github.com/dropbox/sqlalchemy-stubs",
+      "description": "Stubs for SQLAlchemy.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html",
+      "name": "sqlalchemy2-stubs",
+      "url": "https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html",
+      "description": "Official stubs and mypy plugin for SQLAlchemy.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/patrick-kidger/torchtyping",
+      "name": "torchtyping",
+      "url": "https://github.com/patrick-kidger/torchtyping",
+      "description": "Enhanced type annotations for PyTorch.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://vemel.github.io/types_aiobotocore_docs",
+      "name": "types-aiobotocore",
+      "url": "https://vemel.github.io/types_aiobotocore_docs/",
+      "description": "Stubs for aiobotocore.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/python/typeshed",
+      "name": "typeshed",
+      "url": "https://github.com/python/typeshed",
+      "description": "Collection of library stubs, with static types.",
+      "section": [
+        "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/alice-biometrics/meiga",
+      "name": "meiga",
+      "url": "https://github.com/alice-biometrics/meiga",
+      "description": "Simple, typed and monad-based Result type.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/MaT1g3R/option",
+      "name": "option",
+      "url": "https://github.com/MaT1g3R/option",
+      "description": "Rust like Option and Result types.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/jorenham/optype",
+      "name": "optype",
+      "url": "https://github.com/jorenham/optype",
+      "description": "Opinionated collections.abc and operators alternative: Flexible single-method protocols and typed operators with predictable names.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/antonagestam/phantom-types",
+      "name": "phantom-types",
+      "url": "https://github.com/antonagestam/phantom-types",
+      "description": "Phantom types.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/dry-python/returns",
+      "name": "returns",
+      "url": "https://github.com/dry-python/returns",
+      "description": "Make your functions return something meaningful, typed, and safe.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/mplanchard/safetywrap",
+      "name": "safetywrap",
+      "url": "https://github.com/mplanchard/safetywrap",
+      "description": "Fully typesafe, Rust-like Result and Option types.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/contains-io/typet",
+      "name": "typet",
+      "url": "https://github.com/contains-io/typet",
+      "description": "Length-bounded types, dynamic object validation.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/hauntsaninja/useful_types",
+      "name": "useful-types",
+      "url": "https://github.com/hauntsaninja/useful_types",
+      "description": "Collection of useful protocols and type aliases.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/PrettyWood/future-typing",
+      "name": "future-typing",
+      "url": "https://github.com/PrettyWood/future-typing",
+      "description": "Backport for type hinting generics in standard collections and union types as X | Y.",
+      "section": [
+        "Backports and improvements"
+      ]
+    },
+    {
+      "key": "https://github.com/python/typing_extensions",
+      "name": "typing-extensions",
+      "url": "https://github.com/python/typing_extensions",
+      "description": "Backported and experimental type hints.",
+      "section": [
+        "Backports and improvements"
+      ]
+    },
+    {
+      "key": "https://github.com/bojiang/typing_utils",
+      "name": "typing-utils",
+      "url": "https://github.com/bojiang/typing_utils",
+      "description": "Backport 3.8+ runtime typing utils(for eg: get_origin) & add issubtype & more.",
+      "section": [
+        "Backports and improvements"
+      ]
+    },
+    {
+      "key": "https://github.com/best-doctor/flake8-annotations-complexity",
+      "name": "flake8-annotations-complexity",
+      "url": "https://github.com/best-doctor/flake8-annotations-complexity",
+      "description": "Plugin for flake8 to validate annotations complexity.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/sco1/flake8-annotations",
+      "name": "flake8-annotations",
+      "url": "https://github.com/sco1/flake8-annotations",
+      "description": "Plugin for flake8 to check for presence of type annotations in function definitions.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/ambv/flake8-pyi",
+      "name": "flake8-pyi",
+      "url": "https://github.com/ambv/flake8-pyi",
+      "description": "Plugin for Flake8 that provides specializations for type hinting stub files.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/snok/flake8-type-checking",
+      "name": "flake8-type-checking",
+      "url": "https://github.com/snok/flake8-type-checking",
+      "description": "Plugin to help you guard any type-annotation-only import correctly.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/asottile/flake8-typing-imports",
+      "name": "flake8-typing-imports",
+      "url": "https://github.com/asottile/flake8-typing-imports",
+      "description": "Plugin which checks that typing imports are properly guarded.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/sondrelg/flake8-typing-only-imports",
+      "name": "flake8-typing-only-imports",
+      "url": "https://github.com/sondrelg/flake8-typing-only-imports",
+      "description": "flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/jonafato/flake8-type-ignore",
+      "name": "flake8-type-ignore",
+      "url": "https://gitlab.com/jonafato/flake8-type-ignore/",
+      "description": "flake8 plugin to disallow type: ignore comments in your typed Python code.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/wemake-services/wemake-python-styleguide",
+      "name": "wemake-python-styleguide",
+      "url": "https://github.com/wemake-services/wemake-python-styleguide",
+      "description": "The strictest and most opinionated Python linter ever.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/astral-sh/ruff",
+      "name": "Ruff",
+      "url": "https://github.com/astral-sh/ruff/",
+      "description": "Extremely fast linter which supports lint rules from many other lint tools, such as flake8.",
+      "section": [
+        "Tools",
+        "Linters"
+      ]
+    },
+    {
+      "key": "https://github.com/orsinium-labs/mypy-test",
+      "name": "mypy-test",
+      "url": "https://github.com/orsinium-labs/mypy-test",
+      "description": "Test mypy plugins, stubs, custom types.",
+      "section": [
+        "Tools",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/typeddjango/pytest-mypy-plugins",
+      "name": "pytest-mypy-plugins",
+      "url": "https://github.com/typeddjango/pytest-mypy-plugins",
+      "description": "Pytest plugin for testing mypy types, stubs, and plugins.",
+      "section": [
+        "Tools",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/davidfritzsche/pytest-mypy-testing",
+      "name": "pytest-mypy-testing",
+      "url": "https://github.com/davidfritzsche/pytest-mypy-testing",
+      "description": "Pytest plugin to test mypy static type analysis.",
+      "section": [
+        "Tools",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/dbader/pytest-mypy",
+      "name": "pytest-mypy",
+      "url": "https://github.com/dbader/pytest-mypy",
+      "description": "Mypy static type checker plugin for Pytest.",
+      "section": [
+        "Tools",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/ilevkivskyi/com2ann",
+      "name": "com2ann",
+      "url": "https://github.com/ilevkivskyi/com2ann",
+      "description": "Tool for translation of type comments to type annotations.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi",
+      "name": "merge-pyi",
+      "url": "https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi",
+      "description": "Part of pytype toolchain, applies stub files onto source code.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/orsinium-labs/mypy-baseline",
+      "name": "mypy-baseline",
+      "url": "https://github.com/orsinium-labs/mypy-baseline",
+      "description": "Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/dropbox/mypy-protobuf",
+      "name": "mypy-protobuf",
+      "url": "https://github.com/dropbox/mypy-protobuf",
+      "description": "Tool to generate mypy stubs from protobufs.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/whtsky/mypy-silent",
+      "name": "mypy-silent",
+      "url": "https://github.com/whtsky/mypy-silent/",
+      "description": "Silence mypy by adding or removing code comments.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/python/mypy/tree/master/mypyc",
+      "name": "mypyc",
+      "url": "https://github.com/python/mypy/tree/master/mypyc",
+      "description": "Compiles mypy-annotated, statically typed Python modules into CPython C extensions.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/ambv/retype",
+      "name": "retype",
+      "url": "https://github.com/ambv/retype",
+      "description": "Another tool to apply stubs to code.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/orsinium-labs/typeforce",
+      "name": "typeforce",
+      "url": "https://github.com/orsinium-labs/typeforce",
+      "description": "CLI tool that enriches your Python environment with type annotations, empowering mypy.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/wasi-master/typesplainer",
+      "name": "typesplainer",
+      "url": "https://github.com/wasi-master/typesplainer",
+      "description": "A Python type explainer.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/ilevkivskyi/typing_inspect",
+      "name": "typing-inspect",
+      "url": "https://github.com/ilevkivskyi/typing_inspect",
+      "description": "The typing_inspect module defines experimental API for runtime inspection of types defined in the typing module.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://pypi.org/project/typing-json",
+      "name": "typing-json",
+      "url": "https://pypi.org/project/typing-json/",
+      "description": "Lib for working with typed objects and JSON.",
+      "section": [
+        "Tools",
+        "Working with types"
+      ]
+    },
+    {
+      "key": "https://github.com/JelleZijlstra/autotyping",
+      "name": "autotyping",
+      "url": "https://github.com/JelleZijlstra/autotyping",
+      "description": "Automatically add simple return type annotations for functions (bool, None, Optional).",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/orsinium-labs/infer-types",
+      "name": "infer-types",
+      "url": "https://github.com/orsinium-labs/infer-types",
+      "description": "CLI tool to automatically infer and add type annotations into Python code.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/camptocamp/jsonschema-gentypes",
+      "name": "jsonschema-gentypes",
+      "url": "https://github.com/camptocamp/jsonschema-gentypes",
+      "description": "Generate Python types based on TypedDict from a JSON Schema.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/instagram/MonkeyType",
+      "name": "monkeytype",
+      "url": "https://github.com/instagram/MonkeyType",
+      "description": "Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/hauntsaninja/no_implicit_optional",
+      "name": "no_implicit_optional",
+      "url": "https://github.com/hauntsaninja/no_implicit_optional",
+      "description": "A codemod to make your implicit optional type hints PEP 484 compliant.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/dropbox/pyannotate",
+      "name": "pyannotate",
+      "url": "https://github.com/dropbox/pyannotate",
+      "description": "Insert annotations into your source code based on call arguments and return types observed at runtime.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/pvs-hd-tea/PyTypes",
+      "name": "PyTypes",
+      "url": "https://github.com/pvs-hd-tea/PyTypes",
+      "description": "Infer Types by Python Tracing.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/kensho-technologies/pytest-annotate",
+      "name": "pytest-annotate",
+      "url": "https://github.com/kensho-technologies/pytest-annotate",
+      "description": "Pyannotate plugin for pytest.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/mariusvniekerk/pytest-monkeytype",
+      "name": "pytest-monkeytype",
+      "url": "https://github.com/mariusvniekerk/pytest-monkeytype",
+      "description": "MonkeyType plugin for pytest.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast",
+      "name": "pytype annotate-ast",
+      "url": "https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast",
+      "description": "A work-in-progress tool to annotate the nodes of an AST with their Python types.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/RightTyper/RightTyper",
+      "name": "RightTyper",
+      "url": "https://github.com/RightTyper/RightTyper",
+      "description": "A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/Luttik/auto-optional",
+      "name": "auto-optional",
+      "url": "https://github.com/Luttik/auto-optional",
+      "description": "Makes typed arguments Optional when the default argument is None.",
+      "section": [
+        "Tools",
+        "Helper tools to add annotations to existing code"
+      ]
+    },
+    {
+      "key": "https://github.com/gordonbondon/kubernetes-typed",
+      "name": "kubernetes-typed",
+      "url": "https://github.com/gordonbondon/kubernetes-typed",
+      "description": "Plugin for Kubernetes CRD type checking.",
+      "section": [
+        "Tools",
+        "Mypy plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/kornicameister/loguru-mypy",
+      "name": "loguru-mypy",
+      "url": "https://github.com/kornicameister/loguru-mypy",
+      "description": "Plugin for loguru support.",
+      "section": [
+        "Tools",
+        "Mypy plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Shoobx/mypy-zope",
+      "name": "mypy-zope",
+      "url": "https://github.com/Shoobx/mypy-zope",
+      "description": "Plugin for zope.interface support.",
+      "section": [
+        "Tools",
+        "Mypy plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/python/mypy/tree/master/mypy/plugins",
+      "name": "mypy/plugins",
+      "url": "https://github.com/python/mypy/tree/master/mypy/plugins",
+      "description": "Plugins already integrated into mypy.",
+      "section": [
+        "Tools",
+        "Mypy plugins"
+      ]
+    },
+    {
+      "key": "https://numpy.org/devdocs/reference/typing.html",
+      "name": "NumPy",
+      "url": "https://numpy.org/devdocs/reference/typing.html",
+      "description": "Plugin for NumPy support.",
+      "section": [
+        "Tools",
+        "Mypy plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/pynamodb/pynamodb-mypy",
+      "name": "pynamodb-mypy",
+      "url": "https://github.com/pynamodb/pynamodb-mypy",
+      "description": "Plugin for PynamoDB support.",
+      "section": [
+        "Tools",
+        "Mypy plugins"
+      ]
+    },
+    {
+      "key": "https://docs.pydantic.dev/latest/integrations/mypy",
+      "name": "pydantic",
+      "url": "https://docs.pydantic.dev/latest/integrations/mypy/",
+      "description": "Plugin for additional Pydantic support.",
+      "section": [
+        "Tools",
+        "Mypy plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/lbolla/emacs-flycheck-mypy",
+      "name": "emacs-flycheck-mypy",
+      "url": "https://github.com/lbolla/emacs-flycheck-mypy",
+      "description": "Mypy integration for Emacs.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/ymyzk/mypy-playground",
+      "name": "mypy-playground",
+      "url": "https://github.com/ymyzk/mypy-playground",
+      "description": "Online playground for mypy.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/dropbox/mypy-PyCharm-plugin",
+      "name": "mypy-pycharm-plugin",
+      "url": "https://github.com/dropbox/mypy-PyCharm-plugin",
+      "description": "Mypy integration for PyCharm.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/microsoft/pylance-release",
+      "name": "pylance",
+      "url": "https://github.com/microsoft/pylance-release",
+      "description": "PyRight integration for VSCode.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Integralist/vim-mypy",
+      "name": "vim-mypy",
+      "url": "https://github.com/Integralist/vim-mypy",
+      "description": "Mypy integration for Vim.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/nbQA-dev/nbQA",
+      "name": "nbQA",
+      "url": "https://github.com/nbQA-dev/nbQA",
+      "description": "Run type checkers (e.g. Mypy) on Jupyter Notebooks.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-3107",
+      "name": "PEP-3107",
+      "url": "https://www.python.org/dev/peps/pep-3107",
+      "description": "Function Annotations.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0482",
+      "name": "PEP-482",
+      "url": "https://www.python.org/dev/peps/pep-0482/",
+      "description": "Literature Overview for Type Hints.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0483",
+      "name": "PEP-483",
+      "url": "https://www.python.org/dev/peps/pep-0483/",
+      "description": "The Theory of Type Hints.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0484",
+      "name": "PEP-484",
+      "url": "https://www.python.org/dev/peps/pep-0484/",
+      "description": "Type Hints.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0526",
+      "name": "PEP-526",
+      "url": "https://www.python.org/dev/peps/pep-0526/",
+      "description": "Syntax for Variable Annotations.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0544",
+      "name": "PEP-544",
+      "url": "https://www.python.org/dev/peps/pep-0544/",
+      "description": "Protocols: Structural subtyping (static duck typing).",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0557",
+      "name": "PEP-557",
+      "url": "https://www.python.org/dev/peps/pep-0557/",
+      "description": "Data Classes.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0560",
+      "name": "PEP-560",
+      "url": "https://www.python.org/dev/peps/pep-0560/",
+      "description": "Core support for typing module and generic types.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0561",
+      "name": "PEP-561",
+      "url": "https://www.python.org/dev/peps/pep-0561/",
+      "description": "Distributing and Packaging Type Information.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0563",
+      "name": "PEP-563",
+      "url": "https://www.python.org/dev/peps/pep-0563/",
+      "description": "Postponed Evaluation of Annotations.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0585",
+      "name": "PEP-585",
+      "url": "https://www.python.org/dev/peps/pep-0585/",
+      "description": "Type Hinting Generics In Standard Collections.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0586",
+      "name": "PEP-586",
+      "url": "https://www.python.org/dev/peps/pep-0586/",
+      "description": "Literal Types.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0589",
+      "name": "PEP-589",
+      "url": "https://www.python.org/dev/peps/pep-0589/",
+      "description": "TypedDict: Type Hints for Dictionaries with a Fixed Set of Keys.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0591",
+      "name": "PEP-591",
+      "url": "https://www.python.org/dev/peps/pep-0591/",
+      "description": "Adding a final qualifier to typing.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0593",
+      "name": "PEP-593",
+      "url": "https://www.python.org/dev/peps/pep-0593/",
+      "description": "Flexible function and variable annotations.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0604",
+      "name": "PEP-604",
+      "url": "https://www.python.org/dev/peps/pep-0604/",
+      "description": "Complementary syntax for Union[].",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0612",
+      "name": "PEP-612",
+      "url": "https://www.python.org/dev/peps/pep-0612/",
+      "description": "Parameter Specification Variables.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://python.org/dev/peps/pep-0613",
+      "name": "PEP-613",
+      "url": "https://www.python.org/dev/peps/pep-0613/",
+      "description": "Explicit Type Aliases.",
+      "section": [
+        "Articles",
+        "PEPs"
+      ]
+    },
+    {
+      "key": "https://sobolevn.me/2018/07/real-python-contants",
+      "name": "1-minute guide to real constants in Python",
+      "url": "https://sobolevn.me/2018/07/real-python-contants",
+      "description": "Full tutorial about Final constants and inheritance.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://sobolevn.me/2019/01/simple-dependent-types-in-python",
+      "name": "Simple dependent types in Python",
+      "url": "https://sobolevn.me/2019/01/simple-dependent-types-in-python",
+      "description": "Full tutorial about Literal types.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://sobolevn.me/2019/08/testing-mypy-types",
+      "name": "Testing mypy stubs, plugins, and types",
+      "url": "https://sobolevn.me/2019/08/testing-mypy-types",
+      "description": "Full tutorial about testing mypy types.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python",
+      "name": "Our journey to type checking 4 million lines of Python",
+      "url": "https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python",
+      "description": "Dropbox has been one of the first companies to adopt Python static type checking at this scale.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i",
+      "name": "PyTest MonkeyType Introduction",
+      "url": "https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i",
+      "description": "Type Annotate an existing Python Django Codebase with MonkeyType.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://bernat.tech/posts/the-state-of-type-hints-in-python",
+      "name": "The state of type hints in Python",
+      "url": "https://bernat.tech/posts/the-state-of-type-hints-in-python/",
+      "description": "As of May 2018.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html",
+      "name": "Type hints cheat sheet",
+      "url": "https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html",
+      "description": "Cheat sheet on writing type annotations by MyPy team.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://sobolevn.me/2019/08/typechecking-django-and-drf",
+      "name": "Typechecking Django and DRF",
+      "url": "https://sobolevn.me/2019/08/typechecking-django-and-drf",
+      "description": "Full tutorial about type-checking Django.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://kracekumar.com/post/type_check_your_django_app",
+      "name": "Type Check Your Django Application",
+      "url": "https://kracekumar.com/post/type_check_your_django_app/",
+      "description": "An article based on two recent talks on adding type checks to Django.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://docs.python.org/3/library/typing.html",
+      "name": "typing",
+      "url": "https://docs.python.org/3/library/typing.html",
+      "description": "Official Python documentation for typing module.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://github.com/kracekumar/python-typing-koans",
+      "name": "Python-typing-koans",
+      "url": "https://github.com/kracekumar/python-typing-koans/",
+      "description": "A set of examples to learn optional static typing in Python.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://realpython.com/python-type-checking",
+      "name": "Python Type Checking (Guide)",
+      "url": "https://realpython.com/python-type-checking/",
+      "description": "In this guide, you will get a look into Python type checking.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3",
+      "name": "Adding type hints to urllib3",
+      "url": "https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3",
+      "description": "Tests are not enough: Case study adding type hints to urllib3.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://adamj.eu/tech/tag/mypy",
+      "name": "Adam Johnsons Blog",
+      "url": "https://adamj.eu/tech/tag/mypy/",
+      "description": "Adam Johnson blogs about typing practices.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://sobolevn.me/2021/12/paramspec-guide",
+      "name": "ParamSpec Guide",
+      "url": "https://sobolevn.me/2021/12/paramspec-guide",
+      "description": "Newly released feature in PEP612 allows you do a lot of advanced typing things with functions and their signatures.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://rednafi.github.io/reflections/static-typing-python-decorators.html",
+      "name": "Static Typing Python Decorators",
+      "url": "https://rednafi.github.io/reflections/static-typing-python-decorators.html",
+      "description": "Accurately static typing decorators in Python is an icky business. The wrapper function obfuscates type information required to statically determine the types of the parameters and the return values of the wrapped function.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://pydevtools.com/handbook/explanation/how-do-mypy-pyright-and-ty-compare",
+      "name": "How do mypy, Pyright, and ty compare?",
+      "url": "https://pydevtools.com/handbook/explanation/how-do-mypy-pyright-and-ty-compare/",
+      "description": "A detailed comparison of the three major Python static type checkers covering features, performance, and trade-offs.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://pydevtools.com/handbook/explanation/ty-complete-guide",
+      "name": "ty: A Complete Guide",
+      "url": "https://pydevtools.com/handbook/explanation/ty-complete-guide/",
+      "description": "Comprehensive guide to ty, the fast Python type checker from Astral.",
+      "section": [
+        "Articles",
+        "Third-party articles"
+      ]
+    },
+    {
+      "key": "https://github.com/vinta/awesome-python",
+      "name": "awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "description": "Curated list of awesome Python frameworks, libraries, software and resources.",
+      "section": [
+        "Related"
+      ]
+    },
+    {
+      "key": "https://pydevtools.com",
+      "name": "Python Developer Tooling Handbook",
+      "url": "https://pydevtools.com/",
+      "description": "Comprehensive handbook covering Python type checkers, linters, and development tools with reference pages for mypy, Pyright, and ty.",
+      "section": [
+        "Related"
+      ]
+    },
+    {
+      "key": "https://github.com/ethanhs/python-typecheckers",
+      "name": "python-typecheckers",
+      "url": "https://github.com/ethanhs/python-typecheckers",
+      "description": "List of Python type checkers: static and runtime.",
+      "section": [
+        "Related"
+      ]
+    }
+  ]
+}
