@@ -1,0 +1,3776 @@
+{
+  "etag": "W/\"fe29ad994097851ebd3708e335b6740e6b3399c776754a63547290e97eb3e6be\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://capacitorjs.com",
+      "name": "Website",
+      "url": "https://capacitorjs.com/",
+      "description": "Project homepage.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs",
+      "name": "Documentation",
+      "url": "https://capacitorjs.com/docs",
+      "description": "Official docs.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/cli",
+      "name": "CLI",
+      "url": "https://capacitorjs.com/docs/cli",
+      "description": "Command-line reference.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/community",
+      "name": "Community",
+      "url": "https://capacitorjs.com/community",
+      "description": "Official community hub.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://ionic.io/blog/tag/capacitor",
+      "name": "Blog",
+      "url": "https://ionic.io/blog/tag/capacitor",
+      "description": "Official blog posts.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor",
+      "name": "Repository",
+      "url": "https://github.com/ionic-team/capacitor",
+      "description": "Core runtime source.",
+      "section": [
+        "Official"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet",
+      "name": "Action Sheet",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet",
+      "description": "Provides access to native Action Sheets.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/app",
+      "name": "App",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/app",
+      "description": "Handles high-level App state and events.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher",
+      "name": "App Launcher",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher",
+      "description": "Allows to check if an app can be opened and open it.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/browser",
+      "name": "Browser",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/browser",
+      "description": "Provides the ability to open an in-app browser and subscribe to browser events.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/camera",
+      "name": "Camera",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/camera",
+      "description": "Provides the ability to take a photo with the camera or choose an existing one from the photo album.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard",
+      "name": "Clipboard",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard",
+      "description": "Enables copy and pasting to/from the system clipboard.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/device",
+      "name": "Device",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/device",
+      "description": "Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/dialog",
+      "name": "Dialog",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/dialog",
+      "description": "Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-filesystem",
+      "name": "File system",
+      "url": "https://github.com/ionic-team/capacitor-filesystem",
+      "description": "Provides a NodeJS-like API for working with files on the device.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-file-transfer",
+      "name": "File Transfer",
+      "url": "https://github.com/ionic-team/capacitor-file-transfer",
+      "description": "Provides mechanisms for downloading and uploading files.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-file-viewer",
+      "name": "File Viewer",
+      "url": "https://github.com/ionic-team/capacitor-file-viewer",
+      "description": "Provides mechanisms for opening files and previewing media.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-geolocation",
+      "name": "Geolocation",
+      "url": "https://github.com/ionic-team/capacitor-geolocation",
+      "description": "Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-haptics",
+      "name": "Haptics",
+      "url": "https://github.com/ionic-team/capacitor-haptics",
+      "description": "Provides physical feedback to the user through touch or vibration.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-keyboard",
+      "name": "Keyboard",
+      "url": "https://github.com/ionic-team/capacitor-keyboard",
+      "description": "Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications",
+      "name": "Local Notifications",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications",
+      "description": "Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/motion",
+      "name": "Motion",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/motion",
+      "description": "Tracks accelerometer and device orientation (compass heading, etc.).",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/network",
+      "name": "Network",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/network",
+      "description": "Provides network and connectivity information.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/preferences",
+      "name": "Preferences",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/preferences",
+      "description": "Provides a simple key/value persistent store for lightweight data, ex Storage.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications",
+      "name": "Push Notifications",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications",
+      "description": "Provides access to native push notifications.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader",
+      "name": "Screen Reader",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader",
+      "description": "Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/share",
+      "name": "Share",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/share",
+      "description": "Provides methods for sharing content in any sharing-enabled apps the user may have installed.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen",
+      "name": "Splash Screen",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen",
+      "description": "Provides methods for showing or hiding a Splash image.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar",
+      "name": "Status Bar",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar",
+      "description": "Provides methods for configuring the style of the Status Bar, along with showing or hiding it.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom",
+      "name": "Text Zoom",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom",
+      "description": "Provides the ability to change Web View text size for visual accessibility.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-plugins/tree/main/toast",
+      "name": "Toast",
+      "url": "https://github.com/ionic-team/capacitor-plugins/tree/main/toast",
+      "description": "Provides a native notification pop up for displaying important information to a user.",
+      "section": [
+        "Official plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/admob",
+      "name": "Admob",
+      "url": "https://github.com/capacitor-community/admob",
+      "description": "A native plugin for AdMob.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/app-icon",
+      "name": "App-icon",
+      "url": "https://github.com/capacitor-community/app-icon",
+      "description": "Capacitor community plugin for changing an app's icon.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/apple-sign-in",
+      "name": "Apple sign in",
+      "url": "https://github.com/capacitor-community/apple-sign-in",
+      "description": "Capacitor Sign in with Apple.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/background-geolocation",
+      "name": "Background geolocation",
+      "url": "https://github.com/capacitor-community/background-geolocation",
+      "description": "Receive geolocation updates even while app is backgrounded.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/barcode-scanner",
+      "name": "Barcode scanner",
+      "url": "https://github.com/capacitor-community/barcode-scanner",
+      "description": "A fast and efficient QR / barcode scanner for Capacitor.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/bluetooth-le",
+      "name": "Bluetooth-le",
+      "url": "https://github.com/capacitor-community/bluetooth-le",
+      "description": "Bluetooth Low Energy.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/camera-preview",
+      "name": "Camera preview",
+      "url": "https://github.com/capacitor-community/camera-preview",
+      "description": "Native camera preview with custom controls.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/capacitor-googlemaps-native",
+      "name": "Googlemaps",
+      "url": "https://github.com/capacitor-community/capacitor-googlemaps-native",
+      "description": "Plugin using native Maps API for Android and iOS.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/contacts",
+      "name": "Contacts",
+      "url": "https://github.com/capacitor-community/contacts",
+      "description": "Plugin for accessing device contacts.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/date-picker",
+      "name": "Date picker",
+      "url": "https://github.com/capacitor-community/date-picker",
+      "description": "Native DateTime Picker Plugin for Capacitor Apps.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/electron",
+      "name": "Electron",
+      "url": "https://github.com/capacitor-community/electron",
+      "description": "Support for the Electron platform.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/facebook-login",
+      "name": "Facebook Login",
+      "url": "https://github.com/capacitor-community/facebook-login",
+      "description": "A native plugin for Facebook Login.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/file-opener",
+      "name": "File opener",
+      "url": "https://github.com/capacitor-community/file-opener",
+      "description": "The plugin is able to open a file given the mimeType and the file uri.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/firebase-analytics",
+      "name": "Analytics",
+      "url": "https://github.com/capacitor-community/firebase-analytics",
+      "description": "A native plugin for Firebase analytics.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/firebase-crashlytics",
+      "name": "Crashlytics",
+      "url": "https://github.com/capacitor-community/firebase-crashlytics",
+      "description": "Firebase Crashlytics.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/fcm",
+      "name": "Fcm",
+      "url": "https://github.com/capacitor-community/fcm",
+      "description": "Enable Firebase Cloud Messaging features for Capacitor apps.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/firebase-remote-config",
+      "name": "Remote config",
+      "url": "https://github.com/capacitor-community/firebase-remote-config",
+      "description": "A native plugin for Firebase remote config.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/flipper",
+      "name": "Flipper",
+      "url": "https://github.com/capacitor-community/flipper",
+      "description": "A native plugin for flipper debugger.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/http",
+      "name": "Http",
+      "url": "https://github.com/capacitor-community/http",
+      "description": "A native HTTP plugin for CORS-free requests and file transfers.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/intercom",
+      "name": "Intercom",
+      "url": "https://github.com/capacitor-community/intercom",
+      "description": "Enable Intercom features for Capacitor apps.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/keep-awake",
+      "name": "Keep awake",
+      "url": "https://github.com/capacitor-community/keep-awake",
+      "description": "Prevent your screen from getting some sleep.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/media",
+      "name": "Media",
+      "url": "https://github.com/capacitor-community/media",
+      "description": "Enable some media features for Capacitor such as create albums, save videos, gifs and more.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter",
+      "name": "Appcenter",
+      "url": "https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter",
+      "description": "Microsoft AppCenter SDK integration.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics",
+      "name": "Analytics",
+      "url": "https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics",
+      "description": "AppCenter Analytics.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes",
+      "name": "Crashes",
+      "url": "https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes",
+      "description": "AppCenter Crashes.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/antonymarion/capacitorjs-mqtt-native-plugin",
+      "name": "MQTT v5",
+      "url": "https://github.com/antonymarion/capacitorjs-mqtt-native-plugin",
+      "description": "A native plugin for using MQTT v5 with correlation data and Request/Response Pattern.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/native-audio",
+      "name": "Native audio",
+      "url": "https://github.com/capacitor-community/native-audio",
+      "description": "A native plugin for native audio engine.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/native-market",
+      "name": "Native market",
+      "url": "https://github.com/capacitor-community/native-market",
+      "description": "A native market plugin for linking to google play or app store.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/photoviewer",
+      "name": "Photoviewer",
+      "url": "https://github.com/capacitor-community/photoviewer",
+      "description": "Table images with full-screen and sharing capabilities.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/privacy-screen",
+      "name": "Privacy screen",
+      "url": "https://github.com/capacitor-community/privacy-screen",
+      "description": "Protects your app from displaying a screenshot in recents screen/App Switcher.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/react-hooks",
+      "name": "React hooks",
+      "url": "https://github.com/capacitor-community/react-hooks",
+      "description": "Hooks for using Capacitor plugins in React apps.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/realm",
+      "name": "Realm",
+      "url": "https://github.com/capacitor-community/realm",
+      "description": "A native plugin for MongoDB Realm.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/safe-area",
+      "name": "Safe Area",
+      "url": "https://github.com/capacitor-community/safe-area",
+      "description": "Expose native safe area insets to your web project.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/screen-brightness",
+      "name": "Screen brightness",
+      "url": "https://github.com/capacitor-community/screen-brightness",
+      "description": "Control screen brightness on iOS and android.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/speech-recognition",
+      "name": "Speech recognition",
+      "url": "https://github.com/capacitor-community/speech-recognition",
+      "description": "A native plugin for speech recognition.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/sqlite",
+      "name": "SQLite",
+      "url": "https://github.com/capacitor-community/sqlite",
+      "description": "Native & electron SQLite databases.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/stripe",
+      "name": "Stripe",
+      "url": "https://github.com/capacitor-community/stripe",
+      "description": "SDK bindings for payment processing in Capacitor Applications.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/tauri",
+      "name": "Tauri",
+      "url": "https://github.com/capacitor-community/tauri",
+      "description": "Support for the Tauri platform.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/text-to-speech",
+      "name": "Text to speech",
+      "url": "https://github.com/capacitor-community/text-to-speech",
+      "description": "Synthesizing speech from text.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/twitter",
+      "name": "Twitter",
+      "url": "https://github.com/capacitor-community/twitter",
+      "description": "Enable TwitterKit features for Capacitor.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/uxcam",
+      "name": "Uxcam",
+      "url": "https://github.com/capacitor-community/uxcam",
+      "description": "Analytics and session recording for Android, iOS, and Web/PWA platforms.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mia-z/capacitor-websocket",
+      "name": "WebSocket",
+      "url": "https://github.com/mia-z/capacitor-websocket",
+      "description": "Plugin providing native WebSocket implementations for each platform.",
+      "section": [
+        "Community plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-updater",
+      "name": "Updater",
+      "url": "https://github.com/Cap-go/capacitor-updater",
+      "description": "Live update for capacitor apps.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-live-reload",
+      "name": "Live Reload",
+      "url": "https://github.com/Cap-go/capacitor-live-reload",
+      "description": "Reload Capacitor apps from a remote Vite dev server.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/electron-updater",
+      "name": "Electron Updater",
+      "url": "https://github.com/Cap-go/electron-updater",
+      "description": "OTA live updates for Electron apps with the same API as the updater plugin.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/cordova-updater",
+      "name": "Cordova Updater",
+      "url": "https://github.com/Cap-go/cordova-updater",
+      "description": "OTA live updates for Cordova iOS and Android with the same API as the updater plugin.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/tauri-updater",
+      "name": "Tauri Updater",
+      "url": "https://github.com/Cap-go/tauri-updater",
+      "description": "OTA live updates for Tauri apps.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-patch",
+      "name": "Capacitor Patch",
+      "url": "https://github.com/Cap-go/capacitor-patch",
+      "description": "Apply vetted Capgo patches during cap sync and cap update.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-plus",
+      "name": "Capacitor+",
+      "url": "https://github.com/Cap-go/capacitor-plus",
+      "description": "Always-synced Capacitor fork with community fixes and faster releases.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications",
+      "name": "Notifications",
+      "url": "https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications",
+      "description": "Send native iOS and Android push notifications with user lookup, badges, and stats.",
+      "section": [
+        "Capgo plugins",
+        "Core & Updates"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-accelerometer",
+      "name": "Accelerometer",
+      "url": "https://github.com/Cap-go/capacitor-accelerometer",
+      "description": "Read device accelerometer measurements.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-age-range",
+      "name": "Age Range",
+      "url": "https://github.com/Cap-go/capacitor-age-range",
+      "description": "Cross-platform age range detection for Android and iOS.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-barometer",
+      "name": "Barometer",
+      "url": "https://github.com/Cap-go/capacitor-barometer",
+      "description": "Access device barometer readings.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-brightness",
+      "name": "Brightness",
+      "url": "https://github.com/Cap-go/capacitor-brightness",
+      "description": "Control screen brightness on iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-compass",
+      "name": "Compass",
+      "url": "https://github.com/Cap-go/capacitor-compass",
+      "description": "Native compass heading plugin.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-device-info",
+      "name": "Device Info",
+      "url": "https://github.com/Cap-go/capacitor-device-info",
+      "description": "Read CPU, memory, GPU, storage, and onboard sensor metrics.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-light-sensor",
+      "name": "Light Sensor",
+      "url": "https://github.com/Cap-go/capacitor-light-sensor",
+      "description": "Access the device light sensor (Android only).",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-mute",
+      "name": "Mute",
+      "url": "https://github.com/Cap-go/capacitor-mute",
+      "description": "Detect if the mute switch is enabled/disabled on a device.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-pedometer",
+      "name": "Pedometer",
+      "url": "https://github.com/Cap-go/capacitor-pedometer",
+      "description": "Access pedometer data including steps, distance, pace, cadence, and floors.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-persistent-uuid",
+      "name": "Persistent UUID",
+      "url": "https://github.com/Cap-go/capacitor-persistent-uuid",
+      "description": "Persist an app UUID across reinstalls and updates.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-proximity",
+      "name": "Proximity",
+      "url": "https://github.com/Cap-go/capacitor-proximity",
+      "description": "Monitor proximity sensor state in mobile apps.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-shake",
+      "name": "Shake",
+      "url": "https://github.com/Cap-go/capacitor-shake",
+      "description": "Detect shake gesture in device.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-volume-buttons",
+      "name": "Volume Buttons",
+      "url": "https://github.com/Cap-go/capacitor-volume-buttons",
+      "description": "Listen to volume button presses.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-sim",
+      "name": "SIM",
+      "url": "https://github.com/Cap-go/capacitor-sim",
+      "description": "Get information from device's sim cards.",
+      "section": [
+        "Capgo plugins",
+        "Device & Sensors"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-camera-preview",
+      "name": "Camera Preview",
+      "url": "https://github.com/Cap-go/capacitor-camera-preview",
+      "description": "Native camera preview with custom controls.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-document-scanner",
+      "name": "Document Scanner",
+      "url": "https://github.com/Cap-go/capacitor-document-scanner",
+      "description": "Scan documents on iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-audio-recorder",
+      "name": "Audio Recorder",
+      "url": "https://github.com/Cap-go/capacitor-audio-recorder",
+      "description": "Record audio on iOS, Android, and Web.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-native-audio",
+      "name": "Native Audio",
+      "url": "https://github.com/Cap-go/capacitor-native-audio",
+      "description": "A native plugin for native audio engine.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-audiosession",
+      "name": "Audio Session",
+      "url": "https://github.com/Cap-go/capacitor-audiosession",
+      "description": "Get notified about audio interrupts & route changes on iOS.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-screen-recorder",
+      "name": "Screen Recorder",
+      "url": "https://github.com/Cap-go/capacitor-screen-recorder",
+      "description": "Record device's screen.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-video-player",
+      "name": "Video Player",
+      "url": "https://github.com/Cap-go/capacitor-video-player",
+      "description": "Play video in native player.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-video-thumbnails",
+      "name": "Video Thumbnails",
+      "url": "https://github.com/Cap-go/capacitor-video-thumbnails",
+      "description": "Generate video thumbnails from local or remote video files.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-photo-library",
+      "name": "Photo Library",
+      "url": "https://github.com/Cap-go/capacitor-photo-library",
+      "description": "Display photo gallery as web page or native screen.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-asset-cache",
+      "name": "Asset Cache",
+      "url": "https://github.com/Cap-go/capacitor-asset-cache",
+      "description": "Transparently cache large images and videos locally.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-ffmpeg",
+      "name": "FFmpeg",
+      "url": "https://github.com/Cap-go/capacitor-ffmpeg",
+      "description": "Exposes the FFmpeg API to Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-ivs-player",
+      "name": "IVS Player",
+      "url": "https://github.com/Cap-go/capacitor-ivs-player",
+      "description": "Amazon IVS player for Capacitor apps.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-jw-player",
+      "name": "JW Player",
+      "url": "https://github.com/Cap-go/capacitor-jw-player",
+      "description": "Play videos from jwplayer.com.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-mux-player",
+      "name": "Mux Player",
+      "url": "https://github.com/Cap-go/capacitor-mux-player",
+      "description": "Native Mux Player SDK to play video on iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-youtube-player",
+      "name": "YouTube Player",
+      "url": "https://github.com/Cap-go/capacitor-youtube-player",
+      "description": "Embed YouTube player controls in Capacitor apps.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-media-session",
+      "name": "Media Session",
+      "url": "https://github.com/Cap-go/capacitor-media-session",
+      "description": "Expose media session controls of the device.",
+      "section": [
+        "Capgo plugins",
+        "Camera & Media"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-data-storage-sqlite",
+      "name": "Data Storage SQLite",
+      "url": "https://github.com/Cap-go/capacitor-data-storage-sqlite",
+      "description": "SQLite Storage of key/value strings pair.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-fast-sql",
+      "name": "Fast SQL",
+      "url": "https://github.com/Cap-go/capacitor-fast-sql",
+      "description": "High-performance native SQLite plugin with custom protocol for efficient sync operations.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-file",
+      "name": "File",
+      "url": "https://github.com/Cap-go/capacitor-file",
+      "description": "System operations compatible with Cordova File plugin API.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-file-picker",
+      "name": "File Picker",
+      "url": "https://github.com/Cap-go/capacitor-file-picker",
+      "description": "Pick files, images, videos, and directories.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-file-compressor",
+      "name": "File Compressor",
+      "url": "https://github.com/Cap-go/capacitor-file-compressor",
+      "description": "Efficient image compression supporting PNG, JPEG, and WebP formats.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-file-sharer",
+      "name": "File Sharer",
+      "url": "https://github.com/Cap-go/capacitor-file-sharer",
+      "description": "Share and save files on Android, iOS, and Web.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-downloader",
+      "name": "Downloader",
+      "url": "https://github.com/Cap-go/capacitor-downloader",
+      "description": "Download file in background or foreground.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-uploader",
+      "name": "Uploader",
+      "url": "https://github.com/Cap-go/capacitor-uploader",
+      "description": "Upload file natively.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-zip",
+      "name": "Zip",
+      "url": "https://github.com/Cap-go/capacitor-zip",
+      "description": "Zipping and unzipping files on iOS, Android, and Web.",
+      "section": [
+        "Capgo plugins",
+        "Storage & Files"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-background-geolocation",
+      "name": "Background Geolocation",
+      "url": "https://github.com/Cap-go/capacitor-background-geolocation",
+      "description": "Receive accurate geolocation updates even while the app is in the background.",
+      "section": [
+        "Capgo plugins",
+        "Location & Navigation"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-nativegeocoder",
+      "name": "Native Geocoder",
+      "url": "https://github.com/Cap-go/capacitor-nativegeocoder",
+      "description": "Native forward and reverse geocoding.",
+      "section": [
+        "Capgo plugins",
+        "Location & Navigation"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-launch-navigator",
+      "name": "Launch Navigator",
+      "url": "https://github.com/Cap-go/capacitor-launch-navigator",
+      "description": "Launch native route navigation apps for Android and iOS.",
+      "section": [
+        "Capgo plugins",
+        "Location & Navigation"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-mock-location-detector",
+      "name": "Mock Location Detector",
+      "url": "https://github.com/Cap-go/capacitor-mock-location-detector",
+      "description": "Detect simulated GPS locations and spoofing developer tools.",
+      "section": [
+        "Capgo plugins",
+        "Location & Navigation"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-app-attest",
+      "name": "App Attest",
+      "url": "https://github.com/Cap-go/capacitor-app-attest",
+      "description": "Device attestation with Apple App Attest (iOS) and Play Integrity (Android).",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-device-integrity",
+      "name": "Device Integrity",
+      "url": "https://github.com/Cap-go/capacitor-device-integrity",
+      "description": "Check Widevine, Play Integrity, App Attest, and DeviceCheck signals.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-app-tracking-transparency",
+      "name": "App Tracking Transparency",
+      "url": "https://github.com/Cap-go/capacitor-app-tracking-transparency",
+      "description": "Request ATT authorization for tracking on iOS.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-native-biometric",
+      "name": "Native Biometric",
+      "url": "https://github.com/Cap-go/capacitor-native-biometric",
+      "description": "Access native biometric APIs for Android and iOS.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-persona",
+      "name": "Persona",
+      "url": "https://github.com/Cap-go/capacitor-persona",
+      "description": "Launch Persona inquiry flows on iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-social-login",
+      "name": "Social Login",
+      "url": "https://github.com/Cap-go/capacitor-social-login",
+      "description": "All social logins in one plugin.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-passkey",
+      "name": "Passkey",
+      "url": "https://github.com/Cap-go/capacitor-passkey",
+      "description": "WebAuthn-compatible passkey shim for native apps.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-recaptcha",
+      "name": "reCAPTCHA",
+      "url": "https://github.com/Cap-go/capacitor-recaptcha",
+      "description": "Generate reCAPTCHA and reCAPTCHA Enterprise tokens.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-ssl-pinning",
+      "name": "SSL Pinning",
+      "url": "https://github.com/Cap-go/capacitor-ssl-pinning",
+      "description": "Pin HTTPS certificates through CapacitorHttp on Android and iOS.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-verisoul",
+      "name": "Verisoul",
+      "url": "https://github.com/Cap-go/capacitor-verisoul",
+      "description": "Fraud prevention sessions for Capacitor apps.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-autofill-save-password",
+      "name": "Autofill Save Password",
+      "url": "https://github.com/Cap-go/capacitor-autofill-save-password",
+      "description": "Prompt to save login into device password manager.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-persistent-account",
+      "name": "Persistent Account",
+      "url": "https://github.com/Cap-go/capacitor-persistent-account",
+      "description": "Securely store account information for a user.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-is-root",
+      "name": "Is Root",
+      "url": "https://github.com/Cap-go/capacitor-is-root",
+      "description": "Jailbreak/Root Detection Plugin.",
+      "section": [
+        "Capgo plugins",
+        "Authentication & Security"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-inappbrowser",
+      "name": "In App Browser",
+      "url": "https://github.com/Cap-go/capacitor-inappbrowser",
+      "description": "Native in-app browser for secure web content.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-live-activities",
+      "name": "Live Activities",
+      "url": "https://github.com/Cap-go/capacitor-live-activities",
+      "description": "Manage iOS Live Activities from Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-navigation-bar",
+      "name": "Navigation Bar",
+      "url": "https://github.com/Cap-go/capacitor-navigation-bar",
+      "description": "Set navigation bar color for Android Lollipop and higher.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-native-navigation",
+      "name": "Native Navigation",
+      "url": "https://github.com/Cap-go/capacitor-native-navigation",
+      "description": "Native navbar, tabbar, safe-area handling, and WebView transitions.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-home-indicator",
+      "name": "Home Indicator",
+      "url": "https://github.com/Cap-go/capacitor-home-indicator",
+      "description": "Hide and show home button indicator in Capacitor app.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-screen-orientation",
+      "name": "Screen Orientation",
+      "url": "https://github.com/Cap-go/capacitor-screen-orientation",
+      "description": "Control device orientation with support for bypassing orientation lock.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-flash",
+      "name": "Flash",
+      "url": "https://github.com/Cap-go/capacitor-flash",
+      "description": "Switch the Flashlight / Torch of your device.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-keep-awake",
+      "name": "Keep Awake",
+      "url": "https://github.com/Cap-go/capacitor-keep-awake",
+      "description": "Prevent the device screen from dimming or sleeping.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-textinteraction",
+      "name": "Text Interaction",
+      "url": "https://github.com/Cap-go/capacitor-textinteraction",
+      "description": "Toggle text interaction in Capacitor based iOS apps.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-transitions",
+      "name": "Transitions",
+      "url": "https://github.com/Cap-go/capacitor-transitions",
+      "description": "Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-native-loader",
+      "name": "Native Loader",
+      "url": "https://github.com/Cap-go/capacitor-native-loader",
+      "description": "Native animated loaders, transparent overlays, Lottie assets, and WebView resizing.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-pretty-toast",
+      "name": "Pretty Toast",
+      "url": "https://github.com/Cap-go/capacitor-pretty-toast",
+      "description": "Native-first toast notifications for Capacitor and the web.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-privacy-screen",
+      "name": "Privacy Screen",
+      "url": "https://github.com/Cap-go/capacitor-privacy-screen",
+      "description": "Hide app content in screenshots and app switcher previews.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-date-picker",
+      "name": "Date Picker",
+      "url": "https://github.com/Cap-go/capacitor-date-picker",
+      "description": "Native date, time, date-time, year-month, and range pickers.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-printer",
+      "name": "Printer",
+      "url": "https://github.com/Cap-go/capacitor-printer",
+      "description": "Print documents, HTML, PDFs, images and web views.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-pdf-generator",
+      "name": "PDF Generator",
+      "url": "https://github.com/Cap-go/capacitor-pdf-generator",
+      "description": "Generate PDF files from HTML strings or URLs.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-sheets",
+      "name": "Sheets",
+      "url": "https://github.com/Cap-go/capacitor-sheets",
+      "description": "Framework-agnostic sheets, drawers, dialogs, and overlay primitives.",
+      "section": [
+        "Capgo plugins",
+        "UI & Display"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-native-purchases",
+      "name": "Native Purchases",
+      "url": "https://github.com/Cap-go/capacitor-native-purchases",
+      "description": "In-app Subscriptions Made Easy.",
+      "section": [
+        "Capgo plugins",
+        "Purchases & Payments"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-pay",
+      "name": "Pay",
+      "url": "https://github.com/Cap-go/capacitor-pay",
+      "description": "Trigger native payment for iOS (Apple Pay) and Android (Google Pay).",
+      "section": [
+        "Capgo plugins",
+        "Purchases & Payments"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-stripe-identity",
+      "name": "Stripe Identity",
+      "url": "https://github.com/Cap-go/capacitor-stripe-identity",
+      "description": "Verify identities with Stripe Identity.",
+      "section": [
+        "Capgo plugins",
+        "Purchases & Payments"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-stripe-pay",
+      "name": "Stripe Pay",
+      "url": "https://github.com/Cap-go/capacitor-stripe-pay",
+      "description": "Payment Sheet, Apple Pay, and Google Pay for Stripe.",
+      "section": [
+        "Capgo plugins",
+        "Purchases & Payments"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-stripe-terminal",
+      "name": "Stripe Terminal",
+      "url": "https://github.com/Cap-go/capacitor-stripe-terminal",
+      "description": "In-person Stripe Terminal payments.",
+      "section": [
+        "Capgo plugins",
+        "Purchases & Payments"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-crisp",
+      "name": "Crisp",
+      "url": "https://github.com/Cap-go/capacitor-crisp",
+      "description": "Native SDK for customer messaging and chat support.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-incoming-call-kit",
+      "name": "Incoming Call Kit",
+      "url": "https://github.com/Cap-go/capacitor-incoming-call-kit",
+      "description": "Native incoming call UI with Android full-screen notifications and iOS CallKit.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-intercom",
+      "name": "Intercom",
+      "url": "https://github.com/Cap-go/capacitor-intercom",
+      "description": "Customer messaging SDK integration for Capacitor apps.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-nfc",
+      "name": "NFC",
+      "url": "https://github.com/Cap-go/capacitor-nfc",
+      "description": "Native NFC tag discovery, reading and writing for iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-bluetooth-low-energy",
+      "name": "Bluetooth Low Energy",
+      "url": "https://github.com/Cap-go/capacitor-bluetooth-low-energy",
+      "description": "BLE plugin with support for scanning, connecting, reading, writing, and notifications.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-mqtt",
+      "name": "MQTT",
+      "url": "https://github.com/Cap-go/capacitor-mqtt",
+      "description": "Connect to MQTT brokers on Android and iOS.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-wifi",
+      "name": "WiFi",
+      "url": "https://github.com/Cap-go/capacitor-wifi",
+      "description": "Manage WiFi connectivity for your Capacitor app.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-ibeacon",
+      "name": "iBeacon",
+      "url": "https://github.com/Cap-go/capacitor-ibeacon",
+      "description": "Proximity detection and beacon region monitoring.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-speech-recognition",
+      "name": "Speech Recognition",
+      "url": "https://github.com/Cap-go/capacitor-speech-recognition",
+      "description": "Comprehensive on-device speech recognition with live partial results.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-speech-synthesis",
+      "name": "Speech Synthesis",
+      "url": "https://github.com/Cap-go/capacitor-speech-synthesis",
+      "description": "Synthesize speech from text with full control over language, voice, pitch, rate, and volume.",
+      "section": [
+        "Capgo plugins",
+        "Communication & Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-streamcall",
+      "name": "Stream Call",
+      "url": "https://github.com/Cap-go/capacitor-streamcall",
+      "description": "Uses the getstream.io SDK to implement calling in Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Video Calling & Real-time"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-realtimekit",
+      "name": "RealtimeKit",
+      "url": "https://github.com/Cap-go/capacitor-realtimekit",
+      "description": "Cloudflare Calls integration for Capacitor apps with built-in UI for meetings.",
+      "section": [
+        "Capgo plugins",
+        "Video Calling & Real-time"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-twilio-voice",
+      "name": "Twilio Voice",
+      "url": "https://github.com/Cap-go/capacitor-twilio-voice",
+      "description": "Integrates the Twilio Voice SDK into Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Video Calling & Real-time"
+      ]
+    },
+    {
+      "key": "https://capgo.app/plugins/capacitor-twilio-video",
+      "name": "Twilio Video",
+      "url": "https://capgo.app/plugins/capacitor-twilio-video/",
+      "description": "Join Twilio Video rooms with native audio, camera, and room lifecycle events.",
+      "section": [
+        "Capgo plugins",
+        "Video Calling & Real-time"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-admob",
+      "name": "AdMob",
+      "url": "https://github.com/Cap-go/capacitor-admob",
+      "description": "Bridge AdMob SDKs for iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-appsflyer",
+      "name": "AppsFlyer",
+      "url": "https://github.com/Cap-go/capacitor-appsflyer",
+      "description": "Attribution, analytics, and deep links for AppsFlyer.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-gtm",
+      "name": "GTM",
+      "url": "https://github.com/Cap-go/capacitor-gtm",
+      "description": "Google Tag Manager plugin for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-appinsights",
+      "name": "App Insights",
+      "url": "https://github.com/Cap-go/capacitor-appinsights",
+      "description": "A wrapper around the Apptopia App Insights SDK.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-contentsquare",
+      "name": "Contentsquare",
+      "url": "https://github.com/Cap-go/capacitor-contentsquare",
+      "description": "Mobile analytics SDK integration for Capacitor apps.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-facebook-analytics",
+      "name": "Facebook Analytics",
+      "url": "https://github.com/Cap-go/capacitor-facebook-analytics",
+      "description": "Meta/Facebook App Events analytics for Capacitor apps.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-install-referrer",
+      "name": "Install Referrer",
+      "url": "https://github.com/Cap-go/capacitor-install-referrer",
+      "description": "Attribution via Google Play Install Referrer and Apple AdServices.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-rudderstack",
+      "name": "RudderStack",
+      "url": "https://github.com/Cap-go/capacitor-rudderstack",
+      "description": "Analytics, identity, and event tracking for RudderStack.",
+      "section": [
+        "Capgo plugins",
+        "Analytics & Tracking"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-contacts",
+      "name": "Contacts",
+      "url": "https://github.com/Cap-go/capacitor-contacts",
+      "description": "Work with device contacts using Capacitor APIs.",
+      "section": [
+        "Capgo plugins",
+        "Contacts & Health"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-calendar",
+      "name": "Calendar",
+      "url": "https://github.com/Cap-go/capacitor-calendar",
+      "description": "Manage calendar events on iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Contacts & Health"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-health",
+      "name": "Health",
+      "url": "https://github.com/Cap-go/capacitor-health",
+      "description": "Interact with data from Apple HealthKit and Health Connect.",
+      "section": [
+        "Capgo plugins",
+        "Contacts & Health"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-native-market",
+      "name": "Native Market",
+      "url": "https://github.com/Cap-go/capacitor-native-market",
+      "description": "A native market plugin for linking to Google Play or App Store.",
+      "section": [
+        "Capgo plugins",
+        "App Store & Market"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-in-app-review",
+      "name": "In App Review",
+      "url": "https://github.com/Cap-go/capacitor-in-app-review",
+      "description": "Prompt users to submit app store ratings and reviews without leaving your app.",
+      "section": [
+        "Capgo plugins",
+        "App Store & Market"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-android-usagestatsmanager",
+      "name": "Usage Stats Manager",
+      "url": "https://github.com/Cap-go/capacitor-android-usagestatsmanager",
+      "description": "Exposes the Android's UsageStatsManager SDK.",
+      "section": [
+        "Capgo plugins",
+        "Android Specific"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-android-age-signals",
+      "name": "Android Age Signals",
+      "url": "https://github.com/Cap-go/capacitor-android-age-signals",
+      "description": "Exposes Google Play Age Signals to your app.",
+      "section": [
+        "Capgo plugins",
+        "Android Specific"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-android-inline-install",
+      "name": "Android Inline Install",
+      "url": "https://github.com/Cap-go/capacitor-android-inline-install",
+      "description": "Trigger Android inline install feature.",
+      "section": [
+        "Capgo plugins",
+        "Android Specific"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-android-kiosk",
+      "name": "Android Kiosk",
+      "url": "https://github.com/Cap-go/capacitor-android-kiosk",
+      "description": "Lock device into kiosk mode with launcher functionality.",
+      "section": [
+        "Capgo plugins",
+        "Android Specific"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-android-sms-retriever",
+      "name": "Android SMS Retriever",
+      "url": "https://github.com/Cap-go/capacitor-android-sms-retriever",
+      "description": "SMS Retriever and Phone Number Hint APIs on Android.",
+      "section": [
+        "Capgo plugins",
+        "Android Specific"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-intent-launcher",
+      "name": "Intent Launcher",
+      "url": "https://github.com/Cap-go/capacitor-intent-launcher",
+      "description": "Launch Android intents and open system settings screens on Android and iOS.",
+      "section": [
+        "Capgo plugins",
+        "Android Specific"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-supabase",
+      "name": "Supabase",
+      "url": "https://github.com/Cap-go/capacitor-supabase",
+      "description": "Native Supabase SDK integration - Auth, Database, and JWT access.",
+      "section": [
+        "Capgo plugins",
+        "Platform Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-auto",
+      "name": "Auto",
+      "url": "https://github.com/Cap-go/capacitor-auto",
+      "description": "CarPlay and Android Auto communication.",
+      "section": [
+        "Capgo plugins",
+        "Platform Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-intune",
+      "name": "Intune",
+      "url": "https://github.com/Cap-go/capacitor-intune",
+      "description": "Microsoft Intune MAM enrollment, app protection policies, app config, and MSAL authentication.",
+      "section": [
+        "Capgo plugins",
+        "Platform Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-wechat",
+      "name": "WeChat",
+      "url": "https://github.com/Cap-go/capacitor-wechat",
+      "description": "SDK for authentication, sharing, payments, and mini-programs.",
+      "section": [
+        "Capgo plugins",
+        "Platform Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-watch",
+      "name": "Watch",
+      "url": "https://github.com/Cap-go/capacitor-watch",
+      "description": "Apple Watch communication with bidirectional messaging support.",
+      "section": [
+        "Capgo plugins",
+        "Platform Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-share-target",
+      "name": "Share Target",
+      "url": "https://github.com/Cap-go/capacitor-share-target",
+      "description": "Receive shared content from other apps.",
+      "section": [
+        "Capgo plugins",
+        "Platform Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-widget-kit",
+      "name": "Widget Kit",
+      "url": "https://github.com/Cap-go/capacitor-widget-kit",
+      "description": "Build iOS widgets, Live Activities, and shared App Group integrations.",
+      "section": [
+        "Capgo plugins",
+        "Platform Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md",
+      "name": "Analytics",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md",
+      "description": "Firebase Analytics for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md",
+      "name": "App",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md",
+      "description": "Firebase App for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md",
+      "name": "App Check",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md",
+      "description": "Firebase App Check for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md",
+      "name": "Authentication",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md",
+      "description": "Firebase Authentication for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md",
+      "name": "Crashlytics",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md",
+      "description": "Firebase Crashlytics for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md",
+      "name": "Firestore",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md",
+      "description": "Firebase Cloud Firestore for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/functions/README.md",
+      "name": "Functions",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/functions/README.md",
+      "description": "Firebase Cloud Functions for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/messaging/README.md",
+      "name": "Messaging",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/messaging/README.md",
+      "description": "Firebase Cloud Messaging (FCM) for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/performance/README.md",
+      "name": "Performance",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/performance/README.md",
+      "description": "Firebase Performance Monitoring for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/remote-config/README.md",
+      "name": "Remote Config",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/remote-config/README.md",
+      "description": "Firebase Remote Config for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/storage/README.md",
+      "name": "Storage",
+      "url": "https://github.com/Cap-go/capacitor-firebase/blob/main/packages/storage/README.md",
+      "description": "Firebase Cloud Storage for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Firebase"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-alarm",
+      "name": "Alarm",
+      "url": "https://github.com/Cap-go/capacitor-alarm",
+      "description": "Manage native alarms.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-background-task",
+      "name": "Background Task",
+      "url": "https://github.com/Cap-go/capacitor-background-task",
+      "description": "Periodic background fetch tasks on iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-env",
+      "name": "Env",
+      "url": "https://github.com/Cap-go/capacitor-env",
+      "description": "Set Env var in Capacitor config and read them at runtime.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-network-diagnostics",
+      "name": "Network Diagnostics",
+      "url": "https://github.com/Cap-go/capacitor-network-diagnostics",
+      "description": "Run native network diagnostics from Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-webview-crash",
+      "name": "WebView Crash",
+      "url": "https://github.com/Cap-go/capacitor-webview-crash",
+      "description": "Detect recovered WebView crashes.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-webview-guardian",
+      "name": "WebView Guardian",
+      "url": "https://github.com/Cap-go/capacitor-webview-guardian",
+      "description": "Detect when the WebView was killed in the background and relaunch it on foreground.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-webview-version-checker",
+      "name": "WebView Version Checker",
+      "url": "https://github.com/Cap-go/capacitor-webview-version-checker",
+      "description": "Check Android WebView version and prompt users to update when needed.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-llm",
+      "name": "LLM",
+      "url": "https://github.com/Cap-go/capacitor-llm",
+      "description": "Adds support for LLM locally run for Capacitor.",
+      "section": [
+        "Capgo plugins",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-ricoh360-camera-plugin",
+      "name": "Ricoh360 Camera",
+      "url": "https://github.com/Cap-go/capacitor-ricoh360-camera-plugin",
+      "description": "SDK for the Ricoh360 cameras.",
+      "section": [
+        "Capgo plugins",
+        "Specialized Hardware"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-uwb",
+      "name": "UWB",
+      "url": "https://github.com/Cap-go/capacitor-uwb",
+      "description": "Ultra-Wideband ranging on iOS and Android.",
+      "section": [
+        "Capgo plugins",
+        "Specialized Hardware"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/capacitor-zebra-datawedge",
+      "name": "Zebra DataWedge",
+      "url": "https://github.com/Cap-go/capacitor-zebra-datawedge",
+      "description": "Manage Zebra DataWedge profiles, notifications, queries, and soft scanning.",
+      "section": [
+        "Capgo plugins",
+        "Specialized Hardware"
+      ]
+    },
+    {
+      "key": "https://github.com/transistorsoft/capacitor-background-geolocation",
+      "name": "Background Geolocation",
+      "url": "https://github.com/transistorsoft/capacitor-background-geolocation",
+      "description": "The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.",
+      "section": [
+        "Transistor Software plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/transistorsoft/capacitor-background-fetch",
+      "name": "Background Fetch",
+      "url": "https://github.com/transistorsoft/capacitor-background-fetch",
+      "description": "Periodic callbacks in the background for both iOS and Android.",
+      "section": [
+        "Transistor Software plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/transistorsoft/capacitor-background-geolocation-firebase",
+      "name": "Background Geolocation Firebase",
+      "url": "https://github.com/transistorsoft/capacitor-background-geolocation-firebase",
+      "description": "Firebase adapter for Capacitor Background Geolocation.",
+      "section": [
+        "Transistor Software plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/aparajita/capacitor-biometric-auth",
+      "name": "Biometric Auth",
+      "url": "https://github.com/aparajita/capacitor-biometric-auth",
+      "description": "Easy access to native biometric auth APIs on iOS and Android.",
+      "section": [
+        "Aparajita plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/aparajita/capacitor-dark-mode",
+      "name": "Dark Mode",
+      "url": "https://github.com/aparajita/capacitor-dark-mode",
+      "description": "Universal, reliable dark mode support on the web, iOS and Android.",
+      "section": [
+        "Aparajita plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/aparajita/capacitor-logger",
+      "name": "Logger",
+      "url": "https://github.com/aparajita/capacitor-logger",
+      "description": "Better logging for the web and native Ionic/Capacitor apps.",
+      "section": [
+        "Aparajita plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/aparajita/capacitor-secure-storage",
+      "name": "Secure Storage",
+      "url": "https://github.com/aparajita/capacitor-secure-storage",
+      "description": "Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.",
+      "section": [
+        "Aparajita plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/aparajita/capacitor-ios-silent-notifications",
+      "name": "Silent Notifications",
+      "url": "https://github.com/aparajita/capacitor-ios-silent-notifications",
+      "description": "Silent (remote) notification support on iOS.",
+      "section": [
+        "Aparajita plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/fresha/capacitor-plugin-applepay",
+      "name": "Apple Pay",
+      "url": "https://github.com/fresha/capacitor-plugin-applepay",
+      "description": "Get Apple Pay payments in your app.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency",
+      "name": "App Tracking Transparency",
+      "url": "https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency",
+      "description": "Request user authorization to access app-related data for tracking the user or the device. iOS only.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/rdlabo-team/capacitor-brotherprint",
+      "name": "Brother Print",
+      "url": "https://github.com/rdlabo-team/capacitor-brotherprint",
+      "description": "A native Brother Print SDK implementation for iOS & Android.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/epicshaggy/capacitor-native-biometric",
+      "name": "Biometric",
+      "url": "https://github.com/epicshaggy/capacitor-native-biometric",
+      "description": "Use biometrics confirm device owner presence or authenticate users.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/xulihang/capacitor-plugin-camera",
+      "name": "capacitor-plugin-camera",
+      "url": "https://github.com/xulihang/capacitor-plugin-camera",
+      "description": "A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/micahlt/ionicCapacitorDarkMode",
+      "name": "Dark mode",
+      "url": "https://github.com/micahlt/ionicCapacitorDarkMode",
+      "description": "Monitor the changes made to system's dark mode.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jepiqueau/capacitor-data-storage-sqlite",
+      "name": "Data Storage SQLite",
+      "url": "https://github.com/jepiqueau/capacitor-data-storage-sqlite",
+      "description": "Providing a key-value permanent store for simple data of type string only to SQLite on iOS, Android and Electron platforms and to IndexedDB for the Web platform.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/websitebeaver/capacitor-document-scanner",
+      "name": "Document Scanner",
+      "url": "https://github.com/websitebeaver/capacitor-document-scanner",
+      "description": "Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader",
+      "name": "Barcode Reader",
+      "url": "https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader",
+      "description": "Scan barcodes and QR codes using Dynamsoft Barcode Reader.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tony-xlh/capacitor-plugin-camera-preview",
+      "name": "Camera Preview",
+      "url": "https://github.com/tony-xlh/capacitor-plugin-camera-preview",
+      "description": "Access camera using Dynamsoft Camera Enhancer.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer",
+      "name": "Document Normalizer",
+      "url": "https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer",
+      "description": "Scan documents using Dynamsoft Document Normalizer.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer",
+      "name": "Label Recognizer",
+      "url": "https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer",
+      "description": "Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/RevenueCat/purchases-capacitor",
+      "name": "Purchases",
+      "url": "https://github.com/RevenueCat/purchases-capacitor",
+      "description": "Capacitor in-app purchases and subscriptions made easy with RevenueCat.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/EinfachHans/capacitor-email-composer",
+      "name": "Email composer",
+      "url": "https://github.com/EinfachHans/capacitor-email-composer",
+      "description": "Open a native E-Mail Composer within your Capacitor App.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/SpellChucker/capacitor-plugin-facebook-analytics",
+      "name": "Facebook Analytics",
+      "url": "https://github.com/SpellChucker/capacitor-plugin-facebook-analytics",
+      "description": "Analytics integration for tracking app usage and events.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mattmilan-dev/capacitor-firebase-appcheck",
+      "name": "AppCheck",
+      "url": "https://github.com/mattmilan-dev/capacitor-firebase-appcheck",
+      "description": "Allows usage of native AppCheck tokens.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links",
+      "name": "Dynamic Links",
+      "url": "https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links",
+      "description": "Firebase Dynamic Links.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/EinfachHans/capacitor-firebase-push",
+      "name": "Push",
+      "url": "https://github.com/EinfachHans/capacitor-firebase-push",
+      "description": "This Plugin it used for Firebase Push Messages. It support Data.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/hinddeep/capacitor-file-selector",
+      "name": "File selector",
+      "url": "https://github.com/hinddeep/capacitor-file-selector",
+      "description": "Select files form Android/iOS devices and the web.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/CodetrixStudio/CapacitorGoogleAuth",
+      "name": "Auth",
+      "url": "https://github.com/CodetrixStudio/CapacitorGoogleAuth",
+      "description": "Google auth plugin for Capacitor.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/cartona/capacitor-google-play-availability",
+      "name": "Availability",
+      "url": "https://github.com/cartona/capacitor-google-play-availability",
+      "description": "Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Ad-Scientiam/capacitor-google-fit",
+      "name": "Fit",
+      "url": "https://github.com/Ad-Scientiam/capacitor-google-fit",
+      "description": "Retrieve data from Google Fit.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/hemangsk/capacitor-mlkit-language",
+      "name": "MlKit Language",
+      "url": "https://github.com/hemangsk/capacitor-mlkit-language",
+      "description": "Identify the language of a string of text.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/trancee/capacitor-google-mlkit-vision",
+      "name": "MlKit Vision",
+      "url": "https://github.com/trancee/capacitor-google-mlkit-vision/",
+      "description": "Detect faces in an image, identify key facial features, and get the contours of detected faces.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Ad-Scientiam/capacitor-healthkit",
+      "name": "Healthkit",
+      "url": "https://github.com/Ad-Scientiam/capacitor-healthkit",
+      "description": "Retrieve data from HealthKit.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/calvinckho/capacitor-jitsi-meet",
+      "name": "Jitsi",
+      "url": "https://github.com/calvinckho/capacitor-jitsi-meet",
+      "description": "Make video calls through the free, open-sourced Jitsi video platform.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Elvincth/capacitor-plugin-lightsensor",
+      "name": "Lightsensor",
+      "url": "https://github.com/Elvincth/capacitor-plugin-lightsensor",
+      "description": "Get the illuminance level on the device.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/smartcompanion-app/native-audio-player",
+      "name": "Native Audio Player",
+      "url": "https://github.com/smartcompanion-app/native-audio-player",
+      "description": "Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/RaphaelWoude/capacitor-native-settings",
+      "name": "Native settings",
+      "url": "https://github.com/RaphaelWoude/capacitor-native-settings",
+      "description": "Open native settings screens.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/NativeScript/capacitor",
+      "name": "NativeScript Capacitor",
+      "url": "https://github.com/NativeScript/capacitor",
+      "description": "Empower Capacitor with native APIs.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/EddyVerbruggen/nativescript-ar",
+      "name": "Augmented Reality",
+      "url": "https://github.com/EddyVerbruggen/nativescript-ar",
+      "description": "Add AR experiences.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/hugotomazi/navigation-bar",
+      "name": "Navigation bar",
+      "url": "https://github.com/hugotomazi/navigation-bar",
+      "description": "Manipulation and control of the navigation bar visibility.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/moberwasserlechner/capacitor-oauth2",
+      "name": "Oauth2",
+      "url": "https://github.com/moberwasserlechner/capacitor-oauth2",
+      "description": "Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/phiamo/capacitor-plugin-playlist",
+      "name": "Playlist",
+      "url": "https://github.com/phiamo/capacitor-plugin-playlist",
+      "description": "Native support for audio playlists, background support, and lock screen controls.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jimcase/capacitor-pq-secure-storage",
+      "name": "PQ Secure Storage",
+      "url": "https://github.com/jimcase/capacitor-pq-secure-storage",
+      "description": "Post-quantum signing (ML-DSA) and key encapsulation (ML-KEM) with keys held in the iOS Secure Enclave and the Android Keystore, plus biometric-gated secure storage.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/leoruhland/capacitor-print",
+      "name": "Print",
+      "url": "https://github.com/leoruhland/capacitor-print",
+      "description": "Send WebView content to connected printers.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Nodonisko/capacitor-rate-app",
+      "name": "Rate app",
+      "url": "https://github.com/Nodonisko/capacitor-rate-app",
+      "description": "Let users rate your app using native rate app dialog for both Android and iOS.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Ayush-Rajniwal/cap-read-sms",
+      "name": "Read sms",
+      "url": "https://github.com/Ayush-Rajniwal/cap-read-sms",
+      "description": "Read the user's SMS with their permission.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/AlwaysLoveme/capacitor-plugin-safe-area",
+      "name": "Safe Area",
+      "url": "https://github.com/AlwaysLoveme/capacitor-plugin-safe-area",
+      "description": "Get SafeArea info on Android and IOS.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ludufre/capacitor-screenshot",
+      "name": "Screenshot",
+      "url": "https://github.com/ludufre/capacitor-screenshot",
+      "description": "Take a screenshot of the current view.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tavosansal/capacitor-plugin-send-intent",
+      "name": "Send intent",
+      "url": "https://github.com/tavosansal/capacitor-plugin-send-intent",
+      "description": "Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/getsentry/sentry-capacitor",
+      "name": "Sentry",
+      "url": "https://github.com/getsentry/sentry-capacitor",
+      "description": "Add Sentry error tracking and performance monitoring for Capacitor apps.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/vault12/capacitor-shamir",
+      "name": "Shamir",
+      "url": "https://github.com/vault12/capacitor-shamir",
+      "description": "Shamir's Secret Sharing cryptographic algorithm.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/eventOneHQ/capacitor-stripe-terminal",
+      "name": "Stripe terminal",
+      "url": "https://github.com/eventOneHQ/capacitor-stripe-terminal",
+      "description": "Terminal plugin for in-person payment processing.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/crabbydavis/sprig",
+      "name": "Sprig",
+      "url": "https://github.com/crabbydavis/sprig",
+      "description": "All-in-one product research platform.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jbrown0824/capacitor-square-payments",
+      "name": "Square Payments",
+      "url": "https://github.com/jbrown0824/capacitor-square-payments",
+      "description": "Enable Square Payments for Capacitor.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/rbedemann/capacitor-sumup-plugin",
+      "name": "Sumup",
+      "url": "https://github.com/rbedemann/capacitor-sumup-plugin",
+      "description": "Mobile SDK for card payment processing.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/brugsel/capacitor-udp",
+      "name": "UDP",
+      "url": "https://github.com/brugsel/capacitor-udp",
+      "description": "Support both IPv6 and IPv4, multicast and broadcast.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jepiqueau/capacitor-video-player",
+      "name": "Video player",
+      "url": "https://github.com/jepiqueau/capacitor-video-player",
+      "description": "Play a video full-screen on iOS, Android, Web and Electron platforms.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/kmasterycsl/capacitor-zalo-login",
+      "name": "Zalo login",
+      "url": "https://github.com/kmasterycsl/capacitor-zalo-login",
+      "description": "Authentication plugin for Vietnamese social network.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/diiiary/capacitor-plugin-photo-library",
+      "name": "Photo library",
+      "url": "https://github.com/diiiary/capacitor-plugin-photo-library",
+      "description": "Get all the images from system album.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/OrdinarySF/capacitor-websocket-client",
+      "name": "WebSocket Client",
+      "url": "https://github.com/OrdinarySF/capacitor-websocket-client",
+      "description": "Native client for real-time bidirectional communication.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/sabereen/capacitor-bing-translator",
+      "name": "Bing Translator",
+      "url": "https://github.com/sabereen/capacitor-bing-translator",
+      "description": "A simple and free API for using Bing Translator.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ebarooni/capacitor-calendar",
+      "name": "Capacitor Calendar",
+      "url": "https://github.com/ebarooni/capacitor-calendar",
+      "description": "A plugin for interacting with calendar and reminders.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tchvu3/capacitor-voice-recorder",
+      "name": "Capacitor voice recorder",
+      "url": "https://github.com/tchvu3/capacitor-voice-recorder",
+      "description": "A plugin for simple voice recording.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ludufre/capacitor-app-attest",
+      "name": "capacitor-app-attest",
+      "url": "https://github.com/ludufre/capacitor-app-attest",
+      "description": "Apple Attest with Ionic Capacitor.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/isaforge/capacitor-thermal-state",
+      "name": "capacitor-thermal-state",
+      "url": "https://github.com/isaforge/capacitor-thermal-state",
+      "description": "Monitor device thermal state (overheating detection) on iOS and Android.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ludufre/capacitor-live-activities",
+      "name": "capacitor-live-activities",
+      "url": "https://github.com/ludufre/capacitor-live-activities",
+      "description": "Capacitor plugin to use Live Activities on iOS 16.2+.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ludufre/capacitor-lottie-splash-screen",
+      "name": "capacitor-lottie-splash-screen",
+      "url": "https://github.com/ludufre/capacitor-lottie-splash-screen",
+      "description": "Capacitor plugin to use Lottie animations as splash screen.",
+      "section": [
+        "Other plugins"
+      ]
+    },
+    {
+      "key": "https://npmjs.com/search?q=cordova-plugin capacitor",
+      "name": "NPM search",
+      "url": "https://www.npmjs.com/search?q=cordova-plugin+capacitor",
+      "description": "",
+      "section": [
+        "Cordova plugins",
+        "Compatible"
+      ]
+    },
+    {
+      "key": "https://github.com/akofman/cordova-plugin-add-swift-support",
+      "name": "cordova-plugin-add-swift-support",
+      "url": "https://github.com/akofman/cordova-plugin-add-swift-support",
+      "description": "(not needed, Capacitor has built in Swift support)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/floatinghotpot/cordova-admob-pro",
+      "name": "cordova-plugin-admobpro",
+      "url": "https://github.com/floatinghotpot/cordova-admob-pro",
+      "description": "(see details)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/Taracque/cordova-plugin-braintree",
+      "name": "cordova-plugin-braintree",
+      "url": "https://github.com/Taracque/cordova-plugin-braintree",
+      "description": "(see details)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/microsoft/code-push",
+      "name": "cordova-plugin-code-push",
+      "url": "https://github.com/microsoft/code-push",
+      "description": "(see details)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/cordova-plugin-compat",
+      "name": "cordova-plugin-compat",
+      "url": "https://github.com/apache/cordova-plugin-compat",
+      "description": "(not needed)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/cordova-plugin-console",
+      "name": "cordova-plugin-console",
+      "url": "https://github.com/apache/cordova-plugin-console",
+      "description": "(not needed, Capacitor has its own)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview",
+      "name": "cordova-plugin-crosswalk-webview",
+      "url": "https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview",
+      "description": "(Capacitor doesn't allow to change the webview)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/fechanique/cordova-plugin-fcm",
+      "name": "cordova-plugin-fcm",
+      "url": "https://github.com/fechanique/cordova-plugin-fcm",
+      "description": "(see details)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/arnesson/cordova-plugin-firebase",
+      "name": "cordova-plugin-firebase",
+      "url": "https://github.com/arnesson/cordova-plugin-firebase",
+      "description": "(see details)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/cordova-plugin-ionic-keyboard",
+      "name": "cordova-plugin-ionic-keyboard",
+      "url": "https://github.com/ionic-team/cordova-plugin-ionic-keyboard",
+      "description": "(not needed, Capacitor has it's own)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/cordova-plugin-ionic-webview",
+      "name": "cordova-plugin-ionic-webview",
+      "url": "https://github.com/ionic-team/cordova-plugin-ionic-webview",
+      "description": "(not needed, Capacitor uses WKWebView)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/homerours/cordova-music-controls-plugin",
+      "name": "cordova-plugin-music-controls",
+      "url": "https://github.com/homerours/cordova-music-controls-plugin",
+      "description": "(causes build failures, skipped)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/bitpay/cordova-plugin-qrscanner",
+      "name": "cordova-plugin-qrscanner",
+      "url": "https://github.com/bitpay/cordova-plugin-qrscanner",
+      "description": "(see details)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/cordova-plugin-splashscreen",
+      "name": "cordova-plugin-splashscreen",
+      "url": "https://github.com/apache/cordova-plugin-splashscreen",
+      "description": "(not needed, Capacitor has its own)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/cordova-plugin-statusbar",
+      "name": "cordova-plugin-statusbar",
+      "url": "https://github.com/apache/cordova-plugin-statusbar",
+      "description": "(not needed, Capacitor has its own)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/cordova-plugin-wkwebview-engine",
+      "name": "cordova-plugin-wkwebview-engine",
+      "url": "https://github.com/apache/cordova-plugin-wkwebview-engine",
+      "description": "(not needed, Capacitor uses WKWebView)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/mapsplugin/cordova-plugin-googlemaps",
+      "name": "cordova-plugin-googlemaps",
+      "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps",
+      "description": "(causes build failures on iOS, skipped for iOS only)",
+      "section": [
+        "Cordova plugins",
+        "Incompatible"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-docgen",
+      "name": "Docgen",
+      "url": "https://github.com/ionic-team/capacitor-docgen",
+      "description": "Docs Readme Markdown and JSON Generator for Capacitor Plugins.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/create-capacitor-plugin",
+      "name": "Plugin generator",
+      "url": "https://github.com/ionic-team/create-capacitor-plugin",
+      "description": "Create a new Capacitor plugin.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-assets",
+      "name": "Assets",
+      "url": "https://github.com/ionic-team/capacitor-assets",
+      "description": "Local Capacitor icon/splash screen resource generation tool.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/tailwind-capacitor",
+      "name": "Tailwind Capacitor",
+      "url": "https://github.com/Cap-go/tailwind-capacitor",
+      "description": "Collection of helper plugin for Tailwind, it add safe area class and others utlitilies.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi",
+      "name": "Capacitor safe area simulator",
+      "url": "https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi",
+      "description": "Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/icarus-itcs/lazycap",
+      "name": "lazycap",
+      "url": "https://github.com/icarus-itcs/lazycap",
+      "description": "Terminal dashboard for Capacitor development with device management, builds, live reload, debugging, and AI assistant integration via MCP.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://capgo.app/skills",
+      "name": "Capgo Skills",
+      "url": "https://capgo.app/skills/",
+      "description": "Check your Capacitor app compatibility and skills.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://capgo.app/security-scanner",
+      "name": "Capgo Security Scanner",
+      "url": "https://capgo.app/security-scanner/",
+      "description": "Scan your Capacitor app for security vulnerabilities.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://capgo.app/semver_tester",
+      "name": "Capgo Semver Tester",
+      "url": "https://capgo.app/semver_tester/",
+      "description": "Test semantic versioning compatibility for your app.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/AdrienADV/capstart",
+      "name": "Capstart",
+      "url": "https://github.com/AdrienADV/capstart",
+      "description": "CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://aasa-tester.capgo.app",
+      "name": "AASA Tester",
+      "url": "https://aasa-tester.capgo.app",
+      "description": "Test Apple App Site Association (AASA) configuration.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/CLI",
+      "name": "CLI",
+      "url": "https://github.com/Cap-go/CLI",
+      "description": "Upload and manage live update bundles and native cloud builds.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/live-update-action",
+      "name": "Live Update Action",
+      "url": "https://github.com/Cap-go/live-update-action",
+      "description": "GitHub Action to deploy a live update.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/docker-capacitor",
+      "name": "Docker",
+      "url": "https://github.com/Cap-go/docker-capacitor",
+      "description": "Image for building native apps.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://capgo.app/native-build",
+      "name": "Native Builds",
+      "url": "https://capgo.app/native-build/",
+      "description": "Compile and sign iOS and Android binaries in the cloud.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://capgo.app/tools/android-keystore-generator",
+      "name": "Android Keystore Generator",
+      "url": "https://capgo.app/tools/android-keystore-generator/",
+      "description": "Generate Android keystores for app signing in the browser.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://capgo.app/tools/ios-certificate-generator",
+      "name": "iOS Certificate Generator",
+      "url": "https://capgo.app/tools/ios-certificate-generator/",
+      "description": "Generate iOS signing certificates in the browser.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://capgo.app/tools/ios-udid-finder",
+      "name": "iOS UDID Finder",
+      "url": "https://capgo.app/tools/ios-udid-finder/",
+      "description": "Find the UDID of an iPhone or iPad.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/vite-capacitor",
+      "name": "Vite plugin",
+      "url": "https://github.com/Cap-go/vite-capacitor",
+      "description": "Keep native platform configs in sync with the Vite dev server URL.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/n8n-nodes-capgo",
+      "name": "n8n nodes",
+      "url": "https://github.com/Cap-go/n8n-nodes-capgo",
+      "description": "Automate live updates and native builds from n8n workflows.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/standard-version-for-capacitor",
+      "name": "Standard Version",
+      "url": "https://github.com/Cap-go/standard-version-for-capacitor",
+      "description": "Automated versioning for apps.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/benoitlahoz/vue-capacitor-haptics",
+      "name": "vue-capacitor-haptics",
+      "url": "https://github.com/benoitlahoz/vue-capacitor-haptics",
+      "description": "A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.",
+      "section": [
+        "Helpers"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/blog/how-capacitor-works",
+      "name": "How Capacitor Works",
+      "url": "https://capacitorjs.com/blog/how-capacitor-works",
+      "description": "Capacitor takes a modern web app, and then packages it up to run on iOS, Android, and PWA.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/plugins/creating-plugins",
+      "name": "Creating Plugins",
+      "url": "https://capacitorjs.com/docs/plugins/creating-plugins",
+      "description": "This guide will help you get started creating a shareable Capacitor plugin which will be published on npm.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/guides/splash-screens-and-icons",
+      "name": "Creating Splash Screens and Icons",
+      "url": "https://capacitorjs.com/docs/guides/splash-screens-and-icons",
+      "description": "Use cordova-res to generate resource images for native projects.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/guides/deploying-updates",
+      "name": "App Deployment and Realtime Updates",
+      "url": "https://capacitorjs.com/docs/guides/deploying-updates",
+      "description": "Update your Capacitor app remotely through the app stores.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/guides/ci-cd",
+      "name": "CI/CD for Capacitor Apps",
+      "url": "https://capacitorjs.com/docs/guides/ci-cd",
+      "description": "Adding Mobile CI/CD to your Capacitor App development process.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/guides/storage",
+      "name": "Data Storage in Capacitor",
+      "url": "https://capacitorjs.com/docs/guides/storage",
+      "description": "Storing small to large amounts of data in Capacitor.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/guides/security",
+      "name": "Security Best Practices for Capacitor",
+      "url": "https://capacitorjs.com/docs/guides/security",
+      "description": "Security best practices for your Capacitor apps.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/guides/push-notifications-firebase",
+      "name": "Using Push Notifications with Firebase",
+      "url": "https://capacitorjs.com/docs/guides/push-notifications-firebase",
+      "description": "Learn how to get Firebase Cloud Messaging working on iOS and Android.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/core-apis/saving-calls",
+      "name": "Saving Plugin Calls",
+      "url": "https://capacitorjs.com/docs/core-apis/saving-calls",
+      "description": "How to save plugin calls in Capacitor.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/docs/guides/mocking-plugins",
+      "name": "Mocking Capacitor Plugins",
+      "url": "https://capacitorjs.com/docs/guides/mocking-plugins",
+      "description": "How to create mock objects for Capacitor plugins.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor",
+      "name": "Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor",
+      "url": "https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor",
+      "description": "A very popular stack for building responsive web apps is Tailwind CSS and Next.js by Vercel.",
+      "section": [
+        "Learning",
+        "Official guides"
+      ]
+    },
+    {
+      "key": "https://udemy.com/course/capacitor-crash-course",
+      "name": "Capacitor Crash Course",
+      "url": "https://www.udemy.com/course/capacitor-crash-course/",
+      "description": "Learn to use Capacitor with Ionic by Simon Grimm.",
+      "section": [
+        "Learning",
+        "Crash Courses"
+      ]
+    },
+    {
+      "key": "https://joshmorony.com/adding-icons-splash-screens-launch-images-to-capacitor-projects",
+      "name": "Adding Icons & Splash Screens to Capacitor",
+      "url": "https://www.joshmorony.com/adding-icons-splash-screens-launch-images-to-capacitor-projects/",
+      "description": "Generating the Icon and Splash Screen Asset.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=oXbRcpsytGQ",
+      "name": "Capacitor Workflow in an Ionic Application",
+      "url": "https://www.youtube.com/watch?v=oXbRcpsytGQ",
+      "description": "Cover the basic workflow when using Capacitor in an Ionic application.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor",
+      "name": "Creating a Local Plugin",
+      "url": "https://www.joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor/",
+      "description": "Running Custom Native iOS Code with Capacitor.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://joshmorony.com/publishing-a-custom-ios-capacitor-plugin-on-npm",
+      "name": "Publishing Capacitor Plugin on NPM",
+      "url": "https://www.joshmorony.com/publishing-a-custom-ios-capacitor-plugin-on-npm/",
+      "description": "Build and publish a standalone Capacitor plugin using the Capacitor CLI.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://joshmorony.com/is-an-ionic-application-native",
+      "name": "Do Capacitor applications are native ?",
+      "url": "https://www.joshmorony.com/is-an-ionic-application-native/",
+      "description": "Demonstrate why referring to Capacitor applications as \"not native\" is inaccurate and confusing terminology.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/appcenter-migration",
+      "name": "Appcenter migration",
+      "url": "https://capgo.app/blog/appcenter-migration",
+      "description": "Migrating from Microsoft App Center to Capgo in just a few simple steps.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater",
+      "name": "Update app seamlessly",
+      "url": "https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater",
+      "description": "Set up Capacitor-updater into your app to seamless releases update to your users.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/automatic-build-and-release-with-github-actions",
+      "name": "Automatic build and release",
+      "url": "https://capgo.app/blog/automatic-build-and-release-with-github-actions",
+      "description": "Create your own CI/CD pipeline with GitHub Actions for free, to deploy your app every time you push to main.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/ionic-capacitor-push-notifications-firebase",
+      "name": "The Push Notifications Guide",
+      "url": "https://capgo.app/blog/ionic-capacitor-push-notifications-firebase/",
+      "description": "Integrate push notifications with Firebase on iOS and Android.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/5-steps-to-implement-oauth2-in-capacitor-apps",
+      "name": "OAuth2 in 5 steps",
+      "url": "https://capgo.app/blog/5-steps-to-implement-oauth2-in-capacitor-apps/",
+      "description": "Implement OAuth 2.0 with PKCE across iOS, Android, and the web.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/capacitor-social-login-release",
+      "name": "Social Login",
+      "url": "https://capgo.app/blog/capacitor-social-login-release/",
+      "description": "Google, Apple, and Facebook sign-in with native flows.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/secure-token-storage-best-practices-for-mobile-developers",
+      "name": "Secure token storage",
+      "url": "https://capgo.app/blog/secure-token-storage-best-practices-for-mobile-developers/",
+      "description": "Store credentials and session tokens safely on device.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide",
+      "name": "CI/CD pipeline setup",
+      "url": "https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide/",
+      "description": "Automate build, test, and live update deployment.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide",
+      "name": "OTA updates in CI/CD",
+      "url": "https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide/",
+      "description": "Ship over-the-air updates from your pipeline.",
+      "section": [
+        "Learning",
+        "Community Tutorials"
+      ]
+    },
+    {
+      "key": "https://go.ionic.io/capacitor",
+      "name": "Building cross platform app with Capacitor",
+      "url": "https://go.ionic.io/capacitor",
+      "description": "A New Approach to Cross-Platform Development.",
+      "section": [
+        "Learning",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/articles/burger-king-design-system",
+      "name": "Burger King",
+      "url": "https://ionic.io/resources/articles/burger-king-design-system",
+      "description": "How Burger King Brought Their Design System to Mobile.",
+      "section": [
+        "Learning",
+        "Case study"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development",
+      "name": "Capacitor vs Cordova",
+      "url": "https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development",
+      "description": "This guide provides an overview of Capacitor and how it stacks up against Cordova.",
+      "section": [
+        "Learning",
+        "Case study"
+      ]
+    },
+    {
+      "key": "https://capacitorjs.com/blog/native-react-apps-without-react-native",
+      "name": "Native React Apps Without React Native",
+      "url": "https://capacitorjs.com/blog/native-react-apps-without-react-native",
+      "description": "React Native is not a web environment, so it's not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.",
+      "section": [
+        "Learning",
+        "Case study"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/transform-pwa-to-native-app-with-capacitor",
+      "name": "Transform a PWA into a native app",
+      "url": "https://capgo.app/blog/transform-pwa-to-native-app-with-capacitor/",
+      "description": "Package a Progressive Web App for iOS and Android.",
+      "section": [
+        "Convert a web app"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor",
+      "name": "Turn a web app into a mobile app",
+      "url": "https://capgo.app/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/",
+      "description": "What it takes to wrap a web app and pass store review.",
+      "section": [
+        "Convert a web app"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/transform-lovable-dev-app-to-mobile-with-capacitor",
+      "name": "Convert a Lovable app to iOS and Android",
+      "url": "https://capgo.app/blog/transform-lovable-dev-app-to-mobile-with-capacitor/",
+      "description": "Export from Lovable, wrap with Capacitor, and ship signed binaries.",
+      "section": [
+        "Convert a web app"
+      ]
+    },
+    {
+      "key": "https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build",
+      "name": "Build iOS apps from Windows",
+      "url": "https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build/",
+      "description": "Compile, sign, and submit to TestFlight without a Mac.",
+      "section": [
+        "Convert a web app"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=K7ghUiXLef8",
+      "name": "Ionic & Capacitor for Building Native Mobile Apps",
+      "url": "https://www.youtube.com/watch?v=K7ghUiXLef8",
+      "description": "Full beginner course by freeCodeCamp.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=IwHt_QpIa8A",
+      "name": "From React Web to Native Mobile App",
+      "url": "https://www.youtube.com/watch?v=IwHt_QpIa8A",
+      "description": "Simon Grimm.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=V2Wn2JROUEo",
+      "name": "How to Build a Native App from Angular Projects",
+      "url": "https://www.youtube.com/watch?v=V2Wn2JROUEo",
+      "description": "Simon Grimm.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=xQKtDgJXrlM",
+      "name": "Building a Native Mobile App with Next.js",
+      "url": "https://www.youtube.com/watch?v=xQKtDgJXrlM",
+      "description": "Simon Grimm.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=K_OwSHPxT-A",
+      "name": "How To Create A Mobile App Using Vite, Vue and Ionic",
+      "url": "https://www.youtube.com/watch?v=K_OwSHPxT-A",
+      "description": "Aaron Saunders.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=PPXktTJXMPE",
+      "name": "Build a Mobile App Fast! React + Tailwind",
+      "url": "https://www.youtube.com/watch?v=PPXktTJXMPE",
+      "description": "Aaron Saunders.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=tbrJJkSYQ04",
+      "name": "Building Modern Angular Apps with Ionic",
+      "url": "https://www.youtube.com/watch?v=tbrJJkSYQ04",
+      "description": "Simon Grimm.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=tAQwllZSQD8",
+      "name": "How to Setup Deep Links (iOS & Android)",
+      "url": "https://www.youtube.com/watch?v=tAQwllZSQD8",
+      "description": "Simon Grimm.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=SMW1FQz3Yrc",
+      "name": "How to Create Background Tasks",
+      "url": "https://www.youtube.com/watch?v=SMW1FQz3Yrc",
+      "description": "Simon Grimm.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=fU8uM5oU1wY",
+      "name": "The Ionic Image Guide (Capture, Store & Upload)",
+      "url": "https://www.youtube.com/watch?v=fU8uM5oU1wY",
+      "description": "Simon Grimm.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=73YWZ1G_DX4",
+      "name": "Cross-Platform Development with Mike Hartington",
+      "url": "https://www.youtube.com/watch?v=73YWZ1G_DX4",
+      "description": "This Dot Media.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://github.com/ionic-team/capacitor-testapp",
+      "name": "capacitor-testapp",
+      "url": "https://github.com/ionic-team/capacitor-testapp",
+      "description": "The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.",
+      "section": [
+        "Demo apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/demo-app",
+      "name": "capacitor-updater-plugin-demo",
+      "url": "https://github.com/Cap-go/demo-app",
+      "description": "Simple Ionic Vue app to demonstrate the use of OTA updates.",
+      "section": [
+        "Demo apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/vue-data-storage-sqlite-app-starter",
+      "name": "vue-data-storage-sqlite-app-starter",
+      "url": "https://github.com/Cap-go/vue-data-storage-sqlite-app-starter",
+      "description": "Vue starter for SQLite key/value storage.",
+      "section": [
+        "Demo apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/react-data-storage-sqlite-app-starter",
+      "name": "react-data-storage-sqlite-app-starter",
+      "url": "https://github.com/Cap-go/react-data-storage-sqlite-app-starter",
+      "description": "React starter for SQLite key/value storage.",
+      "section": [
+        "Demo apps"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/american-automobile-association",
+      "name": "AAA",
+      "url": "https://ionic.io/resources/case-studies/american-automobile-association",
+      "description": "Member services app of the American Automobile Association.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/bbc-games",
+      "name": "BBC Games",
+      "url": "https://ionic.io/resources/case-studies/bbc-games",
+      "description": "Children's games from the BBC, shipped as PWAs wrapped with Capacitor.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/bestinvest",
+      "name": "Bestinvest",
+      "url": "https://ionic.io/resources/case-studies/bestinvest",
+      "description": "Investment platform that wrapped its existing web app for iOS and Android.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/dayclocks",
+      "name": "DayClocks Agenda",
+      "url": "https://ionic.io/resources/case-studies/dayclocks",
+      "description": "Family agenda app that moved from Cordova.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://found.com/engineering/migrating-from-cordova-to-capacitor",
+      "name": "Found",
+      "url": "https://found.com/engineering/migrating-from-cordova-to-capacitor",
+      "description": "Banking app for small businesses, with an engineering write-up of its Cordova migration.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/komed",
+      "name": "Komed Health",
+      "url": "https://ionic.io/resources/case-studies/komed",
+      "description": "Clinical communication app for hospitals.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/hrblock",
+      "name": "MyBlock",
+      "url": "https://ionic.io/resources/case-studies/hrblock",
+      "description": "Tax preparation app by H&R Block.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/topicus",
+      "name": "Spreekuur.nl",
+      "url": "https://ionic.io/resources/case-studies/topicus",
+      "description": "Dutch healthcare consultation app by Topicus.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies/yeshelp",
+      "name": "YesHelp",
+      "url": "https://ionic.io/resources/case-studies/yeshelp",
+      "description": "Social assistance app for iOS and Android.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://ionic.io/resources/case-studies",
+      "name": "Ionic case studies",
+      "url": "https://ionic.io/resources/case-studies",
+      "description": "More case studies published by the Ionic team.",
+      "section": [
+        "Apps built with Capacitor"
+      ]
+    },
+    {
+      "key": "https://github.com/Alexintosh/Awesome-Ionic",
+      "name": "Alexintosh/Awesome-Ionic",
+      "url": "https://github.com/Alexintosh/Awesome-Ionic",
+      "description": "Curated list of Ionic resources.",
+      "section": [
+        "Related lists"
+      ]
+    },
+    {
+      "key": "https://github.com/Cap-go/awesome-ionic",
+      "name": "Cap-go/awesome-ionic",
+      "url": "https://github.com/Cap-go/awesome-ionic",
+      "description": "Curated list of Ionic Framework resources.",
+      "section": [
+        "Related lists"
+      ]
+    },
+    {
+      "key": "https://discord.com/invite/UPYYRhtyzp",
+      "name": "Discord",
+      "url": "https://discord.com/invite/UPYYRhtyzp",
+      "description": "Official Discord community.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://forum.ionicframework.com/c/capacitor",
+      "name": "Forum",
+      "url": "https://forum.ionicframework.com/c/capacitor",
+      "description": "Official Forum community.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/capacitor",
+      "name": "Reddit",
+      "url": "https://reddit.com/r/capacitor",
+      "description": "Official Reddit community.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/tags/capacitor",
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/tags/capacitor",
+      "description": "Official Stack Overflow community.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://github.com/capacitor-community/proposals",
+      "name": "Proposal",
+      "url": "https://github.com/capacitor-community/proposals",
+      "description": "Official repo for plugin and platform requests.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://book.capgo.app/adrien",
+      "name": "Adrien",
+      "url": "https://book.capgo.app/adrien/",
+      "description": "Creator of Capstart the best boilerplate for Capacitor and Capgo part-time developper.",
+      "section": [
+        "Freelancers"
+      ]
+    },
+    {
+      "key": "https://book.capgo.app/jordan",
+      "name": "Jordan",
+      "url": "https://book.capgo.app/jordan/",
+      "description": "Creator of multiple mobile app and Capgo part-time developper.",
+      "section": [
+        "Freelancers"
+      ]
+    },
+    {
+      "key": "https://capgo.app/consulting",
+      "name": "Capgo consulting",
+      "url": "https://capgo.app/consulting/",
+      "description": "Creator of this list and of Capgo live update system + 150 plugins.",
+      "section": [
+        "Freelancers"
+      ]
+    }
+  ]
+}

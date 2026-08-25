@@ -1,0 +1,988 @@
+{
+  "etag": "W/\"445c7a0a1022cb716ba7814979cee1dd90121e9afc1d2d64612243b1297ccac4\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/box/Anemometer",
+      "name": "Anemometer",
+      "url": "https://github.com/box/Anemometer",
+      "description": "Box SQL slow query monitor.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/jeremycole/innodb_ruby",
+      "name": "innodb-ruby",
+      "url": "https://github.com/jeremycole/innodb_ruby",
+      "description": "A parser for InnoDB file formats, in Ruby.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/innotop/innotop",
+      "name": "innotop",
+      "url": "https://github.com/innotop/innotop",
+      "description": "a 'top' clone for MySQL with many features and flexibility.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/Preetam/explain-analyzer",
+      "name": "MySQL Explain Analyzer",
+      "url": "https://github.com/Preetam/explain-analyzer",
+      "description": "A web-based analyzer of EXPLAIN FORMAT=JSON output, providing comments, scalability analysis and permalinks for saved samples.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/db-art/mysql-statsd",
+      "name": "mysql-statsd",
+      "url": "https://github.com/db-art/mysql-statsd",
+      "description": "A Python daemon to collect information from MySQL and send it via StatsD to Graphite.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/major/MySQLTuner-perl",
+      "name": "MySQLTuner-perl",
+      "url": "https://github.com/major/MySQLTuner-perl",
+      "description": "A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/prometheus/prometheus",
+      "name": "Prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "/mysqld_exporter - Time series database for real-time monitoring and alerting.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/sjmudd/ps-top",
+      "name": "pstop",
+      "url": "https://github.com/sjmudd/ps-top",
+      "description": "a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/Mughees52/mysql-explain-analyzer",
+      "name": "ReliaDB EXPLAIN Analyzer",
+      "url": "https://github.com/Mughees52/mysql-explain-analyzer",
+      "description": "a browser-based MySQL and MariaDB EXPLAIN visualizer with issue detection, index recommendations, and query rewrites. 100% client-side.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/wireshark/wireshark",
+      "name": "Wireshark",
+      "url": "https://gitlab.com/wireshark/wireshark/",
+      "description": "a protocol analyzer that can decode the MySQL protocol.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/charles-001/dolphie",
+      "name": "Dolphie",
+      "url": "https://github.com/charles-001/dolphie",
+      "description": "a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/mickamy/sql-tap",
+      "name": "sql-tap",
+      "url": "https://github.com/mickamy/sql-tap",
+      "description": "Real-time SQL traffic viewer.",
+      "section": [
+        "Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/databasus/databasus",
+      "name": "Databasus",
+      "url": "https://github.com/databasus/databasus",
+      "description": "tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.",
+      "section": [
+        "Backup"
+      ]
+    },
+    {
+      "key": "https://github.com/pingcap/tidb/tree/master/dumpling",
+      "name": "Dumpling",
+      "url": "https://github.com/pingcap/tidb/tree/master/dumpling",
+      "description": "Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library",
+      "section": [
+        "Backup"
+      ]
+    },
+    {
+      "key": "https://github.com/mydumper/mydumper",
+      "name": "MyDumper",
+      "url": "https://github.com/mydumper/mydumper",
+      "description": "Logical, parallel backup/dumper tool for MySQL",
+      "section": [
+        "Backup"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/percona-xtrabackup",
+      "name": "Percona Xtrabackup",
+      "url": "https://github.com/percona/percona-xtrabackup",
+      "description": "an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.",
+      "section": [
+        "Backup"
+      ]
+    },
+    {
+      "key": "https://github.com/Portabase/portabase",
+      "name": "Portabase",
+      "url": "https://github.com/Portabase/portabase",
+      "description": "Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.",
+      "section": [
+        "Backup"
+      ]
+    },
+    {
+      "key": "https://github.com/TPC-Council/HammerDB",
+      "name": "HammerDB",
+      "url": "https://github.com/TPC-Council/HammerDB",
+      "description": "An open-source database benchmark for MySQL/MariaDB and other open source and commercial databases.",
+      "section": [
+        "Benchmarking"
+      ]
+    },
+    {
+      "key": "https://github.com/pingcap/go-tpc",
+      "name": "go-tpc",
+      "url": "https://github.com/pingcap/go-tpc",
+      "description": "A golang port of TPCC and TPCH benchmark for MySQL.",
+      "section": [
+        "Benchmarking"
+      ]
+    },
+    {
+      "key": "https://github.com/tmcallaghan/iibench-mysql",
+      "name": "iibench-mysql",
+      "url": "https://github.com/tmcallaghan/iibench-mysql",
+      "description": "Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.",
+      "section": [
+        "Benchmarking"
+      ]
+    },
+    {
+      "key": "https://github.com/akopytov/sysbench",
+      "name": "Sysbench",
+      "url": "https://github.com/akopytov/sysbench",
+      "description": "a modular, cross-platform and multi-threaded benchmark tool.",
+      "section": [
+        "Benchmarking"
+      ]
+    },
+    {
+      "key": "https://github.com/Percona-Lab/tpcc-mysql",
+      "name": "TPCC-MySQL",
+      "url": "https://github.com/Percona-Lab/tpcc-mysql",
+      "description": "(archived) - A port of the popular TPCC benchmark for MySQL.",
+      "section": [
+        "Benchmarking"
+      ]
+    },
+    {
+      "key": "https://github.com/pingcap/tiflow",
+      "name": "DM",
+      "url": "https://github.com/pingcap/tiflow",
+      "description": "A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables",
+      "section": [
+        "Binlog-Replication"
+      ]
+    },
+    {
+      "key": "https://github.com/flike/kingbus",
+      "name": "Kingbus",
+      "url": "https://github.com/flike/kingbus",
+      "description": "A distributed MySQL binlog storage system built on Raft",
+      "section": [
+        "Binlog-Replication"
+      ]
+    },
+    {
+      "key": "https://github.com/google/mysql-ripple",
+      "name": "mysql-ripple",
+      "url": "https://github.com/google/mysql-ripple",
+      "description": "(archived) - Ripple, a server that can serve as a middleman in MySQL replication",
+      "section": [
+        "Binlog-Replication"
+      ]
+    },
+    {
+      "key": "https://github.com/samlambert/hubot-mysql-chatops",
+      "name": "Hubot MySQL ChatOps",
+      "url": "https://github.com/samlambert/hubot-mysql-chatops",
+      "description": "",
+      "section": [
+        "ChatOps"
+      ]
+    },
+    {
+      "key": "https://github.com/morgo/mysql-compatibility-config",
+      "name": "mysql-compatibility-config",
+      "url": "https://github.com/morgo/mysql-compatibility-config",
+      "description": "make MySQL configuration behave more like newer (or older) releases of MySQL.",
+      "section": [
+        "Configuration"
+      ]
+    },
+    {
+      "key": "https://github.com/ballerina-platform/module-ballerinax-mysql",
+      "name": "ballerinax/mysql",
+      "url": "https://github.com/ballerina-platform/module-ballerinax-mysql",
+      "description": "Official Ballerina connector for MySQL.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/perl5-dbi/DBD-MariaDB",
+      "name": "DBD::MariaDB",
+      "url": "https://github.com/perl5-dbi/DBD-MariaDB",
+      "description": "MariaDB and MySQL driver for the Perl5 Database Interface.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/perl5-dbi/DBD-mysql",
+      "name": "DBD::mysql",
+      "url": "https://github.com/perl5-dbi/DBD-mysql",
+      "description": "MySQL driver for the Perl5 Database Interface.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/go-sql-driver/mysql",
+      "name": "go-sql-driver",
+      "url": "https://github.com/go-sql-driver/mysql",
+      "description": "a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/libattachsql/libattachsql",
+      "name": "libAttachSQL",
+      "url": "https://github.com/libattachsql/libattachsql",
+      "description": "libAttachSQL is a lightweight, non-blocking C API for MySQL servers.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/mariadb-corporation/mariadb-connector-j",
+      "name": "MariaDB Connector/J",
+      "url": "https://github.com/mariadb-corporation/mariadb-connector-j",
+      "description": "LGPL-licensed MariaDB Client Library for Java Applications.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/markuman/mex-mariadb",
+      "name": "mex-mariadb",
+      "url": "https://github.com/markuman/mex-mariadb",
+      "description": "MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://dev.mysql.com/downloads/c-api",
+      "name": "MySQL C API",
+      "url": "https://dev.mysql.com/downloads/c-api/",
+      "description": "Official C driver for MySQL.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-connector-cpp",
+      "name": "MySQL Connector/C++",
+      "url": "https://github.com/mysql/mysql-connector-cpp",
+      "description": "Official C/C++ driver for MySQL.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-connector-j",
+      "name": "MySQL Connector/J",
+      "url": "https://github.com/mysql/mysql-connector-j",
+      "description": "a standardized database driver for the Java platforms and development.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-connector-net",
+      "name": "MySQL Connector/NET",
+      "url": "https://github.com/mysql/mysql-connector-net",
+      "description": "a standardized database driver for .Net platforms and development.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-connector-nodejs",
+      "name": "MySQL Connector/Node.js",
+      "url": "https://github.com/mysql/mysql-connector-nodejs",
+      "description": "Official Node.js driver for MySQL.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-connector-python",
+      "name": "MySQL Connector/Python",
+      "url": "https://github.com/mysql/mysql-connector-python",
+      "description": "a standardized database driver for Python platforms and development.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/PyMySQL/mysqlclient",
+      "name": "mysqlclient-python",
+      "url": "https://github.com/PyMySQL/mysqlclient",
+      "description": "MySQL database connector for Python.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/mysqljs/mysql",
+      "name": "node-mysql",
+      "url": "https://github.com/mysqljs/mysql",
+      "description": "A pure Nodejs Javascript client implementing the MySQL protocol.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://php.net/manual/en/book.mysqlnd.php",
+      "name": "PHP mysqlnd",
+      "url": "https://www.php.net/manual/en/book.mysqlnd.php",
+      "description": "MySQL native driver for PHP.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/PyMySQL/PyMySQL",
+      "name": "PyMySQL",
+      "url": "https://github.com/PyMySQL/PyMySQL",
+      "description": "MySQL database connector for Python.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/brianmario/mysql2",
+      "name": "Ruby Mysql2 gem",
+      "url": "https://github.com/brianmario/mysql2",
+      "description": "MySQL driver for Ruby and Rails projects.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/speed2exe/myzql",
+      "name": "MyZql",
+      "url": "https://github.com/speed2exe/myzql",
+      "description": "MySQL and MariaDB driver in native Zig.",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/c410-f3r/wtx",
+      "name": "wtx",
+      "url": "https://github.com/c410-f3r/wtx",
+      "description": "Client for MySQL/MariaDB/Percona written in Rust",
+      "section": [
+        "Connectors"
+      ]
+    },
+    {
+      "key": "https://github.com/MariaDB4j/MariaDB4j",
+      "name": "MariaDB4j",
+      "url": "https://github.com/MariaDB4j/MariaDB4j",
+      "description": "A Java launcher to run MariaDB without installation or external dependencies.",
+      "section": [
+        "Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/flyway/flyway",
+      "name": "Flywaydb",
+      "url": "https://github.com/flyway/flyway",
+      "description": "Database migrations; Evolve your database schema easily and reliably across all your instances",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/nethalo/dbsafe",
+      "name": "dbsafe",
+      "url": "https://github.com/nethalo/dbsafe",
+      "description": "Pre-execution safety analysis for MySQL DDL/DML operations",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/liquibase/liquibase",
+      "name": "Liquibase",
+      "url": "https://github.com/liquibase/liquibase",
+      "description": "Source control for your database",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/square/shift",
+      "name": "Shift",
+      "url": "https://github.com/square/shift",
+      "description": "An application that helps you run schema migrations on MySQL databases",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/skeema/skeema",
+      "name": "Skeema",
+      "url": "https://github.com/skeema/skeema",
+      "description": "Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/actiontech/sqle/blob/main/README_en.md",
+      "name": "SQLE",
+      "url": "https://github.com/actiontech/sqle/blob/main/README_en.md",
+      "description": "SQLE is a SQL audit platform for DBA or developer",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/datacharmer/test_db",
+      "name": "Test database",
+      "url": "https://github.com/datacharmer/test_db",
+      "description": "A sample MySQL database with an integrated test suite, used to test applications and servers",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/verizonconnect/cover_me",
+      "name": "cover_me",
+      "url": "https://github.com/verizonconnect/cover_me",
+      "description": "code coverage tool for mysql stored procedures and functions",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/vrana/adminer",
+      "name": "Adminer",
+      "url": "https://github.com/vrana/adminer/",
+      "description": "Database management in a single PHP file.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/dbeaver/dbeaver",
+      "name": "DBeaver",
+      "url": "https://github.com/dbeaver/dbeaver/",
+      "description": "A cross-platform SQL and NoSQL database client.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/stackrender/stackrender",
+      "name": "StackRender",
+      "url": "https://github.com/stackrender/stackrender",
+      "description": "Free and open-source database schema design and SQL migration generator for MySQL.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/HeidiSQL/HeidiSQL",
+      "name": "HeidiSQL",
+      "url": "https://github.com/HeidiSQL/HeidiSQL",
+      "description": "MySQL GUI frontend for Windows.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/illacloud/illa-builder",
+      "name": "ILLA Cloud",
+      "url": "https://github.com/illacloud/illa-builder",
+      "description": "Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/libredb/libredb-studio",
+      "name": "LibreDB Studio",
+      "url": "https://github.com/libredb/libredb-studio",
+      "description": "Browser-based SQL IDE for MySQL and nine other engines, deployed as a container or Helm chart next to the database.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/dbcli/mycli",
+      "name": "mycli",
+      "url": "https://github.com/dbcli/mycli",
+      "description": "A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-shell",
+      "name": "MySQL Shell",
+      "url": "https://github.com/mysql/mysql-shell/",
+      "description": "Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-workbench",
+      "name": "MySQL Workbench",
+      "url": "https://github.com/mysql/mysql-workbench",
+      "description": "provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/ocelot-inc/ocelotgui",
+      "name": "Ocelot GUI",
+      "url": "https://github.com/ocelot-inc/ocelotgui",
+      "description": "GUI client for MySQL or MariaDB, including debugger.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/OmniDB/OmniDB",
+      "name": "OmniDB: Web tool for database management",
+      "url": "https://github.com/OmniDB/OmniDB",
+      "description": "",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/pmm",
+      "name": "Percona Monitoring and Management",
+      "url": "https://github.com/percona/pmm",
+      "description": "An open-source platform for managing and monitoring MySQL performance.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/phpmyadmin/phpmyadmin",
+      "name": "phpMyAdmin",
+      "url": "https://github.com/phpmyadmin/phpmyadmin",
+      "description": "a free software tool written in PHP, intended to handle the administration of MySQL over the Web.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/okbob/pspg",
+      "name": "pspg",
+      "url": "https://github.com/okbob/pspg",
+      "description": "provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/Sequel-Ace/Sequel-Ace",
+      "name": "Sequel Ace",
+      "url": "https://github.com/Sequel-Ace/Sequel-Ace",
+      "description": "a Mac database management application for working with MySQL databases.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/TableProApp/TablePro",
+      "name": "TablePro",
+      "url": "https://github.com/TableProApp/TablePro",
+      "description": "Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/webyog/sqlyog-community",
+      "name": "SQLyog Community edition",
+      "url": "https://github.com/webyog/sqlyog-community",
+      "description": "SQLyog Community edition. For Windows, works fine under wine in Mac and Linux",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/eduardofuncao/squix",
+      "name": "squix",
+      "url": "https://github.com/eduardofuncao/squix",
+      "description": "SQL command-line client with query management and interactive results.",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/WebDB-App/app",
+      "name": "WebDB",
+      "url": "https://github.com/WebDB-App/app",
+      "description": "Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor",
+      "section": [
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/codership/galera",
+      "name": "Galera Cluster",
+      "url": "https://github.com/codership/galera",
+      "description": "a true Multimaster Cluster based on synchronous replication.",
+      "section": [
+        "HA"
+      ]
+    },
+    {
+      "key": "https://github.com/yoshinorim/mha4mysql-node",
+      "name": "mha4mysql-node",
+      "url": "https://github.com/yoshinorim/mha4mysql-node",
+      "description": "and mha4mysql-manager (both unmaintained) - Master High Availability Manager and tools for MySQL.",
+      "section": [
+        "HA"
+      ]
+    },
+    {
+      "key": "https://github.com/openark/orchestrator",
+      "name": "Orchestrator",
+      "url": "https://github.com/openark/orchestrator",
+      "description": "(archived) - MySQL replication topology management and High Availability solution.",
+      "section": [
+        "HA"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/replication-manager",
+      "name": "Percona Replication Manager",
+      "url": "https://github.com/percona/replication-manager",
+      "description": "Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.",
+      "section": [
+        "HA"
+      ]
+    },
+    {
+      "key": "https://github.com/signal18/replication-manager",
+      "name": "replication-manager",
+      "url": "https://github.com/signal18/replication-manager",
+      "description": "a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.",
+      "section": [
+        "HA"
+      ]
+    },
+    {
+      "key": "https://github.com/MariaDB/mcp",
+      "name": "MCP MariaDB Server",
+      "url": "https://github.com/MariaDB/mcp",
+      "description": "the official MariaDB MCP server.",
+      "section": [
+        "MCP"
+      ]
+    },
+    {
+      "key": "https://github.com/askdba/mysql-mcp-server",
+      "name": "MySQL MCP Server",
+      "url": "https://github.com/askdba/mysql-mcp-server",
+      "description": "Advanced MCP server exposing MySQL via the Model Context Protocol",
+      "section": [
+        "MCP"
+      ]
+    },
+    {
+      "key": "https://pingcap.github.io/ai/integrations/tidb-mcp-server",
+      "name": "TiDB MCP Server",
+      "url": "https://pingcap.github.io/ai/integrations/tidb-mcp-server/",
+      "description": "MCP Server for TiDB.",
+      "section": [
+        "MCP"
+      ]
+    },
+    {
+      "key": "https://dev.mysql.com/doc/mysql-router/en",
+      "name": "MySQL Router",
+      "url": "https://dev.mysql.com/doc/mysql-router/en/",
+      "description": "MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.",
+      "section": [
+        "Proxy"
+      ]
+    },
+    {
+      "key": "https://github.com/sysown/proxysql",
+      "name": "ProxySQL",
+      "url": "https://github.com/sysown/proxysql",
+      "description": "High performance proxy for MySQL.",
+      "section": [
+        "Proxy"
+      ]
+    },
+    {
+      "key": "https://github.com/datafold/data-diff",
+      "name": "data-diff",
+      "url": "https://github.com/datafold/data-diff",
+      "description": "(archived) - Command-line tool and Python library to efficiently diff rows across two different databases.",
+      "section": [
+        "Replication"
+      ]
+    },
+    {
+      "key": "https://github.com/shlomi-noach/common_schema",
+      "name": "common_schema",
+      "url": "https://github.com/shlomi-noach/common_schema",
+      "description": "DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.",
+      "section": [
+        "Schema"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-sys",
+      "name": "sys",
+      "url": "https://github.com/mysql/mysql-sys",
+      "description": "(archived) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage. See sys schema docs",
+      "section": [
+        "Schema"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/acra",
+      "name": "Acra",
+      "url": "https://github.com/cossacklabs/acra",
+      "description": "SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/ppomes/myanon",
+      "name": "myanon",
+      "url": "https://github.com/ppomes/myanon",
+      "description": "Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/6eh01der/myldapsync",
+      "name": "myldapsync",
+      "url": "https://github.com/6eh01der/myldapsync",
+      "description": "Synchronize MySQL or MariaDB users with users in an LDAP directory.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/MariaDB/server",
+      "name": "MariaDB",
+      "url": "https://github.com/MariaDB/server",
+      "description": "Community developed fork of MySQL server.",
+      "section": [
+        "Server"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-server",
+      "name": "MySQL Server & MySQL Cluster",
+      "url": "https://github.com/mysql/mysql-server",
+      "description": "Official Oracle's MySQL server & MySQL Cluster distribution.",
+      "section": [
+        "Server"
+      ]
+    },
+    {
+      "key": "https://github.com/askdba/myvector",
+      "name": "MyVector",
+      "url": "https://github.com/askdba/myvector",
+      "description": "Native vector search plugin for MySQL, shipped as a server plugin.",
+      "section": [
+        "Server"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/percona-server",
+      "name": "Percona Server",
+      "url": "https://github.com/percona/percona-server",
+      "description": "An enhanced, drop-in MySQL replacement.",
+      "section": [
+        "Server"
+      ]
+    },
+    {
+      "key": "https://github.com/pingcap/tidb",
+      "name": "TiDB",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "A distributed HTAP database compatible with the MySQL protocol.",
+      "section": [
+        "Server"
+      ]
+    },
+    {
+      "key": "https://github.com/tumblr/jetpants",
+      "name": "Jetpants",
+      "url": "https://github.com/tumblr/jetpants",
+      "description": "An automation suite for managing large range sharding clusters, by Tumblr.",
+      "section": [
+        "Sharding"
+      ]
+    },
+    {
+      "key": "https://github.com/vitessio/vitess",
+      "name": "Vitess",
+      "url": "https://github.com/vitessio/vitess",
+      "description": "vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.",
+      "section": [
+        "Sharding"
+      ]
+    },
+    {
+      "key": "https://github.com/djberube/sqlaxe",
+      "name": "sqlaxe",
+      "url": "https://github.com/djberube/sqlaxe",
+      "description": "CLI tool for searching, filtering, formatting, and splitting SQL files.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/github/gh-ost",
+      "name": "gh-ost",
+      "url": "https://github.com/github/gh-ost/",
+      "description": "GitHub's online schema migration for MySQL.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/go-mysql-org/go-mysql",
+      "name": "go-mysql",
+      "url": "https://github.com/go-mysql-org/go-mysql",
+      "description": "A pure go library to handle MySQL network protocol and replication.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/mysql/mysql-utilities",
+      "name": "MySQL Utilities",
+      "url": "https://github.com/mysql/mysql-utilities",
+      "description": "(deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/percona-toolkit",
+      "name": "Percona Toolkit",
+      "url": "https://github.com/percona/percona-toolkit",
+      "description": "a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/HelgeSverre/sql-splitter",
+      "name": "sql-splitter",
+      "url": "https://github.com/HelgeSverre/sql-splitter",
+      "description": "High-performance CLI for splitting, merging, converting, validating, and sampling mysqldump files.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/StirlingMarketingGroup/swoof",
+      "name": "Swoof",
+      "url": "https://github.com/StirlingMarketingGroup/swoof",
+      "description": "Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/twindb/undrop-for-innodb",
+      "name": "UnDROP",
+      "url": "https://github.com/twindb/undrop-for-innodb",
+      "description": "(archived) - a tool to recover data from dropped or corrupted InnoDB tables.",
+      "section": [
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://spots.augusta.edu/caubert/db/ln",
+      "name": "Database Systems Lecture Notes",
+      "url": "http://spots.augusta.edu/caubert/db/ln/",
+      "description": "lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.",
+      "section": [
+        "e-books"
+      ]
+    },
+    {
+      "key": "https://github.com/XD-DENG/SQL-exercise",
+      "name": "SQL-exercise",
+      "url": "https://github.com/XD-DENG/SQL-exercise",
+      "description": "contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook SQL Exercises.",
+      "section": [
+        "e-books"
+      ]
+    },
+    {
+      "key": "https://github.com/villagesql/villagesql-server",
+      "name": "VillageSQL",
+      "url": "https://github.com/villagesql/villagesql-server",
+      "description": "A drop-in replacement for MySQL with extensions for the agentic AI era.",
+      "section": [
+        "Incubating"
+      ]
+    }
+  ]
+}

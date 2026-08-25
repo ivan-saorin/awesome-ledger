@@ -1,0 +1,2805 @@
+{
+  "etag": "W/\"2ddaa299df06059a2f97948fed12902cc233167eb149040892e71d3eba1fc88f\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/rqlite/rqlite",
+      "name": "RQLite",
+      "url": "https://github.com/rqlite/rqlite",
+      "description": "Replicated SQLite using the Raft consensus protocol.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/pingcap/tidb",
+      "name": "TiDB",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "A distributed NewSQL database compatible with MySQL protocol.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://percona.com/software/mysql-database/percona-xtrabackup",
+      "name": "Percona XtraBackup",
+      "url": "https://www.percona.com/software/mysql-database/percona-xtrabackup",
+      "description": "A free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/pinterest/mysql_utils",
+      "name": "mysql_utils",
+      "url": "https://github.com/pinterest/mysql_utils",
+      "description": "Pinterest MySQL Management Tools.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://mysql.com",
+      "name": "MySQL",
+      "url": "https://www.mysql.com/",
+      "description": "The world's most popular open source database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://mariadb.org",
+      "name": "MariaDB",
+      "url": "https://mariadb.org/",
+      "description": "An enhanced, drop-in replacement for MySQL.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://postgresql.org",
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org/",
+      "description": "The world's most advanced open source database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://rivestack.io",
+      "name": "Rivestack",
+      "url": "https://rivestack.io/",
+      "description": "Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, sub-4ms latency, and built-in SQL editor with automatic embedding generation.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/rds",
+      "name": "Amazon RDS",
+      "url": "https://aws.amazon.com/rds/",
+      "description": "Makes it easy to set up, operate, and scale a relational database in the cloud.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://crate.io",
+      "name": "Crate.IO",
+      "url": "https://crate.io/",
+      "description": "Scalable SQL database with the NOSQL goodies.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://redis.io",
+      "name": "Redis",
+      "url": "https://redis.io/",
+      "description": "An open source, BSD licensed, advanced key-value cache and store.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://docs.basho.com/riak/kv",
+      "name": "Riak",
+      "url": "https://docs.basho.com/riak/kv/",
+      "description": "A distributed database designed to deliver maximum data availability by distributing data across multiple servers.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/dynamodb",
+      "name": "AWS DynamoDB",
+      "url": "https://aws.amazon.com/dynamodb/",
+      "description": "A fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/rescrv/HyperDex",
+      "name": "HyperDex",
+      "url": "https://github.com/rescrv/HyperDex",
+      "description": "A scalable, searchable key-value store. Deprecated.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://ssdb.io",
+      "name": "SSDB",
+      "url": "https://ssdb.io",
+      "description": "A high performance NoSQL database supporting many data structures, an alternative to Redis.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/alticelabs/kyoto",
+      "name": "Kyoto Tycoon",
+      "url": "https://github.com/alticelabs/kyoto",
+      "description": "A lightweight network server on top of the Kyoto Cabinet key-value database, built for high-performance and concurrency.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/iondbproject/iondb",
+      "name": "IonDB",
+      "url": "https://github.com/iondbproject/iondb",
+      "description": "A key-value store for microcontroller and IoT applications.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://ecyrd.com/cassandracalculator",
+      "name": "Cassandra Calculator",
+      "url": "https://www.ecyrd.com/cassandracalculator/",
+      "description": "This simple form allows you to try out different values for your Apache Cassandra cluster and see what the impact is for your application.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/pcmanus/ccm",
+      "name": "CCM",
+      "url": "https://github.com/pcmanus/ccm",
+      "description": "A script to easily create and destroy an Apache Cassandra cluster on localhost.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/scylladb/scylla",
+      "name": "ScyllaDB",
+      "url": "https://github.com/scylladb/scylla",
+      "description": "NoSQL data store using the seastar framework, compatible with Apache Cassandra.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://cassandra.apache.org",
+      "name": "Cassandra",
+      "url": "https://cassandra.apache.org/",
+      "description": "The right choice when you need scalability and high availability without compromising performance.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://hbase.apache.org",
+      "name": "HBase",
+      "url": "https://hbase.apache.org/",
+      "description": "The Hadoop database, a distributed, scalable, big data store.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/redshift",
+      "name": "AWS Redshift",
+      "url": "https://aws.amazon.com/redshift/",
+      "description": "A fast, fully managed, petabyte-scale data warehouse that makes it simple and cost-effective to analyze all your data using your existing business intelligence tools.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/filodb/FiloDB",
+      "name": "FiloDB",
+      "url": "https://github.com/filodb/FiloDB",
+      "description": "Distributed. Columnar. Versioned. Streaming. SQL.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://vertica.com",
+      "name": "Vertica",
+      "url": "https://www.vertica.com",
+      "description": "Distributed, MPP columnar database with extensive analytics SQL.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://clickhouse.tech",
+      "name": "ClickHouse",
+      "url": "https://clickhouse.tech",
+      "description": "Distributed columnar DBMS for OLAP. SQL.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://percona.com/software/mongo-database/percona-server-for-mongodb",
+      "name": "Percona Server for MongoDB",
+      "url": "https://www.percona.com/software/mongo-database/percona-server-for-mongodb",
+      "description": "Percona Server for MongoDB® is a free, enhanced, fully compatible, open source, drop-in replacement for the MongoDB® Community Edition that includes enterprise-grade features and functionality.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/rain1017/memdb",
+      "name": "MemDB",
+      "url": "https://github.com/rain1017/memdb",
+      "description": "Distributed Transactional In-Memory Database (based on MongoDB).",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://mongodb.com",
+      "name": "MongoDB",
+      "url": "https://www.mongodb.com",
+      "description": "An open-source, document database designed for ease of development and scaling.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://elastic.co",
+      "name": "Elasticsearch",
+      "url": "https://www.elastic.co/",
+      "description": "Search & Analyze Data in Real Time.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://couchbase.com",
+      "name": "Couchbase",
+      "url": "https://www.couchbase.com/",
+      "description": "The highest performing NoSQL distributed database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://rethinkdb.com",
+      "name": "RethinkDB",
+      "url": "https://rethinkdb.com/",
+      "description": "The open-source database for the realtime web.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://ravendb.net",
+      "name": "RavenDB",
+      "url": "https://ravendb.net/",
+      "description": "Fully Transactional NoSQL Document Database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://arcadedb.com",
+      "name": "ArcadeDB",
+      "url": "https://arcadedb.com/",
+      "description": "Open-source multi-model database with native graph, document, key-value, and vector support. SQL, Cypher, and Gremlin query languages. Apache 2.0 license.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://neo4j.com",
+      "name": "Neo4j",
+      "url": "https://neo4j.com/",
+      "description": "The world's leading graph database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/ModernRelay/omnigraph",
+      "name": "Omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://orientdb.com",
+      "name": "OrientDB",
+      "url": "https://orientdb.com",
+      "description": "2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://arangodb.com",
+      "name": "ArangoDB",
+      "url": "https://www.arangodb.com/",
+      "description": "A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://titan.thinkaurelius.com",
+      "name": "Titan",
+      "url": "https://titan.thinkaurelius.com",
+      "description": "A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/twitter-archive/flockdb",
+      "name": "FlockDB",
+      "url": "https://github.com/twitter-archive/flockdb",
+      "description": "A distributed, fault-tolerant graph database by Twitter. Deprecated.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/kakao/actionbase",
+      "name": "Actionbase",
+      "url": "https://github.com/kakao/actionbase",
+      "description": "A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://datomic.com",
+      "name": "DAtomic",
+      "url": "https://www.datomic.com",
+      "description": "The fully transactional, cloud-ready, distributed database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://geode.apache.org",
+      "name": "Apache Geode",
+      "url": "https://geode.apache.org/",
+      "description": "An open source, distributed, in-memory database for scale-out applications.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/gchq/Gaffer",
+      "name": "Gaffer",
+      "url": "https://github.com/gchq/Gaffer",
+      "description": "A large-scale graph database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/influxdata/influxdb",
+      "name": "InfluxDB",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenTSDB/opentsdb",
+      "name": "OpenTSDB",
+      "url": "https://github.com/OpenTSDB/opentsdb",
+      "description": "A scalable, distributed Time Series Database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://questdb.io",
+      "name": "QuestDB",
+      "url": "https://questdb.io/",
+      "description": "A relational column-oriented database designed for real-time analytics on time series and event data.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/kairosdb/kairosdb",
+      "name": "kairosdb",
+      "url": "https://github.com/kairosdb/kairosdb",
+      "description": "Fast scalable time series database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/spotify/heroic",
+      "name": "Heroic",
+      "url": "https://github.com/spotify/heroic",
+      "description": "A scalable time series database based on Cassandra and Elasticsearch, by Spotify.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-druid",
+      "name": "Druid",
+      "url": "https://github.com/apache/incubator-druid",
+      "description": "Column oriented distributed data store ideal for powering interactive applications.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://basho.com/products/riak-ts",
+      "name": "Riak-TS",
+      "url": "https://basho.com/products/riak-ts/",
+      "description": "Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/akumuli/Akumuli",
+      "name": "Akumuli",
+      "url": "https://github.com/akumuli/Akumuli",
+      "description": "A numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word \"akumuli\" can be translated from esperanto as \"accumulate\".",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/Pardot/Rhombus",
+      "name": "Rhombus",
+      "url": "https://github.com/Pardot/Rhombus",
+      "description": "A time-series object store for Cassandra that handles all the complexity of building wide row indexes.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/dalmatinerdb/dalmatinerdb",
+      "name": "Dalmatiner DB",
+      "url": "https://github.com/dalmatinerdb/dalmatinerdb",
+      "description": "Fast distributed metrics database.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/rackerlabs/blueflood",
+      "name": "Blueflood",
+      "url": "https://github.com/rackerlabs/blueflood",
+      "description": "A distributed system designed to ingest and process time series data.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/NationalSecurityAgency/timely",
+      "name": "Timely",
+      "url": "https://github.com/NationalSecurityAgency/timely",
+      "description": "A time series database application that provides secure access to time series data based on Accumulo and Grafana.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/tarantool/tarantool",
+      "name": "Tarantool",
+      "url": "https://github.com/tarantool/tarantool/",
+      "description": "An in-memory database and application server.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/greenplum-db/gpdb",
+      "name": "GreenPlum",
+      "url": "https://github.com/greenplum-db/gpdb",
+      "description": "The Greenplum Database (GPDB) - An advanced, fully featured, open source data warehouse. It provides powerful and rapid analytics on petabyte scale data volumes.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/cayleygraph/cayley",
+      "name": "cayley",
+      "url": "https://github.com/cayleygraph/cayley",
+      "description": "An open-source graph database. Google.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/SnappyDataInc/snappydata",
+      "name": "Snappydata",
+      "url": "https://github.com/SnappyDataInc/snappydata",
+      "description": "OLTP + OLAP Database built on Apache Spark.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://timescale.com",
+      "name": "TimescaleDB",
+      "url": "https://www.timescale.com/",
+      "description": "Built as an extension on top of PostgreSQL, TimescaleDB is a time-series SQL database providing fast analytics, scalability, with automated data management on a proven storage engine.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://duckdb.org",
+      "name": "DuckDB",
+      "url": "https://duckdb.org/",
+      "description": "A fast in-process analytical database that has zero external dependencies, runs on Linux/macOS/Windows, offers a rich SQL dialect, and is free and extensible.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/SouravRoy-ETL/slothdb",
+      "name": "SlothDB",
+      "url": "https://github.com/SouravRoy-ETL/slothdb",
+      "description": "In-process analytical SQL database written in C++20. Reads Parquet, CSV, JSON, Avro, Arrow, SQLite, and Excel directly. Single binary, Python package, and 1.3 MB WASM build for the browser.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://chdb.io",
+      "name": "chDB",
+      "url": "https://chdb.io",
+      "description": "Embedded ClickHouse — full ClickHouse SQL dialect, ~80 data formats, and 12+ source connectors (S3, Postgres, MongoDB, Kafka, Iceberg) in core. Python, Go, Rust, Node, Bun, Zig, and Ruby bindings.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/alibaba/zvec",
+      "name": "zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/capitalone/datacompy",
+      "name": "datacompy",
+      "url": "https://github.com/capitalone/datacompy",
+      "description": "A Python library that facilitates the comparison of two DataFrames in Pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.",
+      "section": [
+        "Data Comparison"
+      ]
+    },
+    {
+      "key": "https://github.com/GoogleCloudPlatform/professional-services-data-validator",
+      "name": "dvt",
+      "url": "https://github.com/GoogleCloudPlatform/professional-services-data-validator",
+      "description": "Data Validation Tool compares data from source and target tables to ensure that they match. It provides column validation, row validation, schema validation, custom query validation, and ad hoc SQL exploration.",
+      "section": [
+        "Data Comparison"
+      ]
+    },
+    {
+      "key": "https://github.com/godalida/koala-diff",
+      "name": "koala-diff",
+      "url": "https://github.com/godalida/koala-diff",
+      "description": "A high-performance Python library for comparing large datasets (CSV, Parquet) locally using Rust and Polars. It features zero-copy streaming to prevent OOM errors and generates interactive HTML data quality reports.",
+      "section": [
+        "Data Comparison"
+      ]
+    },
+    {
+      "key": "https://github.com/futuresearch/futuresearch-python",
+      "name": "FutureSearch SDK",
+      "url": "https://github.com/futuresearch/futuresearch-python",
+      "description": "Python SDK that dispatches parallel web-research agents across table rows, synthesizing multi-agent findings into structured columns.",
+      "section": [
+        "Data Comparison"
+      ]
+    },
+    {
+      "key": "https://github.com/dataspoclab/dataspoc-pipe",
+      "name": "DataSpoc Pipe",
+      "url": "https://github.com/dataspoclab/dataspoc-pipe",
+      "description": "Data ingestion engine that connects 400+ Singer taps to Parquet files in cloud buckets (S3, GCS, Azure). Streaming, incremental, with auto-catalog.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://enrich.sh",
+      "name": "Enrich.sh",
+      "url": "https://enrich.sh",
+      "description": "Managed event ingestion service that converts JSON sent to a REST API into Hive-partitioned Parquet on Cloudflare R2, queryable from DuckDB, ClickHouse, BigQuery, Snowflake, and Python.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/Alessandro114/enrich-companies",
+      "name": "enrich-companies",
+      "url": "https://github.com/Alessandro114/enrich-companies",
+      "description": "CLI tool to enrich CSV files with company data (financials, contacts, metadata) from 250M+ company records. Available on npm.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/bruin-data/ingestr",
+      "name": "ingestr",
+      "url": "https://github.com/bruin-data/ingestr",
+      "description": "CLI tool to copy data between databases with a single command. Supports 50+ sources including PostgreSQL, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/confluentinc/bottledwater-pg",
+      "name": "BottledWater",
+      "url": "https://github.com/confluentinc/bottledwater-pg",
+      "description": "Change data capture from PostgreSQL into Kafka. Deprecated.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/airbnb/kafkat",
+      "name": "kafkat",
+      "url": "https://github.com/airbnb/kafkat",
+      "description": "Simplified command-line administration for Kafka brokers.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/edenhill/kafkacat",
+      "name": "kafkacat",
+      "url": "https://github.com/edenhill/kafkacat",
+      "description": "Generic command line non-JVM Apache Kafka producer and consumer.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/xstevens/pg_kafka",
+      "name": "pg-kafka",
+      "url": "https://github.com/xstevens/pg_kafka",
+      "description": "A PostgreSQL extension to produce messages to Apache Kafka.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/edenhill/librdkafka",
+      "name": "librdkafka",
+      "url": "https://github.com/edenhill/librdkafka",
+      "description": "The Apache Kafka C/C++ library.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/wurstmeister/kafka-docker",
+      "name": "kafka-docker",
+      "url": "https://github.com/wurstmeister/kafka-docker",
+      "description": "Kafka in Docker.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/yahoo/kafka-manager",
+      "name": "kafka-manager",
+      "url": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/SOHU-Co/kafka-node",
+      "name": "kafka-node",
+      "url": "https://github.com/SOHU-Co/kafka-node",
+      "description": "Node.js client for Apache Kafka 0.8.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/pinterest/secor",
+      "name": "Secor",
+      "url": "https://github.com/pinterest/secor",
+      "description": "Pinterest's Kafka to S3 distributed consumer.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/uber/kafka-logger",
+      "name": "Kafka-logger",
+      "url": "https://github.com/uber/kafka-logger",
+      "description": "Kafka-winston logger for Node.js from Uber.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/kroxylicious/kroxylicious",
+      "name": "Kroxylicious",
+      "url": "https://github.com/kroxylicious/kroxylicious",
+      "description": "A Kafka Proxy, solving problems like encrypting your Kafka data at rest.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://kafka.apache.org",
+      "name": "Kafka",
+      "url": "https://kafka.apache.org/",
+      "description": "Publish-subscribe messaging rethought as a distributed commit log.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/kinesis",
+      "name": "AWS Kinesis",
+      "url": "https://aws.amazon.com/kinesis/",
+      "description": "A fully managed, cloud-based service for real-time data processing over large, distributed data streams.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://rabbitmq.com",
+      "name": "RabbitMQ",
+      "url": "https://www.rabbitmq.com/",
+      "description": "Robust messaging for applications.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://dlthub.com",
+      "name": "dlt",
+      "url": "https://www.dlthub.com",
+      "description": "A fast&simple pipeline building library for Python data devs, runs in notebooks, cloud functions, airflow, etc.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/drt-hub/drt",
+      "name": "drt",
+      "url": "https://github.com/drt-hub/drt",
+      "description": "OSS Reverse ETL CLI. Sync data from warehouses to business tools via YAML.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://fluentd.org",
+      "name": "FluentD",
+      "url": "https://www.fluentd.org",
+      "description": "An open source data collector for unified logging layer.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://embulk.org",
+      "name": "Embulk",
+      "url": "https://www.embulk.org",
+      "description": "An open source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://sqoop.apache.org",
+      "name": "Apache Sqoop",
+      "url": "https://sqoop.apache.org",
+      "description": "A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/mozilla-services/heka",
+      "name": "Heka",
+      "url": "https://github.com/mozilla-services/heka",
+      "description": "Data Acquisition and Processing Made Easy. Deprecated.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-gobblin",
+      "name": "Gobblin",
+      "url": "https://github.com/apache/incubator-gobblin",
+      "description": "Universal data ingestion framework for Hadoop from LinkedIn.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://nakadi.io",
+      "name": "Nakadi",
+      "url": "https://nakadi.io",
+      "description": "An open source event messaging platform that provides a REST API on top of Kafka-like queues.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://pravega.io",
+      "name": "Pravega",
+      "url": "https://www.pravega.io",
+      "description": "Provides a new storage abstraction - a stream - for continuous and unbounded data.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://pulsar.apache.org",
+      "name": "Apache Pulsar",
+      "url": "https://pulsar.apache.org/",
+      "description": "An open-source distributed pub-sub messaging system.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/awslabs/aws-data-wrangler",
+      "name": "AWS Data Wrangler",
+      "url": "https://github.com/awslabs/aws-data-wrangler",
+      "description": "Utility belt to handle data on AWS.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://airbyte.io",
+      "name": "Airbyte",
+      "url": "https://airbyte.io/",
+      "description": "Open-source data integration for modern data teams.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://streams.dbconvert.com",
+      "name": "DBConvert Streams",
+      "url": "https://streams.dbconvert.com",
+      "description": "self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://artie.com",
+      "name": "Artie",
+      "url": "https://www.artie.com/",
+      "description": "Real-time data ingestion tool leveraging change data capture.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://slingdata.io",
+      "name": "Sling",
+      "url": "https://slingdata.io/",
+      "description": "CLI data integration tool specialized in moving data between databases, as well as storage systems.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://sdk.meltano.com",
+      "name": "Singer SDK",
+      "url": "https://sdk.meltano.com",
+      "description": "The fastest way to build custom data extractors and loaders compliant with the Singer Spec.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://meltano.com",
+      "name": "Meltano",
+      "url": "https://meltano.com/",
+      "description": "CLI & code-first ELT.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/fulldecent/google-sheets-etl",
+      "name": "Google Sheets ETL",
+      "url": "https://github.com/fulldecent/google-sheets-etl",
+      "description": "Live import all your Google Sheets to your data warehouse.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://csvpath.org",
+      "name": "CsvPath Framework",
+      "url": "https://www.csvpath.org/",
+      "description": "A delimited data preboarding framework that fills the gap between MFT and the data lake.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://estuary.dev",
+      "name": "Estuary Flow",
+      "url": "https://estuary.dev",
+      "description": "No/low-code data pipeline platform that handles both batch and real-time data ingestion.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/bahador-r/db2lake",
+      "name": "db2lake",
+      "url": "https://github.com/bahador-r/db2lake",
+      "description": "Lightweight Node.js ETL framework for databases → data lakes/warehouses.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/pujansrt/data-genie",
+      "name": "data-genie",
+      "url": "https://github.com/pujansrt/data-genie",
+      "description": "High-performance, streaming-first ETL engine for Node.js and TypeScript with constant memory footprint.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/kreuzberg-dev/kreuzberg",
+      "name": "Kreuzberg",
+      "url": "https://github.com/kreuzberg-dev/kreuzberg",
+      "description": "Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/NameetP/pdfmux",
+      "name": "pdfmux",
+      "url": "https://github.com/NameetP/pdfmux",
+      "description": "Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://dataraven.io",
+      "name": "DataRaven",
+      "url": "https://dataraven.io/",
+      "description": "Managed cloud object storage transfers for ingestion workflows.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://xquik.com",
+      "name": "Xquik",
+      "url": "https://xquik.com",
+      "description": "Real-time X (Twitter) data extraction platform with REST API (76 endpoints), 20 bulk extraction tools, account monitoring, HMAC-signed webhooks, and MCP server for AI agent integration.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://arpe.io",
+      "name": "Arpe.io",
+      "url": "https://www.arpe.io/",
+      "description": "High-speed CLI tools for database export, import, replication and migration with parallel streaming to CSV, Parquet, JSON and cloud storage, supporting PostgreSQL, MySQL, Oracle, SQL Server and 80+ sources.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://crustdata.com",
+      "name": "Crustdata",
+      "url": "https://crustdata.com",
+      "description": "A real-time B2B data API for company and people intelligence, providing firmographics, headcount signals, job listings, web traffic, and funding events via REST API and webhooks for data enrichment pipelines.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/mgillr/crdt-merge",
+      "name": "crdt-merge",
+      "url": "https://github.com/mgillr/crdt-merge",
+      "description": "Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://apify.com/cryptosignals/linkedin-jobs-scraper",
+      "name": "LinkedIn Jobs Scraper",
+      "url": "https://apify.com/cryptosignals/linkedin-jobs-scraper",
+      "description": "Crawlee-based actor extracting structured LinkedIn job listings at scale without API keys.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/whispering3/CARQ",
+      "name": "CARQ",
+      "url": "https://github.com/whispering3/CARQ",
+      "description": "Context-Aware RAG Processing Queue for high availability and adaptive rate-limiting.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/SouravRoy-ETL/duckle",
+      "name": "Duckle",
+      "url": "https://github.com/SouravRoy-ETL/duckle",
+      "description": "Local-first, open-source desktop ETL/ELT studio: drag a pipeline onto a canvas (or describe it to a built-in on-device AI assistant) and run it at native speed through DuckDB. 290+ connectors, a scheduler, and an MCP server for driving pipelines from an LLM. No cloud, no servers.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/mirlan-irokez/rawbbit",
+      "name": "Rawbbit",
+      "url": "https://github.com/mirlan-irokez/rawbbit",
+      "description": "Open-source self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Uses NATS JetStream for durable buffering and BigQuery external tables for querying. Designed for teams that want to own their raw event data.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/PawanSikawat/faucet-stream",
+      "name": "faucet-stream",
+      "url": "https://github.com/PawanSikawat/faucet-stream",
+      "description": "Config-driven data-movement platform for Rust with pluggable source and sink connectors, running ETL, CDC, and streaming pipelines declaratively from YAML or embedded as a library.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/spotify/snakebite",
+      "name": "Snakebite",
+      "url": "https://github.com/spotify/snakebite",
+      "description": "A pure python HDFS client.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html",
+      "name": "HDFS",
+      "url": "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html",
+      "description": "A distributed file system designed to run on commodity hardware.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://github.com/RaRe-Technologies/smart_open",
+      "name": "smart_open",
+      "url": "https://github.com/RaRe-Technologies/smart_open",
+      "description": "Utils for streaming large files (S3, HDFS, gzip, bz2).",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/s3",
+      "name": "AWS S3",
+      "url": "https://aws.amazon.com/s3/",
+      "description": "Object storage built to retrieve any amount of data from anywhere.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://alluxio.org",
+      "name": "Alluxio",
+      "url": "https://www.alluxio.org/",
+      "description": "A memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://ceph.com",
+      "name": "CEPH",
+      "url": "https://ceph.com/",
+      "description": "A unified, distributed storage system designed for excellent performance, reliability, and scalability.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://github.com/juicedata/juicefs",
+      "name": "JuiceFS",
+      "url": "https://github.com/juicedata/juicefs",
+      "description": "A high-performance Cloud-Native file system driven by object storage for large-scale data storage.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://orangefs.org",
+      "name": "OrangeFS",
+      "url": "https://www.orangefs.org/",
+      "description": "Orange File System is a branch of the Parallel Virtual File System.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://github.com/tuplejump/snackfs-release",
+      "name": "SnackFS",
+      "url": "https://github.com/tuplejump/snackfs-release",
+      "description": "A bite-sized, lightweight HDFS compatible file system built over Cassandra.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://gluster.org",
+      "name": "GlusterFS",
+      "url": "https://www.gluster.org/",
+      "description": "Gluster Filesystem.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://xtreemfs.org",
+      "name": "XtreemFS",
+      "url": "https://www.xtreemfs.org/",
+      "description": "Fault-tolerant distributed file system for all storage needs.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://github.com/chrislusf/seaweedfs",
+      "name": "SeaweedFS",
+      "url": "https://github.com/chrislusf/seaweedfs",
+      "description": "Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word \"NoSQL\", you can call it as \"NoFS\".",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://github.com/s3ql/s3ql",
+      "name": "S3QL",
+      "url": "https://github.com/s3ql/s3ql/",
+      "description": "A file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://lizardfs.com",
+      "name": "LizardFS",
+      "url": "https://lizardfs.com/",
+      "description": "Software Defined Storage is a distributed, parallel, scalable, fault-tolerant, Geo-Redundant and highly available file system.",
+      "section": [
+        "File System"
+      ]
+    },
+    {
+      "key": "https://github.com/HMAKT99/AKF",
+      "name": "AKF",
+      "url": "https://github.com/HMAKT99/AKF",
+      "description": "The AI native file format. Trust scores, source provenance, and compliance metadata that embed into 20+ formats (DOCX, PDF, images, code). EXIF for AI.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://avro.apache.org",
+      "name": "Apache Avro",
+      "url": "https://avro.apache.org",
+      "description": "Apache Avro™ is a data serialization system.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://github.com/google/snappy",
+      "name": "Snappy",
+      "url": "https://github.com/google/snappy",
+      "description": "A fast compressor/decompressor. Used with Parquet.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://zlib.net/pigz",
+      "name": "PigZ",
+      "url": "https://zlib.net/pigz/",
+      "description": "A parallel implementation of gzip for modern multi-processor, multi-core machines.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://parquet.apache.org",
+      "name": "Apache Parquet",
+      "url": "https://parquet.apache.org",
+      "description": "A columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://orc.apache.org",
+      "name": "Apache ORC",
+      "url": "https://orc.apache.org/",
+      "description": "The smallest, fastest columnar storage for Hadoop workloads.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://thrift.apache.org",
+      "name": "Apache Thrift",
+      "url": "https://thrift.apache.org",
+      "description": "The Apache Thrift software framework, for scalable cross-language services development.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://github.com/protocolbuffers/protobuf",
+      "name": "ProtoBuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://wiki.apache.org/hadoop/SequenceFile",
+      "name": "SequenceFile",
+      "url": "https://wiki.apache.org/hadoop/SequenceFile",
+      "description": "A flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://github.com/EsotericSoftware/kryo",
+      "name": "Kryo",
+      "url": "https://github.com/EsotericSoftware/kryo",
+      "description": "A fast and efficient object graph serialization framework for Java.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://github.com/ImpossibleForge/pfc-jsonl",
+      "name": "PFC-JSONL",
+      "url": "https://github.com/ImpossibleForge/pfc-jsonl",
+      "description": "Specialized JSONL log compressor with block-level timestamp indexing and DuckDB integration. Achieves ~9% compression ratio (better than gzip) with time-range random access queries.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://parquetkit.com",
+      "name": "ParquetKit",
+      "url": "https://parquetkit.com",
+      "description": "Browser-based viewer, SQL workbench and converter for Parquet files powered by DuckDB-WASM. Fully client-side, no upload.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://beam.apache.org",
+      "name": "Apache Beam",
+      "url": "https://beam.apache.org/",
+      "description": "A unified programming model that implements both batch and streaming data processing jobs that run on many execution engines.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://spark.apache.org/streaming",
+      "name": "Spark Streaming",
+      "url": "https://spark.apache.org/streaming/",
+      "description": "Makes it easy to build scalable fault-tolerant streaming applications.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://flink.apache.org",
+      "name": "Apache Flink",
+      "url": "https://flink.apache.org/",
+      "description": "A streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://storm.apache.org",
+      "name": "Apache Storm",
+      "url": "https://storm.apache.org",
+      "description": "A free and open source distributed realtime computation system.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://samza.apache.org",
+      "name": "Apache Samza",
+      "url": "https://samza.apache.org",
+      "description": "A distributed stream processing framework.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://nifi.apache.org",
+      "name": "Apache NiFi",
+      "url": "https://nifi.apache.org/",
+      "description": "An easy to use, powerful, and reliable system to process and distribute data.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://hudi.apache.org",
+      "name": "Apache Hudi",
+      "url": "https://hudi.apache.org/",
+      "description": "An open source framework for managing storage for real time processing, one of the most interesting feature is the Upsert.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/cocoindex-io/cocoindex",
+      "name": "CocoIndex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "An open source ETL framework to build fresh index for AI.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://voltdb.com",
+      "name": "VoltDB",
+      "url": "https://voltdb.com/",
+      "description": "An ACID-compliant RDBMS which uses a shared nothing architecture.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/pipelinedb/pipelinedb",
+      "name": "PipelineDB",
+      "url": "https://github.com/pipelinedb/pipelinedb",
+      "description": "The Streaming SQL Database.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://cloud.spring.io/spring-cloud-dataflow",
+      "name": "Spring Cloud Dataflow",
+      "url": "https://cloud.spring.io/spring-cloud-dataflow/",
+      "description": "Streaming and tasks execution between Spring Boot apps.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://bonobo-project.org",
+      "name": "Bonobo",
+      "url": "https://www.bonobo-project.org/",
+      "description": "A data-processing toolkit for python 3.5+.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/faust-streaming/faust",
+      "name": "Robinhood's Faust",
+      "url": "https://github.com/faust-streaming/faust",
+      "description": "Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/hstreamdb/hstream",
+      "name": "HStreamDB",
+      "url": "https://github.com/hstreamdb/hstream",
+      "description": "The streaming database built for IoT data storage and real-time processing.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/emqx/kuiper",
+      "name": "Kuiper",
+      "url": "https://github.com/emqx/kuiper",
+      "description": "An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/aklivity/zilla",
+      "name": "Zilla",
+      "url": "https://github.com/aklivity/zilla",
+      "description": "An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/swimos/swim-rust",
+      "name": "SwimOS",
+      "url": "https://github.com/swimos/swim-rust",
+      "description": "A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/pathwaycom/pathway",
+      "name": "Pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html",
+      "name": "Hadoop MapReduce",
+      "url": "https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html",
+      "description": "A software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) - in-parallel on large clusters (thousands of nodes) - of commodity hardware in a reliable, fault-tolerant manner.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://spark-packages.org",
+      "name": "Spark Packages",
+      "url": "https://spark-packages.org",
+      "description": "A community index of packages for Apache Spark.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/Stratio/deep-spark",
+      "name": "Deep Spark",
+      "url": "https://github.com/Stratio/deep-spark",
+      "description": "Connecting Apache Spark with different data stores. Deprecated.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html",
+      "name": "Spark RDD API Examples",
+      "url": "https://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html",
+      "description": "Examples by Zhen He.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://livy.incubator.apache.org",
+      "name": "Livy",
+      "url": "https://livy.incubator.apache.org",
+      "description": "The REST Spark Server.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/datamechanics/delight",
+      "name": "Delight",
+      "url": "https://github.com/datamechanics/delight",
+      "description": "A free & cross platform monitoring tool (Spark UI / Spark History Server alternative).",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://spark.apache.org",
+      "name": "Spark",
+      "url": "https://spark.apache.org/",
+      "description": "A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/emr",
+      "name": "AWS EMR",
+      "url": "https://aws.amazon.com/emr/",
+      "description": "A web service that makes it easy to quickly and cost-effectively process vast amounts of data.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://datamechanics.co",
+      "name": "Data Mechanics",
+      "url": "https://www.datamechanics.co",
+      "description": "A cloud-based platform deployed on Kubernetes making Apache Spark more developer-friendly and cost-effective.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://tez.apache.org",
+      "name": "Tez",
+      "url": "https://tez.apache.org/",
+      "description": "An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/asavinov/bistro",
+      "name": "Bistro",
+      "url": "https://github.com/asavinov/bistro",
+      "description": "A light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via functions and processes data via columns operations as opposed to having only set operations in conventional approaches like MapReduce or SQL.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/brexhq/substation",
+      "name": "Substation",
+      "url": "https://github.com/brexhq/substation",
+      "description": "A cloud native data pipeline and transformation toolkit written in Go.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/shmlkv/dna-claude-analysis",
+      "name": "dna-claude-analysis",
+      "url": "https://github.com/shmlkv/dna-claude-analysis",
+      "description": "Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://h2o.ai",
+      "name": "H2O",
+      "url": "https://www.h2o.ai/",
+      "description": "Fast scalable machine learning API for smarter applications.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://mahout.apache.org",
+      "name": "Mahout",
+      "url": "https://mahout.apache.org/",
+      "description": "An environment for quickly creating scalable performant machine learning applications.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://spark.apache.org/docs/latest/ml-guide.html",
+      "name": "Spark MLlib",
+      "url": "https://spark.apache.org/docs/latest/ml-guide.html",
+      "description": "Spark's scalable machine learning library consisting of common learning algorithms and utilities, including classification, regression, clustering, collaborative filtering, dimensionality reduction, as well as underlying optimization primitives.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/rbmuller/datatrax",
+      "name": "Datatrax",
+      "url": "https://github.com/rbmuller/datatrax",
+      "description": "Pure-Go classic machine learning toolkit and data engineering utilities. Eight algorithms with zero external dependencies.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://zingg.ai",
+      "name": "Zingg",
+      "url": "https://www.zingg.ai/",
+      "description": "Open source Master Data Management platform using machine learning for entity resolution at scale. Native to Databricks, Microsoft Fabric, Snowflake, AWS, and GCP. Golden records are maintained through a persistent Zingg ID across all systems and sources.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://turi.com/products/create/docs",
+      "name": "GraphLab Create",
+      "url": "https://turi.com/products/create/docs/",
+      "description": "A machine learning platform that enables data scientists and app developers to easily create intelligent apps at scale.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://giraph.apache.org",
+      "name": "Giraph",
+      "url": "https://giraph.apache.org/",
+      "description": "An iterative graph processing system built for high scalability.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://spark.apache.org/graphx",
+      "name": "Spark GraphX",
+      "url": "https://spark.apache.org/graphx/",
+      "description": "Apache Spark's API for graphs and graph-parallel computation.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://prestodb.github.io/docs/current/index.html",
+      "name": "Presto",
+      "url": "https://prestodb.github.io/docs/current/index.html",
+      "description": "A distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-hivemall",
+      "name": "Hivemall",
+      "url": "https://github.com/apache/incubator-hivemall",
+      "description": "Scalable machine learning library for Hive/Hadoop.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/dropbox/PyHive",
+      "name": "PyHive",
+      "url": "https://github.com/dropbox/PyHive",
+      "description": "Python interface to Hive and Presto.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://hive.apache.org",
+      "name": "Hive",
+      "url": "https://hive.apache.org",
+      "description": "Data warehouse software facilitates querying and managing large datasets residing in distributed storage.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://drill.apache.org",
+      "name": "Drill",
+      "url": "https://drill.apache.org/",
+      "description": "Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.",
+      "section": [
+        "Batch Processing"
+      ]
+    },
+    {
+      "key": "https://highcharts.com",
+      "name": "Highcharts",
+      "url": "https://www.highcharts.com/",
+      "description": "A charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://zingchart.com",
+      "name": "ZingChart",
+      "url": "https://www.zingchart.com/",
+      "description": "Fast JavaScript charts for any data set.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://c3js.org",
+      "name": "C3.js",
+      "url": "https://c3js.org",
+      "description": "D3-based reusable chart library.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://d3plus.org",
+      "name": "D3Plus",
+      "url": "https://d3plus.org",
+      "description": "D3's simpler, easier to use cousin. Mostly predefined templates that you can just plug data in.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://d3js.org",
+      "name": "D3.js",
+      "url": "https://d3js.org/",
+      "description": "A JavaScript library for manipulating documents based on data.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://smoothiecharts.org",
+      "name": "SmoothieCharts",
+      "url": "https://smoothiecharts.org",
+      "description": "A JavaScript Charting Library for Streaming Data.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://github.com/stitchfix/pyxley",
+      "name": "PyXley",
+      "url": "https://github.com/stitchfix/pyxley",
+      "description": "Python helpers for building dashboards using Flask and React.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://github.com/plotly/dash",
+      "name": "Plotly",
+      "url": "https://github.com/plotly/dash",
+      "description": "Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-superset",
+      "name": "Apache Superset",
+      "url": "https://github.com/apache/incubator-superset",
+      "description": "A modern, enterprise-ready business intelligence web application.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://redash.io",
+      "name": "Redash",
+      "url": "https://redash.io/",
+      "description": "Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://github.com/metabase/metabase",
+      "name": "Metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy, open source way for everyone in your company to ask questions and learn from data.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://stratif.io",
+      "name": "stratif.io",
+      "url": "https://stratif.io",
+      "description": "Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and paths directly on DuckDB, Postgres, Snowflake, or ClickHouse.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://pyqtgraph.org",
+      "name": "PyQtGraph",
+      "url": "https://www.pyqtgraph.org/",
+      "description": "A pure-python graphics and GUI library built on PyQt4 / PySide and numpy. It is intended for use in mathematics / scientific / engineering applications.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://seaborn.pydata.org",
+      "name": "Seaborn",
+      "url": "https://seaborn.pydata.org",
+      "description": "A Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://github.com/MKY508/QueryGPT",
+      "name": "QueryGPT",
+      "url": "https://github.com/MKY508/QueryGPT",
+      "description": "Natural language database query interface with automatic chart generation, supporting Chinese and English queries.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://aifordatabase.com",
+      "name": "AI for Database",
+      "url": "https://aifordatabase.com/",
+      "description": "Agentic AI platform to connect any database (PostgreSQL, MySQL, MongoDB, etc.) and query in plain English; includes self-refreshing intelligent dashboards and action workflows triggered by data changes.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://github.com/dekart-xyz/dekart",
+      "name": "Dekart",
+      "url": "https://github.com/dekart-xyz/dekart",
+      "description": "Open-source SQL to map platform for BigQuery, Snowflake, and PostGIS.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://lunapad.dev",
+      "name": "LunaPad",
+      "url": "https://lunapad.dev/",
+      "description": "Open-source analytics notebook for reusable SQL workflows, interactive reports, and AI-assisted data exploration.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://bonnard.dev",
+      "name": "Bonnard",
+      "url": "https://bonnard.dev/",
+      "description": "Governed, multi-tenant MCP access to your customers' data. Turn your warehouse, dbt, or semantic layer into a secure, per-customer MCP for AI agents.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/supernovae-st/nika",
+      "name": "Nika",
+      "url": "https://github.com/supernovae-st/nika",
+      "description": "Intent-as-code workflow engine for AI data pipelines: reviewable YAML DAGs statically checked (schema, permits, cost floor) before execution, with tamper-evident run traces.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/ralfbecher/orionbelt-semantic-layer",
+      "name": "OrionBelt Semantic Layer",
+      "url": "https://github.com/ralfbecher/orionbelt-semantic-layer",
+      "description": "Open-source semantic sidecar that compiles YAML-defined dimensions, measures, and metrics into optimized SQL across 8 engines (BigQuery, ClickHouse, Databricks, Dremio, DuckDB, MySQL, PostgreSQL, Snowflake). Unified REST, MCP, and Postgres wire protocol; one model powers AI agents, analytics, DQ rules, and KPIs.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/bruin-data/bruin",
+      "name": "Bruin",
+      "url": "https://github.com/bruin-data/bruin",
+      "description": "End-to-end data pipeline tool that combines ingestion, transformation (SQL + Python), and data quality in a single CLI. Connects to BigQuery, Snowflake, PostgreSQL, Redshift, and more. Includes VS Code extension with live previews.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenDCAI/DataFlow",
+      "name": "DataFlow",
+      "url": "https://github.com/OpenDCAI/DataFlow",
+      "description": "Open-source platform for data preparation, synthetic data generation, and AI/data pipelines. Includes reusable skills for automating workflow steps across data and AI tasks.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/spotify/luigi",
+      "name": "Luigi",
+      "url": "https://github.com/spotify/luigi",
+      "description": "A Python module that helps you build complex pipelines of batch jobs.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/seatgeek/cronq",
+      "name": "CronQ",
+      "url": "https://github.com/seatgeek/cronq",
+      "description": "An application cron-like system. Used w/Luigi. Deprecated.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://cascading.org",
+      "name": "Cascading",
+      "url": "https://www.cascading.org/",
+      "description": "Java based application development platform.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/airflow",
+      "name": "Airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "A system to programmatically author, schedule, and monitor data pipelines.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://azkaban.github.io",
+      "name": "Azkaban",
+      "url": "https://azkaban.github.io/",
+      "description": "A batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy-to-use web user interface to maintain and track your workflows.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://oozie.apache.org",
+      "name": "Oozie",
+      "url": "https://oozie.apache.org/",
+      "description": "A workflow scheduler system to manage Apache Hadoop jobs.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/pinterest/pinball",
+      "name": "Pinball",
+      "url": "https://github.com/pinterest/pinball",
+      "description": "DAG based workflow manager. Job flows are defined programmatically in Python. Support output passing between jobs.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/dagster-io/dagster",
+      "name": "Dagster",
+      "url": "https://github.com/dagster-io/dagster",
+      "description": "An open-source Python library for building data applications.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/dagworks-inc/hamilton",
+      "name": "Hamilton",
+      "url": "https://github.com/dagworks-inc/hamilton",
+      "description": "A lightweight library to define data transformations as a directed-acyclic graph (DAG). If you like dbt for SQL transforms, you will like Hamilton for Python processing.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://kedro.readthedocs.io/en/latest",
+      "name": "Kedro",
+      "url": "https://kedro.readthedocs.io/en/latest/",
+      "description": "A framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://dataform.co",
+      "name": "Dataform",
+      "url": "https://dataform.co/",
+      "description": "An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/dotflow-io/dotflow",
+      "name": "Dotflow",
+      "url": "https://github.com/dotflow-io/dotflow",
+      "description": "A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://getcensus.com",
+      "name": "Census",
+      "url": "https://getcensus.com/",
+      "description": "A reverse-ETL tool that let you sync data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://getdbt.com",
+      "name": "dbt",
+      "url": "https://getdbt.com/",
+      "description": "A command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/kestra-io/kestra",
+      "name": "Kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/rudderlabs/rudder-server",
+      "name": "RudderStack",
+      "url": "https://github.com/rudderlabs/rudder-server",
+      "description": "A warehouse-first Customer Data Platform that enables you to collect data from every application, website and SaaS platform, and then activate it in your warehouse and business tools.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/getstrm/pace",
+      "name": "PACE",
+      "url": "https://github.com/getstrm/pace",
+      "description": "An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/wordbricks/onequery",
+      "name": "OneQuery",
+      "url": "https://github.com/wordbricks/onequery",
+      "description": "Self-hosted gateway for safe, auditable queries for agents across approved data sources.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://prefect.io",
+      "name": "Prefect",
+      "url": "https://prefect.io/",
+      "description": "An orchestration and observability platform. With it, developers can rapidly build and scale resilient code, and triage disruptions effortlessly.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/Multiwoven/multiwoven",
+      "name": "Multiwoven",
+      "url": "https://github.com/Multiwoven/multiwoven",
+      "description": "The open-source reverse ETL, data activation platform for modern data teams.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://suprsend.com/products/workflows",
+      "name": "SuprSend",
+      "url": "https://www.suprsend.com/products/workflows",
+      "description": "Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://mage.ai",
+      "name": "Mage",
+      "url": "https://www.mage.ai",
+      "description": "Open-source data pipeline tool for transforming and integrating data.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://sqlmesh.readthedocs.io",
+      "name": "SQLMesh",
+      "url": "https://sqlmesh.readthedocs.io",
+      "description": "An open-source data transformation framework for managing, testing, and deploying SQL and Python-based data pipelines with version control, environment isolation, and automatic dependency resolution.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
+      "key": "https://github.com/treeverse/lakeFS",
+      "name": "lakeFS",
+      "url": "https://github.com/treeverse/lakeFS",
+      "description": "An open source platform that delivers resilience and manageability to object-storage based data lakes.",
+      "section": [
+        "Data Lake Management"
+      ]
+    },
+    {
+      "key": "https://github.com/projectnessie/nessie",
+      "name": "Project Nessie",
+      "url": "https://github.com/projectnessie/nessie",
+      "description": "A Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.",
+      "section": [
+        "Data Lake Management"
+      ]
+    },
+    {
+      "key": "https://ilum.cloud",
+      "name": "Ilum",
+      "url": "https://ilum.cloud/",
+      "description": "A modular Data Lakehouse platform that simplifies the management and monitoring of Apache Spark clusters across Kubernetes and Hadoop environments.",
+      "section": [
+        "Data Lake Management"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/gravitino",
+      "name": "Gravitino",
+      "url": "https://github.com/apache/gravitino",
+      "description": "An open-source, unified metadata management for data lakes, data warehouses, and external catalogs.",
+      "section": [
+        "Data Lake Management"
+      ]
+    },
+    {
+      "key": "https://flightpathdata.com",
+      "name": "FlightPath Data",
+      "url": "https://www.flightpathdata.com",
+      "description": "FlightPath is a gateway to a data lake's bronze layer, protecting it from invalid external data file feeds as a trusted publisher.",
+      "section": [
+        "Data Lake Management"
+      ]
+    },
+    {
+      "key": "https://rawquery.dev",
+      "name": "rawquery",
+      "url": "https://rawquery.dev",
+      "description": "Managed lakehouse platform on Apache Iceberg with DuckDB query compute, S3 storage, Postgres wire protocol, and SQL transforms.",
+      "section": [
+        "Data Lake Management"
+      ]
+    },
+    {
+      "key": "https://github.com/pblittle/docker-logstash",
+      "name": "docker-logstash",
+      "url": "https://github.com/pblittle/docker-logstash",
+      "description": "A highly configurable Logstash (1.4.4) - Docker image running Elasticsearch (1.7.0) - and Kibana (3.1.2).",
+      "section": [
+        "ELK Elastic Logstash Kibana"
+      ]
+    },
+    {
+      "key": "https://github.com/jprante/elasticsearch-jdbc",
+      "name": "elasticsearch-jdbc",
+      "url": "https://github.com/jprante/elasticsearch-jdbc",
+      "description": "JDBC importer for Elasticsearch.",
+      "section": [
+        "ELK Elastic Logstash Kibana"
+      ]
+    },
+    {
+      "key": "https://github.com/zombodb/zombodb",
+      "name": "ZomboDB",
+      "url": "https://github.com/zombodb/zombodb",
+      "description": "PostgreSQL Extension that allows creating an index backed by Elasticsearch.",
+      "section": [
+        "ELK Elastic Logstash Kibana"
+      ]
+    },
+    {
+      "key": "https://github.com/redbooth/gockerize",
+      "name": "Gockerize",
+      "url": "https://github.com/redbooth/gockerize",
+      "description": "Package golang service into minimal Docker containers.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/ClusterHQ/flocker",
+      "name": "Flocker",
+      "url": "https://github.com/ClusterHQ/flocker",
+      "description": "Easily manage Docker containers & their data.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://rancher.com/rancher-os",
+      "name": "Rancher",
+      "url": "https://rancher.com/rancher-os/",
+      "description": "RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://kontena.io",
+      "name": "Kontena",
+      "url": "https://www.kontena.io/",
+      "description": "Application Containers for Masses.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/weaveworks/weave",
+      "name": "Weave",
+      "url": "https://github.com/weaveworks/weave",
+      "description": "Weaving Docker containers into applications.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/CenturyLinkLabs/zodiac",
+      "name": "Zodiac",
+      "url": "https://github.com/CenturyLinkLabs/zodiac",
+      "description": "A lightweight tool for easy deployment and rollback of dockerized applications.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/google/cadvisor",
+      "name": "cAdvisor",
+      "url": "https://github.com/google/cadvisor",
+      "description": "Analyzes resource usage and performance characteristics of running containers.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/figadore/micro-s3-persistence",
+      "name": "Micro S3 persistence",
+      "url": "https://github.com/figadore/micro-s3-persistence",
+      "description": "Docker microservice for saving/restoring volume data to S3.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/grammarly/rocker-compose",
+      "name": "Rocker-compose",
+      "url": "https://github.com/grammarly/rocker-compose",
+      "description": "Docker composition tool with idempotency features for deploying apps composed of multiple containers. Deprecated.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://github.com/hashicorp/nomad",
+      "name": "Nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "description": "A cluster manager, designed for both long-lived services and short-lived batch processing workloads.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://imagelayers.io",
+      "name": "ImageLayers",
+      "url": "https://imagelayers.io/",
+      "description": "Visualize Docker images and the layers that compose them.",
+      "section": [
+        "Docker"
+      ]
+    },
+    {
+      "key": "https://api.dexpaprika.com",
+      "name": "DexPaprika",
+      "url": "https://api.dexpaprika.com",
+      "description": "Free real-time DEX data via SSE streaming across 34 blockchains. 30M+ pools, 27M+ tokens, ~1 second price updates. No API key, no rate limits. Docs",
+      "section": [
+        "Datasets",
+        "Realtime"
+      ]
+    },
+    {
+      "key": "https://github.com/connerlambden/helium-mcp",
+      "name": "Helium MCP",
+      "url": "https://github.com/connerlambden/helium-mcp",
+      "description": "Remote MCP server for real-time financial data, 3.2M+ news articles, ML options pricing, and news bias analysis. Free, no API key. MCP",
+      "section": [
+        "Datasets",
+        "Realtime"
+      ]
+    },
+    {
+      "key": "https://developer.twitter.com/en/docs/tweets/filter-realtime/overview",
+      "name": "Twitter Realtime",
+      "url": "https://developer.twitter.com/en/docs/tweets/filter-realtime/overview",
+      "description": "The Streaming APIs give developers low latency access to Twitter's global stream of Tweet data.",
+      "section": [
+        "Datasets",
+        "Realtime"
+      ]
+    },
+    {
+      "key": "https://api.sorsa.io",
+      "name": "Sorsa API",
+      "url": "https://api.sorsa.io",
+      "description": "Real-time X (Twitter) data API providing tweets, profiles, search, communities and engagement metrics. Up to 50x cheaper than the official X API with 20 req/sec rate limit, JSON output.",
+      "section": [
+        "Datasets",
+        "Realtime"
+      ]
+    },
+    {
+      "key": "https://github.com/Interana/eventsim",
+      "name": "Eventsim",
+      "url": "https://github.com/Interana/eventsim",
+      "description": "Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.",
+      "section": [
+        "Datasets",
+        "Realtime"
+      ]
+    },
+    {
+      "key": "https://eventum.run",
+      "name": "Eventum",
+      "url": "https://eventum.run",
+      "description": "Data generation platform for producing synthetic event streams with complex correlations.",
+      "section": [
+        "Datasets",
+        "Realtime"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/",
+      "description": "Real-time data is available including comments, submissions and links posted to reddit.",
+      "section": [
+        "Datasets",
+        "Realtime"
+      ]
+    },
+    {
+      "key": "https://gharchive.org",
+      "name": "GitHub Archive",
+      "url": "https://www.gharchive.org/",
+      "description": "GitHub's public timeline since 2011, updated every hour.",
+      "section": [
+        "Datasets",
+        "Data Dumps"
+      ]
+    },
+    {
+      "key": "https://commoncrawl.org",
+      "name": "Common Crawl",
+      "url": "https://commoncrawl.org/",
+      "description": "Open source repository of web crawl data.",
+      "section": [
+        "Datasets",
+        "Data Dumps"
+      ]
+    },
+    {
+      "key": "https://dumps.wikimedia.org/enwiki/latest",
+      "name": "Wikipedia",
+      "url": "https://dumps.wikimedia.org/enwiki/latest/",
+      "description": "Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.",
+      "section": [
+        "Datasets",
+        "Data Dumps"
+      ]
+    },
+    {
+      "key": "https://jeevesagency.github.io/quiet-broke-index",
+      "name": "The Quiet-Broke Index",
+      "url": "https://jeevesagency.github.io/quiet-broke-index/",
+      "description": "A 30-metro composite of US household cost burdens (housing, taxes, childcare, healthcare, transport) aggregated from Census ACS, BLS Consumer Expenditure Survey, and HUD Fair Market Rents. Open methodology, free, no email gate.",
+      "section": [
+        "Datasets",
+        "Data Dumps"
+      ]
+    },
+    {
+      "key": "https://github.com/MLT-OSS/FirstData",
+      "name": "FirstData",
+      "url": "https://github.com/MLT-OSS/FirstData",
+      "description": "The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.",
+      "section": [
+        "Datasets",
+        "Data Dumps"
+      ]
+    },
+    {
+      "key": "https://github.com/MindweaveTech/sme-sim-sample",
+      "name": "Mindweave Synthetic Business Data",
+      "url": "https://github.com/MindweaveTech/sme-sim-sample",
+      "description": "42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.",
+      "section": [
+        "Datasets",
+        "Data Dumps"
+      ]
+    },
+    {
+      "key": "https://apify.com/jmendozapuche/latam-synth",
+      "name": "LatAm Synth",
+      "url": "https://apify.com/jmendozapuche/latam-synth",
+      "description": "Synthetic financial savings behavior generator for Latin America: users, savings goals, and transactions calibrated on 506K real records (2015–2024). Reproducible by seed, 100% synthetic.",
+      "section": [
+        "Datasets",
+        "Data Dumps"
+      ]
+    },
+    {
+      "key": "https://github.com/prometheus/prometheus",
+      "name": "Prometheus.io",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "An open-source service monitoring system and time series database.",
+      "section": [
+        "Monitoring",
+        "Prometheus"
+      ]
+    },
+    {
+      "key": "https://github.com/prometheus/haproxy_exporter",
+      "name": "HAProxy Exporter",
+      "url": "https://github.com/prometheus/haproxy_exporter",
+      "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.",
+      "section": [
+        "Monitoring",
+        "Prometheus"
+      ]
+    },
+    {
+      "key": "https://github.com/sortlist/signals-cli",
+      "name": "Signals CLI",
+      "url": "https://github.com/sortlist/signals-cli",
+      "description": "Intent signal monitoring CLI. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for data pipelines.",
+      "section": [
+        "Monitoring",
+        "Prometheus"
+      ]
+    },
+    {
+      "key": "https://github.com/capitalone/dataprofiler",
+      "name": "Data Profiler",
+      "url": "https://github.com/capitalone/dataprofiler",
+      "description": "The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.",
+      "section": [
+        "Profiling",
+        "Data Profiler"
+      ]
+    },
+    {
+      "key": "https://docs.profiling.ydata.ai/latest",
+      "name": "YData Profiling",
+      "url": "https://docs.profiling.ydata.ai/latest/",
+      "description": "A general-purpose open-source data profiler for high-level analysis of a dataset.",
+      "section": [
+        "Profiling",
+        "Data Profiler"
+      ]
+    },
+    {
+      "key": "https://github.com/desbordante/desbordante-core",
+      "name": "Desbordante",
+      "url": "https://github.com/desbordante/desbordante-core",
+      "description": "An open-source data profiler specifically focused on discovery and validation of complex patterns in data.",
+      "section": [
+        "Profiling",
+        "Data Profiler"
+      ]
+    },
+    {
+      "key": "https://schemacrawler.com",
+      "name": "SchemaCrawler",
+      "url": "https://www.schemacrawler.com/",
+      "description": "Open-source and free relational database schema discovery and comprehension tool. Documents and diagrams relational database schemas from your Java programs, build tools and the command line. Find database design issues with lint, and write scripts against the database. Includes an MCP Server for use by AI agents.",
+      "section": [
+        "Schema"
+      ]
+    },
+    {
+      "key": "https://github.com/aegis-dq/aegis-dq",
+      "name": "Aegis DQ",
+      "url": "https://github.com/aegis-dq/aegis-dq",
+      "description": "Open-source agentic data quality framework with LLM-powered diagnosis, root-cause analysis, SQL auto-fix proposals, and 31 rule types — DuckDB, Postgres, BigQuery, Databricks, Athena, Snowflake.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/grai-io/grai-core",
+      "name": "Grai",
+      "url": "https://github.com/grai-io/grai-core/",
+      "description": "A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/dqops/dqo",
+      "name": "DQOps",
+      "url": "https://github.com/dqops/dqo",
+      "description": "An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://datakitchen.io",
+      "name": "DataKitchen",
+      "url": "https://datakitchen.io/",
+      "description": "Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://greatexpectations.io",
+      "name": "GreatExpectation",
+      "url": "https://greatexpectations.io/",
+      "description": "Open Source data validation framework to manage data quality. Users can define and document “expectations” rules about how data should look and behave.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/provero-org/provero",
+      "name": "Provero",
+      "url": "https://github.com/provero-org/provero",
+      "description": "A vendor-neutral, declarative data quality engine. Define checks in YAML, run anywhere. Includes 16 built-in check types, SQL batch optimizer, anomaly detection, and data contracts.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/rbmuller/scherlok",
+      "name": "Scherlok",
+      "url": "https://github.com/rbmuller/scherlok",
+      "description": "Zero-config data quality CLI. Profiles every table on first run, then auto-detects anomalies (volume drops, schema drift, freshness misses, distribution shifts) on subsequent runs. No YAML, no rules to write. Works with Postgres, BigQuery, Snowflake, and dbt.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://runsql.com",
+      "name": "RunSQL",
+      "url": "https://runsql.com/",
+      "description": "Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://sparkplayground.com",
+      "name": "Spark Playground",
+      "url": "https://www.sparkplayground.com/",
+      "description": "Write, run, and test PySpark code on Spark Playground's online compiler. Access real-world sample datasets & solve interview questions to enhance your PySpark skills for data engineering roles.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/vertti/daffy",
+      "name": "daffy",
+      "url": "https://github.com/vertti/daffy/",
+      "description": "Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/nnnkkk7/snowflake-emulator",
+      "name": "Snowflake Emulator",
+      "url": "https://github.com/nnnkkk7/snowflake-emulator",
+      "description": "A Snowflake-compatible emulator for local development and testing.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://datascreeniq.com",
+      "name": "DataScreenIQ",
+      "url": "https://datascreeniq.com",
+      "description": "Real-time data quality firewall for pipelines and APIs. Screens rows in milliseconds for schema drift, null spikes, type mismatches, and data anomalies with PASS / WARN / BLOCK decisions.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://datadriven.io",
+      "name": "DataDriven",
+      "url": "https://www.datadriven.io/",
+      "description": "Interview practice with SQL query execution, Python, and data modeling exercises.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://fixzi.ai",
+      "name": "Fixzi",
+      "url": "https://fixzi.ai",
+      "description": "JSON/XML validation and API contract monitoring tool for debugging and testing structured data.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/dataengineering",
+      "name": "/r/dataengineering",
+      "url": "https://www.reddit.com/r/dataengineering/",
+      "description": "News, tips, and background on Data Engineering.",
+      "section": [
+        "Community",
+        "Forums"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/ETL",
+      "name": "/r/etl",
+      "url": "https://www.reddit.com/r/ETL/",
+      "description": "Subreddit focused on ETL.",
+      "section": [
+        "Community",
+        "Forums"
+      ]
+    },
+    {
+      "key": "https://aidevboard.com",
+      "name": "AI Dev Jobs",
+      "url": "https://aidevboard.com",
+      "description": "Job board focused on AI, ML, and data engineering roles with 7,400+ listings, salary data, and a free REST API.",
+      "section": [
+        "Community",
+        "Forums"
+      ]
+    },
+    {
+      "key": "https://datacouncil.ai/about",
+      "name": "Data Council",
+      "url": "https://www.datacouncil.ai/about",
+      "description": "The first technical conference that bridges the gap between data scientists, data engineers and data analysts.",
+      "section": [
+        "Community",
+        "Conferences"
+      ]
+    },
+    {
+      "key": "https://chainofthought.show",
+      "name": "Chain of Thought",
+      "url": "https://www.chainofthought.show/",
+      "description": "Interviews with AI and data infrastructure leaders on building production systems.",
+      "section": [
+        "Community",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://dataengineeringpodcast.com",
+      "name": "Data Engineering Podcast",
+      "url": "https://www.dataengineeringpodcast.com/",
+      "description": "The show about modern data infrastructure.",
+      "section": [
+        "Community",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://latent.space/podcast",
+      "name": "Latent Space",
+      "url": "https://www.latent.space/podcast",
+      "description": "Technical deep dives on AI engineering, from model training to deployment.",
+      "section": [
+        "Community",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://practicalai.fm",
+      "name": "Practical AI",
+      "url": "https://practicalai.fm/",
+      "description": "Making AI practical, productive, and accessible to everyone.",
+      "section": [
+        "Community",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://softwareengineeringdaily.com",
+      "name": "Software Engineering Daily",
+      "url": "https://softwareengineeringdaily.com/",
+      "description": "Daily interviews about technical software topics, including data infrastructure.",
+      "section": [
+        "Community",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://roundup.getdbt.com/s/the-analytics-engineering-podcast",
+      "name": "The Analytics Engineering Podcast",
+      "url": "https://roundup.getdbt.com/s/the-analytics-engineering-podcast",
+      "description": "How analytics engineers build and maintain data pipelines at scale.",
+      "section": [
+        "Community",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://datastackshow.com",
+      "name": "The Data Stack Show",
+      "url": "https://datastackshow.com/",
+      "description": "A show where they talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.",
+      "section": [
+        "Community",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/snowflake-data-engineering",
+      "name": "Snowflake Data Engineering",
+      "url": "https://www.manning.com/books/snowflake-data-engineering",
+      "description": "A practical introduction to data engineering on the Snowflake cloud data platform.",
+      "section": [
+        "Community",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://appliedaicourse.com/blog/data-science-books",
+      "name": "Best Data Science Books",
+      "url": "https://www.appliedaicourse.com/blog/data-science-books/",
+      "description": "This blog offers a curated list of top data science books, categorized by topics and learning stages, to aid readers in building foundational knowledge and staying updated with industry trends.",
+      "section": [
+        "Community",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/architecting-an-apache-iceberg-lakehouse",
+      "name": "Architecting an Apache Iceberg Lakehouse",
+      "url": "https://www.manning.com/books/architecting-an-apache-iceberg-lakehouse",
+      "description": "A guide to designing an Apache Iceberg lakehouse from scratch.",
+      "section": [
+        "Community",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/learn-ai-data-engineering-in-a-month-of-lunches",
+      "name": "Learn AI Data Engineering in a Month of Lunches",
+      "url": "https://www.manning.com/books/learn-ai-data-engineering-in-a-month-of-lunches",
+      "description": "A fast, friendly guide to integrating large language models into your data workflows.",
+      "section": [
+        "Community",
+        "Books"
+      ]
+    }
+  ]
+}

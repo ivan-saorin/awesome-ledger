@@ -1,0 +1,1369 @@
+{
+  "etag": "W/\"b49af2c775998713a526c29e30620715d33b6f355c5e90ea528d20023f89df8a\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://genkit.dev/docs/plugins/vertex-ai",
+      "name": "@genkit-ai/vertexai",
+      "url": "https://genkit.dev/docs/plugins/vertex-ai/",
+      "description": "The Vertex AI plugin provides interfaces to several AI services: Google generative AI models, A subset of evaluation metrics through the Vertex AI Rapid Evaluation API, Vector Search.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/google-genai",
+      "name": "@genkit-ai/googleai",
+      "url": "https://genkit.dev/docs/plugins/google-genai/",
+      "description": "The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/ollama",
+      "name": "genkitx-ollama",
+      "url": "https://genkit.dev/docs/plugins/ollama/",
+      "description": "The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/compat-oai",
+      "name": "@genkit-ai/compat-oai",
+      "url": "https://genkit.dev/docs/plugins/compat-oai/",
+      "description": "Plugin for Compatible OpenAI APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/xai",
+      "name": "@genkit-ai/compat-oai/xai",
+      "url": "https://genkit.dev/docs/plugins/xai/",
+      "description": "Plugin for XAI APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/openai",
+      "name": "@genkit-ai/compat-oai/openai",
+      "url": "https://genkit.dev/docs/plugins/openai/",
+      "description": "Plugin for OpenAI APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/rag",
+      "name": "@genkit-ai/dev-local-vectorstore",
+      "url": "https://genkit.dev/docs/rag/",
+      "description": "Plugin for Local Vector Store for development purposes.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/firebase",
+      "name": "@genkit-ai/firebase",
+      "url": "https://genkit.dev/docs/plugins/firebase/",
+      "description": "Firebase plugin provides several integrations with Firebase services: Indexers and retrievers using Cloud Firestore vector store, Trace storage using Cloud Firestore, Flow deployment using Cloud Functions, Authorization policies for Firebase Authentication users.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/express",
+      "name": "@genkit-ai/express",
+      "url": "https://genkit.dev/docs/plugins/express/",
+      "description": "Express plugin provides an Express middleware for Genkit.",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/mcp",
+      "name": "@genkit-ai/mcp",
+      "url": "https://genkit.dev/docs/plugins/mcp/",
+      "description": "MCP plugin provides an interface to the MCP (Model Context Procol).",
+      "section": [
+        "Plugins",
+        "JavaScript - Official"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/genkitx-github",
+      "name": "genkitx-github",
+      "url": "https://github.com/xavidop/genkitx-github",
+      "description": "Plugin for GitHub Models APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/anthropic",
+      "name": "genkitx-anthropic",
+      "url": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/anthropic",
+      "description": "Plugin for Anthropic AI APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/cohere",
+      "name": "genkitx-cohere",
+      "url": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/cohere",
+      "description": "Plugin for Cohere APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq",
+      "name": "genkitx-groq",
+      "url": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq",
+      "description": "Plugin for Groq APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral",
+      "name": "genkitx-mistral",
+      "url": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral",
+      "description": "Plugin for Mistral AI APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai",
+      "name": "genkitx-azure-openai",
+      "url": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai",
+      "description": "Plugin for Azure OpenAI APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/genkitx-aws-bedrock",
+      "name": "genkitx-aws-bedrock",
+      "url": "https://github.com/xavidop/genkitx-aws-bedrock",
+      "description": "Plugin for AWS Bedrock APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/oddbit/genkitx-deepseek",
+      "name": "genkitx-deepseek",
+      "url": "https://github.com/oddbit/genkitx-deepseek",
+      "description": "Plugin for Deepseek Cloud APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/aciescrest/genkit-huggingface",
+      "name": "genkitx-huggingface",
+      "url": "https://github.com/aciescrest/genkit-huggingface",
+      "description": "Plugin for Hugging Face Inference APIs.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/convex",
+      "name": "genkitx-convex",
+      "url": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/convex",
+      "description": "Plugin for Convex Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/hnsw",
+      "name": "genkitx-hnsw",
+      "url": "https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/hnsw",
+      "description": "Plugin for HNSW Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/qdrant/qdrant-genkit",
+      "name": "genkitx-qdrant",
+      "url": "https://github.com/qdrant/qdrant-genkit",
+      "description": "Plugin for Qdrant Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/astra-db",
+      "name": "genkitx-astra-db",
+      "url": "https://genkit.dev/docs/plugins/astra-db/",
+      "description": "Plugin for AstraDB Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/pgvector",
+      "name": "genkitx-pgvector",
+      "url": "https://genkit.dev/docs/plugins/pgvector/",
+      "description": "Plugin for PostgeSQL (PGVector) Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/retzd-tech/genkitx-redis",
+      "name": "genkitx-redis",
+      "url": "https://github.com/retzd-tech/genkitx-redis",
+      "description": "Plugin for Redis Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/genkitx-voiceflow",
+      "name": "genkitx-voiceflow",
+      "url": "https://github.com/xavidop/genkitx-voiceflow",
+      "description": "Plugin for Voiceflow KB.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/lancedb",
+      "name": "genkitx-lancedb",
+      "url": "https://genkit.dev/docs/plugins/lancedb/",
+      "description": "Plugin for LanceDB Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/pinecone",
+      "name": "genkitx-pinecone",
+      "url": "https://genkit.dev/docs/plugins/pinecone/",
+      "description": "Plugin for Pinecone Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/chroma",
+      "name": "genkitx-chromadb",
+      "url": "https://genkit.dev/docs/plugins/chroma/",
+      "description": "Plugin for Chroma Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/neo4j",
+      "name": "genkitx-neo4j",
+      "url": "https://genkit.dev/docs/plugins/neo4j/",
+      "description": "Plugin for Neo4j Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/cloud-sql-pg",
+      "name": "genkitx-cloud-sql-pg",
+      "url": "https://genkit.dev/docs/plugins/cloud-sql-pg/",
+      "description": "Plugin for Cloud SQL for PostgreSQL Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/genkitx-weaviate",
+      "name": "genkitx-weaviate",
+      "url": "https://github.com/xavidop/genkitx-weaviate",
+      "description": "Plugin for Weaviate Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin",
+      "name": "genkitx-mongodb",
+      "url": "https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin",
+      "description": "Plugin for MongoDB Vector Stores.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/yukinagae/genkitx-promptfoo",
+      "name": "genkitx-promptfoo",
+      "url": "https://github.com/yukinagae/genkitx-promptfoo",
+      "description": "Plugin for Promptfoo Evaluations.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/graph",
+      "name": "genkitx-graph",
+      "url": "https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/graph",
+      "description": "Plugin for building Graph workflows.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/invertase/genkit-plugin-redis",
+      "name": "@invertase/genkit-plugin-redis",
+      "url": "https://github.com/invertase/genkit-plugin-redis",
+      "description": "A Redis Plugin for Genkit that adds Redis for efficient state storage, trace storage, caching, and rate limiting.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/pavelgj/genkitx-rxjs",
+      "name": "genkitx-rxjs",
+      "url": "https://github.com/pavelgj/genkitx-rxjs",
+      "description": "A simple RxJS helper/adapter for Genkit.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://docs.agentic.so/marketplace/ts-sdks/genkit",
+      "name": "@agentic/genkit",
+      "url": "https://docs.agentic.so/marketplace/ts-sdks/genkit",
+      "description": "Agentic Tools adapter for the Genkit SDK.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/docs/plugins/auth0",
+      "name": "@auth0/ai-genkit",
+      "url": "https://genkit.dev/docs/plugins/auth0/",
+      "description": "Official Auth0 plugin for Genkit that provides authentication and authorization capabilities.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/marcelfolaron/genkitx-langfuse",
+      "name": "genkitx-langfuse",
+      "url": "https://github.com/marcelfolaron/genkitx-langfuse",
+      "description": "Plugin to integrate with Langfuse for telemetry and prompt management.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/orchlab/genkitx-posthog",
+      "name": "genkitx-posthog",
+      "url": "https://github.com/orchlab/genkitx-posthog",
+      "description": "Plugin to integrate with PostHog for telemetry and analytics.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/ejentum/ejentum-genkit",
+      "name": "ejentum-genkit",
+      "url": "https://github.com/ejentum/ejentum-genkit",
+      "description": "Plugin that registers four agent-callable tools (reasoning, code, anti-deception, memory) the model calls before generating. Each call returns a structured cognitive scaffold from the Ejentum Reasoning Harness.",
+      "section": [
+        "Plugins",
+        "JavaScript - Community"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/python/docs/reference/plugins/google-genai",
+      "name": "google-genai",
+      "url": "https://genkit.dev/python/docs/reference/plugins/google-genai/",
+      "description": "The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI models.",
+      "section": [
+        "Plugins",
+        "Python - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/python/docs/reference/plugins/ollama",
+      "name": "ollama",
+      "url": "https://genkit.dev/python/docs/reference/plugins/ollama/",
+      "description": "The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.",
+      "section": [
+        "Plugins",
+        "Python - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/python/docs/reference/plugins/firestore",
+      "name": "firestore",
+      "url": "https://genkit.dev/python/docs/reference/plugins/firestore/",
+      "description": "The Firestore plugin provides interfaces to the Firestore vector store.",
+      "section": [
+        "Plugins",
+        "Python - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/python/docs/reference/plugins/dev-local-vectorstore",
+      "name": "dev_local_vectorstore",
+      "url": "https://genkit.dev/python/docs/reference/plugins/dev-local-vectorstore/",
+      "description": "Plugin for Local Vector Store for development purposes.",
+      "section": [
+        "Plugins",
+        "Python - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/python/docs/flask",
+      "name": "server flask",
+      "url": "https://genkit.dev/python/docs/flask/",
+      "description": "Flask plugin for building web applications with Genkit.",
+      "section": [
+        "Plugins",
+        "Python - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/google-genai",
+      "name": "googlegenai",
+      "url": "https://genkit.dev/go/docs/plugins/google-genai/",
+      "description": "The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI Models.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/ollama",
+      "name": "ollama",
+      "url": "https://genkit.dev/go/docs/plugins/ollama/",
+      "description": "The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/openai",
+      "name": "compat_oai,compat_oai/openai,compat_oai/anthropic",
+      "url": "https://genkit.dev/go/docs/plugins/openai/",
+      "description": "Plugin for Compatible OpenAI APIs (OpenAI, Anthropic providers).",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/pinecone",
+      "name": "pinecone",
+      "url": "https://genkit.dev/go/docs/plugins/pinecone/",
+      "description": "Plugin for Pinecone Vector Stores.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/alloydb",
+      "name": "alloydb",
+      "url": "https://genkit.dev/go/docs/plugins/alloydb/",
+      "description": "Plugin for AlloyDB Vector Stores.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://firebase.google.com/docs/genkit-go/rag",
+      "name": "localvec",
+      "url": "https://firebase.google.com/docs/genkit-go/rag",
+      "description": "Plugin for Local Vector Store for development purposes.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/pgvector",
+      "name": "pgvector",
+      "url": "https://genkit.dev/go/docs/plugins/pgvector/",
+      "description": "Plugin for PostgreSQL (PGVector) Vector Stores.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/cloud-sql-pg",
+      "name": "postgresql",
+      "url": "https://genkit.dev/go/docs/plugins/cloud-sql-pg/",
+      "description": "Plugin for Cloud SQL for PostgreSQL Vector Stores.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://github.com/firebase/genkit/tree/main/go/plugins/weaviate",
+      "name": "weaviate",
+      "url": "https://github.com/firebase/genkit/tree/main/go/plugins/weaviate",
+      "description": "Plugin for Weaviate Vector Stores.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/google-cloud",
+      "name": "googlecloud",
+      "url": "https://genkit.dev/go/docs/plugins/google-cloud/",
+      "description": "The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://genkit.dev/go/docs/plugins/mcp",
+      "name": "mcp",
+      "url": "https://genkit.dev/go/docs/plugins/mcp/",
+      "description": "The MCP plugin provides interfaces to the MCP (Managed Context Protocol).",
+      "section": [
+        "Plugins",
+        "Golang - Official"
+      ]
+    },
+    {
+      "key": "https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go",
+      "name": "bedrock",
+      "url": "https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go",
+      "description": "Plugin for AWS Bedrock APIs.",
+      "section": [
+        "Plugins",
+        "Golang - Community"
+      ]
+    },
+    {
+      "key": "https://pkg.go.dev/github.com/xavidop/genkit-azure-foundry-go",
+      "name": "azureaifoundry",
+      "url": "https://pkg.go.dev/github.com/xavidop/genkit-azure-foundry-go",
+      "description": "Plugin for Azure AI Foundry.",
+      "section": [
+        "Plugins",
+        "Golang - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/qdrant/qdrant-genkit/tree/main/go",
+      "name": "qdrant",
+      "url": "https://github.com/qdrant/qdrant-genkit/tree/main/go",
+      "description": "Plugin for Qdrant Vector Stores.",
+      "section": [
+        "Plugins",
+        "Golang - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/genkit-opentelemetry-go",
+      "name": "opentelemetry",
+      "url": "https://github.com/xavidop/genkit-opentelemetry-go",
+      "description": "Plugin for OpenTelemetry to monitor Genkit applications.",
+      "section": [
+        "Plugins",
+        "Golang - Community"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit",
+      "name": "genkit",
+      "url": "https://pub.dev/packages/genkit",
+      "description": "A Dart SDK for Genkit, providing a unified interface for text generation, structured output, tool calling, and agentic workflows.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_google_genai",
+      "name": "genkit_google_genai",
+      "url": "https://pub.dev/packages/genkit_google_genai",
+      "description": "Google AI plugin for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_anthropic",
+      "name": "genkit_anthropic",
+      "url": "https://pub.dev/packages/genkit_anthropic",
+      "description": "Anthropic plugin for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_openai",
+      "name": "genkit_openai",
+      "url": "https://pub.dev/packages/genkit_openai",
+      "description": "OpenAI plugin for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_chrome",
+      "name": "genkit_chrome",
+      "url": "https://pub.dev/packages/genkit_chrome",
+      "description": "Chrome Prompt API (Gemini Nano) plugin for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_firebase_ai",
+      "name": "genkit_firebase_ai",
+      "url": "https://pub.dev/packages/genkit_firebase_ai",
+      "description": "Firebase AI plugin for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_mcp",
+      "name": "genkit_mcp",
+      "url": "https://pub.dev/packages/genkit_mcp",
+      "description": "Model Context Protocol (MCP) plugin for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_middleware",
+      "name": "genkit_middleware",
+      "url": "https://pub.dev/packages/genkit_middleware",
+      "description": "Common middlewares (filesystem, skills, toolApproval) for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://pub.dev/packages/genkit_shelf",
+      "name": "genkit_shelf",
+      "url": "https://pub.dev/packages/genkit_shelf",
+      "description": "Shelf HTTP Server integration for Genkit Dart.",
+      "section": [
+        "Plugins",
+        "Dart - Official"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/packages",
+      "name": "genkit-java",
+      "url": "https://github.com/genkit-ai/genkit-java/packages",
+      "description": "An unofficial Java SDK for Genkit, providing Java support for building AI-powered applications.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/openai",
+      "name": "genkit-plugin-openai",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/openai",
+      "description": "Plugin for OpenAI models (GPT-4o, GPT-4o-mini, etc.) and embeddings.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/google-genai",
+      "name": "genkit-plugin-google-genai",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/google-genai",
+      "description": "Plugin for Google Gemini models and Imagen image generation.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/anthropic",
+      "name": "genkit-plugin-anthropic",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/anthropic",
+      "description": "Plugin for Anthropic Claude models.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/aws-bedrock",
+      "name": "genkit-plugin-aws-bedrock",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/aws-bedrock",
+      "description": "Plugin for AWS Bedrock models (Amazon Nova, Claude, LLaMA, Mistral, etc.).",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/azure-foundry",
+      "name": "genkit-plugin-azure-foundry",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/azure-foundry",
+      "description": "Plugin for Azure AI Foundry models.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/xai",
+      "name": "genkit-plugin-xai",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/xai",
+      "description": "Plugin for XAI (x.ai) Grok models.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/deepseek",
+      "name": "genkit-plugin-deepseek",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/deepseek",
+      "description": "Plugin for DeepSeek models.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/cohere",
+      "name": "genkit-plugin-cohere",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/cohere",
+      "description": "Plugin for Cohere Command models.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/mistral",
+      "name": "genkit-plugin-mistral",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/mistral",
+      "description": "Plugin for Mistral AI models.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/groq",
+      "name": "genkit-plugin-groq",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/groq",
+      "description": "Plugin for Groq ultra-fast inference.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/ollama",
+      "name": "genkit-plugin-ollama",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/ollama",
+      "description": "Plugin for local Ollama models.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/compat-oai",
+      "name": "genkit-plugin-compat-oai",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/compat-oai",
+      "description": "Plugin for any OpenAI-compatible API endpoint.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/localvec",
+      "name": "genkit-plugin-localvec",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/localvec",
+      "description": "Plugin for local file-based vector store for development.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/firebase",
+      "name": "genkit-plugin-firebase",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/firebase",
+      "description": "Plugin for Firebase (Firestore vector search, Cloud Functions, telemetry).",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/weaviate",
+      "name": "genkit-plugin-weaviate",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/weaviate",
+      "description": "Plugin for Weaviate vector database.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/postgresql",
+      "name": "genkit-plugin-postgresql",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/postgresql",
+      "description": "Plugin for PostgreSQL with pgvector.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/pinecone",
+      "name": "genkit-plugin-pinecone",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/pinecone",
+      "description": "Plugin for Pinecone vector database.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/evaluators",
+      "name": "genkit-plugin-evaluators",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/evaluators",
+      "description": "Plugin for pre-built RAGAS-style evaluators (faithfulness, relevancy, etc.).",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/jetty",
+      "name": "genkit-plugin-jetty",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/jetty",
+      "description": "HTTP server plugin using Jetty 12.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/spring",
+      "name": "genkit-plugin-spring",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/spring",
+      "description": "HTTP server plugin using Spring Boot.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/mcp",
+      "name": "genkit-plugin-mcp",
+      "url": "https://github.com/genkit-ai/genkit-java/tree/main/plugins/mcp",
+      "description": "Plugin for Model Context Protocol (MCP) client integration.",
+      "section": [
+        "Plugins",
+        "Java (Unofficial) - Community"
+      ]
+    },
+    {
+      "key": "https://js.api.genkit.dev",
+      "name": "JavaScript",
+      "url": "https://js.api.genkit.dev/",
+      "description": "Specs for the JavaScript API.",
+      "section": [
+        "API References"
+      ]
+    },
+    {
+      "key": "https://python.api.genkit.dev",
+      "name": "Python",
+      "url": "https://python.api.genkit.dev/",
+      "description": "Specs for the Python API.",
+      "section": [
+        "API References"
+      ]
+    },
+    {
+      "key": "https://pkg.go.dev/github.com/firebase/genkit/go",
+      "name": "Golang",
+      "url": "https://pkg.go.dev/github.com/firebase/genkit/go",
+      "description": "Specs for the Golang API.",
+      "section": [
+        "API References"
+      ]
+    },
+    {
+      "key": "https://mastering-genkit.github.io/mastering-genkit-go",
+      "name": "Mastering Genkit: Go Edition",
+      "url": "https://mastering-genkit.github.io/mastering-genkit-go/",
+      "description": "Build Production-Ready AI Applications with Go and Genkit.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://github.com/tanabee/internal-ai",
+      "name": "internal AI",
+      "url": "https://github.com/tanabee/internal-ai",
+      "description": "An open-source Genkit-based internal AI chat application.",
+      "section": [
+        "Solutions"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/perplexity-cli",
+      "name": "Perplexity CLI",
+      "url": "https://github.com/xavidop/perplexity-cli",
+      "description": "A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.",
+      "section": [
+        "Solutions"
+      ]
+    },
+    {
+      "key": "https://github.com/nozomi-koborinai/gcp-cost-mcp-server",
+      "name": "GCP Cost MCP Server",
+      "url": "https://github.com/nozomi-koborinai/gcp-cost-mcp-server",
+      "description": "An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.",
+      "section": [
+        "Solutions"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/genkit-azure-function-ai-foundry",
+      "name": "Genkit Azure Function AI Foundry",
+      "url": "https://github.com/xavidop/genkit-azure-function-ai-foundry",
+      "description": "A sample project demonstrating how to use Genkit with Azure Functions and Azure AI Foundry.",
+      "section": [
+        "Solutions"
+      ]
+    },
+    {
+      "key": "https://github.com/xavidop/genkit-aws-lambda-bedrock",
+      "name": "Genkit AWS Lambda Bedrock",
+      "url": "https://github.com/xavidop/genkit-aws-lambda-bedrock",
+      "description": "A sample project demonstrating how to use Genkit with AWS Lambda and Amazon Bedrock.",
+      "section": [
+        "Solutions"
+      ]
+    },
+    {
+      "key": "https://github.com/DEEJ4Y/genkitkraft",
+      "name": "Genkit Kraft",
+      "url": "https://github.com/DEEJ4Y/genkitkraft",
+      "description": "A self-hostable LLM agent platform built on the Genkit Go SDK that lets you configure, test, and deploy AI agents through a visual UI, OpenAI-compatible REST API, and MCP server support for use with AI clients like Claude.",
+      "section": [
+        "Solutions"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=eVud8llb_W0",
+      "name": "Supercharge your app with Genkit",
+      "url": "https://www.youtube.com/watch?v=eVud8llb_W0",
+      "description": "A talk on how to supercharge your app with Genkit.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit",
+      "name": "Accelerating Generative AI App Development with Flutter & Genkit",
+      "url": "https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit",
+      "description": "Slides from a presentation at FlutterGakkai, a Flutter conference in Japan, showcasing how to integrate Genkit with Flutter for rapid generative AI app development.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://speakerdeck.com/coborinai/dart",
+      "name": "Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Slides",
+      "url": "https://speakerdeck.com/coborinai/dart",
+      "description": "Slides from a lightning talk at Google I/O Extended Tokyo 2025, introducing the Dart client library for calling Genkit flows from Flutter/Dart applications.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtu.be/AakdczWQLzY?si=S5aT29miICHWQepM",
+      "name": "Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Video",
+      "url": "https://youtu.be/AakdczWQLzY?si=S5aT29miICHWQepM",
+      "description": "Video from a lightning talk at Google I/O Extended Tokyo 2025, introducing the Dart client library for calling Genkit flows from Flutter/Dart applications.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=3p1P5grjXIQ",
+      "name": "Getting started with Genkit/JS 1.0",
+      "url": "https://www.youtube.com/watch?v=3p1P5grjXIQ",
+      "description": "Learn how to get started with Genkit/JS 1.0.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=M8rfDySBBvM",
+      "name": "Getting started with Genkit (outdated)",
+      "url": "https://www.youtube.com/watch?v=M8rfDySBBvM",
+      "description": "A video tutorial on how to get started with Genkit.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/ONR38NZK5FE",
+      "name": "What are Genkit flows? (outdated)",
+      "url": "https://youtu.be/ONR38NZK5FE",
+      "description": "Flows are a key concept in Genkit. Learn what makes them special, and how to use them.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/TGHua_RtUjs",
+      "name": "Build an Angular app with Genkit and deploy to Firebase (outdated)",
+      "url": "https://youtu.be/TGHua_RtUjs",
+      "description": "Join Pavel as he builds an Angular app and deploys it to Firebase.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/CGVBR8quZac",
+      "name": "DeepDive #1 - Genkit's reflection API and how it powers Genkit's developer UI (outdated)",
+      "url": "https://youtu.be/CGVBR8quZac",
+      "description": "Learn how the Genkit developer UI communicates with Genkit through the reflection API.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/p8ZlYAmbWHE",
+      "name": "Retrieval Augmented Generation (RAG) with Genkit (outdated)",
+      "url": "https://youtu.be/p8ZlYAmbWHE",
+      "description": "Learn how to efficiently parse PDFs, convert their content into searchable vectors using Genkit's local vector store, and implement a re-ranker to pinpoint the most relevant documents for your queries.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/VFPsp7aURWA?t=152s",
+      "name": "Firebase After Hours #3 - Genkit: More than Meets the AI! (outdated)",
+      "url": "https://youtu.be/VFPsp7aURWA?t=152s",
+      "description": "Hang out with Nohe and Peter to learn more about Genkit, Google's open source AI integration framework. With special guest Pavel Jbanov, lead engineer on the Genkit team.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/01XOIhh2ibA",
+      "name": "Firebase After Hours #4 - Genkit: Tooltime (outdated)",
+      "url": "https://youtu.be/01XOIhh2ibA",
+      "description": "Learn how to give LLMs superpowers by conneting the to the real world using tool calling.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data",
+      "name": "Extracting structured data from PDFs using Gemini 2.0 and Genkit",
+      "url": "https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data",
+      "description": "Learn how to extract structured data from PDFs using Gemini 2.0 and Genkit 1.0.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://xavidop.me/firebase/gcp/2025-02-28-firebase-genkit-node-tool",
+      "name": "Genkit in Node, Building a Weather Service with AI Integration",
+      "url": "https://xavidop.me/firebase/gcp/2025-02-28-firebase-genkit-node-tool/",
+      "description": "Explore how to build a weather service using Genkit in Node.js using Express, GitHub Models and Tools.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc",
+      "name": "Build Genkit Node.js apps with Dash Agents",
+      "url": "https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc",
+      "description": "A step-by-step guide to building Genkit Node.js apps by leveraging Dash Agents.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://xavidop.me/firebase/gcp/2024-05-24-firebase-genkit-ollama",
+      "name": "Genkit with Gemma using Ollama",
+      "url": "https://xavidop.me/firebase/gcp/2024-05-24-firebase-genkit-ollama/",
+      "description": "Firebase project that uses the Gen AI Kit with Gemma using Ollama.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3",
+      "name": "Master Gemma2 and Genkit",
+      "url": "https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3",
+      "description": "Learn how to integrate Gemma2 with Genkit.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179",
+      "name": "Unleash the Power of Function Calling with Genkit",
+      "url": "https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179",
+      "description": "Learn how to implement function calling using Genkit.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321",
+      "name": "Unlocking the power of code execution in Genkit",
+      "url": "https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321",
+      "description": "Learn how to integrate Python code within Genkit.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3",
+      "name": "Understanding Genkit flows with Czech language tricks",
+      "url": "https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3",
+      "description": "Learn how to work with Genkit flows and use the features of Genkit UI.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/@nozomi-koborinai/orchestrating-firebase-and-ai-8-genkit-architecture-patterns-12e44db40345",
+      "name": "Orchestrating Firebase and AI: 8 Genkit Architecture Patterns",
+      "url": "https://medium.com/@nozomi-koborinai/orchestrating-firebase-and-ai-8-genkit-architecture-patterns-12e44db40345",
+      "description": "A guide to 8 architecture patterns for integrating Firebase and AI using Genkit.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693",
+      "name": "High-Precision Responses with Genkits Google Search Integration",
+      "url": "https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693",
+      "description": "Learn how to integrate Google Search with Genkit.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/@nozomi-koborinai/how-to-develop-firebase-genkit-functions-2677b386a227",
+      "name": "How to Develop Firebase functions with Genkit",
+      "url": "https://medium.com/@nozomi-koborinai/how-to-develop-firebase-genkit-functions-2677b386a227",
+      "description": "A practical guide to efficient local testing of Firebase Functions with Genkit Firebase product integrations.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/@yukinagae/firebase-genkit-for-go-developers-a-guide-to-building-llm-applications-f96c51c34b10",
+      "name": "Genkit for Go Developers: A Guide to Building LLM Applications",
+      "url": "https://medium.com/@yukinagae/firebase-genkit-for-go-developers-a-guide-to-building-llm-applications-f96c51c34b10",
+      "description": "A getting started guide for Go developers using Genkit.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing",
+      "name": "Orchestrating Firebase and AI: Genkit architecture example",
+      "url": "https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing",
+      "description": "Presented in a lightning talk at GDG DevFest Tokyo 2024.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3",
+      "name": "Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3",
+      "url": "https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3",
+      "description": "A guide to building an AI image generation app using Flutter, Genkit, and Google's Imagen 3.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/@nozomi-koborinai/extending-your-ai-application-with-genkit-mcp-475d7533ca9e",
+      "name": "Extending Your AI Application with Genkit MCP",
+      "url": "https://medium.com/@nozomi-koborinai/extending-your-ai-application-with-genkit-mcp-475d7533ca9e",
+      "description": "Learn how to integrate Google Maps using Genkit MCP client to query MCP servers for enhanced location-based AI features.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://koborin.ai/tech/mcp-deep-dive",
+      "name": "Understanding Model Context Protocol Through Building the Genkit for Dart MCP Plugin",
+      "url": "https://koborin.ai/tech/mcp-deep-dive",
+      "description": "A deep dive into the MCP specification, sharing insights gained from implementing the MCP plugin for Genkit Dart.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/@nozomi-koborinai/genkit-vs-agent-development-kit-adk-choosing-the-right-google-backed-ai-framework-1744b73234ac",
+      "name": "Genkit vs Agent Development Kit (ADK): Choosing the Right Google‑Backed AI Framework",
+      "url": "https://medium.com/@nozomi-koborinai/genkit-vs-agent-development-kit-adk-choosing-the-right-google-backed-ai-framework-1744b73234ac",
+      "description": "A comparison of two Google-backed AI frameworks, helping developers choose the right tool for their needs.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e",
+      "name": "Dart Client for Genkit: Call Genkit Flows from Flutter/Dart",
+      "url": "https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e",
+      "description": "A comprehensive guide to using the Dart client library for calling Genkit flows from Flutter and Dart applications with streaming support and type safety.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://dev.to/denisvalasek/gemini-in-your-slack-workspace-using-firebase-genkit-530c",
+      "name": "Gemini in your Slack workspace using Firebase & Genkit",
+      "url": "https://dev.to/denisvalasek/gemini-in-your-slack-workspace-using-firebase-genkit-530c",
+      "description": "Learn how to integrate Gemini using Genkit as a Slackbot.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2",
+      "name": "Set up RAG with Genkit and Firebase in 15 minutes",
+      "url": "https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2",
+      "description": "Introduction to RAG, Genkit and using Firebase Firestore as Vector DB.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08",
+      "name": "Slack Bot App",
+      "url": "https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08",
+      "description": "A tutorial on how to build a Slack Bot App with Genkit.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://x.com/firebase",
+      "name": "Firebase",
+      "url": "https://x.com/firebase",
+      "description": "Official Twitter account for Firebase.",
+      "section": [
+        "Follow"
+      ]
+    },
+    {
+      "key": "https://discord.gg/qXt5zzQKpc",
+      "name": "Genkit Discord server",
+      "url": "https://discord.gg/qXt5zzQKpc",
+      "description": "Official Discord server for Genkit.",
+      "section": [
+        "Follow"
+      ]
+    },
+    {
+      "key": "https://github.com/firebase/genkit",
+      "name": "Genkit GitHub",
+      "url": "https://github.com/firebase/genkit",
+      "description": "Official GitHub repository for Genkit.",
+      "section": [
+        "Follow"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-dart",
+      "name": "Genkit Dart GitHub",
+      "url": "https://github.com/genkit-ai/genkit-dart",
+      "description": "Official GitHub repository for Genkit Dart.",
+      "section": [
+        "Follow"
+      ]
+    },
+    {
+      "key": "https://github.com/genkit-ai/genkit-java",
+      "name": "Genkit Java GitHub",
+      "url": "https://github.com/genkit-ai/genkit-java",
+      "description": "Unofficial GitHub repository for Genkit Java.",
+      "section": [
+        "Follow"
+      ]
+    }
+  ]
+}

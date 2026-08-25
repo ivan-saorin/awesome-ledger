@@ -1,0 +1,518 @@
+{
+  "etag": "W/\"f1a82b1c60e0f58f33b6ecf781b5bd34e1c744d6cfc73db796b50e606e66adc9\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/DrKJeff16/wezterm-types",
+      "name": "DrKJeff16/wezterm-types",
+      "url": "https://github.com/DrKJeff16/wezterm-types",
+      "description": "WezTerm type annotations that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API. Includes community plugins support.",
+      "section": []
+    },
+    {
+      "key": "https://github.com/Michal1993r/ai-helper.wezterm/tree/master",
+      "name": "Michal1993r/ai-helper.wezterm",
+      "url": "https://github.com/Michal1993r/ai-helper.wezterm/tree/master",
+      "description": "Ask AI for CLI help with LM Studio or Google Gemini.",
+      "section": [
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/dimao/ai-commander.wezterm",
+      "name": "dimao/ai-commander.wezterm",
+      "url": "https://github.com/dimao/ai-commander.wezterm",
+      "description": "Generate and select bash commands based on natural language prompts.",
+      "section": [
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/EdenGibson/wezterm-quota-limit",
+      "name": "EdenGibson/wezterm-quota-limit",
+      "url": "https://github.com/EdenGibson/wezterm-quota-limit",
+      "description": "Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.",
+      "section": [
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/Eric162/wezterm-agent-deck",
+      "name": "Eric162/wezterm-agent-deck",
+      "url": "https://github.com/Eric162/wezterm-agent-deck",
+      "description": "Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.",
+      "section": [
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/M-Marbouh/agent-quota.wezterm",
+      "name": "M-Marbouh/agent-quota.wezterm",
+      "url": "https://github.com/M-Marbouh/agent-quota.wezterm",
+      "description": "Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.",
+      "section": [
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/MLFlexer/modal.wezterm",
+      "name": "MLFlexer/modal.wezterm",
+      "url": "https://github.com/MLFlexer/modal.wezterm",
+      "description": "Predefined Vim-like modal keybindings with a good looking UI.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/chord.wz",
+      "name": "sravioli/chord.wz",
+      "url": "https://github.com/sravioli/chord.wz",
+      "description": "Vim-style key notation, modal key tables, and hint bars.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file",
+      "name": "sei40kr/wez-pain-control",
+      "url": "https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file",
+      "description": "Pane control keybindings like tmux-pain-control.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/sei40kr/wez-tmux",
+      "name": "sei40kr/wez-tmux",
+      "url": "https://github.com/sei40kr/wez-tmux",
+      "description": "Ported tmux keybindings.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/selectnull/pinned-tabs.wezterm",
+      "name": "selectnull/pinned-tabs.wezterm",
+      "url": "https://github.com/selectnull/pinned-tabs.wezterm",
+      "description": "Lets you assign a key binding to a specific tab.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/abidibo/wezterm-cmdpicker",
+      "name": "abidibo/wezterm-cmdpicker",
+      "url": "https://github.com/abidibo/wezterm-cmdpicker",
+      "description": "Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/annie444/sync-panes.wez",
+      "name": "annie444/sync-panes.wez",
+      "url": "https://github.com/annie444/sync-panes.wez",
+      "description": "Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's synchronize-panes.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/KawaiiSelbst/nu_utf8_hack.wez",
+      "name": "KawaiiSelbst/nu_utf8_hack.wez",
+      "url": "https://github.com/KawaiiSelbst/nu_utf8_hack.wez",
+      "description": "Rough hack for correct handling utf8 symbols with SHIFT key with kitty-keyboard-protocol for users of nushell.",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/KawaiiSelbst/keys_bypass.wez",
+      "name": "KawaiiSelbst/keys_bypass.wez",
+      "url": "https://github.com/KawaiiSelbst/keys_bypass.wez",
+      "description": "Bypasses WezTerm shortcuts to send keys to the foreground process (e.g., Zellij or tmux).",
+      "section": [
+        "Keybinding"
+      ]
+    },
+    {
+      "key": "https://github.com/xarvex/presentation.wez",
+      "name": "xarvex/presentation.wez",
+      "url": "https://github.com/xarvex/presentation.wez",
+      "description": "Rather simple presentation mode toggle.",
+      "section": [
+        "Media"
+      ]
+    },
+    {
+      "key": "https://github.com/mrjones2014/smart-splits.nvim",
+      "name": "mrjones2014/smart-splits.nvim",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim",
+      "description": "Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.",
+      "section": [
+        "Neovim"
+      ]
+    },
+    {
+      "key": "https://github.com/winter-again/wezterm-config.nvim",
+      "name": "winter-again/wezterm-config.nvim",
+      "url": "https://github.com/winter-again/wezterm-config.nvim",
+      "description": "Interact with the WezTerm configuration directly from Neovim.",
+      "section": [
+        "Neovim"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrisGVE/pivot_panes.wezterm",
+      "name": "ChrisGVE/pivot_panes.wezterm",
+      "url": "https://github.com/ChrisGVE/pivot_panes.wezterm",
+      "description": "Toggle pane orientation between horizontal and vertical splits.",
+      "section": [
+        "Panes"
+      ]
+    },
+    {
+      "key": "https://github.com/bad-noodles/stack.wez",
+      "name": "bad-noodles/stack.wez",
+      "url": "https://github.com/bad-noodles/stack.wez",
+      "description": "Stacked pane mode, work with multiple panes but see only one at a time.",
+      "section": [
+        "Panes"
+      ]
+    },
+    {
+      "key": "https://github.com/DavidRR-F/quick_domains.wezterm",
+      "name": "DavidRR-F/quick_domains.wezterm",
+      "url": "https://github.com/DavidRR-F/quick_domains.wezterm",
+      "description": "Faster way to search and attach to (SSH) domains.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/isseii10/workspace-picker.wezterm",
+      "name": "isseii10/workspace-picker.wezterm",
+      "url": "https://github.com/isseii10/workspace-picker.wezterm",
+      "description": "Workspace switcher with zoxide integration.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/JuanraCM/wsinit.wezterm",
+      "name": "JuanraCM/wsinit.wezterm",
+      "url": "https://github.com/JuanraCM/wsinit.wezterm",
+      "description": "A simple and flexible way to manage and initialize workspace configurations.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/mikkasendke/sessionizer.wezterm",
+      "name": "mikkasendke/sessionizer.wezterm",
+      "url": "https://github.com/mikkasendke/sessionizer.wezterm",
+      "description": "Opening Git repositories as their own WezTerm workspaces using fd.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/StephenGemin/resurrect.wezterm",
+      "name": "StephenGemin/resurrect.wezterm",
+      "url": "https://github.com/StephenGemin/resurrect.wezterm",
+      "description": "Save and restore the state of workspaces, windows, tabs and panes.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/MLFlexer/smart_workspace_switcher.wezterm",
+      "name": "MLFlexer/smart_workspace_switcher.wezterm",
+      "url": "https://github.com/MLFlexer/smart_workspace_switcher.wezterm",
+      "description": "Switch between workspaces with fuzzy finding and zoxide.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/vieitesss/workspacesionizer.wezterm",
+      "name": "vieitesss/workspacesionizer.wezterm",
+      "url": "https://github.com/vieitesss/workspacesionizer.wezterm",
+      "description": "Blazingly fast workspace chooser inspired by tmux-sessionizer.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/abidibo/wezterm-sessions",
+      "name": "abidibo/wezterm-sessions",
+      "url": "https://github.com/abidibo/wezterm-sessions",
+      "description": "Save and restore sessions.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/srackham/tabsets.wezterm",
+      "name": "srackham/tabsets.wezterm",
+      "url": "https://github.com/srackham/tabsets.wezterm",
+      "description": "Load, save, rename and delete named sets of tabs.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/ryanmsnyder/workspace-manager.wezterm",
+      "name": "ryanmsnyder/workspace-manager.wezterm",
+      "url": "https://github.com/ryanmsnyder/workspace-manager.wezterm",
+      "description": "Navigate projects effortlessly with smart workspace switching and keyboard-driven navigation.",
+      "section": [
+        "Session"
+      ]
+    },
+    {
+      "key": "https://github.com/adriankarlen/bar.wezterm",
+      "name": "adriankarlen/bar.wezterm",
+      "url": "https://github.com/adriankarlen/bar.wezterm",
+      "description": "A configurable tab bar with batteries included.",
+      "section": [
+        "Tab bar"
+      ]
+    },
+    {
+      "key": "https://github.com/michaelbrusegard/tabline.wez",
+      "name": "michaelbrusegard/tabline.wez",
+      "url": "https://github.com/michaelbrusegard/tabline.wez",
+      "description": "A versatile and easy to use retro tab bar with the lualine.nvim configuration format.",
+      "section": [
+        "Tab bar"
+      ]
+    },
+    {
+      "key": "https://github.com/rootiest/battery.wez",
+      "name": "rootiest/battery.wez",
+      "url": "https://github.com/rootiest/battery.wez",
+      "description": "A colorful and fancy battery component for the retro tab bar.",
+      "section": [
+        "Tab bar"
+      ]
+    },
+    {
+      "key": "https://github.com/yriveiro/wezterm-status",
+      "name": "yriveiro/wezterm-status",
+      "url": "https://github.com/yriveiro/wezterm-status",
+      "description": "Configurable status for the retro tab bar.",
+      "section": [
+        "Tab bar"
+      ]
+    },
+    {
+      "key": "https://github.com/yriveiro/wezterm-tabs",
+      "name": "yriveiro/wezterm-tabs",
+      "url": "https://github.com/yriveiro/wezterm-tabs",
+      "description": "Configurable tabs for the retro tab bar.",
+      "section": [
+        "Tab bar"
+      ]
+    },
+    {
+      "key": "https://github.com/pro-vi/wezterm-attention",
+      "name": "pro-vi/wezterm-attention",
+      "url": "https://github.com/pro-vi/wezterm-attention",
+      "description": "Turns your tab bar into a notification system with colored tab indicators.",
+      "section": [
+        "Tab bar"
+      ]
+    },
+    {
+      "key": "https://github.com/neapsix/wezterm",
+      "name": "neapsix/wezterm",
+      "url": "https://github.com/neapsix/wezterm",
+      "description": "Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/kanagawa.wz",
+      "name": "sravioli/kanagawa.wz",
+      "url": "https://github.com/sravioli/kanagawa.wz",
+      "description": "Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/koh-sh/wezterm-theme-rotator",
+      "name": "koh-sh/wezterm-theme-rotator",
+      "url": "https://github.com/koh-sh/wezterm-theme-rotator",
+      "description": "Cycle through built-in themes using keyboard shortcuts.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/Tomauskasz/electric-control-room.wez",
+      "name": "Tomauskasz/electric-control-room.wez",
+      "url": "https://github.com/Tomauskasz/electric-control-room.wez",
+      "description": "Animated electric control-room theme with layered APNG background effects.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/willytop8/Wezterm-Window-Tint",
+      "name": "willytop8/Wezterm-Window-Tint",
+      "url": "https://github.com/willytop8/Wezterm-Window-Tint",
+      "description": "Color the window frame, tab bar, and status badge by the active pane's Git root.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/aureolebigben/wezterm-cmd-sender",
+      "name": "aureolebigben/wezterm-cmd-sender",
+      "url": "https://github.com/aureolebigben/wezterm-cmd-sender",
+      "description": "Send commands to multiple panes.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrisGVE/dev.wezterm",
+      "name": "ChrisGVE/dev.wezterm",
+      "url": "https://github.com/ChrisGVE/dev.wezterm",
+      "description": "Location resolver for development and deployment of a plugin.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrisGVE/lib.wezterm",
+      "name": "ChrisGVE/lib.wezterm",
+      "url": "https://github.com/ChrisGVE/lib.wezterm",
+      "description": "A library of common utility functions for plugin developers.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrisGVE/listeners.wezterm",
+      "name": "ChrisGVE/listeners.wezterm",
+      "url": "https://github.com/ChrisGVE/listeners.wezterm",
+      "description": "Enables enhanced event listener capabilities with persistent state management.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/dfsramos/wezterm-sync",
+      "name": "dfsramos/wezterm-sync",
+      "url": "https://github.com/dfsramos/wezterm-sync",
+      "description": "Sync your config across machines via a private GitHub Gist, with zero external dependencies.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/lilaqua/tunicodes",
+      "name": "lilaqua/tunicodes",
+      "url": "https://gitlab.com/lilaqua/tunicodes",
+      "description": "Insert Unicode characters via their codepoints.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/zsh-sage/toggle_terminal.wez",
+      "name": "zsh-sage/toggle_terminal.wez",
+      "url": "https://github.com/zsh-sage/toggle_terminal.wez",
+      "description": "An easy-to-use toggleable terminal window.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/quantonganh/quickselect.wezterm",
+      "name": "quantonganh/quickselect.wezterm",
+      "url": "https://github.com/quantonganh/quickselect.wezterm",
+      "description": "Jump to the build error by opening them in Helix.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/lantern.wz",
+      "name": "sravioli/lantern.wz",
+      "url": "https://github.com/sravioli/lantern.wz",
+      "description": "Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/log.wz",
+      "name": "sravioli/log.wz",
+      "url": "https://github.com/sravioli/log.wz",
+      "description": "Tagged logging library with pluggable sinks and severity thresholds.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/memo.wz",
+      "name": "sravioli/memo.wz",
+      "url": "https://github.com/sravioli/memo.wz",
+      "description": "Memoization, caching, and persistent state management.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/ribbon.wz",
+      "name": "sravioli/ribbon.wz",
+      "url": "https://github.com/sravioli/ribbon.wz",
+      "description": "Builds styled text segments for status bars, tab titles, and selector previews.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/sigil.wz",
+      "name": "sravioli/sigil.wz",
+      "url": "https://github.com/sravioli/sigil.wz",
+      "description": "Icon and identity-color registry for processes, tools, and UI labels.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/sravioli/warp.wz",
+      "name": "sravioli/warp.wz",
+      "url": "https://github.com/sravioli/warp.wz",
+      "description": "General-purpose utility library with string, table, list, path, and filesystem helpers.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/btrachey/wezterm-replay",
+      "name": "btrachey/wezterm-replay",
+      "url": "https://github.com/btrachey/wezterm-replay",
+      "description": "Parse command output and get URLs, shell commands, etc. pasted into your next prompt.",
+      "section": [
+        "Utility"
+      ]
+    },
+    {
+      "key": "https://github.com/usrivastava92/widgets.wez",
+      "name": "usrivastava92/widgets.wez",
+      "url": "https://github.com/usrivastava92/widgets.wez",
+      "description": "Cross-platform status bar widgets for CPU, RAM, battery, network, and disk on macOS, Linux, and Windows.",
+      "section": [
+        "Utility"
+      ]
+    }
+  ]
+}

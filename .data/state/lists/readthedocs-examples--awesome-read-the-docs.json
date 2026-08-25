@@ -1,0 +1,250 @@
+{
+  "etag": "W/\"ea181c93b37a066de11c530c539f02d54c1624bda5a39e3d09965e49192c5eb7\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://crate.io/docs/crate",
+      "name": "CrateDB",
+      "url": "https://crate.io/docs/crate/",
+      "description": "Crate.io has integrated their documentation experience into their general website. There's a total of 15 documentation projects nested. They use a custom theme, crate-docs-theme to orchestrate the projects and align them. #sphinx #custom-theme.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://docs.django-cms.org",
+      "name": "django-cms",
+      "url": "https://docs.django-cms.org/",
+      "description": "django-cms's developer documentation is as extensive as it's well-organized. It uses the Furo theme. #sphinx #large-project.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://docs.ray.io",
+      "name": "Ray",
+      "url": "https://docs.ray.io/",
+      "description": "Ray is a documentation project spanning multiple software components. It uses several extensions from the Executable Book project. Features are showcased in this twitter thread. #sphinx #themes #large-project.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://docs.scrapy.org",
+      "name": "Scrapy",
+      "url": "https://docs.scrapy.org/",
+      "description": "Embeds a lot of reference snippets and uses sphinx-hoverxref for quick reference tooltips. Lots of inspiration to be found in content organization. #sphinx.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://setuptools.pypa.io",
+      "name": "setuptools",
+      "url": "https://setuptools.pypa.io/",
+      "description": "Lots of features, using the Furo theme. Twitter thread with some examples. #sphinx #themes.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://sphinx-needs.readthedocs.io",
+      "name": "sphinx-needs",
+      "url": "https://sphinx-needs.readthedocs.io/",
+      "description": "Documentation of sphinx-needs. #sphinx #themes.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://sphinx-immaterial.readthedocs.io",
+      "name": "sphinx-immaterial",
+      "url": "https://sphinx-immaterial.readthedocs.io/",
+      "description": "Documentation of sphinx-immaterial, a Material theme for Sphinx, based on Material for MkDocs. #sphinx #themes.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://manual.uberspace.de",
+      "name": "Uberspace",
+      "url": "https://manual.uberspace.de/",
+      "description": "Customized sidebar and footer, adding project's branding through custom CSS and HTML to sphinx_rtd_theme. Latest version and release date on front page. #sphinx #themes #custom-theme.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://docs.wagtail.org",
+      "name": "Wagtail",
+      "url": "https://docs.wagtail.org/",
+      "description": "Wagtail is a Django-based CMS with a global community. The documentation spans multiple stakeholders (editors and developers), has it's own beautiful theme and is largely structured around Diátaxis ideals. The Release Notes and Contribution guide are remarkable. Wagtail's documentation uses a minimal set of Sphinx extensions. #sphinx #themes #diataxis.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://docs.weblate.org",
+      "name": "Weblate",
+      "url": "https://docs.weblate.org/",
+      "description": "Weblate is a translation platform with a large documentation project with many translations and customized Read the Docs theme. Documentation aimed at all segments: users, administrators and developers. Also features an extensive Changelog. #sphinx #themes #translation.",
+      "section": [
+        "Sphinx projects"
+      ]
+    },
+    {
+      "key": "https://argo-cd.readthedocs.io",
+      "name": "Argo CD",
+      "url": "https://argo-cd.readthedocs.io/",
+      "description": "Material for MkDocs theme with custom colors and a nice version drop down. Animated product demo and carefully designed sidebar presenting targeted guides for Operators, Users and Developers. #mkdocs #themes #large-project.",
+      "section": [
+        "MkDocs projects"
+      ]
+    },
+    {
+      "key": "https://doc2dash.readthedocs.io",
+      "name": "doc2dash",
+      "url": "https://doc2dash.readthedocs.io/",
+      "description": "Material for MkDocs with a custom version provider fully compatible with Read the Docs #mkdocs #themes.",
+      "section": [
+        "MkDocs projects"
+      ]
+    },
+    {
+      "key": "https://docs.nautobot.com",
+      "name": "Nautobot",
+      "url": "https://docs.nautobot.com/",
+      "description": "Extensive usage of the subprojects feature to organize numerous documentation projects under the same custom domain / landing page. Each subproject has its own release cycle. Features are showcased in this twitter thread. #mkdocs #themes #large-project.",
+      "section": [
+        "MkDocs projects"
+      ]
+    },
+    {
+      "key": "https://docs.sidra.dev/en/latest",
+      "name": "Sidra Data Platform",
+      "url": "https://docs.sidra.dev/en/latest/",
+      "description": "Material for MkDocs theme with version selector and search integrated via Read the Docs Addons. #mkdocs #themes #business.",
+      "section": [
+        "MkDocs projects"
+      ]
+    },
+    {
+      "key": "https://docs.haskellstack.org",
+      "name": "The Haskell Tool Stack",
+      "url": "https://docs.haskellstack.org/",
+      "description": "A matured MkDocs project using their documentation website as their main website. Notice both the structure and the considerate use of widgets included in Material for MkDocs #mkdocs #themes.",
+      "section": [
+        "MkDocs projects"
+      ]
+    },
+    {
+      "key": "https://discordpy.readthedocs.io",
+      "name": "discord.py",
+      "url": "https://discordpy.readthedocs.io/",
+      "description": "This projects very rich Python API reference uses custom extension for quick overview tables of attributes and methods + sphinx-hoverxref for tooltips with API reference + source link references for GitHub source code. #apidocs #sphinx #themes",
+      "section": [
+        "API Reference"
+      ]
+    },
+    {
+      "key": "https://aiida-qe-demo.readthedocs.io",
+      "name": "AiiDA demonstration",
+      "url": "https://aiida-qe-demo.readthedocs.io/",
+      "description": "A hardware demo/tutorial written with lots of examples and illustrations. Behind the scenes, Conda is used by installing mambaforge and storing the setup in environment.yml. #sphinx #jupyter-notebook",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://crest.readthedocs.io",
+      "name": "Crest Ocean System",
+      "url": "https://crest.readthedocs.io/",
+      "description": "Uses sphinx-hoverxref and Executable Book. Video tutorials in text. Lots of embeds, Trello, YouTube and more. #sphinx #themes",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://jupyterbook.org",
+      "name": "jupyter-book",
+      "url": "https://jupyterbook.org/",
+      "description": "Jupyter-book automatically creates Sphinx projects from projects that are friendly to Jupyter Notebook users. #jupyter-notebook #sphinx #diataxis.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://jupyter-sphinx.readthedocs.io",
+      "name": "jupyter-sphinx",
+      "url": "https://jupyter-sphinx.readthedocs.io/",
+      "description": "Directly executes and renders Jupyter Notebooks in documentation projects. #jupyter-notebook #sphinx.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://jupyter-tutorial.readthedocs.io",
+      "name": "jupyter-tutorial",
+      "url": "https://jupyter-tutorial.readthedocs.io/",
+      "description": "Uses a set of extensions for Sphinx, for instance direct rendering of .ipynb files with nbsphinx. #jupyter-notebook #sphinx.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://msticpy.readthedocs.io",
+      "name": "msticpy",
+      "url": "https://msticpy.readthedocs.io/",
+      "description": "MSTIC Jupyter and Python Security Tools, msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. #jupyter-notebook #sphinx.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://nbsphinx.readthedocs.io",
+      "name": "nbsphinx",
+      "url": "https://nbsphinx.readthedocs.io/",
+      "description": "Banner and buttons to view interactive versions of currently displayed *.ipynb files using the Binder service. Notice also the awesome PDF version. #jupyter-notebook #sphinx.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://docs.poliastro.space",
+      "name": "poliastro",
+      "url": "https://docs.poliastro.space/",
+      "description": "An extensive science project, demonstrating rich use of math formulas, interactive plotting in 3d, sphinx-hoverxref, custom 404s and a nice copy button on code examples. Notice how well the navigation reflects the Diátaxis framework #sphinx #diataxis.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://docs.sunpy.org",
+      "name": "SunPy",
+      "url": "https://docs.sunpy.org/",
+      "description": "A large documentation project for an open-source package for solar physics. Embeds the main website's menu and uses a custom theme. Extensive changelog and release notes. #custom-theme, sphinx, #apidocs.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://torchio.readthedocs.io",
+      "name": "TorchIO",
+      "url": "https://torchio.readthedocs.io/",
+      "description": "An open-source Python library targeting 3D medical images in deep learning. Combines API documentation with usage examples, uses \"single version\" for a singular \"rolling release\" documentation. Screenshots in this Twitter thread. #themes, sphinx.",
+      "section": [
+        "Science projects"
+      ]
+    },
+    {
+      "key": "https://tomobank.readthedocs.io",
+      "name": "TomoBank",
+      "url": "https://tomobank.readthedocs.io/",
+      "description": "A big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. #sphinx.",
+      "section": [
+        "Science projects"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1190 @@
+{
+  "etag": "W/\"6efe57f6d9a511cbb0318fd8142f5b0a58f3ccb5d64166b39e9a666a97afc820\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://opencontainers.org",
+      "name": "OPEN CONTAINER INITIATIVE",
+      "url": "https://www.opencontainers.org/",
+      "description": "The Open Container Initiative is a lightweight, open governance structure, to be formed under the auspices of the Linux Foundation, for the express purpose of creating open industry standards around container formats and runtime.",
+      "section": [
+        "Foundations"
+      ]
+    },
+    {
+      "key": "https://cncf.io",
+      "name": "Cloud Native Computing Foundation",
+      "url": "https://cncf.io/",
+      "description": "The Cloud Native Computing Foundation will create and drive the adoption of a new set of common container technologies informed by technical merit and end user value, and inspired by Internet-scale computing.",
+      "section": [
+        "Foundations"
+      ]
+    },
+    {
+      "key": "https://cloudfoundry.org/foundation",
+      "name": "Cloud Foundry Foundation",
+      "url": "https://www.cloudfoundry.org/foundation/",
+      "description": "The Cloud is our foundry.",
+      "section": [
+        "Foundations"
+      ]
+    },
+    {
+      "key": "https://github.com/opencontainers/specs",
+      "name": "Open Container Specifications",
+      "url": "https://github.com/opencontainers/specs",
+      "description": "This project is where the Open Container Initiative Specifications are written. This is a work in progress.",
+      "section": [
+        "Specifications"
+      ]
+    },
+    {
+      "key": "https://github.com/coreos/rkt/blob/master/Documentation/app-container.md",
+      "name": "App Container basics",
+      "url": "https://github.com/coreos/rkt/blob/master/Documentation/app-container.md",
+      "description": "App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.",
+      "section": [
+        "Specifications"
+      ]
+    },
+    {
+      "key": "https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface",
+      "name": "Systemd Container Interface",
+      "url": "https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface/",
+      "description": "Systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. If you write a container solution, please consider supporting the following interfaces.",
+      "section": [
+        "Specifications"
+      ]
+    },
+    {
+      "key": "https://github.com/projectatomic/atomicapp/tree/master/docs/spec",
+      "name": "Nulecule Specification",
+      "url": "https://github.com/projectatomic/atomicapp/tree/master/docs/spec",
+      "description": "Nulecule defines a pattern and model for packaging complex multi-container applications and services, referencing all their dependencies, including orchestration metadata in a container image for building, deploying, monitoring, and active management.",
+      "section": [
+        "Specifications"
+      ]
+    },
+    {
+      "key": "https://blogs.oracle.com/developers/the-microcontainer-manifesto",
+      "name": "Oracle microcontainer manifesto",
+      "url": "https://blogs.oracle.com/developers/the-microcontainer-manifesto",
+      "description": "This is not a new container format, but simply a specific method for constructing a container that allows for better security and stability.",
+      "section": [
+        "Specifications"
+      ]
+    },
+    {
+      "key": "https://github.com/deislabs/cnab-spec",
+      "name": "Cloud Native Application Bundle Specification",
+      "url": "https://github.com/deislabs/cnab-spec",
+      "description": "A package format specification that describes a technology for bundling, installing, and managing distributed applications, that are by design, cloud agnostic.",
+      "section": [
+        "Specifications"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/ecs",
+      "name": "Amazon EC2 Container Service",
+      "url": "https://aws.amazon.com/ecs/",
+      "description": "Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://cloud.google.com/container-engine",
+      "name": "Google Cloud Platform",
+      "url": "https://cloud.google.com/container-engine/",
+      "description": "Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Container Engine actively schedules your containers, based on declared needs, on a managed cluster of virtual machines.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://jelastic.com",
+      "name": "Jelastic",
+      "url": "http://jelastic.com/",
+      "description": "Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://joyent.com",
+      "name": "Joyent",
+      "url": "https://www.joyent.com/",
+      "description": "High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://kubernetes.io",
+      "name": "Kubernetes",
+      "url": "http://kubernetes.io/",
+      "description": "Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://mesosphere.com",
+      "name": "Mesosphere",
+      "url": "https://mesosphere.com/",
+      "description": "The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://openshift.org",
+      "name": "OpenShift Origin",
+      "url": "https://www.openshift.org/",
+      "description": "OpenShift Origin is a distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. Origin adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://github.com/cloudfoundry/warden",
+      "name": "Warden",
+      "url": "https://github.com/cloudfoundry/warden",
+      "description": "Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://virtuozzo.com",
+      "name": "Virtuozzo",
+      "url": "https://virtuozzo.com",
+      "description": "A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://rancher.com",
+      "name": "Rancher",
+      "url": "http://rancher.com/",
+      "description": "Rancher is a complete, open source platform for deploying and managing containers in production. It includes commercially-supported distributions of Kubernetes, Mesos, and Docker Swarm, making it easy to run containerized applications on any infrastructure.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://docs.docker.com/engine/swarm",
+      "name": "Docker Swarm",
+      "url": "https://docs.docker.com/engine/swarm/",
+      "description": "Docker Swarm is native clustering for Docker.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://azure.microsoft.com/en-us/services/container-service",
+      "name": "Azure Container Service",
+      "url": "https://azure.microsoft.com/en-us/services/container-service/",
+      "description": "Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://ciao-project.github.io",
+      "name": "CIAO",
+      "url": "https://ciao-project.github.io/",
+      "description": "Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://alibabacloud.com/fr/product/container-service",
+      "name": "Alibaba Cloud Container Service",
+      "url": "https://www.alibabacloud.com/fr/product/container-service",
+      "description": "Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://nomadproject.io",
+      "name": "Nomad",
+      "url": "https://www.nomadproject.io/",
+      "description": "HashiCorp Nomad is a single binary that schedules applications and services on Linux, Windows, and Mac. It is an open source scheduler that uses a declarative job file for scheduling virtualized, containerized, and standalone applications.",
+      "section": [
+        "Clouds"
+      ]
+    },
+    {
+      "key": "https://coreos.com",
+      "name": "CoreOs",
+      "url": "https://coreos.com/",
+      "description": "A lightweight Linux operating system designed for clustered deployments providing automation, security, and scalability for your most critical applications.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://rancher.com/rancher-os",
+      "name": "RancherOS",
+      "url": "http://rancher.com/rancher-os/",
+      "description": "RancherOS is a tiny Linux distro that runs the entire OS as Docker containers.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://projectatomic.io",
+      "name": "Project Atomic",
+      "url": "http://www.projectatomic.io/",
+      "description": "Project Atomic provides the best platform for your Linux Docker Kubernetes (LDK) application stack. Use immutable infrastructure to deploy and scale your containerized applications.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://ubuntu.com/cloud/snappy",
+      "name": "Snappy Ubuntu Core",
+      "url": "https://www.ubuntu.com/cloud/snappy",
+      "description": "Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://resinos.io",
+      "name": "ResinOS",
+      "url": "https://resinos.io/",
+      "description": "A host OS tailored for containers, designed for reliability, proven in production.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/vmware/photon",
+      "name": "Photon",
+      "url": "https://github.com/vmware/photon",
+      "description": "Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://clearlinux.org",
+      "name": "Clear Linux Project",
+      "url": "https://clearlinux.org",
+      "description": "The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://cargos.io",
+      "name": "CargOS",
+      "url": "https://cargos.io/",
+      "description": "CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://osv.io",
+      "name": "OSv",
+      "url": "http://osv.io/",
+      "description": "OSv is the open source operating system designed for the cloud. Built from the ground up for effortless deployment and management, with superior performance.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://blog.hypriot.com/about",
+      "name": "HypriotOS",
+      "url": "http://blog.hypriot.com/about/",
+      "description": "Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://mcl.host",
+      "name": "MCL",
+      "url": "https://mcl.host",
+      "description": "MCL (Minimal Container Linux) is a from scratch minimal Linux OS designed specifically to run containers. It has a small footprint of ~50MB and boots within seconds. It is currently optimized to run Docker.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/veggiemonk/awesome-docker",
+      "name": "Docker",
+      "url": "https://github.com/veggiemonk/awesome-docker#cloud-infrastructure",
+      "description": "An open platform for distributed applications for developers and sysadmins. Standard de facto.",
+      "section": [
+        "Hypervisors"
+      ]
+    },
+    {
+      "key": "https://github.com/lxc/lxd",
+      "name": "LXD",
+      "url": "https://github.com/lxc/lxd",
+      "description": "Daemon based on liblxc offering a REST API to manage LXC containers.",
+      "section": [
+        "Hypervisors"
+      ]
+    },
+    {
+      "key": "https://openvz.org",
+      "name": "OpenVZ",
+      "url": "https://openvz.org/",
+      "description": "OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.",
+      "section": [
+        "Hypervisors"
+      ]
+    },
+    {
+      "key": "https://github.com/marty90/multidocker",
+      "name": "MultiDocker",
+      "url": "https://github.com/marty90/multidocker",
+      "description": "Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.",
+      "section": [
+        "Hypervisors"
+      ]
+    },
+    {
+      "key": "https://github.com/tailhook/lithos",
+      "name": "Lithos",
+      "url": "https://github.com/tailhook/lithos/",
+      "description": "Lithos is a process supervisor and containerizer for running services. It is not intended to be system init, but rather tries to be a base tool to build container orchestration.",
+      "section": [
+        "Hypervisors"
+      ]
+    },
+    {
+      "key": "https://containerd.io",
+      "name": "containerd",
+      "url": "https://containerd.io/",
+      "description": "A container runtime which can manage a complete container lifecycle - from image transfer/storage to container execution, supervision and networking.",
+      "section": [
+        "Hypervisors"
+      ]
+    },
+    {
+      "key": "https://github.com/opencontainers/runc",
+      "name": "runc",
+      "url": "https://github.com/opencontainers/runc",
+      "description": "runc is a CLI tool for spawning and running containers according to the OCS specification.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/p8952/bocker",
+      "name": "Bocker",
+      "url": "https://github.com/p8952/bocker",
+      "description": "Docker implemented in around 100 lines of bash.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/coreos/rkt",
+      "name": "Rocket",
+      "url": "https://github.com/coreos/rkt",
+      "description": "rkt (pronounced \"rock-it\") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/lxc/lxc",
+      "name": "LXC",
+      "url": "https://github.com/lxc/lxc",
+      "description": "LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/tailhook/vagga",
+      "name": "Vagga",
+      "url": "https://github.com/tailhook/vagga",
+      "description": "Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/xemul/libct",
+      "name": "libct",
+      "url": "https://github.com/xemul/libct",
+      "description": "Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://libvirt.org/drvlxc.html",
+      "name": "libvirt",
+      "url": "https://libvirt.org/drvlxc.html",
+      "description": "A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://wiki.archlinux.org/index.php/Systemd-nspawn",
+      "name": "systemd-nspawn",
+      "url": "https://wiki.archlinux.org/index.php/Systemd-nspawn",
+      "description": "Spawn a namespace container for debugging, testing and building. Part of systemd.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/yandex/porto",
+      "name": "porto",
+      "url": "https://github.com/yandex/porto",
+      "description": "The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/indigo-dc/udocker",
+      "name": "udocker",
+      "url": "https://github.com/indigo-dc/udocker",
+      "description": "A basic user tool to execute simple containers in batch or interactive systems without root privileges.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/google/lmctfy",
+      "name": "Let Me Contain That For You",
+      "url": "https://github.com/google/lmctfy",
+      "description": "LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/01org/cc-oci-runtime",
+      "name": "cc-oci-runtime",
+      "url": "https://github.com/01org/cc-oci-runtime",
+      "description": "Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/oracle/railcar",
+      "name": "railcar",
+      "url": "https://github.com/oracle/railcar",
+      "description": "Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://katacontainers.io",
+      "name": "Kata Containers",
+      "url": "https://katacontainers.io/",
+      "description": "Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/ihucos/plash",
+      "name": "plash",
+      "url": "https://github.com/ihucos/plash/",
+      "description": "Lightweight, rootless containers.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/hyperhq/runv",
+      "name": "runv",
+      "url": "https://github.com/hyperhq/runv",
+      "description": "Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/containers/libpod",
+      "name": "podman",
+      "url": "https://github.com/containers/libpod",
+      "description": "Full management of container lifecycle.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/firecracker-microvm/firecracker",
+      "name": "firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/nestybox/sysbox",
+      "name": "sysbox",
+      "url": "https://github.com/nestybox/sysbox",
+      "description": "Sysbox is a \"runc\" that creates secure (rootless) containers / pods that run not just microservices, but most workloads that run in VMs (e.g., systemd, Docker, and Kubernetes), seamlessly.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/containers/youki",
+      "name": "youki",
+      "url": "https://github.com/containers/youki",
+      "description": "A container runtime written in Rust.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://github.com/weaveworks/footloose",
+      "name": "footloose",
+      "url": "https://github.com/weaveworks/footloose",
+      "description": "Containers that look like Virtual Machines.",
+      "section": [
+        "Containers"
+      ]
+    },
+    {
+      "key": "https://l3net.wordpress.com/projects/firejail",
+      "name": "Firejail",
+      "url": "https://l3net.wordpress.com/projects/firejail/",
+      "description": "Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://github.com/google/nsjail",
+      "name": "NsJail",
+      "url": "https://github.com/google/nsjail",
+      "description": "NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://github.com/subuser-security/subuser",
+      "name": "Subuser",
+      "url": "https://github.com/subuser-security/subuser",
+      "description": "Securing the Linux desktop with Docker.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement",
+      "name": "Snappy",
+      "url": "https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement",
+      "description": "Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://wiki.gnome.org/Projects/SandboxedApps",
+      "name": "xdg-app",
+      "url": "https://wiki.gnome.org/Projects/SandboxedApps",
+      "description": "xdg-app is a system for building, distributing and running sandboxed desktop applications on Linux.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://github.com/projectatomic/bubblewrap",
+      "name": "Bubblewrap",
+      "url": "https://github.com/projectatomic/bubblewrap",
+      "description": "Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://github.com/singularityware/singularity",
+      "name": "singularity",
+      "url": "https://github.com/singularityware/singularity",
+      "description": "Universal application containers for Linux.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://github.com/parke/lxroot",
+      "name": "Lxroot",
+      "url": "https://github.com/parke/lxroot",
+      "description": "Lxroot is a flexible, lightweight, and safer alternative to chroot and/or Docker for non-root users on Linux.",
+      "section": [
+        "Sandboxes"
+      ]
+    },
+    {
+      "key": "https://man7.org/linux/man-pages/man1/nsenter.1.html",
+      "name": "nsenter",
+      "url": "http://man7.org/linux/man-pages/man1/nsenter.1.html",
+      "description": "Run program with namespaces of other processes. Part of the util-linux.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://man7.org/linux/man-pages/man8/ip-netns.8.html",
+      "name": "ip-netns",
+      "url": "http://man7.org/linux/man-pages/man8/ip-netns.8.html",
+      "description": "Process network namespace management. Part of the iproute2.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://man7.org/linux/man-pages/man1/unshare.1.html",
+      "name": "unshare",
+      "url": "http://man7.org/linux/man-pages/man1/unshare.1.html",
+      "description": "Run program with some namespaces unshared from parent. Part of the util-linux.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://github.com/zalando/python-nsenter",
+      "name": "python-nsenter",
+      "url": "https://github.com/zalando/python-nsenter",
+      "description": "This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the \"setns\" syscall.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://pypi.python.org/pypi/butter",
+      "name": "butter",
+      "url": "https://pypi.python.org/pypi/butter",
+      "description": "Python library to interface to low level linux features (inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://github.com/Friz-zy/pyspaces",
+      "name": "pyspaces",
+      "url": "https://github.com/Friz-zy/pyspaces",
+      "description": "Works with Linux namespaces through glibc with pure python.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://criu.org/Main_Page",
+      "name": "CRIU",
+      "url": "https://criu.org/Main_Page",
+      "description": "Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://github.com/moby/moby",
+      "name": "Moby",
+      "url": "https://github.com/moby/moby",
+      "description": "A \"Lego set\" of toolkit components for containers software created by Docker.",
+      "section": [
+        "Partial Access"
+      ]
+    },
+    {
+      "key": "https://github.com/GoogleCloudPlatform/container-diff",
+      "name": "container-diff",
+      "url": "https://github.com/GoogleCloudPlatform/container-diff",
+      "description": "A tool for analyzing and comparing container images.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/projectatomic/buildah",
+      "name": "buildah",
+      "url": "https://github.com/projectatomic/buildah",
+      "description": "A tool which facilitates building OCI container images.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/projectatomic/skopeo",
+      "name": "skopeo",
+      "url": "https://github.com/projectatomic/skopeo",
+      "description": "Work with remote images registries - retrieving information, images, signing content.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/jessfraz/img",
+      "name": "img",
+      "url": "https://github.com/jessfraz/img",
+      "description": "Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/blablacar/dgr",
+      "name": "dgr",
+      "url": "https://github.com/blablacar/dgr",
+      "description": "Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/P3GLEG/Whaler",
+      "name": "Whaler",
+      "url": "https://github.com/P3GLEG/Whaler",
+      "description": "Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/wagoodman/dive",
+      "name": "dive",
+      "url": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/google/go-containerregistry",
+      "name": "go-containerregistry",
+      "url": "https://github.com/google/go-containerregistry",
+      "description": "Go library and CLIs for working with container registries.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/GoogleContainerTools/kaniko",
+      "name": "kaniko",
+      "url": "https://github.com/GoogleContainerTools/kaniko",
+      "description": "Kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://umo.ci",
+      "name": "umoci",
+      "url": "https://umo.ci/",
+      "description": "Umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://github.com/christian-korneck/docker-pushrm",
+      "name": "docker pushrm",
+      "url": "https://github.com/christian-korneck/docker-pushrm",
+      "description": "A Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.",
+      "section": [
+        "Filesystem"
+      ]
+    },
+    {
+      "key": "https://lxc-webpanel.github.io",
+      "name": "LXC-Web-Panel",
+      "url": "https://lxc-webpanel.github.io/",
+      "description": "Web panel for LXC on Ubuntu.",
+      "section": [
+        "Dashboard"
+      ]
+    },
+    {
+      "key": "https://github.com/salihciftci/liman",
+      "name": "Liman",
+      "url": "https://github.com/salihciftci/liman",
+      "description": "Basic docker monitoring web application.",
+      "section": [
+        "Dashboard"
+      ]
+    },
+    {
+      "key": "https://github.com/portainer/portainer",
+      "name": "portainer",
+      "url": "https://github.com/portainer/portainer",
+      "description": "Lightweight Docker management UI.",
+      "section": [
+        "Dashboard"
+      ]
+    },
+    {
+      "key": "https://github.com/swarmpit/swarmpit",
+      "name": "swarmpit",
+      "url": "https://github.com/swarmpit/swarmpit",
+      "description": "Lightweight mobile-friendly Docker Swarm management UI.",
+      "section": [
+        "Dashboard"
+      ]
+    },
+    {
+      "key": "https://12factor.net",
+      "name": "The Twelve-Factor App",
+      "url": "https://12factor.net/",
+      "description": "The twelve-factor app is a methodology for building software-as-a-service apps.",
+      "section": [
+        "Best practices"
+      ]
+    },
+    {
+      "key": "https://docs.projectatomic.io/container-best-practices",
+      "name": "Container Best Practices",
+      "url": "http://docs.projectatomic.io/container-best-practices/",
+      "description": "A collaborative project to document container-based application architecture, creation and management from Project Atomic.",
+      "section": [
+        "Best practices"
+      ]
+    },
+    {
+      "key": "https://github.com/docker/docker-bench-security",
+      "name": "Docker bench security",
+      "url": "https://github.com/docker/docker-bench-security",
+      "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://coreos.com/blog/vulnerability-analysis-for-containers",
+      "name": "CoreOS Clair",
+      "url": "https://coreos.com/blog/vulnerability-analysis-for-containers/",
+      "description": "Open Source Vulnerability Analysis for your Containers.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jfrazelle/bane",
+      "name": "bane",
+      "url": "https://github.com/jfrazelle/bane",
+      "description": "Custom AppArmor profile generator for docker containers.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenSCAP/container-compliance",
+      "name": "OpenSCAP",
+      "url": "https://github.com/OpenSCAP/container-compliance",
+      "description": "The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/zuBux/drydock",
+      "name": "drydock",
+      "url": "https://github.com/zuBux/drydock",
+      "description": "Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://aporeto.com/trireme",
+      "name": "trireme",
+      "url": "https://www.aporeto.com/trireme/",
+      "description": "Security by segmentation for Docker and Kubernetes.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/aelsabbahy/goss",
+      "name": "goss",
+      "url": "https://github.com/aelsabbahy/goss",
+      "description": "Quick and Easy server testing/validation.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/buildkite/sockguard",
+      "name": "sockguard",
+      "url": "https://github.com/buildkite/sockguard",
+      "description": "A proxy for docker.sock that enforces access control and isolated privileges.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/google/gvisor",
+      "name": "gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/google/docker-explorer",
+      "name": "docker-explorer",
+      "url": "https://github.com/google/docker-explorer/",
+      "description": "A tool to help forensicate offline docker acquisitions.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/containers/oci-seccomp-bpf-hook",
+      "name": "oci-seccomp-bpf-hook",
+      "url": "https://github.com/containers/oci-seccomp-bpf-hook",
+      "description": "OCI hook to trace syscalls and generate a seccomp profile.",
+      "section": [
+        "Security",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://benchmarks.cisecurity.org/about",
+      "name": "CIS Security Benchmarks",
+      "url": "https://benchmarks.cisecurity.org/about/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://opensource.com/business/14/7/docker-security-selinux",
+      "name": "Are Docker containers really secure?",
+      "url": "https://opensource.com/business/14/7/docker-security-selinux",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://opensource.com/business/14/9/security-for-docker",
+      "name": "Bringing new security features to Docker",
+      "url": "https://opensource.com/business/14/9/security-for-docker",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security",
+      "name": "Docker, Linux Containers (LXC), and security",
+      "url": "http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://itworld.com/article/2920349/security/for-containers-security-is-problem-1.html",
+      "name": "For containers, security is problem #1",
+      "url": "http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://mjg59.dreamwidth.org/33170.html",
+      "name": "Linux Container Security",
+      "url": "https://mjg59.dreamwidth.org/33170.html",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://news.ycombinator.com/item?id=10030868",
+      "name": "Ask HN: Best Linux sandbox?",
+      "url": "https://news.ycombinator.com/item?id=10030868",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf",
+      "name": "CIS Docker 1.6 Benchmark v1.0.0",
+      "url": "https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices",
+      "name": "Understanding docker security and best practices",
+      "url": "https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue",
+      "name": "Update on Ubuntu Phone security issue",
+      "url": "https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container",
+      "name": "Don't expose the Docker socket (not even to a container)",
+      "url": "https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://access.redhat.com/articles/1353593",
+      "name": "Introduction to Linux Containers",
+      "url": "https://access.redhat.com/articles/1353593",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces",
+      "name": "What’s Next for Containers? User Namespaces",
+      "url": "http://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces/#more-1004",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space",
+      "name": "Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters",
+      "url": "http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2",
+      "name": "Architecting Containers Part 2: Why the User Space Matters",
+      "url": "http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick",
+      "name": "Secure Your Containers with this One Weird Trick",
+      "url": "http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://rhelblog.redhat.com?s=container&submit=Search",
+      "name": "RedHat Blog",
+      "url": "http://rhelblog.redhat.com/?s=container&submit=Search",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data",
+      "name": "Why you shouldn't use ENV variables for secret data",
+      "url": "https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD",
+      "name": "When to use-Docker alternatives rkt and LXD",
+      "url": "http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://platform.sh/blog/2020/the-container-is-a-lie",
+      "name": "The container is a lie",
+      "url": "https://platform.sh/blog/2020/the-container-is-a-lie/",
+      "description": "",
+      "section": [
+        "Security",
+        "Links"
+      ]
+    },
+    {
+      "key": "https://github.com/draios/sysdig-container-ecosystem",
+      "name": "sysdig-container-ecosystem",
+      "url": "https://github.com/draios/sysdig-container-ecosystem",
+      "description": "The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.",
+      "section": [
+        "Another Information Sources"
+      ]
+    },
+    {
+      "key": "https://doger.io",
+      "name": "doger.io",
+      "url": "http://doger.io/",
+      "description": "This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'.",
+      "section": [
+        "Another Information Sources"
+      ]
+    }
+  ]
+}

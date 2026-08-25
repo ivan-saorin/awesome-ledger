@@ -1,0 +1,787 @@
+{
+  "etag": "W/\"e206f16ad5b439cebe0e1c14f479e8dbd7675d975ce4d2d3c900738406926b23\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/Kotlin/kotlin-spark-api",
+      "name": "Kotlin for Apache Spark",
+      "url": "https://github.com/Kotlin/kotlin-spark-api",
+      "description": "Kotlin API bindings and extensions.",
+      "section": [
+        "Packages",
+        "Language Bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/dotnet/spark",
+      "name": ".NET for Apache Spark",
+      "url": "https://github.com/dotnet/spark",
+      "description": ".NET bindings.",
+      "section": [
+        "Packages",
+        "Language Bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/rstudio/sparklyr",
+      "name": "sparklyr",
+      "url": "https://github.com/rstudio/sparklyr",
+      "description": "An alternative R backend, using dplyr.",
+      "section": [
+        "Packages",
+        "Language Bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/tweag/sparkle",
+      "name": "sparkle",
+      "url": "https://github.com/tweag/sparkle",
+      "description": "Haskell on Apache Spark.",
+      "section": [
+        "Packages",
+        "Language Bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/sjrusso8/spark-connect-rs",
+      "name": "spark-connect-rs",
+      "url": "https://github.com/sjrusso8/spark-connect-rs",
+      "description": "Rust bindings.",
+      "section": [
+        "Packages",
+        "Language Bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/spark-connect-go",
+      "name": "spark-connect-go",
+      "url": "https://github.com/apache/spark-connect-go",
+      "description": "Golang bindings.",
+      "section": [
+        "Packages",
+        "Language Bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/mdrakiburrahman/spark-connect-csharp",
+      "name": "spark-connect-csharp",
+      "url": "https://github.com/mdrakiburrahman/spark-connect-csharp",
+      "description": "C# bindings.",
+      "section": [
+        "Packages",
+        "Language Bindings"
+      ]
+    },
+    {
+      "key": "https://almond.sh",
+      "name": "almond",
+      "url": "https://almond.sh/",
+      "description": "A scala kernel for Jupyter.",
+      "section": [
+        "Packages",
+        "Notebooks and IDEs"
+      ]
+    },
+    {
+      "key": "https://zeppelin.incubator.apache.org",
+      "name": "Apache Zeppelin",
+      "url": "https://zeppelin.incubator.apache.org/",
+      "description": "Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.",
+      "section": [
+        "Packages",
+        "Notebooks and IDEs"
+      ]
+    },
+    {
+      "key": "https://polynote.org",
+      "name": "Polynote",
+      "url": "https://polynote.org/",
+      "description": "Polynote: an IDE-inspired polyglot notebook. It supports mixing multiple languages in one notebook, and sharing data between them seamlessly. It encourages reproducible notebooks with its immutable data model. Originating from Netflix.",
+      "section": [
+        "Packages",
+        "Notebooks and IDEs"
+      ]
+    },
+    {
+      "key": "https://github.com/jupyter-incubator/sparkmagic",
+      "name": "sparkmagic",
+      "url": "https://github.com/jupyter-incubator/sparkmagic",
+      "description": "Jupyter magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through Livy, in Jupyter notebooks.",
+      "section": [
+        "Packages",
+        "Notebooks and IDEs"
+      ]
+    },
+    {
+      "key": "https://github.com/yaooqinn/itachi",
+      "name": "itachi",
+      "url": "https://github.com/yaooqinn/itachi",
+      "description": "A library that brings useful functions from modern database management systems to Apache Spark.",
+      "section": [
+        "Packages",
+        "General Purpose Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/mrpowers-io/spark-daria",
+      "name": "spark-daria",
+      "url": "https://github.com/mrpowers-io/spark-daria",
+      "description": "A Scala library with essential Spark functions and extensions to make you more productive.",
+      "section": [
+        "Packages",
+        "General Purpose Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/mrpowers-io/quinn",
+      "name": "quinn",
+      "url": "https://github.com/mrpowers-io/quinn",
+      "description": "A native PySpark implementation of spark-daria.",
+      "section": [
+        "Packages",
+        "General Purpose Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/datafu/tree/master/datafu-spark",
+      "name": "Apache DataFu",
+      "url": "https://github.com/apache/datafu/tree/master/datafu-spark",
+      "description": "A library of general purpose functions and UDF's.",
+      "section": [
+        "Packages",
+        "General Purpose Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/joblib/joblib-spark",
+      "name": "Joblib Apache Spark Backend",
+      "url": "https://github.com/joblib/joblib-spark",
+      "description": "joblib backend for running tasks on Spark clusters.",
+      "section": [
+        "Packages",
+        "General Purpose Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/databricks/spark-xml",
+      "name": "Spark XML",
+      "url": "https://github.com/databricks/spark-xml",
+      "description": "XML parser and writer.",
+      "section": [
+        "Packages",
+        "SQL Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/datastax/spark-cassandra-connector",
+      "name": "Spark Cassandra Connector",
+      "url": "https://github.com/datastax/spark-cassandra-connector",
+      "description": "Cassandra support including data source and API and support for arbitrary queries.",
+      "section": [
+        "Packages",
+        "SQL Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/mongodb/mongo-spark",
+      "name": "Mongo-Spark",
+      "url": "https://github.com/mongodb/mongo-spark",
+      "description": "Official MongoDB connector.",
+      "section": [
+        "Packages",
+        "SQL Data Sources"
+      ]
+    },
+    {
+      "key": "https://github.com/delta-io/delta",
+      "name": "Delta Lake",
+      "url": "https://github.com/delta-io/delta",
+      "description": "Storage layer with ACID transactions.",
+      "section": [
+        "Packages",
+        "Storage"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/hudi",
+      "name": "Apache Hudi",
+      "url": "https://github.com/apache/hudi",
+      "description": "Upserts, Deletes And Incremental Processing on Big Data..",
+      "section": [
+        "Packages",
+        "Storage"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/iceberg",
+      "name": "Apache Iceberg",
+      "url": "https://github.com/apache/iceberg",
+      "description": "Upserts, Deletes And Incremental Processing on Big Data..",
+      "section": [
+        "Packages",
+        "Storage"
+      ]
+    },
+    {
+      "key": "https://docs.lakefs.io/integrations/spark.html",
+      "name": "lakeFS",
+      "url": "https://docs.lakefs.io/integrations/spark.html",
+      "description": "Integration with the lakeFS atomic versioned storage layer.",
+      "section": [
+        "Packages",
+        "Storage"
+      ]
+    },
+    {
+      "key": "https://github.com/bigdatagenomics/adam",
+      "name": "ADAM",
+      "url": "https://github.com/bigdatagenomics/adam",
+      "description": "Set of tools designed to analyse genomics data.",
+      "section": [
+        "Packages",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "key": "https://github.com/hail-is/hail",
+      "name": "Hail",
+      "url": "https://github.com/hail-is/hail",
+      "description": "Genetic analysis framework.",
+      "section": [
+        "Packages",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-sedona",
+      "name": "Apache Sedona",
+      "url": "https://github.com/apache/incubator-sedona",
+      "description": "Cluster computing system for processing large-scale spatial data.",
+      "section": [
+        "Packages",
+        "GIS"
+      ]
+    },
+    {
+      "key": "https://github.com/graphframes/graphframes",
+      "name": "GraphFrames",
+      "url": "https://github.com/graphframes/graphframes",
+      "description": "Data frame based graph API.",
+      "section": [
+        "Packages",
+        "Graph Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/neo4j-contrib/neo4j-spark-connector",
+      "name": "neo4j-spark-connector",
+      "url": "https://github.com/neo4j-contrib/neo4j-spark-connector",
+      "description": "Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.",
+      "section": [
+        "Packages",
+        "Graph Processing"
+      ]
+    },
+    {
+      "key": "https://systemml.apache.org",
+      "name": "Apache SystemML",
+      "url": "https://systemml.apache.org/",
+      "description": "Declarative machine learning framework on top of Spark.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://mahout.apache.org/users/sparkbindings/home.html",
+      "name": "Mahout Spark Bindings",
+      "url": "https://mahout.apache.org/users/sparkbindings/home.html",
+      "description": "[status unknown] - linear algebra DSL and optimizer with R-like syntax.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://keystone-ml.org",
+      "name": "KeystoneML",
+      "url": "http://keystone-ml.org/",
+      "description": "Type safe machine learning pipelines with RDDs.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://github.com/jpmml/jpmml-spark",
+      "name": "JPMML-Spark",
+      "url": "https://github.com/jpmml/jpmml-spark",
+      "description": "PMML transformer library for Spark ML.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://mitdbg.github.io/modeldb",
+      "name": "ModelDB",
+      "url": "https://mitdbg.github.io/modeldb",
+      "description": "A system to manage machine learning models for spark.ml and scikit-learn .",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://github.com/h2oai/sparkling-water",
+      "name": "Sparkling Water",
+      "url": "https://github.com/h2oai/sparkling-water",
+      "description": "H2O interoperability layer.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://github.com/intel-analytics/BigDL",
+      "name": "BigDL",
+      "url": "https://github.com/intel-analytics/BigDL",
+      "description": "Distributed Deep Learning library.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://github.com/combust/mleap",
+      "name": "MLeap",
+      "url": "https://github.com/combust/mleap",
+      "description": "Execution engine and serialization format which supports deployment of o.a.s.ml models without dependency on SparkSession.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://github.com/Azure/mmlspark",
+      "name": "Microsoft ML for Apache Spark",
+      "url": "https://github.com/Azure/mmlspark",
+      "description": "A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://mlflow.org/docs/latest/python_api/mlflow.spark.html",
+      "name": "MLflow",
+      "url": "https://mlflow.org/docs/latest/python_api/mlflow.spark.html#module-mlflow.spark",
+      "description": "Machine learning orchestration platform.",
+      "section": [
+        "Packages",
+        "Machine Learning Extension"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-livy",
+      "name": "Livy",
+      "url": "https://github.com/apache/incubator-livy",
+      "description": "REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.",
+      "section": [
+        "Packages",
+        "Middleware"
+      ]
+    },
+    {
+      "key": "https://github.com/spark-jobserver/spark-jobserver",
+      "name": "spark-jobserver",
+      "url": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.",
+      "section": [
+        "Packages",
+        "Middleware"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/incubator-toree",
+      "name": "Apache Toree",
+      "url": "https://github.com/apache/incubator-toree",
+      "description": "IPython protocol based middleware for interactive applications.",
+      "section": [
+        "Packages",
+        "Middleware"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/kyuubi",
+      "name": "Apache Kyuubi",
+      "url": "https://github.com/apache/kyuubi",
+      "description": "A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.",
+      "section": [
+        "Packages",
+        "Middleware"
+      ]
+    },
+    {
+      "key": "https://github.com/datamechanics/delight",
+      "name": "Data Mechanics Delight",
+      "url": "https://github.com/datamechanics/delight",
+      "description": "Cross-platform monitoring tool (Spark UI / Spark History Server replacement).",
+      "section": [
+        "Packages",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/Tubular/sparkly",
+      "name": "sparkly",
+      "url": "https://github.com/Tubular/sparkly",
+      "description": "Helpers & syntactic sugar for PySpark.",
+      "section": [
+        "Packages",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/nchammas/flintrock",
+      "name": "Flintrock",
+      "url": "https://github.com/nchammas/flintrock",
+      "description": "A command-line tool for launching Spark clusters on EC2.",
+      "section": [
+        "Packages",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/ironmussa/Optimus",
+      "name": "Optimus",
+      "url": "https://github.com/ironmussa/Optimus/",
+      "description": "Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.",
+      "section": [
+        "Packages",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/JohnSnowLabs/spark-nlp",
+      "name": "spark-nlp",
+      "url": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "Natural language processing library built on top of Apache Spark ML.",
+      "section": [
+        "Packages",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "key": "https://bahir.apache.org",
+      "name": "Apache Bahir",
+      "url": "https://bahir.apache.org/",
+      "description": "Collection of the streaming connectors excluded from Spark 2.0 (Akka, MQTT, Twitter. ZeroMQ).",
+      "section": [
+        "Packages",
+        "Streaming"
+      ]
+    },
+    {
+      "key": "https://beam.apache.org",
+      "name": "Apache Beam",
+      "url": "https://beam.apache.org/",
+      "description": "Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.",
+      "section": [
+        "Packages",
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/databricks/koalas",
+      "name": "Koalas",
+      "url": "https://github.com/databricks/koalas",
+      "description": "Pandas DataFrame API on top of Apache Spark.",
+      "section": [
+        "Packages",
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/awslabs/deequ",
+      "name": "deequ",
+      "url": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "section": [
+        "Packages",
+        "Data quality"
+      ]
+    },
+    {
+      "key": "https://github.com/awslabs/python-deequ",
+      "name": "python-deequ",
+      "url": "https://github.com/awslabs/python-deequ",
+      "description": "Python API for Deequ.",
+      "section": [
+        "Packages",
+        "Data quality"
+      ]
+    },
+    {
+      "key": "https://github.com/holdenk/spark-testing-base",
+      "name": "spark-testing-base",
+      "url": "https://github.com/holdenk/spark-testing-base",
+      "description": "Collection of base test classes.",
+      "section": [
+        "Packages",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/mrpowers-io/spark-fast-tests",
+      "name": "spark-fast-tests",
+      "url": "https://github.com/mrpowers-io/spark-fast-tests",
+      "description": "A lightweight and fast testing framework.",
+      "section": [
+        "Packages",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/MrPowers/chispa",
+      "name": "chispa",
+      "url": "https://github.com/MrPowers/chispa",
+      "description": "PySpark test helpers with beautiful error messages.",
+      "section": [
+        "Packages",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/archivesunleashed/aut",
+      "name": "Archives Unleashed Toolkit",
+      "url": "https://github.com/archivesunleashed/aut",
+      "description": "Open-source toolkit for analyzing web archives.",
+      "section": [
+        "Packages",
+        "Web Archives"
+      ]
+    },
+    {
+      "key": "https://github.com/broadinstitute/cromwell",
+      "name": "Cromwell",
+      "url": "https://github.com/broadinstitute/cromwell#spark-backend",
+      "description": "Workflow management system with Spark backend.",
+      "section": [
+        "Packages",
+        "Workflow Management"
+      ]
+    },
+    {
+      "key": "https://oreilly.com/library/view/learning-spark-2nd/9781492050032",
+      "name": "Learning Spark, 2nd Edition",
+      "url": "https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/",
+      "description": "Introduction to Spark API with Spark 3.0 covered. Good source of knowledge about basic concepts.",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://shop.oreilly.com/product/0636920035091.do",
+      "name": "Advanced Analytics with Spark",
+      "url": "http://shop.oreilly.com/product/0636920035091.do",
+      "description": "Useful collection of Spark processing patterns. Accompanying GitHub repository: sryza/aas.",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://jaceklaskowski.gitbooks.io/mastering-apache-spark",
+      "name": "Mastering Apache Spark",
+      "url": "https://jaceklaskowski.gitbooks.io/mastering-apache-spark/",
+      "description": "Interesting compilation of notes by Jacek Laskowski. Focused on different aspects of Spark internals.",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/spark-in-action",
+      "name": "Spark in Action",
+      "url": "https://www.manning.com/books/spark-in-action",
+      "description": "New book in the Manning's \"in action\" family with +400 pages. Starts gently, step-by-step and covers large number of topics. Free excerpt on how to setup Eclipse for Spark application development and how to bootstrap a new application using the provided Maven Archetype. You can find the accompanying GitHub repo here.",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/pdf/2009.08044.pdf",
+      "name": "Large-Scale Intelligent Microservices",
+      "url": "https://arxiv.org/pdf/2009.08044.pdf",
+      "description": "Microsoft paper that presents an Apache Spark-based micro-service orchestration framework that extends database operations to include web service primitives.",
+      "section": [
+        "Resources",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf",
+      "name": "Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing",
+      "url": "https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf",
+      "description": "Paper introducing a core distributed memory abstraction.",
+      "section": [
+        "Resources",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://amplab.cs.berkeley.edu/wp-content/uploads/2015/03/SparkSQLSigmod2015.pdf",
+      "name": "Spark SQL: Relational Data Processing in Spark",
+      "url": "https://amplab.cs.berkeley.edu/wp-content/uploads/2015/03/SparkSQLSigmod2015.pdf",
+      "description": "Paper introducing relational underpinnings, code generation and Catalyst optimizer.",
+      "section": [
+        "Resources",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf",
+      "name": "Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark",
+      "url": "https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf",
+      "description": "Structured Streaming is a new high-level streaming API, it is a declarative API based on automatically incrementalizing a static relational query.",
+      "section": [
+        "Resources",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://edx.org/xseries/data-science-engineering-apache-spark",
+      "name": "Data Science and Engineering with Apache Spark (edX XSeries)",
+      "url": "https://www.edx.org/xseries/data-science-engineering-apache-spark",
+      "description": "Series of five courses (Introduction to Apache Spark, Distributed Machine Learning with Apache Spark, Big Data Analysis with Apache Spark, Advanced Apache Spark for Data Science and Data Engineering, Advanced Distributed Machine Learning with Apache Spark) covering different aspects of software engineering and data science. Python oriented.",
+      "section": [
+        "Resources",
+        "MOOCS"
+      ]
+    },
+    {
+      "key": "https://coursera.org/learn/big-data-analysys",
+      "name": "Big Data Analysis with Scala and Spark (Coursera)",
+      "url": "https://www.coursera.org/learn/big-data-analysys",
+      "description": "Scala oriented introductory course. Part of Functional Programming in Scala Specialization.",
+      "section": [
+        "Resources",
+        "MOOCS"
+      ]
+    },
+    {
+      "key": "https://ampcamp.berkeley.edu",
+      "name": "AMP Camp",
+      "url": "http://ampcamp.berkeley.edu",
+      "description": "Periodical training event organized by the UC Berkeley AMPLab. A source of useful exercise and recorded workshops covering different tools from the Berkeley Data Analytics Stack.",
+      "section": [
+        "Resources",
+        "Workshops"
+      ]
+    },
+    {
+      "key": "https://github.com/OryxProject/oryx",
+      "name": "Oryx 2",
+      "url": "https://github.com/OryxProject/oryx",
+      "description": "Lambda architecture platform built on Apache Spark and Apache Kafka with specialization for real-time large scale machine learning.",
+      "section": [
+        "Resources",
+        "Projects Using Spark"
+      ]
+    },
+    {
+      "key": "https://github.com/linkedin/photon-ml",
+      "name": "Photon ML",
+      "url": "https://github.com/linkedin/photon-ml",
+      "description": "A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.",
+      "section": [
+        "Resources",
+        "Projects Using Spark"
+      ]
+    },
+    {
+      "key": "https://prediction.io",
+      "name": "PredictionIO",
+      "url": "https://prediction.io/",
+      "description": "Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.",
+      "section": [
+        "Resources",
+        "Projects Using Spark"
+      ]
+    },
+    {
+      "key": "https://github.com/Stratio/Crossdata",
+      "name": "Crossdata",
+      "url": "https://github.com/Stratio/Crossdata",
+      "description": "Data integration platform with extended DataSource API and multi-user environment.",
+      "section": [
+        "Resources",
+        "Projects Using Spark"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/r/apache/spark",
+      "name": "apache/spark",
+      "url": "https://hub.docker.com/r/apache/spark",
+      "description": "Apache Spark Official Docker images.",
+      "section": [
+        "Resources",
+        "Docker Images"
+      ]
+    },
+    {
+      "key": "https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook",
+      "name": "jupyter/docker-stacks/pyspark-notebook",
+      "url": "https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook",
+      "description": "PySpark with Jupyter Notebook and Mesos client.",
+      "section": [
+        "Resources",
+        "Docker Images"
+      ]
+    },
+    {
+      "key": "https://github.com/sequenceiq/docker-spark",
+      "name": "sequenceiq/docker-spark",
+      "url": "https://github.com/sequenceiq/docker-spark",
+      "description": "Yarn images from SequenceIQ.",
+      "section": [
+        "Resources",
+        "Docker Images"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/r/datamechanics/spark",
+      "name": "datamechanics/spark",
+      "url": "https://hub.docker.com/r/datamechanics/spark",
+      "description": "An easy to setup Docker image for Apache Spark from Data Mechanics.",
+      "section": [
+        "Resources",
+        "Docker Images"
+      ]
+    },
+    {
+      "key": "https://gitter.im/spark-scala/Lobby",
+      "name": "Spark with Scala Gitter channel",
+      "url": "https://gitter.im/spark-scala/Lobby",
+      "description": "\"A place to discuss and ask questions about using Scala for Spark programming\" started by @deanwampler.",
+      "section": [
+        "Resources",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://apache-spark-user-list.1001560.n3.nabble.com",
+      "name": "Apache Spark User List",
+      "url": "http://apache-spark-user-list.1001560.n3.nabble.com/",
+      "description": "and Apache Spark Developers List - Mailing lists dedicated to usage questions and development topics respectively.",
+      "section": [
+        "Resources",
+        "Miscellaneous"
+      ]
+    }
+  ]
+}

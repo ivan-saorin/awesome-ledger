@@ -1,0 +1,737 @@
+{
+  "etag": "W/\"c8497938bd9325bac4817fa91eba758daecfa9a767e06dbf1230eedf3c572205\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon",
+      "name": "Personal thoughts on the current functional programming bandwagon",
+      "url": "http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon",
+      "description": "Despite the name, this post actually clarifies some baisc concepts on Functional Programming, explains some of the History of FP and the implementation of FPs features on imperative languages and talks about all the fuss on declarative programming and why it has become so popular in the last few years.",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html",
+      "name": "A Monad in Practicality - Controlling Time",
+      "url": "http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html",
+      "name": "A Monad in Practicality - First Class Failures",
+      "url": "http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://haskellforall.com/2014/10/how-to-desugar-haskell-code.html",
+      "name": "How to desugar Haskell Code",
+      "url": "http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html",
+      "name": "Functors, Applicatives, And Monads In Pictures",
+      "url": "http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://stephendiehl.com/posts/monads.html",
+      "name": "Monads Made Difficult",
+      "url": "http://www.stephendiehl.com/posts/monads.html",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610",
+      "name": "Your easy guide to Monads, Applicatives, & Functors",
+      "url": "https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://freecontent.manning.com/async-streams-in-c",
+      "name": "Async Streams in C#",
+      "url": "https://freecontent.manning.com/async-streams-in-c/",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code",
+      "name": "How to leverage functional programming in Kotlin to write better, cleaner code",
+      "url": "https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://lambda-the-ultimate.org/node/1180",
+      "name": "Tradeoffs between Unique Types and Monads",
+      "url": "http://lambda-the-ultimate.org/node/1180",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/start.htm",
+      "name": "The implementation of Functional Programming Languages",
+      "url": "http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/start.htm",
+      "description": "A paper by Simon Peyton Jones",
+      "section": [
+        "Table of Contents",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://research.microsoft.com/en-us/um/people/simonpj/papers/fd-chr/esop04.pdf",
+      "name": "Sound and Decidable Type Inference for Functional Dependencies",
+      "url": "http://research.microsoft.com/en-us/um/people/simonpj/papers/fd-chr/esop04.pdf",
+      "description": "Another very famous paper on Type Inference by the main creator of Haskell and GHC",
+      "section": [
+        "Table of Contents",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf",
+      "name": "Template Meta-Programming for Haskell",
+      "url": "http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf",
+      "description": "Paper about generating code at compile-time in Haskell",
+      "section": [
+        "Table of Contents",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf",
+      "name": "Why Functional Programming Matters",
+      "url": "http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf",
+      "name": "From Higher-Order Logic to Haskell: There and Back Again",
+      "url": "http://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf",
+      "name": "Translating Haskell to Isabelle",
+      "url": "http://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://ncatlab.org/nlab/show/HomePage",
+      "name": "nLab",
+      "url": "http://ncatlab.org/nlab/show/HomePage",
+      "description": "A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.",
+      "section": [
+        "Table of Contents",
+        "Wikis"
+      ]
+    },
+    {
+      "key": "https://en.wikibooks.org/wiki/Haskell/Category_theory",
+      "name": "Haskell/Category Theory",
+      "url": "https://en.wikibooks.org/wiki/Haskell/Category_theory",
+      "description": "A good overview on Category Theory applied to Haskell from Wikibooks.",
+      "section": [
+        "Table of Contents",
+        "Wikis"
+      ]
+    },
+    {
+      "key": "https://wiki.haskell.org/Haskell",
+      "name": "Haskell Wiki",
+      "url": "https://wiki.haskell.org/Haskell",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Wikis"
+      ]
+    },
+    {
+      "key": "https://learnyouahaskell.com",
+      "name": "Learn you a Haskell",
+      "url": "http://learnyouahaskell.com/",
+      "description": "Book, but you can read it online for free as well. Very beginner friendly.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13",
+      "name": "The Little Prover",
+      "url": "https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false",
+      "description": "Talks about a theorem prover called JBob for writing proofs in LISP.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://isabelle.in.tum.de/doc/tutorial.pdf",
+      "name": "Isabelle/HOL - A Proof Assistant for Higher-Order Logic",
+      "url": "http://isabelle.in.tum.de/doc/tutorial.pdf",
+      "description": "A Book on implementing logical formalisms in Isabelle/HOL.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://ccs.neu.edu/home/matthias/BTML",
+      "name": "The Little MLer",
+      "url": "http://www.ccs.neu.edu/home/matthias/BTML/",
+      "description": "A book focused on teaching types, recursive thinking and other important subjects in Standard ML.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page",
+      "name": "Introduction to Programming using SML",
+      "url": "http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page",
+      "description": "Introduces you to programming design in a very mathematical way.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://htdp.org",
+      "name": "How to Design Programs",
+      "url": "http://www.htdp.org/",
+      "description": "/ Second Edition",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891",
+      "name": "Introduction to Functional Programming",
+      "url": "http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/haskell-in-depth",
+      "name": "Haskell in Depth",
+      "url": "https://www.manning.com/books/haskell-in-depth",
+      "description": "the perfect second book on Haskell which dives into examples and application scenarios designed to teach how Haskell works and how to apply it correctly.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/grokking-simplicity",
+      "name": "Grokking Simplicity: Taming complex software with functional thinking",
+      "url": "https://www.manning.com/books/grokking-simplicity",
+      "description": "Teaches functional programming from first principles using real-world scenarios.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/functional-programming-in-scala-second-edition",
+      "name": "Functional Programming in Scala, Second Edition",
+      "url": "https://www.manning.com/books/functional-programming-in-scala-second-edition",
+      "description": "International bestseller revised with new exercises, annotations, and full coverage of Scala 3.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/functional-programming-in-c-sharp-second-edition",
+      "name": "Functional Programming in C#, Second Edition",
+      "url": "https://www.manning.com/books/functional-programming-in-c-sharp-second-edition",
+      "description": "Real world examples and practical techniques for functional programming in C#.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/grokking-functional-programming",
+      "name": "Grokking Functional Programming",
+      "url": "https://www.manning.com/books/grokking-functional-programming",
+      "description": "Introduction to functional programming.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/functional-programming-in-kotlin",
+      "name": "Functional Programming in Kotlin",
+      "url": "https://www.manning.com/books/functional-programming-in-kotlin",
+      "description": "Master techniques and concepts of functional programming to deliver safer, simpler, and more effective Kotlin code.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/functional-design-and-architecture",
+      "name": "Functional Design and Architecture",
+      "url": "https://www.manning.com/books/functional-design-and-architecture",
+      "description": "Design patterns and architectures for building production quality applications using functional programming, with examples in Haskell and other FP languages.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/haskell-bookcamp",
+      "name": "Haskell Bookcamp",
+      "url": "https://www.manning.com/books/haskell-bookcamp",
+      "description": "In this book, you’ll get practical experience writing Haskell code and applying functional programming to actual development challenges.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://perlego.com/book/800653/mastering-functional-programming-functional-techniques-for-sequential-and-parallel-programming-with-scala-pdf",
+      "name": "Mastering Functional Programming",
+      "url": "https://www.perlego.com/book/800653/mastering-functional-programming-functional-techniques-for-sequential-and-parallel-programming-with-scala-pdf",
+      "description": "If you are from an imperative and OOP background, this book will guide you through the world of functional programming, irrespective of which programming language you use.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/jax-in-action",
+      "name": "Jax in Action",
+      "url": "https://www.manning.com/books/jax-in-action",
+      "description": "A book about The JAX numerical computing library.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition",
+      "name": "Learn PowerShell Scritping in a Month of Lunches",
+      "url": "https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition",
+      "description": "Automate complex tasks and processes with PowerShell scripts.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/f-sharp-in-action",
+      "name": "F# in Action",
+      "url": "https://www.manning.com/books/f-sharp-in-action",
+      "description": "Book about practical F# development skills needed to create professional applications.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/elixir-in-action-third-edition",
+      "name": "Elixir in Action, Third Edition",
+      "url": "https://www.manning.com/books/elixir-in-action-third-edition",
+      "description": "Fully updated to Elixir 1.14, this authoritative bestseller reveals how Elixir tackles problems of scalability, fault tolerance, and high availability.",
+      "section": [
+        "Table of Contents",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://lambda-the-ultimate.org",
+      "name": "Lambda the Ultimate",
+      "url": "http://lambda-the-ultimate.org/",
+      "description": "Community focused on discussing researches, papers and hot topic on academia. Very high tech discussion level.",
+      "section": [
+        "Table of Contents",
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://fpcomplete.com",
+      "name": "FP Complete",
+      "url": "https://www.fpcomplete.com/",
+      "description": "Community focused on helping companies and students on learning and implementing Functional Programming in Haskell. Hosters of one of the most famous Haskell learning centers: School of Haskell",
+      "section": [
+        "Table of Contents",
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://haskellers.com",
+      "name": "Haskellers",
+      "url": "http://www.haskellers.com/",
+      "description": "The meeting point for Haskell Programmers",
+      "section": [
+        "Table of Contents",
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://elixir-lang.moscow",
+      "name": "ElixirLangMoscow",
+      "url": "http://elixir-lang.moscow/",
+      "description": "Russian Elixir community",
+      "section": [
+        "Table of Contents",
+        "Communities"
+      ]
+    },
+    {
+      "key": "https://quora.com/Why-dont-more-programmers-use-Haskell",
+      "name": "Why dont more programmers use Haskell",
+      "url": "https://www.quora.com/Why-dont-more-programmers-use-Haskell",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Discussions (Quora, Stack Overflow, Reddit, etc)"
+      ]
+    },
+    {
+      "key": "https://lambda-the-ultimate.org/classic/message1532.html",
+      "name": "Hidden complexities of tail-call/tail-recursion optimization",
+      "url": "http://lambda-the-ultimate.org/classic/message1532.html",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Discussions (Quora, Stack Overflow, Reddit, etc)"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ZhuHCtR3xq8",
+      "name": "Dont fear the Monad",
+      "url": "https://www.youtube.com/watch?v=ZhuHCtR3xq8",
+      "description": "Explanation on one of the most obscure topics of Functional Programming by Microsoft researcher Brian Beckman.",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=iSmkqocn0oQ",
+      "name": "Haskell is useless",
+      "url": "https://www.youtube.com/watch?v=iSmkqocn0oQ",
+      "description": "Simon Peyton Jones being just too humble about his creation.",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=XxzzJiXHOJs",
+      "name": "Brian Beckman: The Zen of Stateless State",
+      "url": "https://www.youtube.com/watch?v=XxzzJiXHOJs",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=z0N1aZ6SnBk",
+      "name": "Erik Meijer: Functional Programming",
+      "url": "https://www.youtube.com/watch?v=z0N1aZ6SnBk",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Mw_Jnn_Y5iA",
+      "name": "Scala Monads: Declutter Your Code With Monadic Design",
+      "url": "https://www.youtube.com/watch?v=Mw_Jnn_Y5iA",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=9SBR_SnrEiI",
+      "name": "Philip Wadler and Erik Meijer: On Programming Language Theory and Practice",
+      "url": "https://www.youtube.com/watch?v=9SBR_SnrEiI",
+      "description": "",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://manning.com/livevideo/kotlin-for-android-and-java-developers",
+      "name": "Kotlin for Android & Java Developers",
+      "url": "https://www.manning.com/livevideo/kotlin-for-android-and-java-developers",
+      "description": "LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=KW9U6HMKEgk",
+      "name": "Do we really need OOD and FDD?",
+      "url": "https://www.youtube.com/watch?v=KW9U6HMKEgk",
+      "description": "Functional Declarative Design (FDD) opposed to Object-Oriented Design (OOD",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo",
+      "name": "Functional Programming with TypeScript",
+      "url": "https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo",
+      "description": "Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.",
+      "section": [
+        "Table of Contents",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD",
+      "name": "C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals",
+      "url": "https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD",
+      "description": "Series of Lectures from one of the creators of Haskell",
+      "section": [
+        "Table of Contents",
+        "Lectures"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=RD6COvD8oynmI&v=6COvD8oynmI",
+      "name": "Adventure with types in Haskell - Simon Peyton Jones",
+      "url": "https://www.youtube.com/watch?v=6COvD8oynmI&list=RD6COvD8oynmI#t=0",
+      "description": "Lectures about Haskells strong Type System by Simon Peyton Jones.",
+      "section": [
+        "Table of Contents",
+        "Lectures"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=YScIPA8RbVE",
+      "name": "The Algebra of Algebraic Data Types",
+      "url": "https://www.youtube.com/watch?v=YScIPA8RbVE",
+      "description": "Very good explanation on the relationship between math and Algebraic Data Types, which is the Type System of some very common FP Languages such as Haskell and ML.",
+      "section": [
+        "Table of Contents",
+        "Lectures"
+      ]
+    },
+    {
+      "key": "https://cl.cam.ac.uk/research/hvg/Isabelle",
+      "name": "Isabelle/HOL",
+      "url": "https://www.cl.cam.ac.uk/research/hvg/Isabelle/",
+      "description": "Generic proof assistant based on Higher Order Logic",
+      "section": [
+        "Table of Contents",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/idris-hackers/idris-koans",
+      "name": "Idris Koans",
+      "url": "https://github.com/idris-hackers/idris-koans",
+      "description": "Project for teaching Idris. A General Purpose Functional Programming with Dependent Types",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/timoxley/functional-javascript-workshop",
+      "name": "Functional Javascript Workshop",
+      "url": "https://github.com/timoxley/functional-javascript-workshop",
+      "description": "A functional Javascript workshop.",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/the-little-prover/j-bob",
+      "name": "J-Bob",
+      "url": "https://github.com/the-little-prover/j-bob",
+      "description": "The proof assistant from the book The Little Prover",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/olehkuchuk/haskell-must-watch",
+      "name": "Haskell Must Watch",
+      "url": "https://github.com/olehkuchuk/haskell-must-watch",
+      "description": "A list of videos, talks and courses on Haskell.",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://it.dtu.dk/introSML",
+      "name": "Intro SML",
+      "url": "http://www.it.dtu.dk/introSML/",
+      "description": "Code, corrections and info on the book: Introduction to Programming using SML",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/busypeoples/functional-programming-javascript",
+      "name": "Functional Programming In JavaScript",
+      "url": "https://github.com/busypeoples/functional-programming-javascript",
+      "description": "List of functional programming resources in JavaScript.",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/hemanth/functional-programming-jargon",
+      "name": "Functional Programming Jargon",
+      "url": "https://github.com/hemanth/functional-programming-jargon",
+      "description": "Project for providing a glossary for FP, and make learning FP easier.",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/bow-swift/bow",
+      "name": "Bow",
+      "url": "https://github.com/bow-swift/bow",
+      "description": "Companion library for Typed Functional Programming in Swift.",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/lettier/parsing-with-haskell-parser-combinators",
+      "name": "Parsing With Haskell Parser Combinators",
+      "url": "https://github.com/lettier/parsing-with-haskell-parser-combinators",
+      "description": "A step-by-step guide to parsing using Haskell parser combinators.",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://github.com/imteekay/functional-programming-learning-path",
+      "name": "Functional Programming Learning Path",
+      "url": "https://github.com/imteekay/functional-programming-learning-path.git",
+      "description": "A Learning Path for Functional Programming",
+      "section": [
+        "Table of Contents",
+        "Repos"
+      ]
+    },
+    {
+      "key": "https://research.microsoft.com/en-us/people/simonpj",
+      "name": "Simon Peyton Jones",
+      "url": "http://research.microsoft.com/en-us/people/simonpj/",
+      "description": "One of the creators of the Haskell Language and the Glasgow Haskell Compiler. Microsoft Researcher.",
+      "section": [
+        "Table of Contents",
+        "People"
+      ]
+    },
+    {
+      "key": "https://homepages.inf.ed.ac.uk/wadler",
+      "name": "Philip Wadler",
+      "url": "http://homepages.inf.ed.ac.uk/wadler/",
+      "description": "Professor of Theoretical Computer Science at the University of Edinburgh, author of the famous paper Propositions as Types. One of the main people behind Java Generics Types.",
+      "section": [
+        "Table of Contents",
+        "People"
+      ]
+    },
+    {
+      "key": "https://ccs.neu.edu/home/matthias",
+      "name": "Matthias Felleisen",
+      "url": "http://www.ccs.neu.edu/home/matthias/",
+      "description": "Author of many books such as How to Design Programs, and The Little Schemer.",
+      "section": [
+        "Table of Contents",
+        "People"
+      ]
+    },
+    {
+      "key": "https://linkedin.com/pub/erik-meijer/0/5ba/924",
+      "name": "Erik Meijer",
+      "url": "https://www.linkedin.com/pub/erik-meijer/0/5ba/924",
+      "description": "Former software architect for Microsoft, Functional Programming researcher, gives lectures on FP, Software Design and Reactive programming.",
+      "section": [
+        "Table of Contents",
+        "People"
+      ]
+    },
+    {
+      "key": "https://linkedin.com/in/brianbeckman",
+      "name": "Brian Beckman",
+      "url": "https://www.linkedin.com/in/brianbeckman",
+      "description": "Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#",
+      "section": [
+        "Table of Contents",
+        "People"
+      ]
+    }
+  ]
+}

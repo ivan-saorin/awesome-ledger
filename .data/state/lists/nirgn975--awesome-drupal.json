@@ -1,0 +1,907 @@
+{
+  "etag": "W/\"d5694c41be5550e7d25c1f3a2bb6bb4336718e3a5746fa25267ef5c5c3321a3c\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://drupalconsole.com",
+      "name": "Drupal Console",
+      "url": "https://drupalconsole.com/",
+      "description": "The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://drupalvm.com",
+      "name": "DrupalVM",
+      "url": "https://www.drupalvm.com/",
+      "description": "Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (instead of crufty old MAMP/WAMP-based development).",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://drush.org",
+      "name": "Drush",
+      "url": "http://www.drush.org/",
+      "description": "Drush is a command line shell and Unix scripting interface for Drupal. Drush core ships with lots of useful commands for interacting with code like modules/themes/profiles. Similarly, it runs update.php, executes sql queries and DB migrations, and misc utilities like run cron or clear cache.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Gizra/generator-hedley",
+      "name": "Yo Hedley!",
+      "url": "https://github.com/Gizra/generator-hedley",
+      "description": "Scaffold a headless Drupal backend, Angular app client, and Behat tests.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/drud/ddev",
+      "name": "DDEV-Local",
+      "url": "https://github.com/drud/ddev",
+      "description": "A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the Get Started Guide",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/admin_menu",
+      "name": "Administration menu",
+      "url": "https://www.drupal.org/project/admin_menu",
+      "description": "Provides a theme-independent administration interface (aka. navigation, back-end).",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/admin_views",
+      "name": "Administration views",
+      "url": "https://www.drupal.org/project/admin_views",
+      "description": "Replaces administrative overview/listing pages with actual views for superior usability.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/backup_migrate",
+      "name": "Backup and Migrate",
+      "url": "https://www.drupal.org/project/backup_migrate",
+      "description": "Back up and restore your Drupal MySQL database, code, and files or migrate a site between environments. Backup and Migrate supports gzip, bzip and zip compression as well as automatic scheduled backups.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/better_exposed_filters",
+      "name": "Better Exposed Filters",
+      "url": "https://www.drupal.org/project/better_exposed_filters",
+      "description": "Back up and restore your Drupal MySQL database, code, and files or migrate a site between environments. Backup and Migrate supports gzip, bzip and zip compression as well as automatic scheduled backups.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/ckeditor",
+      "name": "CKEditor - WYSIWYG HTML editor",
+      "url": "https://www.drupal.org/project/ckeditor",
+      "description": "This module will allow Drupal to replace textarea fields with the CKEditor - a visual HTML editor, usually called a WYSIWYG editor.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/colorbox",
+      "name": "Colorbox",
+      "url": "https://www.drupal.org/project/colorbox",
+      "description": "Colorbox is a light-weight customizable lightbox plugin for jQuery. This module allows for integration of Colorbox into Drupal.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/context",
+      "name": "Context",
+      "url": "https://www.drupal.org/project/context",
+      "description": "Context allows you to manage contextual conditions and reactions for different portions of your site. You can think of each context as representing a \"section\" of your site.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/ds",
+      "name": "Display Suite",
+      "url": "https://www.drupal.org/project/ds",
+      "description": "Display Suite allows you to take full control over how your content is displayed using a drag and drop interface.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/restful",
+      "name": "RESTful module",
+      "url": "https://www.drupal.org/project/restful",
+      "description": "Allows Drupal to be operated via RESTful HTTP requests, using best practices for security, performance, and usability.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/og",
+      "name": "Organic groups module",
+      "url": "https://www.drupal.org/project/og",
+      "description": "Enable users to create and manage their own 'groups'.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/message",
+      "name": "Message",
+      "url": "https://www.drupal.org/project/message",
+      "description": "Enables logging and displaying system events in a number of different use cases.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/message_notify",
+      "name": "Message Notify",
+      "url": "https://www.drupal.org/project/message_notify",
+      "description": "Forward messages when they are generated.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/message_subscribe",
+      "name": "Message Subscribe",
+      "url": "https://www.drupal.org/project/message_subscribe",
+      "description": "Register to be notified when messages are generated for specific content.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/module_filter",
+      "name": "Module Filter",
+      "url": "https://www.drupal.org/project/module_filter",
+      "description": "The modules list page can become quite big when dealing with a fairly large site or even just a dev site meant for testing new and various modules being considered.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/sandbox/bricel/2654176",
+      "name": "Entities Diagram Graph",
+      "url": "https://www.drupal.org/sandbox/bricel/2654176",
+      "description": "Generates a graph of the entities, fields and their relationship of a particular installation of Drupal 7.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/OwlCarousel",
+      "name": "Owl Carousel",
+      "url": "https://www.drupal.org/project/OwlCarousel",
+      "description": "This module integrates the wonderful Owl Carousel slider built by OwlFonk.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/csv2sql",
+      "name": "csv2sql",
+      "url": "https://www.drupal.org/project/csv2sql",
+      "description": "Convert CSV to SQL and create a table in your Drupal installation.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/logs_http",
+      "name": "Logs HTTP",
+      "url": "https://www.drupal.org/project/logs_http",
+      "description": "Provides JSON event pushing to Logs via the tag/http endpoint.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/features",
+      "name": "Features",
+      "url": "https://www.drupal.org/project/features",
+      "description": "Enables the capture and management of features in Drupal. A feature is a collection of Drupal entities which taken together satisfy a certain use-case.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/commerce",
+      "name": "Commerce",
+      "url": "https://www.drupal.org/project/commerce",
+      "description": "Used to build eCommerce websites and applications of all sizes.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/views",
+      "name": "Views",
+      "url": "https://www.drupal.org/project/views",
+      "description": "Allows administrators and site designers to create, manage, and display lists of content.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/panels",
+      "name": "Panels",
+      "url": "https://www.drupal.org/project/panels",
+      "description": "Allows a site administrator to create customized layouts for multiple uses.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/panelizer",
+      "name": "Panelizer",
+      "url": "https://www.drupal.org/project/panelizer",
+      "description": "Allows a site administrator to create customized layouts for multiple uses.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/pathauto",
+      "name": "Pathauto",
+      "url": "https://www.drupal.org/project/pathauto",
+      "description": "The Pathauto module automatically generates URL/path aliases for various kinds of content (nodes, taxonomy terms, users) without requiring the user to manually specify the path alias.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/ctools",
+      "name": "Ctools",
+      "url": "https://www.drupal.org/project/ctools",
+      "description": "This suite is primarily a set of APIs and tools to improve the developer experience.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/search_api",
+      "name": "Search API",
+      "url": "https://www.drupal.org/project/search_api",
+      "description": "Provides a framework for easily creating searches on any entity known to Drupal, using any kind of search engine.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/slick",
+      "name": "Slick",
+      "url": "https://www.drupal.org/project/slick",
+      "description": "Slick is a powerful and performant slideshow/carousel solution leveraging Ken Wheeler's Slick carousel. See http://kenwheeler.github.io/slick",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/token",
+      "name": "Token",
+      "url": "https://www.drupal.org/project/token",
+      "description": "Provides additional tokens not supported by core (most notably fields), as well as a UI for browsing tokens.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/ubercart",
+      "name": "Ubercart",
+      "url": "https://www.drupal.org/project/ubercart",
+      "description": "Ubercart is the most popular Drupal E-Commerce platform for your website. It implements everything you need to start selling products online.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/rules",
+      "name": "Rules",
+      "url": "https://www.drupal.org/project/rules",
+      "description": "The Rules module allows site administrators to define conditionally executed actions based on occurring events (known as reactive or ECA rules).",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/entity",
+      "name": "Entity API",
+      "url": "https://www.drupal.org/project/entity",
+      "description": "Extends the entity API of Drupal core in order to provide a unified way to deal with entities and their properties.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/entitycache",
+      "name": "Entity cache",
+      "url": "https://www.drupal.org/project/entitycache",
+      "description": "Puts core entities into Drupal's cache API.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/elfinder",
+      "name": "elFinder file manager",
+      "url": "https://www.drupal.org/project/elfinder",
+      "description": "elFinder is a open source AJAX file manager",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/imce",
+      "name": "IMCE",
+      "url": "https://www.drupal.org/project/imce",
+      "description": "IMCE is an image/file uploader and browser that supports personal directories and quota.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/date",
+      "name": "Date",
+      "url": "https://www.drupal.org/project/date",
+      "description": "Contains both a flexible date/time field type Date field and a Date API that other modules can use.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/devel",
+      "name": "Devel",
+      "url": "https://www.drupal.org/project/devel",
+      "description": "Suite of modules containing fun for module developers and themers.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/migrate",
+      "name": "Migrate",
+      "url": "https://www.drupal.org/project/migrate",
+      "description": "Provides a flexible framework for migrating content into Drupal from other sources.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/entity_validator",
+      "name": "Entity validator",
+      "url": "https://www.drupal.org/project/entity_validator",
+      "description": "Allows you to define a plugin and set methods to validate the object you'r dealing with.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/webform",
+      "name": "Webform",
+      "url": "https://www.drupal.org/project/webform",
+      "description": "Webform is the module for making forms and surveys in Drupal.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/wysiwyg",
+      "name": "WYSIWYG",
+      "url": "https://www.drupal.org/project/wysiwyg",
+      "description": "Allows the use of client-side editors to edit content.",
+      "section": [
+        "Modules"
+      ]
+    },
+    {
+      "key": "https://drupal.org/docs/7/install",
+      "name": "Installation Guide",
+      "url": "https://www.drupal.org/docs/7/install",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/documentation/build",
+      "name": "Site Building Guide",
+      "url": "https://www.drupal.org/documentation/build",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/docs/7/administering-drupal-7-site",
+      "name": "Administration & Security Guide",
+      "url": "https://www.drupal.org/docs/7/administering-drupal-7-site",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/docs/7/nodes-content-types-and-fields",
+      "name": "Structure Guide",
+      "url": "https://www.drupal.org/docs/7/nodes-content-types-and-fields",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/docs/7/multilingual",
+      "name": "Multilingual Guide",
+      "url": "https://www.drupal.org/docs/7/multilingual",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/docs/7/theming",
+      "name": "Theming Guide",
+      "url": "https://www.drupal.org/docs/7/theming",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/docs/7/mobile",
+      "name": "Mobile Guide",
+      "url": "https://www.drupal.org/docs/7/mobile",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://api.drupal.org/api/drupal",
+      "name": "API Reference",
+      "url": "https://api.drupal.org/api/drupal",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/examples",
+      "name": "Examples for Developers",
+      "url": "https://www.drupal.org/project/examples",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/troubleshooting",
+      "name": "Troubleshooting",
+      "url": "https://www.drupal.org/troubleshooting",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://drupal.org/documentation/customization/tutorials/beginners-cookbook",
+      "name": "The Drupal Cookbook (for beginners)",
+      "url": "https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook",
+      "description": "",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/restful-access-token",
+      "name": "Let’s Talk about Decoupled Authentication",
+      "url": "http://www.gizra.com/content/restful-access-token/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/dynamic-email-template",
+      "name": "Creating a Dynamic Email Template in Drupal",
+      "url": "http://www.gizra.com/content/dynamic-email-template/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/getting-started-with-drupal-core-initiative",
+      "name": "Getting started with a Core Initiative",
+      "url": "http://www.gizra.com/content/getting-started-with-drupal-core-initiative/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/drupal-8-attachment-migration",
+      "name": "Drupal 8: Migrate Nodes with Attachments Easily",
+      "url": "http://www.gizra.com/content/drupal-8-attachment-migration/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/migration-best-practices",
+      "name": "Migration Best Practices",
+      "url": "http://www.gizra.com/content/migration-best-practices/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/xss-attack",
+      "name": "Cross-Site Scripting attack detection",
+      "url": "http://www.gizra.com/content/xss-attack/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/simpletest-behat-drupal-8",
+      "name": "simpleTest with Behat for Drupal 8",
+      "url": "http://www.gizra.com/content/simpletest-behat-drupal-8/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/logs-easy-way",
+      "name": "Logs, The Easy Way",
+      "url": "http://www.gizra.com/content/logs-easy-way/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/todo-restful-backend",
+      "name": "Todo app with RESTful backend",
+      "url": "http://www.gizra.com/content/todo-restful-backend/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/message-subscribe-new-subscription-system",
+      "name": "Message-subscribe - A New Subscription System",
+      "url": "http://www.gizra.com/content/message-subscribe-new-subscription-system/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/what-message-module-and-its-new-features",
+      "name": "What is Message module, and its new features",
+      "url": "http://www.gizra.com/content/what-message-module-and-its-new-features/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/message-notify-multilingual-email-notifications",
+      "name": "Message notify - Multilingual email notifications",
+      "url": "http://www.gizra.com/content/message-notify-multilingual-email-notifications/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/data-migration-part-1",
+      "name": "Data Migration - part 1",
+      "url": "http://www.gizra.com/content/data-migration-part-1/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://gizra.com/content/data-migration-part-2",
+      "name": "Data Migration - part 2",
+      "url": "http://www.gizra.com/content/data-migration-part-2/",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://whaaat.com/installing-drush-9-using-composer",
+      "name": "How to install Drupal using Composer",
+      "url": "http://whaaat.com/installing-drush-9-using-composer",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://lullabot.com/articles/goodbye-drush-make-hello-composer",
+      "name": "Using composer to set up Drupal 8",
+      "url": "https://www.lullabot.com/articles/goodbye-drush-make-hello-composer",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://snipcart.com/blog/drupal-headless-architecture-tutorial",
+      "name": "Drupal Headless Architecture with Inferno.js [Live Demo]",
+      "url": "https://snipcart.com/blog/drupal-headless-architecture-tutorial",
+      "description": "",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/commerce_kickstart",
+      "name": "Commerce kickstart",
+      "url": "https://www.drupal.org/project/commerce_kickstart",
+      "description": "Commerce Kickstart is the quickest way to get up and running with Drupal Commerce.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/openscholar",
+      "name": "OpenScholar",
+      "url": "https://www.drupal.org/project/openscholar",
+      "description": "The easiest way to power all of your institution's websites.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/openatrium",
+      "name": "Open Atrium",
+      "url": "https://www.drupal.org/project/openatrium",
+      "description": "Open Atrium, maintained by Phase2 Technology, is a Drupal distribution that allows you to confidently engage with your colleagues through convenient collaboration.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/openpublic",
+      "name": "OpenPublic",
+      "url": "https://www.drupal.org/project/openpublic",
+      "description": "For government and public policy organizations, open source only works if it’s built for the security, accessibility, and flexibility requirements of the public sector.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://drupal.org/project/openpublish",
+      "name": "OpenPublish",
+      "url": "https://www.drupal.org/project/openpublish",
+      "description": "OpenPublish is a Drupal 7 packaged distribution designed for the online news industry. It is deployed in a variety of media outlets sites including magazines, newspapers, journals, trade publications, broadcast, wire service, multimedia sites and membership publications.",
+      "section": [
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://archive.org/details/Drupal7TheEssentials",
+      "name": "Drupal 7 The Essentials - Johan Falk",
+      "url": "https://archive.org/details/Drupal7TheEssentials",
+      "description": "",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI",
+      "name": "Drupal 8 Basics - LevelUpTuts",
+      "url": "https://www.youtube.com/playlist?list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PL15BE2E8313A4E809",
+      "name": "Drupal 7 Tutorials - LevelUpTuts",
+      "url": "https://www.youtube.com/playlist?list=PL15BE2E8313A4E809",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=bLWa3SbEEa8",
+      "name": "Decoupled Drupal: When, Why, and How",
+      "url": "https://www.youtube.com/watch?v=bLWa3SbEEa8",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5",
+      "name": "Building Modern APIs with RESTful",
+      "url": "https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=XglUUroifsg",
+      "name": "DrupalCon Portland 2013 - Organic Groups \\ Message",
+      "url": "https://www.youtube.com/watch?v=XglUUroifsg",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://drupalize.me",
+      "name": "Drupalize Me",
+      "url": "https://drupalize.me",
+      "description": "",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://lullabot.com/podcasts",
+      "name": "Lullabot Podcast",
+      "url": "https://www.lullabot.com/podcasts",
+      "description": "",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://drupaleasy.com/podcast",
+      "name": "DrupalEasy Podcast",
+      "url": "https://www.drupaleasy.com/podcast",
+      "description": "",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://talkingdrupal.com",
+      "name": "Talking Drupal",
+      "url": "http://www.talkingdrupal.com",
+      "description": "",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://dev.acquia.com/learn?type_1=podcast",
+      "name": "Acquia Engage",
+      "url": "https://dev.acquia.com/learn?type_1=podcast",
+      "description": "",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/drupal",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/drupal/",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/questions/tagged/drupal",
+      "name": "Stack Overflow",
+      "url": "http://stackoverflow.com/questions/tagged/drupal",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://twitter.com/drupal",
+      "name": "@drupal on Twitter",
+      "url": "https://twitter.com/drupal",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://webchat.freenode.net?channels=drupal",
+      "name": "#drupal on Freenode",
+      "url": "http://webchat.freenode.net/?channels=drupal",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://webchat.freenode.net?channels=drupal-contribute",
+      "name": "#drupal-contribute on Freenode",
+      "url": "http://webchat.freenode.net/?channels=drupal-contribute",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://webchat.freenode.net?channels=drupal-support",
+      "name": "#drupal-support on Freenode",
+      "url": "http://webchat.freenode.net/?channels=drupal-support",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://meetup.com/Drupal-Israel",
+      "name": "Drupal Israel Meetup Group",
+      "url": "https://www.meetup.com/Drupal-Israel/",
+      "description": "(Hebrew)",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://meetup.com/drupalnyc",
+      "name": "Drupal NYC Meetup Group",
+      "url": "https://www.meetup.com/drupalnyc/",
+      "description": "",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://github.com/RoySegall/solr-script",
+      "name": "Solr Script",
+      "url": "https://github.com/RoySegall/solr-script",
+      "description": "Handy script to install Apache Solr.",
+      "section": [
+        "Tips"
+      ]
+    },
+    {
+      "key": "https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup",
+      "name": "Ubuntu development environment setup",
+      "url": "https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup",
+      "description": "Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.",
+      "section": [
+        "Tips"
+      ]
+    },
+    {
+      "key": "https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine",
+      "name": "MacOS: New Machine configuration",
+      "url": "https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine",
+      "description": "Provides files and scripts for configuring MacOS for development.",
+      "section": [
+        "Tips"
+      ]
+    }
+  ]
+}

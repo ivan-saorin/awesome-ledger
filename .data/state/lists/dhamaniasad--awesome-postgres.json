@@ -1,0 +1,3157 @@
+{
+  "etag": "W/\"0d6253f5b3bd3d358c11c8b400d69ddcb489ba85eee19a4bc01bc335216dfeec\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://github.com/vitabaks/autobase",
+      "name": "autobase",
+      "url": "https://github.com/vitabaks/autobase",
+      "description": "Autobase for PostgreSQL® is an open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/2ndQuadrant/bdr",
+      "name": "BDR",
+      "url": "https://github.com/2ndQuadrant/bdr",
+      "description": "BiDirectional Replication - a multimaster replication system for PostgreSQL",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/zalando/patroni",
+      "name": "Patroni",
+      "url": "https://github.com/zalando/patroni",
+      "description": "Template for PostgreSQL HA with ZooKeeper or etcd.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/pgEdge/spock",
+      "name": "Spock",
+      "url": "https://github.com/pgEdge/spock",
+      "description": "100% open-source logical multi-master PostgreSQL replication.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/sorintlab/stolon",
+      "name": "Stolon",
+      "url": "https://github.com/sorintlab/stolon",
+      "description": "PostgreSQL HA based on Consul or etcd, with Kubernetes integration.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/aiven/pglookout",
+      "name": "pglookout",
+      "url": "https://github.com/aiven/pglookout",
+      "description": "Replication monitoring and failover daemon.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/2ndQuadrant/repmgr",
+      "name": "repmgr",
+      "url": "https://github.com/2ndQuadrant/repmgr",
+      "description": "Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://slony.info",
+      "name": "Slony-I",
+      "url": "https://slony.info/",
+      "description": "\"Master to multiple slaves\" replication system with cascading and failover.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/ClusterLabs/PAF",
+      "name": "PAF",
+      "url": "https://github.com/ClusterLabs/PAF",
+      "description": "PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/pgq/skytools-legacy",
+      "name": "SkyTools",
+      "url": "https://github.com/pgq/skytools-legacy",
+      "description": "Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/citusdata/pg_auto_failover",
+      "name": "pg_auto_failover",
+      "url": "https://github.com/citusdata/pg_auto_failover",
+      "description": "Postgres extension and service for automated failover and high-availability.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/hashmap-kz/pgrwl",
+      "name": "pgrwl",
+      "url": "https://github.com/hashmap-kz/pgrwl",
+      "description": "Stream write-ahead logs (WAL) from a PostgreSQL server in real time. A drop-in, container-friendly alternative to pg_receivewal.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://github.com/krylosov-aa/pg-status",
+      "name": "pg-status",
+      "url": "https://github.com/krylosov-aa/pg-status",
+      "description": "A microservice that provides HTTP endpoints for instantly retrieving the current master host or a replica that meets various criteria.",
+      "section": [
+        "Contents",
+        "High-Availability"
+      ]
+    },
+    {
+      "key": "https://pgbarman.org/index.html",
+      "name": "Barman",
+      "url": "https://www.pgbarman.org/index.html",
+      "description": "Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://databasus.com",
+      "name": "Databasus",
+      "url": "https://databasus.com",
+      "description": "tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/omniti-labs/omnipitr",
+      "name": "OmniPITR",
+      "url": "https://github.com/omniti-labs/omnipitr",
+      "description": "Advanced WAL File Management Tools for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/postgrespro/pg_probackup",
+      "name": "pg_probackup",
+      "url": "https://github.com/postgrespro/pg_probackup",
+      "description": "A fork of pg_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://pgbackrest.org",
+      "name": "pgBackRest",
+      "url": "https://pgbackrest.org/",
+      "description": "Reliable PostgreSQL Backup & Restore.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/eduardolat/pgbackweb",
+      "name": "pgbackweb",
+      "url": "https://github.com/eduardolat/pgbackweb",
+      "description": "A Complete Docker-based Postgres backup and maintenance tool with Web UI.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/orgrim/pg_back",
+      "name": "pg_back",
+      "url": "https://github.com/orgrim/pg_back/",
+      "description": "pg_back is a simple backup script",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/aiven/pghoard",
+      "name": "pghoard",
+      "url": "https://github.com/aiven/pghoard",
+      "description": "Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/isaced/postgres-backup-oss",
+      "name": "postgres-backup-oss",
+      "url": "https://github.com/isaced/postgres-backup-oss",
+      "description": "A handy Docker container to periodically backup PostgreSQL to Alibaba Cloud Object Storage Service (OSS)",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/wal-e/wal-e",
+      "name": "wal-e",
+      "url": "https://github.com/wal-e/wal-e",
+      "description": "(obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/wal-g/wal-g",
+      "name": "wal-g",
+      "url": "https://github.com/wal-g/wal-g",
+      "description": "The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://dalibo.github.io/pitrery",
+      "name": "pitrery",
+      "url": "https://dalibo.github.io/pitrery/",
+      "description": "pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/Musab520/pgbackup-sidecar",
+      "name": "pgbackup-sidecar",
+      "url": "https://github.com/Musab520/pgbackup-sidecar",
+      "description": "pgbackup-sidecar is a lightweight Docker sidecar container designed to automate regular backups of a PostgreSQL database using pg_dump, cron, and bash scripts while also sending output to a webhook.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://github.com/Saicheg/pg-backups-to-s3",
+      "name": "pg-backups-to-s3",
+      "url": "https://github.com/Saicheg/pg-backups-to-s3",
+      "description": "Docker-first solution on top of pg_dump with support for environment-based configuration for scheduled PostgreSQL backups with optional compression, GPG encryption, webhooks, automatic upload to Amazon S3.",
+      "section": [
+        "Contents",
+        "Backups"
+      ]
+    },
+    {
+      "key": "https://adminer.org",
+      "name": "Adminer",
+      "url": "https://www.adminer.org/",
+      "description": "Full-featured database management tool written in PHP.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://beekeeperstudio.io",
+      "name": "Beekeeper Studio",
+      "url": "https://www.beekeeperstudio.io",
+      "description": "Free and open source SQL client with a modern UI and great Postgres support. Cross platform.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://bytebase.com",
+      "name": "Bytebase",
+      "url": "https://www.bytebase.com",
+      "description": "Database DevSecOps solution for Developer, Security, DBA, and Platform Engineering teams.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://chartbrew.com",
+      "name": "Chartbrew",
+      "url": "https://chartbrew.com",
+      "description": "Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://count.co",
+      "name": "Count",
+      "url": "https://count.co/",
+      "description": "Web-based analytics platform with a notebook interface which connects to PostgreSQL (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://jetbrains.com/datagrip",
+      "name": "DataGrip",
+      "url": "https://www.jetbrains.com/datagrip/",
+      "description": "IDE with advanced tool sets and good cross-platform experience (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://datazenit.com",
+      "name": "Datazenit",
+      "url": "https://datazenit.com/",
+      "description": "Web-based PostgreSQL GUI (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://datarow.com",
+      "name": "DataRow",
+      "url": "https://www.datarow.com/",
+      "description": "Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://streams.dbconvert.com",
+      "name": "DBConvert Streams",
+      "url": "https://streams.dbconvert.com/",
+      "description": "A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://dbeaver.io",
+      "name": "DBeaver",
+      "url": "https://dbeaver.io/",
+      "description": "Universal Database Manager with excellent support for PostgreSQL.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://devart.com/dbforge/edge",
+      "name": "dbForge Edge",
+      "url": "https://www.devart.com/dbforge/edge/",
+      "description": "All-in-one multidatabase solution supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and a wide range of related cloud services (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://dbvis.com",
+      "name": "DbVisualizer",
+      "url": "http://www.dbvis.com",
+      "description": "Cross-platform database client for developers, DBAs, and analysts (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://holistics.io",
+      "name": "Holistics",
+      "url": "https://www.holistics.io/",
+      "description": "Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://jackdb.com",
+      "name": "JackDB",
+      "url": "https://www.jackdb.com/",
+      "description": "Web-based SQL query interface (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://datensen.com",
+      "name": "Luna Modeler",
+      "url": "http://www.datensen.com",
+      "description": "Cross-platform desktop data modeling tool (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://mathesar.org",
+      "name": "Mathesar",
+      "url": "https://mathesar.org/",
+      "description": "Web application providing an intuitive user experience to databases.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://metabase.com",
+      "name": "Metabase",
+      "url": "https://www.metabase.com/",
+      "description": "Simple dashboards, charts and query tool for PostgreSQL.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://numeracy.co",
+      "name": "Numeracy",
+      "url": "https://numeracy.co/",
+      "description": "Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://pgadmin.org",
+      "name": "pgAdmin",
+      "url": "https://www.pgadmin.org/",
+      "description": "PostgreSQL Administration and Management GUI.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://pgmagic.app",
+      "name": "pgMagic🪄",
+      "url": "https://pgmagic.app/?ref=awesomepostgres",
+      "description": "Chat to Postgres in Natural Language (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/commandprompt/pgmanage",
+      "name": "PgManage",
+      "url": "https://github.com/commandprompt/pgmanage",
+      "description": "A modern multi-platform Postgres-centric database client/administration tool.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://pgmodeler.io",
+      "name": "pgModeler",
+      "url": "https://pgmodeler.io/",
+      "description": "pgModeler is an open-source PostgreSQL Database Modeler.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/sosedoff/pgweb",
+      "name": "pgweb",
+      "url": "https://github.com/sosedoff/pgweb",
+      "description": "Web-based PostgreSQL database browser written in Go.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/phppgadmin/phppgadmin",
+      "name": "phpPgAdmin",
+      "url": "https://github.com/phppgadmin/phppgadmin",
+      "description": "The Premier Web Based Administration Tool for PostgreSQL.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/Paxa/postbird",
+      "name": "Postbird",
+      "url": "https://github.com/Paxa/postbird",
+      "description": "PostgreSQL Client for macOS.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://postgrescompare.com",
+      "name": "PostgresCompare",
+      "url": "https://www.postgrescompare.com",
+      "description": "Cross-platform database comparison and deployment tool (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://eggerapps.at/postico",
+      "name": "Postico",
+      "url": "https://eggerapps.at/postico/",
+      "description": "Modern PostgreSQL Client for macOS (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://queryglow.com",
+      "name": "QueryGlow",
+      "url": "https://queryglow.com/",
+      "description": "Self-hosted, web-based database GUI with AI SQL generation, EXPLAIN visualizer, and schema-aware autocomplete (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://psequel.com",
+      "name": "PSequel",
+      "url": "http://www.psequel.com/",
+      "description": "Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/getredash/redash",
+      "name": "Redash",
+      "url": "https://github.com/getredash/redash",
+      "description": "Connect to any data source, easily visualize and share your data.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://sqltabs.com",
+      "name": "SQL Tabs",
+      "url": "http://www.sqltabs.com/",
+      "description": "Cross Platform Desktop Client for PostgreSQL written in JS.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://macpostgresclient.com",
+      "name": "SQLPro for Postgres",
+      "url": "http://macpostgresclient.com/",
+      "description": "Simple, powerful PostgreSQL manager for macOS (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/dalibo/temboard",
+      "name": "temBoard",
+      "url": "https://github.com/dalibo/temboard",
+      "description": "Web-based PostgreSQL GUI and monitoring.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/teableio/teable",
+      "name": "Teable",
+      "url": "https://github.com/teableio/teable",
+      "description": "A Super fast, Real-time, Professional, Developer friendly, No code database.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://tableplus.com",
+      "name": "TablePlus",
+      "url": "https://tableplus.com/",
+      "description": "Native App which let you edit database and structure. High-end security ensured (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://valentina-db.com/en/valentina-studio-overview",
+      "name": "Valentina Studio",
+      "url": "https://www.valentina-db.com/en/valentina-studio-overview",
+      "description": "Cross-platform database administration tool (Free/Commercial)",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://dbgate.org",
+      "name": "DbGate",
+      "url": "https://dbgate.org",
+      "description": "The Smartest (no)SQL Database Client",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://webdb.app",
+      "name": "WebDB",
+      "url": "https://webdb.app",
+      "description": "Efficient Database IDE.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://postgresapp.com",
+      "name": "Postgres.app",
+      "url": "https://postgresapp.com/",
+      "description": "The Easiest Way to Get Started with PostgreSQL on macOS.",
+      "section": [
+        "Contents",
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://github.com/Vonng/pigsty",
+      "name": "Pigsty",
+      "url": "https://github.com/Vonng/pigsty",
+      "description": "Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.",
+      "section": [
+        "Contents",
+        "Distributions"
+      ]
+    },
+    {
+      "key": "https://github.com/ariga/atlas",
+      "name": "atlas",
+      "url": "https://github.com/ariga/atlas",
+      "description": "Atlas is a tool for managing and migrating database schemas using modern DevOps principles.",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/dbcli/pgcli",
+      "name": "pgcli",
+      "url": "https://github.com/dbcli/pgcli",
+      "description": "Postgres CLI with autocompletion and syntax highlighting",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/JacobArthurs/pgplan",
+      "name": "pgplan",
+      "url": "https://github.com/JacobArthurs/pgplan",
+      "description": "compare and analyze PostgreSQL EXPLAIN plans from the CLI",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://pgschema.com",
+      "name": "pgschema",
+      "url": "https://www.pgschema.com",
+      "description": "Terraform-style declarative schema migration for Postgres",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/stripe/pg-schema-diff",
+      "name": "pg-schema-diff",
+      "url": "https://github.com/stripe/pg-schema-diff",
+      "description": "CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/mickelsamuel/migrationpilot",
+      "name": "MigrationPilot",
+      "url": "https://github.com/mickelsamuel/migrationpilot",
+      "description": "PostgreSQL migration safety CLI that catches dangerous DDL before production — 80 rules, lock classification, auto-fix, GitHub Action.",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/sastraxi/pgsh",
+      "name": "pgsh",
+      "url": "https://github.com/sastraxi/pgsh",
+      "description": "Branch your PostgreSQL Database like Git",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://postgresql.org/docs/current/static/app-psql.html",
+      "name": "psql",
+      "url": "https://www.postgresql.org/docs/current/static/app-psql.html",
+      "description": "The built-in PostgreSQL CLI client",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/fphilipe/psql2csv",
+      "name": "psql2csv",
+      "url": "https://github.com/fphilipe/psql2csv",
+      "description": "Run a query in psql and output the result as CSV",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/riii111/sabiql",
+      "name": "sabiql",
+      "url": "https://github.com/riii111/sabiql",
+      "description": "A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/schemaspy/schemaspy",
+      "name": "schemaspy",
+      "url": "https://github.com/schemaspy/schemaspy",
+      "description": "SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/dmfay/pdot",
+      "name": "pdot",
+      "url": "https://gitlab.com/dmfay/pdot",
+      "description": "Visualize and explore database structures in your shell, from high-context views of the foreign key graph to trigger cascades, role inheritance and permissions, and many more",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/eduardofuncao/squix",
+      "name": "squix",
+      "url": "https://github.com/eduardofuncao/squix",
+      "description": "SQL command-line client with query management and interactive results.",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://bitnine.net",
+      "name": "AgensGraph",
+      "url": "https://bitnine.net/",
+      "description": "Powerful graph database based on the PostgreSQL.",
+      "section": [
+        "Contents",
+        "Server"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/cloudberry",
+      "name": "Apache Cloudberry",
+      "url": "https://github.com/apache/cloudberry",
+      "description": "And MPP PostgreSQL fork. Open source alternative to Greenplum Database.",
+      "section": [
+        "Contents",
+        "Server"
+      ]
+    },
+    {
+      "key": "https://ferretdb.io",
+      "name": "FerretDB",
+      "url": "https://www.ferretdb.io",
+      "description": "A truly Open Source MongoDB alternative on top of PostgreSQL.",
+      "section": [
+        "Contents",
+        "Server"
+      ]
+    },
+    {
+      "key": "https://postgres-xl.org",
+      "name": "Postgres-XL",
+      "url": "https://www.postgres-xl.org/",
+      "description": "Scalable Open Source PostgreSQL-based Database Cluster.",
+      "section": [
+        "Contents",
+        "Server"
+      ]
+    },
+    {
+      "key": "https://yugabyte.com",
+      "name": "YugabyteDB",
+      "url": "https://yugabyte.com/",
+      "description": "Open Source Distributed SQL using a fork of PostgreSQL on top of distributed storage and transaction",
+      "section": [
+        "Contents",
+        "Server"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/acra",
+      "name": "Acra",
+      "url": "https://github.com/cossacklabs/acra",
+      "description": "SQL database security suite: proxy for data protection with transparent \"on the fly\" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.",
+      "section": [
+        "Contents",
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/OPMDG/check_pgactivity",
+      "name": "check_pgactivity",
+      "url": "https://github.com/OPMDG/check_pgactivity",
+      "description": "check_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/bucardo/check_postgres",
+      "name": "Check_postgres",
+      "url": "https://github.com/bucardo/check_postgres",
+      "description": "Nagios check_postgres plugin for checking status of PostgreSQL databases.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/coroot/coroot",
+      "name": "coroot",
+      "url": "https://github.com/coroot/coroot",
+      "description": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Powered by eBPF for rapid insights into system performance.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://datadoghq.com/product/database-monitoring",
+      "name": "Datadog",
+      "url": "https://www.datadoghq.com/product/database-monitoring/",
+      "description": "SaaS monitoring that collects and visualizes metrics, queries, and explain plans, and sends alerts when problems are encountered (Commercial Software).",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/Instrumental/instrumentald",
+      "name": "Instrumental",
+      "url": "https://github.com/Instrumental/instrumentald",
+      "description": "Real-time performance monitoring, including pre-made graphs for ease of setup (Commercial Software)",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/cavaliercoder/libzbxpgsql",
+      "name": "libzbxpgsql",
+      "url": "https://github.com/cavaliercoder/libzbxpgsql",
+      "description": "Comprehensive PostgreSQL monitoring module for Zabbix.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://mydba.dev",
+      "name": "myDBA",
+      "url": "https://mydba.dev",
+      "description": "PostgreSQL performance monitoring with 75+ automated health checks, cluster-aware index advisor, query analysis, and extension monitoring for TimescaleDB, pgvector, and PostGIS (Commercial Software).",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/pmm",
+      "name": "PMM",
+      "url": "https://github.com/percona/pmm",
+      "description": "Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/rach/pome",
+      "name": "Pome",
+      "url": "https://github.com/rach/pome",
+      "description": "Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://pgmetrics.io",
+      "name": "pgmetrics",
+      "url": "https://pgmetrics.io/",
+      "description": "pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/zalando/pg_view",
+      "name": "pg_view",
+      "url": "https://github.com/zalando/pg_view",
+      "description": "Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/cybertec-postgresql/pgwatch2",
+      "name": "pgwatch2",
+      "url": "https://github.com/cybertec-postgresql/pgwatch2",
+      "description": "Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://postgresql.org/docs/devel/static/pgbench.html",
+      "name": "pgbench",
+      "url": "https://www.postgresql.org/docs/devel/static/pgbench.html",
+      "description": "Run a benchmark test on PostgreSQL.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://opm.io",
+      "name": "opm.io",
+      "url": "http://opm.io",
+      "description": "Open PostgreSQL Monitoring is a free software suite designed to help you manage your PostgreSQL servers. It can gather stats, display dashboards and send warnings when something goes wrong.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://okmeter.io/pg",
+      "name": "okmeter.io",
+      "url": "https://okmeter.io/pg",
+      "description": "Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/ankane/dexter",
+      "name": "dexter",
+      "url": "https://github.com/ankane/dexter",
+      "description": "The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/NikolayS/pg_ash",
+      "name": "pg_ash",
+      "url": "https://github.com/NikolayS/pg_ash",
+      "description": "Active Session History for PostgreSQL. Samples pg_stat_activity once per second via pg_cron, stores encoded snapshots, and provides 32 SQL functions for wait event analysis. Pure SQL, no extensions, works on managed providers (RDS, Cloud SQL, Supabase, etc.).",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/Vonng/pg_exporter",
+      "name": "pg_exporter",
+      "url": "https://github.com/Vonng/pg_exporter",
+      "description": "Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/wrouesnel/postgres_exporter",
+      "name": "postgres_exporter",
+      "url": "https://github.com/wrouesnel/postgres_exporter",
+      "description": "Prometheus exporter for PostgreSQL server metrics.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/data-bene/statsmgr",
+      "name": "StatsMgr",
+      "url": "https://codeberg.org/data-bene/statsmgr",
+      "description": "An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://pgxn.org",
+      "name": "pgxn",
+      "url": "https://pgxn.org/",
+      "description": "PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47",
+      "name": "Extensions listing by joelonsql",
+      "url": "https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47",
+      "description": "1000+ PostgreSQL extensions.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://ext.pigsty.io/list",
+      "name": "Pigsty extensions catalogue",
+      "url": "https://ext.pigsty.io/list/",
+      "description": "400+ PostgreSQL extensions.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/age",
+      "name": "AGE",
+      "url": "https://github.com/apache/age",
+      "description": "Adds fully-functional graph database support including Cypher queries.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://orioledb.com",
+      "name": "OrioleDB",
+      "url": "https://www.orioledb.com/",
+      "description": "The cloud-native storage engine for PostgreSQL. OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/citusdata/citus",
+      "name": "Citus",
+      "url": "https://github.com/citusdata/citus",
+      "description": "Scalable PostgreSQL cluster for real-time workloads.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/citusdata/cstore_fdw",
+      "name": "cstore_fdw",
+      "url": "https://github.com/citusdata/cstore_fdw",
+      "description": "Columnar store for analytics with PostgreSQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://pgxn.org/dist/cyanaudit",
+      "name": "cyanaudit",
+      "url": "https://pgxn.org/dist/cyanaudit/",
+      "description": "Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/paradedb/paradedb",
+      "name": "pg_search",
+      "url": "https://github.com/paradedb/paradedb",
+      "description": "pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/citusdata/pg_cron",
+      "name": "pg_cron",
+      "url": "https://github.com/citusdata/pg_cron",
+      "description": "Run periodic jobs in PostgreSQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/2ndQuadrant/pglogical",
+      "name": "pglogical",
+      "url": "https://github.com/2ndQuadrant/pglogical",
+      "description": "Extension that provides logical streaming replication.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/kingluo/pgcat",
+      "name": "pgcat",
+      "url": "https://github.com/kingluo/pgcat",
+      "description": "Enhanced PostgreSQL logical replication",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/btouchard/pg_barcode",
+      "name": "pg_barcode",
+      "url": "https://github.com/btouchard/pg_barcode/",
+      "description": "PostgreSQL SVG QRcode & Datamatrix generator.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/pgpartman/pg_partman",
+      "name": "pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/citusdata/pg_paxos",
+      "name": "pg_paxos",
+      "url": "https://github.com/citusdata/pg_paxos/",
+      "description": "Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/citusdata/pg_shard",
+      "name": "pg_shard",
+      "url": "https://github.com/citusdata/pg_shard",
+      "description": "Extension to scale out real-time reads and writes.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/pg_stat_monitor",
+      "name": "pg_stat_monitor",
+      "url": "https://github.com/percona/pg_stat_monitor",
+      "description": "Query Performance Monitoring tool for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/cybertec-postgresql/pg_squeeze",
+      "name": "pg_squeeze",
+      "url": "https://github.com/cybertec-postgresql/pg_squeeze",
+      "description": "An extension for automatic bloat cleanup with minimal locking.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://wiki.postgresql.org/wiki/PGStrom",
+      "name": "PGStrom",
+      "url": "https://wiki.postgresql.org/wiki/PGStrom",
+      "description": "Extension to offload CPU intensive workloads to GPU.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://confluent.io/blog/pipelinedb-team-joins-confluent",
+      "name": "PipelineDB",
+      "url": "https://www.confluent.io/blog/pipelinedb-team-joins-confluent/",
+      "description": "A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/okbob/plpgsql_check",
+      "name": "plpgsql_check",
+      "url": "https://github.com/okbob/plpgsql_check",
+      "description": "Extension that allows to check plpgsql source code.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://postgis.net",
+      "name": "PostGIS",
+      "url": "http://postgis.net/",
+      "description": "Spatial and Geographic objects for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/cossacklabs/pg_themis",
+      "name": "PG_Themis",
+      "url": "https://github.com/cossacklabs/pg_themis",
+      "description": "Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/zombodb/zombodb",
+      "name": "zomboDB",
+      "url": "https://github.com/zombodb/zombodb",
+      "description": "Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/pgMemento/pgMemento",
+      "name": "pgMemento",
+      "url": "https://github.com/pgMemento/pgMemento",
+      "description": "Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://timescale.com",
+      "name": "TimescaleDB",
+      "url": "https://www.timescale.com/",
+      "description": "Open-source time-series database fully compatible with Postgres, distributed as extension",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://pgtap.org",
+      "name": "pgTAP",
+      "url": "https://pgtap.org/",
+      "description": "Database testing framework for Postgres",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/HypoPG/hypopg",
+      "name": "HypoPG",
+      "url": "https://github.com/HypoPG/hypopg",
+      "description": "HypoPG provides hypothetical/virtual indexes feature.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/pgRouting/pgrouting",
+      "name": "pgRouting",
+      "url": "https://github.com/pgRouting/pgrouting",
+      "description": "pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://pgroonga.github.io",
+      "name": "PGroonga",
+      "url": "https://pgroonga.github.io/",
+      "description": "PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://pgaudit.org",
+      "name": "PGAudit",
+      "url": "https://www.pgaudit.org/",
+      "description": "The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://postgresml.org",
+      "name": "PostgresML",
+      "url": "https://postgresml.org/",
+      "description": "Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://postgresql-anonymizer.readthedocs.io/en/stable",
+      "name": "PostgreSQL Anonymizer",
+      "url": "https://postgresql-anonymizer.readthedocs.io/en/stable/",
+      "description": "An extension to mask or replace personally identifiable information (PII) or commercially sensitive data from a Postgres database, through PG Security Labels.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/crisbez/atlas4d-base",
+      "name": "Atlas4D",
+      "url": "https://github.com/crisbez/atlas4d-base",
+      "description": "Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.",
+      "section": [
+        "Contents",
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/LaunchPlatform/bq",
+      "name": "BeanQueue",
+      "url": "https://github.com/LaunchPlatform/bq",
+      "description": "A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY",
+      "section": [
+        "Contents",
+        "Work Queues"
+      ]
+    },
+    {
+      "key": "https://github.com/pgmq/pgmq",
+      "name": "pgmq",
+      "url": "https://github.com/pgmq/pgmq",
+      "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+      "section": [
+        "Contents",
+        "Work Queues"
+      ]
+    },
+    {
+      "key": "https://github.com/riverqueue/river",
+      "name": "river",
+      "url": "https://github.com/riverqueue/river",
+      "description": "A high-performance job processing system for Go and Postgres.",
+      "section": [
+        "Contents",
+        "Work Queues"
+      ]
+    },
+    {
+      "key": "https://github.com/timgit/pg-boss",
+      "name": "pgBoss",
+      "url": "https://github.com/timgit/pg-boss",
+      "description": "Queueing jobs in Postgres from Node.js like a boss.",
+      "section": [
+        "Contents",
+        "Work Queues"
+      ]
+    },
+    {
+      "key": "https://dbos.dev",
+      "name": "dbos",
+      "url": "https://www.dbos.dev/",
+      "description": "Durable workflows in Typescript and Python",
+      "section": [
+        "Contents",
+        "Work Queues"
+      ]
+    },
+    {
+      "key": "https://worker.graphile.org",
+      "name": "Graphile Worker",
+      "url": "https://worker.graphile.org",
+      "description": "A high performance job queue for PostgreSQL, written in Node.js",
+      "section": [
+        "Contents",
+        "Work Queues"
+      ]
+    },
+    {
+      "key": "https://npmjs.com/package/@andyrmitchell/pg-queue",
+      "name": "@andyrmitchell/pg-queue",
+      "url": "https://www.npmjs.com/package/@andyrmitchell/pg-queue",
+      "description": "The 'No Maintenance' Postgres Queue for Node.js",
+      "section": [
+        "Contents",
+        "Work Queues"
+      ]
+    },
+    {
+      "key": "https://eversql.com",
+      "name": "EverSQL",
+      "url": "https://www.eversql.com/",
+      "description": "Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/dalibo/pev2",
+      "name": "PEV2",
+      "url": "https://github.com/dalibo/pev2",
+      "description": "Online Postgres Explain Visualizer.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/mgartner/pg_flame",
+      "name": "pg_flame",
+      "url": "https://github.com/mgartner/pg_flame",
+      "description": "A flamegraph generator for query plans.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/ankane/pghero",
+      "name": "PgHero",
+      "url": "https://github.com/ankane/pghero",
+      "description": "PostgreSQL insights made easy.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://pgmustard.com",
+      "name": "pgMustard",
+      "url": "https://www.pgmustard.com/",
+      "description": "A modern user interface for EXPLAIN, that also provides performance tips (Commercial Software).",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/gregs1104/pgtune",
+      "name": "pgtune",
+      "url": "https://github.com/gregs1104/pgtune/",
+      "description": "PostgreSQL configuration wizard.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/le0pard/pgtune",
+      "name": "pgtune",
+      "url": "https://github.com/le0pard/pgtune",
+      "description": "Online version of PostgreSQL configuration wizard.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/sebastianwebber/pgconfig",
+      "name": "pgconfig.org",
+      "url": "https://github.com/sebastianwebber/pgconfig",
+      "description": "PostgreSQL Online Configuration Tool (also based on pgtune).",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://powa.readthedocs.io/en/latest",
+      "name": "PoWA",
+      "url": "https://powa.readthedocs.io/en/latest/",
+      "description": "PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/kirs/pg_web_stats",
+      "name": "pg_web_stats",
+      "url": "https://github.com/kirs/pg_web_stats",
+      "description": "Web UI to view pg_stat_statements.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/timescale/timescaledb-tune",
+      "name": "TimescaleDB Tune",
+      "url": "https://github.com/timescale/timescaledb-tune",
+      "description": "a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://metisdata.io/product/troubleshooting",
+      "name": "Metis",
+      "url": "https://www.metisdata.io/product/troubleshooting",
+      "description": "Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/postgrespro/aqo",
+      "name": "aqo",
+      "url": "https://github.com/postgrespro/aqo",
+      "description": "Adaptive query optimization for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://github.com/beh74/pgassistant-community",
+      "name": "pgassistant",
+      "url": "https://github.com/beh74/pgassistant-community",
+      "description": "A PostgreSQL tool for developers to help understand, optimize database with LLM and pgTune integration.",
+      "section": [
+        "Contents",
+        "Optimization"
+      ]
+    },
+    {
+      "key": "https://apgdiff.com",
+      "name": "apgdiff",
+      "url": "https://www.apgdiff.com/",
+      "description": "Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/BemiHQ/bemi",
+      "name": "bemi",
+      "url": "https://github.com/BemiHQ/bemi",
+      "description": "Automatic data change tracking for PostgreSQL",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Alexis-benoist/eralchemy",
+      "name": "ERAlchemy",
+      "url": "https://github.com/Alexis-benoist/eralchemy",
+      "description": "ERAlchemy generates Entity Relation (ER) diagram from databases.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://flywaydb.org",
+      "name": "flyway",
+      "url": "https://flywaydb.org/",
+      "description": "Schema migration tool for Postgres and others.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/gatewayd-io/gatewayd",
+      "name": "GatewayD",
+      "url": "https://github.com/gatewayd-io/gatewayd",
+      "description": "Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/GreenmaskIO/greenmask",
+      "name": "Greenmask",
+      "url": "https://github.com/GreenmaskIO/greenmask",
+      "description": "Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/hasura/graphql-engine",
+      "name": "Hasura GraphQL Engine",
+      "url": "https://github.com/hasura/graphql-engine",
+      "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/dalibo/ldap2pg",
+      "name": "ldap2pg",
+      "url": "https://github.com/dalibo/ldap2pg",
+      "description": "Synchronize roles and privileges from YML and LDAP.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/djrobstep/migra",
+      "name": "migra",
+      "url": "https://github.com/djrobstep/migra",
+      "description": "Like diff but for Postgres schemas.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/lanyrd/mysql-postgresql-converter",
+      "name": "mysql-postgresql-converter",
+      "url": "https://github.com/lanyrd/mysql-postgresql-converter",
+      "description": "Lanyrd's MySQL to PostgreSQL conversion script.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Particular/NServiceBus.SqlServer",
+      "name": "NServiceBus.Transport.PostgreSql",
+      "url": "https://github.com/Particular/NServiceBus.SqlServer",
+      "description": "The NServiceBus.Transport.PostgreSql library allows .NET developers to use a PostgreSQL database as a message broker. (Commerical Software)",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://ora2pg.darold.net",
+      "name": "ora2pg",
+      "url": "http://ora2pg.darold.net",
+      "description": "Perl module to export an Oracle database schema to a PostgreSQL compatible schema.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/dalibo/pg_activity",
+      "name": "pg_activity",
+      "url": "https://github.com/dalibo/pg_activity",
+      "description": "top like application for PostgreSQL server activity monitoring.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/gajus/pg-formatter",
+      "name": "pg-formatter",
+      "url": "https://github.com/gajus/pg-formatter",
+      "description": "A PostgreSQL SQL syntax beautifier (Node.js).",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/defnotwig/pg-safe-migrate",
+      "name": "pg-safe-migrate",
+      "url": "https://github.com/defnotwig/pg-safe-migrate",
+      "description": "Safety-first Node.js migration engine with advisory locks, SHA-256 drift detection, and 10 built-in lint rules for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://pganalyze.com",
+      "name": "pganalyze",
+      "url": "https://pganalyze.com",
+      "description": "PostgreSQL Performance Monitoring (Commercial Software).",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/darold/pgbadger",
+      "name": "pgbadger",
+      "url": "https://github.com/darold/pgbadger",
+      "description": "Fast PostgreSQL Log Analyzer.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://pgbouncer.org",
+      "name": "PgBouncer",
+      "url": "http://www.pgbouncer.org/",
+      "description": "Lightweight connection pooler for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/lesovsky/pgcenter",
+      "name": "pgCenter",
+      "url": "https://github.com/lesovsky/pgcenter",
+      "description": "Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/the4thdoctor/pg_chameleon",
+      "name": "pg_chameleon",
+      "url": "https://github.com/the4thdoctor/pg_chameleon",
+      "description": "Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/lukasmartinelli/pgclimb",
+      "name": "pgclimb",
+      "url": "https://github.com/lukasmartinelli/pgclimb",
+      "description": "Export data from PostgreSQL into different data formats.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/mchristofides/pg_docs_bot",
+      "name": "pg_docs_bot",
+      "url": "https://github.com/mchristofides/pg_docs_bot/",
+      "description": "Browser extension to redirect PostgreSQL docs links to the current version.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/lukasmartinelli/pgfutter",
+      "name": "pgfutter",
+      "url": "https://github.com/lukasmartinelli/pgfutter",
+      "description": "Import CSV and JSON into PostgreSQL the easy way.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://pginsight.io",
+      "name": "PGInsight",
+      "url": "http://pginsight.io/",
+      "description": "CLI tool to easily dig deep inside your PostgreSQL database.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/lob/pg_insights",
+      "name": "pg_insights",
+      "url": "https://github.com/lob/pg_insights",
+      "description": "Convenient SQL for monitoring Postgres database health.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/dimitri/pgloader",
+      "name": "pgloader",
+      "url": "https://github.com/dimitri/pgloader",
+      "description": "Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/CrunchyData/pgmonitor",
+      "name": "pgMonitor",
+      "url": "https://github.com/CrunchyData/pgmonitor",
+      "description": "Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://pgpool.net/mediawiki/index.php/Main_Page",
+      "name": "pgpool-II",
+      "url": "https://www.pgpool.net/mediawiki/index.php/Main_Page",
+      "description": "Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/timescale/pgspot",
+      "name": "pgspot",
+      "url": "https://github.com/timescale/pgspot",
+      "description": "Spot vulnerabilities in PostgreSQL extension scripts.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/pg-spot-ops/pg-spot-operator",
+      "name": "pg-spot-operator",
+      "url": "https://github.com/pg-spot-ops/pg-spot-operator",
+      "description": "A daemon to run stateful Postgres on cheap AWS Spot VMs",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/ankane/pgsync",
+      "name": "pgsync",
+      "url": "https://github.com/ankane/pgsync",
+      "description": "Tool to sync PostgreSQL data to your local machine.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/pgxn/pgxnclient",
+      "name": "PGXN client",
+      "url": "https://github.com/pgxn/pgxnclient",
+      "description": "Command line tool to interact with the PostgreSQL Extension Network",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/spotify/postgresql-metrics",
+      "name": "postgresql-metrics",
+      "url": "https://github.com/spotify/postgresql-metrics",
+      "description": "Tool that extracts and provides metrics for your PostgreSQL database.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/PostgREST/postgrest",
+      "name": "PostgREST",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "Serves a fully RESTful API from any existing PostgreSQL database.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/prest/prest",
+      "name": "pREST",
+      "url": "https://github.com/prest/prest",
+      "description": "Serve a RESTful API from any PostgreSQL database (Golang)",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/graphile/postgraphile",
+      "name": "PostGraphile",
+      "url": "https://github.com/graphile/postgraphile",
+      "description": "Instant GraphQL API or GraphQL schema for your PostgreSQL database",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/nanopack/yoke",
+      "name": "yoke",
+      "url": "https://github.com/nanopack/yoke",
+      "description": "PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/kabirbaidhya/pglistend",
+      "name": "pglistend",
+      "url": "https://github.com/kabirbaidhya/pglistend",
+      "description": "A lightweight PostgresSQL LISTEN/NOTIFY daemon built on top of node-postgres.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/postgrespro/zson",
+      "name": "ZSON",
+      "url": "https://github.com/postgrespro/zson",
+      "description": "PostgreSQL extension for transparent JSONB compression",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://ossc-db.github.io/pg_bulkload/index.html",
+      "name": "pg_bulkload",
+      "url": "http://ossc-db.github.io/pg_bulkload/index.html",
+      "description": "It's a high speed data loading utility for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/jwdeitch/pg_migrate",
+      "name": "pg_migrate",
+      "url": "https://github.com/jwdeitch/pg_migrate",
+      "description": "Manage PostgreSQL codebases and make VCS simple.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/cybertec-postgresql/pg_timetable",
+      "name": "pg_timetable",
+      "url": "https://github.com/cybertec-postgresql/pg_timetable",
+      "description": "Advanced job scheduler for PostgreSQL.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/sqitchers/sqitch",
+      "name": "sqitch",
+      "url": "https://github.com/sqitchers/sqitch",
+      "description": "Tool for managing versioned schema deployment",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/yandex/pgmigrate",
+      "name": "pgmigrate",
+      "url": "https://github.com/yandex/pgmigrate",
+      "description": "CLI tool to evolve schema migrations, developed by Yandex.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/cbbrowne/pgcmp",
+      "name": "pgcmp",
+      "url": "https://github.com/cbbrowne/pgcmp",
+      "description": "Tool to compare database schemas, with capability to accept some persistent differences",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/multum/pg-differ",
+      "name": "pg-differ",
+      "url": "https://github.com/multum/pg-differ",
+      "description": "Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/qail-io/qail",
+      "name": "Qail",
+      "url": "https://github.com/qail-io/qail",
+      "description": "rust-first typed AST pipeline for PostgreSQL with compile-time query checks and built-in tenant scoping.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/jarulraj/sqlcheck",
+      "name": "sqlcheck",
+      "url": "https://github.com/jarulraj/sqlcheck",
+      "description": "Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/postgres-ai/postgres-checkup",
+      "name": "postgres-checkup",
+      "url": "https://gitlab.com/postgres-ai/postgres-checkup",
+      "description": "a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/perseas/Pyrseas",
+      "name": "Pyrseas",
+      "url": "https://github.com/perseas/Pyrseas",
+      "description": "Postgres database schema versioning.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://scaffoldhub.io",
+      "name": "ScaffoldHub.io",
+      "url": "https://scaffoldhub.io",
+      "description": "Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/achiku/planter",
+      "name": "planter",
+      "url": "https://github.com/achiku/planter",
+      "description": "Generate PlantUML ER diagram textual description from PostgreSQL tables",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/xataio/pgroll",
+      "name": "pgroll",
+      "url": "https://github.com/xataio/pgroll",
+      "description": "Zero-downtime, reversible, schema migrations for Postgres",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/dimitri/regresql",
+      "name": "RegreSQL",
+      "url": "https://github.com/dimitri/regresql",
+      "description": "Tool to build, maintain and execute a regression testing suite for SQL queries.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/ayarotsky/diesel-guard",
+      "name": "diesel-guard",
+      "url": "https://github.com/ayarotsky/diesel-guard",
+      "description": "Linter for dangerous Postgres migration patterns in Diesel and SQLx.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/marijnh/Postmodern",
+      "name": "Postmodern",
+      "url": "https://github.com/marijnh/Postmodern",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/remodoy/clj-postgresql",
+      "name": "clj-postgresql",
+      "url": "https://github.com/remodoy/clj-postgresql",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/elixir-ecto/postgrex",
+      "name": "postgrex",
+      "url": "https://github.com/elixir-ecto/postgrex",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/lib/pq",
+      "name": "pq",
+      "url": "https://github.com/lib/pq",
+      "description": ", pgx, go-pg",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://hackage.haskell.org/package/postgresql-simple",
+      "name": "postgresql-simple",
+      "url": "http://hackage.haskell.org/package/postgresql-simple",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://jdbc.postgresql.org",
+      "name": "PostgreSQL JDBC Driver",
+      "url": "https://jdbc.postgresql.org/",
+      "description": ", Vert.x PostgreSQL Client",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/arcapos/luapgsql",
+      "name": "luapgsql",
+      "url": "https://github.com/arcapos/luapgsql",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/npgsql/npgsql",
+      "name": "Npgsql",
+      "url": "https://github.com/npgsql/npgsql",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/brianc/node-postgres",
+      "name": "node-postgres",
+      "url": "https://github.com/brianc/node-postgres",
+      "description": ", pg-promise, pogi, slonik, postgres",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm",
+      "name": "DBD-Pg",
+      "url": "https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://pomm-project.org",
+      "name": "Pomm",
+      "url": "http://www.pomm-project.org",
+      "description": ", pecl/pq",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://pypi.org/project/psycopg2",
+      "name": "psycopg2",
+      "url": "https://pypi.org/project/psycopg2/",
+      "description": ", asyncpg, pg8000",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/r-dbi/RPostgres",
+      "name": "RPostgres",
+      "url": "https://github.com/r-dbi/RPostgres",
+      "description": ", RPostgreSQL",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/ged/ruby-pg",
+      "name": "pg",
+      "url": "https://github.com/ged/ruby-pg",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/sfackler/rust-postgres",
+      "name": "rust-postgresql",
+      "url": "https://github.com/sfackler/rust-postgres",
+      "description": ", pgx, wtx",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/jawj/zapatos",
+      "name": "zapatos",
+      "url": "https://github.com/jawj/zapatos",
+      "description": "",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/karlseguin/pg.zig",
+      "name": "pg.zig",
+      "url": "https://github.com/karlseguin/pg.zig",
+      "description": ", qail-zig",
+      "section": [
+        "Contents",
+        "Language bindings"
+      ]
+    },
+    {
+      "key": "https://aiven.io/postgresql",
+      "name": "Aiven PostgreSQL",
+      "url": "https://aiven.io/postgresql",
+      "description": "PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/rds/postgresql",
+      "name": "Amazon RDS for PostgreSQL",
+      "url": "https://aws.amazon.com/rds/postgresql/",
+      "description": "Amazon Relational Database Service (RDS) for PostgreSQL",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://azure.microsoft.com/en-us/services/postgresql",
+      "name": "Azure Database for PostgreSQL",
+      "url": "https://azure.microsoft.com/en-us/services/postgresql/",
+      "description": "Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://crunchydata.com/products/crunchy-bridge",
+      "name": "Crunchy Bridge",
+      "url": "https://www.crunchydata.com/products/crunchy-bridge/",
+      "description": "Fully managed Postgres from the Postgres experts. Available across all major cloud providers: Amazon AWS, Google GCP, Microsoft Azure. No lock-in with full super-user support.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://databaselabs.io",
+      "name": "Database Labs",
+      "url": "https://www.databaselabs.io",
+      "description": "Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://digitalocean.com/products/managed-databases",
+      "name": "DigitalOcean Managed Databases",
+      "url": "https://www.digitalocean.com/products/managed-databases/",
+      "description": "Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://cloud.google.com/sql/docs/postgres",
+      "name": "Google Cloud SQL for PostgreSQL",
+      "url": "https://cloud.google.com/sql/docs/postgres/",
+      "description": "Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://elements.heroku.com/addons/heroku-postgresql",
+      "name": "Heroku Postgres",
+      "url": "https://elements.heroku.com/addons/heroku-postgresql",
+      "description": "Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://ovhcloud.com/en/public-cloud/databases",
+      "name": "OVHcloud Cloud Databases",
+      "url": "https://www.ovhcloud.com/en/public-cloud/databases/",
+      "description": "Highly available, scalable, and secured PostgreSQL. Daily backups with point-in-time recovery, no lock-in, free incoming and outgoing traffic.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://render.com/docs/databases",
+      "name": "Render Managed PostgreSQL",
+      "url": "https://render.com/docs/databases",
+      "description": "Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://scalegrid.io/postgresql.html",
+      "name": "ScaleGrid PostgreSQL DBaaS",
+      "url": "https://scalegrid.io/postgresql.html",
+      "description": "Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://scaleway.com/en/database",
+      "name": "Scaleway Managed Database",
+      "url": "https://www.scaleway.com/en/database/",
+      "description": "Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://supabase.com",
+      "name": "Supabase",
+      "url": "https://www.supabase.com",
+      "description": "Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://neon.tech",
+      "name": "Neon",
+      "url": "https://neon.tech",
+      "description": "Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://thenile.dev",
+      "name": "Nile",
+      "url": "https://www.thenile.dev/",
+      "description": "Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://planetscale.com/postgres",
+      "name": "PlanetScale",
+      "url": "https://planetscale.com/postgres",
+      "description": "PlanetScale for Postgres provides fully-managed, high availability PostgreSQL database clusters built on modern cloud infrastructure.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://vela.run",
+      "name": "Vela",
+      "url": "https://vela.run",
+      "description": "Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://thalassa.cloud/products/databases/postgresql",
+      "name": "Thalassa Cloud DBaaS",
+      "url": "https://thalassa.cloud/products/databases/postgresql/",
+      "description": "Fully managed PostgreSQL database, multi-AZ, automated backups, hosted in the Netherlands.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/r/citusdata/citus",
+      "name": "citusdata/citus",
+      "url": "https://hub.docker.com/r/citusdata/citus/",
+      "description": "Citus official images with citus extensions. Based on the official Postgres container.",
+      "section": [
+        "Contents",
+        "Docker images"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/r/mdillon/postgis",
+      "name": "mdillon/postgis",
+      "url": "https://hub.docker.com/r/mdillon/postgis/",
+      "description": "PostGIS 2.3 on Postgres 9. Based on the official Postgres container.",
+      "section": [
+        "Contents",
+        "Docker images"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/r/paradedb/paradedb",
+      "name": "paradedb/paradedb",
+      "url": "https://hub.docker.com/r/paradedb/paradedb/",
+      "description": "ParadeDB is Postgres for Search and Analytics. Based on the official Postgres container with pg_search extension.",
+      "section": [
+        "Contents",
+        "Docker images"
+      ]
+    },
+    {
+      "key": "https://hub.docker.com/_/postgres",
+      "name": "postgres",
+      "url": "https://hub.docker.com/_/postgres/",
+      "description": "Official postgres container (from Docker)",
+      "section": [
+        "Contents",
+        "Docker images"
+      ]
+    },
+    {
+      "key": "https://github.com/CrunchyData/postgres-operator",
+      "name": "Crunchy Operator",
+      "url": "https://github.com/CrunchyData/postgres-operator",
+      "description": "Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://postgresql.fastware.com",
+      "name": "Fujitsu Enterprise Postgres for Kubernetes",
+      "url": "https://www.postgresql.fastware.com/",
+      "description": "Enterprise-grade PostgreSQL on OpenShift Container Platform (Commercial Software).",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://github.com/reactive-tech/kubegres",
+      "name": "Kubegres Operator",
+      "url": "https://github.com/reactive-tech/kubegres",
+      "description": "Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://github.com/ongres/stackgres",
+      "name": "StackGres Operator",
+      "url": "https://github.com/ongres/stackgres/",
+      "description": "Full Stack PostgreSQL on Kubernetes.",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://github.com/zalando/postgres-operator",
+      "name": "Zalando Operator",
+      "url": "https://github.com/zalando/postgres-operator",
+      "description": "Creates and manages PostgreSQL clusters running in Kubernetes.",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "name": "CloudNativePG operator",
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "description": "A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://kubedb.com",
+      "name": "KubeDB operator",
+      "url": "https://kubedb.com/",
+      "description": "Run Production-Grade Databases on Kubernetes (Commercial Software).",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/percona-postgresql-operator",
+      "name": "Percona PostgreSQL Operator",
+      "url": "https://github.com/percona/percona-postgresql-operator",
+      "description": "Percona Operator for PostgreSQL based on Crunchy Data operator.",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://github.com/percona/everest-operator",
+      "name": "Percona Everest Operator",
+      "url": "https://github.com/percona/everest-operator",
+      "description": "Everest Operator is a Kubernetes Operator responsible for managing the lifecycle of MySQL, MongoDB, and PostgreSQL databases. It leverages Percona's Kubernetes Operators for MySQL, MongoDB, and PostgreSQL under the hood but provides a unified API and a single pane of glass for managing all three database types.",
+      "section": [
+        "Contents",
+        "Kubernetes"
+      ]
+    },
+    {
+      "key": "https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e",
+      "name": "Backup and recover a PostgreSQL DB using wal-e",
+      "url": "https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e",
+      "description": "Tutorial about setting up continuous archiving in PostgreSQL using wal-e.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://wiki.postgresql.org/wiki/Operations_cheat_sheet",
+      "name": "Operations cheat sheet",
+      "url": "https://wiki.postgresql.org/wiki/Operations_cheat_sheet",
+      "description": "Operations cheat sheet from PostgreSQL Wiki.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://pgcasts.com",
+      "name": "PG Casts",
+      "url": "https://www.pgcasts.com",
+      "description": "Free weekly PostgreSQL screencasts by Hashrocket.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://postgresguide.com",
+      "name": "Postgres Guide",
+      "url": "http://postgresguide.com/",
+      "description": "Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://pgexercises.com",
+      "name": "PostgreSQL Exercises",
+      "url": "https://pgexercises.com/",
+      "description": "Site to make it easy to learn PostgreSQL by doing exercises.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://tutorialspoint.com/postgresql",
+      "name": "tutorialspoint PostgreSQL tutorial",
+      "url": "http://www.tutorialspoint.com/postgresql/",
+      "description": "Very extensive collection of tutorials on PostgreSQL",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/morenoh149/postgresDBSamples",
+      "name": "postgresDBSamples",
+      "url": "https://github.com/morenoh149/postgresDBSamples",
+      "description": "A collection of sample postgres schemas",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://zaiste.net/posts/postgresql-primer-for-busy-people",
+      "name": "PostgreSQL Primer for Busy People",
+      "url": "https://zaiste.net/posts/postgresql-primer-for-busy-people/",
+      "description": "A collection of the most common commands used in PostgreSQL",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/dataegret/pg-utils",
+      "name": "pg-utils",
+      "url": "https://github.com/dataegret/pg-utils",
+      "description": "Useful DBA tools by Data Egret",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/xzilla/pagila",
+      "name": "pagila",
+      "url": "https://github.com/xzilla/pagila",
+      "description": "Pagila, Postgres Sample Database",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/mergisi/sql-syntax-cheat-sheet",
+      "name": "SQL Syntax Cheat Sheet",
+      "url": "https://github.com/mergisi/sql-syntax-cheat-sheet",
+      "description": "Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://planet.postgresql.org",
+      "name": "Planet PostgreSQL",
+      "url": "https://planet.postgresql.org/",
+      "description": "Blog aggregation service for PostgreSQL.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://adpgtech.blogspot.com/search/label/PostgreSQL",
+      "name": "Andrew Dunstan's PostgreSQL and Technical blog",
+      "url": "http://adpgtech.blogspot.com/search/label/PostgreSQL/",
+      "description": "",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://momjian.us/main/blogs/pgblog.html",
+      "name": "Bruce Momjian's PostgreSQL blog",
+      "url": "https://momjian.us/main/blogs/pgblog.html",
+      "description": "",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://craigkerstiens.com/categories/postgres",
+      "name": "Craig Kerstiens PostgreSQL posts",
+      "url": "http://www.craigkerstiens.com/categories/postgres/",
+      "description": "Set of posts on PostgreSQL cool features, tips and tricks.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://databasesoup.com/search/label/postgresql",
+      "name": "Database Soup",
+      "url": "http://www.databasesoup.com/search/label/postgresql/",
+      "description": "Josh Berkus' blog.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://paquier.xyz",
+      "name": "Michael Paquier's blog",
+      "url": "https://paquier.xyz/",
+      "description": "",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://percona.com/blog/category/postgresql",
+      "name": "Percona's PostgreSQL blog posts",
+      "url": "https://www.percona.com/blog/category/postgresql/",
+      "description": "",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://rhaas.blogspot.com/search/label/postgresql",
+      "name": "Robert Haas' blog",
+      "url": "http://rhaas.blogspot.com/search/label/postgresql/",
+      "description": "",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://depesz.com/tag/postgresql",
+      "name": "select * from depesz;",
+      "url": "https://www.depesz.com/tag/postgresql/",
+      "description": "Hubert Lubaczewski's blog.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://metisdata.io/blog",
+      "name": "Metis Blog",
+      "url": "https://www.metisdata.io/blog",
+      "description": "Set of posts on PostgreSQL, SQL databases, performance, and tuning.",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://github.com/digoal/blog/blob/master/README.md",
+      "name": "Digoal's PostgreSQL and Technical blog(Chinese Language)",
+      "url": "https://github.com/digoal/blog/blob/master/README.md",
+      "description": "",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://pigsty.io/blog/pg",
+      "name": "Pigsty blog / PostgreSQL",
+      "url": "https://pigsty.io/blog/pg/",
+      "description": "Blog by the author of PIGSTY with insightful articles on PostgreSQL (as well as databases and cloud infrastructure).",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://bigdataboutique.com/blog/tagged/postgresql",
+      "name": "BigData Boutique Blog / PostgreSQL",
+      "url": "https://bigdataboutique.com/blog/tagged/postgresql",
+      "description": "Blog by the BigData Boutique team, mostly with analytics focus).",
+      "section": [
+        "Resources",
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/postgresql-mistakes-and-how-to-avoid-them",
+      "name": "PostgreSQL Mistakes and How to Avoid Them",
+      "url": "https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them",
+      "description": "",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://interdb.jp/pg/index.html",
+      "name": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "description": "A free e-book by Hironobu Suzuki",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://postgrespro.com/community/books/internals",
+      "name": "PostgreSQL 14 Internals",
+      "url": "https://postgrespro.com/community/books/internals",
+      "description": "A free e-book by Egor Rogov",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://leanpub.com/lift-the-elephant",
+      "name": "Lift the Elephant",
+      "url": "https://leanpub.com/lift-the-elephant",
+      "description": "A practical guide to scaling Postgres in production, covering tuning, connection pooling, partitioning, and high availability.",
+      "section": [
+        "Resources",
+        "Books"
+      ]
+    },
+    {
+      "key": "https://wiki.postgresql.org/wiki/Main_Page",
+      "name": "Wiki",
+      "url": "https://wiki.postgresql.org/wiki/Main_Page",
+      "description": "user documentation, how-tos, and tips 'n' tricks",
+      "section": [
+        "Resources",
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://pgpedia.info",
+      "name": "pgPedia",
+      "url": "https://pgpedia.info/",
+      "description": "An encyclopedia of things related to postgreSQL.",
+      "section": [
+        "Resources",
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://ryogrid.github.io/create_pg_super_document/index.html",
+      "name": "create_pg_super_document",
+      "url": "https://ryogrid.github.io/create_pg_super_document/index.html",
+      "description": "A project that aim to generate documentation for all symbols in the PostgreSQL codebase using AI agents",
+      "section": [
+        "Resources",
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://postgresweekly.com",
+      "name": "Postgres Weekly",
+      "url": "https://postgresweekly.com/",
+      "description": "Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.",
+      "section": [
+        "Resources",
+        "Newsletters"
+      ]
+    },
+    {
+      "key": "https://pgmustard.com/newsletter",
+      "name": "pgMustard newsletter",
+      "url": "https://www.pgmustard.com/newsletter",
+      "description": "Monthly newsletter that contains Postgres performance articles and videos.",
+      "section": [
+        "Resources",
+        "Newsletters"
+      ]
+    },
+    {
+      "key": "https://ryogrid.net/pgsql-hackers-digest",
+      "name": "pgsql-hackers Weekly Digest",
+      "url": "https://ryogrid.net/pgsql-hackers-digest/",
+      "description": "Weekly digest of the pgsql-hackers mailing list that provides a list of active threads, thread summaries, and more.",
+      "section": [
+        "Resources",
+        "Newsletters"
+      ]
+    },
+    {
+      "key": "https://postgres.fm",
+      "name": "PostgresFM",
+      "url": "https://postgres.fm/",
+      "description": "Weekly discussions about Postgres topics.",
+      "section": [
+        "Resources",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://scalingpostgres.com",
+      "name": "Scaling Postgres",
+      "url": "https://www.scalingpostgres.com/",
+      "description": "Weekly roundups of PostgreSQL related content.",
+      "section": [
+        "Resources",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://citusdata.com/podcast/path-to-citus-con",
+      "name": "Path to Citus Con",
+      "url": "https://www.citusdata.com/podcast/path-to-citus-con/",
+      "description": "Monthly interviews with people in the Postgres world.",
+      "section": [
+        "Resources",
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos",
+      "name": "Citus Data Youtube channel",
+      "url": "https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos",
+      "description": "Citus related videos",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw",
+      "name": "EnterpriseDB Youtube channel",
+      "url": "https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw",
+      "description": "EnterpriseDB related videos",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ/videos",
+      "name": "Postgres Conference Youtube channel",
+      "url": "https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ/videos",
+      "description": "Conference videos",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/@PostgresTV",
+      "name": "PostgresTV Youtube channel",
+      "url": "https://www.youtube.com/@PostgresTV",
+      "description": "Postgres talks, hacking sessions, interviews, and podcast episodes",
+      "section": [
+        "Resources",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://postgresql.org/list",
+      "name": "Mailing lists",
+      "url": "https://www.postgresql.org/list/",
+      "description": "Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community.",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/PostgreSQL",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/PostgreSQL/",
+      "description": "A reddit community for PostgreSQL users with over 12000 users",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://pgtreats.info/slack-invite",
+      "name": "Slack",
+      "url": "https://pgtreats.info/slack-invite",
+      "description": "Slack workspace for Postgres with over 20k members",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://t.me/pgsql",
+      "name": "Russian",
+      "url": "https://t.me/pgsql",
+      "description": ">4200 people, Brazilian Portuguese >2300 people, Indonesian ~1000 people, English >750 people",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://webchat.freenode.net",
+      "name": "#postgresql on Freenode",
+      "url": "https://webchat.freenode.net/#postgresql",
+      "description": "The most popular IRC channel about Postgres on Freenode with over 1000 users",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://discord.gg/bW2hsax8We",
+      "name": "Discord",
+      "url": "https://discord.gg/bW2hsax8We",
+      "description": "A Discord server for Postgres with over 6k members",
+      "section": [
+        "Resources",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://roadmap.sh/postgresql-dba",
+      "name": "PostgreSQL Roadmap",
+      "url": "https://roadmap.sh/postgresql-dba",
+      "description": "A roadmap providing step wise guide to PostgreSQL.",
+      "section": [
+        "Resources",
+        "Roadmaps"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Comparison_of_database_tools",
+      "name": "Wikipedia admin tools list",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_database_tools",
+      "description": "Comparison of database administration tools on Wikipedia",
+      "section": [
+        "Resources",
+        "External lists"
+      ]
+    },
+    {
+      "key": "https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools",
+      "name": "PostgreSQL Wiki GUI tools list",
+      "url": "https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools",
+      "description": "Community Guide to PostgreSQL GUI Tools",
+      "section": [
+        "Resources",
+        "External lists"
+      ]
+    },
+    {
+      "key": "https://wiki.postgresql.org/wiki/Foreign_data_wrappers",
+      "name": "PostgreSQL Wiki Foreign Data Wrappers list",
+      "url": "https://wiki.postgresql.org/wiki/Foreign_data_wrappers",
+      "description": "Foreign data wrappers",
+      "section": [
+        "Resources",
+        "External lists"
+      ]
+    }
+  ]
+}

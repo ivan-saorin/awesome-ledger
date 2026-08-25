@@ -1,0 +1,601 @@
+{
+  "etag": "W/\"6c778e38a7fb60cf1adaedf4e1df6d00c93f202db7f4f5e2f2aa7b3cf9e17fdc\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://codecov.io",
+      "name": "Codecov",
+      "url": "https://codecov.io/",
+      "description": "Test coverage monitoring & alerting.",
+      "section": [
+        "Code Coverage"
+      ]
+    },
+    {
+      "key": "https://coveralls.io",
+      "name": "Coveralls",
+      "url": "https://coveralls.io/",
+      "description": "Test coverage history & statistics.",
+      "section": [
+        "Code Coverage"
+      ]
+    },
+    {
+      "key": "https://bettercodehub.com",
+      "name": "Better Code Hub",
+      "url": "https://bettercodehub.com/",
+      "description": "Source code maintainability analysis.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://codacy.com",
+      "name": "Codacy",
+      "url": "https://www.codacy.com/",
+      "description": "Automated code reviews & analytics.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://codeclimate.com",
+      "name": "Code Climate",
+      "url": "https://codeclimate.com/",
+      "description": "Automated code review & health analysis.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://codebeat.co",
+      "name": "codebeat",
+      "url": "https://codebeat.co/",
+      "description": "Automated code review for mobile and web.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://codefactor.io",
+      "name": "CodeFactor",
+      "url": "https://www.codefactor.io/",
+      "description": "Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://houndci.com",
+      "name": "Hound",
+      "url": "https://houndci.com/",
+      "description": "Source code style review.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://lgtm.com",
+      "name": "lgtm",
+      "url": "https://lgtm.com/",
+      "description": "Automated code reviews for developers.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://about.pullapprove.com",
+      "name": "PullApprove",
+      "url": "https://about.pullapprove.com/",
+      "description": "Approve GitHub pull request through code review.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://reviewable.io",
+      "name": "Reviewable",
+      "url": "https://reviewable.io/",
+      "description": "Automated GitHub code reviews.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://sonarcloud.io",
+      "name": "SonarCloud",
+      "url": "https://sonarcloud.io/",
+      "description": "Continuous code inspection.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://styleci.io",
+      "name": "StyleCI",
+      "url": "https://styleci.io/",
+      "description": "PHP code style review.",
+      "section": [
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://appveyor.com",
+      "name": "AppVeyor",
+      "url": "https://www.appveyor.com/",
+      "description": "CI/CD for Windows developers.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://bitrise.io",
+      "name": "Bitrise",
+      "url": "https://www.bitrise.io/",
+      "description": "Hosted CI/CD for Android and iOS, free for Public Projects.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://circleci.com",
+      "name": "CircleCI",
+      "url": "https://circleci.com/",
+      "description": "Docker-based building with support of customized workflows.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://codefresh.io",
+      "name": "Codefresh",
+      "url": "https://codefresh.io/",
+      "description": "Docker-native CI/CD.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://deployhq.com",
+      "name": "DeployHQ",
+      "url": "https://www.deployhq.com/",
+      "description": "requires-approval - Deployment automation.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://saucelabs.com",
+      "name": "Sauce Labs",
+      "url": "https://saucelabs.com/",
+      "description": "Cross-browser testing, Selenium testing, and mobile testing.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://semaphoreci.com",
+      "name": "Semaphore",
+      "url": "https://semaphoreci.com/",
+      "description": "Fast automated CI/CD.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://travis-ci.org",
+      "name": "Travis-CI",
+      "url": "https://travis-ci.org/",
+      "description": "Automated CI/CD for Open Source.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://dependabot.com",
+      "name": "Dependabot",
+      "url": "https://dependabot.com/",
+      "description": "Automated dependency updates for Ruby, Python, JavaScript and PHP.",
+      "section": [
+        "Dependency Management"
+      ]
+    },
+    {
+      "key": "https://greenkeeper.io",
+      "name": "Greenkeeper",
+      "url": "https://greenkeeper.io/",
+      "description": "Automated dependency management for NPM packages (on GitHub).",
+      "section": [
+        "Dependency Management"
+      ]
+    },
+    {
+      "key": "https://pyup.io",
+      "name": "pyup.io",
+      "url": "https://pyup.io/",
+      "description": "Python dependency management.",
+      "section": [
+        "Dependency Management"
+      ]
+    },
+    {
+      "key": "https://snyk.io",
+      "name": "Snyk",
+      "url": "https://snyk.io/",
+      "description": "Continuous dependency vulnerability assessment.",
+      "section": [
+        "Dependency Management"
+      ]
+    },
+    {
+      "key": "https://tachikoma.io",
+      "name": "Tachikoma.io",
+      "url": "http://tachikoma.io/",
+      "description": "Dependency update as a service.",
+      "section": [
+        "Dependency Management"
+      ]
+    },
+    {
+      "key": "https://gitbook.com",
+      "name": "GitBook",
+      "url": "https://www.gitbook.com/",
+      "description": "Collaborative application documentation.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://readthedocs.com",
+      "name": "Read the Docs",
+      "url": "https://readthedocs.com/",
+      "description": "Documentation hosting platform.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://bugsnag.com",
+      "name": "BugSnag",
+      "url": "https://www.bugsnag.com/",
+      "description": "requires-approval - Exception tracking and reporting.",
+      "section": [
+        "Exception Reporting"
+      ]
+    },
+    {
+      "key": "https://honeybadger.io",
+      "name": "Honeybadger",
+      "url": "https://www.honeybadger.io",
+      "description": "requires-approval non-commercial - Exception and uptime monitoring for Ruby.",
+      "section": [
+        "Exception Reporting"
+      ]
+    },
+    {
+      "key": "https://myget.org",
+      "name": "MyGet",
+      "url": "https://myget.org/",
+      "description": "requires-approval - NuGet, npm, Bower, Maven, and Vsix package hosting.",
+      "section": [
+        "Package Management"
+      ]
+    },
+    {
+      "key": "https://packagecloud.io/pricing",
+      "name": "packagecloud",
+      "url": "https://packagecloud.io/pricing",
+      "description": "requires-approval - Maven, RPM, DEB, PyPi, and RubyGem hosting.",
+      "section": [
+        "Package Management"
+      ]
+    },
+    {
+      "key": "https://zenhub.com",
+      "name": "ZenHub",
+      "url": "https://www.zenhub.com/",
+      "description": "Agile GitHub project management.",
+      "section": [
+        "Project Management"
+      ]
+    },
+    {
+      "key": "https://zube.io",
+      "name": "Zube",
+      "url": "https://zube.io/",
+      "description": "Project management for GitHub issues.",
+      "section": [
+        "Project Management"
+      ]
+    },
+    {
+      "key": "https://healthchecks.io",
+      "name": "Healthchecks.io",
+      "url": "https://healthchecks.io/",
+      "description": "requires-approval - Cron job monitoring.",
+      "section": [
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://webgazer.io",
+      "name": "WebGazer",
+      "url": "https://www.webgazer.io",
+      "description": "requires-approval - Uptime and cron job monitoring with hosted status pages.",
+      "section": [
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://crowdin.com",
+      "name": "Crowdin",
+      "url": "https://crowdin.com/",
+      "description": "requires-approval - Localization management platform.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://lingohub.com",
+      "name": "LingoHub",
+      "url": "https://lingohub.com/",
+      "description": "requires-approval - Translation management.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://lokalise.com",
+      "name": "Lokalise",
+      "url": "https://lokalise.com/",
+      "description": "requires-approval - Localization and Translation Software Tool.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://poeditor.com",
+      "name": "POEditor",
+      "url": "https://poeditor.com/",
+      "description": "requires-approval - Localization management platform.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://transifex.com",
+      "name": "Transifex",
+      "url": "https://www.transifex.com/",
+      "description": "requires-approval - Localization platform for translating digital content.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://weblate.org",
+      "name": "Weblate",
+      "url": "https://weblate.org/",
+      "description": "requires-approval - Web-based continuous localization.",
+      "section": [
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://bitbucket.org",
+      "name": "BitBucket",
+      "url": "https://bitbucket.org/",
+      "description": "Git and Mercurial repository hosting.",
+      "section": [
+        "Version Control"
+      ]
+    },
+    {
+      "key": "https://github.com",
+      "name": "GitHub",
+      "url": "https://github.com/",
+      "description": "Git project hosting.",
+      "section": [
+        "Version Control"
+      ]
+    },
+    {
+      "key": "https://about.gitlab.com",
+      "name": "GitLab",
+      "url": "https://about.gitlab.com/",
+      "description": "Git project hosting.",
+      "section": [
+        "Version Control"
+      ]
+    },
+    {
+      "key": "https://plasticscm.com",
+      "name": "Plastic SCM",
+      "url": "https://www.plasticscm.com/",
+      "description": "requires-approval - Distributed Git project hosting.",
+      "section": [
+        "Version Control"
+      ]
+    },
+    {
+      "key": "https://algolia.com/for-open-source",
+      "name": "Algolia",
+      "url": "https://www.algolia.com/for-open-source/",
+      "description": "requires-approval Search as a service API.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://apiary.io",
+      "name": "Apiary",
+      "url": "https://apiary.io/",
+      "description": "requires-approval - API design, development, and documentation platform.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://atlassian.com/software/views/open-source-license-request",
+      "name": "Atlassian",
+      "url": "https://www.atlassian.com/software/views/open-source-license-request",
+      "description": "requires-approval - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://auth0.com",
+      "name": "Auth0",
+      "url": "https://auth0.com/",
+      "description": "requires-approval - SSO & token-based authentication.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://browserstack.com",
+      "name": "BrowserStack",
+      "url": "https://www.browserstack.com/",
+      "description": "requires-approval - Cross-browser testing tool.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://c9.io",
+      "name": "Cloud9",
+      "url": "https://c9.io/",
+      "description": "Cloud-based development environments.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://firezone.dev",
+      "name": "Firezone",
+      "url": "https://www.firezone.dev/",
+      "description": "requires-approval - Self-hosted remote access built on WireGuard.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://globalsign.com/en/ssl/ssl-open-source",
+      "name": "GlobalSign",
+      "url": "https://www.globalsign.com/en/ssl/ssl-open-source/",
+      "description": "requires-approval - SSL certificates for open source projects.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://helpmonks.com",
+      "name": "Helpmonks",
+      "url": "https://helpmonks.com/",
+      "description": "requires-approval - Collaborative team email inboxes.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://jetbrains.com/buy/opensource",
+      "name": "JetBrains",
+      "url": "https://www.jetbrains.com/buy/opensource/",
+      "description": "requires-approval non-commercial - Software vendor specializing in the creation of intelligent development tools.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://libraries.io",
+      "name": "Libraries.io",
+      "url": "https://libraries.io/",
+      "description": "Open source discovery service.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://loginradius.com",
+      "name": "LoginRadius",
+      "url": "https://www.loginradius.com/",
+      "description": "requires-approval - Authentication and SSO Made Simple.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://mailman3.com",
+      "name": "Mailman 3",
+      "url": "https://mailman3.com/",
+      "description": "requires-approval - Mailing lists for distributed teams.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://mailtrap.io",
+      "name": "Mailtrap",
+      "url": "https://mailtrap.io/",
+      "description": "requires-approval - Fake SMTP testing server.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://netlify.com",
+      "name": "Netlify",
+      "url": "https://www.netlify.com",
+      "description": "requires-approval - Hosting for static sites.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://sourcegraph.com",
+      "name": "Sourcegraph",
+      "url": "https://sourcegraph.com/",
+      "description": "Smart source code transparency.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://siteleaf.com",
+      "name": "Siteleaf",
+      "url": "https://www.siteleaf.com/",
+      "description": "CMS for static sites.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://testmail.app",
+      "name": "testmail.app",
+      "url": "https://testmail.app/",
+      "description": "requires-approval - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://transloadit.com",
+      "name": "Transloadit",
+      "url": "https://transloadit.com/",
+      "description": "requires-approval - API for file uploading & encoding.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://zulip.com",
+      "name": "Zulip",
+      "url": "https://zulip.com",
+      "description": "requires-approval - Chat for distributed teams.",
+      "section": [
+        "Miscellaneous"
+      ]
+    }
+  ]
+}

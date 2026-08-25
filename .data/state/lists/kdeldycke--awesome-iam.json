@@ -1,0 +1,2227 @@
+{
+  "etag": "W/\"064f57233d4cb42cd1f49d150acede8b233e5933e3f79a5b2b071119fbd95124\"",
+  "readme_path": "readme.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://enterpriseready.io",
+      "name": "The EnterpriseReady SaaS Feature Guides",
+      "url": "https://www.enterpriseready.io",
+      "description": "The majority of the features making B2B users happy will be implemented by the IAM perimeter.",
+      "section": [
+        "Overview"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20200809095434/https://twitter.com/kmcquade3/status/1291801858676228098",
+      "name": "IAM is hard. It's really hard.",
+      "url": "https://web.archive.org/web/20200809095434/https://twitter.com/kmcquade3/status/1291801858676228098",
+      "description": "“Overly permissive AWS IAM policies that allowed s3:GetObject to * (all) resources”, led to $80 million fine for Capital One. The only reason why you can't overlook IAM as a business owner.",
+      "section": [
+        "Overview"
+      ]
+    },
+    {
+      "key": "https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in",
+      "name": "IAM Is The Real Cloud Lock-In",
+      "url": "https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/",
+      "description": "A little click-baity, but author admit that “It depends on how much you trust them to 1. Stay in business; 2. Not jack up your prices; 3. Not deprecate services out from under you; 4. Provide more value to you in business acceleration than they take away in flexibility.”",
+      "section": [
+        "Overview"
+      ]
+    },
+    {
+      "key": "https://infosec.mozilla.org",
+      "name": "Enterprise Information Security",
+      "url": "https://infosec.mozilla.org",
+      "description": "Mozilla's security and access guidelines.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20250529050934/https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF",
+      "name": "Mitigating Cloud Vulnerabilities",
+      "url": "https://web.archive.org/web/20250529050934/https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF",
+      "description": "“This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/lyft/cartography",
+      "name": "Cartography",
+      "url": "https://github.com/lyft/cartography",
+      "description": "🆓 A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/open-guides/og-aws",
+      "name": "Open guide to AWS Security and IAM",
+      "url": "https://github.com/open-guides/og-aws#security-and-iam",
+      "description": "",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://mobile.twitter.com/oktopushup/status/1030457418206068736",
+      "name": "As a user, I want…",
+      "url": "https://mobile.twitter.com/oktopushup/status/1030457418206068736",
+      "description": "A meta-critic of account management, in which features expected by the business clash with real user needs, in the form of user stories written by a fictional project manager.",
+      "section": [
+        "Account Management"
+      ]
+    },
+    {
+      "key": "https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont",
+      "name": "Things end users care about but programmers don't",
+      "url": "https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/",
+      "description": "In the same spirit as above, but broader: all the little things we overlook as developers but users really care about. In the top of that list lies account-centric features, diverse integration and import/export tools. I.e. all the enterprise customers needs to cover.",
+      "section": [
+        "Account Management"
+      ]
+    },
+    {
+      "key": "https://news.ycombinator.com/item?id=21151830",
+      "name": "Separate the account, user and login/auth details",
+      "url": "https://news.ycombinator.com/item?id=21151830",
+      "description": "Sound advice to lay down the foundation of a future-proof IAM API.",
+      "section": [
+        "Account Management"
+      ]
+    },
+    {
+      "key": "https://lord.io/blog/2020/usernames",
+      "name": "Identity Beyond Usernames",
+      "url": "https://lord.io/blog/2020/usernames/",
+      "description": "On the concept of usernames as identifiers, and the complexities introduced when unicode characters meets uniqueness requirements.",
+      "section": [
+        "Account Management"
+      ]
+    },
+    {
+      "key": "https://github.com/ory/kratos",
+      "name": "Kratos",
+      "url": "https://github.com/ory/kratos",
+      "description": "💸 User login, user registration, 2FA and profile management.",
+      "section": [
+        "Account Management"
+      ]
+    },
+    {
+      "key": "https://github.com/userfrosting/UserFrosting",
+      "name": "UserFrosting",
+      "url": "https://github.com/userfrosting/UserFrosting",
+      "description": "🆓 Modern PHP user login and management framework.",
+      "section": [
+        "Account Management"
+      ]
+    },
+    {
+      "key": "https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html",
+      "name": "Cryptographic Right Answers",
+      "url": "https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html",
+      "description": "An up to date set of recommendations for developers who are not cryptography engineers. There's even a shorter summary available.",
+      "section": [
+        "Cryptography"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20260428040052/https://rwc.iacr.org",
+      "name": "Real World Crypto Symposium",
+      "url": "https://web.archive.org/web/20260428040052/https://rwc.iacr.org/",
+      "description": "Aims to bring together cryptography researchers with developers, focusing on uses in real-world environments such as the Internet, the cloud, and embedded devices.",
+      "section": [
+        "Cryptography"
+      ]
+    },
+    {
+      "key": "https://garykessler.net/library/crypto.html",
+      "name": "An Overview of Cryptography",
+      "url": "https://www.garykessler.net/library/crypto.html",
+      "description": "“This paper has two major purposes. The first is to define some of the terms and concepts behind basic cryptographic methods, and to offer a way to compare the myriad cryptographic schemes in use today. The second is to provide some real examples of cryptography in use today.”",
+      "section": [
+        "Cryptography"
+      ]
+    },
+    {
+      "key": "https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md",
+      "name": "Papers we love: Cryptography",
+      "url": "https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md",
+      "description": "Foundational papers of cryptography.",
+      "section": [
+        "Cryptography"
+      ]
+    },
+    {
+      "key": "https://valerieaurora.org/hash.html",
+      "name": "Lifetimes of cryptographic hash functions",
+      "url": "http://valerieaurora.org/hash.html",
+      "description": "“If you are using compare-by-hash to generate addresses for data that can be supplied by malicious users, you should have a plan to migrate to a new hash every few years”.",
+      "section": [
+        "Cryptography"
+      ]
+    },
+    {
+      "key": "https://av8n.com/computer/htm/secure-random.htm",
+      "name": "Security Recommendations for Any Device that Depends on Randomly-Generated Numbers",
+      "url": "https://www.av8n.com/computer/htm/secure-random.htm",
+      "description": "“The phrase 'random number generator' should be parsed as follows: It is a random generator of numbers. It is not a generator of random numbers.”",
+      "section": [
+        "Cryptography",
+        "Identifiers"
+      ]
+    },
+    {
+      "key": "https://rfc-editor.org/rfc/rfc4122",
+      "name": "RFC #4122: UUID - Security Considerations",
+      "url": "https://www.rfc-editor.org/rfc/rfc4122#section-6",
+      "description": "“Do not assume that UUIDs are hard to guess; they should not be used as security capabilities (identifiers whose mere possession grants access)”. UUIDs are designed to be unique, not to be random or unpredictable: do not use UUIDs as a secret.",
+      "section": [
+        "Cryptography",
+        "Identifiers"
+      ]
+    },
+    {
+      "key": "https://adileo.github.io/awesome-identifiers",
+      "name": "Awesome Identifiers",
+      "url": "https://adileo.github.io/awesome-identifiers/",
+      "description": "A benchmark of all identifier formats.",
+      "section": [
+        "Cryptography",
+        "Identifiers"
+      ]
+    },
+    {
+      "key": "https://github.com/secretGeek/AwesomeGUID",
+      "name": "Awesome GUID",
+      "url": "https://github.com/secretGeek/AwesomeGUID",
+      "description": "Funny take on the global aspect of unique identifiers.",
+      "section": [
+        "Cryptography",
+        "Identifiers"
+      ]
+    },
+    {
+      "key": "https://usenix.org/system/files/login/articles/login_dec14_02_ward.pdf",
+      "name": "BeyondCorp: A New Approach to Enterprise Security",
+      "url": "https://www.usenix.org/system/files/login/articles/login_dec14_02_ward.pdf",
+      "description": "Quick overview of Google's Zero-trust Network initiative.",
+      "section": [
+        "Zero-trust Network"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20251205052156/https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90",
+      "name": "What is BeyondCorp? What is Identity-Aware Proxy?",
+      "url": "https://web.archive.org/web/20251205052156/https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90",
+      "description": "More companies add extra layers of VPNs, firewalls, restrictions and constraints, resulting in a terrible experience and a slight security gain. There's a better way.",
+      "section": [
+        "Zero-trust Network"
+      ]
+    },
+    {
+      "key": "https://github.com/ory/oathkeeper",
+      "name": "oathkeeper",
+      "url": "https://github.com/ory/oathkeeper",
+      "description": "💸 Identity & Access Proxy and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper.",
+      "section": [
+        "Zero-trust Network"
+      ]
+    },
+    {
+      "key": "https://github.com/pomerium/pomerium",
+      "name": "Pomerium",
+      "url": "https://github.com/pomerium/pomerium",
+      "description": "💸 An identity-aware proxy that enables secure access to internal applications.",
+      "section": [
+        "Zero-trust Network"
+      ]
+    },
+    {
+      "key": "https://github.com/dadrus/heimdall",
+      "name": "heimdall",
+      "url": "https://github.com/dadrus/heimdall",
+      "description": "🆓 A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.",
+      "section": [
+        "Zero-trust Network"
+      ]
+    },
+    {
+      "key": "https://github.com/spiffe/spire",
+      "name": "SPIFFE/SPIRE",
+      "url": "https://github.com/spiffe/spire",
+      "description": "🆓 A CNCF framework issuing short-lived, cryptographically-verifiable identities (SVIDs) to workloads across heterogeneous environments.",
+      "section": [
+        "Machine Identity"
+      ]
+    },
+    {
+      "key": "https://github.com/micromdm/nanomdm",
+      "name": "NanoMDM",
+      "url": "https://github.com/micromdm/nanomdm",
+      "description": "🆓 Minimalist Apple MDM server and library to enroll and manage the identity of Apple devices, inspired by MicroMDM.",
+      "section": [
+        "Machine Identity"
+      ]
+    },
+    {
+      "key": "https://fly.io/blog/api-tokens-a-tedious-survey",
+      "name": "API Tokens: A Tedious Survey",
+      "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
+      "description": "An overview and comparison of all token-based authentication schemes for end-user APIs.",
+      "section": [
+        "Authentication"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden",
+      "name": "A Child's Garden of Inter-Service Authentication Schemes",
+      "url": "https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/",
+      "description": "In the same spirit as above, but this time at the service level.",
+      "section": [
+        "Authentication"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=kY-Bkv3qxMc",
+      "name": "Scaling backend authentication at Facebook",
+      "url": "https://www.youtube.com/watch?v=kY-Bkv3qxMc",
+      "description": "How-to in a nutshell: 1. Small root of trust; 2. TLS isn't enough; 3. Certificate-based tokens; 4. Crypto Auth Tokens (CATs). See the slides for more details.",
+      "section": [
+        "Authentication"
+      ]
+    },
+    {
+      "key": "https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance",
+      "name": "The new NIST password guidance",
+      "url": "https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/",
+      "description": "A summary of NIST Special Publication 800-63B covering new password complexity guidelines.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html",
+      "name": "Password Storage Cheat Sheet",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html",
+      "description": "The only way to slow down offline attacks is by carefully choosing hash algorithms that are as resource intensive as possible.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords",
+      "name": "Password expiration is dead",
+      "url": "https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/",
+      "description": "Recent scientific research calls into question the value of many long-standing password-security practices such as password expiration policies, and points instead to better alternatives such as enforcing banned-password lists and MFA.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf",
+      "name": "Practical Recommendations for Stronger, More Usable Passwords",
+      "url": "http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf",
+      "description": "This study recommend the association of: blocklist checks against commonly leaked passwords, password policies without character-class requirements, minimum-strength policies.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter",
+      "name": "Banks, Arbitrary Password Restrictions and Why They Don't Matter",
+      "url": "https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/",
+      "description": "“Arbitrary low limits on length and character composition are bad. They look bad, they lead to negative speculation about security posture and they break tools like password managers.”",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://github.com/dumb-password-rules/dumb-password-rules",
+      "name": "Dumb Password Rules",
+      "url": "https://github.com/dumb-password-rules/dumb-password-rules",
+      "description": "🆓 Shaming sites with dumb password rules.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://github.com/apple/password-manager-resources",
+      "name": "Password Manager Resources",
+      "url": "https://github.com/apple/password-manager-resources",
+      "description": "🆓 A collection of password rules, change URLs and quirks by sites.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://github.com/WICG/change-password-url",
+      "name": "A Well-Known URL for Changing Passwords",
+      "url": "https://github.com/WICG/change-password-url",
+      "description": "🆓 Specification defining site resource for password updates.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://news.ycombinator.com/item?id=20109360",
+      "name": "How to change the hashing scheme of already hashed user's passwords",
+      "url": "https://news.ycombinator.com/item?id=20109360",
+      "description": "Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm.",
+      "section": [
+        "Password-based auth"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=B_mhJO2qHlQ",
+      "name": "Breaking Password Dependencies: Challenges in the Final Mile at Microsoft",
+      "url": "https://www.youtube.com/watch?v=B_mhJO2qHlQ",
+      "description": "The primary source of account hacks is password spraying (on legacy auth like SMTP, IMAP, POP, etc.), second is replay attack. Takeaway: password are insecure, use and enforce MFA.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection",
+      "name": "Beyond Passwords: 2FA, U2F and Google Advanced Protection",
+      "url": "https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/",
+      "description": "An excellent walk-trough over all these technologies.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://maximiliangolla.com/files/2019/papers/usec2019-30-wip-fallback-long-term-study-finalv5.pdf",
+      "name": "A Comparative Long-Term Study of Fallback Authentication",
+      "url": "https://maximiliangolla.com/files/2019/papers/usec2019-30-wip-fallback-long-term-study-finalv5.pdf",
+      "description": "Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf",
+      "name": "Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google",
+      "url": "https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf",
+      "description": "“Our analysis confirms that secret questions generally offer a security level that is far lower than user-chosen passwords. (…) Surprisingly, we found that a significant cause of this insecurity is that users often don't answer truthfully. (…) On the usability side, we show that secret answers have surprisingly poor memorability”.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html",
+      "name": "How effective is basic account hygiene at preventing hijacking",
+      "url": "https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html",
+      "description": "Google security team's data shows 2FA blocks 100% of automated bot hacks.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984",
+      "name": "Your Pa$$word doesn't matter",
+      "url": "https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984",
+      "description": "Same conclusion as above from Microsoft: “Based on our studies, your account is more than 99.9% less likely to be compromised if you use MFA.”",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://unix-ninja.com/p/attacking_google_authenticator",
+      "name": "Attacking Google Authenticator",
+      "url": "https://unix-ninja.com/p/attacking_google_authenticator",
+      "description": "Probably on the verge of paranoia, but might be a reason to rate limit 2FA validation attempts.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://martinvigo.com/voicemailcracker",
+      "name": "Compromising online accounts by cracking voicemail systems",
+      "url": "https://www.martinvigo.com/voicemailcracker/",
+      "description": "Or why you should not rely on automated phone calls as a method to reach the user and reset passwords, 2FA or for any kind of verification. Not unlike SMS-based 2FA, it is currently insecure and can be compromised by the way of its weakest link: voicemail systems.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019",
+      "name": "Getting 2FA Right in 2019",
+      "url": "https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019/",
+      "description": "On the UX aspects of 2FA.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db",
+      "name": "2FA is missing a key feature",
+      "url": "https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db",
+      "description": "“When my 2FA code is entered incorrectly I'd like to know about it”.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://brr.fyi/posts/sms-mfa",
+      "name": "SMS Multifactor Authentication in Antarctica",
+      "url": "https://brr.fyi/posts/sms-mfa",
+      "description": "Doesn't work because there are no cellphone towers at stations in Antarctica.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://github.com/authelia/authelia",
+      "name": "Authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "🆓 Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://github.com/kanidm/kanidm",
+      "name": "Kanidm",
+      "url": "https://github.com/kanidm/kanidm",
+      "description": "🆓 Simple, secure and fast identity management platform.",
+      "section": [
+        "Multi-factor auth"
+      ]
+    },
+    {
+      "key": "https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over",
+      "name": "SMS 2FA auth is deprecated by NIST",
+      "url": "https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/",
+      "description": "NIST has said that 2FA via SMS is bad and awful since 2016.",
+      "section": [
+        "Multi-factor auth",
+        "SMS-based"
+      ]
+    },
+    {
+      "key": "https://allthingsauth.com/2018/02/27/sms-the-most-popular-and-least-secure-2fa-method",
+      "name": "SMS: The most popular and least secure 2FA method",
+      "url": "https://www.allthingsauth.com/2018/02/27/sms-the-most-popular-and-least-secure-2fa-method/",
+      "description": "",
+      "section": [
+        "Multi-factor auth",
+        "SMS-based"
+      ]
+    },
+    {
+      "key": "https://issms2fasecure.com",
+      "name": "Is SMS 2FA Secure? No.",
+      "url": "https://www.issms2fasecure.com",
+      "description": "Definitive research project demonstrating successful attempts at SIM swapping.",
+      "section": [
+        "Multi-factor auth",
+        "SMS-based"
+      ]
+    },
+    {
+      "key": "https://archive.ph/AhNAI",
+      "name": "Hackers Hit Twitter C.E.O. Jack Dorsey in a 'SIM Swap.' You're at Risk, Too.",
+      "url": "https://archive.ph/AhNAI",
+      "description": "",
+      "section": [
+        "Multi-factor auth",
+        "SMS-based"
+      ]
+    },
+    {
+      "key": "https://theregister.com/2017/07/10/att_falls_for_hacker_tricks",
+      "name": "AT&T rep handed control of his cellphone account to a hacker",
+      "url": "https://www.theregister.com/2017/07/10/att_falls_for_hacker_tricks/",
+      "description": "",
+      "section": [
+        "Multi-factor auth",
+        "SMS-based"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless",
+      "name": "An argument for passwordless",
+      "url": "https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/",
+      "description": "Passwords are not the be-all and end-all of user authentication. This article tries to tell you why.",
+      "section": [
+        "Password-less auth"
+      ]
+    },
+    {
+      "key": "https://zitadel.com/blog/magic-links",
+      "name": "Magic Links – Are they Actually Outdated?",
+      "url": "https://zitadel.com/blog/magic-links",
+      "description": "What are magic links, their origin, pros and cons.",
+      "section": [
+        "Password-less auth"
+      ]
+    },
+    {
+      "key": "https://webauthn.guide",
+      "name": "WebAuthn guide",
+      "url": "https://webauthn.guide",
+      "description": "Introduce WebAuthn as a standard supported by all major browsers, and allowing “servers to register and authenticate users using public key cryptography instead of a password”.",
+      "section": [
+        "Password-less auth",
+        "WebAuthn"
+      ]
+    },
+    {
+      "key": "https://stavros.io/posts/clearing-up-some-passkeys-misconceptions",
+      "name": "Clearing up some misconceptions about Passkeys",
+      "url": "https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/",
+      "description": "Or why passkeys are not worse than passwords.",
+      "section": [
+        "Password-less auth",
+        "WebAuthn"
+      ]
+    },
+    {
+      "key": "https://imperialviolet.org/2018/03/27/webauthn.html",
+      "name": "Webauthn and security keys",
+      "url": "https://www.imperialviolet.org/2018/03/27/webauthn.html",
+      "description": "Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: “There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”",
+      "section": [
+        "Password-less auth",
+        "Security key"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20260401133706/https://paulstamatiou.com/getting-started-with-security-keys",
+      "name": "Getting started with security keys",
+      "url": "https://web.archive.org/web/20260401133706/https://paulstamatiou.com/getting-started-with-security-keys/",
+      "description": "A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys.",
+      "section": [
+        "Password-less auth",
+        "Security key"
+      ]
+    },
+    {
+      "key": "https://github.com/google/OpenSK",
+      "name": "OpenSK",
+      "url": "https://github.com/google/OpenSK",
+      "description": "🆓 Open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
+      "section": [
+        "Password-less auth",
+        "Security key"
+      ]
+    },
+    {
+      "key": "https://github.com/drduh/YubiKey-Guide",
+      "name": "YubiKey Guide",
+      "url": "https://github.com/drduh/YubiKey-Guide",
+      "description": "Guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices.",
+      "section": [
+        "Password-less auth",
+        "Security key"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b",
+      "name": "PKI for busy people",
+      "url": "https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b",
+      "description": "Quick overview of the important stuff.",
+      "section": [
+        "Password-less auth",
+        "Public-Key Infrastructure (PKI)"
+      ]
+    },
+    {
+      "key": "https://smallstep.com/blog/everything-pki.html",
+      "name": "Everything you should know about certificates and PKI but are too afraid to ask",
+      "url": "https://smallstep.com/blog/everything-pki.html",
+      "description": "PKI lets you define a system cryptographically. It's universal and vendor neutral.",
+      "section": [
+        "Password-less auth",
+        "Public-Key Infrastructure (PKI)"
+      ]
+    },
+    {
+      "key": "https://github.com/Netflix/lemur",
+      "name": "lemur",
+      "url": "https://github.com/Netflix/lemur",
+      "description": "🆓 Acts as a broker between CAs and environments, providing a central portal for developers to issue TLS certificates with 'sane' defaults.",
+      "section": [
+        "Password-less auth",
+        "Public-Key Infrastructure (PKI)"
+      ]
+    },
+    {
+      "key": "https://github.com/cloudflare/cfssl",
+      "name": "CFSSL",
+      "url": "https://github.com/cloudflare/cfssl",
+      "description": "🆓 A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.",
+      "section": [
+        "Password-less auth",
+        "Public-Key Infrastructure (PKI)"
+      ]
+    },
+    {
+      "key": "https://github.com/FoxIO-LLC/ja4",
+      "name": "JA4+",
+      "url": "https://github.com/FoxIO-LLC/ja4",
+      "description": "💸 A suite of network fingerprinting methods to facilitate threat-hunting and analysis.",
+      "section": [
+        "Password-less auth",
+        "Public-Key Infrastructure (PKI)"
+      ]
+    },
+    {
+      "key": "https://jwt.io/introduction",
+      "name": "Introduction to JSON Web Tokens",
+      "url": "https://jwt.io/introduction/",
+      "description": "Get up to speed on JWT with this article.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://github.com/dwyl/learn-json-web-tokens",
+      "name": "Learn how to use JWT for Authentication",
+      "url": "https://github.com/dwyl/learn-json-web-tokens",
+      "description": "Learn how to use JWT to secure your web app.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://auth0.com/blog/using-json-web-tokens-as-api-keys",
+      "name": "Using JSON Web Tokens as API Keys",
+      "url": "https://auth0.com/blog/using-json-web-tokens-as-api-keys/",
+      "description": "Compared to API keys, JWTs offers granular security, homogeneous auth architecture, decentralized issuance, OAuth2 compliance, debuggability, expiration control, device management.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/2021/https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes",
+      "name": "Hardcoded secrets, unverified tokens, and other common JWT mistakes",
+      "url": "https://web.archive.org/web/2021/https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/",
+      "description": "A good recap of all JWT pitfalls.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://auth0.com/blog/denylist-json-web-token-api-keys",
+      "name": "Adding JSON Web Token API Keys to a DenyList",
+      "url": "https://auth0.com/blog/denylist-json-web-token-api-keys/",
+      "description": "On token invalidation.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions",
+      "name": "Stop using JWT for sessions",
+      "url": "http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/",
+      "description": "And why your \"solution\" doesn't work, because stateless JWT tokens cannot be invalidated or updated. They will introduce either size issues or security issues depending on where you store them. Stateful JWT tokens are functionally the same as session cookies, but without the battle-tested and well-reviewed implementations or client support.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20221112173931/https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3",
+      "name": "JWT, JWS and JWE for Not So Dummies!",
+      "url": "https://web.archive.org/web/20221112173931/https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3",
+      "description": "A signed JWT is known as a JWS (JSON Web Signature). In fact a JWT does not exist itself — either it has to be a JWS or a JWE (JSON Web Encryption). Its like an abstract class — the JWS and JWE are the concrete implementations.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid",
+      "name": "JOSE is a Bad Standard That Everyone Should Avoid",
+      "url": "https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid",
+      "description": "The standards are either completely broken or complex minefields hard to navigate.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://jwt.io",
+      "name": "JWT.io",
+      "url": "https://jwt.io",
+      "description": "Allows you to decode, verify and generate JWT.",
+      "section": [
+        "Password-less auth",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://osohq.com/post/why-authorization-is-hard",
+      "name": "Why Authorization is Hard",
+      "url": "https://www.osohq.com/post/why-authorization-is-hard",
+      "description": "Because it needs multiple tradeoffs on Enforcement which is required in so many places, on Decision architecture to split business logic from authorization logic, and on Modeling to balance power and complexity.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization",
+      "name": "The never-ending product requirements of user authorization",
+      "url": "https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization",
+      "description": "How a simple authorization model based on roles is not enough and gets complicated fast due to product packaging, data locality, enterprise organizations and compliance.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be",
+      "name": "RBAC like it was meant to be",
+      "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
+      "description": "How we got from DAC (unix permissions, secret URL), to MAC (DRM, MFA, 2FA, SELinux), to RBAC. Details how the latter allows for better modeling of policies, ACLs, users and groups.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://cerbos.dev/blog/the-case-for-granular-permissions",
+      "name": "The Case for Granular Permissions",
+      "url": "https://cerbos.dev/blog/the-case-for-granular-permissions",
+      "description": "Discuss the limitations of RBAC and how ABAC (Attribute-Based Access Control) addresses them.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20240421203937/https://goteleport.com/blog/access-controls",
+      "name": "In Search For a Perfect Access Control System",
+      "url": "https://web.archive.org/web/20240421203937/https://goteleport.com/blog/access-controls/",
+      "description": "The historical origins of authorization schemes. Hints at the future of sharing, trust and delegation between different teams and organizations.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20251208231427/https://ucarion.com/iam-operation-syntax",
+      "name": "GCP's IAM syntax is better than AWS's",
+      "url": "https://web.archive.org/web/20251208231427/https://ucarion.com/iam-operation-syntax",
+      "description": "The minutiae of permission design in GCP improves the developer's experience.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf",
+      "name": "Semantic-based Automated Reasoning for AWS Access Policies using SMT",
+      "url": "https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf",
+      "description": "Zelkova is how AWS does it. This system perform symbolic analysis of IAM policies, and solve the reachability of resources according user's rights and access constraints. Also see the higher-level introduction given at re:inforce 2019.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://osohq.com/academy",
+      "name": "Authorization Academy",
+      "url": "https://www.osohq.com/academy",
+      "description": "An in-depth, vendor-agnostic treatment of authorization that emphasizes mental models. This guide shows the reader how to think about their authorization needs in order to make good decisions about their authorization architecture and model.",
+      "section": [
+        "Authorization",
+        "Policy models"
+      ]
+    },
+    {
+      "key": "https://github.com/yahoo/athenz",
+      "name": "Athenz",
+      "url": "https://github.com/yahoo/athenz",
+      "description": "🆓 Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.",
+      "section": [
+        "Authorization",
+        "RBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit",
+      "name": "Biscuit",
+      "url": "https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/",
+      "description": "Merges concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”",
+      "section": [
+        "Authorization",
+        "RBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/cerbos/cerbos",
+      "name": "Cerbos",
+      "url": "https://github.com/cerbos/cerbos",
+      "description": "💸 An authorization endpoint to write context-aware access control policies.",
+      "section": [
+        "Authorization",
+        "RBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/ferriskey/ferriskey",
+      "name": "FerrisKey",
+      "url": "https://github.com/ferriskey/ferriskey",
+      "description": "🆓 Self-hosted, open-source, RBAC system written in Rust.",
+      "section": [
+        "Authorization",
+        "RBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/ory/keto",
+      "name": "Keto",
+      "url": "https://github.com/ory/keto",
+      "description": "💸 Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.",
+      "section": [
+        "Authorization",
+        "ABAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/ory/ladon",
+      "name": "Ladon",
+      "url": "https://github.com/ory/ladon",
+      "description": "💸 Access control library, inspired by AWS.",
+      "section": [
+        "Authorization",
+        "ABAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/casbin/casbin",
+      "name": "Casbin",
+      "url": "https://github.com/casbin/casbin",
+      "description": "🆓 Open-source access control library for Golang projects.",
+      "section": [
+        "Authorization",
+        "ABAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/open-policy-agent/opa",
+      "name": "Open Policy Agent",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "🆓 An open-source general-purpose decision engine to create and enforce ABAC policies.",
+      "section": [
+        "Authorization",
+        "ABAC frameworks"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20191207160155/https://ai.google/research/pubs/pub48190",
+      "name": "Zanzibar: Google's Consistent, Global Authorization System",
+      "url": "https://web.archive.org/web/20191207160155/https://ai.google/research/pubs/pub48190",
+      "description": "Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. Other bits not in the paper. Zanzibar Academy is a site dedicated to explaining how Zanzibar works.",
+      "section": [
+        "Authorization",
+        "ReBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/authzed/spicedb",
+      "name": "SpiceDB",
+      "url": "https://github.com/authzed/spicedb",
+      "description": "💸 An open source database system for managing security-critical application permissions inspired by Zanzibar.",
+      "section": [
+        "Authorization",
+        "ReBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/Permify/permify",
+      "name": "Permify",
+      "url": "https://github.com/Permify/permify",
+      "description": "💸 Another open-source authorization as a service inspired by Google Zanzibar, and see how it compares to other Zanzibar-inspired tools.",
+      "section": [
+        "Authorization",
+        "ReBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/aserto-dev/topaz",
+      "name": "Topaz",
+      "url": "https://github.com/aserto-dev/topaz",
+      "description": "💸 An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.",
+      "section": [
+        "Authorization",
+        "ReBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/permitio/opal",
+      "name": "Open Policy Administration Layer",
+      "url": "https://github.com/permitio/opal",
+      "description": "💸 Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.",
+      "section": [
+        "Authorization",
+        "ReBAC frameworks"
+      ]
+    },
+    {
+      "key": "https://ramimac.me/aws-iam-tools-2024",
+      "name": "An AWS IAM Security Tooling Reference",
+      "url": "https://ramimac.me/aws-iam-tools-2024",
+      "description": "A comprehensive list of (maintained) tools for AWS IAM.",
+      "section": [
+        "Authorization",
+        "AWS policy tools"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=y7-fAT3z8Lo",
+      "name": "Become an AWS IAM Policy Ninja",
+      "url": "https://www.youtube.com/watch?v=y7-fAT3z8Lo",
+      "description": "“In my nearly 5 years at Amazon, I carve out a little time each day, each week to look through the forums, customer tickets to try to find out where people are having trouble.”",
+      "section": [
+        "Authorization",
+        "AWS policy tools"
+      ]
+    },
+    {
+      "key": "https://infosec.rodeo/posts/thoughts-on-aws-iam",
+      "name": "AWS IAM Roles, a tale of unnecessary complexity",
+      "url": "https://infosec.rodeo/posts/thoughts-on-aws-iam/",
+      "description": "The history of fast-growing AWS explains how the current scheme came to be, and how it compares to GCP's resource hierarchy.",
+      "section": [
+        "Authorization",
+        "AWS policy tools"
+      ]
+    },
+    {
+      "key": "https://github.com/salesforce/policy_sentry",
+      "name": "Policy Sentry",
+      "url": "https://github.com/salesforce/policy_sentry",
+      "description": "🆓 Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds.",
+      "section": [
+        "Authorization",
+        "AWS policy tools"
+      ]
+    },
+    {
+      "key": "https://github.com/udondan/iam-floyd",
+      "name": "IAM Floyd",
+      "url": "https://github.com/udondan/iam-floyd",
+      "description": "🆓 AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.",
+      "section": [
+        "Authorization",
+        "AWS policy tools"
+      ]
+    },
+    {
+      "key": "https://github.com/noqdev/iambic",
+      "name": "IAMbic",
+      "url": "https://github.com/noqdev/iambic",
+      "description": "💸 GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.",
+      "section": [
+        "Authorization",
+        "AWS policy tools"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20240521142227/https://blog.bren2010.io/blog/googles-macaroons",
+      "name": "Google's Macaroons in Five Minutes or Less",
+      "url": "https://web.archive.org/web/20240521142227/https://blog.bren2010.io/blog/googles-macaroons",
+      "description": "If I'm given a Macaroon that authorizes me to perform some action(s) under certain restrictions, I can non-interactively build a second Macaroon with stricter restrictions that I can then give to you.",
+      "section": [
+        "Authorization",
+        "Macaroons"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20191009113323/https://ai.google/research/pubs/pub41892",
+      "name": "Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud",
+      "url": "https://web.archive.org/web/20191009113323/https://ai.google/research/pubs/pub41892",
+      "description": "Google's original paper.",
+      "section": [
+        "Authorization",
+        "Macaroons"
+      ]
+    },
+    {
+      "key": "https://news.ycombinator.com/item?id=14294463",
+      "name": "Google paper's author compares Macaroons and JWTs",
+      "url": "https://news.ycombinator.com/item?id=14294463",
+      "description": "As a consumer/verifier of macaroons, they allow you (through third-party caveats) to defer some authorization decisions to someone else. JWTs don't.",
+      "section": [
+        "Authorization",
+        "Macaroons"
+      ]
+    },
+    {
+      "key": "https://github.com/gubernator-io/gubernator",
+      "name": "Gubernator",
+      "url": "https://github.com/gubernator-io/gubernator",
+      "description": "🆓 High performance rate-limiting micro-service and library.",
+      "section": [
+        "Authorization",
+        "Other tools"
+      ]
+    },
+    {
+      "key": "https://descope.com",
+      "name": "Descope",
+      "url": "https://www.descope.com/?utm_source=awesome-iam&utm_medium=referral&utm_campaign=awesome-iam-oss-sponsorship",
+      "description": "Drag and drop your auth. Add authentication, user management, and authorization to your app with a few lines of code.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://github.com/cerberauth/awesome-openid-connect",
+      "name": "Awesome OpenID Connect",
+      "url": "https://github.com/cerberauth/awesome-openid-connect",
+      "description": "A curated list of providers, services, libraries, and resources for OpenID Connect.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc",
+      "name": "An Illustrated Guide to OAuth and OpenID Connect",
+      "url": "https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc",
+      "description": "Explain how these standards work using simplified illustrations.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://aaronparecki.com/oauth-2-simplified",
+      "name": "OAuth 2 Simplified",
+      "url": "https://aaronparecki.com/oauth-2-simplified/",
+      "description": "A reference article describing the protocol in simplified format to help developers and service providers implement it.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=996OiexHze0",
+      "name": "OAuth 2.0 and OpenID Connect (in plain English)",
+      "url": "https://www.youtube.com/watch?v=996OiexHze0",
+      "description": "Starts with an historical context on how these standards came to be, clears up the inaccuracies in the vocabulary, then details the protocols and its pitfalls to make it less intimidating.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://mobile.twitter.com/kamranahmedse/status/1276994010423361540",
+      "name": "OAuth in one picture",
+      "url": "https://mobile.twitter.com/kamranahmedse/status/1276994010423361540",
+      "description": "A nice summary card.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://shopify.engineering/implement-secure-central-authentication-service-six-steps",
+      "name": "How to Implement a Secure Central Authentication Service in Six Steps",
+      "url": "https://shopify.engineering/implement-secure-central-authentication-service-six-steps",
+      "description": "Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process",
+      "name": "Open-Sourcing BuzzFeed's SSO Experience",
+      "url": "https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/",
+      "description": "OAuth2-friendly adaptation of the Central Authentication Service (CAS) protocol. You'll find there good OAuth user flow diagrams.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://datatracker.ietf.org/doc/html/rfc9700",
+      "name": "OAuth 2.0 Security Best Current Practice",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9700",
+      "description": "“Updates and extends the OAuth 2.0 Security Threat Model to incorporate practical experiences gathered since OAuth 2.0 was published and covers new threats relevant due to the broader application”.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://portswigger.net/web-security/oauth",
+      "name": "Hidden OAuth attack vectors",
+      "url": "https://portswigger.net/web-security/oauth",
+      "description": "How to identify and exploit some of the key vulnerabilities found in OAuth 2.0 authentication mechanisms.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://loginradius.com/blog/engineering/pkce",
+      "name": "PKCE Explained",
+      "url": "https://www.loginradius.com/blog/engineering/pkce/",
+      "description": "“PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://github.com/ory/hydra",
+      "name": "Hydra",
+      "url": "https://github.com/ory/hydra",
+      "description": "💸 Open-source OIDC & OAuth2 Server Provider.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://github.com/keycloak/keycloak",
+      "name": "Keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "🆓 Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://github.com/casbin/casdoor",
+      "name": "Casdoor",
+      "url": "https://github.com/casbin/casdoor",
+      "description": "🆓 A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://github.com/goauthentik/authentik",
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "💸 Open-source Identity Provider similar to Keycloak.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://github.com/zitadel/zitadel",
+      "name": "ZITADEL",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "💸 An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://github.com/lastlogin-net/obligator",
+      "name": "obligator",
+      "url": "https://github.com/lastlogin-net/obligator",
+      "description": "🆓 Simple and opinionated OpenID Connect server designed for self-hosters. Single static binary with flat-file or SQLite storage.",
+      "section": [
+        "OAuth2 & OpenID"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20230327071347/https://www.cloudflare.com/learning/access-management/what-is-oauth",
+      "name": "SAML vs. OAuth",
+      "url": "https://web.archive.org/web/20230327071347/https://www.cloudflare.com/learning/access-management/what-is-oauth/",
+      "description": "“OAuth is a protocol for authorization: it ensures Bob goes to the right parking lot. In contrast, SAML is a protocol for authentication, or allowing Bob to get past the guardhouse.”",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://ubisecure.com/uncategorized/difference-between-saml-and-oauth",
+      "name": "The Difference Between SAML 2.0 and OAuth 2.0",
+      "url": "https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/",
+      "description": "“Even though SAML was actually designed to be widely applicable, its contemporary usage is typically shifted towards enterprise SSO scenarios. On the other hand, OAuth was designed for use with applications on the Internet, especially for delegated authorisation.”",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml",
+      "name": "What's the Difference Between OAuth, OpenID Connect, and SAML?",
+      "url": "https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/",
+      "description": "Identity is hard. Another take on the different protocol is always welcome to help makes sense of it all.",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://duo.com/blog/the-beer-drinkers-guide-to-saml",
+      "name": "The Beer Drinker's Guide to SAML",
+      "url": "https://duo.com/blog/the-beer-drinkers-guide-to-saml",
+      "description": "SAML is arcane at times. A another analogy might helps get more sense out of it.",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://joonas.fi/2021/08/saml-is-insecure-by-design",
+      "name": "SAML is insecure by design",
+      "url": "https://joonas.fi/2021/08/saml-is-insecure-by-design/",
+      "description": "Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://shibboleth.atlassian.net/wiki/spaces/CONCEPT/pages/928645229/SLOIssues",
+      "name": "The Difficulties of SAML Single Logout",
+      "url": "https://shibboleth.atlassian.net/wiki/spaces/CONCEPT/pages/928645229/SLOIssues",
+      "description": "On the technical and UX issues of single logout implementations.",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://sso.tax",
+      "name": "The SSO Wall of Shame",
+      "url": "https://sso.tax",
+      "description": "A documented rant on the excessive pricing practiced by SaaS providers to activate SSO on their product. The author's point is, as a core security feature, SSO should be reasonably priced and not part of an exclusive tier.",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=K0EOPddWpsE",
+      "name": "Secret at Scale at Netflix",
+      "url": "https://www.youtube.com/watch?v=K0EOPddWpsE",
+      "description": "Solution based on blind signatures. See the slides.",
+      "section": [
+        "Secret Management"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=5T_c-lqgjso",
+      "name": "High Availability in Google's Internal KMS",
+      "url": "https://www.youtube.com/watch?v=5T_c-lqgjso",
+      "description": "Not GCP's KMS, but the one at the core of their infrastructure. See the slides.",
+      "section": [
+        "Secret Management"
+      ]
+    },
+    {
+      "key": "https://github.com/hashicorp/vault",
+      "name": "HashiCorp Vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "💸 Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.",
+      "section": [
+        "Secret Management"
+      ]
+    },
+    {
+      "key": "https://github.com/Infisical/infisical",
+      "name": "Infisical",
+      "url": "https://github.com/Infisical/infisical",
+      "description": "💸 An alternative to HashiCorp Vault.",
+      "section": [
+        "Secret Management"
+      ]
+    },
+    {
+      "key": "https://github.com/mozilla/sops",
+      "name": "sops",
+      "url": "https://github.com/mozilla/sops",
+      "description": "🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.",
+      "section": [
+        "Secret Management"
+      ]
+    },
+    {
+      "key": "https://github.com/zricethezav/gitleaks",
+      "name": "gitleaks",
+      "url": "https://github.com/zricethezav/gitleaks",
+      "description": "🆓 Audit Git repos for secrets.",
+      "section": [
+        "Secret Management"
+      ]
+    },
+    {
+      "key": "https://github.com/trufflesecurity/trufflehog",
+      "name": "trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "💸 Searches through Git repositories for high entropy strings and secrets, digging deep into commit history.",
+      "section": [
+        "Secret Management"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20260404010649/https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf",
+      "name": "HSM: What they are and why it's likely that you've (indirectly) used one today",
+      "url": "https://web.archive.org/web/20260404010649/https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf",
+      "description": "Really basic overview of HSM usages.",
+      "section": [
+        "Secret Management",
+        "Hardware Security Module (HSM)"
+      ]
+    },
+    {
+      "key": "https://news.ycombinator.com/item?id=16759383",
+      "name": "Tidbits on AWS Cloud HSM hardware",
+      "url": "https://news.ycombinator.com/item?id=16759383",
+      "description": "AWS CloudHSM Classic is backed by SafeNet's Luna HSM, current CloudHSM rely on Cavium's Nitrox, which allows for partitionable \"virtual HSMs\".",
+      "section": [
+        "Secret Management",
+        "Hardware Security Module (HSM)"
+      ]
+    },
+    {
+      "key": "https://github.com/keystone-enclave/keystone",
+      "name": "Keystone",
+      "url": "https://github.com/keystone-enclave/keystone",
+      "description": "🆓 Open-source project for building trusted execution environments (TEE) with secure hardware enclaves, based on the RISC-V architecture.",
+      "section": [
+        "Secret Management",
+        "Hardware Security Module (HSM)"
+      ]
+    },
+    {
+      "key": "https://github.com/project-oak/oak",
+      "name": "Project Oak",
+      "url": "https://github.com/project-oak/oak",
+      "description": "🆓 A specification and a reference implementation for the secure transfer, storage and processing of data.",
+      "section": [
+        "Secret Management",
+        "Hardware Security Module (HSM)"
+      ]
+    },
+    {
+      "key": "https://sstic.org/2019/presentation/hsm",
+      "name": "Everybody be cool, this is a robbery!",
+      "url": "https://www.sstic.org/2019/presentation/hsm/",
+      "description": "A case study of vulnerability and exploitability of a HSM (in French, sorry).",
+      "section": [
+        "Secret Management",
+        "Hardware Security Module (HSM)"
+      ]
+    },
+    {
+      "key": "https://csoonline.com/article/3206127/trust-and-safety-101.html",
+      "name": "Trust and safety 101",
+      "url": "https://www.csoonline.com/article/3206127/trust-and-safety-101.html",
+      "description": "A great introduction on the domain and its responsibilities.",
+      "section": [
+        "Trust & Safety"
+      ]
+    },
+    {
+      "key": "https://linkedin.com/pulse/what-heck-trust-safety-kenny-shi",
+      "name": "What the Heck is Trust and Safety?",
+      "url": "https://www.linkedin.com/pulse/what-heck-trust-safety-kenny-shi",
+      "description": "A couple of real use-case to demonstrate the role of a TnS team.",
+      "section": [
+        "Trust & Safety"
+      ]
+    },
+    {
+      "key": "https://github.com/kdeldycke/awesome-billing",
+      "name": "Awesome List of Billing and Payments: Fraud links",
+      "url": "https://github.com/kdeldycke/awesome-billing#fraud",
+      "description": "Section dedicated to fraud management for billing and payment, from our sister repository.",
+      "section": [
+        "Trust & Safety"
+      ]
+    },
+    {
+      "key": "https://identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf",
+      "name": "The Laws of Identity",
+      "url": "https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf",
+      "description": "Is this paper aims at identity metasystem, its laws still provides great insights at smaller scale, especially the first law: to always allow user control and ask for consent to earn trust.",
+      "section": [
+        "Trust & Safety",
+        "User Identity"
+      ]
+    },
+    {
+      "key": "https://archive.ph/hvjKl",
+      "name": "How Uber Got Lost",
+      "url": "https://archive.ph/hvjKl",
+      "description": "“To limit \"friction\" Uber allowed riders to sign up without requiring them to provide identity beyond an email — easily faked — or a phone number. (…) Vehicles were stolen and burned; drivers were assaulted, robbed and occasionally murdered. The company stuck with the low-friction sign-up system, even as violence increased.”",
+      "section": [
+        "Trust & Safety",
+        "User Identity"
+      ]
+    },
+    {
+      "key": "https://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf",
+      "name": "A Comparison of Personal Name Matching: Techniques and Practical Issues",
+      "url": "http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf",
+      "description": "Customer name matching has lots of application, from account deduplication to fraud monitoring.",
+      "section": [
+        "Trust & Safety",
+        "User Identity"
+      ]
+    },
+    {
+      "key": "https://github.com/insidetrust/statistically-likely-usernames",
+      "name": "Statistically Likely Usernames",
+      "url": "https://github.com/insidetrust/statistically-likely-usernames",
+      "description": "🆓 Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks.",
+      "section": [
+        "Trust & Safety",
+        "User Identity"
+      ]
+    },
+    {
+      "key": "https://theintercept.com/document/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot",
+      "name": "Facebook Dangerous Individuals and Organizations List",
+      "url": "https://theintercept.com/document/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/",
+      "description": "Some groups and content are illegal in some juridictions. This is an example of a blocklist.",
+      "section": [
+        "Trust & Safety",
+        "User Identity"
+      ]
+    },
+    {
+      "key": "https://github.com/ballerine-io/ballerine",
+      "name": "Ballerine",
+      "url": "https://github.com/ballerine-io/ballerine",
+      "description": "💸 An open-source infrastructure for user identity and risk management.",
+      "section": [
+        "Trust & Safety",
+        "User Identity"
+      ]
+    },
+    {
+      "key": "https://github.com/sherlock-project/sherlock",
+      "name": "Sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "🆓 Hunt down social media accounts by username across social networks.",
+      "section": [
+        "Trust & Safety",
+        "User Identity"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20230526073109/https://www.bloomberg.com/news/articles/2019-07-11/mercedes-thieves-showed-just-how-vulnerable-car-sharing-can-be",
+      "name": "After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.",
+      "url": "https://web.archive.org/web/20230526073109/https://www.bloomberg.com/news/articles/2019-07-11/mercedes-thieves-showed-just-how-vulnerable-car-sharing-can-be",
+      "description": "Why background check are sometimes necessary.",
+      "section": [
+        "Trust & Safety",
+        "Fraud"
+      ]
+    },
+    {
+      "key": "https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf",
+      "name": "Investigation into the Unusual Signups",
+      "url": "https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf",
+      "description": "A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.",
+      "section": [
+        "Trust & Safety",
+        "Fraud"
+      ]
+    },
+    {
+      "key": "https://github.com/bhatiasiddharth/MIDAS",
+      "name": "MIDAS: Detecting Microcluster Anomalies in Edge Streams",
+      "url": "https://github.com/bhatiasiddharth/MIDAS",
+      "description": "🆓 A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”",
+      "section": [
+        "Trust & Safety",
+        "Fraud"
+      ]
+    },
+    {
+      "key": "https://github.com/gephi/gephi",
+      "name": "Gephi",
+      "url": "https://github.com/gephi/gephi",
+      "description": "🆓 Open-source platform for visualizing and manipulating large graphs.",
+      "section": [
+        "Trust & Safety",
+        "Fraud"
+      ]
+    },
+    {
+      "key": "https://youtu.be/kgw8RLHv1j4?t=534",
+      "name": "Still Logged In: What AR and VR Can Learn from MMOs",
+      "url": "https://youtu.be/kgw8RLHv1j4?t=534",
+      "description": "“If you host an online community, where people can harm another person: you are on the hook. And if you can't afford to be on the hook, don't host an online community”.",
+      "section": [
+        "Trust & Safety",
+        "Moderation"
+      ]
+    },
+    {
+      "key": "https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation",
+      "name": "You either die an MVP or live long enough to build content moderation",
+      "url": "https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation/",
+      "description": "“You can think about the solution space for this problem by considering three dimensions: cost, accuracy and speed. And two approaches: human review and machine review. Humans are great in one of these dimensions: accuracy. The downside is that humans are expensive and slow. Machines, or robots, are great at the other two dimensions: cost and speed - they're much cheaper and faster. But the goal is to find a robot solution that is also sufficiently accurate for your needs.”",
+      "section": [
+        "Trust & Safety",
+        "Moderation"
+      ]
+    },
+    {
+      "key": "https://restofworld.org/2020/facebook-international-content-moderators",
+      "name": "The despair and darkness of people will get to you",
+      "url": "https://restofworld.org/2020/facebook-international-content-moderators/",
+      "description": "Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.",
+      "section": [
+        "Trust & Safety",
+        "Moderation"
+      ]
+    },
+    {
+      "key": "https://thoughtmaybe.com/the-cleaners",
+      "name": "The Cleaners",
+      "url": "https://thoughtmaybe.com/the-cleaners/",
+      "description": "A documentary on these teams of underpaid people removing posts and deleting accounts.",
+      "section": [
+        "Trust & Safety",
+        "Moderation"
+      ]
+    },
+    {
+      "key": "https://github.com/hslatman/awesome-threat-intelligence",
+      "name": "Awesome Threat Intelligence",
+      "url": "https://github.com/hslatman/awesome-threat-intelligence",
+      "description": "“A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/poppopjmp/spiderfoot",
+      "name": "SpiderFoot",
+      "url": "https://github.com/poppopjmp/spiderfoot",
+      "description": "🆓 An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/cipher387/osint_stuff_tool_collection",
+      "name": "OSINT Stuff Tool Collection",
+      "url": "https://github.com/cipher387/osint_stuff_tool_collection",
+      "description": "“A collection of several hundred online tools for OSINT”: domain, IP, email, username and social-network lookups useful for unmasking fraud and abuse.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/soxoj/maigret",
+      "name": "Maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🆓 “Collect a dossier on a person by username from 3000+ sites”, useful for account enumeration and unmasking fraud or abuse.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://threat-intelligence.eu/standards",
+      "name": "Standards related to Threat Intelligence",
+      "url": "https://www.threat-intelligence.eu/standards/",
+      "description": "Open standards, tools and methodologies to support threat intelligence analysis.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://misp-project.org/taxonomies.html",
+      "name": "MISP taxonomies and classification",
+      "url": "https://www.misp-project.org/taxonomies.html",
+      "description": "Tags to organize information on “threat intelligence including cyber security indicators, financial fraud or counter-terrorism information.”",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/pdf/1905.01051.pdf",
+      "name": "Browser Fingerprinting: A survey",
+      "url": "https://arxiv.org/pdf/1905.01051.pdf",
+      "description": "Fingerprints can be used as a source of signals to identify bots and fraudsters.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://speakerdeck.com/ange/the-challenges-of-file-formats",
+      "name": "The challenges of file formats",
+      "url": "https://speakerdeck.com/ange/the-challenges-of-file-formats",
+      "description": "At one point you will let users upload files in your system. Here is a corpus of suspicious media files that can be leveraged by scammers =to bypass security or fool users.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/danielmiessler/SecLists",
+      "name": "SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "🆓 Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/neonprimetime/PhishingKitTracker",
+      "name": "PhishingKitTracker",
+      "url": "https://github.com/neonprimetime/PhishingKitTracker",
+      "description": "🆓 CSV database of email addresses used by threat actor in phishing kits.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/sundowndev/PhoneInfoga",
+      "name": "PhoneInfoga",
+      "url": "https://github.com/sundowndev/PhoneInfoga",
+      "description": "🆓 Tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://git.sr.ht/~valhalla/confusable_homoglyphs",
+      "name": "Confusable Homoglyphs",
+      "url": "https://git.sr.ht/~valhalla/confusable_homoglyphs",
+      "description": "🆓 Homoglyphs is a common phishing trick.",
+      "section": [
+        "Trust & Safety",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/ZYSzys/awesome-captcha",
+      "name": "Awesome Captcha",
+      "url": "https://github.com/ZYSzys/awesome-captcha",
+      "description": "Reference all open-source captcha libraries, integration, alternatives and cracking tools.",
+      "section": [
+        "Trust & Safety",
+        "Captcha"
+      ]
+    },
+    {
+      "key": "https://google.com/recaptcha",
+      "name": "reCaptcha",
+      "url": "https://www.google.com/recaptcha",
+      "description": "💸 Still an effective, economical and quick solution when your company can't afford to have a dedicated team to fight bots and spammers at internet scale.",
+      "section": [
+        "Trust & Safety",
+        "Captcha"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20190611190134/https://kevv.net/you-probably-dont-need-recaptcha",
+      "name": "You (probably) don't need ReCAPTCHA",
+      "url": "https://web.archive.org/web/20190611190134/https://kevv.net/you-probably-dont-need-recaptcha/",
+      "description": "Starts with a rant on how the service is a privacy nightmare and is tedious UI-wise, then list alternatives.",
+      "section": [
+        "Trust & Safety",
+        "Captcha"
+      ]
+    },
+    {
+      "key": "https://github.com/TecharoHQ/anubis",
+      "name": "Anubis",
+      "url": "https://github.com/TecharoHQ/anubis",
+      "description": "🆓 An open-source solution to protect upstream resources from scraper bots.",
+      "section": [
+        "Trust & Safety",
+        "Captcha"
+      ]
+    },
+    {
+      "key": "https://anti-captcha.com",
+      "name": "Anti-captcha",
+      "url": "https://anti-captcha.com",
+      "description": "💸 Captchas solving service.",
+      "section": [
+        "Trust & Safety",
+        "Captcha"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Bloom_filter",
+      "name": "Bloom Filter",
+      "url": "https://en.wikipedia.org/wiki/Bloom_filter",
+      "description": "Perfect for this use-case, as bloom filters are designed to quickly check if an element is not in a (large) set. Variations of bloom filters exist for specific data types.",
+      "section": [
+        "Blocklists"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/2021/https://blog.sqreen.com/demystifying-radix-trees",
+      "name": "How Radix trees made blocking IPs 5000 times faster",
+      "url": "https://web.archive.org/web/2021/https://blog.sqreen.com/demystifying-radix-trees/",
+      "description": "Radix trees might come handy to speed-up IP blocklists.",
+      "section": [
+        "Blocklists"
+      ]
+    },
+    {
+      "key": "https://github.com/StevenBlack/hosts",
+      "name": "hosts",
+      "url": "https://github.com/StevenBlack/hosts",
+      "description": "🆓 Consolidates reputable hosts files, and merges them into a unified hosts file with duplicates removed.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://github.com/nextdns/metadata",
+      "name": "nextdns/metadata",
+      "url": "https://github.com/nextdns/metadata",
+      "description": "💸 Extensive collection of list for security, privacy and parental control.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://github.com/publicsuffix/list",
+      "name": "The Public Suffix List",
+      "url": "https://github.com/publicsuffix/list",
+      "description": "🆓 Mozilla's registry of public suffixes, under which Internet users can (or historically could) directly register names.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://github.com/herrbischoff/country-ip-blocks",
+      "name": "Country IP Blocks",
+      "url": "https://github.com/herrbischoff/country-ip-blocks",
+      "description": "🆓 CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/artgon/5366868",
+      "name": "#1",
+      "url": "https://gist.github.com/artgon/5366868",
+      "description": ", #2, #3.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700",
+      "name": "common-domain-prefix-suffix-list.tsv",
+      "url": "https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700",
+      "description": "Top-5000 most common domain prefix/suffix list.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/sehrgut/324626fa370f044dbca7",
+      "name": "xkeyscorerules100.txt",
+      "url": "https://gist.github.com/sehrgut/324626fa370f044dbca7",
+      "description": "NSA's XKeyscore matching rules for TOR and other anonymity preserving tools.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://amf-france.org/fr/espace-epargnants/proteger-son-epargne/listes-noires-et-mises-en-garde",
+      "name": "AMF site blocklist",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/proteger-son-epargne/listes-noires-et-mises-en-garde",
+      "description": "Official French denylist of money-related fraud sites.",
+      "section": [
+        "Blocklists",
+        "Hostnames and Subdomains"
+      ]
+    },
+    {
+      "key": "https://github.com/wesbos/burner-email-providers",
+      "name": "Burner email providers",
+      "url": "https://github.com/wesbos/burner-email-providers",
+      "description": "🆓 A list of temporary email providers. And its derivative Python module.",
+      "section": [
+        "Blocklists",
+        "Emails"
+      ]
+    },
+    {
+      "key": "https://github.com/FGRibreau/mailchecker",
+      "name": "MailChecker",
+      "url": "https://github.com/FGRibreau/mailchecker",
+      "description": "💸 Cross-language temporary (disposable/throwaway) email detection library.",
+      "section": [
+        "Blocklists",
+        "Emails"
+      ]
+    },
+    {
+      "key": "https://github.com/reacherhq/check-if-email-exists",
+      "name": "check-if-email-exists",
+      "url": "https://github.com/reacherhq/check-if-email-exists",
+      "description": "💸 Verify an email address's reachability over SMTP without sending anything, catching typos, disposable domains and role accounts at signup.",
+      "section": [
+        "Blocklists",
+        "Emails"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/adamloving/4401361",
+      "name": "Temporary Email Address Domains",
+      "url": "https://gist.github.com/adamloving/4401361",
+      "description": "A list of domains for disposable and temporary email addresses. Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).",
+      "section": [
+        "Blocklists",
+        "Emails"
+      ]
+    },
+    {
+      "key": "https://github.com/benbalter/gman",
+      "name": "gman",
+      "url": "https://github.com/benbalter/gman",
+      "description": "🆓 “A Ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).” Good resource to hunt for potential government customers in your user base.",
+      "section": [
+        "Blocklists",
+        "Emails"
+      ]
+    },
+    {
+      "key": "https://gist.github.com/stuartpb/5710271",
+      "name": "General List of Reserved Words",
+      "url": "https://gist.github.com/stuartpb/5710271",
+      "description": "This is a general list of words you may want to consider reserving, in a system where users can pick any name.",
+      "section": [
+        "Blocklists",
+        "Reserved IDs"
+      ]
+    },
+    {
+      "key": "https://ldpreload.com/blog/names-to-reserve",
+      "name": "Hostnames and usernames to reserve",
+      "url": "https://ldpreload.com/blog/names-to-reserve",
+      "description": "List of all the names that should be restricted from registration in automated systems.",
+      "section": [
+        "Blocklists",
+        "Reserved IDs"
+      ]
+    },
+    {
+      "key": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+      "name": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+      "url": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+      "description": "🆓 Profanity blocklist from Shutterstock.",
+      "section": [
+        "Blocklists",
+        "Profanity"
+      ]
+    },
+    {
+      "key": "https://github.com/vzhou842/profanity-check",
+      "name": "profanity-check",
+      "url": "https://github.com/vzhou842/profanity-check",
+      "description": "🆓 Uses a linear SVM model trained on 200k human-labeled samples of clean and profane text strings.",
+      "section": [
+        "Blocklists",
+        "Profanity"
+      ]
+    },
+    {
+      "key": "https://github.com/papers-we-love/papers-we-love/tree/master/privacy",
+      "name": "Paper we love: Privacy",
+      "url": "https://github.com/papers-we-love/papers-we-love/tree/master/privacy",
+      "description": "A collection of scientific studies of schemes providing privacy by design.",
+      "section": [
+        "Privacy"
+      ]
+    },
+    {
+      "key": "https://haveibeenpwned.com",
+      "name": "Have I been Pwned?",
+      "url": "https://haveibeenpwned.com",
+      "description": "Data breach index.",
+      "section": [
+        "Privacy"
+      ]
+    },
+    {
+      "key": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf",
+      "name": "Automated security testing for Software Developers",
+      "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf",
+      "description": "Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.",
+      "section": [
+        "Privacy"
+      ]
+    },
+    {
+      "key": "https://github.com/threeheartsdigital/email-marketing-regulations",
+      "name": "Email marketing regulations around the world",
+      "url": "https://github.com/threeheartsdigital/email-marketing-regulations",
+      "description": "🆓 As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.",
+      "section": [
+        "Privacy"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20220927004103/https://goteleport.com/blog/hashing-for-anonymization",
+      "name": "The False Allure of Hashing for Anonymization",
+      "url": "https://web.archive.org/web/20220927004103/https://goteleport.com/blog/hashing-for-anonymization/",
+      "description": "Hashing is not sufficient for anonymization no. But still it is good enough for pseudonymization (which is allowed by the GDPR).",
+      "section": [
+        "Privacy",
+        "Anonymization"
+      ]
+    },
+    {
+      "key": "https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses",
+      "name": "Four cents to deanonymize: Companies reverse hashed email addresses",
+      "url": "https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/",
+      "description": "“Hashed email addresses can be easily reversed and linked to an individual”.",
+      "section": [
+        "Privacy",
+        "Anonymization"
+      ]
+    },
+    {
+      "key": "https://desfontain.es/privacy/differential-privacy-awesomeness.html",
+      "name": "Why differential privacy is awesome",
+      "url": "https://desfontain.es/privacy/differential-privacy-awesomeness.html",
+      "description": "Explain the intuition behind differential privacy, a theoretical framework which allow sharing of aggregated data without compromising confidentiality. See follow-up articles with more details and practical aspects.",
+      "section": [
+        "Privacy",
+        "Anonymization"
+      ]
+    },
+    {
+      "key": "https://github.com/microsoft/presidio",
+      "name": "Presidio",
+      "url": "https://github.com/microsoft/presidio",
+      "description": "🆓 Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.",
+      "section": [
+        "Privacy",
+        "Anonymization"
+      ]
+    },
+    {
+      "key": "https://gdpr.eu",
+      "name": "GDPR Tracker",
+      "url": "https://gdpr.eu",
+      "description": "Europe's reference site.",
+      "section": [
+        "Privacy",
+        "GDPR"
+      ]
+    },
+    {
+      "key": "https://github.com/LINCnil/GDPR-Developer-Guide",
+      "name": "GDPR Developer Guide",
+      "url": "https://github.com/LINCnil/GDPR-Developer-Guide",
+      "description": "Best practices for developers.",
+      "section": [
+        "Privacy",
+        "GDPR"
+      ]
+    },
+    {
+      "key": "https://techblog.bozho.net/gdpr-practical-guide-developers",
+      "name": "GDPR – A Practical guide for Developers",
+      "url": "https://techblog.bozho.net/gdpr-practical-guide-developers/",
+      "description": "A one-page summary of the above.",
+      "section": [
+        "Privacy",
+        "GDPR"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/pdf/2001.02479.pdf",
+      "name": "Dark Patterns after the GDPR",
+      "url": "https://arxiv.org/pdf/2001.02479.pdf",
+      "description": "This paper demonstrates that, because of the lack of GDPR law enforcements, dark patterns and implied consent are ubiquitous.",
+      "section": [
+        "Privacy",
+        "GDPR"
+      ]
+    },
+    {
+      "key": "https://enforcementtracker.com",
+      "name": "GDPR Enforcement Tracker",
+      "url": "http://enforcementtracker.com",
+      "description": "List of GDPR fines and penalties.",
+      "section": [
+        "Privacy",
+        "GDPR"
+      ]
+    },
+    {
+      "key": "https://userpilot.com/saas-product-onboarding",
+      "name": "The 2020 State of SaaS Product Onboarding",
+      "url": "https://userpilot.com/saas-product-onboarding/",
+      "description": "Covers all the important facets of user onboarding.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://useronboard.com/user-onboarding-teardowns",
+      "name": "User Onboarding Teardowns",
+      "url": "https://www.useronboard.com/user-onboarding-teardowns/",
+      "description": "A huge list of deconstructed first-time user signups.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://goodui.org/leaks",
+      "name": "Discover UI Design Decisions Of Leading Companies",
+      "url": "https://goodui.org/leaks/",
+      "description": "From Leaked Screenshots & A/B Tests.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/2020/https://www.nickkolenda.com/conversion-optimization-psychology",
+      "name": "Conversion Optimization",
+      "url": "https://web.archive.org/web/2020/https://www.nickkolenda.com/conversion-optimization-psychology/#cro-tactic11",
+      "description": "A collection of tactics to increase the chance of users finishing the account creation funnel.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://learnui.design/blog/tips-signup-login-ux.html",
+      "name": "11 Tips for Better Signup / Login UX",
+      "url": "https://learnui.design/blog/tips-signup-login-ux.html",
+      "description": "Some basic tips on the login form.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://bradfrost.com/blog/post/dont-get-clever-with-login-forms",
+      "name": "Don't get clever with login forms",
+      "url": "http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/",
+      "description": "Create login forms that are simple, linkable, predictable, and play nicely with password managers.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://twilio.com/blog/why-username-and-password-on-two-different-pages",
+      "name": "Why are the username and password on two different pages?",
+      "url": "https://www.twilio.com/blog/why-username-and-password-on-two-different-pages",
+      "description": "To support both SSO and password-based login. Now if breaking the login funnel in 2 steps is too infuriating to users, solve this as Dropbox does: an AJAX request when you enter your username.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://twilio.com/blog/html-attributes-two-factor-authentication-autocomplete",
+      "name": "HTML attributes to improve your users' two factor authentication experience",
+      "url": "https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete",
+      "description": "“In this post we will look at the humble <input> element and the HTML attributes that will help speed up our users' two factor authentication experience”.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://passwordmasking.com",
+      "name": "Remove password masking",
+      "url": "http://passwordmasking.com",
+      "description": "Summarizes the results from an academic study investigating the impact removing password masking has on consumer trust.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://twitter.com/ProductHunt/status/979912670970249221",
+      "name": "For anybody who thinks \"I could build that in a weekend,\" this is how Slack decides to send a notification",
+      "url": "https://twitter.com/ProductHunt/status/979912670970249221",
+      "description": "Notifications are hard. Really hard.",
+      "section": [
+        "UX/UI"
+      ]
+    },
+    {
+      "key": "https://github.com/jruizaranguren/best-of-digital-identity",
+      "name": "Best-of Digital Identity",
+      "url": "https://github.com/jruizaranguren/best-of-digital-identity",
+      "description": "Ranking, popularity and activity status of open-source digital identity projects.",
+      "section": [
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/new?awsf.whats-new-categories=marketing-marchitecture#security-identity-and-compliance&whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc",
+      "name": "AWS Security, Identity & Compliance announcements",
+      "url": "https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=marketing-marchitecture%23security-identity-and-compliance",
+      "description": "The source of all new features added to the IAM perimeter.",
+      "section": [
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "key": "https://cloud.google.com/iam/docs/release-notes",
+      "name": "GCP IAM release notes",
+      "url": "https://cloud.google.com/iam/docs/release-notes",
+      "description": "Also of note: Identity Platform, Resource Manager, Key Management Service/HSM, Access Context Manager, Identity-Aware Proxy, Data Loss Prevention and Security Scanner.",
+      "section": [
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "key": "https://gcpweekly.com",
+      "name": "Unofficial Weekly Google Cloud Platform newsletter",
+      "url": "https://www.gcpweekly.com",
+      "description": "Relevant keywords: IAM and Security.",
+      "section": [
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "key": "https://docs.digitalocean.com/release-notes/accounts",
+      "name": "DigitalOcean Accounts changelog",
+      "url": "http://docs.digitalocean.com/release-notes/accounts/",
+      "description": "All the latest accounts updates on DO.",
+      "section": [
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20260301070017/https://adayinthelifeof.nl/2020/05/20/aws.html",
+      "name": "163 AWS services explained in one line each",
+      "url": "https://web.archive.org/web/20260301070017/https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws",
+      "description": "Help makes sense of their huge service catalog. In the same spirit: AWS In Plain English.",
+      "section": [
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/gregsramblings/google-cloud-4-words",
+      "name": "Google Cloud Developer's Cheat Sheet",
+      "url": "https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet",
+      "description": "Describe all GCP products in 4 words or less.",
+      "section": [
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "key": "https://cryptoanarchy.wiki",
+      "name": "cryptoanarchy.wiki",
+      "url": "https://cryptoanarchy.wiki",
+      "description": "Cypherpunks overlaps with security. This wiki compiles information about the movement, its history and the people/events of note.",
+      "section": [
+        "History"
+      ]
+    }
+  ]
+}

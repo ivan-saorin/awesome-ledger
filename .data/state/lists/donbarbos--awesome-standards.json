@@ -1,0 +1,1555 @@
+{
+  "etag": "W/\"27e39249c435cdad7b1179b2c49118244a56015c372af84cdac794e3600f8983\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://ietf.org/standards/rfcs",
+      "name": "IETF RFCs",
+      "url": "https://www.ietf.org/standards/rfcs/",
+      "description": "Publication in a series from the principal technical development and standards-setting bodies for the Internet, most prominently the IETF.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://rfc-editor.org/rfc/bcp/bcp-index.txt",
+      "name": "BCPs",
+      "url": "https://www.rfc-editor.org/rfc/bcp/bcp-index.txt",
+      "description": "Best Current Practice, sub-series of the RFC document series.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://ecma-international.org/publications-and-standards/standards",
+      "name": "ECMA International Standards",
+      "url": "https://www.ecma-international.org/publications-and-standards/standards/",
+      "description": "Standards for information and communication systems.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://w3.org/TR",
+      "name": "W3C",
+      "url": "https://www.w3.org/TR/",
+      "description": "World Wide Web Consortium publishes a range of technical reports (Standards and supporting Notes) which help move the web forward.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://w3.org/WAI",
+      "name": "W3C WAI",
+      "url": "https://www.w3.org/WAI/",
+      "description": "Strategies, standards, and supporting resources to help you make the Web more accessible to people with disabilities.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://whatwg.org",
+      "name": "WHATWG",
+      "url": "https://whatwg.org/",
+      "description": "Web Hypertext Application Technology Working Group, founded by individuals of leading Web browser vendors.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://unicode.org/reports",
+      "name": "Unicode Standards",
+      "url": "https://www.unicode.org/reports/",
+      "description": "Text encoding standard maintained by the Unicode Consortium.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://oasis-open.org/standards",
+      "name": "OASIS Open",
+      "url": "https://www.oasis-open.org/standards/",
+      "description": "Standards by nonprofit consortium that works to develop both open standards and open source.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://openid.net/developers/specs",
+      "name": "OpenID Specifications",
+      "url": "https://openid.net/developers/specs/",
+      "description": "Identity standards, the most famous of which is the decentralized authentication protocol OpenID Connect.",
+      "section": [
+        "Web Technologies"
+      ]
+    },
+    {
+      "key": "https://spec.graphql.org",
+      "name": "GraphQL Spec",
+      "url": "https://spec.graphql.org/",
+      "description": "Specification for GraphQL, a query language and execution engine.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://protobuf.dev/reference/protobuf",
+      "name": "Protobuf Spec",
+      "url": "https://protobuf.dev/reference/protobuf/",
+      "description": "Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md",
+      "name": "gRPC",
+      "url": "https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md",
+      "description": "This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://xmlrpc.com/spec.md",
+      "name": "XML-RPC",
+      "url": "https://xmlrpc.com/spec.md",
+      "description": "Remote procedure call protocol which uses XML to encode its calls and HTTP as a transport mechanism.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://jsonrpc.org/specification",
+      "name": "JSON-RPC",
+      "url": "https://www.jsonrpc.org/specification",
+      "description": "Stateless, light-weight remote procedure call protocol.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://avro.apache.org/docs/++version++/specification",
+      "name": "Apache Avro",
+      "url": "https://avro.apache.org/docs/++version++/specification/",
+      "description": "Serialization format for record data, and first choice for streaming data pipelines.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/apache/thrift/tree/master/doc/specs",
+      "name": "Apache Thrift",
+      "url": "https://github.com/apache/thrift/tree/master/doc/specs",
+      "description": "Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://spec.open-rpc.org",
+      "name": "OpenRPC Spec",
+      "url": "https://spec.open-rpc.org/",
+      "description": "The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://spec.openapis.org",
+      "name": "OpenAPI Spec",
+      "url": "https://spec.openapis.org/",
+      "description": "The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to HTTP APIs.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://apiblueprint.org/documentation/specification.html",
+      "name": "API Blueprint Spec",
+      "url": "https://apiblueprint.org/documentation/specification.html",
+      "description": "A markdown based language for describing APIs with interactive documentation support.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/raml-org/raml-spec",
+      "name": "RAML Spec",
+      "url": "https://github.com/raml-org/raml-spec",
+      "description": "RESTful API Modeling Language is a YAML based language for describing static APIs (but not REST APIs).",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://json-schema.org/specification",
+      "name": "JSON Schema",
+      "url": "https://json-schema.org/specification",
+      "description": "Standard providing a format for what JSON data is required for a given application and how to interact with it.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://asyncapi.com/docs/reference/specification/latest",
+      "name": "AsyncAPI Spec",
+      "url": "https://www.asyncapi.com/docs/reference/specification/latest",
+      "description": "This specification allows you to create machine-readable definitions of your asynchronous APIs.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/openmessaging/specification",
+      "name": "OpenMessaging Spec",
+      "url": "https://github.com/openmessaging/specification",
+      "description": "Vendor-neutral and language-independent, aimed to develop messaging and streaming applications across heterogeneous systems.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/cloudevents/spec",
+      "name": "CloudEvents Spec",
+      "url": "https://github.com/cloudevents/spec",
+      "description": "A specification for describing event data in a common way.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-11",
+      "name": "HATEOAS",
+      "url": "https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-11",
+      "description": "Hypermedia as the engine of application state is a constraint of the REST software architectural style.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://stateless.group/hal_specification.html",
+      "name": "HAL",
+      "url": "https://stateless.group/hal_specification.html",
+      "description": "Convention for defining hypermedia such as links to external resources within JSON or XML code.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://jsonapi.org",
+      "name": "JSON:API",
+      "url": "https://jsonapi.org/",
+      "description": "A specification for building APIs in JSON, defines links and actions.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://json-ld.org",
+      "name": "JSON-LD",
+      "url": "https://json-ld.org/",
+      "description": "JSON for Linked Data is a standard for hyperlinks in JSON, does not address actions.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://ionspec.org",
+      "name": "Ion",
+      "url": "https://ionspec.org/",
+      "description": "Simple and intuitive JSON-based hypermedia type for REST.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://hydra-cg.com/spec",
+      "name": "Hydra",
+      "url": "https://www.hydra-cg.com/spec/",
+      "description": "Builds on top of JSON-LD to add definition of actions.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/kevinswiber/siren",
+      "name": "Siren",
+      "url": "https://github.com/kevinswiber/siren",
+      "description": "Structured Interface for Representing Entities, super-rad hypermedia, defines links and actions.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/collection-json/spec",
+      "name": "Collection+JSON",
+      "url": "https://github.com/collection-json/spec",
+      "description": "JSON-based read/write hypermedia-type designed, defines links and actions.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://odata.org/documentation",
+      "name": "Odata",
+      "url": "https://www.odata.org/documentation/",
+      "description": "A protocol for querying and updating data using RESTful APIs, with rich query capabilities.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/omniti-labs/jsend",
+      "name": "JSEND",
+      "url": "https://github.com/omniti-labs/jsend",
+      "description": "Specification for a simple, no-frills, JSON based format for application-level communication.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://cloud.google.com/apis/design",
+      "name": "Google API Design Guide",
+      "url": "https://cloud.google.com/apis/design",
+      "description": "A general design guide for networked APIs provided by Google.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/Microsoft/api-guidelines",
+      "name": "Microsoft REST API Guidelines",
+      "url": "https://github.com/Microsoft/api-guidelines",
+      "description": "Repository contains a collection of documents and related materials.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://opensource.zalando.com/restful-api-guidelines",
+      "name": "Zalando RESTful Guidelines",
+      "url": "https://opensource.zalando.com/restful-api-guidelines/",
+      "description": "A model set of guidelines for RESTful APIs and Events, created by Zalando.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://apistylebook.com",
+      "name": "API Stylebook",
+      "url": "https://apistylebook.com/",
+      "description": "Collections of resources for API Design from other companies guidelines.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/shieldfy/API-Security-Checklist",
+      "name": "API Security Checklist",
+      "url": "https://github.com/shieldfy/API-Security-Checklist",
+      "description": "Checklist of the most important security countermeasures.",
+      "section": [
+        "APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/tc39/proposals",
+      "name": "ECMAScript Proposals",
+      "url": "https://github.com/tc39/proposals",
+      "description": "Ecma TC39 (Technical Committee 39) is responsible for evolving the ECMAScript programming language and authoring the specification.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://peps.python.org",
+      "name": "PEPs",
+      "url": "https://peps.python.org/",
+      "description": "Python Enhancement Proposals for language improvements.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://php-fig.org",
+      "name": "PHP FIG",
+      "url": "https://www.php-fig.org/",
+      "description": "Standards proposed and approved by PHP Framework Interop Group.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://rust-lang.github.io/rfcs",
+      "name": "Rust RFCs",
+      "url": "https://rust-lang.github.io/rfcs/",
+      "description": "Proposals to evolve the Rust language.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://swift.org/swift-evolution",
+      "name": "Swift Evolution",
+      "url": "https://www.swift.org/swift-evolution/",
+      "description": "Proposals for changes to the Swift language.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/Kotlin/KEEP",
+      "name": "KEEP",
+      "url": "https://github.com/Kotlin/KEEP",
+      "description": "Kotlin Evolution and Enhancement Process.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://docs.scala-lang.org/sips",
+      "name": "SIPs",
+      "url": "https://docs.scala-lang.org/sips/",
+      "description": "Scala Improvement Proposals.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/ghc-proposals/ghc-proposals",
+      "name": "GHC Proposals",
+      "url": "https://github.com/ghc-proposals/ghc-proposals",
+      "description": "Compiler and language changes for Haskell/GHC.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://erlang.org/eep",
+      "name": "EEPs",
+      "url": "https://www.erlang.org/eep",
+      "description": "Erlang Enhancement Proposals.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://jcp.org/en/jsr/all",
+      "name": "JSR",
+      "url": "https://jcp.org/en/jsr/all",
+      "description": "Java Specification Requests to standardize Java.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://docs.oracle.com/javase/specs",
+      "name": "Java SE Specs",
+      "url": "https://docs.oracle.com/javase/specs/",
+      "description": "Java Language and JVM specifications for Java by Oracle.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/golang/proposal",
+      "name": "Go Proposals",
+      "url": "https://github.com/golang/proposal",
+      "description": "Design discussions for Go language evolution.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://go.dev/ref/spec",
+      "name": "GoLang Spec",
+      "url": "https://go.dev/ref/spec",
+      "description": "The Go Programming Language Specification.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/dart-lang/language",
+      "name": "Dart Design",
+      "url": "https://github.com/dart-lang/language",
+      "description": "Design of the Dart language.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/dotnet/csharplang",
+      "name": "C# Design",
+      "url": "https://github.com/dotnet/csharplang",
+      "description": "C# Language Design Proposals.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/fsharp/fslang-design",
+      "name": "F# Design",
+      "url": "https://github.com/fsharp/fslang-design",
+      "description": "F# Language Design RFCs.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/ziglang/zig/issues?q=is:issue is:open label:proposal",
+      "name": "Zig Proposals",
+      "url": "https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal",
+      "description": "Issues with Proposal label in Zig repository.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://open-std.org/jtc1/sc22/wg14/www/projects",
+      "name": "C Standards",
+      "url": "https://www.open-std.org/jtc1/sc22/wg14/www/projects",
+      "description": "ISO/IEC standards for the C programming language.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://open-std.org/jtc1/sc22/wg21",
+      "name": "C++ Standards",
+      "url": "https://www.open-std.org/jtc1/sc22/wg21/",
+      "description": "ISO/IEC standards for C++.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/coq/ceps",
+      "name": "CEPs",
+      "url": "https://github.com/coq/ceps",
+      "description": "Coq Enhancement Proposals.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/ocaml/RFCs",
+      "name": "OCaml RFCs",
+      "url": "https://github.com/ocaml/RFCs",
+      "description": "Design discussions about the OCaml language.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://srfi.schemers.org",
+      "name": "SRFI",
+      "url": "https://srfi.schemers.org/",
+      "description": "Scheme Requests for Implementation.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://standards.scheme.org",
+      "name": "Scheme Standards",
+      "url": "https://standards.scheme.org/",
+      "description": "Revised Report on Scheme and other standards.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://cdr.common-lisp.dev",
+      "name": "CDR",
+      "url": "https://cdr.common-lisp.dev/",
+      "description": "Common Lisp Document Repository.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/Perl/PPCs",
+      "name": "PPCs",
+      "url": "https://github.com/Perl/PPCs",
+      "description": "Proposed Perl Changes is proposals to change the Perl language.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/dlang/DIPs",
+      "name": "DIPs",
+      "url": "https://github.com/dlang/DIPs",
+      "description": "D language Improvement Proposals.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://groovy.apache.org/wiki/geps.html",
+      "name": "GEPs",
+      "url": "https://groovy.apache.org/wiki/geps.html",
+      "description": "Groovy Enhancement Proposals and Issues tracked in Jira.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/vlang/rfcs",
+      "name": "Vlang RFCs",
+      "url": "https://github.com/vlang/rfcs",
+      "description": "RFCs for changes to V lang.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/npm/rfcs",
+      "name": "npm RFCs",
+      "url": "https://github.com/npm/rfcs",
+      "description": "Change proposals for npm.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/yarnpkg/rfcs",
+      "name": "Yarn RFCs",
+      "url": "https://github.com/yarnpkg/rfcs",
+      "description": "Proposals for improvements in Yarn package manager.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/reactjs/rfcs",
+      "name": "React RFCs",
+      "url": "https://github.com/reactjs/rfcs",
+      "description": "Change requests for React.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/vuejs/rfcs",
+      "name": "Vue RFCs",
+      "url": "https://github.com/vuejs/rfcs",
+      "description": "Suggestions for major changes to Vue.js.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/sveltejs/rfcs",
+      "name": "Svelte RFCs",
+      "url": "https://github.com/sveltejs/rfcs",
+      "description": "Svelte framework enhancement discussions.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://rfcs.emberjs.com",
+      "name": "Ember RFCs",
+      "url": "https://rfcs.emberjs.com/",
+      "description": "Standards for Ember.js framework evolution.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/eslint/rfcs",
+      "name": "ESLint RFCs",
+      "url": "https://github.com/eslint/rfcs",
+      "description": "Change requests for ESLint.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/react-native-community/discussions-and-proposals",
+      "name": "React Native RFCs",
+      "url": "https://github.com/react-native-community/discussions-and-proposals",
+      "description": "React Native enhancement discussions.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/NixOS/rfcs",
+      "name": "Nix RFCs",
+      "url": "https://github.com/NixOS/rfcs",
+      "description": "The Nix community RFCs.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/django/deps",
+      "name": "DEPs",
+      "url": "https://github.com/django/deps",
+      "description": "Django Enhancement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/conda/ceps",
+      "name": "CEPs",
+      "url": "https://github.com/conda/ceps",
+      "description": "Conda Enhancement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest",
+      "name": "SLEPs",
+      "url": "https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest/",
+      "description": "Enhancement proposals for scikit-learn.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://jupyter.org/enhancement-proposals",
+      "name": "JEPs",
+      "url": "https://jupyter.org/enhancement-proposals",
+      "description": "Jupyter Ecosystem Enhancement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jenkinsci/jep",
+      "name": "JEPs",
+      "url": "https://github.com/jenkinsci/jep",
+      "description": "Jenkins Enhancement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://ros.org/reps/rep-0000.html",
+      "name": "REPs",
+      "url": "https://www.ros.org/reps/rep-0000.html",
+      "description": "Enhancement proposals for ROS robotics framework.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://kubernetes.dev/resources/keps",
+      "name": "KEPs",
+      "url": "https://www.kubernetes.dev/resources/keps/",
+      "description": "Kubernetes Enhancement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/helm/community",
+      "name": "HIPs",
+      "url": "https://github.com/helm/community",
+      "description": "Helm Improvement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps",
+      "name": "OTEPs",
+      "url": "https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/",
+      "description": "OpenTelemetry Enhancement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://godot-proposals-viewer.github.io",
+      "name": "GIPs",
+      "url": "https://godot-proposals-viewer.github.io/",
+      "description": "Godot (Multi-platform 2D and 3D game engine) Improvement Proposals.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/bazelbuild/proposals",
+      "name": "Bazel Proposals",
+      "url": "https://github.com/bazelbuild/proposals",
+      "description": "Index of all Bazel proposals and design documents.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://conventionalcommits.org",
+      "name": "Conventional Commits",
+      "url": "https://www.conventionalcommits.org/",
+      "description": "A specification for adding human and machine readable meaning to commit messages.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/compose-spec/compose-spec",
+      "name": "Compose Specification",
+      "url": "https://github.com/compose-spec/compose-spec",
+      "description": "The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/projectfluent/fluent",
+      "name": "Fluent Specs",
+      "url": "https://github.com/projectfluent/fluent",
+      "description": "This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://xit.jotaen.net",
+      "name": "[x]it!",
+      "url": "https://xit.jotaen.net/",
+      "description": "A plain-text file format for todos and check lists.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://spdx.github.io/spdx-spec",
+      "name": "SPDX Spec",
+      "url": "https://spdx.github.io/spdx-spec/",
+      "description": "The System Package Data Exchange Specification.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/line/headver",
+      "name": "HeadVer Spec",
+      "url": "https://github.com/line/headver",
+      "description": "SemVer compatible version specification that has {head}.{yearweek}.{build} system.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://semver.org",
+      "name": "SemVer Spec",
+      "url": "https://semver.org/",
+      "description": "Semantic Versioning Specification.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://calver.org",
+      "name": "CalVer Spec",
+      "url": "https://calver.org/",
+      "description": "Calendar Versioning Specification.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/openautocomplete/openautocomplete",
+      "name": "OpenAutoComplete Spec",
+      "url": "https://github.com/openautocomplete/openautocomplete",
+      "description": "CLI autocomplete specification.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/bitcoin/bips",
+      "name": "BIPs",
+      "url": "https://github.com/bitcoin/bips",
+      "description": "Bitcoin Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://eips.ethereum.org",
+      "name": "EIPs",
+      "url": "https://eips.ethereum.org/",
+      "description": "Ethereum Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://zips.z.cash",
+      "name": "ZIPs",
+      "url": "https://zips.z.cash/",
+      "description": "Zcash Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/near/NEPs",
+      "name": "NEPs",
+      "url": "https://github.com/near/NEPs",
+      "description": "NEAR Protocol Specifications and Standards.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/lightning/bolts",
+      "name": "BOLTs",
+      "url": "https://github.com/lightning/bolts",
+      "description": "Basis of Lightning Technology (Lightning Network Specifications).",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/bittorrent/bittorrent.org",
+      "name": "BEPs",
+      "url": "https://github.com/bittorrent/bittorrent.org",
+      "description": "BitTorrent Enhancement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/bittorrent/BTIPs",
+      "name": "BTIPs",
+      "url": "https://github.com/bittorrent/BTIPs",
+      "description": "BitTorrent File System Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/satoshilabs/slips",
+      "name": "SLIPs",
+      "url": "https://github.com/satoshilabs/slips",
+      "description": "SatoshiLabs Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://yips.yearn.fi",
+      "name": "YIPs",
+      "url": "https://yips.yearn.fi/",
+      "description": "Yearn Finance Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/aave/aip",
+      "name": "AIPs",
+      "url": "https://github.com/aave/aip",
+      "description": "Aave Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://specs.optimism.io",
+      "name": "Optimism Specs",
+      "url": "https://specs.optimism.io/",
+      "description": "Optimism Stack Specifications.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/maticnetwork/Polygon-Improvement-Proposals",
+      "name": "PIPs",
+      "url": "https://github.com/maticnetwork/Polygon-Improvement-Proposals",
+      "description": "Polygon Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://sips.synthetix.io",
+      "name": "SIPs",
+      "url": "https://sips.synthetix.io/",
+      "description": "Synthetix Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://docs.fuel.network/docs/specs",
+      "name": "Fuel Specs",
+      "url": "https://docs.fuel.network/docs/specs/",
+      "description": "Specifications for the Fuel protocol and the FuelVM.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://spec.filecoin.io",
+      "name": "Filecoin Specs",
+      "url": "https://spec.filecoin.io/",
+      "description": "Filecoin protocol specification.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/ChainAgnostic/CAIPs",
+      "name": "CAIPs",
+      "url": "https://github.com/ChainAgnostic/CAIPs",
+      "description": "Chain Agnostic Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://governance.aptosfoundation.org",
+      "name": "AIPs",
+      "url": "https://governance.aptosfoundation.org/",
+      "description": "Aptos Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/helium/HIP",
+      "name": "HIPs",
+      "url": "https://github.com/helium/HIP",
+      "description": "Helium Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/hiero-ledger/hiero-consensus-specifications",
+      "name": "HCS",
+      "url": "https://github.com/hiero-ledger/hiero-consensus-specifications",
+      "description": "Hiero Consensus Standards.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/makerdao/mips",
+      "name": "MIPs",
+      "url": "https://github.com/makerdao/mips",
+      "description": "Maker Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/starknet-io/SNIPs",
+      "name": "SNIPs",
+      "url": "https://github.com/starknet-io/SNIPs",
+      "description": "Starknet Improvement Proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/nervosnetwork/rfcs",
+      "name": "Nervos Network RFCs",
+      "url": "https://github.com/nervosnetwork/rfcs",
+      "description": "Proposals, standards and documentations related to Nervos Network.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://specs.ipfs.tech",
+      "name": "IPIP",
+      "url": "https://specs.ipfs.tech/",
+      "description": "InterPlanetary Improvement Proposals, technical specifications for the IPFS protocol stack.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://spec.torproject.org",
+      "name": "Tor Specs",
+      "url": "https://spec.torproject.org/",
+      "description": "Tor Specifications including proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://geti2p.net/spec",
+      "name": "I2P Specs",
+      "url": "https://geti2p.net/spec",
+      "description": "I2P Specification Documents including proposals.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/libp2p/specs",
+      "name": "LibP2P Specs",
+      "url": "https://github.com/libp2p/specs",
+      "description": "Technical specifications for the libp2p networking stack.",
+      "section": [
+        "Decentralized Systems"
+      ]
+    },
+    {
+      "key": "https://nist.gov/documentary-standards",
+      "name": "NIST",
+      "url": "https://www.nist.gov/documentary-standards",
+      "description": "National Institute of Standards and Technology of the United States.",
+      "section": [
+        "Cybersecurity and Cryptography"
+      ]
+    },
+    {
+      "key": "https://nist.gov/itl/publications-0/federal-information-processing-standards-fips",
+      "name": "FIPS",
+      "url": "https://www.nist.gov/itl/publications-0/federal-information-processing-standards-fips",
+      "description": "Federal Information Processing Standards of the United States.",
+      "section": [
+        "Cybersecurity and Cryptography"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/pdf/1207.5446v1.pdf",
+      "name": "PKCS",
+      "url": "https://arxiv.org/pdf/1207.5446v1.pdf",
+      "description": "Public Key Cryptography Standards is group of standards devised and published by RSA Security LLC.",
+      "section": [
+        "Cybersecurity and Cryptography"
+      ]
+    },
+    {
+      "key": "https://fidoalliance.org/specifications",
+      "name": "FIDO Specifications",
+      "url": "https://fidoalliance.org/specifications/",
+      "description": "Authentication standards that \"help reduce the world's over-reliance on passwords\".",
+      "section": [
+        "Cybersecurity and Cryptography"
+      ]
+    },
+    {
+      "key": "https://github.com/OWASP/owasp-masvs",
+      "name": "OWASP MASVS",
+      "url": "https://github.com/OWASP/owasp-masvs",
+      "description": "Mobile Application Security Verification Standard is the industry standard for mobile app security.",
+      "section": [
+        "Cybersecurity and Cryptography"
+      ]
+    },
+    {
+      "key": "https://pubs.opengroup.org/onlinepubs/9799919799",
+      "name": "POSIX Standards",
+      "url": "https://pubs.opengroup.org/onlinepubs/9799919799/",
+      "description": "The Portable Operating System Interface is a family of standards specified by the IEEE Computer Society for maintaining compatibility between operating systems.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list",
+      "name": "Windows API (WinAPI)",
+      "url": "https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list",
+      "description": "Foundational API that allows a computer program to access the features of the Microsoft Windows OS.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://refspecs.linuxfoundation.org/lsb.shtml",
+      "name": "LSB",
+      "url": "https://refspecs.linuxfoundation.org/lsb.shtml",
+      "description": "Linux Standard Base.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://unix.org/what_is_unix/single_unix_specification.html",
+      "name": "SUS",
+      "url": "https://unix.org/what_is_unix/single_unix_specification.html",
+      "description": "Single UNIX Specification.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://bitsavers.computerhistory.org/pdf/xOpen/X_Open_Portability_Guide_1985",
+      "name": "X/Open Portability Guide (XPG)",
+      "url": "https://bitsavers.computerhistory.org/pdf/xOpen/X_Open_Portability_Guide_1985/",
+      "description": "A precursor to POSIX and the Single UNIX Specification.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://uefi.org/specifications",
+      "name": "UEFI Specifications",
+      "url": "https://uefi.org/specifications",
+      "description": "Unified Extensible Firmware Interface is a specification for the firmware architecture of a computing platform.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://refspecs.linuxfoundation.org/fhs.shtml",
+      "name": "FHS",
+      "url": "https://refspecs.linuxfoundation.org/fhs.shtml",
+      "description": "The Filesystem Hierarchy Standard is reference describing the conventions used for the layout of Unix-like systems.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/cryptsetup/cryptsetup/-/wikis/Specification",
+      "name": "LUKS",
+      "url": "https://gitlab.com/cryptsetup/cryptsetup/-/wikis/Specification",
+      "description": "The Linux Unified Key Setup is a disk encryption specification.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://dmtf.org/standards/ovf",
+      "name": "OVF (Open Virtualization Format)",
+      "url": "https://www.dmtf.org/standards/ovf",
+      "description": "OS images for virtualized environments.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://public.dhe.ibm.com/software/dw/linux390/perf/ZSW03346USEN.pdf",
+      "name": "KVM (Kernel-based Virtual Machine)",
+      "url": "https://public.dhe.ibm.com/software/dw/linux390/perf/ZSW03346USEN.pdf",
+      "description": "OS-level virtualization in Linux.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://opencontainers.org/release-notices/overview",
+      "name": "OCI (Open Container Initiative)",
+      "url": "https://opencontainers.org/release-notices/overview/",
+      "description": "Standards for OS containers like Docker.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://dbus.freedesktop.org/doc/dbus-specification.html",
+      "name": "D-Bus",
+      "url": "https://dbus.freedesktop.org/doc/dbus-specification.html",
+      "description": "Desktop Bus Specification is message-based inter-process communication system.",
+      "section": [
+        "Operating Systems"
+      ]
+    },
+    {
+      "key": "https://standards.ieee.org/standard",
+      "name": "IEEE",
+      "url": "https://standards.ieee.org/standard/",
+      "description": "Institute of Electrical and Electronics Engineers.",
+      "section": [
+        "Electronics and Hardware"
+      ]
+    },
+    {
+      "key": "https://pcisecuritystandards.org",
+      "name": "PCI Standards",
+      "url": "https://www.pcisecuritystandards.org/",
+      "description": "The Payment Card Industry Data Security Standard (PCI DSS).",
+      "section": [
+        "Electronics and Hardware"
+      ]
+    },
+    {
+      "key": "https://hdmi.org/spec/index",
+      "name": "HDMI Specifications",
+      "url": "https://www.hdmi.org/spec/index",
+      "description": "High-Definition Multimedia Interface is a proprietary audio/video interface for transmitting uncompressed video data and compressed or uncompressed digital audio data.",
+      "section": [
+        "Electronics and Hardware"
+      ]
+    },
+    {
+      "key": "https://bluetooth.com/specifications/specs/core-specification-6-0",
+      "name": "Bluetooth Core Specifications",
+      "url": "https://www.bluetooth.com/specifications/specs/core-specification-6-0/",
+      "description": "Short-range wireless technology standard.",
+      "section": [
+        "Electronics and Hardware"
+      ]
+    },
+    {
+      "key": "https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=95652201",
+      "name": "CEPs",
+      "url": "https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=95652201",
+      "description": "Cassandra Enhancement Proposals.",
+      "section": [
+        "Databases and Storage"
+      ]
+    },
+    {
+      "key": "https://spark.apache.org/improvement-proposals.html",
+      "name": "SPIPs",
+      "url": "https://spark.apache.org/improvement-proposals.html",
+      "description": "Spark project improvement proposals.",
+      "section": [
+        "Databases and Storage"
+      ]
+    },
+    {
+      "key": "https://itu.int/en/ITU-T/Pages/default.aspx",
+      "name": "ITU-T",
+      "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+      "description": "International Telecommunication Union.",
+      "section": [
+        "Telecommunications"
+      ]
+    },
+    {
+      "key": "https://etsi.org/standards",
+      "name": "ETSI",
+      "url": "https://www.etsi.org/standards",
+      "description": "European Telecommunications Standards Institute.",
+      "section": [
+        "Telecommunications"
+      ]
+    },
+    {
+      "key": "https://iso.org/standards.html",
+      "name": "ISO",
+      "url": "https://www.iso.org/standards.html",
+      "description": "International standard development organization composed of representatives from the national standards organizations of member countries.",
+      "section": [
+        "General"
+      ]
+    },
+    {
+      "key": "https://iec.ch/publications/international-standards",
+      "name": "IEC",
+      "url": "https://www.iec.ch/publications/international-standards",
+      "description": "International standards organization that prepares and publishes international standards for all electrical, electronic and related technologies – collectively known as \"electrotechnology\".",
+      "section": [
+        "General"
+      ]
+    },
+    {
+      "key": "https://ansi.org",
+      "name": "ANSI",
+      "url": "https://www.ansi.org/",
+      "description": "Private nonprofit organization that oversees the development of voluntary consensus standards for products, services, processes, systems, and personnel in the United States.",
+      "section": [
+        "General"
+      ]
+    },
+    {
+      "key": "https://bsigroup.com",
+      "name": "BS",
+      "url": "https://www.bsigroup.com/",
+      "description": "British Standards: Standards published by the BSI Group, the UK's National Standards Body (NSB). They provide guidelines for quality, safety, and sustainability across various sectors.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://cencenelec.eu",
+      "name": "CEN",
+      "url": "https://www.cencenelec.eu/",
+      "description": "European Committee for Standardization: Develops European Standards (ENs) to harmonize technical specifications and promote trade across Europe.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://din.de",
+      "name": "DIN",
+      "url": "https://www.din.de/",
+      "description": "Deutsches Institut für Normung: German Institute for Standardization, which develops national and international standards for a wide range of industries.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://afnor.org",
+      "name": "AFNOR",
+      "url": "https://www.afnor.org/",
+      "description": "Association française de normalisation: France's National Standardization Office.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://nsai.ie",
+      "name": "NSAI",
+      "url": "https://www.nsai.ie/",
+      "description": "National Standards Authority of Ireland: Ireland's official standards body.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://csagroup.org",
+      "name": "CSA Group",
+      "url": "https://www.csagroup.org/",
+      "description": "Canadian Standards Association: Develops standards to address safety, sustainability, and performance for Canada and global markets.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://sii.org.il/eng",
+      "name": "SII",
+      "url": "https://www.sii.org.il/eng/",
+      "description": "Standards Institution of Israel: National body for standards and certification.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://gob.mx/se/acciones-y-programas/standards",
+      "name": "NOM",
+      "url": "https://www.gob.mx/se/acciones-y-programas/standards",
+      "description": "Normas Oficiales Mexicanas: Official Mexican standards governing the safety, health and quality of goods and services.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://abnt.org.br",
+      "name": "ABNT",
+      "url": "https://abnt.org.br/",
+      "description": "Associação Brasileira de Normas Técnicas: Brazilian National Standards Organization.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://singaporestandardseshop.sg",
+      "name": "SS",
+      "url": "https://www.singaporestandardseshop.sg/",
+      "description": "Singapore Standards: Organization handling trade and technology standards.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://jisc.go.jp/eng",
+      "name": "JIS",
+      "url": "https://www.jisc.go.jp/eng/",
+      "description": "Japanese Industrial Standards: Specifications published by the Japanese Industrial Standards Committee (JISC) to ensure product quality and safety in Japan.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://kats.go.kr/en",
+      "name": "KATS",
+      "url": "https://www.kats.go.kr/en/",
+      "description": "Korean Agency for Technology and Standards: Organization for developing standards across various sectors.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://cnsonline.com.tw",
+      "name": "CNS",
+      "url": "https://www.cnsonline.com.tw/",
+      "description": "Chinese National Standards: Taiwan's official standards, administered by the Bureau of Standards, Metrology, and Inspection.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://gbstandards.org",
+      "name": "GB",
+      "url": "https://www.gbstandards.org/",
+      "description": "Guobiao Standards: China's national standards, including technical and industry-specific regulations.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://gost.ru",
+      "name": "GOST",
+      "url": "https://www.gost.ru",
+      "description": "Russian National Standards: State standards developed by Rosstandart to regulate industries and ensure quality and compatibility in Russia.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://tcvn.gov.vn?lang=en",
+      "name": "TCVN",
+      "url": "https://tcvn.gov.vn/?lang=en",
+      "description": "Vietnamese National Standards: Standards published by the Directorate for Standards, Metrology, and Quality of Vietnam to regulate local and international trade.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://bis.gov.in",
+      "name": "BIS",
+      "url": "https://www.bis.gov.in/",
+      "description": "Bureau of Indian Standards: National standards for industry, products, and services.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://psqca.com.pk",
+      "name": "PSQCA",
+      "url": "https://www.psqca.com.pk/",
+      "description": "Pakistan Standards and Quality Control Authority: Organization responsible for developing and certifying standards.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://tisi.go.th/home/en",
+      "name": "TIS",
+      "url": "https://www.tisi.go.th/home/en",
+      "description": "Thai Industrial Standards: National standards for Thailand.",
+      "section": [
+        "Region Specific"
+      ]
+    },
+    {
+      "key": "https://github.com/Kristories/awesome-guidelines",
+      "name": "Awesome Guidelines",
+      "url": "https://github.com/Kristories/awesome-guidelines",
+      "description": "Coding style conventions and standards.",
+      "section": [
+        "Related Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/yosriady/awesome-api-devtools",
+      "name": "Awesome API Devtools",
+      "url": "https://github.com/yosriady/awesome-api-devtools",
+      "description": "A collection of useful resources for building RESTful HTTP+JSON APIs.",
+      "section": [
+        "Related Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/openapi/awesome-corporate-standards",
+      "name": "Awesome Corporate Standards",
+      "url": "https://github.com/openapi/awesome-corporate-standards",
+      "description": "International standards, frameworks, and certification bodies for organizations and businesses (quality, security, privacy, ESG, finance, and sector-specific compliance).",
+      "section": [
+        "Related Awesome Lists"
+      ]
+    }
+  ]
+}

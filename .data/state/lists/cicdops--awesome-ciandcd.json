@@ -1,0 +1,1627 @@
+{
+  "etag": "W/\"e8ca91157a9068de1502ea5593fe8d2c65f0b1b436bbb52ff77fa4a7a7f729f1\"",
+  "readme_path": "README.md",
+  "misses": 0,
+  "entries": [
+    {
+      "key": "https://martinfowler.com/articles/continuousIntegration.html",
+      "name": "continuousIntegration",
+      "url": "http://martinfowler.com/articles/continuousIntegration.html",
+      "description": "",
+      "section": [
+        "Theory"
+      ]
+    },
+    {
+      "key": "https://continuousdelivery.com",
+      "name": "continuousdelivery",
+      "url": "http://continuousdelivery.com",
+      "description": "",
+      "section": [
+        "Theory"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/System_integration",
+      "name": "software integration",
+      "url": "https://en.wikipedia.org/wiki/System_integration",
+      "description": "",
+      "section": [
+        "Theory"
+      ]
+    },
+    {
+      "key": "https://semaphoreci.com/blog/cicd-pipeline",
+      "name": "ci/cd pipeline",
+      "url": "https://semaphoreci.com/blog/cicd-pipeline",
+      "description": "",
+      "section": [
+        "Theory"
+      ]
+    },
+    {
+      "key": "https://devopsdays.org",
+      "name": "devopsdays",
+      "url": "http://www.devopsdays.org",
+      "description": "",
+      "section": [
+        "Theory"
+      ]
+    },
+    {
+      "key": "https://dzone.com/refcardz/continuous-integration",
+      "name": "ci cheatsheet",
+      "url": "https://dzone.com/refcardz/continuous-integration",
+      "description": "",
+      "section": [
+        "Theory"
+      ]
+    },
+    {
+      "key": "https://github.com/kamranahmedse/developer-roadmap",
+      "name": "devops_roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "description": "",
+      "section": [
+        "Theory"
+      ]
+    },
+    {
+      "key": "https://jenkins-ci.org",
+      "name": "Jenkins",
+      "url": "http://jenkins-ci.org",
+      "description": "An extendable open source continuous integration server",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://solanolabs.com",
+      "name": "Solano CI",
+      "url": "https://www.solanolabs.com",
+      "description": "Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://concourse-ci.org",
+      "name": "Concourse",
+      "url": "https://concourse-ci.org",
+      "description": "Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://jazz.net/downloads/rational-build-forge",
+      "name": "BuildForge",
+      "url": "https://jazz.net/downloads/rational-build-forge/",
+      "description": "Automate and accelerate build and release processes",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://electric-cloud.com/products/electricflow",
+      "name": "ElectricFlow",
+      "url": "http://electric-cloud.com/products/electricflow/",
+      "description": "ElectricFlow/ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://jetbrains.com/teamcity/index.html",
+      "name": "Teamcity",
+      "url": "http://www.jetbrains.com/teamcity/index.html",
+      "description": "Ready to work, extensible and developer-friendly build server out of the box",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://atlassian.com/software/bamboo",
+      "name": "bamboo",
+      "url": "https://www.atlassian.com/software/bamboo",
+      "description": "Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://gocd.org",
+      "name": "go (the old snap-ci)",
+      "url": "https://www.gocd.org/",
+      "description": "Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://hudson-ci.org",
+      "name": "hudson",
+      "url": "http://hudson-ci.org",
+      "description": "the previous one of Jenkins",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://openbuildservice.org",
+      "name": "openbuildservice",
+      "url": "http://openbuildservice.org",
+      "description": "The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://trac.buildbot.net",
+      "name": "buildbot",
+      "url": "http://trac.buildbot.net",
+      "description": "Buildbot is a continuous integration system designed to automate the build/test cycle. By automatically rebuilding and testing the tree each time something has changed, build problems are pinpointed quickly, before other developers are inconvenienced by the failure",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://viewtier.com/index.htm",
+      "name": "Parabuild",
+      "url": "http://www.viewtier.com/index.htm",
+      "description": "Parabuild is an enterprise software build and release management system that helps software teams to release on time by providing them practically unbreakable release builds and Continuous Integration",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://finalbuilder.com",
+      "name": "FinalBuilder",
+      "url": "https://www.finalbuilder.com/",
+      "description": "Automating your Build process is simple with FinalBuilder. With FinalBuilder you don't need to edit xml, or write scripts. Visually define and debug your build scripts, then schedule them with windows scheduler, or integrate them with Continua CI, Jenkins or any other CI Server",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://kinook.com/VisBuildPro",
+      "name": "VisualBuild",
+      "url": "http://www.kinook.com/VisBuildPro/",
+      "description": "Visual Build enables developers and build masters to easily create an automated, repeatable build process",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://cruisecontrolnet.org",
+      "name": "cruisecontrol",
+      "url": "http://www.cruisecontrolnet.org",
+      "description": "CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://continuum.apache.org",
+      "name": "continuum",
+      "url": "http://continuum.apache.org/",
+      "description": "Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://pmease.com",
+      "name": "quickbuild",
+      "url": "http://www.pmease.com/",
+      "description": "GitHub integration. Perforce shelve support. Coverity report rendering. Subversion external change retrieval. Resource access info. Display reasons for waiting steps. Custom build and request columns. Favorite dash board list. Inheritable environment variables.And much more...",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://rexify.org",
+      "name": "rexify",
+      "url": "http://www.rexify.org//",
+      "description": "perl Deployment & Configuration Management",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://github.com/simpleci/simpleci",
+      "name": "SimpleCI",
+      "url": "https://github.com/simpleci/simpleci",
+      "description": "Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://zutubi.com",
+      "name": "pulse",
+      "url": "http://zutubi.com",
+      "description": "no free version.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://github.com/php-censor/php-censor",
+      "name": "PHP Censor",
+      "url": "https://github.com/php-censor/php-censor",
+      "description": "Open source self-hosted continuous integration server for PHP projects.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://rundeck.org",
+      "name": "rundeck",
+      "url": "http://rundeck.org",
+      "description": "Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://ovh.github.io/cds",
+      "name": "cds",
+      "url": "https://ovh.github.io/cds",
+      "description": "CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://drone.io",
+      "name": "Drone CI",
+      "url": "https://drone.io/",
+      "description": "Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://github.com/spotify/luigi",
+      "name": "Luigi",
+      "url": "https://github.com/spotify/luigi",
+      "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://kraken.ci",
+      "name": "Kraken CI",
+      "url": "https://kraken.ci",
+      "description": "Kraken CI is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.",
+      "section": [
+        "Build And Release System"
+      ]
+    },
+    {
+      "key": "https://appcircle.io",
+      "name": "appcircle.io",
+      "url": "https://appcircle.io",
+      "description": "Automated mobile CI/CD/CT for iOS and Android with online device emulators.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://closeheat.com",
+      "name": "closeheat",
+      "url": "http://closeheat.com",
+      "description": "Static website integration with GitHub and Cloud development environment",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://travis-ci.org",
+      "name": "travis-ci",
+      "url": "https://travis-ci.org",
+      "description": "ci server for github and bitbuckets",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://cloudbees.com",
+      "name": "cloudbees",
+      "url": "https://www.cloudbees.com/",
+      "description": "the Enterprise Jenkins Company",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://elasticbox.com",
+      "name": "elasticbox",
+      "url": "https://elasticbox.com",
+      "description": "A DevOps approach that focuses on reusable application components as a service, and enables operations to provide IT as a Service",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://coveralls.io",
+      "name": "coveralls",
+      "url": "https://coveralls.io",
+      "description": "Track your project's code coverage over time, changes to files, and badge your GitHub repo",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://app.shippable.com",
+      "name": "shippable",
+      "url": "https://app.shippable.com/",
+      "description": "Hosted continuous integration and deployment service built on docker",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://circleci.com",
+      "name": "circleci",
+      "url": "https://circleci.com",
+      "description": "Continuous Integration for web apps.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://buildkite.com",
+      "name": "buildbox",
+      "url": "https://buildkite.com/",
+      "description": "Simple self-hosted Continuous Integration",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://appveyor.com",
+      "name": "appveyor",
+      "url": "http://www.appveyor.com",
+      "description": "Continuous Integration and Deployment service for busy Windows",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://snap-ci.com",
+      "name": "snap-ci",
+      "url": "https://snap-ci.com",
+      "description": "Easy builds, deployed when you want.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://codeship.com",
+      "name": "codeship",
+      "url": "https://codeship.com",
+      "description": "Continuous Integration and Delivery made simple",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://githost.io",
+      "name": "githost",
+      "url": "https://githost.io",
+      "description": "Painless GitLab CE & CI Hosting",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://ci.testling.com",
+      "name": "testling",
+      "url": "https://ci.testling.com",
+      "description": "Automatic browser tests on every push",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://magnum-ci.com",
+      "name": "magnum-ci",
+      "url": "https://magnum-ci.com",
+      "description": "Hosted Continuous Integration and Delivery Platform for private repositories",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://wercker.com",
+      "name": "wercker",
+      "url": "http://wercker.com",
+      "description": "Test and deploy your applications with ease",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://codecov.io",
+      "name": "codecov",
+      "url": "https://codecov.io",
+      "description": "Continuous code coverage. Featuring browser extenstions and awesome pull request commentsto track coverage over time on your GitHub/Bitbucket/Gitlab repo",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://about.gitlab.com/gitlab-ci",
+      "name": "GitLab CI",
+      "url": "https://about.gitlab.com/gitlab-ci/",
+      "description": "Based off of ruby. They also provide GitLab, which manages git repositories.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://hub.jazz.net",
+      "name": "IBM DevOps Services",
+      "url": "https://hub.jazz.net",
+      "description": "Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://deploybot.com",
+      "name": "deploybot",
+      "url": "https://deploybot.com",
+      "description": "Instantly build and ship code anywhere in one consistent process for your entire team.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://semaphoreci.com",
+      "name": "Semaphore CI",
+      "url": "https://semaphoreci.com/",
+      "description": "Fast and easy to use continuous integration and deployment service with native Docker support.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://flow.ci",
+      "name": "flow.ci",
+      "url": "https://flow.ci/",
+      "description": "flow.ci, hosted continuous integration and delivery service for innovators who shape the future.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://bitrise.io",
+      "name": "Bitrise",
+      "url": "https://www.bitrise.io/",
+      "description": "Cloud based continuous integration and delivery for mobile, free for OSS",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://cirrus-ci.org",
+      "name": "Cirrus CI",
+      "url": "https://cirrus-ci.org",
+      "description": "Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://deployplace.com",
+      "name": "DeployPlace",
+      "url": "https://deployplace.com",
+      "description": "Complex deployments become simple. Deploy your applications from git or CI in minutes.",
+      "section": [
+        "Online Build System"
+      ]
+    },
+    {
+      "key": "https://catlight.io",
+      "name": "CatLight",
+      "url": "https://catlight.io",
+      "description": "Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS",
+      "section": [
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://barklarm.com",
+      "name": "Barklarm",
+      "url": "https://www.barklarm.com/",
+      "description": "Open Source multiplatform alarm munitor and build status of servers that support of CCTray Specification and Github Actions.",
+      "section": [
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://ccmenu.org",
+      "name": "CCMenu",
+      "url": "http://ccmenu.org/",
+      "description": "OSx build status monitor for servers tha support CCTray Specification.",
+      "section": [
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://wiki.gridengine.info/wiki/index.php/Main_Page",
+      "name": "GridWiki",
+      "url": "http://wiki.gridengine.info/wiki/index.php/Main_Page",
+      "description": "wiki page for Grid",
+      "section": [
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://univa.com",
+      "name": "UGE",
+      "url": "http://www.univa.com",
+      "description": "Univa workload management solutions maximize the value of existing computing resources by efficiently sharing workloads across thousands of servers",
+      "section": [
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://gridscheduler.sourceforge.net",
+      "name": "SGE",
+      "url": "http://gridscheduler.sourceforge.net",
+      "description": "Grid Engine is typically used on a computer farm or high-performance computing (HPC) cluster and is responsible for accepting, scheduling, dispatching, and managing the remote and distributed execution of large numbers of standalone, parallel or interactive user jobs. It also manages and schedules the allocation of distributed resources such as processors, memory, disk space, and software licenses",
+      "section": [
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://www-03.ibm.com/systems/platformcomputing/products/lsf",
+      "name": "LSF",
+      "url": "http://www-03.ibm.com/systems/platformcomputing/products/lsf/",
+      "description": "Platform Load Sharing Facility (or simply LSF) is a workload management platform, job scheduler, for distributed HPC environments. It can be used to execute batch jobs on networked Unix and Windows systems on many different architectures",
+      "section": [
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://vmware.com/products/vsphere",
+      "name": "vmwarevshpere",
+      "url": "http://www.vmware.com/products/vsphere",
+      "description": "VMware vSphere (formerly VMware Infrastructure 4) is VMware's cloud computing virtualization operating system",
+      "section": [
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://citrix.com/products/xenserver/overview.html",
+      "name": "citrixserver",
+      "url": "http://www.citrix.com/products/xenserver/overview.html",
+      "description": "XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds. Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency",
+      "section": [
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://aws.amazon.com/ec2",
+      "name": "amazon",
+      "url": "http://aws.amazon.com/ec2/",
+      "description": "Scalable, pay-as-you-go compute capacity in the cloud",
+      "section": [
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://boxstarter.org",
+      "name": "boxstarter",
+      "url": "http://boxstarter.org/",
+      "description": "Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.",
+      "section": [
+        "Dev env"
+      ]
+    },
+    {
+      "key": "https://github.com/Thomvaill/tads-boilerplate",
+      "name": "T.A.D.S. boilerplate",
+      "url": "https://github.com/Thomvaill/tads-boilerplate",
+      "description": "A boilerplate to setup a Docker Swarm environment with Ansible",
+      "section": [
+        "Dev env"
+      ]
+    },
+    {
+      "key": "https://vagrantup.com",
+      "name": "vagrantup",
+      "url": "https://www.vagrantup.com/",
+      "description": "Create and configure lightweight, reproducible, and portable development environments.",
+      "section": [
+        "Dev env"
+      ]
+    },
+    {
+      "key": "https://github.com/jedi4ever/veewee",
+      "name": "veewee",
+      "url": "https://github.com/jedi4ever/veewee",
+      "description": "Easing the building of vagrant boxes",
+      "section": [
+        "Dev env"
+      ]
+    },
+    {
+      "key": "https://git-scm.com",
+      "name": "git",
+      "url": "http://git-scm.com",
+      "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://perforce.com",
+      "name": "perforce",
+      "url": "https://www.perforce.com/",
+      "description": "Industry’s most reliable and proven platform for versioning code, images, documents... everything",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://www-03.ibm.com/software/products/en/clearcase",
+      "name": "clearcase",
+      "url": "http://www-03.ibm.com/software/products/en/clearcase",
+      "description": "IBM Rational ClearCase is a software configuration management solution that provides version control, workspace management, parallel development support, and build auditing",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://mercurial-scm.org",
+      "name": "mercurial",
+      "url": "https://www.mercurial-scm.org/",
+      "description": "Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://subversion.apache.org",
+      "name": "svn",
+      "url": "http://subversion.apache.org",
+      "description": "Subversion is an open source version control system",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://about.gitlab.com",
+      "name": "gitlab",
+      "url": "https://about.gitlab.com/",
+      "description": "Open source self-hosted Git management software",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://github.com",
+      "name": "github",
+      "url": "https://github.com",
+      "description": "Powerful collaboration, review, and code management for open source and private development projects.",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://bitbucket.org",
+      "name": "bitbuckets",
+      "url": "https://bitbucket.org",
+      "description": "Plant your code in the cloud. Watch it grow.",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://tfs.visualstudio.com",
+      "name": "teamfoundationservice",
+      "url": "http://tfs.visualstudio.com",
+      "description": "Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://phabricator.org",
+      "name": "phabricator",
+      "url": "http://phabricator.org/",
+      "description": "Phabricator is a collection of open source web applications that help software companies build better software.",
+      "section": [
+        "Source Code Management"
+      ]
+    },
+    {
+      "key": "https://smartbear.com/product/collaborator/overview",
+      "name": "codecollaborator",
+      "url": "http://smartbear.com/product/collaborator/overview/",
+      "description": "Collaborator helps development, testing and management teams work together to produce high quality code",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://atlassian.com/software/crucible/overview",
+      "name": "crucible",
+      "url": "https://www.atlassian.com/software/crucible/overview",
+      "description": "Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://reviewboard.org",
+      "name": "reviewboard",
+      "url": "https://www.reviewboard.org/",
+      "description": "Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://codestriker.sourceforge.net",
+      "name": "codestriker",
+      "url": "http://codestriker.sourceforge.net",
+      "description": "Codestriker is an open-sourced web application which supports online code reviewing. Traditional document reviews are supported, as well as reviewing diffs generated by an SCM (Source Code Management) system and plain unidiff patches",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://getbarkeep.org",
+      "name": "getbarkeep",
+      "url": "http://getbarkeep.org",
+      "description": "a fast, fun way to review code",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://code.google.com/p/gerrit",
+      "name": "gerrit",
+      "url": "https://code.google.com/p/gerrit/",
+      "description": "Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://codebrag.com",
+      "name": "Codebrag",
+      "url": "http://www.codebrag.com/",
+      "description": "Codebrag is a simple code review tool that makes the process work for your team.",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://jetbrains.com/upsource",
+      "name": "Upsource",
+      "url": "https://www.jetbrains.com/upsource/",
+      "description": "Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://ebertapp.io",
+      "name": "Ebert",
+      "url": "https://ebertapp.io",
+      "description": "Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.",
+      "section": [
+        "Code Review"
+      ]
+    },
+    {
+      "key": "https://gnu.org/software/make",
+      "name": "gnumake",
+      "url": "http://www.gnu.org/software/make/",
+      "description": "GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://gnu.org/software/autoconf",
+      "name": "gnuautoconf",
+      "url": "http://www.gnu.org/software/autoconf/",
+      "description": "Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions",
+      "name": "mozillabuildtools",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions",
+      "description": "The Mozilla build system, like the rest of the Mozilla codebase, is cross-platform. It uses traditional Unix-style autoconf and make tools to build the various applications (even on non-unix operating systems)",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://scons.org",
+      "name": "scons",
+      "url": "http://www.scons.org",
+      "description": "SCons is an Open Source software construction tool—that is, a next-generation build tool. Think of SCons as an improved, cross-platform substitute for the classic Make utility with integrated functionality similar to autoconf/automake and compiler caches such as ccache. In short, SCons is an easier, more reliable and faster way to build software",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://cmake.org",
+      "name": "cmake",
+      "url": "https://cmake.org/",
+      "description": "cmake offers robust, cross-platform software development solutions. Find out how we can help your team efficiently manage the build, test, and package process for your software project",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://msdn.microsoft.com/en-us/library/dd393574.aspx",
+      "name": "msbuild",
+      "url": "http://msdn.microsoft.com/en-us/library/dd393574.aspx",
+      "description": "The Microsoft Build Engine is a platform for building applications. This engine, which is also known as MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild, but it doesn't depend on Visual Studio. By invoking msbuild.exe on your project or solution file, you can orchestrate and build products in environments where Visual Studio isn't installed",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://ant.apache.org",
+      "name": "ant",
+      "url": "http://ant.apache.org",
+      "description": "Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://maven.apache.org",
+      "name": "maven",
+      "url": "http://maven.apache.org",
+      "description": "Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://gradle.org",
+      "name": "gradle",
+      "url": "http://gradle.org/",
+      "description": "Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://electric-cloud.com/products/electricaccelerator",
+      "name": "ElectricacCelerator",
+      "url": "http://electric-cloud.com/products/electricaccelerator",
+      "description": "Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://scala-sbt.org/index.html",
+      "name": "SBT",
+      "url": "http://www.scala-sbt.org/index.html",
+      "description": "sbt is an open source build tool for Scala and Java projects.",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://github.com/8gears/do",
+      "name": "do",
+      "url": "https://github.com/8gears/do",
+      "description": "The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.",
+      "section": [
+        "Build"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis",
+      "name": "static tools wiki",
+      "url": "https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis",
+      "description": "wiki page",
+      "section": [
+        "Static Check"
+      ]
+    },
+    {
+      "key": "https://coverity.com",
+      "name": "coverity",
+      "url": "http://www.coverity.com/",
+      "description": "Continually measure and improve code quality and security across your development organization",
+      "section": [
+        "Static Check"
+      ]
+    },
+    {
+      "key": "https://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx",
+      "name": "fxcop",
+      "url": "http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx",
+      "description": "FxCop is an application that analyzes managed code assemblies (code that targets the .NET Framework common language runtime) and reports information about the assemblies, such as possible design, localization, performance, and security improvements",
+      "section": [
+        "Static Check"
+      ]
+    },
+    {
+      "key": "https://pmd.sourceforge.net/pmd-4.3.0/cpd.html",
+      "name": "cpd",
+      "url": "http://pmd.sourceforge.net/pmd-4.3.0/cpd.html",
+      "description": "Duplicate code can be hard to find, especially in a large project. But PMD's Copy/Paste Detector (CPD) can find it for you",
+      "section": [
+        "Static Check"
+      ]
+    },
+    {
+      "key": "https://sonarqube.org",
+      "name": "sonar",
+      "url": "http://www.sonarqube.org",
+      "description": "SonarQube is an open platform to manage code quality",
+      "section": [
+        "Static Check"
+      ]
+    },
+    {
+      "key": "https://findbugs.sourceforge.net",
+      "name": "findbugs",
+      "url": "http://findbugs.sourceforge.net",
+      "description": "Find Bugs in Java Programs",
+      "section": [
+        "Static Check"
+      ]
+    },
+    {
+      "key": "https://checkstyle.sourceforge.net",
+      "name": "checkstyle",
+      "url": "http://checkstyle.sourceforge.net",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard",
+      "section": [
+        "Static Check"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Dynamic_program_analysis",
+      "name": "dynamic tools wiki",
+      "url": "https://en.wikipedia.org/wiki/Dynamic_program_analysis",
+      "description": "wiki page",
+      "section": [
+        "Dynamic Check"
+      ]
+    },
+    {
+      "key": "https://valgrind.org",
+      "name": "valgrind",
+      "url": "http://valgrind.org",
+      "description": "automatically detect many memory management and threading bugs, and profile your programs in detail",
+      "section": [
+        "Dynamic Check"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/List_of_performance_analysis_tools",
+      "name": "performance tools wiki",
+      "url": "https://en.wikipedia.org/wiki/List_of_performance_analysis_tools",
+      "description": "wiki page",
+      "section": [
+        "Performance Analysis"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Code_coverage",
+      "name": "code coverage wiki",
+      "url": "https://en.wikipedia.org/wiki/Code_coverage",
+      "description": "wiki page",
+      "section": [
+        "Coverage"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Test_automation",
+      "name": "Testingautomation",
+      "url": "https://en.wikipedia.org/wiki/Test_automation",
+      "description": "test automation wiki page",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://softwareqatest.com",
+      "name": "softwareqatest",
+      "url": "http://www.softwareqatest.com",
+      "description": "FAQ page",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://qaforums.com",
+      "name": "qaforums",
+      "url": "http://www.qaforums.com",
+      "description": "SQA Forums",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://opensourcetesting.org",
+      "name": "opensourcetesting",
+      "url": "http://www.opensourcetesting.org",
+      "description": "open source software testing tools, news and disccussions",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://seleniumhq.org",
+      "name": "selenium",
+      "url": "http://www.seleniumhq.org",
+      "description": "Selenium automates browsers",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://monkeytest.it",
+      "name": "Monkey Test It",
+      "url": "https://monkeytest.it",
+      "description": "Free automated website tester with CURLable API",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://assertible.com",
+      "name": "Assertible",
+      "url": "https://assertible.com",
+      "description": "Continuous post deployment testing for GitHub",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/alibaba/macaca",
+      "name": "Macaca",
+      "url": "https://github.com/alibaba/macaca",
+      "description": "Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://installshield.com",
+      "name": "installshield",
+      "url": "http://www.installshield.com",
+      "description": "World's #1 Software Installation Solution-Build Reliable MSI Installers for Windows Applications",
+      "section": [
+        "Package"
+      ]
+    },
+    {
+      "key": "https://nsis.sourceforge.net/Main_Page",
+      "name": "NSIS",
+      "url": "http://nsis.sourceforge.net/Main_Page",
+      "description": "NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution",
+      "section": [
+        "Package"
+      ]
+    },
+    {
+      "key": "https://rpm.org",
+      "name": "rpm",
+      "url": "http://rpm.org",
+      "description": "The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages",
+      "section": [
+        "Package"
+      ]
+    },
+    {
+      "key": "https://yum.baseurl.org",
+      "name": "yum",
+      "url": "http://yum.baseurl.org",
+      "description": "Yum is an automatic updater and package installer/remover for rpm systems",
+      "section": [
+        "Package"
+      ]
+    },
+    {
+      "key": "https://github.com/jordansissel/fpm",
+      "name": "fpm",
+      "url": "https://github.com/jordansissel/fpm",
+      "description": "Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",
+      "section": [
+        "Package"
+      ]
+    },
+    {
+      "key": "https://wixtoolset.org",
+      "name": "wix",
+      "url": "http://wixtoolset.org/",
+      "description": "The most powerful set of tools available to create your Windows installation experience.",
+      "section": [
+        "Package"
+      ]
+    },
+    {
+      "key": "https://packer.io",
+      "name": "packer",
+      "url": "https://www.packer.io/",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "section": [
+        "Package"
+      ]
+    },
+    {
+      "key": "https://jfrog.com",
+      "name": "jfrog",
+      "url": "https://www.jfrog.com/",
+      "description": "s the first Binary Repository Management solution, Artifactory has changed the way binaries are controlled, stored and managed throughout the software release cycle",
+      "section": [
+        "Deploy"
+      ]
+    },
+    {
+      "key": "https://xebialabs.com/products/xl-deploy",
+      "name": "xl-deploy",
+      "url": "https://xebialabs.com/products/xl-deploy",
+      "description": "Agentless, Model-based App Deployment",
+      "section": [
+        "Deploy"
+      ]
+    },
+    {
+      "key": "https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin",
+      "name": "Jenkinsdeployplugin",
+      "url": "https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin",
+      "description": "deploy to tomcat",
+      "section": [
+        "Deploy"
+      ]
+    },
+    {
+      "key": "https://bintray.com",
+      "name": "bintray",
+      "url": "https://bintray.com",
+      "description": "The fastest and most reliable way to automate the distribution of your software releases",
+      "section": [
+        "Deploy"
+      ]
+    },
+    {
+      "key": "https://gitploy.io",
+      "name": "Gitploy",
+      "url": "https://www.gitploy.io/",
+      "description": "Build the deployment system around GitHub in minutes",
+      "section": [
+        "Deploy"
+      ]
+    },
+    {
+      "key": "https://xebialabs.com/products/xl-release",
+      "name": "sl-release",
+      "url": "https://xebialabs.com/products/xl-release",
+      "description": "Orchestrate your Continuous Delivery pipelines. Simple. Flexible. End-to-End",
+      "section": [
+        "Delivery"
+      ]
+    },
+    {
+      "key": "https://archiva.apache.org/index.cgi",
+      "name": "archiva",
+      "url": "http://archiva.apache.org/index.cgi",
+      "description": "Apache Archiva™ is an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository. It is the perfect companion for build tools such as Maven, Continuum, and ANT",
+      "section": [
+        "Delivery"
+      ]
+    },
+    {
+      "key": "https://sonatype.com/nexus",
+      "name": "nexus",
+      "url": "http://www.sonatype.com/nexus",
+      "description": "The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations",
+      "section": [
+        "Delivery"
+      ]
+    },
+    {
+      "key": "https://chocolatey.org",
+      "name": "chocolatey",
+      "url": "https://chocolatey.org/",
+      "description": "Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind",
+      "section": [
+        "Delivery"
+      ]
+    },
+    {
+      "key": "https://pulpproject.org",
+      "name": "pulp",
+      "url": "http://www.pulpproject.org/",
+      "description": "Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.",
+      "section": [
+        "Delivery"
+      ]
+    },
+    {
+      "key": "https://github.com/russss/Herd",
+      "name": "herd",
+      "url": "https://github.com/russss/Herd",
+      "description": "A single-command bittorrent distribution system, based on Twitter's Murder",
+      "section": [
+        "Delivery"
+      ]
+    },
+    {
+      "key": "https://github.com/lg/murder",
+      "name": "murder",
+      "url": "https://github.com/lg/murder",
+      "description": "Large scale server deploys using BitTorrent and the BitTornado library from twitter.com",
+      "section": [
+        "Delivery"
+      ]
+    },
+    {
+      "key": "https://ansible.com",
+      "name": "Ansible",
+      "url": "http://www.ansible.com",
+      "description": "Simple infrastructure management tool via human readable playbooks",
+      "section": [
+        "Provisioning Tools"
+      ]
+    },
+    {
+      "key": "https://chef.io/chef",
+      "name": "Chef",
+      "url": "https://www.chef.io/chef/",
+      "description": "Fast, scalable and flexible software for data center automation",
+      "section": [
+        "Provisioning Tools"
+      ]
+    },
+    {
+      "key": "https://saltstack.com/community",
+      "name": "SaltStack",
+      "url": "http://saltstack.com/community/",
+      "description": "Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine",
+      "section": [
+        "Provisioning Tools"
+      ]
+    },
+    {
+      "key": "https://terraform.io",
+      "name": "terraform",
+      "url": "https://www.terraform.io",
+      "description": "Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service",
+      "section": [
+        "Provisioning Tools"
+      ]
+    },
+    {
+      "key": "https://deepfence.io",
+      "name": "Deepfence Enterprise",
+      "url": "https://deepfence.io",
+      "description": "Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.",
+      "section": [
+        "secure tools"
+      ]
+    },
+    {
+      "key": "https://github.com/deepfence/ThreatMapper",
+      "name": "Deepfence Threat Mapper",
+      "url": "https://github.com/deepfence/ThreatMapper",
+      "description": "Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.",
+      "section": [
+        "secure tools"
+      ]
+    },
+    {
+      "key": "https://whitesourcesoftware.com",
+      "name": "whitesource",
+      "url": "https://www.whitesourcesoftware.com/",
+      "description": "The simplest way to secure and manage open source components in your software.",
+      "section": [
+        "secure tools"
+      ]
+    },
+    {
+      "key": "https://httpd.apache.org",
+      "name": "apache",
+      "url": "https://httpd.apache.org",
+      "description": "Apache httpd has been the most popular web server on the Internet since April 1996",
+      "section": [
+        "Web Server"
+      ]
+    },
+    {
+      "key": "https://nginx.org",
+      "name": "nginx",
+      "url": "http://nginx.org",
+      "description": "A high performance free open source web server powering busiest sites on the Internet",
+      "section": [
+        "Web Server"
+      ]
+    },
+    {
+      "key": "https://tomcat.apache.org",
+      "name": "tomcat",
+      "url": "http://tomcat.apache.org",
+      "description": "An open source software implementation of the Java Servlet and JavaServer Pages technologies",
+      "section": [
+        "Web Server"
+      ]
+    },
+    {
+      "key": "https://eclipse.org/jetty",
+      "name": "jetty",
+      "url": "http://www.eclipse.org/jetty/",
+      "description": "Jetty provides a Web server and javax.servlet container, plus support for SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations",
+      "section": [
+        "Web Server"
+      ]
+    },
+    {
+      "key": "https://haproxy.org",
+      "name": "HAProxy",
+      "url": "http://www.haproxy.org/",
+      "description": "Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.",
+      "section": [
+        "Web Server"
+      ]
+    },
+    {
+      "key": "https://github.com/itech001/awesome-shell/blob/master/README.md",
+      "name": "awesome-shell",
+      "url": "https://github.com/itech001/awesome-shell/blob/master/README.md",
+      "description": "",
+      "section": [
+        "OS And Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/vinta/awesome-python",
+      "name": "awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "description": "",
+      "section": [
+        "OS And Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/hachiojipm/awesome-perl",
+      "name": "awesome-perl",
+      "url": "https://github.com/hachiojipm/awesome-perl",
+      "description": "",
+      "section": [
+        "OS And Shell"
+      ]
+    },
+    {
+      "key": "https://github.com/kahun/awesome-sysadmin",
+      "name": "awesome-sysadmin",
+      "url": "https://github.com/kahun/awesome-sysadmin",
+      "description": "",
+      "section": [
+        "OS And Shell"
+      ]
+    },
+    {
+      "key": "https://docker.com",
+      "name": "docker",
+      "url": "https://www.docker.com",
+      "description": "Docker - An open platform for distributed applications for developers and sysadmins",
+      "section": [
+        "Applications And Container"
+      ]
+    },
+    {
+      "key": "https://suse.com/products/susestudio",
+      "name": "suseapplication",
+      "url": "https://www.suse.com/products/susestudio/",
+      "description": "tools to create suse applications",
+      "section": [
+        "Applications And Container"
+      ]
+    },
+    {
+      "key": "https://liquibase.org",
+      "name": "liquibase",
+      "url": "http://www.liquibase.org",
+      "description": "source control for your database",
+      "section": [
+        "Database Version Control"
+      ]
+    },
+    {
+      "key": "https://flywaydb.org",
+      "name": "flywaydb",
+      "url": "http://flywaydb.org",
+      "description": "Database Migrations Made Easy",
+      "section": [
+        "Database Version Control"
+      ]
+    },
+    {
+      "key": "https://dbinvent.com",
+      "name": "Rumba RDBM",
+      "url": "https://www.dbinvent.com/",
+      "description": "Database migration tool, plain-SQL, and declarative definition supported.",
+      "section": [
+        "Database Version Control"
+      ]
+    },
+    {
+      "key": "https://dbdeploy.com",
+      "name": "dbdeploy",
+      "url": "http://dbdeploy.com",
+      "description": "dbdeploy is a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their database – in a simple, controlled, flexible and frequent manner",
+      "section": [
+        "Database Version Control"
+      ]
+    },
+    {
+      "key": "https://dbmaestro.com",
+      "name": "dbmaestro",
+      "url": "http://www.dbmaestro.com/",
+      "description": "Controlled Database Continuous Delivery is Our Business",
+      "section": [
+        "Database Version Control"
+      ]
+    },
+    {
+      "key": "https://infoq.com",
+      "name": "infoq",
+      "url": "http://www.infoq.com",
+      "description": "",
+      "section": [
+        "Useful Sites"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com",
+      "name": "stackoverflow",
+      "url": "http://stackoverflow.com",
+      "description": "",
+      "section": [
+        "Useful Sites"
+      ]
+    },
+    {
+      "key": "https://devopssummit.sys-con.com",
+      "name": "devops submit",
+      "url": "http://devopssummit.sys-con.com",
+      "description": "",
+      "section": [
+        "Conference And Submit"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8",
+      "name": "Securing DevOps",
+      "url": "https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8",
+      "description": "A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://packtpub.com/web-development/learning-continuous-integration-teamcity-raw",
+      "name": "Learning Continuous Integraion with TeamCity",
+      "url": "https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw",
+      "description": "Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/pipeline-as-code",
+      "name": "Pipeline as Code",
+      "url": "https://www.manning.com/books/pipeline-as-code",
+      "description": "A book on building CI/CD pipelines with Jenkins for cloud-native applications (including K8s & Serverless apps).",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/continuous-delivery-for-kubernetes",
+      "name": "Continuous Delivery for Kubernetes",
+      "url": "https://www.manning.com/books/continuous-delivery-for-kubernetes",
+      "description": "Take the fast track in your journey to continuous delivery, with open source tools for Kubernetes and cloud applications",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/continuous-delivery-in-go",
+      "name": "Continuous Delivery in Go",
+      "url": "https://www.manning.com/books/continuous-delivery-in-go",
+      "description": "Book that shows you how to build pipelines that optimize your development process so you can deliver software seamlessly to production.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://github.com/sindresorhus/awesome",
+      "name": "awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "description": "",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/emijrp/awesome-awesome",
+      "name": "awesome-awesome",
+      "url": "https://github.com/emijrp/awesome-awesome",
+      "description": "",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/bayandin/awesome-awesomeness",
+      "name": "awesome-awesomeness",
+      "url": "https://github.com/bayandin/awesome-awesomeness",
+      "description": "",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/itech001/awesome-sysadmin",
+      "name": "sysadmin",
+      "url": "https://github.com/itech001/awesome-sysadmin",
+      "description": "",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software",
+      "name": "ci tools compare",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software",
+      "description": "",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md",
+      "name": "ci tools compare2",
+      "url": "https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md",
+      "description": "",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/ligurio/Continuous-Integration-services",
+      "name": "ci tools compare 3",
+      "url": "https://github.com/ligurio/Continuous-Integration-services",
+      "description": "",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/veggiemonk/awesome-docker",
+      "name": "awesome-docker",
+      "url": "https://github.com/veggiemonk/awesome-docker",
+      "description": "*awesome-cicd",
+      "section": [
+        "Other Awesome Lists"
+      ]
+    }
+  ]
+}
