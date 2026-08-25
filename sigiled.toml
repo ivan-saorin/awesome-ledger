@@ -17,14 +17,10 @@ cron = "30 5 * * *"
 command = "./jobs/update.sh"
 timeout_minutes = 45
 
-# gh-pages deploy key for the publish step, from the SIGILED env
-# (/opt/sigiled/.env), injected at container creation. The mem0 digest
-# needs no secret: services call each other on the internal network,
-# auth lives at the edge.
-[jobs.update.secrets]
-GH_DEPLOY_KEY = "GH_DEPLOY_KEY"
+# No job secrets: the container's own project deploy key (GIT_SSH_KEY,
+# injected by SIGILED into every container) pushes state + gh-pages, and
+# the mem0 digest rides the internal service network credential-free.
 
-# State + digest queue live on a volume (SPEC Â§6) â€” survives the
-# disposable job containers.
-[volumes]
-awesome-ledger-data = "/data:rw"
+# No volumes: job containers mount none (SIGILED only binds
+# [app.volumes]); state + digest queue live on the job-owned `state`
+# branch, fetched and pushed by jobs/update.sh each run.

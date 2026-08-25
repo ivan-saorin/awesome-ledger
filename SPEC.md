@@ -20,6 +20,9 @@ Status: draft 0.1 — 2026-08-24. Decisions here + `docs/log-operativo.md`.
   the SIGILED rule (jobs never merge to master) while giving the job a
   publishable surface.
 - Job branches `job-update-*` — run reports for `recap`, as usual.
+- **state** — job-owned like gh-pages, never merged: the entry-set
+  snapshots, events.jsonl, meta and the digest queue, one commit per
+  run.
 
 Operator once: repo public + Pages enabled on `gh-pages`.
 
@@ -34,8 +37,9 @@ Operator once: repo public + Pages enabled on `gh-pages`.
 - **Event** — entry `added` or `removed` from a list on date D. Moves
   within a list are not events. An entry appearing in a *second* list is
   an event (it is a curation signal).
-- **State** — per-list entry set + list README sha/etag, on volume
-  `awesome-ledger-data`. First fetch of a list seeds silently.
+- **State** — per-list entry set + list README sha/etag, on the
+  job-owned `state` branch (job containers mount no volumes; git is the
+  only persistence). First fetch of a list seeds silently.
 
 ## 3. Enrollment
 
@@ -85,11 +89,13 @@ Static HTML, no JS framework, built by the job:
 - Rust, single binary, class `job`, no ports. Deps: tokio, reqwest,
   pulldown-cmark (parse), askama or plain format! templates (render),
   git2 or shelling to git (gh-pages push), serde, toml, sha2.
-- Volume `awesome-ledger-data`: `state/`, `queue/`.
-- Secrets: `GH_DEPLOY_KEY` (write key for this repo, gh-pages push),
-  env only. The mem0 digest needs none: the job talks to the memory
-  service over the internal network (`http://memory:8080`) — auth lives
-  at the edge, for callers outside the stack network.
+- Persistence: the `state` branch (`state/` files + `queue/`), fetched
+  at run start and pushed after every update — job containers mount no
+  volumes, git is the only store. Pushes (state + gh-pages) use the
+  container's own project deploy key (`GIT_SSH_KEY`); the mem0 digest
+  needs no credential: the job talks to the memory service over the
+  internal network (`http://memory:8080`) — auth lives at the edge, for
+  callers outside.
 
 ## 7. Non-goals (v1)
 
