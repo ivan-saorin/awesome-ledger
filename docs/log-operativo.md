@@ -1,5 +1,35 @@
 # log operativo — awesome-ledger
 
+## 2026-08-25 — M3 DONE: two green runs, site live, state on its own branch (sessions 2611d44f + 3c06dd29, sigiled-claude)
+**Where were we:** both keyed runs failed; the SIGILED source revealed
+why: job containers mount NO volumes (only [app.volumes] binds exist) —
+every run re-seeded from a container-local /data; and publish's
+GH_DEPLOY_KEY env never worked (report hid the step name behind a
+step()/$1-after-shift bug).
+**Where were we going:** persistence + publish that actually hold.
+**Done:** state (files + digest queue) moved to a job-owned `state`
+branch — cloned at run start, one commit pushed per run, never merged;
+gh-pages doctrine. Publish + state push ride the container's own
+project deploy key (GIT_SSH_KEY, injected into every container);
+[jobs.update.secrets] and [volumes] dropped from sigiled.toml — zero
+external secrets. step() fixed, stderr tails land in the report. The
+stranded fix commit (session 0b977404, reaped unattended after the
+driver's machine slept mid-exec) was recovered by ff-merge in a fresh
+session. Then the M3 smoke, live: run 155956 (18m35s) seeded 674/662,
+state branch born, REAL SITE PUBLISHED (ed. № 1, 674 lists, 118,940
+entries on record, Pages serving); run 162317 (15m15s) = edition 2,
+0 fresh / 662 × 304 / +0 −0 events (no false deltas), the 12 missing
+lists retired on second strike, 100% parse-clean both runs.
+**Deviations:** digest ack through a real job still unexercised — every
+run so far was a genuinely quiet day (correct behavior, no chunk); the
+verb itself was live-verified from a session (POST acked, DELETE by ref
+cleaned). First real delta day exercises the rest.
+**State:** M3 complete. Cron 05:30 daily now runs good code. Branches:
+master (code), state (data), gh-pages (site), job-update-* (reports).
+**Next:** M4 — catalog registration (service entry + skill note:
+"what's new in awesome-X → memory search or the site; enrollment edits
+via session"). Watch the next few cron runs' skip-rate + first digest.
+
 ## 2026-08-25 — M3 live: seed run green, gh-pages bootstrapped, digest de-beared (sessions abcd9d94 + 20b11451, sigiled-claude)
 **Where were we:** M3 code on master; first job trigger errored at
 container creation — declared secret STACK_BEARER had no SIGILED env.
