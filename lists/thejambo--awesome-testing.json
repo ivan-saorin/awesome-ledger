@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a71767ba2746c663f84df1baf2b1e7c72853096f973d3c3fa0a72c065bb5cbb4\"",
+  "etag": "W/\"771a50cf66aa0cf945eebf6ab00e19262f13903c4e8179e465b11691012a221b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1068,6 +1068,16 @@
       "name": "Selenium Boot",
       "url": "https://seleniumboot.com",
       "description": "Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.",
+      "section": [
+        "Software",
+        "Test Automation Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/mozarkai/optics-framework",
+      "name": "optics-framework",
+      "url": "https://github.com/mozarkai/optics-framework",
+      "description": "Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.",
       "section": [
         "Software",
         "Test Automation Frameworks"

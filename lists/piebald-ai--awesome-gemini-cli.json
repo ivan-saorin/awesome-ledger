@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0f983ba26741d1935ec9e49fcee937fd953cc8aeb3dca84f7abd1233d18d176b\"",
+  "etag": "W/\"3f7a8b84299b4ca060c08d968fb060eea85f7584bc237f075fa25bbfa1541f31\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -575,6 +575,15 @@
       "name": "ArmorGemini",
       "url": "https://github.com/armoriq/armorGemini",
       "description": "Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via BeforeTool / AfterTool hooks before it runs. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: curl -fsSL https://armoriq.ai/install_armorgemini.sh | bash.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Maksim-Burtsev/punchcard",
+      "name": "Punchcard",
+      "url": "https://github.com/Maksim-Burtsev/punchcard",
+      "description": "Architecture-level code review grounded in thirty engineering books distilled into 78 principles. Three independent passes over a working tree, branch or PR, merged into one verdict; every blocker demonstrated by running the code. Install with npx skills add Maksim-Burtsev/punchcard -a gemini-cli.",
       "section": [
         "Commands & Extensions"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"16b40e73d7c917abb5322ceaca142efce347d73b97b864b7e8ab62fbc405e376\"",
+  "etag": "W/\"c54b1595abd106080bc8fe52b4c07e66656906746170d3bfc50117eaea2fd8a1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -85,6 +85,15 @@
       ]
     },
     {
+      "key": "https://github.com/deepakness/omarchy-hub",
+      "name": "omarchy-hub",
+      "url": "https://github.com/deepakness/omarchy-hub",
+      "description": "A comprehensive resource library for Omarchy Linux.",
+      "section": [
+        "Alternative Implementations"
+      ]
+    },
+    {
       "key": "https://github.com/henrysipp/omarchy-nix",
       "name": "omarchy-nix",
       "url": "https://github.com/henrysipp/omarchy-nix",
@@ -121,21 +130,948 @@
       ]
     },
     {
-      "key": "https://github.com/harilvfs/omarchy",
-      "name": "harilvfs/omarchy",
-      "url": "https://github.com/harilvfs/omarchy",
-      "description": "Opinionated Arch/Hyprland Setup.",
+      "key": "https://github.com/stappmus/omarchy-activity-monitor",
+      "name": "Activity Monitor",
+      "url": "https://github.com/stappmus/omarchy-activity-monitor",
+      "description": "Lightweight CPU, memory, GPU, storage, and process glance for Omarchy Quattro.",
       "section": [
-        "Alternative Implementations"
+        "Plugins"
       ]
     },
     {
-      "key": "https://github.com/deepakness/omarchy-hub",
-      "name": "omarchy-hub",
-      "url": "https://github.com/deepakness/omarchy-hub",
-      "description": "A comprehensive resource library for Omarchy Linux.",
+      "key": "https://github.com/akitaonrails/ai-usagebar",
+      "name": "AI Usage",
+      "url": "https://github.com/akitaonrails/ai-usagebar",
+      "description": "Multi-provider AI plan usage and balances in a native Omarchy Quattro panel.",
       "section": [
-        "Alternative Implementations"
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/thisisgm/omarchy-pods",
+      "name": "AirPods",
+      "url": "https://github.com/thisisgm/omarchy-pods",
+      "description": "Battery, listening mode, and noise-control widgets for connected AirPods.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tmn73/omarchy-calendar",
+      "name": "Calendar",
+      "url": "https://github.com/tmn73/omarchy-calendar",
+      "description": "Next Google Calendar event in the Omarchy bar with one-click meeting join.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/mryll/claudebar",
+      "name": "Claude Usage",
+      "url": "https://github.com/mryll/claudebar",
+      "description": "Claude Code session, weekly, and per-model usage limits in the Omarchy bar.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/rosakodu/omarchy-dock",
+      "name": "Dock",
+      "url": "https://github.com/rosakodu/omarchy-dock",
+      "description": "Animated application dock for Omarchy Quattro with Hyprland window tracking.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/robzolkos/omarchy-github",
+      "name": "GitHub",
+      "url": "https://github.com/robzolkos/omarchy-github",
+      "description": "Keyboard-friendly GitHub inbox for notifications, reviews, PRs, and Actions.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/konradk/hass",
+      "name": "Home Assistant",
+      "url": "https://github.com/konradk/hass",
+      "description": "View and control Home Assistant devices from the Omarchy bar.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/crmne/omarchy-hyprmoncfg",
+      "name": "hyprmoncfg",
+      "url": "https://github.com/crmne/omarchy-hyprmoncfg",
+      "description": "Automatic Hyprland monitor profiles on hotplug, lid events, and resume.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/OldJobobo/lacuna-shell",
+      "name": "Lacuna",
+      "url": "https://github.com/OldJobobo/lacuna-shell",
+      "description": "Shell suite for Omarchy with a custom bar, sidebar, system controls, and widgets.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/SirJul1337/omarchy-lock-explorer",
+      "name": "Lock Screen Explorer",
+      "url": "https://github.com/SirJul1337/omarchy-lock-explorer",
+      "description": "Lock screen designs for Omarchy with a picker to preview and switch between them.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/lijiawei0305-pixel/omarchy-mihomo-plugin",
+      "name": "Mihomo",
+      "url": "https://github.com/lijiawei0305-pixel/omarchy-mihomo-plugin",
+      "description": "Status-bar control panel for a standalone mihomo proxy core.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/huacnlee/omarchy-mihoro",
+      "name": "Mihoro",
+      "url": "https://github.com/huacnlee/omarchy-mihoro",
+      "description": "Mihomo/Clash.Meta proxy status, speed, and subscription switching for Omarchy.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/sanjyay/Mirador",
+      "name": "Mirador",
+      "url": "https://github.com/sanjyay/Mirador",
+      "description": "Visual overview of workspaces and their windows.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Shavanced/omarchy-notification-center-plugin",
+      "name": "Notification Center",
+      "url": "https://github.com/Shavanced/omarchy-notification-center-plugin",
+      "description": "Native notification center with history, search, and Do Not Disturb.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/brianblakely/omarchy-plugins",
+      "name": "Okomart",
+      "url": "https://github.com/brianblakely/omarchy-plugins",
+      "description": "Storefront to browse, install, update, and remove Omarchy plugins.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jitendradara12/omaconnect",
+      "name": "OmaConnect",
+      "url": "https://github.com/jitendradara12/omaconnect",
+      "description": "KDE Connect integration for SMS, clipboard, file sharing, and device commands.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/prettyletto/omagen",
+      "name": "Omagen",
+      "url": "https://github.com/prettyletto/omagen",
+      "description": "Generate Omarchy themes from images.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/bobby-nicholas/omaland",
+      "name": "Omaland",
+      "url": "https://github.com/bobby-nicholas/omaland",
+      "description": "Live-preview panel for editing Hyprland look-and-feel from the Omarchy menu.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/AlexZeitler/omalibre",
+      "name": "Omalibre",
+      "url": "https://github.com/AlexZeitler/omalibre",
+      "description": "Bookshelf plugin for recently read books on Omarchy.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/huacnlee/omamail",
+      "name": "Omamail",
+      "url": "https://github.com/huacnlee/omamail",
+      "description": "Native Gmail and IMAP client for Omarchy.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/fross100/omaplug",
+      "name": "omaplug",
+      "url": "https://github.com/fross100/omaplug",
+      "description": "Standalone manager to enable, update, install, and remove Omarchy plugins.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/stappmus/Omarchy-Spotify",
+      "name": "Omarchy Spotify",
+      "url": "https://github.com/stappmus/Omarchy-Spotify",
+      "description": "Native Quickshell Spotify client themed for Omarchy.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/bjarneo/omarchy-shell-plugins",
+      "name": "omarchy-shell-plugins",
+      "url": "https://github.com/bjarneo/omarchy-shell-plugins",
+      "description": "Omni command palette plus QuickApps HUD and cliamp now-playing plugins.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/jkoestinger/omarchy-vpn",
+      "name": "omarchy-vpn",
+      "url": "https://github.com/jkoestinger/omarchy-vpn",
+      "description": "VPN status and switching in the Omarchy bar across installed VPN tools.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/husamemadH/omarchy-quattro-prayer-times",
+      "name": "Prayer Times",
+      "url": "https://github.com/husamemadH/omarchy-quattro-prayer-times",
+      "description": "Next prayer countdown and today's prayer times in the Omarchy bar.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/28allday/Quattrolitaire",
+      "name": "Quattrolitaire",
+      "url": "https://github.com/28allday/Quattrolitaire",
+      "description": "Klondike solitaire as a native Omarchy shell plugin.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/lgse/sandman",
+      "name": "Sandman",
+      "url": "https://github.com/lgse/sandman",
+      "description": "Lid-close, lock, sleep, and hibernate timing controls for Omarchy.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ax1g/quickshell-screentime-plugin",
+      "name": "Screen Time",
+      "url": "https://github.com/ax1g/quickshell-screentime-plugin",
+      "description": "Per-app screen time in the Omarchy bar with local history and trends.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/HANCORE-linux/Shibumi-Shell",
+      "name": "SHIBUMI",
+      "url": "https://github.com/HANCORE-linux/Shibumi-Shell",
+      "description": "Native bar and modular plugin suite for Omarchy Quattro.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Aryan-Techie/omarchy-todoist",
+      "name": "Todoist",
+      "url": "https://github.com/Aryan-Techie/omarchy-todoist",
+      "description": "Due counts and quick-add from the Omarchy bar.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/iamcheyan/omarchy-voxtype-enhance",
+      "name": "Voxtype Enhance",
+      "url": "https://github.com/iamcheyan/omarchy-voxtype-enhance",
+      "description": "Voxtype dictation control center with model downloads and paste controls.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar",
+      "name": "Adsovetzky-Omarchy-s-Waybar",
+      "url": "https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar",
+      "description": "Custom Waybar configurations for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/bjarneo/aether",
+      "name": "aether",
+      "url": "https://github.com/bjarneo/aether",
+      "description": "Desktop theming toolkit that streamlines crafting Omarchy themes.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/aorumbayev/awesome-omarchy-tui",
+      "name": "awesome-omarchy-tui",
+      "url": "https://github.com/aorumbayev/awesome-omarchy-tui",
+      "description": "Terminal UI for browsing awesome-omarchy repository content.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Grenish/clipboard-manager",
+      "name": "clipboard-manager",
+      "url": "https://github.com/Grenish/clipboard-manager",
+      "description": "Windows-like clipboard manager for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mirarr-app/editt",
+      "name": "edit",
+      "url": "https://github.com/mirarr-app/editt",
+      "description": "Beautiful image viewer and editor with Omarchy styling support.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/aloisdeniel/flutter_omarchy",
+      "name": "flutter_omarchy",
+      "url": "https://github.com/aloisdeniel/flutter_omarchy",
+      "description": "Develop Flutter apps for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/2disbetter/FW12Rotate",
+      "name": "FW12Rotate",
+      "url": "https://github.com/2disbetter/FW12Rotate",
+      "description": "Framework 12 rotation application specifically for Omarchy Linux.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/magudb/hyprBluetooth",
+      "name": "hyprBluetooth",
+      "url": "https://github.com/magudb/hyprBluetooth",
+      "description": "Bluetoothctl-powered TUI for quickly pairing devices on Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/devmobasa/hyprmarker",
+      "name": "hyprmarker",
+      "url": "https://github.com/devmobasa/hyprmarker",
+      "description": "ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/erans/hyprmon",
+      "name": "hyprmon",
+      "url": "https://github.com/erans/hyprmon",
+      "description": "TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/t4t5/hypruler",
+      "name": "hypruler",
+      "url": "https://github.com/t4t5/hypruler",
+      "description": "Measure anything on your screen. Inspired by PixelSnap for Mac.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/JaimeStill/omarchy-theme-generator",
+      "name": "JaimeStill/omarchy-theme-generator",
+      "url": "https://github.com/JaimeStill/omarchy-theme-generator",
+      "description": "Generate Omarchy themes based on images.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/blank-query/lazyVPN-for-Omarchy",
+      "name": "lazyVPN-for-Omarchy",
+      "url": "https://github.com/blank-query/lazyVPN-for-Omarchy",
+      "description": "A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux",
+      "name": "live-wallpaper-for-omarchy-linux",
+      "url": "https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux",
+      "description": "A robust script to manage and cycle through live video wallpapers on Omarchy/Hyprland.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/HectorBjernersjo/Neovim-theme-switcher",
+      "name": "Neovim-theme-switcher",
+      "url": "https://github.com/HectorBjernersjo/Neovim-theme-switcher",
+      "description": "Lightweight theme switcher for Neovim compatible with Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/rhemvi/omaclip",
+      "name": "omaclip",
+      "url": "https://github.com/rhemvi/omaclip",
+      "description": "A clipboard manager with cross-device sync and hot theme reloading.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/tahayvr/omarchist",
+      "name": "omarchist",
+      "url": "https://github.com/tahayvr/omarchist",
+      "description": "GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/tomycostantino/omarchpods",
+      "name": "omarchpods",
+      "url": "https://github.com/tomycostantino/omarchpods",
+      "description": "TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mitkox/omarchy-ai",
+      "name": "omarchy-ai",
+      "url": "https://github.com/mitkox/omarchy-ai",
+      "description": "AI-powered enhancements and tools for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/dylanbr/omarchy-box",
+      "name": "omarchy-box",
+      "url": "https://github.com/dylanbr/omarchy-box",
+      "description": "Containerized Omarchy environment.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/aloisdeniel/omarchy_calculator",
+      "name": "omarchy-calculator",
+      "url": "https://github.com/aloisdeniel/omarchy_calculator",
+      "description": "Official Omarchy calculator application built with Flutter.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/acrogenesis/omarchy-cheat-sheet",
+      "name": "omarchy-cheat-sheet",
+      "url": "https://github.com/acrogenesis/omarchy-cheat-sheet",
+      "description": "Quick reference guide for Omarchy commands and shortcuts.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/omacom-io/omarchy-chromium",
+      "name": "omarchy-chromium",
+      "url": "https://github.com/omacom-io/omarchy-chromium",
+      "description": "Chromium browser integration and optimizations for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/maxart/omarchy-cleaner",
+      "name": "omarchy-cleaner",
+      "url": "https://github.com/maxart/omarchy-cleaner",
+      "description": "Quickly and easily remove pre-installed apps and webapps.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/omacom-io/omarchy-configurator",
+      "name": "omarchy-configurator",
+      "url": "https://github.com/omacom-io/omarchy-configurator",
+      "description": "Configuration management tool for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/nemuiyarou/omarchy-enhanced-bindings",
+      "name": "omarchy-enhanced-bindings",
+      "url": "https://github.com/nemuiyarou/omarchy-enhanced-bindings",
+      "description": "Enhanced keyboard bindings for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/amanat361/omarchy-gui",
+      "name": "omarchy-gui",
+      "url": "https://github.com/amanat361/omarchy-gui",
+      "description": "GUI tools for Omarchy configuration.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/omacom-io/omarchy-installer",
+      "name": "omarchy-installer",
+      "url": "https://github.com/omacom-io/omarchy-installer",
+      "description": "Enhanced installation utilities and scripts for Omarchy setup.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/omacom-io/omarchy-iso",
+      "name": "omarchy-iso",
+      "url": "https://github.com/omacom-io/omarchy-iso",
+      "description": "Custom ISO builder for Omarchy installations.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/thatmechguy/omarchy-material-waybar",
+      "name": "omarchy-material-waybar",
+      "url": "https://github.com/thatmechguy/omarchy-material-waybar",
+      "description": "Material design style Waybar configuration for Hyprland.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/CyphrRiot/Migrate",
+      "name": "omarchy-migrate",
+      "url": "https://github.com/CyphrRiot/Migrate",
+      "description": "Stunningly beautiful terminal backup and restore tool written in Pure Go.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ryanyogan/omarchy-monitor-settings",
+      "name": "omarchy-monitor-settings",
+      "url": "https://github.com/ryanyogan/omarchy-monitor-settings",
+      "description": "Omarchy Monitor Settings TUI.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/daurydicaprio/omarchy-monitor-toggle",
+      "name": "omarchy-monitor-toggle",
+      "url": "https://github.com/daurydicaprio/omarchy-monitor-toggle",
+      "description": "Tools for automating monitor power management within Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/omacom-io/omarchy-pkgs",
+      "name": "omarchy-pkgs",
+      "url": "https://github.com/omacom-io/omarchy-pkgs",
+      "description": "Official Omarchy packages and utilities.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/michabbb/omarchy-speech-to-text",
+      "name": "omarchy-speech-to-text",
+      "url": "https://github.com/michabbb/omarchy-speech-to-text",
+      "description": "Whisper-backed speech-to-text integrations for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/cephalization/omarchy-steam-gaming-mode",
+      "name": "omarchy-steam-gaming-mode",
+      "url": "https://github.com/cephalization/omarchy-steam-gaming-mode",
+      "description": "Steam Deck-like gaming experience for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/gitcoder89431/omarchy-theme-builder",
+      "name": "omarchy-theme-builder",
+      "url": "https://github.com/gitcoder89431/omarchy-theme-builder",
+      "description": "Interactive, real-time theme builder for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jg-k/omarchy-theme-builder",
+      "name": "omarchy-theme-builder",
+      "url": "https://github.com/jg-k/omarchy-theme-builder",
+      "description": "Advanced theme building tool for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/maxberggren/omarchy-theme-generator",
+      "name": "omarchy-theme-generator",
+      "url": "https://github.com/maxberggren/omarchy-theme-generator",
+      "description": "Alternative theme generation utility.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hipsterusername/omarchy-themes-generator",
+      "name": "omarchy-themes-generator",
+      "url": "https://github.com/hipsterusername/omarchy-themes-generator",
+      "description": "Tool for generating custom Omarchy themes.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/joaofelipegalvao/omarchy-tmux",
+      "name": "omarchy-tmux",
+      "url": "https://github.com/joaofelipegalvao/omarchy-tmux",
+      "description": "Tmux status bar themes styled to match Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hjanuschka/OMARCHY-VM-UTM",
+      "name": "OMARCHY-VM-UTM",
+      "url": "https://github.com/hjanuschka/OMARCHY-VM-UTM",
+      "description": "Pre-configured Arch Linux virtual machine for UTM.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/limehawk/omarchy-vpn",
+      "name": "omarchy-vpn",
+      "url": "https://github.com/limehawk/omarchy-vpn",
+      "description": "WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle",
+      "name": "omarchy-wireguard-vpn-toggle",
+      "url": "https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle",
+      "description": "WireGuard VPN toggle for Omarchy's Waybar.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jonashan/omarchy-workspace-mover",
+      "name": "omarchy-workspace-mover",
+      "url": "https://github.com/jonashan/omarchy-workspace-mover",
+      "description": "An Omarchy plugin for moving workspaces between monitors.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/APS6/omazed",
+      "name": "omazed",
+      "url": "https://github.com/APS6/omazed",
+      "description": "Live theme switching for Zed editor in Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Firstp1ck/Pacsea",
+      "name": "Pacsea",
+      "url": "https://github.com/Firstp1ck/Pacsea",
+      "description": "Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/bjarneo/tema",
+      "name": "tema",
+      "url": "https://github.com/bjarneo/tema",
+      "description": "Modern Omarchy theming UI with live previews and presets.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/HANCORE-linux/waybar-themes",
+      "name": "waybar-themes",
+      "url": "https://github.com/HANCORE-linux/waybar-themes",
+      "description": "Collection of Waybar themes with various styles and combinations for Omarchy.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/devmobasa/wayscriber",
+      "name": "wayscriber",
+      "url": "https://github.com/devmobasa/wayscriber",
+      "description": "Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/alibaghernejad/waybar-privacy-dots",
+      "name": "alibaghernejad/waybar-privacy-dots",
+      "url": "https://github.com/alibaghernejad/waybar-privacy-dots",
+      "description": "Privacy-first module for your Waybar status bar.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/CyphrRiot/ArchRiot",
+      "name": "CyphrRiot/ArchRiot",
+      "url": "https://github.com/CyphrRiot/ArchRiot",
+      "description": "A curated Arch Linux experience inspired by Omarchy's philosophy.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/dougburks/ohmydebn",
+      "name": "dougburks/ohmydebn",
+      "url": "https://github.com/dougburks/ohmydebn",
+      "description": "A debonair Debian + Cinnamon setup inspired by Omarchy.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/j5onrf/dots",
+      "name": "j5onrf/dots",
+      "url": "https://github.com/j5onrf/dots",
+      "description": "Hyprland dotfiles with Waybar and ML4W inspired by Omarchy aesthetics.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/omacom-io/omarchy-mirror",
+      "name": "omarchy-mirror",
+      "url": "https://github.com/omacom-io/omarchy-mirror",
+      "description": "Dedicated mirror of Arch repositories for Omarchy hosted on Cloudflare R2.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/omacom-io/omarchy-site",
+      "name": "omarchy-site",
+      "url": "https://github.com/omacom-io/omarchy-site",
+      "description": "Official Omarchy website source code.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/pixincreate/configs",
+      "name": "pixincreate/configs",
+      "url": "https://github.com/pixincreate/configs",
+      "description": "Cross-platform dotfiles and setup scripts with Omarchy/Omaforge profiles.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/sheikhlimon/dotfiles",
+      "name": "sheikhlimon/dotfiles",
+      "url": "https://github.com/sheikhlimon/dotfiles",
+      "description": "Personal Omarchy dotfiles configuration.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/HANCORE-linux/omarchy-plugin-marketplace",
+      "name": "omarchy-plugin-marketplace",
+      "url": "https://github.com/HANCORE-linux/omarchy-plugin-marketplace",
+      "description": "Community registry of Omarchy Quattro plugins, published at omarchyplugins.com.",
+      "section": [
+        "Alternative Curated Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/Wheel-Smith/awesome-omarchy",
+      "name": "Wheel-Smith/awesome-omarchy",
+      "url": "https://github.com/Wheel-Smith/awesome-omarchy",
+      "description": "Alternative curated list of Omarchy resources with explicit focus on theme resources with screenshot previews.",
+      "section": [
+        "Alternative Curated Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/basecamp/omarchy/discussions",
+      "name": "GitHub Discussions",
+      "url": "https://github.com/basecamp/omarchy/discussions",
+      "description": "Official community discussions and support.",
+      "section": [
+        "Community Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/basecamp/omarchy/issues",
+      "name": "GitHub Issues",
+      "url": "https://github.com/basecamp/omarchy/issues",
+      "description": "Bug reports and feature requests.",
+      "section": [
+        "Community Resources"
+      ]
+    },
+    {
+      "key": "https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html",
+      "name": "Omarchy on 11 inch MacBook Air",
+      "url": "https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html",
+      "description": "Technical guide for installing Omarchy on a 2014 MacBook Air with WiFi configuration.",
+      "section": [
+        "Community Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/basecamp/omarchy/discussions/642",
+      "name": "Omarchy on Raspberry Pi 5",
+      "url": "https://github.com/basecamp/omarchy/discussions/642",
+      "description": "Community discussion on running Omarchy on Raspberry Pi 5.",
+      "section": [
+        "Community Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/topics/omarchy-theme",
+      "name": "omarchy-theme Topic",
+      "url": "https://github.com/topics/omarchy-theme",
+      "description": "Browse all repositories tagged with omarchy-theme.",
+      "section": [
+        "Community Resources"
+      ]
+    },
+    {
+      "key": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
+      "name": "All-in on Omarchy at 37signals",
+      "url": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
+      "description": "DHH's announcement about 37signals adopting Omarchy company-wide.",
+      "section": [
+        "Articles and Tutorials"
+      ]
+    },
+    {
+      "key": "https://dennisokeeffe.com/blog/2025-07-17-configuring-arch-linux-omarchy-via-mac",
+      "name": "Configuring Omarchy on Beelink",
+      "url": "https://www.dennisokeeffe.com/blog/2025-07-17-configuring-arch-linux-omarchy-via-mac",
+      "description": "Configuration guide for Beelink mini PCs.",
+      "section": [
+        "Articles and Tutorials"
+      ]
+    },
+    {
+      "key": "https://ifixit.com/Guide/Installing+Omarchy+on+Arch/190367",
+      "name": "Installing Omarchy on Arch - iFixit Repair Guide",
+      "url": "https://www.ifixit.com/Guide/Installing+Omarchy+on+Arch/190367",
+      "description": "Step-by-step installation guide on iFixit.",
+      "section": [
+        "Articles and Tutorials"
+      ]
+    },
+    {
+      "key": "https://deepakness.com/raw/installing-arch-omarchy-on-mac",
+      "name": "Installing Omarchy via Arch Linux on macOS",
+      "url": "https://deepakness.com/raw/installing-arch-omarchy-on-mac/",
+      "description": "Guide for installing on Mac hardware.",
+      "section": [
+        "Articles and Tutorials"
+      ]
+    },
+    {
+      "key": "https://ssp.sh/blog/macbook-to-arch-linux-omarchy",
+      "name": "My Journey from macOS to Arch Linux with Omarchy",
+      "url": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
+      "description": "Sean Abrahams' detailed experience switching from a MacBook Pro to Linux with Omarchy.",
+      "section": [
+        "Articles and Tutorials"
+      ]
+    },
+    {
+      "key": "https://sudomarchy.com",
+      "name": "Sudomarchy",
+      "url": "https://sudomarchy.com",
+      "description": "PO Martel's blog offering Omarchy & Hyprland tips and tweaks.",
+      "section": [
+        "Articles and Tutorials"
+      ]
+    },
+    {
+      "key": "https://news.itsfoss.com/omarchy",
+      "name": "This One Command Turned My Arch Install Into a Beautiful Hyprland Setup",
+      "url": "https://news.itsfoss.com/omarchy/",
+      "description": "It's FOSS review of Omarchy installation and features.",
+      "section": [
+        "Articles and Tutorials"
+      ]
+    },
+    {
+      "key": "https://medium.com/@prathamgundikere/why-i-switched-to-omarchy-and-why-you-might-too-617d84ac63ce",
+      "name": "Why I Switched to Omarchy (and Why You Might Too)",
+      "url": "https://medium.com/@prathamgundikere/why-i-switched-to-omarchy-and-why-you-might-too-617d84ac63ce",
+      "description": "Medium article about discovering and adopting Omarchy.",
+      "section": [
+        "Articles and Tutorials"
       ]
     },
     {
@@ -143,6 +1079,24 @@
       "name": "aetheria",
       "url": "https://github.com/JJDizz1L/aetheria",
       "description": "Ethereal and modern theme with balanced aesthetics.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/dracula/omarchy",
+      "name": "dracula/omarchy",
+      "url": "https://github.com/dracula/omarchy",
+      "description": "Official Dracula theme for Omarchy.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/999Gabriel/F1-omarchy",
+      "name": "F1-omarchy",
+      "url": "https://github.com/999Gabriel/F1-omarchy",
+      "description": "Formula 1 inspired Omarchy layout with racing telemetry flair.",
       "section": [
         "Themes"
       ]
@@ -157,10 +1111,10 @@
       ]
     },
     {
-      "key": "https://github.com/grierson/omarchy-alabaster-theme",
-      "name": "omarchy-alabaster-theme",
-      "url": "https://github.com/grierson/omarchy-alabaster-theme",
-      "description": "Alabaster theme with clean, minimalist design.",
+      "key": "https://github.com/rblalock/omarchy-agentuity.theme",
+      "name": "omarchy-agentuity.theme",
+      "url": "https://github.com/rblalock/omarchy-agentuity.theme",
+      "description": "Agentuity-inspired theme with professional color palette.",
       "section": [
         "Themes"
       ]
@@ -170,15 +1124,6 @@
       "name": "omarchy-akane-theme",
       "url": "https://github.com/Grenish/omarchy-akane-theme",
       "description": "Akane theme with Japanese-inspired colors.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/rblalock/omarchy-agentuity.theme",
-      "name": "omarchy-agentuity.theme",
-      "url": "https://github.com/rblalock/omarchy-agentuity.theme",
-      "description": "Agentuity-inspired theme with professional color palette.",
       "section": [
         "Themes"
       ]
@@ -197,6 +1142,33 @@
       "name": "omarchy-amberbyte-theme",
       "url": "https://github.com/tahfizhabib/omarchy-amberbyte-theme",
       "description": "Modern, animated, and minimal theme with amber accents.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/j4v3l/omarchy-anonymous-theme",
+      "name": "omarchy-anonymous-theme",
+      "url": "https://github.com/j4v3l/omarchy-anonymous-theme",
+      "description": "Minimalist monochrome modern theme.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/vale-c/omarchy-arc-blueberry",
+      "name": "omarchy-arc-blueberry",
+      "url": "https://github.com/vale-c/omarchy-arc-blueberry",
+      "description": "Arc Blueberry inspired colors tailored for Omarchy.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/CyphrRiot/omarchy-archriot-theme",
+      "name": "omarchy-archriot-theme",
+      "url": "https://github.com/CyphrRiot/omarchy-archriot-theme",
+      "description": "ArchRiot theme for Omarchy by CyphrRiot.",
       "section": [
         "Themes"
       ]
@@ -229,6 +1201,15 @@
       ]
     },
     {
+      "key": "https://github.com/fdidron/omarchy-ayu-dark-theme",
+      "name": "omarchy-ayu-dark-theme",
+      "url": "https://github.com/fdidron/omarchy-ayu-dark-theme",
+      "description": "Ayu Dark color scheme adaptation.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
       "key": "https://github.com/fdidron/omarchy-ayumirage",
       "name": "omarchy-ayu-mirage-theme",
       "url": "https://github.com/fdidron/omarchy-ayumirage",
@@ -247,19 +1228,19 @@
       ]
     },
     {
-      "key": "https://github.com/somerocketeer/omarchy-bauhaus-theme",
-      "name": "omarchy-bauhaus-theme",
-      "url": "https://github.com/somerocketeer/omarchy-bauhaus-theme",
-      "description": "Minimalist theme inspired by Bauhaus design principles.",
+      "key": "https://github.com/HANCORE-linux/omarchy-batou-theme",
+      "name": "omarchy-batou-theme",
+      "url": "https://github.com/HANCORE-linux/omarchy-batou-theme",
+      "description": "Moody theme inspired by Batou's car and iconic opening scene aesthetics.",
       "section": [
         "Themes"
       ]
     },
     {
-      "key": "https://github.com/HANCORE-linux/omarchy-batou-theme",
-      "name": "omarchy-batou-theme",
-      "url": "https://github.com/HANCORE-linux/omarchy-batou-theme",
-      "description": "Moody theme inspired by Batou's car and iconic opening scene aesthetics.",
+      "key": "https://github.com/somerocketeer/omarchy-bauhaus-theme",
+      "name": "omarchy-bauhaus-theme",
+      "url": "https://github.com/somerocketeer/omarchy-bauhaus-theme",
+      "description": "Minimalist theme inspired by Bauhaus design principles.",
       "section": [
         "Themes"
       ]
@@ -301,10 +1282,10 @@
       ]
     },
     {
-      "key": "https://github.com/mattbbia/bulwer-omarchy",
-      "name": "omarchy-bulwer",
-      "url": "https://github.com/mattbbia/bulwer-omarchy",
-      "description": "A light Omarchy theme inspired by the paintings of James Bulwer.",
+      "key": "https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme",
+      "name": "omarchy-catppuccin-mocha-theme",
+      "url": "https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme",
+      "description": "Catppuccin Mocha theme for Omarchy.",
       "section": [
         "Themes"
       ]
@@ -328,6 +1309,15 @@
       ]
     },
     {
+      "key": "https://github.com/jbnunn/omarchy-delorean-theme",
+      "name": "omarchy-delorean-theme",
+      "url": "https://github.com/jbnunn/omarchy-delorean-theme",
+      "description": "Retro-inspired time traveler's theme.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
       "key": "https://github.com/AX200M/omarchy-doom-theme",
       "name": "omarchy-doom-theme",
       "url": "https://github.com/AX200M/omarchy-doom-theme",
@@ -341,24 +1331,6 @@
       "name": "omarchy-dracula-theme",
       "url": "https://github.com/catlee/omarchy-dracula-theme",
       "description": "Popular Dracula theme adaptation.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/jbnunn/omarchy-delorean-theme",
-      "name": "omarchy-delorean-theme",
-      "url": "https://github.com/jbnunn/omarchy-delorean-theme",
-      "description": "Retro-inspired time traveler's theme.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/Hydradevx/omarchy-ember-n-ash-theme",
-      "name": "omarchy-ember-n-ash-theme",
-      "url": "https://github.com/Hydradevx/omarchy-ember-n-ash-theme",
-      "description": "Warm ember orange and ash gray color combination.",
       "section": [
         "Themes"
       ]
@@ -400,10 +1372,28 @@
       ]
     },
     {
-      "key": "https://github.com/bjarneo/omarchy-fiery-ocean-theme",
-      "name": "omarchy-fiery-ocean-theme",
-      "url": "https://github.com/bjarneo/omarchy-fiery-ocean-theme",
-      "description": "Fiery Ocean theme with vibrant aquatic colors.",
+      "key": "https://github.com/mattbbia/fire-and-shadow",
+      "name": "omarchy-fire-and-shadow-theme",
+      "url": "https://github.com/mattbbia/fire-and-shadow",
+      "description": "A moody, somber theme based on the paintings of Joseph Wright.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/bjarneo/omarchy-fireside-theme",
+      "name": "omarchy-fireside-theme",
+      "url": "https://github.com/bjarneo/omarchy-fireside-theme",
+      "description": "Warm, cozy theme inspired by the gentle glow of a crackling fire.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/bjarneo/omarchy-firesky-theme",
+      "name": "omarchy-firesky-theme",
+      "url": "https://github.com/bjarneo/omarchy-firesky-theme",
+      "description": "Fire-lit sky inspired theme for deep focus.",
       "section": [
         "Themes"
       ]
@@ -436,6 +1426,15 @@
       ]
     },
     {
+      "key": "https://github.com/bjarneo/omarchy-frost-theme",
+      "name": "omarchy-frost-theme",
+      "url": "https://github.com/bjarneo/omarchy-frost-theme",
+      "description": "Simple, elegant theme inspired by the serene beauty of frost patterns.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
       "key": "https://github.com/VECTORG99/omarchy-frutiger-aero",
       "name": "omarchy-frutiger-aero",
       "url": "https://github.com/VECTORG99/omarchy-frutiger-aero",
@@ -463,19 +1462,19 @@
       ]
     },
     {
-      "key": "https://github.com/bjarneo/omarchy-gtk-theme",
-      "name": "omarchy-gtk-theme",
-      "url": "https://github.com/bjarneo/omarchy-gtk-theme",
-      "description": "Universal GTK styling to match Omarchy across applications.",
+      "key": "https://github.com/kalk-ak/omarchy-green-garden-theme",
+      "name": "omarchy-green-garden-theme",
+      "url": "https://github.com/kalk-ak/omarchy-green-garden-theme",
+      "description": "Fresh and calming theme inspired by nature with vibrant yet soothing green tones.",
       "section": [
         "Themes"
       ]
     },
     {
-      "key": "https://github.com/kalk-ak/omarchy-green-garden-theme",
-      "name": "omarchy-green-garden-theme",
-      "url": "https://github.com/kalk-ak/omarchy-green-garden-theme",
-      "description": "Fresh and calming theme inspired by nature with vibrant yet soothing green tones.",
+      "key": "https://github.com/bjarneo/omarchy-gtk-theme",
+      "name": "omarchy-gtk-theme",
+      "url": "https://github.com/bjarneo/omarchy-gtk-theme",
+      "description": "Universal GTK styling to match Omarchy across applications.",
       "section": [
         "Themes"
       ]
@@ -494,24 +1493,6 @@
       "name": "omarchy-harbordark-theme",
       "url": "https://github.com/HANCORE-linux/omarchy-harbordark-theme",
       "description": "Dark version of Harbor theme with deep tones and cool accents.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/mattbbia/heritage-palette-omarchy",
-      "name": "omarchy-heritage-palette",
-      "url": "https://github.com/mattbbia/heritage-palette-omarchy",
-      "description": "A light Omarchy theme inspired by the paintings of Perkins Harnly.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-hollow-knight-theme",
-      "name": "omarchy-hollow-knight-theme",
-      "url": "https://github.com/bjarneo/omarchy-hollow-knight-theme",
-      "description": "Hollow Knight inspired theme with gaming aesthetics.",
       "section": [
         "Themes"
       ]
@@ -544,15 +1525,6 @@
       ]
     },
     {
-      "key": "https://github.com/mattbbia/lakes-and-light",
-      "name": "omarchy-lakes-and-light-theme",
-      "url": "https://github.com/mattbbia/lakes-and-light",
-      "description": "Based on the paintings of Joseph Wright with a subtle color palette theme.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
       "key": "https://github.com/steve-lohmeyer/omarchy-mars-theme",
       "name": "omarchy-mars-theme",
       "url": "https://github.com/steve-lohmeyer/omarchy-mars-theme",
@@ -562,19 +1534,19 @@
       ]
     },
     {
-      "key": "https://github.com/HANCORE-linux/omarchy-mechanoonna-theme",
-      "name": "omarchy-mechanoonna-theme",
-      "url": "https://github.com/HANCORE-linux/omarchy-mechanoonna-theme",
-      "description": "Mecha no Onna (メカの女) the \"Metal Woman\" theme.",
+      "key": "https://github.com/tahayvr/omarchy-matte-black",
+      "name": "omarchy-matte-black",
+      "url": "https://github.com/tahayvr/omarchy-matte-black",
+      "description": "Sleek matte black theme for minimalists.",
       "section": [
         "Themes"
       ]
     },
     {
-      "key": "https://github.com/tahayvr/omarchy-matte-black",
-      "name": "omarchy-matte-black",
-      "url": "https://github.com/tahayvr/omarchy-matte-black",
-      "description": "Sleek matte black theme for minimalists.",
+      "key": "https://github.com/HANCORE-linux/omarchy-mechanoonna-theme",
+      "name": "omarchy-mechanoonna-theme",
+      "url": "https://github.com/HANCORE-linux/omarchy-mechanoonna-theme",
+      "description": "Mecha no Onna (メカの女) the \"Metal Woman\" theme.",
       "section": [
         "Themes"
       ]
@@ -607,6 +1579,15 @@
       ]
     },
     {
+      "key": "https://github.com/bjarneo/omarchy-monokai-theme",
+      "name": "omarchy-monokai-theme",
+      "url": "https://github.com/bjarneo/omarchy-monokai-theme",
+      "description": "High-contrast Monokai Pro inspired variant.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
       "key": "https://github.com/HANCORE-linux/omarchy-moodpeak-theme",
       "name": "omarchy-moodpeak-theme",
       "url": "https://github.com/HANCORE-linux/omarchy-moodpeak-theme",
@@ -616,19 +1597,19 @@
       ]
     },
     {
-      "key": "https://github.com/bjarneo/omarchy-nes-theme",
-      "name": "omarchy-nes-theme",
-      "url": "https://github.com/bjarneo/omarchy-nes-theme",
-      "description": "Retro NES theme with nostalgic gaming aesthetics.",
+      "key": "https://github.com/somerocketeer/omarchy-nagai-twilight-theme",
+      "name": "omarchy-nagai-twilight-theme",
+      "url": "https://github.com/somerocketeer/omarchy-nagai-twilight-theme",
+      "description": "Twilight-inspired theme with elegant color transitions.",
       "section": [
         "Themes"
       ]
     },
     {
-      "key": "https://github.com/somerocketeer/omarchy-nagai-twilight-theme",
-      "name": "omarchy-nagai-twilight-theme",
-      "url": "https://github.com/somerocketeer/omarchy-nagai-twilight-theme",
-      "description": "Twilight-inspired theme with elegant color transitions.",
+      "key": "https://github.com/bjarneo/omarchy-nes-theme",
+      "name": "omarchy-nes-theme",
+      "url": "https://github.com/bjarneo/omarchy-nes-theme",
+      "description": "Retro NES theme with nostalgic gaming aesthetics.",
       "section": [
         "Themes"
       ]
@@ -661,28 +1642,19 @@
       ]
     },
     {
+      "key": "https://github.com/bjarneo/omarchy-pulsar-theme",
+      "name": "omarchy-pulsar-theme",
+      "url": "https://github.com/bjarneo/omarchy-pulsar-theme",
+      "description": "Vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
       "key": "https://github.com/dotsilva/omarchy-purplewave-theme",
       "name": "omarchy-purplewave-theme",
       "url": "https://github.com/dotsilva/omarchy-purplewave-theme",
       "description": "Purple wave-inspired theme with elegant purple tones.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/mattbbia/railroad-visions-omarchy",
-      "name": "omarchy-railroad-visions",
-      "url": "https://github.com/mattbbia/railroad-visions-omarchy",
-      "description": "A dark Omarchy theme inspired by the early photography of Anthony J. Russell.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/rondilley/omarchy-retropc-theme",
-      "name": "omarchy-retropc-theme",
-      "url": "https://github.com/rondilley/omarchy-retropc-theme",
-      "description": "Nostalgic retro PC theme with vintage computing aesthetics.",
       "section": [
         "Themes"
       ]
@@ -697,10 +1669,46 @@
       ]
     },
     {
+      "key": "https://github.com/rondilley/omarchy-retropc-theme",
+      "name": "omarchy-retropc-theme",
+      "url": "https://github.com/rondilley/omarchy-retropc-theme",
+      "description": "Nostalgic retro PC theme with vintage computing aesthetics.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/guilhermetk/omarchy-rose-pine",
+      "name": "omarchy-rose-pine",
+      "url": "https://github.com/guilhermetk/omarchy-rose-pine",
+      "description": "Rose Pine theme for Omarchy.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
       "key": "https://github.com/guilhermetk/omarchy-rose-pine-dark",
       "name": "omarchy-rose-pine-dark",
       "url": "https://github.com/guilhermetk/omarchy-rose-pine-dark",
       "description": "Rose Pine inspired dark theme.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/bjarneo/omarchy-sakura-theme",
+      "name": "omarchy-sakura-theme",
+      "url": "https://github.com/bjarneo/omarchy-sakura-theme",
+      "description": "Elegant, high-contrast theme inspired by the delicate beauty of cherry blossoms.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/HANCORE-linux/omarchy-sapphire-theme",
+      "name": "omarchy-sapphire-theme",
+      "url": "https://github.com/HANCORE-linux/omarchy-sapphire-theme",
+      "description": "Vivid blue theme with rich accents.",
       "section": [
         "Themes"
       ]
@@ -778,15 +1786,6 @@
       ]
     },
     {
-      "key": "https://github.com/mattbbia/stills-in-motion-omarchy",
-      "name": "omarchy-stills-in-motion",
-      "url": "https://github.com/mattbbia/stills-in-motion-omarchy",
-      "description": "A dark Omarchy theme inspired by the photography of Eadweard Muybridge.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
       "key": "https://github.com/tahayvr/omarchy-sunset-drive-theme",
       "name": "omarchy-sunset-drive-theme",
       "url": "https://github.com/tahayvr/omarchy-sunset-drive-theme",
@@ -814,19 +1813,10 @@
       ]
     },
     {
-      "key": "https://github.com/perfektnacht/omarchy-velocity-theme",
-      "name": "omarchy-velocity-theme",
-      "url": "https://github.com/perfektnacht/omarchy-velocity-theme",
-      "description": "Dynamic theme with speed-inspired design elements.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/shoxjaxon-atabayev/omarchy-velora-theme",
-      "name": "Omarchy Velora",
-      "url": "https://github.com/shoxjaxon-atabayev/omarchy-velora-theme",
-      "description": "Dark frosted-glass theme with strong Hyprland blur and translucent surfaces.",
+      "key": "https://github.com/leonardobetti/omarchy-tycho",
+      "name": "omarchy-tycho",
+      "url": "https://github.com/leonardobetti/omarchy-tycho",
+      "description": "Minimalist pastel theme inspired by musician Tycho's aesthetics.",
       "section": [
         "Themes"
       ]
@@ -886,15 +1876,6 @@
       ]
     },
     {
-      "key": "https://github.com/HANCORE-linux/omarchy-whitegold-theme",
-      "name": "omarchy-whitegold-theme",
-      "url": "https://github.com/HANCORE-linux/omarchy-whitegold-theme",
-      "description": "Light and elegance intertwined with gold accents.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
       "key": "https://github.com/hipsterusername/omarchy-waveform-dark-theme",
       "name": "omarchy-waveform-dark-theme",
       "url": "https://github.com/hipsterusername/omarchy-waveform-dark-theme",
@@ -904,181 +1885,10 @@
       ]
     },
     {
-      "key": "https://github.com/rondilley/omarchy-motivator-theme",
-      "name": "omarchy-motivator-theme",
-      "url": "https://github.com/rondilley/omarchy-motivator-theme",
-      "description": "Theme for maximum motivation.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/CyphrRiot/omarchy-archriot-theme",
-      "name": "omarchy-archriot-theme",
-      "url": "https://github.com/CyphrRiot/omarchy-archriot-theme",
-      "description": "ArchRiot theme for Omarchy by CyphrRiot.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/vale-c/omarchy-arc-blueberry",
-      "name": "omarchy-arc-blueberry",
-      "url": "https://github.com/vale-c/omarchy-arc-blueberry",
-      "description": "Arc Blueberry inspired colors tailored for Omarchy.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/fdidron/omarchy-ayu-dark-theme",
-      "name": "omarchy-ayu-dark-theme",
-      "url": "https://github.com/fdidron/omarchy-ayu-dark-theme",
-      "description": "Ayu Dark color scheme adaptation.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/fdidron/omarchy-ayu-light-theme",
-      "name": "omarchy-ayu-light-theme",
-      "url": "https://github.com/fdidron/omarchy-ayu-light-theme",
-      "description": "Ayu Light color scheme adaptation.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/ryanyogan/omarchy-github-light-theme",
-      "name": "omarchy-github-light-theme",
-      "url": "https://github.com/ryanyogan/omarchy-github-light-theme",
-      "description": "GitHub Light theme adaptation.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/maxberggren/omarchy-night-owl-theme",
-      "name": "omarchy-night-owl-theme",
-      "url": "https://github.com/maxberggren/omarchy-night-owl-theme",
-      "description": "Dark blue night owl theme for Omarchy.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme",
-      "name": "omarchy-catppuccin-mocha-theme",
-      "url": "https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme",
-      "description": "Catppuccin Mocha theme for Omarchy.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/MrTrigger/omarchy-kanagawa-dragon-theme",
-      "name": "omarchy-kanagawa-dragon-theme",
-      "url": "https://github.com/MrTrigger/omarchy-kanagawa-dragon-theme",
-      "description": "Kanagawa Dragon theme adaptation.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/ericrswanny/omarchy-monokai-dark-theme",
-      "name": "omarchy-monokai-dark-theme",
-      "url": "https://github.com/ericrswanny/omarchy-monokai-dark-theme",
-      "description": "Monokai inspired dark theme.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-monokai-theme",
-      "name": "omarchy-monokai-theme",
-      "url": "https://github.com/bjarneo/omarchy-monokai-theme",
-      "description": "High-contrast Monokai Pro inspired variant.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/Hydradevx/omarchy-obsidian-theme",
-      "name": "omarchy-obsidian-theme",
-      "url": "https://github.com/Hydradevx/omarchy-obsidian-theme",
-      "description": "Obsidian-inspired dark theme.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/ryanyogan/omarchy-rose-pine-dawn-theme",
-      "name": "omarchy-rose-pine-dawn-theme",
-      "url": "https://github.com/ryanyogan/omarchy-rose-pine-dawn-theme",
-      "description": "Rose Pine Dawn light theme.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/guilhermetk/omarchy-rose-pine",
-      "name": "omarchy-rose-pine",
-      "url": "https://github.com/guilhermetk/omarchy-rose-pine",
-      "description": "Rose Pine theme for Omarchy.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/j4v3l/omarchy-anonymous-theme",
-      "name": "omarchy-anonymous-theme",
-      "url": "https://github.com/j4v3l/omarchy-anonymous-theme",
-      "description": "Minimalist monochrome modern theme.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/mattbbia/fire-and-shadow",
-      "name": "omarchy-fire-and-shadow-theme",
-      "url": "https://github.com/mattbbia/fire-and-shadow",
-      "description": "A moody, somber theme based on the paintings of Joseph Wright.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-firesky-theme",
-      "name": "omarchy-firesky-theme",
-      "url": "https://github.com/bjarneo/omarchy-firesky-theme",
-      "description": "Fire-lit sky inspired theme for deep focus.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-wood-theme",
-      "name": "omarchy-wood-theme",
-      "url": "https://github.com/bjarneo/omarchy-wood-theme",
-      "description": "Natural wood-inspired theme.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-pulsar-theme",
-      "name": "omarchy-pulsar-theme",
-      "url": "https://github.com/bjarneo/omarchy-pulsar-theme",
-      "description": "Vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-pina-theme",
-      "name": "omarchy-pina-theme",
-      "url": "https://github.com/bjarneo/omarchy-pina-theme",
-      "description": "Tropical pineapple-inspired palette with warm accents.",
+      "key": "https://github.com/HANCORE-linux/omarchy-whitegold-theme",
+      "name": "omarchy-whitegold-theme",
+      "url": "https://github.com/HANCORE-linux/omarchy-whitegold-theme",
+      "description": "Light and elegance intertwined with gold accents.",
       "section": [
         "Themes"
       ]
@@ -1090,825 +1900,6 @@
       "description": "Bold pink-themed design.",
       "section": [
         "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-reverie-theme",
-      "name": "omarchy-reverie-theme",
-      "url": "https://github.com/bjarneo/omarchy-reverie-theme",
-      "description": "Simple, elegant, dark theme for Omarchy designed for deep focus.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-sakura-theme",
-      "name": "omarchy-sakura-theme",
-      "url": "https://github.com/bjarneo/omarchy-sakura-theme",
-      "description": "Elegant, high-contrast theme inspired by the delicate beauty of cherry blossoms.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/HANCORE-linux/omarchy-sapphire-theme",
-      "name": "omarchy-sapphire-theme",
-      "url": "https://github.com/HANCORE-linux/omarchy-sapphire-theme",
-      "description": "Vivid blue theme with rich accents.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-fireside-theme",
-      "name": "omarchy-fireside-theme",
-      "url": "https://github.com/bjarneo/omarchy-fireside-theme",
-      "description": "Warm, cozy theme inspired by the gentle glow of a crackling fire.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/omarchy-frost-theme",
-      "name": "omarchy-frost-theme",
-      "url": "https://github.com/bjarneo/omarchy-frost-theme",
-      "description": "Simple, elegant theme inspired by the serene beauty of frost patterns.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/daurydicaprio/omarchy-pure-latin-theme",
-      "name": "omarchy-pure-latin-theme",
-      "url": "https://github.com/daurydicaprio/omarchy-pure-latin-theme",
-      "description": "Custom theme for Omarchy Linux.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/leonardobetti/omarchy-tycho",
-      "name": "omarchy-tycho",
-      "url": "https://github.com/leonardobetti/omarchy-tycho",
-      "description": "Minimalist pastel theme inspired by musician Tycho's aesthetics.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/scar45/omarchy-c64-theme",
-      "name": "omarchy-c64-theme",
-      "url": "https://github.com/scar45/omarchy-c64-theme",
-      "description": "C64-inspired retro theme for Omarchy.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/999Gabriel/F1-omarchy",
-      "name": "F1-omarchy",
-      "url": "https://github.com/999Gabriel/F1-omarchy",
-      "description": "Formula 1 inspired Omarchy layout with racing telemetry flair.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/dracula/omarchy",
-      "name": "dracula/omarchy",
-      "url": "https://github.com/dracula/omarchy",
-      "description": "Official Dracula theme for Omarchy.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/aorumbayev/awesome-omarchy-tui",
-      "name": "awesome-omarchy-tui",
-      "url": "https://github.com/aorumbayev/awesome-omarchy-tui",
-      "description": "Terminal UI for browsing awesome-omarchy repository content.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/rhemvi/omaclip",
-      "name": "omaclip",
-      "url": "https://github.com/rhemvi/omaclip",
-      "description": "A clipboard manager with cross-device sync and hot theme reloading.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/AccursedGalaxy/omarchy-auto-theme",
-      "name": "omarchy-auto-theme",
-      "url": "https://github.com/AccursedGalaxy/omarchy-auto-theme",
-      "description": "Wallpaper-based dynamic theming: matugen renders a Material You palette into a native Omarchy theme on every wallpaper change.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/mitkox/omarchy-ai",
-      "name": "omarchy-ai",
-      "url": "https://github.com/mitkox/omarchy-ai",
-      "description": "AI-powered enhancements and tools for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/omacom-io/omarchy-iso",
-      "name": "omarchy-iso",
-      "url": "https://github.com/omacom-io/omarchy-iso",
-      "description": "Custom ISO builder for Omarchy installations.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/dylanbr/omarchy-box",
-      "name": "omarchy-box",
-      "url": "https://github.com/dylanbr/omarchy-box",
-      "description": "Containerized Omarchy environment.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/omacom-io/omarchy-chromium",
-      "name": "omarchy-chromium",
-      "url": "https://github.com/omacom-io/omarchy-chromium",
-      "description": "Chromium browser integration and optimizations for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/omacom-io/omarchy-configurator",
-      "name": "omarchy-configurator",
-      "url": "https://github.com/omacom-io/omarchy-configurator",
-      "description": "Configuration management tool for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/omacom-io/omarchy-installer",
-      "name": "omarchy-installer",
-      "url": "https://github.com/omacom-io/omarchy-installer",
-      "description": "Enhanced installation utilities and scripts for Omarchy setup.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/hipsterusername/omarchy-themes-generator",
-      "name": "omarchy-themes-generator",
-      "url": "https://github.com/hipsterusername/omarchy-themes-generator",
-      "description": "Tool for generating custom Omarchy themes.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/maxberggren/omarchy-theme-generator",
-      "name": "omarchy-theme-generator",
-      "url": "https://github.com/maxberggren/omarchy-theme-generator",
-      "description": "Alternative theme generation utility.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/aether",
-      "name": "aether",
-      "url": "https://github.com/bjarneo/aether",
-      "description": "Desktop theming toolkit that streamlines crafting Omarchy themes.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/bjarneo/tema",
-      "name": "tema",
-      "url": "https://github.com/bjarneo/tema",
-      "description": "Modern Omarchy theming UI with live previews and presets.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/joaofelipegalvao/omarchy-tmux",
-      "name": "omarchy-tmux",
-      "url": "https://github.com/joaofelipegalvao/omarchy-tmux",
-      "description": "Tmux status bar themes styled to match Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/CyphrRiot/Migrate",
-      "name": "omarchy-migrate",
-      "url": "https://github.com/CyphrRiot/Migrate",
-      "description": "Stunningly beautiful terminal backup and restore tool written in Pure Go.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/HectorBjernersjo/Neovim-theme-switcher",
-      "name": "Neovim-theme-switcher",
-      "url": "https://github.com/HectorBjernersjo/Neovim-theme-switcher",
-      "description": "Lightweight theme switcher for Neovim compatible with Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/thatmechguy/omarchy-material-waybar",
-      "name": "omarchy-material-waybar",
-      "url": "https://github.com/thatmechguy/omarchy-material-waybar",
-      "description": "Material design style Waybar configuration for Hyprland.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/ryanyogan/omarchy-monitor-settings",
-      "name": "omarchy-monitor-settings",
-      "url": "https://github.com/ryanyogan/omarchy-monitor-settings",
-      "description": "Omarchy Monitor Settings TUI.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/Firstp1ck/Pacsea",
-      "name": "Pacsea",
-      "url": "https://github.com/Firstp1ck/Pacsea",
-      "description": "Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/timmo001/omarchy-waybar",
-      "name": "omarchy-waybar",
-      "url": "https://github.com/timmo001/omarchy-waybar",
-      "description": "Omarchy Waybar configuration and customizations.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/HANCORE-linux/waybar-themes",
-      "name": "waybar-themes",
-      "url": "https://github.com/HANCORE-linux/waybar-themes",
-      "description": "Collection of Waybar themes with various styles and combinations for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/timmo001/omarchy-hypr",
-      "name": "omarchy-hypr",
-      "url": "https://github.com/timmo001/omarchy-hypr",
-      "description": "Omarchy Hyprland configuration files and settings.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/hjanuschka/OMARCHY-VM-UTM",
-      "name": "OMARCHY-VM-UTM",
-      "url": "https://github.com/hjanuschka/OMARCHY-VM-UTM",
-      "description": "Pre-configured Arch Linux virtual machine for UTM.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/jonashan/omarchy-workspace-mover",
-      "name": "omarchy-workspace-mover",
-      "url": "https://github.com/jonashan/omarchy-workspace-mover",
-      "description": "An Omarchy plugin for moving workspaces between monitors.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle",
-      "name": "omarchy-wireguard-vpn-toggle",
-      "url": "https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle",
-      "description": "WireGuard VPN toggle for Omarchy's Waybar.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/limehawk/omarchy-vpn",
-      "name": "omarchy-vpn",
-      "url": "https://github.com/limehawk/omarchy-vpn",
-      "description": "WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/APS6/omazed",
-      "name": "omazed",
-      "url": "https://github.com/APS6/omazed",
-      "description": "Live theme switching for Zed editor in Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/aloisdeniel/flutter_omarchy",
-      "name": "flutter_omarchy",
-      "url": "https://github.com/aloisdeniel/flutter_omarchy",
-      "description": "Develop Flutter apps for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/omacom-io/omarchy-pkgs",
-      "name": "omarchy-pkgs",
-      "url": "https://github.com/omacom-io/omarchy-pkgs",
-      "description": "Official Omarchy packages and utilities.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/acrogenesis/omarchy-cheat-sheet",
-      "name": "omarchy-cheat-sheet",
-      "url": "https://github.com/acrogenesis/omarchy-cheat-sheet",
-      "description": "Quick reference guide for Omarchy commands and shortcuts.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/gitcoder89431/omarchy-theme-builder",
-      "name": "omarchy-theme-builder",
-      "url": "https://github.com/gitcoder89431/omarchy-theme-builder",
-      "description": "Interactive, real-time theme builder for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/jg-k/omarchy-theme-builder",
-      "name": "omarchy-theme-builder",
-      "url": "https://github.com/jg-k/omarchy-theme-builder",
-      "description": "Advanced theme building tool for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/2disbetter/FW12Rotate",
-      "name": "FW12Rotate",
-      "url": "https://github.com/2disbetter/FW12Rotate",
-      "description": "Framework 12 rotation application specifically for Omarchy Linux.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/JaimeStill/omarchy-theme-generator",
-      "name": "JaimeStill/omarchy-theme-generator",
-      "url": "https://github.com/JaimeStill/omarchy-theme-generator",
-      "description": "Generate Omarchy themes based on images.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/tahayvr/omarchist",
-      "name": "omarchist",
-      "url": "https://github.com/tahayvr/omarchist",
-      "description": "GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/nemuiyarou/omarchy-enhanced-bindings",
-      "name": "omarchy-enhanced-bindings",
-      "url": "https://github.com/nemuiyarou/omarchy-enhanced-bindings",
-      "description": "Enhanced keyboard bindings for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar",
-      "name": "Adsovetzky-Omarchy-s-Waybar",
-      "url": "https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar",
-      "description": "Custom Waybar configurations for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/amanat361/omarchy-gui",
-      "name": "omarchy-gui",
-      "url": "https://github.com/amanat361/omarchy-gui",
-      "description": "GUI tools for Omarchy configuration.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/erans/hyprmon",
-      "name": "hyprmon",
-      "url": "https://github.com/erans/hyprmon",
-      "description": "TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/devmobasa/hyprmarker",
-      "name": "hyprmarker",
-      "url": "https://github.com/devmobasa/hyprmarker",
-      "description": "ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/t4t5/hypruler",
-      "name": "hypruler",
-      "url": "https://github.com/t4t5/hypruler",
-      "description": "Measure anything on your screen. Inspired by PixelSnap for Mac.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/maxart/omarchy-cleaner",
-      "name": "omarchy-cleaner",
-      "url": "https://github.com/maxart/omarchy-cleaner",
-      "description": "Quickly and easily remove pre-installed apps and webapps.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/Grenish/clipboard-manager",
-      "name": "clipboard-manager",
-      "url": "https://github.com/Grenish/clipboard-manager",
-      "description": "Windows-like clipboard manager for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/mirarr-app/editt",
-      "name": "edit",
-      "url": "https://github.com/mirarr-app/editt",
-      "description": "Beautiful image viewer and editor with Omarchy styling support.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/michabbb/omarchy-speech-to-text",
-      "name": "omarchy-speech-to-text",
-      "url": "https://github.com/michabbb/omarchy-speech-to-text",
-      "description": "Whisper-backed speech-to-text integrations for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/cephalization/omarchy-steam-gaming-mode",
-      "name": "omarchy-steam-gaming-mode",
-      "url": "https://github.com/cephalization/omarchy-steam-gaming-mode",
-      "description": "Steam Deck-like gaming experience for Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux",
-      "name": "live-wallpaper-for-omarchy-linux",
-      "url": "https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux",
-      "description": "A robust script to manage and cycle through live video wallpapers on Omarchy/Hyprland.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/aloisdeniel/omarchy_calculator",
-      "name": "omarchy-calculator",
-      "url": "https://github.com/aloisdeniel/omarchy_calculator",
-      "description": "Official Omarchy calculator application built with Flutter.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/daurydicaprio/manual-nas-backup-tool",
-      "name": "manual-nas-backup-tool",
-      "url": "https://github.com/daurydicaprio/manual-nas-backup-tool",
-      "description": "A simple script to make incremental copies, encrypted or not.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/daurydicaprio/omarchy-monitor-toggle",
-      "name": "omarchy-monitor-toggle",
-      "url": "https://github.com/daurydicaprio/omarchy-monitor-toggle",
-      "description": "Tools for automating monitor power management within Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/magudb/hyprBluetooth",
-      "name": "hyprBluetooth",
-      "url": "https://github.com/magudb/hyprBluetooth",
-      "description": "Bluetoothctl-powered TUI for quickly pairing devices on Omarchy.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/tomycostantino/omarchpods",
-      "name": "omarchpods",
-      "url": "https://github.com/tomycostantino/omarchpods",
-      "description": "TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/devmobasa/wayscriber",
-      "name": "wayscriber",
-      "url": "https://github.com/devmobasa/wayscriber",
-      "description": "Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/blank-query/lazyVPN-for-Omarchy",
-      "name": "lazyVPN-for-Omarchy",
-      "url": "https://github.com/blank-query/lazyVPN-for-Omarchy",
-      "description": "A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/achevalier-dev/omarchy-nook",
-      "name": "omarchy-nook",
-      "url": "https://github.com/achevalier-dev/omarchy-nook",
-      "description": "Bar widget and menu for a home server on your tailnet, showing whether it answers, how it is doing, and what it is running.",
-      "section": [
-        "Development Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/j5onrf/dots",
-      "name": "j5onrf/dots",
-      "url": "https://github.com/j5onrf/dots",
-      "description": "Hyprland dotfiles with Waybar and ML4W inspired by Omarchy aesthetics.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/CyphrRiot/ArchRiot",
-      "name": "CyphrRiot/ArchRiot",
-      "url": "https://github.com/CyphrRiot/ArchRiot",
-      "description": "A curated Arch Linux experience inspired by Omarchy's philosophy.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/dougburks/ohmydebn",
-      "name": "dougburks/ohmydebn",
-      "url": "https://github.com/dougburks/ohmydebn",
-      "description": "A debonair Debian + Cinnamon setup inspired by Omarchy.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/alibaghernejad/waybar-privacy-dots",
-      "name": "alibaghernejad/waybar-privacy-dots",
-      "url": "https://github.com/alibaghernejad/waybar-privacy-dots",
-      "description": "Privacy-first module for your Waybar status bar.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/omacom-io/omarchy-site",
-      "name": "omarchy-site",
-      "url": "https://github.com/omacom-io/omarchy-site",
-      "description": "Official Omarchy website source code.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/omacom-io/omarchy-mirror",
-      "name": "omarchy-mirror",
-      "url": "https://github.com/omacom-io/omarchy-mirror",
-      "description": "Dedicated mirror of Arch repositories for Omarchy hosted on Cloudflare R2.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/marcelohmdias/dotfiles",
-      "name": "marcelohmdias/dotfiles",
-      "url": "https://github.com/marcelohmdias/dotfiles",
-      "description": "Personal dotfiles and post-install setup based on Omarchy.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/pixincreate/configs",
-      "name": "pixincreate/configs",
-      "url": "https://github.com/pixincreate/configs",
-      "description": "Cross-platform dotfiles and setup scripts with Omarchy/Omaforge profiles.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/jehrhardt/dotfiles",
-      "name": "jehrhardt/dotfiles",
-      "url": "https://github.com/jehrhardt/dotfiles",
-      "description": "Dotfiles based on Omarchy.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/sheikhlimon/dotfiles",
-      "name": "sheikhlimon/dotfiles",
-      "url": "https://github.com/sheikhlimon/dotfiles",
-      "description": "Personal Omarchy dotfiles configuration.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/donotfeedthevirus/dotfiles",
-      "name": "donotfeedthevirus/dotfiles",
-      "url": "https://github.com/donotfeedthevirus/dotfiles",
-      "description": "Curated Omarchy dotfiles for Hyprland, Kitty, Neovim, and Tmux.",
-      "section": [
-        "Related Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/Wheel-Smith/awesome-omarchy",
-      "name": "Wheel-Smith/awesome-omarchy",
-      "url": "https://github.com/Wheel-Smith/awesome-omarchy",
-      "description": "Alternative curated list of Omarchy resources with explicit focus on theme resources with screenshot previews.",
-      "section": [
-        "Alternative Curated Lists"
-      ]
-    },
-    {
-      "key": "https://github.com/Alexx2/omarchy-themes",
-      "name": "Alexx2/omarchy-themes",
-      "url": "https://github.com/Alexx2/omarchy-themes",
-      "description": "Personal collection of Omarchy themes.",
-      "section": [
-        "Alternative Curated Lists"
-      ]
-    },
-    {
-      "key": "https://github.com/basecamp/omarchy/discussions",
-      "name": "GitHub Discussions",
-      "url": "https://github.com/basecamp/omarchy/discussions",
-      "description": "Official community discussions and support.",
-      "section": [
-        "Community Resources"
-      ]
-    },
-    {
-      "key": "https://github.com/basecamp/omarchy/discussions/642",
-      "name": "Omarchy on Raspberry Pi 5",
-      "url": "https://github.com/basecamp/omarchy/discussions/642",
-      "description": "Community discussion on running Omarchy on Raspberry Pi 5.",
-      "section": [
-        "Community Resources"
-      ]
-    },
-    {
-      "key": "https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html",
-      "name": "Omarchy on 11 inch MacBook Air",
-      "url": "https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html",
-      "description": "Technical guide for installing Omarchy on a 2014 MacBook Air with WiFi configuration.",
-      "section": [
-        "Community Resources"
-      ]
-    },
-    {
-      "key": "https://github.com/basecamp/omarchy/issues",
-      "name": "GitHub Issues",
-      "url": "https://github.com/basecamp/omarchy/issues",
-      "description": "Bug reports and feature requests.",
-      "section": [
-        "Community Resources"
-      ]
-    },
-    {
-      "key": "https://github.com/topics/omarchy-theme",
-      "name": "omarchy-theme Topic",
-      "url": "https://github.com/topics/omarchy-theme",
-      "description": "Browse all repositories tagged with omarchy-theme.",
-      "section": [
-        "Community Resources"
-      ]
-    },
-    {
-      "key": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
-      "name": "All-in on Omarchy at 37signals",
-      "url": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
-      "description": "DHH's announcement about 37signals adopting Omarchy company-wide.",
-      "section": [
-        "Articles and Tutorials"
-      ]
-    },
-    {
-      "key": "https://ssp.sh/blog/macbook-to-arch-linux-omarchy",
-      "name": "My Journey from macOS to Arch Linux with Omarchy",
-      "url": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
-      "description": "Sean Abrahams' detailed experience switching from a MacBook Pro to Linux with Omarchy.",
-      "section": [
-        "Articles and Tutorials"
-      ]
-    },
-    {
-      "key": "https://medium.com/@prathamgundikere/why-i-switched-to-omarchy-and-why-you-might-too-617d84ac63ce",
-      "name": "Why I Switched to Omarchy (and Why You Might Too)",
-      "url": "https://medium.com/@prathamgundikere/why-i-switched-to-omarchy-and-why-you-might-too-617d84ac63ce",
-      "description": "Medium article about discovering and adopting Omarchy.",
-      "section": [
-        "Articles and Tutorials"
-      ]
-    },
-    {
-      "key": "https://news.itsfoss.com/omarchy",
-      "name": "This One Command Turned My Arch Install Into a Beautiful Hyprland Setup",
-      "url": "https://news.itsfoss.com/omarchy/",
-      "description": "It's FOSS review of Omarchy installation and features.",
-      "section": [
-        "Articles and Tutorials"
-      ]
-    },
-    {
-      "key": "https://ifixit.com/Guide/Installing+Omarchy+on+Arch/190367",
-      "name": "Installing Omarchy on Arch - iFixit Repair Guide",
-      "url": "https://www.ifixit.com/Guide/Installing+Omarchy+on+Arch/190367",
-      "description": "Step-by-step installation guide on iFixit.",
-      "section": [
-        "Articles and Tutorials"
-      ]
-    },
-    {
-      "key": "https://deepakness.com/raw/installing-arch-omarchy-on-mac",
-      "name": "Installing Omarchy via Arch Linux on macOS",
-      "url": "https://deepakness.com/raw/installing-arch-omarchy-on-mac/",
-      "description": "Guide for installing on Mac hardware.",
-      "section": [
-        "Articles and Tutorials"
-      ]
-    },
-    {
-      "key": "https://dennisokeeffe.com/blog/2025-07-17-configuring-arch-linux-omarchy-via-mac",
-      "name": "Configuring Omarchy on Beelink",
-      "url": "https://www.dennisokeeffe.com/blog/2025-07-17-configuring-arch-linux-omarchy-via-mac",
-      "description": "Configuration guide for Beelink mini PCs.",
-      "section": [
-        "Articles and Tutorials"
-      ]
-    },
-    {
-      "key": "https://sudomarchy.com",
-      "name": "Sudomarchy",
-      "url": "https://sudomarchy.com",
-      "description": "PO Martel's blog offering Omarchy & Hyprland tips and tweaks.",
-      "section": [
-        "Articles and Tutorials"
       ]
     }
   ]
