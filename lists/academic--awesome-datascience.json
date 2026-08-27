@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"06e71b4a3f0a6b0e8df2910ff71377fde40e8397e23b74aeef9b594247372d29\"",
+  "etag": "W/\"9da686ba90db17a0f2ae57d5924a02baed5d6100a045aece24b801d13a67d772\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1951,6 +1951,16 @@
       ]
     },
     {
+      "key": "https://github.com/initial-d/me_fasttext",
+      "name": "me_fasttext",
+      "url": "https://github.com/initial-d/me_fasttext",
+      "description": "Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.",
+      "section": [
+        "The Data Science Toolbox",
+        "General Machine Learning Packages"
+      ]
+    },
+    {
       "key": "https://github.com/pystruct/pystruct",
       "name": "pystruct",
       "url": "https://github.com/pystruct/pystruct",
@@ -3109,6 +3119,17 @@
       "name": "torchvista",
       "url": "https://github.com/sachinhosmani/torchvista",
       "description": "Interactive notebook-based tool to visualize the forward pass of any PyTorch model.",
+      "section": [
+        "The Data Science Toolbox",
+        "Deep Learning Packages",
+        "Visualization Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/flex-analytics/flexviz",
+      "name": "FlexViz",
+      "url": "https://github.com/flex-analytics/flexviz",
+      "description": "Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.",
       "section": [
         "The Data Science Toolbox",
         "Deep Learning Packages",

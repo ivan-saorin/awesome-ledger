@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2a3cd9d10418fb0377d9c3198dc63207676b07adaa3e4e2a016e6343c54c7ef1\"",
+  "etag": "W/\"8731117a2bc57b78d7fe1a8e488d59a7ddce99abfdd1cdcc83bcee3e1810ef83\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -159,6 +159,16 @@
       ]
     },
     {
+      "key": "https://github.com/shyringo/deepseek-v4-flash-0731-in-c",
+      "name": "deepseek-v4-flash-0731-in-c",
+      "url": "https://github.com/shyringo/deepseek-v4-flash-0731-in-c",
+      "description": "A native C CPU inference engine for running the 284B-A13B DeepSeek-V4-Flash-0731 on one laptop, reaching up to 1.12 token/s on tested hardware while streaming the 167 GB checkpoint from disk with a tested 8 GB memory path and no GPU or Python.",
+      "section": [
+        "C",
+        "General-Purpose Machine Learning"
+      ]
+    },
+    {
       "key": "https://github.com/liuliu/ccv",
       "name": "CCV",
       "url": "https://github.com/liuliu/ccv",
@@ -206,6 +216,16 @@
       "section": [
         "C",
         "Speech Recognition"
+      ]
+    },
+    {
+      "key": "https://github.com/cosmo-wander-ai/cosmo-edge",
+      "name": "CosmoEdge",
+      "url": "https://github.com/cosmo-wander-ai/cosmo-edge",
+      "description": "A C++ edge video AI engine for RTSP ingestion, CV/VLM inference, visual pipeline orchestration, alarms, and event delivery on Sophon and Rockchip NPUs.",
+      "section": [
+        "C++",
+        "Computer Vision"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"78b6feb0eae1b22bc2217ea78d99915223d4cbf0128076447ff54de34edcf7af\"",
+  "etag": "W/\"27e276c8c98601bde233d1a410ad870c9d7bb311307d033b3bca2c2639966e8c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -70,7 +70,7 @@
       "key": "https://github.com/agenticenv/agent-sdk-go",
       "name": "agent-sdk-go",
       "url": "https://github.com/agenticenv/agent-sdk-go",
-      "description": "Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.",
+      "description": "Framework for building stateful AI agents in Go.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -7909,6 +7909,15 @@
       ]
     },
     {
+      "key": "https://github.com/tigusigalpa/bybit-go",
+      "name": "bybit-go",
+      "url": "https://github.com/tigusigalpa/bybit-go",
+      "description": "Go client for Bybit V5 API with HMAC/RSA authentication, WebSocket streams, demo trading, and TradFi instruments.",
+      "section": [
+        "Financial"
+      ]
+    },
+    {
       "key": "https://github.com/wildsurfer/cnn-fear-and-greed-parse",
       "name": "cnn-fear-and-greed-parse",
       "url": "https://github.com/wildsurfer/cnn-fear-and-greed-parse",
@@ -8084,6 +8093,15 @@
       "name": "ofxgo",
       "url": "https://github.com/aclindsa/ofxgo",
       "description": "Query OFX servers and/or parse the responses (with example command-line client).",
+      "section": [
+        "Financial"
+      ]
+    },
+    {
+      "key": "https://github.com/tigusigalpa/okx-go",
+      "name": "okx-go",
+      "url": "https://github.com/tigusigalpa/okx-go",
+      "description": "Go client for OKX v5 API with 335 REST endpoints, 53 WebSocket channels, generics support and auto-reconnect.",
       "section": [
         "Financial"
       ]
@@ -19425,6 +19443,15 @@
       ]
     },
     {
+      "key": "https://github.com/tigusigalpa/coinglass-go",
+      "name": "coinglass-go",
+      "url": "https://github.com/tigusigalpa/coinglass-go",
+      "description": "Go client for Coinglass API v4 with zero dependencies, WebSocket streams, and typed endpoints for futures, spot, options, ETF, and indicators.",
+      "section": [
+        "Third-party APIs"
+      ]
+    },
+    {
       "key": "https://github.com/coinpaprika/coinpaprika-api-go-client",
       "name": "coinpaprika-go",
       "url": "https://github.com/coinpaprika/coinpaprika-api-go-client",
@@ -26023,6 +26050,16 @@
       "name": "Juju",
       "url": "https://jujucharms.com/",
       "description": "Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
+      "key": "https://github.com/KeibiSoft/KeibiDrop",
+      "name": "KeibiDrop",
+      "url": "https://github.com/KeibiSoft/KeibiDrop",
+      "description": "On-demand peer-to-peer filesystem that mounts a remote folder and hides link latency with read-ahead, end-to-end encrypted with hybrid X25519 and ML-KEM-1024.",
       "section": [
         "Software Packages",
         "Other Software"
