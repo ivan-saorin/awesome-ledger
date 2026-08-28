@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"27e276c8c98601bde233d1a410ad870c9d7bb311307d033b3bca2c2639966e8c\"",
+  "etag": "W/\"e037fc6c90e48524aafce8d7791a687c710fe19a88753aa4bb18b09508fe1e54\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1070,6 +1070,15 @@
       "name": "telebot",
       "url": "https://github.com/tucnak/telebot",
       "description": "Telegram bot framework is written in Go.",
+      "section": [
+        "Bot Building"
+      ]
+    },
+    {
+      "key": "https://github.com/kslamph/teleflow",
+      "name": "teleflow",
+      "url": "https://github.com/kslamph/teleflow",
+      "description": "Simple, type-safe Telegram bot framework with fluent flows and automatic state management.",
       "section": [
         "Bot Building"
       ]
@@ -7904,6 +7913,15 @@
       "name": "bbgo",
       "url": "https://github.com/c9s/bbgo",
       "description": "A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.",
+      "section": [
+        "Financial"
+      ]
+    },
+    {
+      "key": "https://github.com/tigusigalpa/bingx-go",
+      "name": "bingx-go",
+      "url": "https://github.com/tigusigalpa/bingx-go",
+      "description": "Go client for BingX API v3 with 260+ methods, USDT-M/Coin-M futures, spot, TradFi, WebSocket streams, and copy trading.",
       "section": [
         "Financial"
       ]

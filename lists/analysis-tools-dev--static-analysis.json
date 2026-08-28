@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"73d1ab0f8113664f20ea1b260b111d731eae6f9228647f035be5d08c4d3b0888\"",
+  "etag": "W/\"7175aec7ce5892c1bef7ba8363fe45d6d12a101355e8b252e60857b3fd806b9d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -814,15 +814,6 @@
       ]
     },
     {
-      "key": "https://github.com/gordonklaus/ineffassign",
-      "name": "ineffassign",
-      "url": "https://github.com/gordonklaus/ineffassign",
-      "description": "Detect ineffectual assignments in Go code.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/walle/lll",
       "name": "lll",
       "url": "https://github.com/walle/lll",
@@ -908,6 +899,15 @@
       "name": "test",
       "url": "https://pkg.go.dev/testing",
       "description": "Show location of test failures from the stdlib testing module.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/mdempsky/unconvert",
+      "name": "unconvert",
+      "url": "https://github.com/mdempsky/unconvert",
+      "description": "Detect redundant type conversions.",
       "section": [
         "Programming Languages"
       ]
@@ -1268,15 +1268,6 @@
       "name": "retire.js",
       "url": "https://retirejs.github.io/retire.js",
       "description": "Scanner detecting the use of JavaScript libraries with known vulnerabilities.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://standardjs.com",
-      "name": "standard",
-      "url": "http://standardjs.com",
-      "description": "An npm module that checks for Javascript Styleguide issues.",
       "section": [
         "Programming Languages"
       ]
@@ -1705,19 +1696,19 @@
       ]
     },
     {
-      "key": "https://github.com/designsecurity/progpilot",
-      "name": "Progpilot",
-      "url": "https://github.com/designsecurity/progpilot",
-      "description": "A static analysis tool for security purposes.",
+      "key": "https://psalm.dev",
+      "name": "Psalm",
+      "url": "https://psalm.dev",
+      "description": "Static analysis tool for finding type errors in PHP applications.",
       "section": [
         "Programming Languages"
       ]
     },
     {
-      "key": "https://psalm.dev",
-      "name": "Psalm",
-      "url": "https://psalm.dev",
-      "description": "Static analysis tool for finding type errors in PHP applications.",
+      "key": "https://github.com/Qafoo/QualityAnalyzer",
+      "name": "Qafoo Quality Analyzer",
+      "url": "https://github.com/Qafoo/QualityAnalyzer",
+      "description": "Visualizes metrics and source code.",
       "section": [
         "Programming Languages"
       ]
@@ -1961,6 +1952,15 @@
       "name": "mbake",
       "url": "https://pypi.org/project/mbake/",
       "description": "mbake is a Makefile formatter and linter. It only took 50 years!",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://pypi.org/project/mccabe",
+      "name": "mccabe",
+      "url": "https://pypi.org/project/mccabe",
+      "description": "Check McCabe complexity.",
       "section": [
         "Programming Languages"
       ]
@@ -2686,6 +2686,15 @@
       ]
     },
     {
+      "key": "https://bytebase.com",
+      "name": "Bytebase",
+      "url": "https://www.bytebase.com",
+      "description": "Database DevSecOps platform with a built-in SQL Review engine that lints schema migrations and queries against 100+ configurable rules — naming conventions, anti-patterns, and safety checks — across MySQL, PostgreSQL, Oracle, SQL Server, Snowflake, and more.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://github.com/channable/dbcritic",
       "name": "dbcritic",
       "url": "https://github.com/channable/dbcritic",
@@ -2713,15 +2722,6 @@
       ]
     },
     {
-      "key": "https://github.com/nrempel/sleek",
-      "name": "sleek",
-      "url": "https://github.com/nrempel/sleek",
-      "description": "Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://sqlfluff.com",
       "name": "SQLFluff",
       "url": "https://www.sqlfluff.com/",
@@ -2744,6 +2744,15 @@
       "name": "squawk",
       "url": "https://squawkhq.com",
       "description": "Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/tsqllint/tsqllint",
+      "name": "tsqllint",
+      "url": "https://github.com/tsqllint/tsqllint",
+      "description": "T-SQL-specific linter.",
       "section": [
         "Programming Languages"
       ]
@@ -3037,6 +3046,15 @@
       ]
     },
     {
+      "key": "https://ast-metrics.dev",
+      "name": "AST Metrics",
+      "url": "https://ast-metrics.dev",
+      "description": "Multi-language maintainability analyzer. Computes cyclomatic and cognitive complexity, Halstead volume, afferent/efferent coupling and maintainability index, detects communities in the dependency graph, and generates an explorable HTML report plus JSON, Markdown, SARIF and OpenMetrics output. Single fast binary with no runtime dependency, and a built-in MCP server so AI agents can query codebase structure before refactoring.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
       "key": "https://ast-grep.github.io",
       "name": "ast-grep",
       "url": "https://ast-grep.github.io/",
@@ -3235,15 +3253,6 @@
       ]
     },
     {
-      "key": "https://codemodder.io",
-      "name": "Codemodder",
-      "url": "https://codemodder.io/",
-      "description": "Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
       "key": "https://github.com/github/codeql",
       "name": "codeql",
       "url": "https://github.com/github/codeql",
@@ -3410,6 +3419,15 @@
       "name": "Embold",
       "url": "https://embold.io",
       "description": "copyright: — Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://github.com/glato/emerge",
+      "name": "emerge",
+      "url": "https://github.com/glato/emerge",
+      "description": "Emerge is a source code and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.",
       "section": [
         "Multiple languages"
       ]
@@ -3991,6 +4009,15 @@
       ]
     },
     {
+      "key": "https://github.com/github/super-linter",
+      "name": "Super-Linter",
+      "url": "https://github.com/github/super-linter",
+      "description": "Combination of multiple linters to install as a GitHub Action.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
       "key": "https://ispras.ru/en/technologies/svace",
       "name": "Svace",
       "url": "https://www.ispras.ru/en/technologies/svace/",
@@ -4094,6 +4121,15 @@
       "name": "Veracode",
       "url": "https://www.veracode.com/security/static-code-analysis",
       "description": "copyright: — Find flaws in binaries and bytecode without requiring source. Support all major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C, C++ and more.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://wakarujs.com",
+      "name": "Wakaru",
+      "url": "https://wakarujs.com",
+      "description": "JavaScript decompiler that turns bundled, minified, transpiled production code back into readable modules. Unpacks webpack, esbuild, Metro, Browserify, SystemJS, and AMD/UMD bundles, then reverses minifier artifacts and Babel/TypeScript/SWC helpers (async/await, classes, optional chaining, and more). Written in Rust; runs as a CLI or fully in-browser via WebAssembly.",
       "section": [
         "Multiple languages"
       ]
@@ -4621,6 +4657,15 @@
       ]
     },
     {
+      "key": "https://github.com/appvia/krane",
+      "name": "krane",
+      "url": "https://github.com/appvia/krane",
+      "description": "Krane is a simple Kubernetes RBAC static analysis tool. It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
       "key": "https://open-scap.org",
       "name": "OpenSCAP",
       "url": "https://www.open-scap.org/",
@@ -5026,6 +5071,15 @@
       ]
     },
     {
+      "key": "https://opensecurity.in",
+      "name": "njsscan",
+      "url": "https://opensecurity.in",
+      "description": "A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
       "key": "https://wiki.debian.org/Lintian",
       "name": "lintian",
       "url": "https://wiki.debian.org/Lintian",
@@ -5080,10 +5134,10 @@
       ]
     },
     {
-      "key": "https://github.com/SAP/credential-digger",
-      "name": "Credential Digger",
-      "url": "https://github.com/SAP/credential-digger",
-      "description": "Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc), and filtering the false positive data through a machine learning model called Password Model. This scanner is able to detect passwords and non structured tokens with a low false positive rate.",
+      "key": "https://huggingface.co/SAPOSS/password-model",
+      "name": "Password Model",
+      "url": "https://huggingface.co/SAPOSS/password-model",
+      "description": ". This scanner is able to detect passwords and non structured tokens with a low false positive rate.",
       "section": [
         "Other"
       ]
@@ -5102,6 +5156,15 @@
       "name": "Gitleaks",
       "url": "https://github.com/zricethezav/gitleaks",
       "description": "A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://gitguardian.com/hasmysecretleaked",
+      "name": "HasMySecretLeaked",
+      "url": "https://gitguardian.com/hasmysecretleaked",
+      "description": "copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their developer secrets have leaked on public repositories, gists, and issues on GitHub projects.",
       "section": [
         "Other"
       ]
@@ -5201,15 +5264,6 @@
       "name": "LibVCS4j",
       "url": "https://github.com/uni-bremen-agst/libvcs4j",
       "description": "A Java library that allows existing tools to analyse the evolution of software systems by providing a common API for different version control systems and issue trackers.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/ember-template-lint/ember-template-lint",
-      "name": "ember-template-lint",
-      "url": "https://github.com/ember-template-lint/ember-template-lint",
-      "description": "Linter for Ember or Handlebars templates.",
       "section": [
         "Other"
       ]

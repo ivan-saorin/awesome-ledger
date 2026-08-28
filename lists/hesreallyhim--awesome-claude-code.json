@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0341a01016c6d8519cc303a05f2f311a70b07180bcbd6304afebac5de01943ef\"",
+  "etag": "W/\"73334563a21ea3b6b2583d4923c6437161121a2fb1d921f8c1287dd13048898e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1086,6 +1086,15 @@
       "name": "CC Harness",
       "url": "https://github.com/lookfree/cc-harness",
       "description": "by lookfree - Desktop workbench that reads Claude Code session files locally and renders the subagent and workflow topology as a live graph, with per-node latency, token cost, and nesting depth. Token spend is broken down by source (base session, skills, subagents, MCP) and can be traced from a cost bucket to the exact message that produced it.",
+      "section": [
+        "Observability & Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/duqaXxX/seedeep",
+      "name": "seedeep",
+      "url": "https://github.com/duqaXxX/seedeep",
+      "description": "by duqaXxX - Reads the JSONL session logs Claude Code already writes and shows, live during a turn, what the session is doing: each model call and tool, the context window filling, every subagent on its own window and its own model, and the commits and files the session produced. Bun + TypeScript server serving a local browser GUI, with an optional Tauri menu-bar tray; single-file binaries per platform, read-only and local-only.",
       "section": [
         "Observability & Monitoring"
       ]

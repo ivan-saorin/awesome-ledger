@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1e2c341641b84de1b35dd4b8d5290f1245edc6a8da8eeeeb878ba217995fbea3\"",
+  "etag": "W/\"68fd473f3bdcf8750c73d8222339b210e01355a41d8d4889f3b002355c80beaa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -327,7 +327,7 @@
       "key": "https://archivebox.io",
       "name": "ArchiveBox",
       "url": "https://archivebox.io/",
-      "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). (Demo, Source Code) MIT Python/Docker",
+      "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). (Source Code) MIT Python/Docker",
       "section": [
         "Software",
         "Archiving and Digital Preservation (DP)"
@@ -628,16 +628,6 @@
       "name": "Healthchecks",
       "url": "https://healthchecks.io/",
       "description": "Listen for pings and sends alerts when pings are late. (Source Code) BSD-3-Clause Python/Docker",
-      "section": [
-        "Software",
-        "Automation"
-      ]
-    },
-    {
-      "key": "https://homebutler.dev",
-      "name": "HomeButler",
-      "url": "https://homebutler.dev",
-      "description": "Homelab management tool for monitoring hosts, Docker services, Wake-on-LAN, inventory, and remote operations, with a web dashboard and MCP integrations. (Source Code) MIT Docker/Go",
       "section": [
         "Software",
         "Automation"
@@ -1297,7 +1287,7 @@
       "key": "https://github.com/balzack/databag",
       "name": "Databag",
       "url": "https://github.com/balzack/databag",
-      "description": "Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. (Demo) Apache-2.0 Docker",
+      "description": "Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. Apache-2.0 Docker",
       "section": [
         "Software",
         "Communication - Custom Communication Systems"
@@ -1638,16 +1628,6 @@
       "name": "docker-mailserver",
       "url": "https://docker-mailserver.github.io/docker-mailserver/edge/",
       "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database. (Source Code) MIT Docker",
-      "section": [
-        "Software",
-        "Communication - Email - Complete Solutions"
-      ]
-    },
-    {
-      "key": "https://dovel.email",
-      "name": "Dovel",
-      "url": "https://dovel.email",
-      "description": "SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. (Source Code) LGPL-3.0 Go",
       "section": [
         "Software",
         "Communication - Email - Complete Solutions"
@@ -2034,10 +2014,10 @@
       ]
     },
     {
-      "key": "https://snappymail.eu",
+      "key": "https://github.com/the-djmaze/snappymail",
       "name": "SnappyMail",
-      "url": "https://snappymail.eu/",
-      "description": "Simple, modern, lightweight & fast web-based email client (fork of RainLoop). (Demo, Source Code, Clients) AGPL-3.0 PHP",
+      "url": "https://github.com/the-djmaze/snappymail",
+      "description": "Simple, modern, lightweight & fast web-based email client (fork of RainLoop). AGPL-3.0 PHP",
       "section": [
         "Software",
         "Communication - Email - Webmail Clients"
@@ -5664,9 +5644,9 @@
       ]
     },
     {
-      "key": "https://geneweb.tuxfamily.org/wiki/GeneWeb",
+      "key": "https://github.com/geneweb/geneweb/wiki",
       "name": "GeneWeb",
-      "url": "https://geneweb.tuxfamily.org/wiki/GeneWeb",
+      "url": "https://github.com/geneweb/geneweb/wiki",
       "description": "Genealogy software that can be used offline or as a Web service. (Source Code) GPL-2.0 OCaml",
       "section": [
         "Software",
@@ -6944,6 +6924,16 @@
       ]
     },
     {
+      "key": "https://ratelog.org",
+      "name": "Ratelog",
+      "url": "https://ratelog.org",
+      "description": "Movie tracker and rating app (alternative to Letterboxd). (Source Code) AGPL-3.0 Docker",
+      "section": [
+        "Software",
+        "Media Management"
+      ]
+    },
+    {
       "key": "https://reaparr.rocks",
       "name": "Reaparr",
       "url": "https://www.reaparr.rocks/",
@@ -6997,7 +6987,7 @@
       "key": "https://github.com/sbondCo/Watcharr",
       "name": "Watcharr",
       "url": "https://github.com/sbondCo/Watcharr",
-      "description": "Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. (Demo) MIT Docker",
+      "description": "Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. MIT Docker",
       "section": [
         "Software",
         "Media Management"
@@ -7234,10 +7224,10 @@
       ]
     },
     {
-      "key": "https://musikcube.com",
+      "key": "https://github.com/clangen/musikcube",
       "name": "musikcube",
-      "url": "https://musikcube.com/",
-      "description": "Streaming audio server with Linux/macOS/Windows/Android clients. (Source Code) BSD-3-Clause C++/deb",
+      "url": "https://github.com/clangen/musikcube",
+      "description": "Streaming audio server with Linux/macOS/Windows/Android clients. BSD-3-Clause C++/deb",
       "section": [
         "Software",
         "Media Streaming - Audio Streaming"
@@ -7607,7 +7597,7 @@
       "key": "https://git.mills.io/prologic/tube",
       "name": "Tube",
       "url": "https://git.mills.io/prologic/tube",
-      "description": "Youtube-like (without censorship and features you don't need!) video sharing app written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. (Demo) MIT Go",
+      "description": "Youtube-like (without censorship and features you don't need!) video sharing app written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. MIT Go",
       "section": [
         "Software",
         "Media Streaming - Video Streaming"
@@ -10524,6 +10514,16 @@
       ]
     },
     {
+      "key": "https://homebutler.dev",
+      "name": "HomeButler",
+      "url": "https://homebutler.dev",
+      "description": "Installs and manages a curated catalog of applications via Docker Compose, maps containers and exposed ports, verifies backups restore, and reports what changed since the last run with CLI, JSON, web and MCP interfaces. (Source Code) MIT Docker/Go",
+      "section": [
+        "Software",
+        "Self-hosting Solutions"
+      ]
+    },
+    {
       "key": "https://homelabos.com",
       "name": "HomelabOS",
       "url": "https://homelabos.com",
@@ -12044,10 +12044,10 @@
       ]
     },
     {
-      "key": "https://bluecherrydvr.com",
+      "key": "https://github.com/bluecherrydvr/bluecherry-apps",
       "name": "Bluecherry",
-      "url": "https://www.bluecherrydvr.com/",
-      "description": "Closed-circuit television (CCTV) software application which supports IP and Analog cameras. (Source Code) GPL-2.0 PHP",
+      "url": "https://github.com/bluecherrydvr/bluecherry-apps",
+      "description": "Closed-circuit television (CCTV) software application which supports IP and Analog cameras. GPL-2.0 PHP",
       "section": [
         "Software",
         "Video Surveillance"
@@ -12317,7 +12317,7 @@
       "key": "https://amusewiki.org",
       "name": "AmuseWiki",
       "url": "https://amusewiki.org/",
-      "description": "Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. (Demo, Source Code) GPL-1.0 Perl/Docker",
+      "description": "Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. (Source Code) GPL-1.0 Perl/Docker",
       "section": [
         "Software",
         "Wikis"

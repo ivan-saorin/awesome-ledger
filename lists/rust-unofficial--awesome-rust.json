@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"79fd9e4f80e7a1c0c0b109a133dc92b292596dd590cb41a43540c334ac1d8de3\"",
+  "etag": "W/\"cde4db26de43ac2ca407dc983c1157b92633dbd67714d4ec7a4534c7f71128e2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -5543,6 +5543,16 @@
       "name": "restsend/rustpbx",
       "url": "https://github.com/restsend/rustpbx",
       "description": "Software-Defined SIP Proxy including register, presence, b2bua. alternative to Freeswitch/FreePBX.",
+      "section": [
+        "Applications",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/rleeon/hoard",
+      "name": "rleeon/hoard",
+      "url": "https://github.com/rleeon/hoard",
+      "description": "Game save backup and sync system with auto-detection, versioned snapshots, and self-hosted storage.",
       "section": [
         "Applications",
         "Utilities"
@@ -13159,6 +13169,16 @@
       "name": "stochastic-rs",
       "url": "https://github.com/rust-dd/stochastic-rs",
       "description": "[stochastic-rs] - High-performance data generation library for stochastic process with quant finance tools.",
+      "section": [
+        "Libraries",
+        "Finance"
+      ]
+    },
+    {
+      "key": "https://github.com/wickra-lib/wickra",
+      "name": "wickra-lib/wickra",
+      "url": "https://github.com/wickra-lib/wickra",
+      "description": "[wickra] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R.",
       "section": [
         "Libraries",
         "Finance"

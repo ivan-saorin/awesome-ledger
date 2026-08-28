@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9e2a1934e3d5ebae999923feaefcaa153f0ad8c0cd0e8b410876374178dea076\"",
+  "etag": "W/\"73ba00b95d8a9cd1b02f0b1018f0b1935641456a0f23d52da41e047ce3e3a9d5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -184,6 +184,16 @@
       ]
     },
     {
+      "key": "https://ploopy.co",
+      "name": "Ploopy",
+      "url": "https://ploopy.co/",
+      "description": "3D-printable peripherals running the QMK firmware.",
+      "section": [
+        "Projects",
+        "Consumer Devices"
+      ]
+    },
+    {
       "key": "https://slimevr.dev",
       "name": "SlimeVR",
       "url": "https://slimevr.dev",
@@ -208,6 +218,36 @@
       "name": "Arduino",
       "url": "https://www.arduino.cc/",
       "description": "Arduino is an electronics platform.",
+      "section": [
+        "Projects",
+        "Development Boards"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/icebreaker-fpga/icebreaker",
+      "name": "iCEBreaker",
+      "url": "https://codeberg.org/icebreaker-fpga/icebreaker",
+      "description": "Low-cost FPGA development board based around the Lattice iCE40.",
+      "section": [
+        "Projects",
+        "Development Boards"
+      ]
+    },
+    {
+      "key": "https://github.com/cheyao/icepi-zero",
+      "name": "Icepi Zero",
+      "url": "https://github.com/cheyao/icepi-zero",
+      "description": "A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.",
+      "section": [
+        "Projects",
+        "Development Boards"
+      ]
+    },
+    {
+      "key": "https://github.com/sasodoma/nrf52840-promicro",
+      "name": "nRF52840 ProMicro",
+      "url": "https://github.com/sasodoma/nrf52840-promicro",
+      "description": "A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.",
       "section": [
         "Projects",
         "Development Boards"
@@ -248,6 +288,26 @@
       "name": "GaudiLab",
       "url": "http://www.gaudi.ch/GaudiLabs/?page_id=19",
       "description": "Hardware projects for biology laboratories.",
+      "section": [
+        "Projects",
+        "Scientific Instruments"
+      ]
+    },
+    {
+      "key": "https://github.com/greatscottgadgets/hackrf-pro",
+      "name": "HackRF Pro",
+      "url": "https://github.com/greatscottgadgets/hackrf-pro",
+      "description": "Upgraded version of the HackRF One, a low-cost software-defined radio.",
+      "section": [
+        "Projects",
+        "Scientific Instruments"
+      ]
+    },
+    {
+      "key": "https://github.com/jankae/LibreVNA",
+      "name": "LibreVNA",
+      "url": "https://github.com/jankae/LibreVNA",
+      "description": "A vector network analyzer capable of measurements up to 6 GHz.",
       "section": [
         "Projects",
         "Scientific Instruments"
@@ -774,6 +834,15 @@
       "name": "Kitspace.org",
       "url": "https://kitspace.org",
       "description": "A place to build and share electronics projects.",
+      "section": [
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://boardrepo.com",
+      "name": "BoardRepo",
+      "url": "https://boardrepo.com",
+      "description": "Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.",
       "section": [
         "Platforms"
       ]
