@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"08b85a2048f73c735d077dac77820403257cb4262f115a7f88336e56ef40717b\"",
+  "etag": "W/\"2ca71e973610a9018cf19ed586245d02c1a777b8d8fd09da0b38f92bb562f9b5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -284,20 +284,20 @@
       ]
     },
     {
-      "key": "https://snowb.org",
-      "name": "SnowB Bitmap Font",
-      "url": "https://snowb.org/",
-      "description": "Bitmap font generator",
+      "key": "https://renderhjs.net/shoebox",
+      "name": "ShoeBox",
+      "url": "http://renderhjs.net/shoebox/",
+      "description": "Adobe Air based app with game and ui related tools.",
       "section": [
         "Graphics",
         "Spritesheet Tools"
       ]
     },
     {
-      "key": "https://renderhjs.net/shoebox",
-      "name": "ShoeBox",
-      "url": "http://renderhjs.net/shoebox/",
-      "description": "Adobe Air based app with game and ui related tools.",
+      "key": "https://snowb.org",
+      "name": "SnowB Bitmap Font",
+      "url": "https://snowb.org/",
+      "description": "Bitmap font generator",
       "section": [
         "Graphics",
         "Spritesheet Tools"
@@ -534,16 +534,6 @@
       ]
     },
     {
-      "key": "https://gree.github.io/lwf",
-      "name": "LWF",
-      "url": "http://gree.github.io/lwf/",
-      "description": "Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.",
-      "section": [
-        "Graphics",
-        "Animation"
-      ]
-    },
-    {
       "key": "https://loopengo.free.fr",
       "name": "Fusion Character Animator",
       "url": "http://loopengo.free.fr/",
@@ -568,6 +558,16 @@
       "name": "GraphicsDale",
       "url": "https://graphicsgale.com/us/",
       "description": "Powerful tool for spriting and pixel art.",
+      "section": [
+        "Graphics",
+        "Animation"
+      ]
+    },
+    {
+      "key": "https://gree.github.io/lwf",
+      "name": "LWF",
+      "url": "http://gree.github.io/lwf/",
+      "description": "Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.",
       "section": [
         "Graphics",
         "Animation"
@@ -774,6 +774,16 @@
       ]
     },
     {
+      "key": "https://pixanima.app",
+      "name": "Pixanima",
+      "url": "https://pixanima.app",
+      "description": "Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
       "key": "https://pixelatorapp.com",
       "name": "Pixelator",
       "url": "http://pixelatorapp.com",
@@ -834,26 +844,6 @@
       ]
     },
     {
-      "key": "https://led.itch.io/tilemancer",
-      "name": "Tilemancer",
-      "url": "https://led.itch.io/tilemancer",
-      "description": "A quick procedural tile creator designed for pixel-art games.",
-      "section": [
-        "Graphics",
-        "Vector/Image Editor"
-      ]
-    },
-    {
-      "key": "https://csdb.dk/release?id=75871",
-      "name": "Timanthes",
-      "url": "http://csdb.dk/release/?id=75871",
-      "description": "A pixel art editor for the Commodore 64 computer running on Windows",
-      "section": [
-        "Graphics",
-        "Vector/Image Editor"
-      ]
-    },
-    {
       "key": "https://spritefusion.com/pixel-snapper",
       "name": "Sprite Fusion Pixel Art Cleaner",
       "url": "https://www.spritefusion.com/pixel-snapper",
@@ -904,6 +894,26 @@
       ]
     },
     {
+      "key": "https://led.itch.io/tilemancer",
+      "name": "Tilemancer",
+      "url": "https://led.itch.io/tilemancer",
+      "description": "A quick procedural tile creator designed for pixel-art games.",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
+      "key": "https://csdb.dk/release?id=75871",
+      "name": "Timanthes",
+      "url": "http://csdb.dk/release/?id=75871",
+      "description": "A pixel art editor for the Commodore 64 computer running on Windows",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
       "key": "https://vectormagic.com",
       "name": "Vector Magic",
       "url": "https://vectormagic.com/",
@@ -918,16 +928,6 @@
       "name": "VTracer",
       "url": "https://www.visioncortex.org/vtracer/",
       "description": "Raster to Vector Graphics Converter built on top of visioncortex",
-      "section": [
-        "Graphics",
-        "Vector/Image Editor"
-      ]
-    },
-    {
-      "key": "https://pixanima.app",
-      "name": "Pixanima",
-      "url": "https://pixanima.app",
-      "description": "Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.",
       "section": [
         "Graphics",
         "Vector/Image Editor"
@@ -1118,6 +1118,16 @@
       "name": "World Machine",
       "url": "http://www.world-machine.com/",
       "description": "Procedural terrain creation, simulations of nature, and interactive editing",
+      "section": [
+        "Graphics",
+        "Terrain Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/Daniele-Cangi/worldloop-technical-showcase",
+      "name": "WorldLoop",
+      "url": "https://github.com/Daniele-Cangi/worldloop-technical-showcase",
+      "description": "Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water, with direct export to Roblox Studio",
       "section": [
         "Graphics",
         "Terrain Generators"

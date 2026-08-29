@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6c74a38603e4d619401b6682ef58da0e344daafeee85137883452ea3a7515d4c\"",
+  "etag": "W/\"7884a0d3dc780c515d2fb3b563638ed3f23ad1e62065c0345822365e4d8c9bcd\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -359,6 +359,15 @@
       "name": "SandBase CLI",
       "url": "https://github.com/sandbaseai/cli",
       "description": "Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models and APIs through one account.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/arbazkhan971/godmode",
+      "name": "godmode",
+      "url": "https://github.com/arbazkhan971/godmode",
+      "description": "Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]

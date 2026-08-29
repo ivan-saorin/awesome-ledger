@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7175aec7ce5892c1bef7ba8363fe45d6d12a101355e8b252e60857b3fd806b9d\"",
+  "etag": "W/\"3d219defef5b5bcc2d34bf6ffcebcdda83f1800ed5279c787152d1f599cb7ab4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -35,6 +35,15 @@
       "name": "SPARK",
       "url": "https://www.adacore.com/about-spark",
       "description": "copyright: — Static analysis and formal verification toolset for Ada.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/StanfordPL/stoke",
+      "name": "STOKE",
+      "url": "https://github.com/StanfordPL/stoke",
+      "description": "A programming-language agnostic stochastic optimizer for the x86_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations.",
       "section": [
         "Programming Languages"
       ]
@@ -85,10 +94,10 @@
       ]
     },
     {
-      "key": "https://github.com/MetricsGrimoire/CMetrics",
-      "name": "CMetrics",
-      "url": "https://github.com/MetricsGrimoire/CMetrics",
-      "description": "Measures size and complexity for C files.",
+      "key": "https://codechecker.readthedocs.io/en/latest",
+      "name": "codechecker",
+      "url": "https://codechecker.readthedocs.io/en/latest",
+      "description": "A defect database and viewer extension for the Clang Static Analyzer with web GUI.",
       "section": [
         "Programming Languages"
       ]
@@ -125,15 +134,6 @@
       "name": "cpplint",
       "url": "https://github.com/cpplint/cpplint",
       "description": "Automated C++ checker that follows Google's style guide.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/dspinellis/cqmetrics",
-      "name": "cqmetrics",
-      "url": "https://github.com/dspinellis/cqmetrics",
-      "description": "Quality metrics for C code.",
       "section": [
         "Programming Languages"
       ]
@@ -197,15 +197,6 @@
       "name": "Helix QAC",
       "url": "https://www.perforce.com/products/helix-qac",
       "description": "copyright: — Enterprise-grade static analysis for embedded software. Supports MISRA, CERT, and AUTOSAR coding standards.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/nasa-sw-vnv/ikos",
-      "name": "IKOS",
-      "url": "https://github.com/nasa-sw-vnv/ikos",
-      "description": "A sound static analyzer for C/C++ code based on LLVM.",
       "section": [
         "Programming Languages"
       ]
@@ -301,6 +292,15 @@
       ]
     },
     {
+      "key": "https://github.com/googleprojectzero/weggli",
+      "name": "weggli",
+      "url": "https://github.com/googleprojectzero/weggli",
+      "description": "A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://github.com/DotNetAnalyzers",
       "name": ".NET Analyzers",
       "url": "https://github.com/DotNetAnalyzers",
@@ -319,28 +319,10 @@
       ]
     },
     {
-      "key": "https://code-cracker.github.io",
-      "name": "code-cracker",
-      "url": "https://code-cracker.github.io",
-      "description": "An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://designite-tools.com",
       "name": "Designite",
       "url": "http://www.designite-tools.com",
       "description": "copyright: — Designite supports detection of various architecture, design, and implementation smells, computation of various code quality metrics, and trend analysis.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://mono-project.com/docs/tools+libraries/tools/gendarme",
-      "name": "Gendarme",
-      "url": "https://www.mono-project.com/docs/tools+libraries/tools/gendarme",
-      "description": "Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET).",
       "section": [
         "Programming Languages"
       ]
@@ -391,6 +373,15 @@
       ]
     },
     {
+      "key": "https://github.com/Vannevelj/VSDiagnostics",
+      "name": "VSDiagnostics",
+      "url": "https://github.com/Vannevelj/VSDiagnostics",
+      "description": "A collection of static analyzers based on Roslyn that integrates with VS.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://github.com/Wintellect/Wintellect.Analyzers",
       "name": "Wintellect.Analyzers",
       "url": "https://github.com/Wintellect/Wintellect.Analyzers",
@@ -431,15 +422,6 @@
       "name": "crystal",
       "url": "https://crystal-lang.org",
       "description": "The Crystal compiler has built-in linting functionality.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://pub.dev/packages/effective_dart",
-      "name": "effective_dart",
-      "url": "https://pub.dev/packages/effective_dart",
-      "description": "Linter rules corresponding to the guidelines in Effective Dart",
       "section": [
         "Programming Languages"
       ]
@@ -553,6 +535,15 @@
       ]
     },
     {
+      "key": "https://github.com/okeuday/pest",
+      "name": "Primitive Erlang Security Tool (PEST)",
+      "url": "https://github.com/okeuday/pest",
+      "description": "A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://fsprojects.github.io/fantomas",
       "name": "fantomas",
       "url": "https://fsprojects.github.io/fantomas/",
@@ -611,24 +602,6 @@
       "name": "bodyclose",
       "url": "https://github.com/timakin/bodyclose",
       "description": "Checks whether HTTP response body is closed.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/tsenart/deadcode",
-      "name": "deadcode",
-      "url": "https://github.com/tsenart/deadcode",
-      "description": "Finds unused code.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/alexkohler/dogsled",
-      "name": "dogsled",
-      "url": "https://github.com/alexkohler/dogsled",
-      "description": "Finds assignments/declarations with too many blank identifiers.",
       "section": [
         "Programming Languages"
       ]
@@ -742,46 +715,10 @@
       ]
     },
     {
-      "key": "https://github.com/praetorian-inc/gokart",
-      "name": "gokart",
-      "url": "https://github.com/praetorian-inc/gokart",
-      "description": "Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments to determine whether input sources are safe.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://golangci-lint.run",
       "name": "GolangCI-Lint",
       "url": "https://golangci-lint.run",
       "description": "Fast linters runner for Go. It aggregates multiple Go linters and provides a unified configuration, caching, and output format. Alternative to Go Meta Linter.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/golang/lint",
-      "name": "golint",
-      "url": "https://github.com/golang/lint",
-      "description": "Prints out coding style mistakes in Go source code.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/360EntSecGroup-Skylar/goreporter",
-      "name": "goreporter",
-      "url": "https://github.com/360EntSecGroup-Skylar/goreporter",
-      "description": "Concurrently runs many linters and normalises their output to a report.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/linuxerwang/goroutine-inspect",
-      "name": "goroutine-inspect",
-      "url": "https://github.com/linuxerwang/goroutine-inspect",
-      "description": "An interactive tool to analyze Golang goroutine dump.",
       "section": [
         "Programming Languages"
       ]
@@ -809,33 +746,6 @@
       "name": "govulncheck",
       "url": "https://go.dev/blog/vuln",
       "description": "Govulncheck reports known vulnerabilities that affect Go code. It uses static analysis of source code or a binary's symbol table to narrow down reports to only those that could affect the application. By default, govulncheck makes requests to the Go vulnerability database at https://vuln.go.dev. Requests to the vulnerability database contain only module paths, not code or other properties of your program.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/walle/lll",
-      "name": "lll",
-      "url": "https://github.com/walle/lll",
-      "description": "Report long lines.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/client9/misspell",
-      "name": "misspell",
-      "url": "https://github.com/client9/misspell",
-      "description": "Finds commonly misspelled English words.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/alexkohler/nargs",
-      "name": "nargs",
-      "url": "https://github.com/alexkohler/nargs",
-      "description": "Finds unused arguments in function declarations.",
       "section": [
         "Programming Languages"
       ]
@@ -872,6 +782,24 @@
       "name": "revive",
       "url": "https://revive.run",
       "description": "Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/stripe/safesql",
+      "name": "safesql",
+      "url": "https://github.com/stripe/safesql",
+      "description": "Static analysis tool for Golang that protects against SQL injections.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/flatt-security/shisho",
+      "name": "shisho",
+      "url": "https://github.com/flatt-security/shisho",
+      "description": "A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.",
       "section": [
         "Programming Languages"
       ]
@@ -1007,15 +935,6 @@
       "name": "ck",
       "url": "https://github.com/mauricioaniche/ck",
       "description": "Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://spinellis.gr/sw/ckjm",
-      "name": "ckjm",
-      "url": "http://www.spinellis.gr/sw/ckjm",
-      "description": "Calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files.",
       "section": [
         "Programming Languages"
       ]
@@ -1219,15 +1138,6 @@
       ]
     },
     {
-      "key": "https://github.com/jared-stilwell/escomplex",
-      "name": "escomplex",
-      "url": "https://github.com/jared-stilwell/escomplex",
-      "description": "Software complexity analysis of JavaScript-family abstract syntax trees.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://flow.org",
       "name": "flow",
       "url": "https://flow.org",
@@ -1237,10 +1147,10 @@
       ]
     },
     {
-      "key": "https://jshint.com/about",
-      "name": "jshint",
-      "url": "https://jshint.com/about",
-      "description": "information_source: — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.",
+      "key": "https://github.com/analysis-tools-dev/static-analysis/issues/223",
+      "name": ":information_source:",
+      "url": "https://github.com/analysis-tools-dev/static-analysis/issues/223",
+      "description": "warning: — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.",
       "section": [
         "Programming Languages"
       ]
@@ -1273,10 +1183,46 @@
       ]
     },
     {
+      "key": "https://rslint.org",
+      "name": "RSLint",
+      "url": "http://rslint.org/",
+      "description": "A (WIP) JavaScript linter written in Rust designed to be as fast as possible, customizable, and easy to use.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://squirrelscan.com",
+      "name": "squirrelscan",
+      "url": "https://squirrelscan.com",
+      "description": "squirrelscan is a website QA tool built for coding agents such as Claude Code and Cursor. Its squirrel CLI crawls a live site and runs 260+ audit rules across SEO, performance, security, accessibility, structured data and agent experience, then returns exact source-mapped fixes. Runs from the terminal, CI, the cloud, or over MCP.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://standardjs.com",
+      "name": "standard",
+      "url": "http://standardjs.com",
+      "description": "An npm module that checks for Javascript Styleguide issues.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://ternjs.net",
       "name": "tern",
       "url": "https://ternjs.net",
       "description": "A JavaScript code analyzer for deep, cross-editor language support.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://typl.dev",
+      "name": "TypL",
+      "url": "https://typl.dev",
+      "description": "With TypL, you just write completely standard JS, and the tool figures out your types via powerful inferencing.",
       "section": [
         "Programming Languages"
       ]
@@ -1345,15 +1291,6 @@
       ]
     },
     {
-      "key": "https://github.com/philips/lualint",
-      "name": "lualint",
-      "url": "https://github.com/philips/lualint",
-      "description": "lualint performs luac-based static analysis of global variable usage in Lua source code.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://mathworks.com/help/matlab/ref/mlint.html",
       "name": "mlint",
       "url": "https://www.mathworks.com/help/matlab/ref/mlint.html",
@@ -1390,15 +1327,6 @@
       ]
     },
     {
-      "key": "https://zigrin.com/tools/cake-fuzzer",
-      "name": "CakeFuzzer",
-      "url": "https://zigrin.com/tools/cake-fuzzer/",
-      "description": "Web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/bmitch/churn-php",
       "name": "churn-php",
       "url": "https://github.com/bmitch/churn-php",
@@ -1426,15 +1354,6 @@
       ]
     },
     {
-      "key": "https://github.com/sensiolabs-de/deprecation-detector",
-      "name": "deprecation-detector",
-      "url": "https://github.com/sensiolabs-de/deprecation-detector",
-      "description": "Finds usages of deprecated (Symfony) code.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/sensiolabs-de/deptrac",
       "name": "deptrac",
       "url": "https://github.com/sensiolabs-de/deptrac",
@@ -1444,28 +1363,10 @@
       ]
     },
     {
-      "key": "https://github.com/Halleck45/DesignPatternDetector",
-      "name": "DesignPatternDetector",
-      "url": "https://github.com/Halleck45/DesignPatternDetector",
-      "description": "Detection of design patterns in PHP code.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines",
       "name": "EasyCodingStandard",
       "url": "https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines",
       "description": "Combine PHP_CodeSniffer and PHP-CS-Fixer.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://exakat.io",
-      "name": "exakat",
-      "url": "https://www.exakat.io",
-      "description": "An automated code reviewing engine for PHP.",
       "section": [
         "Programming Languages"
       ]
@@ -1507,15 +1408,6 @@
       ]
     },
     {
-      "key": "https://github.com/psecio/parse",
-      "name": "Parse",
-      "url": "https://github.com/psecio/parse",
-      "description": "A Static Security Scanner.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://pdepend.org",
       "name": "pdepend",
       "url": "https://pdepend.org",
@@ -1538,15 +1430,6 @@
       "name": "PHP Architecture Tester",
       "url": "https://github.com/carlosas/phpat",
       "description": "Easy to use architecture testing tool for PHP.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/rskuipers/php-assumptions",
-      "name": "PHP Assumptions",
-      "url": "https://github.com/rskuipers/php-assumptions",
-      "description": "Checks for weak assumptions.",
       "section": [
         "Programming Languages"
       ]
@@ -1579,15 +1462,6 @@
       ]
     },
     {
-      "key": "https://qafoolabs.github.io/php-refactoring-browser",
-      "name": "PHP Refactoring Browser",
-      "url": "https://qafoolabs.github.io/php-refactoring-browser",
-      "description": "Refactoring helper.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/tomzx/php-semver-checker",
       "name": "PHP Semantic Versioning Checker",
       "url": "https://github.com/tomzx/php-semver-checker",
@@ -1601,15 +1475,6 @@
       "name": "PHP-Parser",
       "url": "https://github.com/nikic/PHP-Parser",
       "description": "A PHP parser written in PHP.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/mekras/php-speller",
-      "name": "php-speller",
-      "url": "https://github.com/mekras/php-speller",
-      "description": "PHP spell check library.",
       "section": [
         "Programming Languages"
       ]
@@ -1678,19 +1543,19 @@
       ]
     },
     {
-      "key": "https://github.com/jmolivas/phpqa",
-      "name": "phpqa - jmolivas",
-      "url": "https://github.com/jmolivas/phpqa",
-      "description": "PHPQA all-in-one Analyzer CLI tool.",
+      "key": "https://phpstan.org",
+      "name": "PHPStan",
+      "url": "https://phpstan.org",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
       "section": [
         "Programming Languages"
       ]
     },
     {
-      "key": "https://phpstan.org",
-      "name": "PHPStan",
-      "url": "https://phpstan.org",
-      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "key": "https://github.com/designsecurity/progpilot",
+      "name": "Progpilot",
+      "url": "https://github.com/designsecurity/progpilot",
+      "description": "A static analysis tool for security purposes.",
       "section": [
         "Programming Languages"
       ]
@@ -1777,15 +1642,6 @@
       ]
     },
     {
-      "key": "https://technix.github.io/Perl-Analyzer",
-      "name": "Perl::Analyzer",
-      "url": "https://technix.github.io/Perl-Analyzer/",
-      "description": "Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl codebases by providing information about namespaces and their relations, dependencies, inheritance, and methods implemented, inherited, and redefined in packages, as well as calls to methods from parent packages via SUPER.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://metacpan.org/pod/Perl::Critic",
       "name": "Perl::Critic",
       "url": "https://metacpan.org/pod/Perl::Critic",
@@ -1840,28 +1696,10 @@
       ]
     },
     {
-      "key": "https://github.com/hchasestevens/bellybutton",
-      "name": "bellybutton",
-      "url": "https://github.com/hchasestevens/bellybutton",
-      "description": "A linting engine supporting custom project-specific rules.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://black.readthedocs.io/en/stable",
       "name": "Black",
       "url": "https://black.readthedocs.io/en/stable",
       "description": "The uncompromising Python code formatter.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://pybowler.io",
-      "name": "Bowler",
-      "url": "https://pybowler.io/",
-      "description": "Safe code refactoring for modern Python. Bowler is a refactoring tool for manipulating Python at the syntax tree level. It enables safe, large scale code modifications while guaranteeing that the resulting code compiles and runs. It provides both a simple command line interface and a fluent API in Python for generating complex code modifications in code.",
       "section": [
         "Programming Languages"
       ]
@@ -1885,15 +1723,6 @@
       ]
     },
     {
-      "key": "https://github.com/landscapeio/dodgy",
-      "name": "Dodgy",
-      "url": "https://github.com/landscapeio/dodgy",
-      "description": "Dodgy is a very basic tool to run against your codebase to search for \"dodgy\" looking values. It is a series of simple regular expressions designed to detect things such as accidental SCM diff checkins, or passwords or secret keys hard coded into files.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://pypi.org/project/fixit",
       "name": "fixit",
       "url": "https://pypi.org/project/fixit",
@@ -1912,15 +1741,6 @@
       ]
     },
     {
-      "key": "https://pypi.org/project/flakeheaven",
-      "name": "flakeheaven",
-      "url": "https://pypi.org/project/flakeheaven/",
-      "description": "flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://mkdocstrings.github.io/griffe",
       "name": "Griffe",
       "url": "https://mkdocstrings.github.io/griffe/",
@@ -1934,15 +1754,6 @@
       "name": "jedi",
       "url": "https://jedi.readthedocs.io/en/latest",
       "description": "Autocompletion/static analysis library for Python.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/lyft/linty_fresh",
-      "name": "linty fresh",
-      "url": "https://github.com/lyft/linty_fresh",
-      "description": "Parse lint errors and report them to Github as comments on a pull request.",
       "section": [
         "Programming Languages"
       ]
@@ -2011,6 +1822,15 @@
       ]
     },
     {
+      "key": "https://pydocstyle.org",
+      "name": "pydocstyle",
+      "url": "http://www.pydocstyle.org",
+      "description": "Check compliance with Python docstring conventions.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://pypi.org/project/pyflakes",
       "name": "pyflakes",
       "url": "https://pypi.org/project/pyflakes",
@@ -2024,6 +1844,15 @@
       "name": "pylint",
       "url": "http://pylint.pycqa.org/en/latest",
       "description": "Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes pyreverse (an UML diagram generator) and symilar (a similarities checker).",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://mtshiba.github.io/pylyzer",
+      "name": "pylyzers",
+      "url": "https://mtshiba.github.io/pylyzer/",
+      "description": "A static code analyzer / language server for Python, written in Rust, focused on type checking and readable output.",
       "section": [
         "Programming Languages"
       ]
@@ -2074,6 +1903,15 @@
       ]
     },
     {
+      "key": "https://ludo-technologies.github.io/pyscn",
+      "name": "pyscn",
+      "url": "https://ludo-technologies.github.io/pyscn/",
+      "description": "Intelligent Python code quality analyzer with CFG-based cyclomatic complexity analysis, dead code detection, clone detection (Type 1-4), and coupling metrics. Uses tree-sitter for parsing. Written in Go.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://google.github.io/pytype",
       "name": "pytype",
       "url": "https://google.github.io/pytype",
@@ -2087,6 +1925,15 @@
       "name": "pyupgrade",
       "url": "https://pypi.org/project/pyupgrade-docs/",
       "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://radon.readthedocs.io/en/latest",
+      "name": "radon",
+      "url": "https://radon.readthedocs.io/en/latest",
+      "description": "A Python tool that computes various metrics from the source code.",
       "section": [
         "Programming Languages"
       ]
@@ -2164,10 +2011,19 @@
       ]
     },
     {
-      "key": "https://github.com/rubik/radon",
-      "name": "radon",
-      "url": "https://github.com/rubik/radon",
-      "description": ".",
+      "key": "https://xenon.readthedocs.io",
+      "name": "xenon",
+      "url": "https://xenon.readthedocs.io",
+      "description": "Monitor code complexity using radon.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/google/yapf",
+      "name": "yapf",
+      "url": "https://github.com/google/yapf",
+      "description": "A formatter for Python files created by Google YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.",
       "section": [
         "Programming Languages"
       ]
@@ -2177,15 +2033,6 @@
       "name": "CodeDepends",
       "url": "https://github.com/duncantl/CodeDepends",
       "description": "Static Code Analysis for R.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/MangoTheCat/cyclocomp",
-      "name": "cyclocomp",
-      "url": "https://github.com/MangoTheCat/cyclocomp",
-      "description": "Quantifies the cyclomatic complexity of R functions / expressions.",
       "section": [
         "Programming Languages"
       ]
@@ -2299,37 +2146,10 @@
       ]
     },
     {
-      "key": "https://github.com/thesp0nge/dawnscanner",
-      "name": "dawnscanner",
-      "url": "https://github.com/thesp0nge/dawnscanner",
-      "description": "A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/Shopify/erb-lint",
       "name": "ERB Lint",
       "url": "https://github.com/Shopify/erb-lint",
       "description": "Lint your ERB or HTML files",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/nebulab/erb-formatter",
-      "name": "ERB::Formatter",
-      "url": "https://github.com/nebulab/erb-formatter",
-      "description": "Format ERB files with speed and precision.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/DamirSvrtan/fasterer",
-      "name": "Fasterer",
-      "url": "https://github.com/DamirSvrtan/fasterer",
-      "description": "Common Ruby idioms checker.",
       "section": [
         "Programming Languages"
       ]
@@ -2353,28 +2173,28 @@
       ]
     },
     {
-      "key": "https://github.com/CoralineAda/fukuzatsu",
-      "name": "Fukuzatsu",
-      "url": "https://github.com/CoralineAda/fukuzatsu",
-      "description": "A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added \"opinions\".",
+      "key": "https://github.com/apiology/quality",
+      "name": "quality",
+      "url": "https://github.com/apiology/quality",
+      "description": "Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.",
       "section": [
         "Programming Languages"
       ]
     },
     {
-      "key": "https://github.com/threedaymonk/htmlbeautifier",
-      "name": "htmlbeautifier",
-      "url": "https://github.com/threedaymonk/htmlbeautifier",
-      "description": "A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.",
+      "key": "https://github.com/soutaro/querly",
+      "name": "Querly",
+      "url": "https://github.com/soutaro/querly",
+      "description": "Pattern Based Checking Tool for Ruby.",
       "section": [
         "Programming Languages"
       ]
     },
     {
-      "key": "https://github.com/codegram/pelusa",
-      "name": "pelusa",
-      "url": "https://github.com/codegram/pelusa",
-      "description": "Static analysis Lint-type tool to improve your OO Ruby code.",
+      "key": "https://railroader.org",
+      "name": "Railroader",
+      "url": "https://railroader.org",
+      "description": "An open source static analysis security vulnerability scanner for Ruby on Rails applications.",
       "section": [
         "Programming Languages"
       ]
@@ -2443,6 +2263,15 @@
       ]
     },
     {
+      "key": "https://metricfu.github.io/Saikuro",
+      "name": "Saikuro",
+      "url": "https://metricfu.github.io/Saikuro",
+      "description": "A Ruby cyclomatic complexity analyzer.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://github.com/fastruby/skunk",
       "name": "Skunk",
       "url": "https://github.com/fastruby/skunk",
@@ -2479,6 +2308,15 @@
       ]
     },
     {
+      "key": "https://github.com/amatsuda/traceroute",
+      "name": "Traceroute",
+      "url": "https://github.com/amatsuda/traceroute",
+      "description": "A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://c2rust.com",
       "name": "C2Rust",
       "url": "https://c2rust.com",
@@ -2501,24 +2339,6 @@
       "name": "cargo-audit",
       "url": "https://rustsec.org",
       "description": "Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/iomentum/cargo-breaking",
-      "name": "cargo-breaking",
-      "url": "https://github.com/iomentum/cargo-breaking",
-      "description": "cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/japaric/cargo-call-stack",
-      "name": "cargo-call-stack",
-      "url": "https://github.com/japaric/cargo-call-stack",
-      "description": "Whole program static stack analysis The tool produces the full call graph of a program as a dot file.",
       "section": [
         "Programming Languages"
       ]
@@ -2623,10 +2443,37 @@
       ]
     },
     {
+      "key": "https://github.com/teenjuna/prae",
+      "name": "prae",
+      "url": "https://github.com/teenjuna/prae",
+      "description": "Provides a convenient macro that allows you to generate type wrappers that promise to always uphold arbitrary invariants that you specified.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://pm.inf.ethz.ch/research/prusti.html",
+      "name": "Prusti",
+      "url": "https://www.pm.inf.ethz.ch/research/prusti.html",
+      "description": "A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://github.com/sslab-gatech/Rudra",
       "name": "Rudra",
       "url": "https://github.com/sslab-gatech/Rudra",
       "description": "Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/rust-lang-nursery/rls",
+      "name": "Rust Language Server",
+      "url": "https://github.com/rust-lang-nursery/rls",
+      "description": "Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.",
       "section": [
         "Programming Languages"
       ]
@@ -2686,6 +2533,15 @@
       ]
     },
     {
+      "key": "https://github.com/est31/warnalyzer",
+      "name": "warnalyzer",
+      "url": "https://github.com/est31/warnalyzer",
+      "description": "Show unused code from multi-crate Rust projects",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://bytebase.com",
       "name": "Bytebase",
       "url": "https://www.bytebase.com",
@@ -2717,6 +2573,24 @@
       "name": "pgspot",
       "url": "https://github.com/timescale/pgspot",
       "description": "Spot vulnerabilities in postgres extension scripts. Finds unsafe search_path usage and unsafe object creation in PostgreSQL extension scripts or any other PostgreSQL SQL code.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/nrempel/sleek",
+      "name": "sleek",
+      "url": "https://github.com/nrempel/sleek",
+      "description": "Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/jarulraj/sqlcheck",
+      "name": "sqlcheck",
+      "url": "https://github.com/jarulraj/sqlcheck",
+      "description": "Automatically identify anti-patterns in SQL queries.",
       "section": [
         "Programming Languages"
       ]
@@ -2758,6 +2632,15 @@
       ]
     },
     {
+      "key": "https://github.com/ashleyglee/TSqlRules",
+      "name": "TSqlRules",
+      "url": "https://github.com/ashleyglee/TSqlRules",
+      "description": "TSQL Static Code Analysis Rules for SQL Server.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://visual-expert.com",
       "name": "Visual Expert",
       "url": "https://www.visual-expert.com",
@@ -2789,24 +2672,6 @@
       "name": "WartRemover",
       "url": "https://www.wartremover.org",
       "description": "A flexible Scala code linting tool.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/openstack/bashate",
-      "name": "bashate",
-      "url": "https://github.com/openstack/bashate",
-      "description": "Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/ediardo/kmdr-cli",
-      "name": "kmdr",
-      "url": "https://github.com/ediardo/kmdr-cli",
-      "description": "CLI tool for learning commands from your terminal. kmdr delivers a break down of commands with every attribute explained.",
       "section": [
         "Programming Languages"
       ]
@@ -2902,6 +2767,15 @@
       ]
     },
     {
+      "key": "https://stc.dudy.dev",
+      "name": "stc",
+      "url": "https://stc.dudy.dev",
+      "description": "Speedy TypeScript type checker written in Rust",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://github.com/palantir/tslint/issues/4534",
       "name": "this issue",
       "url": "https://github.com/palantir/tslint/issues/4534",
@@ -2956,6 +2830,15 @@
       ]
     },
     {
+      "key": "https://github.com/chipsalliance/verible-linter-action",
+      "name": "verible-linter-action",
+      "url": "https://github.com/chipsalliance/verible-linter-action",
+      "description": "Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines of code in Pull Requests automatically.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://veripool.org/verilator",
       "name": "Verilator",
       "url": "https://www.veripool.org/verilator",
@@ -2969,6 +2852,15 @@
       "name": "vscode-verilog-hdl-support",
       "url": "https://github.com/mshr-h/vscode-verilog-hdl-support",
       "description": "Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/Kuniwak/vint",
+      "name": "vint",
+      "url": "https://github.com/Kuniwak/vint",
+      "description": "Fast and Highly Extensible Vim script Language Lint implemented by Python.",
       "section": [
         "Programming Languages"
       ]
@@ -3118,15 +3010,6 @@
       ]
     },
     {
-      "key": "https://github.com/koknat/callGraph",
-      "name": "callGraph",
-      "url": "https://github.com/koknat/callGraph",
-      "description": "Statically generates a call graph image and displays it on screen.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
       "key": "https://castsoftware.com/products/highlight",
       "name": "CAST Highlight",
       "url": "https://www.castsoftware.com/products/highlight",
@@ -3221,15 +3104,6 @@
       "name": "codeburner",
       "url": "https://groupon.github.io/codeburner",
       "description": "Provides a unified interface to sort and act on the issues it finds.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
-      "key": "https://codechecker.readthedocs.io/en/latest",
-      "name": "codechecker",
-      "url": "https://codechecker.readthedocs.io/en/latest",
-      "description": "A defect database and viewer extension for the Clang Static Analyzer with web GUI.",
       "section": [
         "Multiple languages"
       ]
@@ -3460,6 +3334,15 @@
       ]
     },
     {
+      "key": "https://fallow.tools",
+      "name": "Fallow",
+      "url": "https://fallow.tools",
+      "description": "Rust-native static analysis for JavaScript and TypeScript. Maps a repository as one dependency graph to find unused code and structural problems across file boundaries. Runs from the CLI or GitHub Actions, with VS Code, LSP, MCP, and Node API integrations.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
       "key": "https://find-sec-bugs.github.io",
       "name": "Find Security Bugs",
       "url": "https://find-sec-bugs.github.io",
@@ -3527,6 +3410,15 @@
       "name": "Infer",
       "url": "https://fbinfer.com",
       "description": "A static analyzer for Java, C and Objective-C",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://inkog.io",
+      "name": "Inkog",
+      "url": "https://inkog.io",
+      "description": "AI agent security scanner. Detects behavioral vulnerabilities (prompt injection, infinite loops, token bombing, SQL injection via LLM) across 11 framework adapters including LangChain, CrewAI, and pydantic-ai. Audits MCP servers. Maps findings to EU AI Act, OWASP LLM Top 10, and NIST AI RMF.",
       "section": [
         "Multiple languages"
       ]
@@ -3626,6 +3518,15 @@
       "name": "MOPSA",
       "url": "https://mopsa.lip6.fr",
       "description": "A static analyzer designed to easily reuse abstract domains across widely different languages (such as C and Python).",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://github.com/RoloBits/nestjs-doctor",
+      "name": "nestjs-doctor",
+      "url": "https://github.com/RoloBits/nestjs-doctor",
+      "description": "Static analysis tool for NestJS applications. Detects anti-patterns across security, performance, correctness, and architecture with 30+ built-in rules. Outputs a 0-100 health score. Includes module graph visualization, endpoint dependency graphs, and database schema analysis. CLI and VS Code extension.",
       "section": [
         "Multiple languages"
       ]
@@ -3811,6 +3712,15 @@
       ]
     },
     {
+      "key": "https://repowise.dev",
+      "name": "Repowise",
+      "url": "https://www.repowise.dev",
+      "description": "Deterministic, zero-LLM code-health analysis. Scores every file 1-10 for defect risk, maintainability, and performance from 25 markers: McCabe complexity, LCOM4 cohesion, god classes, Rabin-Karp clone detection, change entropy, and untested hotspots. Adds a dependency graph, dead-code detection, git-history signals (churn, ownership, co-change), and concrete graph-aware refactoring plans. Ships as a CLI, an MCP server, and a VS Code extension across 15 languages.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
       "key": "https://jetbrains.com/resharper",
       "name": "ReSharper",
       "url": "https://www.jetbrains.com/resharper",
@@ -3869,6 +3779,15 @@
       "name": "SAST Online",
       "url": "https://sast.online/",
       "description": "copyright: — Check the Android Source code thoroughly to uncover and address potential security concerns and vulnerabilities. Static application security testing (Static Code Analysis) tool Online",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://github.com/Ataraxy-Labs/sem",
+      "name": "sem",
+      "url": "https://github.com/Ataraxy-Labs/sem",
+      "description": "Semantic version control CLI that provides entity-level diffs, blame, and impact analysis on top of git. Uses tree-sitter to parse 26 languages and builds a cross-file dependency graph with structural hashing. Commands include sem diff, sem blame, sem graph, and sem impact for blast-radius analysis of code changes.",
       "section": [
         "Multiple languages"
       ]
@@ -4036,6 +3955,15 @@
       ]
     },
     {
+      "key": "https://thai-lint.readthedocs.io",
+      "name": "thailint",
+      "url": "https://thai-lint.readthedocs.io/",
+      "description": "Multi-language linter targeting anti-patterns that appear disproportionately in AI-generated code: duplicated blocks across files, excessive nesting, magic numbers, Single Responsibility violations, and linter suppressions added without justification. Covers Python, TypeScript, JavaScript and Rust from one configuration, ships a pre-commit hook per rule, and emits text, JSON or SARIF for CI.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
       "key": "https://github.com/deepfence/ThreatMapper",
       "name": "ThreatMapper",
       "url": "https://github.com/deepfence/ThreatMapper",
@@ -4144,10 +4072,10 @@
       ]
     },
     {
-      "key": "https://github.com/googleprojectzero/weggli",
-      "name": "weggli",
-      "url": "https://github.com/googleprojectzero/weggli",
-      "description": "A fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
+      "key": "https://github.com/Ataraxy-Labs/weave",
+      "name": "weave",
+      "url": "https://github.com/Ataraxy-Labs/weave",
+      "description": "Entity-level semantic merge driver for git. Resolves false conflicts that line-based merge produces when independent changes touch the same file. Parses functions and classes via tree-sitter, matches by name, and merges at the entity level. Benchmarked at 100% clean merges vs git's 48% on a 31-scenario suite.",
       "section": [
         "Multiple languages"
       ]
@@ -4157,6 +4085,15 @@
       "name": "WhiteHat Application Security Platform",
       "url": "https://source.whitehatsec.com/help/sentinel/sast-service-detail.html",
       "description": "copyright: — WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://github.com/fimbullinter/wotan",
+      "name": "Wotan",
+      "url": "https://github.com/fimbullinter/wotan",
+      "description": "Pluggable TypeScript and JavaScript linter.",
       "section": [
         "Multiple languages"
       ]
@@ -4216,10 +4153,10 @@
       ]
     },
     {
-      "key": "https://azsk.azurewebsites.net",
-      "name": "AzSK",
-      "url": "https://azsk.azurewebsites.net/",
-      "description": "Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.",
+      "key": "https://github.com/ronomon/pure",
+      "name": "pure",
+      "url": "https://github.com/ronomon/pure",
+      "description": "Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow, sparseness, accidental buffer bleeds etc.",
       "section": [
         "Other"
       ]
@@ -4229,15 +4166,6 @@
       "name": "angr",
       "url": "https://github.com/angr/angr",
       "description": "Binary code analysis tool that also supports symbolic execution.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/quarkslab/binbloom",
-      "name": "binbloom",
-      "url": "https://github.com/quarkslab/binbloom",
-      "description": "Analyzes a raw binary firmware and determines features like endianness or the loading address. The tool is compatible with all architectures. Loading address: binbloom can parse a raw binary firmware and determine its loading address. Endianness: binbloom can use heuristics to determine the endianness of a firmware. UDS Database: binbloom can parse a raw binary firmware and check if it contains an array containing UDS command IDs.",
       "section": [
         "Other"
       ]
@@ -4301,15 +4229,6 @@
       "name": "IDA Free",
       "url": "https://www.hex-rays.com/products/ida/support/download_freeware",
       "description": "copyright: — Binary code analysis tool.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/jkinder/jakstab",
-      "name": "Jakstab",
-      "url": "https://github.com/jkinder/jakstab",
-      "description": "Jakstab is an Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.",
       "section": [
         "Other"
       ]
@@ -4396,42 +4315,6 @@
       ]
     },
     {
-      "key": "https://cssstats.com",
-      "name": "CSS Stats",
-      "url": "https://cssstats.com",
-      "description": "Potentially interesting stats on stylesheets.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/csscomb/csscomb.js",
-      "name": "CSScomb",
-      "url": "https://github.com/csscomb/csscomb.js",
-      "description": "A coding style formatter for CSS. Supports own configurations to make style sheets beautiful and consistent.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://csslint.net",
-      "name": "CSSLint",
-      "url": "http://csslint.net",
-      "description": "Does basic syntax checking and finds problematic patterns or signs of inefficiency.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://graphmycss.com",
-      "name": "GraphMyCSS.com",
-      "url": "https://graphmycss.com",
-      "description": "CSS Specificity Graph Generator.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://validator.github.io/validator",
       "name": "Nu Html Checker",
       "url": "https://validator.github.io/validator/",
@@ -4495,15 +4378,6 @@
       ]
     },
     {
-      "key": "https://github.com/yandex/gixy",
-      "name": "gixy",
-      "url": "https://github.com/yandex/gixy",
-      "description": "A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://ansible.readthedocs.io/projects/lint",
       "name": "ansible-lint",
       "url": "https://ansible.readthedocs.io/projects/lint/",
@@ -4531,15 +4405,6 @@
       ]
     },
     {
-      "key": "https://github.com/stelligent/cfn_nag",
-      "name": "cfn_nag",
-      "url": "https://github.com/stelligent/cfn_nag",
-      "description": "A linter for AWS CloudFormation templates.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://checkov.io",
       "name": "checkov",
       "url": "https://www.checkov.io",
@@ -4558,19 +4423,19 @@
       ]
     },
     {
-      "key": "https://foodcritic.io",
-      "name": "foodcritic",
-      "url": "http://www.foodcritic.io",
-      "description": "A lint tool that checks Chef cookbooks for common problems.",
+      "key": "https://github.com/voxpupuli/metadata-json-lint",
+      "name": "metadata-json-lint",
+      "url": "https://github.com/voxpupuli/metadata-json-lint",
+      "description": "Tool to check the validity of Puppet metadata.json files.",
       "section": [
         "Other"
       ]
     },
     {
-      "key": "https://github.com/voxpupuli/metadata-json-lint",
-      "name": "metadata-json-lint",
-      "url": "https://github.com/voxpupuli/metadata-json-lint",
-      "description": "Tool to check the validity of Puppet metadata.json files.",
+      "key": "https://github.com/rodjek/puppet-lint",
+      "name": "Puppet Lint",
+      "url": "https://github.com/rodjek/puppet-lint",
+      "description": "Check that your Puppet manifests conform to the style guide.",
       "section": [
         "Other"
       ]
@@ -4607,15 +4472,6 @@
       "name": "tfsec",
       "url": "https://github.com/tfsec/tfsec",
       "description": "Terraform static analysis tool that prevents potential security issues by checking cloud misconfigurations at build time and directly integrates with the HCL parser for better results. Checks for violations of AWS, Azure and GCP security best practice recommendations.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://anchore.io",
-      "name": "anchore",
-      "url": "https://anchore.io",
-      "description": "Discover, analyze, and certify container images. A service that analyzes Docker images and applies user-defined acceptance policies to allow automated container image validation and certification",
       "section": [
         "Other"
       ]
@@ -4747,6 +4603,24 @@
       ]
     },
     {
+      "key": "https://trent.ai",
+      "name": "trentclaw",
+      "url": "https://trent.ai/",
+      "description": "Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://zizmor.sh",
+      "name": "zizmor",
+      "url": "https://zizmor.sh",
+      "description": "Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
       "key": "https://github.com/denoland/deno_lint",
       "name": "deno_lint",
       "url": "https://github.com/denoland/deno_lint",
@@ -4774,15 +4648,6 @@
       ]
     },
     {
-      "key": "https://github.com/vsiakka/gherkin-lint",
-      "name": "gherkin-lint",
-      "url": "https://github.com/vsiakka/gherkin-lint",
-      "description": "A linter for the Gherkin-Syntax written in Javascript.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://deque.com/axe",
       "name": "axe-core",
       "url": "https://www.deque.com/axe/",
@@ -4796,15 +4661,6 @@
       "name": "Bootlint",
       "url": "https://github.com/twbs/bootlint",
       "description": ", the HTML linter for Bootstrap projects.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://html-tidy.org",
-      "name": "HTML Tidy",
-      "url": "http://www.html-tidy.org",
-      "description": "Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.",
       "section": [
         "Other"
       ]
@@ -4837,15 +4693,6 @@
       ]
     },
     {
-      "key": "https://jsonlint.com",
-      "name": "jsonlint",
-      "url": "https://jsonlint.com/",
-      "description": "A JSON parser and validator with a CLI. Standalone version of jsonlint.com",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://stoplight.io/open-source/spectral",
       "name": "Spectral",
       "url": "https://stoplight.io/open-source/spectral",
@@ -4873,37 +4720,10 @@
       ]
     },
     {
-      "key": "https://datree.io",
-      "name": "Datree",
-      "url": "https://datree.io/",
-      "description": "A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/uswitch/klint",
-      "name": "klint",
-      "url": "https://github.com/uswitch/klint",
-      "description": "A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://aquasecurity.github.io/kube-hunter",
       "name": "kube-hunter",
       "url": "https://aquasecurity.github.io/kube-hunter/",
       "description": "Hunt for security weaknesses in Kubernetes clusters.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/viglesiasce/kube-lint",
-      "name": "kube-lint",
-      "url": "https://github.com/viglesiasce/kube-lint",
-      "description": "A linter for Kubernetes resources with a customizable rule set. You define a list of rules that you would like to validate against your resources and kube-lint will evaluate those rules against them.",
       "section": [
         "Other"
       ]
@@ -5030,6 +4850,15 @@
       "name": "Oversecured",
       "url": "https://oversecured.com",
       "description": "copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/linkedin/qark",
+      "name": "qark",
+      "url": "https://github.com/linkedin/qark",
+      "description": "Tool to look for several security related Android application vulnerabilities.",
       "section": [
         "Other"
       ]
@@ -5215,15 +5044,6 @@
       ]
     },
     {
-      "key": "https://github.com/ConsenSys/mythril",
-      "name": "mythril",
-      "url": "https://github.com/ConsenSys/mythril",
-      "description": "A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://mythx.io",
       "name": "MythX",
       "url": "https://mythx.io",
@@ -5260,15 +5080,6 @@
       ]
     },
     {
-      "key": "https://github.com/uni-bremen-agst/libvcs4j",
-      "name": "LibVCS4j",
-      "url": "https://github.com/uni-bremen-agst/libvcs4j",
-      "description": "A Java library that allows existing tools to analyse the evolution of software systems by providing a common API for different version control systems and issue trackers.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://github.com/sds/haml-lint",
       "name": "haml-lint",
       "url": "https://github.com/sds/haml-lint",
@@ -5300,6 +5111,15 @@
       "name": "dennis",
       "url": "https://github.com/willkg/dennis",
       "description": "A set of utilities for working with PO files to ease development and improve quality.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://marketplace.visualstudio.com/items?itemName=octref.vetur",
+      "name": "Vetur",
+      "url": "https://marketplace.visualstudio.com/items?itemName=octref.vetur",
+      "description": "Vue tooling for VS Code, powered by vls (vue language server). Vetur has support for formatting embedded HTML, CSS, SCSS, JS, TypeScript, and more. Vetur only has a \"whole document formatter\" and cannot format arbitrary ranges.",
       "section": [
         "Other"
       ]
@@ -5359,6 +5179,24 @@
       ]
     },
     {
+      "key": "https://github.com/btford/write-good",
+      "name": "write-good",
+      "url": "https://github.com/btford/write-good",
+      "description": "A linter with a focus on eliminating \"weasel words\".",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://vastlint.org",
+      "name": "vastlint",
+      "url": "https://vastlint.org",
+      "description": "copyright: — Validator and linter for VAST XML ad tags. Checks wrappers and inline tags against the IAB VAST 2.0-4.3 specification and can auto-fix deterministic issues.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
       "key": "https://commitlint.js.org",
       "name": "commitlint",
       "url": "https://commitlint.js.org",
@@ -5373,7 +5211,7 @@
       "url": "https://github.com/collections/clean-code-linters",
       "description": "A collection of linters in github collections",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     },
     {
@@ -5382,7 +5220,7 @@
       "url": "https://github.com/collections/code-quality-in-php",
       "description": "A collection of PHP linters in github collections",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     },
     {
@@ -5391,7 +5229,7 @@
       "url": "https://github.com/dominikh/go-tools",
       "description": "A collection of tools and libraries for working with Go code, including linters and static analysis",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     },
     {
@@ -5400,7 +5238,7 @@
       "url": "https://github.com/mcandre/linters",
       "description": "An introduction to static code analysis",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     },
     {
@@ -5409,7 +5247,7 @@
       "url": "https://owasp.org/www-community/Source_Code_Analysis_Tools",
       "description": "List of tools maintained by the Open Web Application Security Project",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     },
     {
@@ -5418,7 +5256,7 @@
       "url": "https://github.com/exakat/php-static-analysis-tools",
       "description": "A reviewed list of useful PHP static analysis tools",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     },
     {
@@ -5427,7 +5265,7 @@
       "url": "https://appsecsanta.com/sast-tools",
       "description": "Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     },
     {
@@ -5436,7 +5274,7 @@
       "url": "http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis",
       "description": "A list of tools for static code analysis.",
       "section": [
-        "More Collections"
+        "More collections"
       ]
     }
   ]

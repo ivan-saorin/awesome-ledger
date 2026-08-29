@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fcd2caa59f793392cbf19a9ac4df6bba693dbbb6995235ccade4c94dd6d703b0\"",
+  "etag": "W/\"bfda3b4f69cd0006b9fa6aff840d045049867f3513afb2b77997577d739c0f41\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1115,6 +1115,15 @@
       "name": "Chaingraph",
       "url": "https://github.com/bitauth/chaingraph/",
       "description": "A multi-node blockchain indexer and GraphQL API.",
+      "section": [
+        "Blockchain dump"
+      ]
+    },
+    {
+      "key": "https://github.com/amenano/nodsig",
+      "name": "nodsig",
+      "url": "https://github.com/amenano/nodsig",
+      "description": "Turns your node's blocks into sealed local artifacts: chain questions become offline lookups, and every answer carries a fingerprint anyone can recompute. Python stdlib only.",
       "section": [
         "Blockchain dump"
       ]

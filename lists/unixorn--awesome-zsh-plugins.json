@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2beeadae7374aba129f9421047c9966b7081bc08b3d8a3f78ce2c4c9376ccc28\"",
+  "etag": "W/\"a30ae587da92c486dfaa87ce2c04776376101e68982685afcb459aa6aa11e013\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -917,6 +917,15 @@
       "name": "ansible",
       "url": "https://github.com/sparsick/ansible-zsh",
       "description": "A plugin for Ansible.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/alexiszamanidis/zsh-ansible-fzf",
+      "name": "ansible-fzf",
+      "url": "https://github.com/alexiszamanidis/zsh-ansible-fzf/",
+      "description": "A plugin that completes ansible-playbook tags and works with fzf-tab.",
       "section": [
         "Plugins"
       ]
@@ -2614,6 +2623,15 @@
       ]
     },
     {
+      "key": "https://github.com/Giammarco-Ferranti/deja",
+      "name": "deja",
+      "url": "https://github.com/Giammarco-Ferranti/deja",
+      "description": "Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/justyntemme/zsh-deja-vu",
       "name": "deja-vu",
       "url": "https://github.com/justyntemme/zsh-deja-vu",
@@ -2645,6 +2663,15 @@
       "name": "deno (tricked-dev)",
       "url": "https://github.com/Tricked-dev/deno-zsh-plugin",
       "description": "Automatically installs deno to $HOME/.deno on startup if deno is not already installed.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/odurif0/zsh-dual-history",
+      "name": "dual-history",
+      "url": "https://github.com/odurif0/zsh-dual-history",
+      "description": "Keeps AI coding agent instructions (such as Forge's :-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns Ctrl+R into an fzf interface switchable between All, Human and AI views, merged chronologically.",
       "section": [
         "Plugins"
       ]
@@ -3320,15 +3347,6 @@
       "name": "eza (mohamedelashri)",
       "url": "https://github.com/MohamedElashri/eza-zsh",
       "description": "Adds aliases for eza, a modern replacement for ls.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
-      "key": "https://github.com/twopizza9621536/zsh-eza",
-      "name": "eza (twopizza9621536)",
-      "url": "https://github.com/twopizza9621536/zsh-eza",
-      "description": "Replaces ls with eza-community/eza.",
       "section": [
         "Plugins"
       ]
@@ -4165,7 +4183,7 @@
       "key": "https://github.com/asifshirazi/zsh-git-persona",
       "name": "git-persona",
       "url": "https://github.com/asifshirazi/zsh-git-persona",
-      "description": "Git will happily let you commit as one person and push as another. It never warns you, the push succeeds, and the wrong name is on that history for good. git-persona Lets you create a persona that ties one account's commit identity, SSH key and github login together, and switches them as a unit. Add as many as you have accounts.",
+      "description": "Switches git commit identity, SSH key and gh CLI account together for multiple GitHub accounts.",
       "section": [
         "Plugins"
       ]
@@ -5746,15 +5764,6 @@
       ]
     },
     {
-      "key": "https://github.com/TwoPizza9621536/zsh-ls",
-      "name": "ls (twopizza9621536)",
-      "url": "https://github.com/TwoPizza9621536/zsh-ls",
-      "description": "Adds some more aliases for ls.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
       "key": "https://github.com/tankeryang/zsh-lsd",
       "name": "lsd (tankeryang)",
       "url": "https://github.com/tankeryang/zsh-lsd",
@@ -7042,15 +7051,6 @@
       ]
     },
     {
-      "key": "https://github.com/TwoPizza9621536/zsh-plenv",
-      "name": "plenv",
-      "url": "https://github.com/TwoPizza9621536/zsh-plenv",
-      "description": "Plugin for the perl plenv version manager based on jenv.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
       "key": "https://github.com/rgalite/zsh-plugin-ibtool",
       "name": "plugin-ibtool",
       "url": "https://github.com/rgalite/zsh-plugin-ibtool",
@@ -7474,6 +7474,15 @@
       ]
     },
     {
+      "key": "https://github.com/dumidusw/psmon",
+      "name": "psmon",
+      "url": "https://github.com/dumidusw/psmon",
+      "description": "Lightweight interactive process monitor using standard Linux utilities (ps, awk, lsof) with live watch mode, resource sorting, and tree-aware process killing.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/fab1o/pump-zsh",
       "name": "pump",
       "url": "https://github.com/fab1o/pump-zsh",
@@ -7523,15 +7532,6 @@
       "name": "pyenv (mattberther)",
       "url": "https://github.com/mattberther/zsh-pyenv",
       "description": "Inspired by zsh-rbenv. Installs, updates or loads pyenv, and adds extra functionality.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
-      "key": "https://github.com/TwoPizza9621536/zsh-pyenv",
-      "name": "pyenv (twopizza9621536)",
-      "url": "https://github.com/TwoPizza9621536/zsh-pyenv",
-      "description": "Based on the oh-my-zsh pyenv plugin with modifications from the rbenv and jenv plugins.",
       "section": [
         "Plugins"
       ]
@@ -18206,6 +18206,15 @@
       "name": "msys2",
       "url": "https://github.com/water-logger/MSYS2-Theme/",
       "description": "Inspired by MSYS2. Includes decorators for user@host, git status and the current directory.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/FPGArtktic/ohmyzsh-mtsh-theme",
+      "name": "mtsh",
+      "url": "https://github.com/FPGArtktic/ohmyzsh-mtsh-theme",
+      "description": "Multi-line prompt for multi-user and DevOps machines. Includes decorators for the date and time, the address of the interface that reaches the default route, CPU and memory use, the number of logged-in users, git branch and status, and the exit code and duration of the last command. No fonts are required.",
       "section": [
         "Themes"
       ]
