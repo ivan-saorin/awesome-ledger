@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"34269afa809e82c9b5e43bddecdac5a622ab14c81799f3c242befec3dd1334b3\"",
+  "etag": "W/\"ba74e037d2888646084990ffb8b3229c8ab40d3e68c3bd01f860293f389f5713\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -89,6 +89,15 @@
       "name": "ai",
       "url": "https://github.com/joakimcarlsson/ai",
       "description": "A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/ferro-labs/ai-gateway",
+      "name": "ai-gateway",
+      "url": "https://github.com/ferro-labs/ai-gateway",
+      "description": "OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -7927,6 +7936,15 @@
       ]
     },
     {
+      "key": "https://github.com/tigusigalpa/bitget-go",
+      "name": "bitget-go",
+      "url": "https://github.com/tigusigalpa/bitget-go",
+      "description": "Go client for Bitget UTA API v3 with typed models, string-based prices, auto-reconnecting WebSocket, and demo trading.",
+      "section": [
+        "Financial"
+      ]
+    },
+    {
       "key": "https://github.com/tigusigalpa/bybit-go",
       "name": "bybit-go",
       "url": "https://github.com/tigusigalpa/bybit-go",
@@ -8174,6 +8192,15 @@
       "name": "techan",
       "url": "https://github.com/sdcoffey/techan",
       "description": "Technical analysis library with advanced market analysis and trading strategies.",
+      "section": [
+        "Financial"
+      ]
+    },
+    {
+      "key": "https://github.com/tigusigalpa/telegram-wallet-go",
+      "name": "telegram-wallet-go",
+      "url": "https://github.com/tigusigalpa/telegram-wallet-go",
+      "description": "Go client for Telegram Wallet Pay API with HMAC-SHA256 webhook verification, middleware for net/http, Gin, and Echo.",
       "section": [
         "Financial"
       ]
@@ -26297,6 +26324,16 @@
       "name": "scc",
       "url": "https://github.com/boyter/scc",
       "description": "Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
+      "key": "https://github.com/gjunqueira-sys/ScheduleGate",
+      "name": "ScheduleGate",
+      "url": "https://github.com/gjunqueira-sys/ScheduleGate",
+      "description": "DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.",
       "section": [
         "Software Packages",
         "Other Software"

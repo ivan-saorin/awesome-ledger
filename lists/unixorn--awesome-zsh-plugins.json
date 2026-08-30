@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a30ae587da92c486dfaa87ce2c04776376101e68982685afcb459aa6aa11e013\"",
+  "etag": "W/\"d661995271c8c02f863912761c0b63e10b6120cfade52ee4ecd3aea67fa73781\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -913,19 +913,19 @@
       ]
     },
     {
-      "key": "https://github.com/sparsick/ansible-zsh",
-      "name": "ansible",
-      "url": "https://github.com/sparsick/ansible-zsh",
-      "description": "A plugin for Ansible.",
+      "key": "https://github.com/alexiszamanidis/zsh-ansible-fzf",
+      "name": "ansible-fzf",
+      "url": "https://github.com/alexiszamanidis/zsh-ansible-fzf/",
+      "description": "A plugin that completes ansible-playbook tags and works with fzf-tab.",
       "section": [
         "Plugins"
       ]
     },
     {
-      "key": "https://github.com/alexiszamanidis/zsh-ansible-fzf",
-      "name": "ansible-fzf",
-      "url": "https://github.com/alexiszamanidis/zsh-ansible-fzf/",
-      "description": "A plugin that completes ansible-playbook tags and works with fzf-tab.",
+      "key": "https://github.com/sparsick/ansible-zsh",
+      "name": "ansible",
+      "url": "https://github.com/sparsick/ansible-zsh",
+      "description": "A plugin for Ansible.",
       "section": [
         "Plugins"
       ]
@@ -1885,6 +1885,15 @@
       ]
     },
     {
+      "key": "https://github.com/matijaoe/cage.plugin.zsh",
+      "name": "cage",
+      "url": "https://github.com/matijaoe/cage.plugin.zsh",
+      "description": "Adds command for age. It encrypts a plain file with a passphrase, decrypts an age file, and works out which from the file's own header.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/arzzen/calc.plugin.zsh",
       "name": "calc (arzzen)",
       "url": "https://github.com/arzzen/calc.plugin.zsh",
@@ -2623,19 +2632,19 @@
       ]
     },
     {
-      "key": "https://github.com/Giammarco-Ferranti/deja",
-      "name": "deja",
-      "url": "https://github.com/Giammarco-Ferranti/deja",
-      "description": "Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.",
+      "key": "https://github.com/justyntemme/zsh-deja-vu",
+      "name": "deja-vu",
+      "url": "https://github.com/justyntemme/zsh-deja-vu",
+      "description": "Logs and retrieves command history based on the directory it was run in. Never forget that complex docker or git command you ran in a project folder weeks ago.",
       "section": [
         "Plugins"
       ]
     },
     {
-      "key": "https://github.com/justyntemme/zsh-deja-vu",
-      "name": "deja-vu",
-      "url": "https://github.com/justyntemme/zsh-deja-vu",
-      "description": "Logs and retrieves command history based on the directory it was run in. Never forget that complex docker or git command you ran in a project folder weeks ago.",
+      "key": "https://github.com/Giammarco-Ferranti/deja",
+      "name": "deja",
+      "url": "https://github.com/Giammarco-Ferranti/deja",
+      "description": "Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.",
       "section": [
         "Plugins"
       ]
@@ -2663,15 +2672,6 @@
       "name": "deno (tricked-dev)",
       "url": "https://github.com/Tricked-dev/deno-zsh-plugin",
       "description": "Automatically installs deno to $HOME/.deno on startup if deno is not already installed.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
-      "key": "https://github.com/odurif0/zsh-dual-history",
-      "name": "dual-history",
-      "url": "https://github.com/odurif0/zsh-dual-history",
-      "description": "Keeps AI coding agent instructions (such as Forge's :-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns Ctrl+R into an fzf interface switchable between All, Human and AI views, merged chronologically.",
       "section": [
         "Plugins"
       ]
@@ -2942,6 +2942,15 @@
       "name": "drupal",
       "url": "https://github.com/yhaefliger/zsh-drupal",
       "description": "Adds aliases for common tasks and also tab-completion for drush. Inspired by Artisan.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/odurif0/zsh-dual-history",
+      "name": "dual-history",
+      "url": "https://github.com/odurif0/zsh-dual-history",
+      "description": "Keeps AI coding agent instructions (such as Forge's :-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns Ctrl+R into an fzf interface switchable between All, Human and AI views, merged chronologically.",
       "section": [
         "Plugins"
       ]
@@ -4045,6 +4054,15 @@
       ]
     },
     {
+      "key": "https://github.com/cpwillis/omz-git-branch",
+      "name": "git-branch",
+      "url": "https://github.com/cpwillis/omz-git-branch",
+      "description": "Augments git features, designed especially for users who prefer aesthetically pleasing branch naming conventions. It visually formats the current git branch name or commit hash, considering customisable variables like hiding status, maximum branch length, prefix, and suffix trimming, with an option to display git status.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/Schroefdop/git-branches",
       "name": "git-branches",
       "url": "https://github.com/Schroefdop/git-branches",
@@ -4895,6 +4913,15 @@
       "name": "history",
       "url": "https://github.com/b4b4r07/zsh-history",
       "description": "Extend history so that it can be queried by SQL.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/undefined443/histpop",
+      "name": "histpop",
+      "url": "https://github.com/undefined443/histpop",
+      "description": "Removes the last record from ~/.zsh_history. Useful right after running a command you don't want kept in your shell history (e.g. one containing a typo'd password or a temporary secret). Running histpop itself is also removed from history, so it leaves no trace.",
       "section": [
         "Plugins"
       ]
@@ -8581,6 +8608,15 @@
       ]
     },
     {
+      "key": "https://github.com/phongphuhanam/ssh-git-operations",
+      "name": "ssh-git-operations",
+      "url": "https://github.com/phongphuhanam/ssh-git-operations",
+      "description": "Provides secure, authenticated git push/pull/fetch operations over SSH to remote machines using GitHub token authentication. Tokens are never persisted on remote machines.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/obolientsev/ssh-host",
       "name": "ssh-host",
       "url": "https://github.com/obolientsev/ssh-host",
@@ -10043,6 +10079,15 @@
       "name": "worktree",
       "url": "https://github.com/jspears/worktree",
       "description": "Adds functions that wrap git worktree.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/kguzek/zsh-worktrunk",
+      "name": "worktrunk",
+      "url": "https://github.com/kguzek/zsh-worktrunk",
+      "description": "Inspired by the oh-my-zsh git plugin and provides aliases and a few useful functions for working with worktrunk.",
       "section": [
         "Plugins"
       ]
@@ -12685,15 +12730,6 @@
       ]
     },
     {
-      "key": "https://github.com/Yoswell/zsh_tshark_autocomplete",
-      "name": "tshark",
-      "url": "https://github.com/Yoswell/zsh_tshark_autocomplete",
-      "description": "Adds tab completions for TShark that provide deep, protocol-aware, and hierarchical autocompletion for display filters (-Y) and extracted fields (-e). Unlike traditional shell completions that only suggest flat protocol names or static options, this tool understands the internal structure of TShark fields.",
-      "section": [
-        "Completions"
-      ]
-    },
-    {
       "key": "https://github.com/DimitriSteyaert/Zsh-tugboat",
       "name": "tugboat",
       "url": "https://github.com/DimitriSteyaert/Zsh-tugboat",
@@ -13957,7 +13993,7 @@
       "key": "https://github.com/varunpbardwaj/bluo",
       "name": "bluo",
       "url": "https://github.com/varunpbardwaj/bluo",
-      "description": "Colorful prompt segments reminiscent of bullet-train or powerlevel10k. Includes git status decorations. r- bogo - Inspired by zeta. Includes git and ruby version decorations.",
+      "description": "Colorful prompt segments reminiscent of bullet-train or powerlevel10k. Includes git status decorations.",
       "section": [
         "Themes"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"36d4872fa394925a0c45fa19d7c67942f8a60339e80470137cc886063893463e\"",
+  "etag": "W/\"dfd502679a659b430bc2befabd3dedda0d49fe302c1e221b2c00df0ec964b99b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -339,10 +339,39 @@
       ]
     },
     {
+      "key": "https://firefly.ai/blog/introducing-fireflys-backstage-plugin-cloud-visibility-meets-developer-portals",
+      "name": "Firefly",
+      "url": "https://www.firefly.ai/blog/introducing-fireflys-backstage-plugin-cloud-visibility-meets-developer-portals",
+      "description": "Bring cloud asset visibility, IaC coverage, and drift detection into the catalog.",
+      "section": [
+        "Plugins",
+        "Community Plugins"
+      ]
+    },
+    {
+      "key": "https://roadie.io/backstage-weekly/128-backstagecon-recordings-devlake-plugin-new-releases",
+      "name": "DevLake DORA",
+      "url": "https://roadie.io/backstage-weekly/128-backstagecon-recordings-devlake-plugin-new-releases/",
+      "description": "Community backend module surfacing DORA metrics from Apache DevLake.",
+      "section": [
+        "Plugins",
+        "Community Plugins"
+      ]
+    },
+    {
       "key": "https://backstage.spotify.com/learn",
       "name": "Backstage Learn",
       "url": "https://backstage.spotify.com/learn/",
       "description": "",
+      "section": [
+        "Tutorials and Guides"
+      ]
+    },
+    {
+      "key": "https://backstage.spotify.com/release-notes",
+      "name": "Spotify Plugins Release Notes",
+      "url": "https://backstage.spotify.com/release-notes/",
+      "description": "Track updates to Soundcheck, Insights, RBAC, and other Spotify plugins.",
       "section": [
         "Tutorials and Guides"
       ]
@@ -420,9 +449,9 @@
       ]
     },
     {
-      "key": "https://backstage.github.io/upgrade-helper?to=1.48.0",
+      "key": "https://backstage.github.io/upgrade-helper?to=1.54.0",
       "name": "Upgrade Helper",
-      "url": "https://backstage.github.io/upgrade-helper/?to=1.48.0",
+      "url": "https://backstage.github.io/upgrade-helper/?to=1.54.0",
       "description": "Compare versions and plan dependency updates for Backstage upgrades.",
       "section": [
         "Tools and Integrations"
@@ -528,6 +557,15 @@
       ]
     },
     {
+      "key": "https://roadie.io/backstage-weekly",
+      "name": "Backstage Weekly",
+      "url": "https://roadie.io/backstage-weekly/",
+      "description": "Weekly newsletter tracking releases, plugins, and community news.",
+      "section": [
+        "Community and Contributions"
+      ]
+    },
+    {
       "key": "https://youtube.com/watch?v=1XtJ5FAOjPk",
       "name": "Introduction to Backstage",
       "url": "https://www.youtube.com/watch?v=1XtJ5FAOjPk",
@@ -558,7 +596,7 @@
       "key": "https://backstage.io/docs/releases/v1.54.0",
       "name": "Backstage v1.54.0 Release Notes",
       "url": "https://backstage.io/docs/releases/v1.54.0/",
-      "description": "Latest stable release with platform updates and bug fixes.",
+      "description": "Latest stable minor release with platform updates and bug fixes (v1.54.6 latest patch).",
       "section": [
         "Articles and Presentations"
       ]
@@ -577,6 +615,15 @@
       "name": "BackstageCon + KubeCon NA 2025 Highlights",
       "url": "https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta",
       "description": "Recap of recent platform updates and community demos from Atlanta.",
+      "section": [
+        "Articles and Presentations"
+      ]
+    },
+    {
+      "key": "https://backstage.io/blog/2026/04/20/backstagecon-kubecon-26-amsterdam",
+      "name": "BackstageCon + KubeCon EU 2026 Amsterdam",
+      "url": "https://backstage.io/blog/2026/04/20/backstagecon-kubecon-26-amsterdam",
+      "description": "Schedule, CFP, and maintainer sessions for the Amsterdam event.",
       "section": [
         "Articles and Presentations"
       ]

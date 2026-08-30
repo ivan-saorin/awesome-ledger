@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5f60a3e734d3e92a988fdd536f4ed3fe3d81299cb44bcc7fc37f467166101053\"",
+  "etag": "W/\"2b9f08500b63d70dfefb0d6598c051f2054ff1242b6dda5af03b502f1420393f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -359,6 +359,15 @@
       "name": "mmalmi/nostr-vpn",
       "url": "https://github.com/mmalmi/nostr-vpn",
       "description": "[nvpn] - Tailscale-style private mesh VPN built on Nostr identities and a FIPS-backed data plane. Features native cross-platform apps (macOS, Linux, Windows, Mobile) and a CLI/daemon.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/newdee/magpie",
+      "name": "newdee/magpie",
+      "url": "https://github.com/newdee/magpie",
+      "description": "Local-first Spotlight-style launcher that searches your GitHub stars, local files, images, and videos semantically, fully on-device.",
       "section": [
         "Applications"
       ]
@@ -5989,6 +5998,16 @@
       ]
     },
     {
+      "key": "https://github.com/IndexFlowing/IndexFlow-core",
+      "name": "IndexFlowing/IndexFlow-core",
+      "url": "https://github.com/IndexFlowing/IndexFlow-core",
+      "description": "Self-hosted SEO indexing infrastructure for managing sitemaps, URL submissions, and search engine indexing.",
+      "section": [
+        "Applications",
+        "Web"
+      ]
+    },
+    {
       "key": "https://github.com/janreges/siteone-crawler",
       "name": "janreges/siteone-crawler",
       "url": "https://github.com/janreges/siteone-crawler",
@@ -8193,6 +8212,16 @@
       "name": "dupehound",
       "url": "https://github.com/Rafaelpta/dupehound",
       "description": "[dupehound] - Duplicate-code detector that fingerprints function bodies (winnowing), so copies survive renaming. Repo slop score, duplication history chart, and a CI gate that points to the original function to reuse. Supports Rust and 11 other languages.",
+      "section": [
+        "Development tools",
+        "Static analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/kucherenko/jscpd",
+      "name": "kucherenko/jscpd",
+      "url": "https://github.com/kucherenko/jscpd",
+      "description": "[jscpd] - Copy/paste detector for source code that finds duplicated blocks across 220+ file formats",
       "section": [
         "Development tools",
         "Static analysis"
