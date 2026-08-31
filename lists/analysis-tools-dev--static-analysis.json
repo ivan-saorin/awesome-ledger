@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"77bb23506f0201acba150b379bc8607c2e9a8c0b289d276752c8f31de918b070\"",
+  "etag": "W/\"5374a1cd2209e910609274a3ac42af9a959b732d464dde3b732cb220f18ad47f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2267,6 +2267,15 @@
       "name": "pgspot",
       "url": "https://github.com/timescale/pgspot",
       "description": "Spot vulnerabilities in postgres extension scripts. Finds unsafe search_path usage and unsafe object creation in PostgreSQL extension scripts or any other PostgreSQL SQL code.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/Goldziher/scythe",
+      "name": "scythe",
+      "url": "https://github.com/Goldziher/scythe",
+      "description": "Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.",
       "section": [
         "Programming Languages"
       ]

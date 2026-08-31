@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7884a0d3dc780c515d2fb3b563638ed3f23ad1e62065c0345822365e4d8c9bcd\"",
+  "etag": "W/\"9ff9a2bccd56b6c50beb19276921a2d91ad707f07f9d7326fa4090402965a5f4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -598,6 +598,15 @@
       ]
     },
     {
+      "key": "https://github.com/sergeyizmailov/knowledge-delta-skills",
+      "name": "Knowledge Delta Skills",
+      "url": "https://github.com/sergeyizmailov/knowledge-delta-skills",
+      "description": "Portable SKILL.md skills for media buying, frontend, security, research, and skill authoring, each kept to what a frontier model does not already reliably know. Copy any skill directory into ~/.gemini/skills/ and Gemini CLI discovers it.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -940,9 +949,9 @@
       ]
     },
     {
-      "key": "https://github.com/router-form-me/CLIProxyAPI",
+      "key": "https://github.com/router-for-me/CLIProxyAPI",
       "name": "CLIProxyAPI",
-      "url": "https://github.com/router-form-me/CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.",
       "section": [
         "API Bridges & Proxies"
@@ -953,6 +962,15 @@
       "name": "gemini-cli-mcp-openai-bridge",
       "url": "https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge",
       "description": "Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://teamorouter.cn",
+      "name": "TeamoRouter",
+      "url": "https://teamorouter.cn",
+      "description": "Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly. Free permanent DeepSeek tiers (V4 Pro 200 req/day, V4 Flash 50 req/day, 1M ctx).",
       "section": [
         "API Bridges & Proxies"
       ]

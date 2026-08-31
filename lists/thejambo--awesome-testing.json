@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"30071b1737069b592a12384b7773e3a7ecd86cb8d7123485bd9a309de494633f\"",
+  "etag": "W/\"6a22b64e984dc89537e28bf91e7f4277ec64e7300ab4b8a4d9a3df7a00e6624a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -268,6 +268,16 @@
       "name": "nika",
       "url": "https://github.com/supernovae-st/nika",
       "description": "Workflow engine for AI with testing built in: nika test pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/mukundzha/crilio",
+      "name": "crilio",
+      "url": "https://github.com/mukundzha/crilio",
+      "description": "An open-source Python CLI that uses LLM-as-a-Judge to automate semantic regression testing for LLM prompts in CI/CD, blocking GitHub PRs that cause hallucinations or break formatting rules. Supports OpenAI, Anthropic, and local Ollama models.",
       "section": [
         "Software",
         "AI & LLM Testing"
@@ -698,6 +708,16 @@
       "name": "DATAMIMIC CE",
       "url": "https://github.com/rapiddweller/datamimic",
       "description": "Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://timliu724.github.io/dummy-data-lab",
+      "name": "Dummy Data Lab",
+      "url": "https://timliu724.github.io/dummy-data-lab/",
+      "description": "Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.",
       "section": [
         "Software",
         "Test Data Management"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"118634a2030afe99579111b1d9829d858d361506e18d0ee610a6df4bc3872b85\"",
+  "etag": "W/\"40819cf23b55649d19b668bb9d8344ad09050e7d61d1dbd264311e4c7f6507f7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -337,18 +337,9 @@
       ]
     },
     {
-      "key": "https://github.com/mastodon/mastodon-android",
-      "name": "Official Client",
-      "url": "https://github.com/mastodon/mastodon-android/",
-      "description": "Official Android client.",
-      "section": [
-        "Desktop Clients"
-      ]
-    },
-    {
-      "key": "https://whalebird.social/en/desktop/contents",
+      "key": "https://whalebird.social",
       "name": "Whalebird",
-      "url": "https://whalebird.social/en/desktop/contents/",
+      "url": "https://whalebird.social/",
       "description": "Electron-based Mastodon client.",
       "section": [
         "Desktop Clients"
@@ -379,6 +370,15 @@
       "description": "Mastodon CLI readline client written in Go.",
       "section": [
         "Desktop Clients"
+      ]
+    },
+    {
+      "key": "https://github.com/mastodon/mastodon-android",
+      "name": "Official Client",
+      "url": "https://github.com/mastodon/mastodon-android/",
+      "description": "Official Android client.",
+      "section": [
+        "Mobile Clients"
       ]
     },
     {

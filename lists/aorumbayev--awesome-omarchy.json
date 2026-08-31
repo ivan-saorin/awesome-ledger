@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4df77d23405ac01abf6fb3e3ddca17dc57ad2b94be7aa145c6427a68eb05e66e\"",
+  "etag": "W/\"953fed54f995ad5105d6967180827ea755243374f32ff90a1f1912159d78aa17\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -323,6 +323,15 @@
       "name": "omaplug",
       "url": "https://github.com/fross100/omaplug",
       "description": "Standalone manager to enable, update, install, and remove Omarchy plugins.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/onlyVishesh/omarchy-power-manager",
+      "name": "Omarchy Power Manager",
+      "url": "https://github.com/onlyVishesh/omarchy-power-manager",
+      "description": "Advanced battery controller with dynamic profile switching, smart thresholds, and native hibernation support.",
       "section": [
         "Plugins"
       ]
