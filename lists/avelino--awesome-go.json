@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b1d336c2b769e5d08b168a88a9e50a418f387530f1f2b431bb51f8bdc2ae9e00\"",
+  "etag": "W/\"f089a4226bc9ceeada97fc95f654c03bb0d054a28ad2218824e10abcaff45dc7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3838,6 +3838,16 @@
       "name": "skiplist",
       "url": "https://github.com/gansidui/skiplist",
       "description": "Skiplist implementation in Go.",
+      "section": [
+        "Data Structures and Algorithms",
+        "Trees"
+      ]
+    },
+    {
+      "key": "https://github.com/huandu/skiplist",
+      "name": "skiplist",
+      "url": "https://github.com/huandu/skiplist",
+      "description": "Fast and easy-to-use skip list for Go.",
       "section": [
         "Data Structures and Algorithms",
         "Trees"
@@ -11419,6 +11429,15 @@
       ]
     },
     {
+      "key": "https://github.com/samber/slog-datadog",
+      "name": "slog-datadog",
+      "url": "https://github.com/samber/slog-datadog",
+      "description": "A slog handler for Datadog.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
       "key": "https://github.com/samber/slog-formatter",
       "name": "slog-formatter",
       "url": "https://github.com/samber/slog-formatter",
@@ -11428,10 +11447,64 @@
       ]
     },
     {
+      "key": "https://github.com/samber/slog-logrus",
+      "name": "slog-logrus",
+      "url": "https://github.com/samber/slog-logrus",
+      "description": "A slog handler for Logrus.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/samber/slog-loki",
+      "name": "slog-loki",
+      "url": "https://github.com/samber/slog-loki",
+      "description": "A slog handler for Grafana Loki.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
       "key": "https://github.com/samber/slog-multi",
       "name": "slog-multi",
       "url": "https://github.com/samber/slog-multi",
       "description": "Chain of slog.Handler (pipeline, fanout...).",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/samber/slog-sentry",
+      "name": "slog-sentry",
+      "url": "https://github.com/samber/slog-sentry",
+      "description": "A slog handler for Sentry.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/samber/slog-slack",
+      "name": "slog-slack",
+      "url": "https://github.com/samber/slog-slack",
+      "description": "A slog handler for Slack.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/samber/slog-zap",
+      "name": "slog-zap",
+      "url": "https://github.com/samber/slog-zap",
+      "description": "A slog handler for Zap.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/samber/slog-zerolog",
+      "name": "slog-zerolog",
+      "url": "https://github.com/samber/slog-zerolog",
+      "description": "A slog handler for Zerolog.",
       "section": [
         "Logging"
       ]
@@ -25862,6 +25935,16 @@
       "name": "CrunchyCleaner",
       "url": "https://github.com/Knuspii/CrunchyCleaner",
       "description": "A lightweight, software cache cleanup tool for Windows & Linux.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
+      "key": "https://github.com/tsraveling/dispositio",
+      "name": "dispositio",
+      "url": "https://github.com/tsraveling/dispositio",
+      "description": "Terminal tool for planning large projects in simple markdown.",
       "section": [
         "Software Packages",
         "Other Software"

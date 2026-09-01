@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0d6253f5b3bd3d358c11c8b400d69ddcb489ba85eee19a4bc01bc335216dfeec\"",
+  "etag": "W/\"32077db89ab488c01a95eb2fd7310a3f5dc3ab37d7177b036b56865616850dca\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -274,10 +274,30 @@
       ]
     },
     {
+      "key": "https://1bench.dev/postgresql",
+      "name": "1bench",
+      "url": "https://1bench.dev/postgresql",
+      "description": "Native cross-platform GUI with first-class Postgres support alongside Redis, Elasticsearch, ClickHouse, Qdrant, and more (Commercial Software).",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
       "key": "https://adminer.org",
       "name": "Adminer",
       "url": "https://www.adminer.org/",
       "description": "Full-featured database management tool written in PHP.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://aifordatabase.com",
+      "name": "AI for Database",
+      "url": "https://aifordatabase.com",
+      "description": "Chat with your PostgreSQL database in natural language. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. (Commercial Software).",
       "section": [
         "Contents",
         "GUI"
@@ -334,6 +354,16 @@
       ]
     },
     {
+      "key": "https://github.com/dekart-xyz/dekart",
+      "name": "Dekart",
+      "url": "https://github.com/dekart-xyz/dekart",
+      "description": "Open-source platform to turn PostGIS queries into shareable interactive maps.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
       "key": "https://datazenit.com",
       "name": "Datazenit",
       "url": "https://datazenit.com/",
@@ -357,7 +387,7 @@
       "key": "https://streams.dbconvert.com",
       "name": "DBConvert Streams",
       "url": "https://streams.dbconvert.com/",
-      "description": "A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).",
+      "description": "Database IDE with migration, federated SQL, and CDC replication for PostgreSQL, MySQL, files, and S3-compatible storage. (Commercial Software).",
       "section": [
         "Contents",
         "GUI"
@@ -454,6 +484,16 @@
       ]
     },
     {
+      "key": "https://github.com/cin12211/orca-q",
+      "name": "OrcaQ",
+      "url": "https://github.com/cin12211/orca-q",
+      "description": "A modern, open-source database editor for PostgreSQL, MySQL, Redis, and more. Features an AI assistant, ERD visualizer, schema diff, and visual role management.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
       "key": "https://pgadmin.org",
       "name": "pgAdmin",
       "url": "https://www.pgadmin.org/",
@@ -488,6 +528,16 @@
       "name": "pgModeler",
       "url": "https://pgmodeler.io/",
       "description": "pgModeler is an open-source PostgreSQL Database Modeler.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/dev-asterix/PgStudio",
+      "name": "PgStudio",
+      "url": "https://github.com/dev-asterix/PgStudio",
+      "description": "Open-source VS Code / Open VSX extension for PostgreSQL management with SQL notebooks, AI assistant, Easy to use code snippets and Full-fledged DBMS with real-time monitoring dashboard.",
       "section": [
         "Contents",
         "GUI"
@@ -624,6 +674,16 @@
       ]
     },
     {
+      "key": "https://tablepro.app",
+      "name": "TablePro",
+      "url": "https://tablepro.app/",
+      "description": "Native macOS PostgreSQL client with explain visualization, ER diagrams, and AI assistant. Free, open-source.",
+      "section": [
+        "Contents",
+        "GUI"
+      ]
+    },
+    {
       "key": "https://valentina-db.com/en/valentina-studio-overview",
       "name": "Valentina Studio",
       "url": "https://www.valentina-db.com/en/valentina-studio-overview",
@@ -688,6 +748,26 @@
       "name": "pgcli",
       "url": "https://github.com/dbcli/pgcli",
       "description": "Postgres CLI with autocompletion and syntax highlighting",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://pgfence.com",
+      "name": "pgfence",
+      "url": "https://pgfence.com",
+      "description": "Lints Postgres SQL migrations for lock modes and risky DDL, with safe expand/contract rewrites. CLI plus LSP. Extractors for Prisma, TypeORM, and Knex.",
+      "section": [
+        "Contents",
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/Balaji01-4D/pgxcli",
+      "name": "pgxcli",
+      "url": "https://github.com/Balaji01-4D/pgxcli",
+      "description": "Postgres CLI with autocompletion and syntax highlighting written in Go.",
       "section": [
         "Contents",
         "CLI"
@@ -864,6 +944,16 @@
       ]
     },
     {
+      "key": "https://github.com/pgrls/pgrls",
+      "name": "pgrls",
+      "url": "https://github.com/pgrls/pgrls",
+      "description": "static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.",
+      "section": [
+        "Contents",
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/OPMDG/check_pgactivity",
       "name": "check_pgactivity",
       "url": "https://github.com/OPMDG/check_pgactivity",
@@ -984,6 +1074,16 @@
       ]
     },
     {
+      "key": "https://github.com/hrodrig/pgwd",
+      "name": "pgwd",
+      "url": "https://github.com/hrodrig/pgwd",
+      "description": "monitors PostgreSQL connection usage and stale sessions, with threshold alerts, Prometheus metrics, and multiple notification backends.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
       "key": "https://postgresql.org/docs/devel/static/pgbench.html",
       "name": "pgbench",
       "url": "https://www.postgresql.org/docs/devel/static/pgbench.html",
@@ -1058,6 +1158,16 @@
       "name": "StatsMgr",
       "url": "https://codeberg.org/data-bene/statsmgr",
       "description": "An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.",
+      "section": [
+        "Contents",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/pgvitals/pgvitals",
+      "name": "pgvitals",
+      "url": "https://github.com/pgvitals/pgvitals",
+      "description": "collection of 40 read-only diagnostic queries for spotting common performance problems (slow queries, bloat, vacuum lag, lock contention, replication lag, wraparound risk) using only the standard system catalog with no extensions required, plus an optional CLI that aggregates them into a 0-100 health score.",
       "section": [
         "Contents",
         "Monitoring"
@@ -1148,6 +1258,16 @@
       "name": "pg_search",
       "url": "https://github.com/paradedb/paradedb",
       "description": "pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.",
+      "section": [
+        "Contents",
+        "Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Intelligent-Internet/psql_bm25s",
+      "name": "psql_bm25s",
+      "url": "https://github.com/Intelligent-Internet/psql_bm25s",
+      "description": "PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL top-k query APIs.",
       "section": [
         "Contents",
         "Extensions"
@@ -1398,6 +1518,16 @@
       "name": "Atlas4D",
       "url": "https://github.com/crisbez/atlas4d-base",
       "description": "Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.",
+      "section": [
+        "Contents",
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/matisiekpl/neond",
+      "name": "neond",
+      "url": "https://github.com/matisiekpl/neond",
+      "description": "DX-focused control plane for Postgres with branching, PITR, and S3 durability. Ships as a single Docker container with a web dashboard; positions itself as a postgres:latest replacement for non-critical workloads.",
       "section": [
         "Contents",
         "Platforms"
@@ -1838,6 +1968,16 @@
       "name": "pgfutter",
       "url": "https://github.com/lukasmartinelli/pgfutter",
       "description": "Import CSV and JSON into PostgreSQL the easy way.",
+      "section": [
+        "Contents",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/randoneering/pgFirstAid",
+      "name": "pgFirstAid",
+      "url": "https://github.com/randoneering/pgFirstAid",
+      "description": "Easy-to-deploy, open source PostgreSQL function that provides a prioritized list of actions to improve database stability and performance. Directly inspired by Brent Ozar's FirstResponderKit for SQL Server.",
       "section": [
         "Contents",
         "Utilities"
@@ -2434,6 +2574,16 @@
       ]
     },
     {
+      "key": "https://rivestack.io",
+      "name": "Rivestack",
+      "url": "https://rivestack.io",
+      "description": "Managed PostgreSQL with pgvector pre-installed and HNSW-tuned for vector search. Free tier (2 GB, no credit card), flat-priced dedicated instances from $15/month, EU and US regions.",
+      "section": [
+        "Contents",
+        "PaaS (PostgreSQL as a Service)"
+      ]
+    },
+    {
       "key": "https://scalegrid.io/postgresql.html",
       "name": "ScaleGrid PostgreSQL DBaaS",
       "url": "https://scalegrid.io/postgresql.html",
@@ -2538,6 +2688,16 @@
       "name": "paradedb/paradedb",
       "url": "https://hub.docker.com/r/paradedb/paradedb/",
       "description": "ParadeDB is Postgres for Search and Analytics. Based on the official Postgres container with pg_search extension.",
+      "section": [
+        "Contents",
+        "Docker images"
+      ]
+    },
+    {
+      "key": "https://github.com/pglayers/pglayers",
+      "name": "pglayers",
+      "url": "https://github.com/pglayers/pglayers",
+      "description": "Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).",
       "section": [
         "Contents",
         "Docker images"
@@ -2678,6 +2838,16 @@
       "name": "Postgres Guide",
       "url": "http://postgresguide.com/",
       "description": "Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://andersnasell.gumroad.com/l/postgresql-access-control",
+      "name": "PostgreSQL Access Control",
+      "url": "https://andersnasell.gumroad.com/l/postgresql-access-control",
+      "description": "The complete mental model: roles, grants, ownership, membership, policies, and default privileges as an integrated system. PDF + video, ~60 min.",
       "section": [
         "Resources",
         "Tutorials"

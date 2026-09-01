@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6a24421bbc77ce170a3be022a285238f8781bf7daabec39b13f681f41f485da6\"",
+  "etag": "W/\"2bca338e23aa265f8b3a5f78d252ae8cfb53dbdfe786c1ff0a7794e9e7926c0e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3554,53 +3554,103 @@
       ]
     },
     {
-      "key": "https://github.com/gioboa/angular-microfrontend-demo",
-      "name": "angular-microfrontend-demo",
-      "url": "https://github.com/gioboa/angular-microfrontend-demo",
-      "description": "Module Federation Vite + Angular is now possible.",
+      "key": "https://nx.dev/docs/kb/angular-micro-frontends",
+      "name": "angular-micro-frontends",
+      "url": "https://nx.dev/docs/kb/angular-micro-frontends",
+      "description": "Micro-frontends with Angular and Nx.",
       "section": [
         "Architecture and Advanced Topics",
-        "Micro-Frontends"
+        "Micro Frontends"
       ]
     },
     {
-      "key": "https://github.com/Backbase/backbase-micro-frontends",
-      "name": "backbase-micro-frontends",
-      "url": "https://github.com/Backbase/backbase-micro-frontends",
-      "description": "Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.",
+      "key": "https://github.com/luigi-project/luigi",
+      "name": "luigi",
+      "url": "https://github.com/luigi-project/luigi",
+      "description": "Enterprise-ready, technology-agnostic micro-frontend orchestration framework with out-of-the-box navigation and authorization features.",
       "section": [
         "Architecture and Advanced Topics",
-        "Micro-Frontends"
+        "Micro Frontends"
       ]
     },
     {
       "key": "https://github.com/santoshshinde2012/micro-frontends-mindmaps",
       "name": "micro-frontends-mindmaps",
       "url": "https://github.com/santoshshinde2012/micro-frontends-mindmaps",
-      "description": "A mindmap summarizing micro-frontends concepts.",
+      "description": "A mindmap summarizing micro-frontend concepts.",
       "section": [
         "Architecture and Advanced Topics",
-        "Micro-Frontends"
+        "Micro Frontends"
       ]
     },
     {
-      "key": "https://github.com/dkhrunov/ngx-mfe",
-      "name": "ngx-mfe",
-      "url": "https://github.com/dkhrunov/ngx-mfe",
-      "description": "Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.",
+      "key": "https://github.com/native-federation/angular-adapter",
+      "name": "@native-federation/angular-adapter",
+      "url": "https://github.com/native-federation/angular-adapter",
+      "description": "The official reference implementation and starter template for using Native Federation with Angular.",
       "section": [
         "Architecture and Advanced Topics",
-        "Micro-Frontends"
+        "Module Federation Vite"
+      ]
+    },
+    {
+      "key": "https://github.com/angulardevelopment/micro-frontend-monorepo",
+      "name": "@angulardevelopment/micro-frontend-monorepo",
+      "url": "https://github.com/angulardevelopment/micro-frontend-monorepo",
+      "description": "A scalable micro-frontend monorepo architecture using modern tooling (e.g., Nx / Turborepo / Webpack Module Federation / Vite).",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Module Federation Vite"
+      ]
+    },
+    {
+      "key": "https://github.com/Eraybulut34/micro-frontend-vite-vue-react-angular-ts",
+      "name": "micro-frontend-vite-vue-react-angular-ts",
+      "url": "https://github.com/Eraybulut34/micro-frontend-vite-vue-react-angular-ts",
+      "description": "Multi-framework micro-frontends (Vue, React, Angular) integrated into a Vue.js shell using Module Federation.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Module Federation Vite"
       ]
     },
     {
       "key": "https://github.com/module-federation/core",
       "name": "@module-federation/core",
       "url": "https://github.com/module-federation/core",
-      "description": "Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.",
+      "description": "Core library allowing developers to share code and resources dynamically across multiple JavaScript applications.",
       "section": [
         "Architecture and Advanced Topics",
-        "Module Federation"
+        "Module Federation Webpack"
+      ]
+    },
+    {
+      "key": "https://github.com/araujomartin/angular-mfe-poc",
+      "name": "angular-mfe-poc",
+      "url": "https://github.com/araujomartin/angular-mfe-poc",
+      "description": "POC demonstrating micro-frontend architecture with Angular acting as the host.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Module Federation Webpack"
+      ]
+    },
+    {
+      "key": "https://github.com/igorhms/mfe-crossframework",
+      "name": "mfe-crossframework",
+      "url": "https://github.com/igorhms/mfe-crossframework",
+      "description": "Module Federation project with Angular host and cross-framework remotes built without Nx.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Module Federation Webpack"
+      ]
+    },
+    {
+      "key": "https://github.com/angular-architects/module-federation-plugin",
+      "name": "module-federation-plugin",
+      "url": "https://github.com/angular-architects/module-federation-plugin",
+      "description": "Plugin integrating Module Federation with Angular CLI for loading micro-frontends or plugins.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Module Federation Webpack"
       ]
     },
     {
@@ -3610,17 +3660,17 @@
       "description": "Truly dynamic modules at runtime with Module Federation.",
       "section": [
         "Architecture and Advanced Topics",
-        "Module Federation"
+        "Module Federation Webpack"
       ]
     },
     {
-      "key": "https://github.com/angular-architects/module-federation-plugin",
-      "name": "module-federation-plugin",
-      "url": "https://github.com/angular-architects/module-federation-plugin",
-      "description": "Plugin integrating Module Federation with Angular CLI for loading micro frontends or plugins.",
+      "key": "https://github.com/dkhrunov/ngx-mfe",
+      "name": "ngx-mfe",
+      "url": "https://github.com/dkhrunov/ngx-mfe",
+      "description": "Angular library for working with micro-frontends in Webpack 5 and the Module Federation plugin.",
       "section": [
         "Architecture and Advanced Topics",
-        "Module Federation"
+        "Module Federation Webpack"
       ]
     },
     {
@@ -3630,37 +3680,7 @@
       "description": "Guide to learn about Webpack Module Federation with several Angular code demos.",
       "section": [
         "Architecture and Advanced Topics",
-        "Module Federation"
-      ]
-    },
-    {
-      "key": "https://github.com/Seifenn/vite-module-federation-angular-test",
-      "name": "Vite-module-federation-angular-test",
-      "url": "https://github.com/Seifenn/vite-module-federation-angular-test",
-      "description": "Tests Module Federation Vite with Angular and AnalogJS (via @brandonroberts/angular-vite); explores SSR with an AnalogJS host (plugin SSR support may vary).",
-      "section": [
-        "Architecture and Advanced Topics",
-        "Module Federation"
-      ]
-    },
-    {
-      "key": "https://github.com/igorhms/mfe-crossframework",
-      "name": "mfe-crossframework",
-      "url": "https://github.com/igorhms/mfe-crossframework",
-      "description": "Module Federation project with Angular Host, Cross-framework remotes and without Nx.",
-      "section": [
-        "Architecture and Advanced Topics",
-        "Module Federation"
-      ]
-    },
-    {
-      "key": "https://npmjs.com/package/npm-mfe-live-reload",
-      "name": "npm-mfe-live-reload",
-      "url": "https://www.npmjs.com/package/npm-mfe-live-reload",
-      "description": "This tool auto-reloads the shell in development mode when remote microfrontends change.",
-      "section": [
-        "Architecture and Advanced Topics",
-        "Module Federation"
+        "Module Federation Webpack"
       ]
     },
     {
@@ -7988,6 +8008,16 @@
       "name": "ng-craft",
       "url": "https://github.com/ng-angular-stack/ng-craft",
       "description": "A Signal-based Angular toolkit for modeling state, asynchronous work, services, forms, dependency injection, and routes with explicit dependencies and strong TypeScript inference.",
+      "section": [
+        "State Management",
+        "Other State Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/royhansen99/object-recipes",
+      "name": "object-recipes",
+      "url": "https://github.com/royhansen99/object-recipes",
+      "description": "Lightweight, type-safe Immer alternative using string paths for immutable nested updates, featuring deep-equal optimization and universal state management integration.",
       "section": [
         "State Management",
         "Other State Libraries"

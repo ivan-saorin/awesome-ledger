@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9ff9a2bccd56b6c50beb19276921a2d91ad707f07f9d7326fa4090402965a5f4\"",
+  "etag": "W/\"aa85f753538ca790a88c9f56170649f33ff91151cc123b88242ae88417e57655\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -872,6 +872,15 @@
       "name": "Hexis",
       "url": "https://github.com/Bevel-Software/Hexis",
       "description": "Git-backed platform for skills, tools, and context for AI agents, available to Gemini CLI through a remote OAuth MCP server.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Hahaknight/claude-skills-pro",
+      "name": "claude-skills-pro",
+      "url": "https://github.com/Hahaknight/claude-skills-pro",
+      "description": "15 engineering-workflow skills (7-dimension code review, root-cause debugging, bug-catching test generation, behavior-preserving refactor, zero-downtime DB migration; 7 free/MIT) with CN/EN handbooks. Installs into Gemini CLI via the open skills installer: npx skills add Hahaknight/claude-skills-pro --agent gemini-cli (install path verified end-to-end in Gemini CLI).",
       "section": [
         "Development Tools & Utilities"
       ]
