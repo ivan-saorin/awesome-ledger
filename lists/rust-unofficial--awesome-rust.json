@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"94da5650b2d5469543300c043898fdd6a292801cb5c1950b964bae0f07a9da50\"",
+  "etag": "W/\"a638ee89361088cefaacfef4b0976ac938d6fbdfc812c437553b86c8739c3c5f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1648,6 +1648,16 @@
       ]
     },
     {
+      "key": "https://github.com/picodata/picodata",
+      "name": "Picodata",
+      "url": "https://github.com/picodata/picodata",
+      "description": "[picodata-plugin] - Distributed PostgreSQL-compatible database with a plugin model in Rust; Redis and Cassandra wire compatibility via commercial plugins.",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
       "key": "https://github.com/PRQL/prql",
       "name": "PRQL",
       "url": "https://github.com/PRQL/prql",
@@ -1721,7 +1731,7 @@
       "key": "https://github.com/riii111/sabiql",
       "name": "sabiql",
       "url": "https://github.com/riii111/sabiql",
-      "description": "[sabiql] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.",
+      "description": "[sabiql] - Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.",
       "section": [
         "Applications",
         "Database"
@@ -2875,6 +2885,16 @@
       "section": [
         "Applications",
         "Message Queue"
+      ]
+    },
+    {
+      "key": "https://github.com/api7/aisix",
+      "name": "api7/aisix",
+      "url": "https://github.com/api7/aisix",
+      "description": "Open-source AI gateway for LLMs and AI agents: one OpenAI-compatible API plus a native Anthropic Messages API in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, and other OpenAI-compatible endpoints, with MCP and A2A gateways, semantic routing, guardrails, and semantic caching.",
+      "section": [
+        "Applications",
+        "MLOps"
       ]
     },
     {

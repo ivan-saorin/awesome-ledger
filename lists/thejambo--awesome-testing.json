@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6a22b64e984dc89537e28bf91e7f4277ec64e7300ab4b8a4d9a3df7a00e6624a\"",
+  "etag": "W/\"d2b9b0bd65a01886d8a164dffe41aa13da75fd6d91ed8d3df2df048fa9cb147b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -614,6 +614,16 @@
       ]
     },
     {
+      "key": "https://github.com/Quality-Max/qmax-mcp",
+      "name": "qmax-mcp",
+      "url": "https://github.com/Quality-Max/qmax-mcp",
+      "description": "MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://github.com/jo-duchan/tapflow",
       "name": "tapflow",
       "url": "https://github.com/jo-duchan/tapflow",
@@ -694,6 +704,16 @@
       ]
     },
     {
+      "key": "https://tempmailgrab.com/api-docs",
+      "name": "TempMailGrab",
+      "url": "https://tempmailgrab.com/api-docs",
+      "description": "Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
       "key": "https://temp-mail24.com",
       "name": "Temp Mail 24",
       "url": "https://temp-mail24.com/",
@@ -708,6 +728,16 @@
       "name": "DATAMIMIC CE",
       "url": "https://github.com/rapiddweller/datamimic",
       "description": "Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://github.com/sealandseacat/dbmask",
+      "name": "dbmask",
+      "url": "https://github.com/sealandseacat/dbmask",
+      "description": "Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.",
       "section": [
         "Software",
         "Test Data Management"

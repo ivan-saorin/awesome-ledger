@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"15e6e0cab80c761985afdc7579f9ef8aeb3fca32a26632b051703f8692a8ed8d\"",
+  "etag": "W/\"5b996953c3504d01118dcc119a38ad16b384b9d932c359787d3739909c7f2c03\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -382,6 +382,15 @@
       ]
     },
     {
+      "key": "https://mapdraw.net",
+      "name": "MapDraw",
+      "url": "https://www.mapdraw.net/",
+      "description": "web-based editor, imports & exports GeoJSON, GPX & KML, routing & elevation profiles, sharing via URL",
+      "section": [
+        "editors & viewers"
+      ]
+    },
+    {
       "key": "https://github.com/mapbox/geojsonhint",
       "name": "geojsonhint",
       "url": "https://github.com/mapbox/geojsonhint",
@@ -440,6 +449,15 @@
       "name": "geojson-pydantic",
       "url": "https://github.com/developmentseed/geojson-pydantic",
       "description": "Pydantic models for GeoJSON",
+      "section": [
+        "validation"
+      ]
+    },
+    {
+      "key": "https://github.com/vancebw/eudr-geojson-fixtures",
+      "name": "eudr-geojson-fixtures",
+      "url": "https://github.com/vancebw/eudr-geojson-fixtures",
+      "description": "test fixtures for EUDR geolocation data: valid plot examples plus common failure modes like axis swaps and self-intersecting rings",
       "section": [
         "validation"
       ]

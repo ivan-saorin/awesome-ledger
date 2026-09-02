@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"73334563a21ea3b6b2583d4923c6437161121a2fb1d921f8c1287dd13048898e\"",
+  "etag": "W/\"2829e6aeb12f3be14cbae66c24ab0eba20be568c7202000832771f728e53da9c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -588,6 +588,24 @@
       "name": "claudinho",
       "url": "https://github.com/arturogarrido/claudinho",
       "description": "by Arturo Garrido - 2026 World Cup live scores in your terminal, Claude Code statusline & MCP. No API keys.",
+      "section": [
+        "Status Lines"
+      ]
+    },
+    {
+      "key": "https://github.com/TevvvB/termagitchi",
+      "name": "TermaGITchi",
+      "url": "https://github.com/TevvvB/termagitchi",
+      "description": "by TevvvB - A Go CLI that gives each Claude Code session its own creature in the status line, derived by hashing the session id, with one den per git worktree. Where other status-line faces react to what the agent is doing, this one is a stable identity for telling parallel sessions apart, and its expression tracks repository hygiene: uncommitted files, unpushed commits, distance behind trunk and the last test result.",
+      "section": [
+        "Status Lines"
+      ]
+    },
+    {
+      "key": "https://github.com/LiveNL/tmux-claude-status-tabs",
+      "name": "tmux-claude-status-tabs",
+      "url": "https://github.com/LiveNL/tmux-claude-status-tabs",
+      "description": "by LiveNL - Shows each Claude Code session's state in the tmux tab bar, per window: an animated spinner while it works, amber when it waits on input, red on a permission request, green when done. Event-driven via hooks with no polling; catches unreported transitions (Esc, permission grants, stop-hook continuations) with transcript watchers. 260+ test assertions run in CI.",
       "section": [
         "Status Lines"
       ]
