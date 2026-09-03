@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"788ffbab3dbd32a1d03db9642af7dc7e881eef17cc1ac9915512694bde54786c\"",
+  "etag": "W/\"57a251b1c72a0e1720a054884660e358d4156090d38a5c3a5bd8833ec7152109\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -116,15 +116,6 @@
       "name": "Pluribus",
       "url": "https://github.com/caioribeiroclw-pixel/pluribus",
       "description": "Sync one canonical project context into native AI coding-agent rule files, including Gemini CLI GEMINI.md, Claude Code CLAUDE.md/AGENTS.md, Cursor, Cline, Roo Code, Amazon Q, Junie, Warp, Copilot, Windsurf, Continue, Zed, OpenCode, and OpenClaw.",
-      "section": [
-        ":tada: New"
-      ]
-    },
-    {
-      "key": "https://github.com/connerlambden/bgpt-mcp",
-      "name": "BGPT MCP",
-      "url": "https://github.com/connerlambden/bgpt-mcp",
-      "description": "Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.",
       "section": [
         ":tada: New"
       ]
@@ -328,15 +319,6 @@
       ]
     },
     {
-      "key": "https://github.com/ofekron/better-agent",
-      "name": "Better Agent",
-      "url": "https://github.com/ofekron/better-agent",
-      "description": "Local workspace for persistent Gemini CLI, Claude Code, and Codex sessions with detached execution, restart recovery, parallel forks, delegation, and approval gates. Source-available; free for non-commercial use.",
-      "section": [
-        "Agent Orchestration & CLI Tools"
-      ]
-    },
-    {
       "key": "https://github.com/agentlas-ai/Agentlas-OS",
       "name": "Agentlas OS",
       "url": "https://github.com/agentlas-ai/Agentlas-OS",
@@ -458,15 +440,6 @@
       "name": "Packet Buddy",
       "url": "https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension",
       "description": "A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.",
-      "section": [
-        "Commands & Extensions"
-      ]
-    },
-    {
-      "key": "https://github.com/flutter/gemini-cli-extension",
-      "name": "Flutter Gemini CLI extension",
-      "url": "https://github.com/flutter/gemini-cli-extension",
-      "description": "Official extension for Gemini CLI that assists with creating and maintaining Flutter code.",
       "section": [
         "Commands & Extensions"
       ]
@@ -613,15 +586,6 @@
       "description": "Adds personality to your terminal with giant ASCII-art logos featuring beautiful color gradients, perfect for customizing your Gemini CLI startup experience.",
       "section": [
         "Fun"
-      ]
-    },
-    {
-      "key": "https://github.com/Moresl/cchub",
-      "name": "CCHub",
-      "url": "https://github.com/Moresl/cchub",
-      "description": "Desktop app for managing MCP servers and AI coding tool configs across Claude Code, Codex, Gemini CLI, and OpenCode. MCP marketplace, config profile switching, workflow templates, security audit. Built with Tauri + React + Rust.",
-      "section": [
-        "Development Tools & Utilities"
       ]
     },
     {
@@ -859,15 +823,6 @@
       ]
     },
     {
-      "key": "https://github.com/tristan666666/agent-island",
-      "name": "Agent Island",
-      "url": "https://github.com/tristan666666/agent-island",
-      "description": "Free, MIT-licensed native status companion for Gemini CLI, Claude Code, Codex, Grok, and Cursor sessions. Shows local working, stalled, and your-turn state, and tracks Gemini Pro and Flash quota separately, without an Agent Island account or product telemetry. macOS and Windows.",
-      "section": [
-        "Development Tools & Utilities"
-      ]
-    },
-    {
       "key": "https://github.com/Bevel-Software/Hexis",
       "name": "Hexis",
       "url": "https://github.com/Bevel-Software/Hexis",
@@ -881,6 +836,15 @@
       "name": "claude-skills-pro",
       "url": "https://github.com/Hahaknight/claude-skills-pro",
       "description": "15 engineering-workflow skills (7-dimension code review, root-cause debugging, bug-catching test generation, behavior-preserving refactor, zero-downtime DB migration; 7 free/MIT) with CN/EN handbooks. Installs into Gemini CLI via the open skills installer: npx skills add Hahaknight/claude-skills-pro --agent gemini-cli (install path verified end-to-end in Gemini CLI).",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/mathdevie/devie-ai-quota-tracker",
+      "name": "Devie AI Quota Tracker",
+      "url": "https://github.com/mathdevie/devie-ai-quota-tracker",
+      "description": "Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -1079,15 +1043,6 @@
       "name": "gemini-mcp",
       "url": "https://github.com/neriousy/gemini-mcp",
       "description": "A simple MCP server for using the Gemini CLI.",
-      "section": [
-        "MCP Servers"
-      ]
-    },
-    {
-      "key": "https://github.com/0xmountaintop/gemini-cli-mcp",
-      "name": "gemini-cli-mcp",
-      "url": "https://github.com/0xmountaintop/gemini-cli-mcp",
-      "description": "A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini.",
       "section": [
         "MCP Servers"
       ]

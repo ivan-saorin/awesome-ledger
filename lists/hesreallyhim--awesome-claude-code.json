@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2829e6aeb12f3be14cbae66c24ab0eba20be568c7202000832771f728e53da9c\"",
+  "etag": "W/\"47cb3ac528125d2b3432de722bf473b4fd9cef61b6b67f327cb8b87c88167a1f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -965,6 +965,16 @@
       ]
     },
     {
+      "key": "https://github.com/zircote/workflows-plugin",
+      "name": "Dynamic Workflow Design Patterns",
+      "url": "https://github.com/zircote/workflows-plugin",
+      "description": "by Robert Allen - A Skill based on this extremely well authored article about dynamic workflows. Detailed explanations regarding the Workflow tool and sensible advice covering a range of patterns and anti-patterns.",
+      "section": [
+        "Agent Orchestration",
+        "Dynamic Workflows"
+      ]
+    },
+    {
       "key": "https://github.com/JuliusBrussee/caveman",
       "name": "Caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
@@ -1050,6 +1060,15 @@
       "name": "fable",
       "url": "https://github.com/grooverLab/fable",
       "description": "by grooverLab - High-fidelity transcript memory for Claude Code — index every session, recall byte-identical, search, prune, compose. Local-first, stdlib-only, MCP.",
+      "section": [
+        "Memory & Context Persistence"
+      ]
+    },
+    {
+      "key": "https://github.com/Wolfe-Jam/faf-cli",
+      "name": "faf-cli",
+      "url": "https://github.com/Wolfe-Jam/faf-cli",
+      "description": "by Wolfe-Jam - Authors and versions CLAUDE.md and AGENTS.md from a repository's actual detected stack, so Claude Code's project context stays in sync with the code instead of drifting. One typed source file (project.faf, an IANA-registered media type) is the single origin for every assistant's context file; a deterministic score reports how complete that context is. The file lives in the repo and carries no telemetry.",
       "section": [
         "Memory & Context Persistence"
       ]

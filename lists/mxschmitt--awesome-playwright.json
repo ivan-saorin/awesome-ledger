@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7f8bca0fd23b05c9df9ad187635ad8601b8a2eed10783a570c3b91110b59f058\"",
+  "etag": "W/\"c63c404ce49b856046328e1c3b1133e2037b48b64e38b65d3061adb714ef2e02\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -382,6 +382,15 @@
       ]
     },
     {
+      "key": "https://github.com/denodell/playwright-soak-test",
+      "name": "playwright-soak-test",
+      "url": "https://github.com/denodell/playwright-soak-test",
+      "description": "Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.",
+      "section": [
+        "Utils"
+      ]
+    },
+    {
       "key": "https://github.com/anishkny/playwright-test-coverage",
       "name": "playwright-test-coverage",
       "url": "https://github.com/anishkny/playwright-test-coverage",
@@ -451,6 +460,15 @@
       "description": "Interactive playground for running Playwright tests.",
       "section": [
         "Utils"
+      ]
+    },
+    {
+      "key": "https://github.com/antibrow/antibrow",
+      "name": "AntiBrow",
+      "url": "https://github.com/antibrow/antibrow",
+      "description": "Patched Chromium that returns a standard Playwright BrowserContext over CDP, with fingerprints applied in the C++ layer instead of injected scripts. MIT SDKs for Python and JavaScript, plus an MCP server mode.",
+      "section": [
+        "Scraping & Automation"
       ]
     },
     {
@@ -539,6 +557,15 @@
       "name": "Playwright MCP",
       "url": "https://github.com/microsoft/playwright-mcp",
       "description": "Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.",
+      "section": [
+        "AI & Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/agentrhq/webcmd",
+      "name": "Webcmd",
+      "url": "https://github.com/agentrhq/webcmd",
+      "description": "CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.",
       "section": [
         "AI & Agents"
       ]

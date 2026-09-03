@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f59bab592def7feb865a7efd5e967ea95272212bcc71ba3c288ef9f5e5c2416d\"",
+  "etag": "W/\"8fb558a4b31f22657e1d769af72b34c192a46c8a112c851f7ae3f9d57a3c3cfa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8831,6 +8831,46 @@
       "name": "zij",
       "url": "https://github.com/junaidaliop/zij",
       "description": "A canon of deep learning optimization algorithms.",
+      "section": [
+        "Python",
+        "Neural Networks"
+      ]
+    },
+    {
+      "key": "https://github.com/dliptak001/HypercubeESN",
+      "name": "HypercubeESN",
+      "url": "https://github.com/dliptak001/HypercubeESN",
+      "description": "Echo State Network on a Boolean hypercube reservoir: XOR Hamming-1 connectivity, no stored adjacency, C++23 + Python (pip install hypercube-esn).",
+      "section": [
+        "Python",
+        "Neural Networks"
+      ]
+    },
+    {
+      "key": "https://github.com/dliptak001/HypercubeWTF",
+      "name": "HypercubeWTF",
+      "url": "https://github.com/dliptak001/HypercubeWTF",
+      "description": "Frozen hypercube reservoir for static fields (synthetic-time orbit + thin CNN readout). Sibling of HypercubeESN.",
+      "section": [
+        "Python",
+        "Neural Networks"
+      ]
+    },
+    {
+      "key": "https://github.com/dliptak001/HypercubeCascade",
+      "name": "HypercubeCascade",
+      "url": "https://github.com/dliptak001/HypercubeCascade",
+      "description": "Etalon transit then WTF orbit on one cube, then a thin HypercubeCNN readout.",
+      "section": [
+        "Python",
+        "Neural Networks"
+      ]
+    },
+    {
+      "key": "https://github.com/dliptak001/HypercubeHopfield",
+      "name": "HypercubeHopfield",
+      "url": "https://github.com/dliptak001/HypercubeHopfield",
+      "description": "Modern Hopfield associative memory on a hypercube graph with sparse local-attention retrieval (C++23 + Python).",
       "section": [
         "Python",
         "Neural Networks"

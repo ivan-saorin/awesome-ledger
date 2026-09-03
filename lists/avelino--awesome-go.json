@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7ac885a61bedaa1d7cbb8ba642aa3346954eccba0dcb1ccd9b5a3c9cab8affe5\"",
+  "etag": "W/\"c89dae0f8a9ce8b7f83f5bfae70d338b47f2c33a7a596bd5993398b15f26114e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4984,6 +4984,16 @@
       ]
     },
     {
+      "key": "https://github.com/AfterShip/clickhouse-sql-parser",
+      "name": "clickhouse-sql-parser",
+      "url": "https://github.com/AfterShip/clickhouse-sql-parser",
+      "description": "Parser for ClickHouse-dialect SQL that produces a typed AST, with traversal helpers, round-trip formatting, and a CLI.",
+      "section": [
+        "Database",
+        "Database Tools"
+      ]
+    },
+    {
       "key": "https://github.com/kazhuravlev/database-gateway",
       "name": "database-gateway",
       "url": "https://github.com/kazhuravlev/database-gateway",
@@ -8058,6 +8068,15 @@
       "name": "fpmoney",
       "url": "https://github.com/nikolaydubina/fpmoney",
       "description": "Fast and simple ISO4217 fixed-point decimal money.",
+      "section": [
+        "Financial"
+      ]
+    },
+    {
+      "key": "https://github.com/tigusigalpa/glassnode-go",
+      "name": "glassnode-go",
+      "url": "https://github.com/tigusigalpa/glassnode-go",
+      "description": "Go client for Glassnode Basic API with 25 metric categories, typed structs, bulk endpoints, Point-in-Time data, and zero dependencies.",
       "section": [
         "Financial"
       ]
@@ -15479,6 +15498,15 @@
       ]
     },
     {
+      "key": "https://github.com/doytowin/goooqo",
+      "name": "GoooQo",
+      "url": "https://github.com/doytowin/goooqo",
+      "description": "A database access framework based on declarative query model.",
+      "section": [
+        "ORM"
+      ]
+    },
+    {
       "key": "https://github.com/go-gorm/gorm",
       "name": "GORM",
       "url": "https://github.com/go-gorm/gorm",
@@ -19553,6 +19581,15 @@
       ]
     },
     {
+      "key": "https://github.com/tigusigalpa/birdeye-go",
+      "name": "birdeye-go",
+      "url": "https://github.com/tigusigalpa/birdeye-go",
+      "description": "Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.",
+      "section": [
+        "Third-party APIs"
+      ]
+    },
+    {
       "key": "https://github.com/naegelejd/brewerydb",
       "name": "brewerydb",
       "url": "https://github.com/naegelejd/brewerydb",
@@ -20232,6 +20269,15 @@
       "name": "mixpanel",
       "url": "https://github.com/dukex/mixpanel",
       "description": "Mixpanel is a library for tracking events and sending Mixpanel profile updates to Mixpanel from your go applications.",
+      "section": [
+        "Third-party APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/tigusigalpa/nansen-go",
+      "name": "nansen-go",
+      "url": "https://github.com/tigusigalpa/nansen-go",
+      "description": "Go client for Nansen AI API with Smart Money analytics, token screener, profiler, and zero dependencies.",
       "section": [
         "Third-party APIs"
       ]
