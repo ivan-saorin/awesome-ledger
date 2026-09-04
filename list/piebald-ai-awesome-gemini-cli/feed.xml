@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — awesome-gemini-cli</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/piebald-ai-awesome-gemini-cli/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Fri, 4 Sep 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>Pickle Rick — via awesome-gemini-cli</title>
+<link>https://github.com/galdawave/pickle-rick-extension</link>
+<guid isPermaLink="false">https://github.com/galdawave/pickle-rick-extension#2026-09-04</guid>
+<pubDate>Fri, 4 Sep 2026 06:00:00 +0000</pubDate>
+<description>This extension transforms the Gemini CLI into &quot;Pickle Rick,&quot; a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.</description>
+</item>
+<item>
+<title>ClawMetry — via awesome-gemini-cli</title>
+<link>https://github.com/vivekchand/clawmetry</link>
+<guid isPermaLink="false">https://github.com/vivekchand/clawmetry#2026-09-04</guid>
+<pubDate>Fri, 4 Sep 2026 06:00:00 +0000</pubDate>
+<description>Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. Website</description>
+</item>
+<item>
+<title>Devie AI Quota Tracker — via awesome-gemini-cli</title>
+<link>https://github.com/mathdevie/devie-ai-quota-tracker</link>
+<guid isPermaLink="false">https://github.com/mathdevie/devie-ai-quota-tracker#2026-09-03</guid>
+<pubDate>Thu, 3 Sep 2026 06:00:00 +0000</pubDate>
+<description>Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.</description>
+</item>
+<item>
+<title>claude-skills-pro — via awesome-gemini-cli</title>
+<link>https://github.com/Hahaknight/claude-skills-pro</link>
+<guid isPermaLink="false">https://github.com/Hahaknight/claude-skills-pro#2026-09-01</guid>
+<pubDate>Tue, 1 Sep 2026 06:00:00 +0000</pubDate>
+<description>15 engineering-workflow skills (7-dimension code review, root-cause debugging, bug-catching test generation, behavior-preserving refactor, zero-downtime DB migration; 7 free/MIT) with CN/EN handbooks. Installs into Gemini CLI via the open skills installer: npx skills add Hahaknight/claude-skills-pro --agent gemini-cli (install path verified end-to-end in Gemini CLI).</description>
+</item>
+<item>
+<title>TeamoRouter — via awesome-gemini-cli</title>
+<link>https://teamorouter.cn</link>
+<guid isPermaLink="false">https://teamorouter.cn#2026-08-31</guid>
+<pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+<description>Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly. Free permanent DeepSeek tiers (V4 Pro 200 req/day, V4 Flash 50 req/day, 1M ctx).</description>
+</item>
+<item>
+<title>Knowledge Delta Skills — via awesome-gemini-cli</title>
+<link>https://github.com/sergeyizmailov/knowledge-delta-skills</link>
+<guid isPermaLink="false">https://github.com/sergeyizmailov/knowledge-delta-skills#2026-08-31</guid>
+<pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+<description>Portable SKILL.md skills for media buying, frontend, security, research, and skill authoring, each kept to what a frontier model does not already reliably know. Copy any skill directory into ~/.gemini/skills/ and Gemini CLI discovers it.</description>
+</item>
+<item>
+<title>CLIProxyAPI — via awesome-gemini-cli</title>
+<link>https://github.com/router-for-me/CLIProxyAPI</link>
+<guid isPermaLink="false">https://github.com/router-for-me/CLIProxyAPI#2026-08-31</guid>
+<pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+<description>Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.</description>
+</item>
+<item>
+<title>godmode — via awesome-gemini-cli</title>
+<link>https://github.com/arbazkhan971/godmode</link>
+<guid isPermaLink="false">https://github.com/arbazkhan971/godmode#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.</description>
+</item>
+<item>
+<title>Punchcard — via awesome-gemini-cli</title>
+<link>https://github.com/Maksim-Burtsev/punchcard</link>
+<guid isPermaLink="false">https://github.com/Maksim-Burtsev/punchcard#2026-08-26</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:00 +0000</pubDate>
+<description>Architecture-level code review grounded in thirty engineering books distilled into 78 principles. Three independent passes over a working tree, branch or PR, merged into one verdict; every blocker demonstrated by running the code. Install with npx skills add Maksim-Burtsev/punchcard -a gemini-cli.</description>
+</item>
+</channel>
+</rss>

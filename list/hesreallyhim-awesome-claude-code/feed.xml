@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — awesome-claude-code</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/hesreallyhim-awesome-claude-code/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Thu, 3 Sep 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>faf-cli — via awesome-claude-code</title>
+<link>https://github.com/Wolfe-Jam/faf-cli</link>
+<guid isPermaLink="false">https://github.com/Wolfe-Jam/faf-cli#2026-09-03</guid>
+<pubDate>Thu, 3 Sep 2026 06:00:00 +0000</pubDate>
+<description>by Wolfe-Jam - Authors and versions CLAUDE.md and AGENTS.md from a repository's actual detected stack, so Claude Code's project context stays in sync with the code instead of drifting. One typed source file (project.faf, an IANA-registered media type) is the single origin for every assistant's context file; a deterministic score reports how complete that context is. The file lives in the repo and carries no telemetry.</description>
+</item>
+<item>
+<title>Dynamic Workflow Design Patterns — via awesome-claude-code</title>
+<link>https://github.com/zircote/workflows-plugin</link>
+<guid isPermaLink="false">https://github.com/zircote/workflows-plugin#2026-09-03</guid>
+<pubDate>Thu, 3 Sep 2026 06:00:00 +0000</pubDate>
+<description>by Robert Allen - A Skill based on this extremely well authored article about dynamic workflows. Detailed explanations regarding the Workflow tool and sensible advice covering a range of patterns and anti-patterns.</description>
+</item>
+<item>
+<title>tmux-claude-status-tabs — via awesome-claude-code</title>
+<link>https://github.com/LiveNL/tmux-claude-status-tabs</link>
+<guid isPermaLink="false">https://github.com/LiveNL/tmux-claude-status-tabs#2026-09-02</guid>
+<pubDate>Wed, 2 Sep 2026 06:00:00 +0000</pubDate>
+<description>by LiveNL - Shows each Claude Code session's state in the tmux tab bar, per window: an animated spinner while it works, amber when it waits on input, red on a permission request, green when done. Event-driven via hooks with no polling; catches unreported transitions (Esc, permission grants, stop-hook continuations) with transcript watchers. 260+ test assertions run in CI.</description>
+</item>
+<item>
+<title>TermaGITchi — via awesome-claude-code</title>
+<link>https://github.com/TevvvB/termagitchi</link>
+<guid isPermaLink="false">https://github.com/TevvvB/termagitchi#2026-09-02</guid>
+<pubDate>Wed, 2 Sep 2026 06:00:00 +0000</pubDate>
+<description>by TevvvB - A Go CLI that gives each Claude Code session its own creature in the status line, derived by hashing the session id, with one den per git worktree. Where other status-line faces react to what the agent is doing, this one is a stable identity for telling parallel sessions apart, and its expression tracks repository hygiene: uncommitted files, unpushed commits, distance behind trunk and the last test result.</description>
+</item>
+<item>
+<title>seedeep — via awesome-claude-code</title>
+<link>https://github.com/duqaXxX/seedeep</link>
+<guid isPermaLink="false">https://github.com/duqaXxX/seedeep#2026-08-28</guid>
+<pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
+<description>by duqaXxX - Reads the JSONL session logs Claude Code already writes and shows, live during a turn, what the session is doing: each model call and tool, the context window filling, every subagent on its own window and its own model, and the commits and files the session produced. Bun + TypeScript server serving a local browser GUI, with an optional Tauri menu-bar tray; single-file binaries per platform, read-only and local-only.</description>
+</item>
+</channel>
+</rss>

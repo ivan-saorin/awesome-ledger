@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — awesome-zsh-plugins</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/unixorn-awesome-zsh-plugins/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Sun, 30 Aug 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>worktrunk — via awesome-zsh-plugins</title>
+<link>https://github.com/kguzek/zsh-worktrunk</link>
+<guid isPermaLink="false">https://github.com/kguzek/zsh-worktrunk#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>Inspired by the oh-my-zsh git plugin and provides aliases and a few useful functions for working with worktrunk.</description>
+</item>
+<item>
+<title>ssh-git-operations — via awesome-zsh-plugins</title>
+<link>https://github.com/phongphuhanam/ssh-git-operations</link>
+<guid isPermaLink="false">https://github.com/phongphuhanam/ssh-git-operations#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>Provides secure, authenticated git push/pull/fetch operations over SSH to remote machines using GitHub token authentication. Tokens are never persisted on remote machines.</description>
+</item>
+<item>
+<title>histpop — via awesome-zsh-plugins</title>
+<link>https://github.com/undefined443/histpop</link>
+<guid isPermaLink="false">https://github.com/undefined443/histpop#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>Removes the last record from ~/.zsh_history. Useful right after running a command you don't want kept in your shell history (e.g. one containing a typo'd password or a temporary secret). Running histpop itself is also removed from history, so it leaves no trace.</description>
+</item>
+<item>
+<title>git-branch — via awesome-zsh-plugins</title>
+<link>https://github.com/cpwillis/omz-git-branch</link>
+<guid isPermaLink="false">https://github.com/cpwillis/omz-git-branch#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>Augments git features, designed especially for users who prefer aesthetically pleasing branch naming conventions. It visually formats the current git branch name or commit hash, considering customisable variables like hiding status, maximum branch length, prefix, and suffix trimming, with an option to display git status.</description>
+</item>
+<item>
+<title>cage — via awesome-zsh-plugins</title>
+<link>https://github.com/matijaoe/cage.plugin.zsh</link>
+<guid isPermaLink="false">https://github.com/matijaoe/cage.plugin.zsh#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>Adds command for age. It encrypts a plain file with a passphrase, decrypts an age file, and works out which from the file's own header.</description>
+</item>
+<item>
+<title>psmon — via awesome-zsh-plugins</title>
+<link>https://github.com/dumidusw/psmon</link>
+<guid isPermaLink="false">https://github.com/dumidusw/psmon#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Lightweight interactive process monitor using standard Linux utilities (ps, awk, lsof) with live watch mode, resource sorting, and tree-aware process killing.</description>
+</item>
+<item>
+<title>mtsh — via awesome-zsh-plugins</title>
+<link>https://github.com/FPGArtktic/ohmyzsh-mtsh-theme</link>
+<guid isPermaLink="false">https://github.com/FPGArtktic/ohmyzsh-mtsh-theme#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Multi-line prompt for multi-user and DevOps machines. Includes decorators for the date and time, the address of the interface that reaches the default route, CPU and memory use, the number of logged-in users, git branch and status, and the exit code and duration of the last command. No fonts are required.</description>
+</item>
+<item>
+<title>dual-history — via awesome-zsh-plugins</title>
+<link>https://github.com/odurif0/zsh-dual-history</link>
+<guid isPermaLink="false">https://github.com/odurif0/zsh-dual-history#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Keeps AI coding agent instructions (such as Forge's :-prefixed prompts) out of your main ZSH history by routing them to a separate file, intercepting every write path including the agent's own history insertions. Also turns Ctrl+R into an fzf interface switchable between All, Human and AI views, merged chronologically.</description>
+</item>
+<item>
+<title>deja — via awesome-zsh-plugins</title>
+<link>https://github.com/Giammarco-Ferranti/deja</link>
+<guid isPermaLink="false">https://github.com/Giammarco-Ferranti/deja#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.</description>
+</item>
+<item>
+<title>ansible-fzf — via awesome-zsh-plugins</title>
+<link>https://github.com/alexiszamanidis/zsh-ansible-fzf/</link>
+<guid isPermaLink="false">https://github.com/alexiszamanidis/zsh-ansible-fzf/#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>A plugin that completes ansible-playbook tags and works with fzf-tab.</description>
+</item>
+</channel>
+</rss>
