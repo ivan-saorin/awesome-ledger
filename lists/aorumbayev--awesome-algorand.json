@@ -1,43 +1,13 @@
 {
-  "etag": "W/\"ff001e612d03c042259ef45391f3ec95ee5265403756a817f2c5bf56cb7f326c\"",
+  "etag": "W/\"f36549b6c7c97d23bc87e39f96ca5c2545bb706b726f0a228205fc1008452068\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
     {
-      "key": "https://algorandtechnologies.com",
+      "key": "https://algorand.co",
       "name": "Algorand",
-      "url": "https://algorandtechnologies.com/",
+      "url": "https://algorand.co/",
       "description": "Official website.",
-      "section": [
-        "Core Resources",
-        "Official Resources"
-      ]
-    },
-    {
-      "key": "https://algorand.foundation",
-      "name": "Algorand Foundation",
-      "url": "https://algorand.foundation/",
-      "description": "Official website of the Foundation.",
-      "section": [
-        "Core Resources",
-        "Official Resources"
-      ]
-    },
-    {
-      "key": "https://algorand.foundation/faq",
-      "name": "Algorand FAQ",
-      "url": "https://algorand.foundation/faq",
-      "description": "FAQ maintained by the Algorand Foundation.",
-      "section": [
-        "Core Resources",
-        "Official Resources"
-      ]
-    },
-    {
-      "key": "https://governance.algorand.foundation",
-      "name": "Algorand Governance",
-      "url": "https://governance.algorand.foundation/",
-      "description": "Official website of Algorand Governance program.",
       "section": [
         "Core Resources",
         "Official Resources"
@@ -54,16 +24,6 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/specs",
-      "name": "Algorand Protocol Specs",
-      "url": "https://github.com/algorandfoundation/specs",
-      "description": "Protocol-level specification documents for the Algorand platform.",
-      "section": [
-        "Core Resources",
-        "Official Resources"
-      ]
-    },
-    {
       "key": "https://discord.com/invite/YgPTCVk",
       "name": "Algorand Discord",
       "url": "https://discord.com/invite/YgPTCVk",
@@ -74,23 +34,43 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/algokit-cli",
-      "name": "algokit-cli",
-      "url": "https://github.com/algorandfoundation/algokit-cli",
-      "description": "The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.",
+      "key": "https://algorand.foundation/faq",
+      "name": "Algorand FAQ",
+      "url": "https://algorand.foundation/faq",
+      "description": "FAQ maintained by the Algorand Foundation.",
       "section": [
         "Core Resources",
-        "AlgoKit"
+        "Official Resources"
       ]
     },
     {
-      "key": "https://lora.algokit.io/mainnet",
-      "name": "algokit-lora",
-      "url": "https://lora.algokit.io/mainnet",
-      "description": "Visual local network explorer & app builder for testing Algorand applications (deploy contracts, inspect state, craft transactions).",
+      "key": "https://algorand.foundation",
+      "name": "Algorand Foundation",
+      "url": "https://algorand.foundation/",
+      "description": "Official website of the Foundation.",
       "section": [
         "Core Resources",
-        "AlgoKit"
+        "Official Resources"
+      ]
+    },
+    {
+      "key": "https://governance.algorand.foundation",
+      "name": "Algorand Governance",
+      "url": "https://governance.algorand.foundation/",
+      "description": "Official website of Algorand Governance program.",
+      "section": [
+        "Core Resources",
+        "Official Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/algorandfoundation/specs",
+      "name": "Algorand Protocol Specs",
+      "url": "https://github.com/algorandfoundation/specs",
+      "description": "Protocol-level specification documents for the Algorand platform.",
+      "section": [
+        "Core Resources",
+        "Official Resources"
       ]
     },
     {
@@ -104,30 +84,20 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/algokit-utils-py",
-      "name": "algokit-utils-py",
-      "url": "https://github.com/algorandfoundation/algokit-utils-py",
-      "description": "Algorand AlgoKit Utils for Python.",
+      "key": "https://github.com/algorandfoundation/algokit-avm-vscode-debugger",
+      "name": "algokit-avm-vscode-debugger",
+      "url": "https://github.com/algorandfoundation/algokit-avm-vscode-debugger",
+      "description": "VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.",
       "section": [
         "Core Resources",
         "AlgoKit"
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/algokit-core",
-      "name": "algokit-core",
-      "url": "https://github.com/algorandfoundation/algokit-core",
-      "description": "Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).",
-      "section": [
-        "Core Resources",
-        "AlgoKit"
-      ]
-    },
-    {
-      "key": "https://github.com/algorandfoundation/algokit-utils-ts",
-      "name": "algokit-utils-ts",
-      "url": "https://github.com/algorandfoundation/algokit-utils-ts",
-      "description": "Algorand AlgoKit Utils for TypeScript.",
+      "key": "https://github.com/algorandfoundation/algokit-cli",
+      "name": "algokit-cli",
+      "url": "https://github.com/algorandfoundation/algokit-cli",
+      "description": "The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.",
       "section": [
         "Core Resources",
         "AlgoKit"
@@ -154,20 +124,40 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/puya",
-      "name": "puya",
-      "url": "https://github.com/algorandfoundation/puya",
-      "description": "An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.",
+      "key": "https://github.com/algorandfoundation/algokit-core",
+      "name": "algokit-core",
+      "url": "https://github.com/algorandfoundation/algokit-core",
+      "description": "Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).",
       "section": [
         "Core Resources",
         "AlgoKit"
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/puya-ts",
-      "name": "puya-ts",
-      "url": "https://github.com/algorandfoundation/puya-ts",
-      "description": "An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.",
+      "key": "https://lora.algokit.io/mainnet",
+      "name": "algokit-lora",
+      "url": "https://lora.algokit.io/mainnet",
+      "description": "Visual local network explorer & app builder for testing Algorand applications (deploy contracts, inspect state, craft transactions).",
+      "section": [
+        "Core Resources",
+        "AlgoKit"
+      ]
+    },
+    {
+      "key": "https://github.com/algorandfoundation/algokit-utils-py",
+      "name": "algokit-utils-py",
+      "url": "https://github.com/algorandfoundation/algokit-utils-py",
+      "description": "Algorand AlgoKit Utils for Python.",
+      "section": [
+        "Core Resources",
+        "AlgoKit"
+      ]
+    },
+    {
+      "key": "https://github.com/algorandfoundation/algokit-utils-ts",
+      "name": "algokit-utils-ts",
+      "url": "https://github.com/algorandfoundation/algokit-utils-ts",
+      "description": "Algorand AlgoKit Utils for TypeScript.",
       "section": [
         "Core Resources",
         "AlgoKit"
@@ -194,13 +184,33 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/algokit-avm-vscode-debugger",
-      "name": "algokit-avm-vscode-debugger",
-      "url": "https://github.com/algorandfoundation/algokit-avm-vscode-debugger",
-      "description": "VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.",
+      "key": "https://github.com/algorandfoundation/puya",
+      "name": "puya",
+      "url": "https://github.com/algorandfoundation/puya",
+      "description": "An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.",
       "section": [
         "Core Resources",
         "AlgoKit"
+      ]
+    },
+    {
+      "key": "https://github.com/algorandfoundation/puya-ts",
+      "name": "puya-ts",
+      "url": "https://github.com/algorandfoundation/puya-ts",
+      "description": "An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.",
+      "section": [
+        "Core Resources",
+        "AlgoKit"
+      ]
+    },
+    {
+      "key": "https://github.com/algorandfoundation/algokit-fullstack-template",
+      "name": "algokit-fullstack-template",
+      "url": "https://github.com/algorandfoundation/algokit-fullstack-template",
+      "description": "Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.",
+      "section": [
+        "Core Resources",
+        "AlgoKit Templates"
       ]
     },
     {
@@ -208,16 +218,6 @@
       "name": "algokit-python-template",
       "url": "https://github.com/algorandfoundation/algokit-python-template",
       "description": "Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.",
-      "section": [
-        "Core Resources",
-        "AlgoKit Templates"
-      ]
-    },
-    {
-      "key": "https://github.com/algorandfoundation/algokit-TypeScript-template",
-      "name": "algokit-TypeScript-template",
-      "url": "https://github.com/algorandfoundation/algokit-TypeScript-template",
-      "description": "Official AlgoKit's Algorand TypeScript template provides a production-ready baseline for developing and deploying smart contracts in TypeScript.",
       "section": [
         "Core Resources",
         "AlgoKit Templates"
@@ -234,13 +234,23 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/algokit-fullstack-template",
-      "name": "algokit-fullstack-template",
-      "url": "https://github.com/algorandfoundation/algokit-fullstack-template",
-      "description": "Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.",
+      "key": "https://github.com/algorandfoundation/algokit-TypeScript-template",
+      "name": "algokit-TypeScript-template",
+      "url": "https://github.com/algorandfoundation/algokit-TypeScript-template",
+      "description": "Official AlgoKit's Algorand TypeScript template provides a production-ready baseline for developing and deploying smart contracts in TypeScript.",
       "section": [
         "Core Resources",
         "AlgoKit Templates"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=e8s8Ui8vDaY",
+      "name": "Algorand Efficiency",
+      "url": "https://www.youtube.com/watch?v=e8s8Ui8vDaY",
+      "description": "Understanding Algorand's working principles and its efficiency.",
+      "section": [
+        "Learning Resources",
+        "Crash Courses"
       ]
     },
     {
@@ -248,16 +258,6 @@
       "name": "Algorand School",
       "url": "https://github.com/cusma/algorand-school",
       "description": "Crash course slide deck.",
-      "section": [
-        "Learning Resources",
-        "Crash Courses"
-      ]
-    },
-    {
-      "key": "https://youtube.com/playlist?list=PLwRyHoehE435ttTjvFZA-DyqHYIYc26K_",
-      "name": "Zero to Hero PyTeal",
-      "url": "https://www.youtube.com/playlist?list=PLwRyHoehE435ttTjvFZA-DyqHYIYc26K_",
-      "description": "PyTeal crash course video lectures.",
       "section": [
         "Learning Resources",
         "Crash Courses"
@@ -274,10 +274,20 @@
       ]
     },
     {
-      "key": "https://youtube.com/watch?v=e8s8Ui8vDaY",
-      "name": "Algorand Efficiency",
-      "url": "https://www.youtube.com/watch?v=e8s8Ui8vDaY",
-      "description": "Understanding Algorand's working principles and its efficiency.",
+      "key": "https://youtube.com/watch?v=031VvOxvuxY",
+      "name": "Beaker",
+      "url": "https://www.youtube.com/watch?v=031VvOxvuxY",
+      "description": "Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with @HGKimChris).",
+      "section": [
+        "Learning Resources",
+        "Crash Courses"
+      ]
+    },
+    {
+      "key": "https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72",
+      "name": "Dissecting Algorand",
+      "url": "https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72",
+      "description": "Introduction Algorand and an analysis on Algorand's inner workings.",
       "section": [
         "Learning Resources",
         "Crash Courses"
@@ -314,30 +324,20 @@
       ]
     },
     {
-      "key": "https://youtube.com/watch?v=031VvOxvuxY",
-      "name": "Beaker",
-      "url": "https://www.youtube.com/watch?v=031VvOxvuxY",
-      "description": "Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with @HGKimChris).",
-      "section": [
-        "Learning Resources",
-        "Crash Courses"
-      ]
-    },
-    {
-      "key": "https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72",
-      "name": "Dissecting Algorand",
-      "url": "https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72",
-      "description": "Introduction Algorand and an analysis on Algorand's inner workings.",
-      "section": [
-        "Learning Resources",
-        "Crash Courses"
-      ]
-    },
-    {
       "key": "https://github.com/VKappaKV/Zero-To-Hero-blockchain-Algorand",
       "name": "Zero to Hero Blockchain Algorand",
       "url": "https://github.com/VKappaKV/Zero-To-Hero-blockchain-Algorand",
       "description": "Curated learning path for Algorand developers.",
+      "section": [
+        "Learning Resources",
+        "Crash Courses"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLwRyHoehE435ttTjvFZA-DyqHYIYc26K_",
+      "name": "Zero to Hero PyTeal",
+      "url": "https://www.youtube.com/playlist?list=PLwRyHoehE435ttTjvFZA-DyqHYIYc26K_",
+      "description": "PyTeal crash course video lectures.",
       "section": [
         "Learning Resources",
         "Crash Courses"
@@ -354,30 +354,10 @@
       ]
     },
     {
-      "key": "https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach",
-      "name": "Lending pool using Reach",
-      "url": "https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/",
-      "description": "Tutorial on how to build a lending pool using the Reach language.",
-      "section": [
-        "Learning Resources",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions",
-      "name": "Creating a License Manager Contract",
-      "url": "https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/",
-      "description": "Tutorial on utilizing PyTEAL and Inner Transactions.",
-      "section": [
-        "Learning Resources",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet",
-      "name": "Stateless session management with the Pera wallet",
-      "url": "https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/",
-      "description": "Pera Wallet connection example with Next.js and Redux.",
+      "key": "https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python",
+      "name": "Adding Notes to Transactions",
+      "url": "https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/",
+      "description": "Read and Write to the Transaction Note Field with Python.",
       "section": [
         "Learning Resources",
         "Tutorials"
@@ -394,30 +374,10 @@
       ]
     },
     {
-      "key": "https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django",
-      "name": "Getting Started with Django, Python, and Algorand",
-      "url": "https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/",
-      "description": "Tutorial from algorand developer portal.",
-      "section": [
-        "Learning Resources",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account",
-      "name": "MultiSig with Algorand for Co-operative Groups",
-      "url": "https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/",
-      "description": "Decentralised co-operative unions with Algorand Multisignature Account.",
-      "section": [
-        "Learning Resources",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python",
-      "name": "Adding Notes to Transactions",
-      "url": "https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/",
-      "description": "Read and Write to the Transaction Note Field with Python.",
+      "key": "https://developer.algorand.org/solutions/artificial-intelligence-on-algorand",
+      "name": "Artificial Intelligence on Algorand",
+      "url": "https://developer.algorand.org/solutions/artificial-intelligence-on-algorand/",
+      "description": "Tutorial on using machine learning to predict the transaction volume of the USDC stablecoin on the Algorand Blockchain.",
       "section": [
         "Learning Resources",
         "Tutorials"
@@ -434,153 +394,63 @@
       ]
     },
     {
-      "key": "https://developer.algorand.org/solutions/artificial-intelligence-on-algorand",
-      "name": "Artificial Intelligence on Algorand",
-      "url": "https://developer.algorand.org/solutions/artificial-intelligence-on-algorand/",
-      "description": "Tutorial on using machine learning to predict the transaction volume of the USDC stablecoin on the Algorand Blockchain.",
+      "key": "https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions",
+      "name": "Creating a License Manager Contract",
+      "url": "https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/",
+      "description": "Tutorial on utilizing PyTEAL and Inner Transactions.",
       "section": [
         "Learning Resources",
         "Tutorials"
       ]
     },
     {
-      "key": "https://github.com/barnjamin/arc3.xyz",
-      "name": "arc3.xyz",
-      "url": "https://github.com/barnjamin/arc3.xyz",
-      "description": "Dapp that can be used to mint ARC3 compliant NFTs.",
+      "key": "https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django",
+      "name": "Getting Started with Django, Python, and Algorand",
+      "url": "https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/",
+      "description": "Tutorial from algorand developer portal.",
       "section": [
         "Learning Resources",
-        "Projects"
+        "Tutorials"
       ]
     },
     {
-      "key": "https://github.com/algorand/auction-demo",
-      "name": "Auction Demo",
-      "url": "https://github.com/algorand/auction-demo",
-      "description": "On-chain NFT auction using smart contracts.",
+      "key": "https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach",
+      "name": "Lending pool using Reach",
+      "url": "https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/",
+      "description": "Tutorial on how to build a lending pool using the Reach language.",
       "section": [
         "Learning Resources",
-        "Projects"
+        "Tutorials"
       ]
     },
     {
-      "key": "https://github.com/barnjamin/algorand-session-wallet",
-      "name": "Algorand Session Wallet",
-      "url": "https://github.com/barnjamin/algorand-session-wallet",
-      "description": "Session wallet to allow persisted wallet connections across multiple wallets.",
+      "key": "https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account",
+      "name": "MultiSig with Algorand for Co-operative Groups",
+      "url": "https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/",
+      "description": "Decentralised co-operative unions with Algorand Multisignature Account.",
       "section": [
         "Learning Resources",
-        "Projects"
+        "Tutorials"
       ]
     },
     {
-      "key": "https://github.com/algoworldNFT/algoworld-contracts",
-      "name": "AlgoWorld-Contracts",
-      "url": "https://github.com/algoworldNFT/algoworld-contracts",
-      "description": "Collection of all smart contracts used by AlgoWorld, written in PyTeal.",
+      "key": "https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet",
+      "name": "Stateless session management with the Pera wallet",
+      "url": "https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/",
+      "description": "Pera Wallet connection example with Next.js and Redux.",
       "section": [
         "Learning Resources",
-        "Projects"
+        "Tutorials"
       ]
     },
     {
-      "key": "https://github.com/algoworldNFT/algoworld-swapper",
-      "name": "AlgoWorld-Swapper",
-      "url": "https://github.com/algoworldNFT/algoworld-swapper",
-      "description": "Free and trustless ASA swapper, powered by Algorand Smart Signatures.",
+      "key": "https://algorand.pxke.me",
+      "name": "PXke Algorand News",
+      "url": "https://algorand.pxke.me/",
+      "description": "An AI-run Algorand newspaper with human supervision, publishing daily articles on releases, projects, and ecosystem news.",
       "section": [
         "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/algorand/walletconnect-example-dapp",
-      "name": "WalletConnect Example DApp",
-      "url": "https://github.com/algorand/walletconnect-example-dapp",
-      "description": "Algorand WalletConnect demo.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/aorumbayev/tinybar",
-      "name": "TinyBar App",
-      "url": "https://github.com/aorumbayev/tinybar",
-      "description": "A tiny macOS menu bar app for tracking ASA prices from TinyMan.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/cusma/algonim",
-      "name": "algonim",
-      "url": "https://github.com/cusma/algonim",
-      "description": "First Algorand mini-puzzle-game. Written in Python+PyTEAL by @cusma.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/algorealm/algorealm",
-      "name": "algorealm",
-      "url": "https://github.com/algorealm/algorealm",
-      "description": "Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by @cusma.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/algorealm/algorealm-ui",
-      "name": "algorealm-ui",
-      "url": "https://github.com/algorealm/algorealm-ui",
-      "description": "A web CLI Emulator version of algorealm cli game by @aorumbayev.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/algofishexe/minter",
-      "name": "minter",
-      "url": "https://github.com/algofishexe/minter",
-      "description": "Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by @fish.exe.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://algovanity.com",
-      "name": "algovanity",
-      "url": "https://algovanity.com/",
-      "description": "Algorand Vanity Address Generator from Ripe.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/shmutalov/galvanity",
-      "name": "galvanity",
-      "url": "https://github.com/shmutalov/galvanity",
-      "description": "Go-based Algorand vanity address generator.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/runvnc/genpyteal",
-      "name": "genpyteal",
-      "url": "https://github.com/runvnc/genpyteal",
-      "description": "Generate PyTeal from (mostly) normal Python.",
-      "section": [
-        "Learning Resources",
-        "Projects"
+        "Community Resources"
       ]
     },
     {
@@ -594,90 +464,10 @@
       ]
     },
     {
-      "key": "https://github.com/emg110/algorand-qrcode",
-      "name": "QRCode Generator",
-      "url": "https://github.com/emg110/algorand-qrcode",
-      "description": "Uinversal QRCode generator module for Algorand ARC-26 URIs.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/aorumbayev/algofractals",
-      "name": "algofractals",
-      "url": "https://github.com/aorumbayev/algofractals",
-      "description": "Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://algorewards.github.io",
-      "name": "algorewards",
-      "url": "https://algorewards.github.io/",
-      "description": "Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/headline-design/pipeline-ui",
-      "name": "Pipeline-UI",
-      "url": "https://github.com/headline-design/pipeline-ui",
-      "description": "A React.js based component library for rapid deployment of Algorand Dapps.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://stoi.org",
-      "name": "STOI",
-      "url": "https://stoi.org/",
-      "description": "Song ownership gone decentralized via microDAOs.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://algotables.github.io",
-      "name": "AlgoTables",
-      "url": "https://algotables.github.io/",
-      "description": "A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/aorumbayev/algoping",
-      "name": "AlgoPing",
-      "url": "https://github.com/aorumbayev/algoping",
-      "description": "A tiny cron job that issues a tweet if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/hodgerpodger/staketaxcsv",
-      "name": "staketaxcsv",
-      "url": "https://github.com/hodgerpodger/staketaxcsv",
-      "description": "Python backend for stake.tax that generates taxable transactions CSVs for Algorand and other Blockchains.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/dspytdao/Algo_AMM",
-      "name": "Automated Prediction Market Maker on Algorand",
-      "url": "https://github.com/dspytdao/Algo_AMM",
-      "description": "backend repository with project hosted at algoAMM.com.",
+      "key": "https://dragmz.itch.io/algo-snow",
+      "name": "Algo Snow",
+      "url": "https://dragmz.itch.io/algo-snow",
+      "description": "Interactive browser-based Algorand-themed game.",
       "section": [
         "Learning Resources",
         "Projects"
@@ -704,30 +494,20 @@
       ]
     },
     {
-      "key": "https://github.com/No-Cash-7970/txnDuck",
-      "name": "txnDuck",
-      "url": "https://github.com/No-Cash-7970/txnDuck",
-      "description": "Transaction building tool for Algorand blockchain.",
+      "key": "https://github.com/aorumbayev/algofractals",
+      "name": "algofractals",
+      "url": "https://github.com/aorumbayev/algofractals",
+      "description": "Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)",
       "section": [
         "Learning Resources",
         "Projects"
       ]
     },
     {
-      "key": "https://github.com/aorumbayev/lazylora",
-      "name": "lazylora",
-      "url": "https://github.com/aorumbayev/lazylora",
-      "description": "Terminal UI for exploring Algorand blockchain.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://github.com/LoafPickleWW/wen-tools",
-      "name": "wen-tools",
-      "url": "https://github.com/LoafPickleWW/wen-tools",
-      "description": "Bulk operations tool for Algorand.",
+      "key": "https://github.com/cusma/algonim",
+      "name": "algonim",
+      "url": "https://github.com/cusma/algonim",
+      "description": "First Algorand mini-puzzle-game. Written in Python+PyTEAL by @cusma.",
       "section": [
         "Learning Resources",
         "Projects"
@@ -744,30 +524,10 @@
       ]
     },
     {
-      "key": "https://github.com/SilentRhetoric/xGov-Guru",
-      "name": "xGov-Guru",
-      "url": "https://github.com/SilentRhetoric/xGov-Guru",
-      "description": "Tool to browse xGov voting data and proposals.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://dragmz.itch.io/algo-snow",
-      "name": "Algo Snow",
-      "url": "https://dragmz.itch.io/algo-snow",
-      "description": "Interactive browser-based Algorand-themed game.",
-      "section": [
-        "Learning Resources",
-        "Projects"
-      ]
-    },
-    {
-      "key": "https://mempool.algorand.ing",
-      "name": "Algorand Mempool Visualizer",
-      "url": "https://mempool.algorand.ing/",
-      "description": "Real-time visualization of transactions entering the Algorand mempool.",
+      "key": "https://github.com/aorumbayev/algoping",
+      "name": "AlgoPing",
+      "url": "https://github.com/aorumbayev/algoping",
+      "description": "A tiny cron job that issues a tweet if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.",
       "section": [
         "Learning Resources",
         "Projects"
@@ -784,6 +544,166 @@
       ]
     },
     {
+      "key": "https://mempool.algorand.ing",
+      "name": "Algorand Mempool Visualizer",
+      "url": "https://mempool.algorand.ing/",
+      "description": "Real-time visualization of transactions entering the Algorand mempool.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/barnjamin/algorand-session-wallet",
+      "name": "Algorand Session Wallet",
+      "url": "https://github.com/barnjamin/algorand-session-wallet",
+      "description": "Session wallet to allow persisted wallet connections across multiple wallets.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/algorealm/algorealm",
+      "name": "algorealm",
+      "url": "https://github.com/algorealm/algorealm",
+      "description": "Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by @cusma.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/algorealm/algorealm-ui",
+      "name": "algorealm-ui",
+      "url": "https://github.com/algorealm/algorealm-ui",
+      "description": "A web CLI Emulator version of algorealm cli game by @aorumbayev.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://algorewards.github.io",
+      "name": "algorewards",
+      "url": "https://algorewards.github.io/",
+      "description": "Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://algotables.github.io",
+      "name": "AlgoTables",
+      "url": "https://algotables.github.io/",
+      "description": "A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://algovanity.com",
+      "name": "algovanity",
+      "url": "https://algovanity.com/",
+      "description": "Algorand Vanity Address Generator from Ripe.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/barnjamin/arc3.xyz",
+      "name": "arc3.xyz",
+      "url": "https://github.com/barnjamin/arc3.xyz",
+      "description": "Dapp that can be used to mint ARC3 compliant NFTs.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/algorand/auction-demo",
+      "name": "Auction Demo",
+      "url": "https://github.com/algorand/auction-demo",
+      "description": "On-chain NFT auction using smart contracts.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/dspytdao/Algo_AMM",
+      "name": "Automated Prediction Market Maker on Algorand",
+      "url": "https://github.com/dspytdao/Algo_AMM",
+      "description": "Backend repository for an automated prediction market maker on Algorand.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/shmutalov/galvanity",
+      "name": "galvanity",
+      "url": "https://github.com/shmutalov/galvanity",
+      "description": "Go-based Algorand vanity address generator.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/runvnc/genpyteal",
+      "name": "genpyteal",
+      "url": "https://github.com/runvnc/genpyteal",
+      "description": "Generate PyTeal from (mostly) normal Python.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/aorumbayev/lazylora",
+      "name": "lazylora",
+      "url": "https://github.com/aorumbayev/lazylora",
+      "description": "Terminal UI for exploring Algorand blockchain.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/algofishexe/minter",
+      "name": "minter",
+      "url": "https://github.com/algofishexe/minter",
+      "description": "Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by @fish.exe.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/headline-design/pipeline-ui",
+      "name": "Pipeline-UI",
+      "url": "https://github.com/headline-design/pipeline-ui",
+      "description": "A React.js based component library for rapid deployment of Algorand Dapps.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/emg110/algorand-qrcode",
+      "name": "QRCode Generator",
+      "url": "https://github.com/emg110/algorand-qrcode",
+      "description": "Uinversal QRCode generator module for Algorand ARC-26 URIs.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
       "key": "https://sign-zero.vercel.app",
       "name": "Sign Zero",
       "url": "https://sign-zero.vercel.app/",
@@ -794,13 +714,73 @@
       ]
     },
     {
-      "key": "https://github.com/aorumbayev/algokit-tealish-template",
-      "name": "algokit-tealish-template",
-      "url": "https://github.com/aorumbayev/algokit-tealish-template",
-      "description": "AlgoKit community template for quick starting a smart contract project with tealish and algojig.",
+      "key": "https://github.com/hodgerpodger/staketaxcsv",
+      "name": "staketaxcsv",
+      "url": "https://github.com/hodgerpodger/staketaxcsv",
+      "description": "Python backend for stake.tax that generates taxable transactions CSVs for Algorand and other Blockchains.",
       "section": [
         "Learning Resources",
-        "AlgoKit Community Templates"
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://stoi.org",
+      "name": "STOI",
+      "url": "https://stoi.org/",
+      "description": "Song ownership gone decentralized via microDAOs.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/aorumbayev/tinybar",
+      "name": "TinyBar App",
+      "url": "https://github.com/aorumbayev/tinybar",
+      "description": "A tiny macOS menu bar app for tracking ASA prices from TinyMan.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/No-Cash-7970/txnDuck",
+      "name": "txnDuck",
+      "url": "https://github.com/No-Cash-7970/txnDuck",
+      "description": "Transaction building tool for Algorand blockchain.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/algorand/walletconnect-example-dapp",
+      "name": "WalletConnect Example DApp",
+      "url": "https://github.com/algorand/walletconnect-example-dapp",
+      "description": "Algorand WalletConnect demo.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/LoafPickleWW/wen-tools",
+      "name": "wen-tools",
+      "url": "https://github.com/LoafPickleWW/wen-tools",
+      "description": "Bulk operations tool for Algorand.",
+      "section": [
+        "Learning Resources",
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/SilentRhetoric/xGov-Guru",
+      "name": "xGov-Guru",
+      "url": "https://github.com/SilentRhetoric/xGov-Guru",
+      "description": "Tool to browse xGov voting data and proposals.",
+      "section": [
+        "Learning Resources",
+        "Projects"
       ]
     },
     {
@@ -824,10 +804,20 @@
       ]
     },
     {
-      "key": "https://github.com/vertices-network/c-vertices-sdk",
-      "name": "vertices-algorand-sdk",
-      "url": "https://github.com/vertices-network/c-vertices-sdk",
-      "description": "The Vertices SDK provides developers with easy device access to interact with Blockchains.",
+      "key": "https://github.com/aorumbayev/algokit-tealish-template",
+      "name": "algokit-tealish-template",
+      "url": "https://github.com/aorumbayev/algokit-tealish-template",
+      "description": "AlgoKit community template for quick starting a smart contract project with tealish and algojig.",
+      "section": [
+        "Learning Resources",
+        "AlgoKit Community Templates"
+      ]
+    },
+    {
+      "key": "https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK",
+      "name": "cplusplus-algorand-sdk",
+      "url": "https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK",
+      "description": "Algorand C++ SDK: This repo is providing C++ sdk on algorand chain.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -846,10 +836,10 @@
       ]
     },
     {
-      "key": "https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK",
-      "name": "cplusplus-algorand-sdk",
-      "url": "https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK",
-      "description": "Algorand C++ SDK: This repo is providing C++ sdk on algorand chain.",
+      "key": "https://github.com/vertices-network/c-vertices-sdk",
+      "name": "vertices-algorand-sdk",
+      "url": "https://github.com/vertices-network/c-vertices-sdk",
+      "description": "The Vertices SDK provides developers with easy device access to interact with Blockchains.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -865,6 +855,17 @@
         "Development & Tools",
         "Language SDKs & Tools",
         "Dart"
+      ]
+    },
+    {
+      "key": "https://github.com/algorand/conduit",
+      "name": "conduit",
+      "url": "https://github.com/algorand/conduit",
+      "description": "Algorand's data pipeline framework.",
+      "section": [
+        "Development & Tools",
+        "Language SDKs & Tools",
+        "Go"
       ]
     },
     {
@@ -890,21 +891,10 @@
       ]
     },
     {
-      "key": "https://github.com/algorand/conduit",
-      "name": "conduit",
-      "url": "https://github.com/algorand/conduit",
-      "description": "Algorand's data pipeline framework.",
-      "section": [
-        "Development & Tools",
-        "Language SDKs & Tools",
-        "Go"
-      ]
-    },
-    {
-      "key": "https://github.com/ffsolutions/php-algorand-sdk",
-      "name": "php-algorand-sdk",
-      "url": "https://github.com/ffsolutions/php-algorand-sdk",
-      "description": "Algorand PHP SDK created by @ffsolutions.",
+      "key": "https://github.com/RootSoft/algorand-php",
+      "name": "algorand-php",
+      "url": "https://github.com/RootSoft/algorand-php",
+      "description": "Algorand PHP SDK created by @RootSoft.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -912,10 +902,10 @@
       ]
     },
     {
-      "key": "https://github.com/RootSoft/algorand-php",
-      "name": "algorand-php",
-      "url": "https://github.com/RootSoft/algorand-php",
-      "description": "Algorand PHP SDK created by @RootSoft.",
+      "key": "https://github.com/ffsolutions/php-algorand-sdk",
+      "name": "php-algorand-sdk",
+      "url": "https://github.com/ffsolutions/php-algorand-sdk",
+      "description": "Algorand PHP SDK created by @ffsolutions.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -934,17 +924,6 @@
       ]
     },
     {
-      "key": "https://github.com/tinymanorg/tinyman-py-sdk",
-      "name": "tinyman-py-sdk",
-      "url": "https://github.com/tinymanorg/tinyman-py-sdk",
-      "description": "Tinyman Python SDK.",
-      "section": [
-        "Development & Tools",
-        "Language SDKs & Tools",
-        "Python"
-      ]
-    },
-    {
       "key": "https://github.com/algorandlabs/smart-asa",
       "name": "smart-asa",
       "url": "https://github.com/algorandlabs/smart-asa",
@@ -956,14 +935,14 @@
       ]
     },
     {
-      "key": "https://github.com/algorand/js-algorand-sdk",
-      "name": "js-algorand-sdk",
-      "url": "https://github.com/algorand/js-algorand-sdk",
-      "description": "The Algorand JavaScript SDK & Examples.",
+      "key": "https://github.com/tinymanorg/tinyman-py-sdk",
+      "name": "tinyman-py-sdk",
+      "url": "https://github.com/tinymanorg/tinyman-py-sdk",
+      "description": "Tinyman Python SDK.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
-        "JavaScript & TypeScript"
+        "Python"
       ]
     },
     {
@@ -1000,17 +979,6 @@
       ]
     },
     {
-      "key": "https://github.com/perawallet/connect",
-      "name": "perawallet-connect",
-      "url": "https://github.com/perawallet/connect",
-      "description": "JavaScript SDK for integrating Pera Wallet to web applications.",
-      "section": [
-        "Development & Tools",
-        "Language SDKs & Tools",
-        "JavaScript & TypeScript"
-      ]
-    },
-    {
       "key": "https://github.com/blockshake-io/defly-connect",
       "name": "defly-connect",
       "url": "https://github.com/blockshake-io/defly-connect",
@@ -1022,10 +990,21 @@
       ]
     },
     {
-      "key": "https://github.com/subtopia-algo/subtopia-js",
-      "name": "subtopia-js",
-      "url": "https://github.com/subtopia-algo/subtopia-js",
-      "description": "Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.",
+      "key": "https://github.com/algorand/js-algorand-sdk",
+      "name": "js-algorand-sdk",
+      "url": "https://github.com/algorand/js-algorand-sdk",
+      "description": "The Algorand JavaScript SDK & Examples.",
+      "section": [
+        "Development & Tools",
+        "Language SDKs & Tools",
+        "JavaScript & TypeScript"
+      ]
+    },
+    {
+      "key": "https://github.com/perawallet/connect",
+      "name": "perawallet-connect",
+      "url": "https://github.com/perawallet/connect",
+      "description": "JavaScript SDK for integrating Pera Wallet to web applications.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -1037,6 +1016,17 @@
       "name": "solid-algo-wallets",
       "url": "https://github.com/SilentRhetoric/solid-algo-wallets",
       "description": "SolidJS wallet integration library for Algorand.",
+      "section": [
+        "Development & Tools",
+        "Language SDKs & Tools",
+        "JavaScript & TypeScript"
+      ]
+    },
+    {
+      "key": "https://github.com/subtopia-algo/subtopia-js",
+      "name": "subtopia-js",
+      "url": "https://github.com/subtopia-algo/subtopia-js",
+      "description": "Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -1059,28 +1049,6 @@
       "name": "dotnet-algorand-sdk",
       "url": "https://github.com/RileyGe/dotnet-algorand-sdk",
       "description": "Algorand .NET SDK created by @RileyGe.",
-      "section": [
-        "Development & Tools",
-        "Language SDKs & Tools",
-        ".NET"
-      ]
-    },
-    {
-      "key": "https://github.com/CareBoo/unity-algorand-sdk",
-      "name": "unity-algorand-sdk",
-      "url": "https://github.com/CareBoo/unity-algorand-sdk",
-      "description": "An Algorand SDK for Unity. Use the Algorand Blockchain in your video game.",
-      "section": [
-        "Development & Tools",
-        "Language SDKs & Tools",
-        ".NET"
-      ]
-    },
-    {
-      "key": "https://github.com/Vytek/AlgorandUnitySDK",
-      "name": "unity-algorand-sdk-based-on-net-sdk",
-      "url": "https://github.com/Vytek/AlgorandUnitySDK",
-      "description": "Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -1132,6 +1100,28 @@
       ]
     },
     {
+      "key": "https://github.com/CareBoo/unity-algorand-sdk",
+      "name": "unity-algorand-sdk",
+      "url": "https://github.com/CareBoo/unity-algorand-sdk",
+      "description": "An Algorand SDK for Unity. Use the Algorand Blockchain in your video game.",
+      "section": [
+        "Development & Tools",
+        "Language SDKs & Tools",
+        ".NET"
+      ]
+    },
+    {
+      "key": "https://github.com/Vytek/AlgorandUnitySDK",
+      "name": "unity-algorand-sdk-based-on-net-sdk",
+      "url": "https://github.com/Vytek/AlgorandUnitySDK",
+      "description": "Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.",
+      "section": [
+        "Development & Tools",
+        "Language SDKs & Tools",
+        ".NET"
+      ]
+    },
+    {
       "key": "https://github.com/manuelmauro/algonaut",
       "name": "rust-algorand-sdk",
       "url": "https://github.com/manuelmauro/algonaut",
@@ -1147,6 +1137,28 @@
       "name": "algorand-wallet",
       "url": "https://github.com/algorand/algorand-wallet",
       "description": "Algorand wallet official implementation in Swift.",
+      "section": [
+        "Development & Tools",
+        "Language SDKs & Tools",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/CorvidLabs/swift-algochat",
+      "name": "swift-algochat",
+      "url": "https://github.com/CorvidLabs/swift-algochat",
+      "description": "End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.",
+      "section": [
+        "Development & Tools",
+        "Language SDKs & Tools",
+        "Swift"
+      ]
+    },
+    {
+      "key": "https://github.com/CorvidLabs/swift-algokit",
+      "name": "swift-algokit",
+      "url": "https://github.com/CorvidLabs/swift-algokit",
+      "description": "AlgoKit utilities for Swift developers.",
       "section": [
         "Development & Tools",
         "Language SDKs & Tools",
@@ -1176,17 +1188,6 @@
       ]
     },
     {
-      "key": "https://github.com/CorvidLabs/swift-algokit",
-      "name": "swift-algokit",
-      "url": "https://github.com/CorvidLabs/swift-algokit",
-      "description": "AlgoKit utilities for Swift developers.",
-      "section": [
-        "Development & Tools",
-        "Language SDKs & Tools",
-        "Swift"
-      ]
-    },
-    {
       "key": "https://github.com/CorvidLabs/swift-arc",
       "name": "swift-arc",
       "url": "https://github.com/CorvidLabs/swift-arc",
@@ -1209,17 +1210,6 @@
       ]
     },
     {
-      "key": "https://github.com/CorvidLabs/swift-algochat",
-      "name": "swift-algochat",
-      "url": "https://github.com/CorvidLabs/swift-algochat",
-      "description": "End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.",
-      "section": [
-        "Development & Tools",
-        "Language SDKs & Tools",
-        "Swift"
-      ]
-    },
-    {
       "key": "https://github.com/joe-p/TEALrb",
       "name": "TEALrb",
       "url": "https://github.com/joe-p/TEALrb",
@@ -1231,21 +1221,10 @@
       ]
     },
     {
-      "key": "https://github.com/algorand/pyteal",
-      "name": "pyteal",
-      "url": "https://github.com/algorand/pyteal",
-      "description": "Algorand Smart Contracts in Python.",
-      "section": [
-        "Development & Tools",
-        "Smart Contract Development",
-        "Languages & Compilers"
-      ]
-    },
-    {
-      "key": "https://docs.reach.sh",
-      "name": "reach",
-      "url": "https://docs.reach.sh",
-      "description": "A domain-specific language for building cross chain decentralized applications (DApps).",
+      "key": "https://github.com/petitnau/algoml",
+      "name": "algoml",
+      "url": "https://github.com/petitnau/algoml",
+      "description": "A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.",
       "section": [
         "Development & Tools",
         "Smart Contract Development",
@@ -1264,10 +1243,21 @@
       ]
     },
     {
-      "key": "https://github.com/petitnau/algoml",
-      "name": "algoml",
-      "url": "https://github.com/petitnau/algoml",
-      "description": "A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.",
+      "key": "https://github.com/algorand/pyteal",
+      "name": "pyteal",
+      "url": "https://github.com/algorand/pyteal",
+      "description": "Algorand Smart Contracts in Python.",
+      "section": [
+        "Development & Tools",
+        "Smart Contract Development",
+        "Languages & Compilers"
+      ]
+    },
+    {
+      "key": "https://docs.reach.sh",
+      "name": "reach",
+      "url": "https://docs.reach.sh",
+      "description": "A domain-specific language for building cross chain decentralized applications (DApps).",
       "section": [
         "Development & Tools",
         "Smart Contract Development",
@@ -1308,28 +1298,6 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/beaker",
-      "name": "beaker",
-      "url": "https://github.com/algorandfoundation/beaker",
-      "description": "Pythonic smart contract framework (PyTEAL DSL wrappers, client + testing utilities). (Canonical repo)",
-      "section": [
-        "Development & Tools",
-        "Smart Contract Development",
-        "Frameworks & Utilities"
-      ]
-    },
-    {
-      "key": "https://github.com/algorand/pyteal-utils",
-      "name": "pyteal-utils",
-      "url": "https://github.com/algorand/pyteal-utils",
-      "description": "PyTEAL utilities library.",
-      "section": [
-        "Development & Tools",
-        "Smart Contract Development",
-        "Frameworks & Utilities"
-      ]
-    },
-    {
       "key": "https://github.com/runtimeverification/avm-semantics",
       "name": "avm-semantics",
       "url": "https://github.com/runtimeverification/avm-semantics",
@@ -1341,10 +1309,32 @@
       ]
     },
     {
+      "key": "https://github.com/algorandfoundation/beaker",
+      "name": "beaker",
+      "url": "https://github.com/algorandfoundation/beaker",
+      "description": "Pythonic smart contract framework (PyTEAL DSL wrappers, client + testing utilities). (Canonical repo)",
+      "section": [
+        "Development & Tools",
+        "Smart Contract Development",
+        "Frameworks & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/cusma/d-asa",
       "name": "d-asa",
       "url": "https://github.com/cusma/d-asa",
       "description": "Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.",
+      "section": [
+        "Development & Tools",
+        "Smart Contract Development",
+        "Frameworks & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/algorand/pyteal-utils",
+      "name": "pyteal-utils",
+      "url": "https://github.com/algorand/pyteal-utils",
+      "description": "PyTEAL utilities library.",
       "section": [
         "Development & Tools",
         "Smart Contract Development",
@@ -1417,10 +1407,10 @@
       ]
     },
     {
-      "key": "https://github.com/algorand/graviton",
-      "name": "graviton",
-      "url": "https://github.com/algorand/graviton",
-      "description": "Algorand's TEAL blackbox testing toolkit.",
+      "key": "https://github.com/Hipo/algojig",
+      "name": "algojig",
+      "url": "https://github.com/Hipo/algojig",
+      "description": "A tool for testing Algorand smart contracts.",
       "section": [
         "Development & Tools",
         "Testing & Debugging"
@@ -1437,10 +1427,10 @@
       ]
     },
     {
-      "key": "https://github.com/crytic/tealer",
-      "name": "tealer",
-      "url": "https://github.com/crytic/tealer",
-      "description": "Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.",
+      "key": "https://github.com/algorand/graviton",
+      "name": "graviton",
+      "url": "https://github.com/algorand/graviton",
+      "description": "Algorand's TEAL blackbox testing toolkit.",
       "section": [
         "Development & Tools",
         "Testing & Debugging"
@@ -1457,10 +1447,20 @@
       ]
     },
     {
-      "key": "https://github.com/Hipo/algojig",
-      "name": "algojig",
-      "url": "https://github.com/Hipo/algojig",
-      "description": "A tool for testing Algorand smart contracts.",
+      "key": "https://github.com/CorvidLabs/swift-algotest",
+      "name": "swift-algotest",
+      "url": "https://github.com/CorvidLabs/swift-algotest",
+      "description": "Swift testing framework for Algorand smart contracts with mock chain support.",
+      "section": [
+        "Development & Tools",
+        "Testing & Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/crytic/tealer",
+      "name": "tealer",
+      "url": "https://github.com/crytic/tealer",
+      "description": "Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.",
       "section": [
         "Development & Tools",
         "Testing & Debugging"
@@ -1471,16 +1471,6 @@
       "name": "tealinspector",
       "url": "https://github.com/Hipo/tealinspector",
       "description": "Quick and easy TEAL code debugging by Hipo labs.",
-      "section": [
-        "Development & Tools",
-        "Testing & Debugging"
-      ]
-    },
-    {
-      "key": "https://github.com/CorvidLabs/swift-algotest",
-      "name": "swift-algotest",
-      "url": "https://github.com/CorvidLabs/swift-algotest",
-      "description": "Swift testing framework for Algorand smart contracts with mock chain support.",
       "section": [
         "Development & Tools",
         "Testing & Debugging"
@@ -1527,20 +1517,10 @@
       ]
     },
     {
-      "key": "https://github.com/perawallet",
-      "name": "Pera Wallet",
-      "url": "https://github.com/perawallet",
-      "description": "Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.",
-      "section": [
-        "Wallets & Asset Interaction",
-        "Wallet Providers"
-      ]
-    },
-    {
-      "key": "https://methodwallet.app",
-      "name": "Method Wallet",
-      "url": "https://methodwallet.app/",
-      "description": "Algorand Wallet you'll love.",
+      "key": "https://a-wallet.net",
+      "name": "A-Wallet",
+      "url": "https://a-wallet.net/",
+      "description": "AWallet is an open source, HTML only, corporate friendly, and secure Algorand wallet.",
       "section": [
         "Wallets & Asset Interaction",
         "Wallet Providers"
@@ -1567,10 +1547,10 @@
       ]
     },
     {
-      "key": "https://a-wallet.net",
-      "name": "A-Wallet",
-      "url": "https://a-wallet.net/",
-      "description": "AWallet is an open source, HTML only, corporate friendly, and secure Algorand wallet.",
+      "key": "https://github.com/kibis-is/web-extension",
+      "name": "Kibisis",
+      "url": "https://github.com/kibis-is/web-extension",
+      "description": "Open source Algorand wallet web extension built in React and TypeScript.",
       "section": [
         "Wallets & Asset Interaction",
         "Wallet Providers"
@@ -1587,13 +1567,23 @@
       ]
     },
     {
-      "key": "https://github.com/kibis-is/web-extension",
-      "name": "Kibisis",
-      "url": "https://github.com/kibis-is/web-extension",
-      "description": "Open source Algorand wallet web extension built in React and TypeScript.",
+      "key": "https://github.com/perawallet",
+      "name": "Pera Wallet",
+      "url": "https://github.com/perawallet",
+      "description": "Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.",
       "section": [
         "Wallets & Asset Interaction",
         "Wallet Providers"
+      ]
+    },
+    {
+      "key": "https://github.com/dragmz/rsagg",
+      "name": "rsagg",
+      "url": "https://github.com/dragmz/rsagg",
+      "description": "A Rust library for GPU accelerated Algorand 'vanity' address generation.",
+      "section": [
+        "Wallets & Asset Interaction",
+        "Wallet Development"
       ]
     },
     {
@@ -1617,30 +1607,10 @@
       ]
     },
     {
-      "key": "https://github.com/dragmz/rsagg",
-      "name": "rsagg",
-      "url": "https://github.com/dragmz/rsagg",
-      "description": "A Rust library for GPU accelerated Algorand 'vanity' address generation.",
-      "section": [
-        "Wallets & Asset Interaction",
-        "Wallet Development"
-      ]
-    },
-    {
-      "key": "https://allo.info",
-      "name": "Allo",
-      "url": "https://allo.info",
-      "description": "Unified Algorand explorer covering all networks by Nodely.",
-      "section": [
-        "Wallets & Asset Interaction",
-        "Blockchain Explorers"
-      ]
-    },
-    {
-      "key": "https://explorer.perawallet.app",
-      "name": "Pera Explorer",
-      "url": "https://explorer.perawallet.app/",
-      "description": "Algorand Accounts, Standard Asset (ASA) explorer built by Pera Wallet",
+      "key": "https://github.com/corvid-agent/algo-explorer",
+      "name": "Algo Explorer",
+      "url": "https://github.com/corvid-agent/algo-explorer",
+      "description": "Modern Algorand Blockchain explorer with real-time transaction monitoring.",
       "section": [
         "Wallets & Asset Interaction",
         "Blockchain Explorers"
@@ -1677,23 +1647,23 @@
       ]
     },
     {
-      "key": "https://github.com/corvid-agent/algo-explorer",
-      "name": "Algo Explorer",
-      "url": "https://github.com/corvid-agent/algo-explorer",
-      "description": "Modern Algorand Blockchain explorer with real-time transaction monitoring.",
+      "key": "https://allo.info",
+      "name": "Allo",
+      "url": "https://allo.info",
+      "description": "Unified Algorand explorer covering all networks by Nodely.",
       "section": [
         "Wallets & Asset Interaction",
         "Blockchain Explorers"
       ]
     },
     {
-      "key": "https://app.compx.io/dashboard",
-      "name": "CompX",
-      "url": "https://app.compx.io/dashboard",
-      "description": "Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand Blockchain anywhere and anytime. Formerly Algogator.Finance.",
+      "key": "https://explorer.perawallet.app",
+      "name": "Pera Explorer",
+      "url": "https://explorer.perawallet.app/",
+      "description": "Algorand Accounts, Standard Asset (ASA) explorer built by Pera Wallet",
       "section": [
         "Wallets & Asset Interaction",
-        "Portfolio Trackers"
+        "Blockchain Explorers"
       ]
     },
     {
@@ -1701,6 +1671,16 @@
       "name": "ASA Stats",
       "url": "https://www.asastats.com/",
       "description": "One-stop portfolio tracker used to summarize Algorand asset valuations from up to five wallet addresses.",
+      "section": [
+        "Wallets & Asset Interaction",
+        "Portfolio Trackers"
+      ]
+    },
+    {
+      "key": "https://compx.io",
+      "name": "CompX",
+      "url": "https://compx.io/",
+      "description": "Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand Blockchain anywhere and anytime. Formerly Algogator.Finance.",
       "section": [
         "Wallets & Asset Interaction",
         "Portfolio Trackers"
@@ -1727,40 +1707,10 @@
       ]
     },
     {
-      "key": "https://nodely.io",
-      "name": "Nodely",
-      "url": "https://nodely.io",
-      "description": "Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.",
-      "section": [
-        "Infrastructure & Ecosystem Services",
-        "Nodes & Consensus Participation"
-      ]
-    },
-    {
       "key": "https://github.com/algorand/node-ui",
       "name": "Algorand Node UI",
       "url": "https://github.com/algorand/node-ui",
       "description": "Terminal UI for remote Algorand node management.",
-      "section": [
-        "Infrastructure & Ecosystem Services",
-        "Nodes & Consensus Participation"
-      ]
-    },
-    {
-      "key": "https://github.com/algorandfoundation/nodekit",
-      "name": "nodekit",
-      "url": "https://github.com/algorandfoundation/nodekit",
-      "description": "Terminal user interface for running and managing Algorand nodes locally.",
-      "section": [
-        "Infrastructure & Ecosystem Services",
-        "Nodes & Consensus Participation"
-      ]
-    },
-    {
-      "key": "https://subquery.network",
-      "name": "SubQuery",
-      "url": "https://subquery.network",
-      "description": "Open, fast, flexible, and decentralised cross-chain data indexer for Algorand (getting started guide).",
       "section": [
         "Infrastructure & Ecosystem Services",
         "Nodes & Consensus Participation"
@@ -1777,10 +1727,40 @@
       ]
     },
     {
+      "key": "https://github.com/algorandfoundation/nodekit",
+      "name": "nodekit",
+      "url": "https://github.com/algorandfoundation/nodekit",
+      "description": "Terminal user interface for running and managing Algorand nodes locally.",
+      "section": [
+        "Infrastructure & Ecosystem Services",
+        "Nodes & Consensus Participation"
+      ]
+    },
+    {
+      "key": "https://nodely.io",
+      "name": "Nodely",
+      "url": "https://nodely.io",
+      "description": "Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.",
+      "section": [
+        "Infrastructure & Ecosystem Services",
+        "Nodes & Consensus Participation"
+      ]
+    },
+    {
       "key": "https://github.com/algorandfoundation/reti",
       "name": "reti",
       "url": "https://github.com/algorandfoundation/reti",
       "description": "Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.",
+      "section": [
+        "Infrastructure & Ecosystem Services",
+        "Nodes & Consensus Participation"
+      ]
+    },
+    {
+      "key": "https://subquery.network",
+      "name": "SubQuery",
+      "url": "https://subquery.network",
+      "description": "Open, fast, flexible, and decentralised cross-chain data indexer for Algorand (getting started guide).",
       "section": [
         "Infrastructure & Ecosystem Services",
         "Nodes & Consensus Participation"
@@ -1817,30 +1797,20 @@
       ]
     },
     {
+      "key": "https://github.com/blockshake-io/algorand-ecosystem-audits",
+      "name": "algorand-ecosystem-audits",
+      "url": "https://github.com/blockshake-io/algorand-ecosystem-audits",
+      "description": "A growing collection of audit reports in the Algorand ecosystem maintained by blockshake-io.",
+      "section": [
+        "Infrastructure & Ecosystem Services",
+        "Security Auditing Services"
+      ]
+    },
+    {
       "key": "https://certik.com/ecosystems/algorand",
       "name": "Certik",
       "url": "https://www.certik.com/ecosystems/algorand",
       "description": "Web3 security suite: smart contract audits plus analytics (Skynet, SkyTrace) for Algorand projects.",
-      "section": [
-        "Infrastructure & Ecosystem Services",
-        "Security Auditing Services"
-      ]
-    },
-    {
-      "key": "https://ulam.io/software-services/smart-contract-audits",
-      "name": "UlamLabs",
-      "url": "https://www.ulam.io/software-services/smart-contract-audits",
-      "description": "A Blockchain lab based in Poland, offering auditing services for Algorand smart contracts.",
-      "section": [
-        "Infrastructure & Ecosystem Services",
-        "Security Auditing Services"
-      ]
-    },
-    {
-      "key": "https://runtimeverification.com/smartcontract",
-      "name": "Runtime Verification",
-      "url": "https://runtimeverification.com/smartcontract",
-      "description": "Smart contract analysis and verification by the team who audited platforms like Algofi, FolksFinance, Yieldly and other prominent DeFi platforms in the ecosystem.",
       "section": [
         "Infrastructure & Ecosystem Services",
         "Security Auditing Services"
@@ -1867,10 +1837,20 @@
       ]
     },
     {
-      "key": "https://github.com/blockshake-io/algorand-ecosystem-audits",
-      "name": "algorand-ecosystem-audits",
-      "url": "https://github.com/blockshake-io/algorand-ecosystem-audits",
-      "description": "A growing collection of audit reports in the Algorand ecosystem maintained by blockshake-io.",
+      "key": "https://runtimeverification.com/smartcontract",
+      "name": "Runtime Verification",
+      "url": "https://runtimeverification.com/smartcontract",
+      "description": "Smart contract analysis and verification by the team who audited platforms like Algofi, FolksFinance, Yieldly and other prominent DeFi platforms in the ecosystem.",
+      "section": [
+        "Infrastructure & Ecosystem Services",
+        "Security Auditing Services"
+      ]
+    },
+    {
+      "key": "https://ulam.io/software-services",
+      "name": "UlamLabs",
+      "url": "https://ulam.io/software-services/",
+      "description": "A Blockchain lab based in Poland, offering auditing services for Algorand smart contracts.",
       "section": [
         "Infrastructure & Ecosystem Services",
         "Security Auditing Services"
@@ -1887,20 +1867,20 @@
       ]
     },
     {
-      "key": "https://github.com/tenset-security/audits",
-      "name": "Tenset Security",
-      "url": "https://github.com/tenset-security/audits",
-      "description": "Comprising a team of Web3 Security Researchers, Tenset Security is dedicated to leaving no stone unturned in their pursuit of security excellence. They have a proven track record of success in discovering high-severity vulnerabilities specifically within Algorand projects, emphasizing their expertise and commitment to the Algorand ecosystem.",
-      "section": [
-        "Infrastructure & Ecosystem Services",
-        "Security Auditing Services"
-      ]
-    },
-    {
       "key": "https://metrics.algorand.org",
       "name": "Algorand MainNet metrics",
       "url": "https://metrics.algorand.org/",
       "description": "Dashboard that measures the current scale, security, decentralization, and adoption of the open-source Algorand protocol.",
+      "section": [
+        "Infrastructure & Ecosystem Services",
+        "Metrics and Analytics Services"
+      ]
+    },
+    {
+      "key": "https://allo.info/metrics",
+      "name": "Allo Metrics",
+      "url": "https://allo.info/metrics",
+      "description": "Algorand MainNet in numbers.",
       "section": [
         "Infrastructure & Ecosystem Services",
         "Metrics and Analytics Services"
@@ -1917,10 +1897,20 @@
       ]
     },
     {
-      "key": "https://metrics.allo.info",
-      "name": "Allo Metrics",
-      "url": "https://metrics.allo.info/",
-      "description": "Algorand MainNet in numbers.",
+      "key": "https://onchainpulse.theaslangroupllc.com",
+      "name": "OnchainPulse ASA Safety Scanner",
+      "url": "https://onchainpulse.theaslangroupllc.com",
+      "description": "Automated ASA token-safety check: clawback/freeze/manager authorities, default-frozen flag, holder concentration and Tinyman liquidity fused into a deterministic CLEAR/CAUTION/AVOID verdict, per-call via x402 (settles in Algorand USDC).",
+      "section": [
+        "Infrastructure & Ecosystem Services",
+        "Metrics and Analytics Services"
+      ]
+    },
+    {
+      "key": "https://openchainbench.com",
+      "name": "OpenChainBench",
+      "url": "https://openchainbench.com",
+      "description": "Independent RPC latency and L1 finality benchmarks for Algorand and 20+ other chains. Continuous measurements from 3 global regions, MIT licensed.",
       "section": [
         "Infrastructure & Ecosystem Services",
         "Metrics and Analytics Services"
@@ -1936,19 +1926,28 @@
       ]
     },
     {
-      "key": "https://chatgpt.com/g/g-izA6hnC93-algorand-gpt",
-      "name": "Algorand-GPT",
-      "url": "https://chatgpt.com/g/g-izA6hnC93-algorand-gpt",
-      "description": "An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.",
+      "key": "https://github.com/corvid-agent/corvid-agent-chat",
+      "name": "AlgoChat",
+      "url": "https://github.com/corvid-agent/corvid-agent-chat",
+      "description": "Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.",
       "section": [
         "AI and Machine Learning"
       ]
     },
     {
-      "key": "https://chatgpt.com/g/g-rOCQculZQ-did-gpt",
-      "name": "DID-GPT",
-      "url": "https://chatgpt.com/g/g-rOCQculZQ-did-gpt",
-      "description": "A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.",
+      "key": "https://github.com/algorand-devrel/algorand-agent-skills",
+      "name": "algorand-agent-skills",
+      "url": "https://github.com/algorand-devrel/algorand-agent-skills",
+      "description": "Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.",
+      "section": [
+        "AI and Machine Learning"
+      ]
+    },
+    {
+      "key": "https://chatgpt.com/g/g-izA6hnC93-algorand-gpt",
+      "name": "Algorand-GPT",
+      "url": "https://chatgpt.com/g/g-izA6hnC93-algorand-gpt",
+      "description": "An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.",
       "section": [
         "AI and Machine Learning"
       ]
@@ -1981,15 +1980,6 @@
       ]
     },
     {
-      "key": "https://github.com/gabrielkuettel/vibekit",
-      "name": "VibeKit",
-      "url": "https://github.com/gabrielkuettel/vibekit",
-      "description": "CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.",
-      "section": [
-        "AI and Machine Learning"
-      ]
-    },
-    {
       "key": "https://github.com/corvid-agent/corvid-agent",
       "name": "corvid-agent",
       "url": "https://github.com/corvid-agent/corvid-agent",
@@ -1999,58 +1989,28 @@
       ]
     },
     {
-      "key": "https://github.com/corvid-agent/corvid-agent-chat",
-      "name": "AlgoChat",
-      "url": "https://github.com/corvid-agent/corvid-agent-chat",
-      "description": "Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.",
+      "key": "https://chatgpt.com/g/g-rOCQculZQ-did-gpt",
+      "name": "DID-GPT",
+      "url": "https://chatgpt.com/g/g-rOCQculZQ-did-gpt",
+      "description": "A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.",
       "section": [
         "AI and Machine Learning"
       ]
     },
     {
-      "key": "https://github.com/algorand-devrel/algorand-agent-skills",
-      "name": "algorand-agent-skills",
-      "url": "https://github.com/algorand-devrel/algorand-agent-skills",
-      "description": "Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.",
+      "key": "https://github.com/gabrielkuettel/vibekit",
+      "name": "VibeKit",
+      "url": "https://github.com/gabrielkuettel/vibekit",
+      "description": "CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.",
       "section": [
         "AI and Machine Learning"
       ]
     },
     {
-      "key": "https://tinyman.org",
-      "name": "Tinyman",
-      "url": "https://tinyman.org/",
-      "description": "A decentralized trading protocol, AMM and platform.",
-      "section": [
-        "Application Platforms & Examples",
-        "DeFi Platforms"
-      ]
-    },
-    {
-      "key": "https://pact.fi",
-      "name": "Pact",
-      "url": "https://www.pact.fi/",
-      "description": "Decentralised Automated Market Maker (AMM) built on the Algorand protocol.",
-      "section": [
-        "Application Platforms & Examples",
-        "DeFi Platforms"
-      ]
-    },
-    {
-      "key": "https://lofty.ai",
-      "name": "Lofty.ai",
-      "url": "https://www.lofty.ai/",
-      "description": "Tokenized real estate investing platform.",
-      "section": [
-        "Application Platforms & Examples",
-        "DeFi Platforms"
-      ]
-    },
-    {
-      "key": "https://folks.finance",
-      "name": "Folks.finance",
-      "url": "https://folks.finance/",
-      "description": "Decentralized capital markets protocol.",
+      "key": "https://aramid.finance",
+      "name": "aramid.finance",
+      "url": "https://www.aramid.finance/",
+      "description": "A Decentralized Cross-Chain Protocol supporting Algorand, Polygon, Ethereum and other EVM chains.",
       "section": [
         "Application Platforms & Examples",
         "DeFi Platforms"
@@ -2067,40 +2027,10 @@
       ]
     },
     {
-      "key": "https://aramid.finance",
-      "name": "aramid.finance",
-      "url": "https://www.aramid.finance/",
-      "description": "A Decentralized Cross-Chain Protocol supporitng Algorand, Polygon, Ethereum and other EVM chains.",
-      "section": [
-        "Application Platforms & Examples",
-        "DeFi Platforms"
-      ]
-    },
-    {
-      "key": "https://stabilitas.finance",
-      "name": "stabilitas.finance",
-      "url": "https://stabilitas.finance/",
-      "description": "Stable and secure digital assets for various purposes such as purchases, remittances and as a store of value.",
-      "section": [
-        "Application Platforms & Examples",
-        "DeFi Platforms"
-      ]
-    },
-    {
-      "key": "https://vestige.fi",
-      "name": "vestige.fi",
-      "url": "https://vestige.fi/",
-      "description": "A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.",
-      "section": [
-        "Application Platforms & Examples",
-        "DeFi Platforms"
-      ]
-    },
-    {
-      "key": "https://github.com/Folks-Finance/folks-router",
-      "name": "folks-router",
-      "url": "https://github.com/Folks-Finance/folks-router",
-      "description": "Efficient swap routing SDK on Algorand by Folks Finance.",
+      "key": "https://dork.fi",
+      "name": "DorkFi",
+      "url": "https://dork.fi/",
+      "description": "Cross-chain borrow/lend protocol on Algorand and Voi Network. Features overcollateralized lending, WAD stablecoin minting, and UNIT governance token.",
       "section": [
         "Application Platforms & Examples",
         "DeFi Platforms"
@@ -2117,33 +2047,73 @@
       ]
     },
     {
-      "key": "https://dork.fi",
-      "name": "DorkFi",
-      "url": "https://dork.fi/",
-      "description": "Cross-chain borrow/lend protocol on Algorand and Voi Network. Features overcollateralized lending, WAD stablecoin minting, and UNIT governance token.",
+      "key": "https://github.com/Folks-Finance/folks-router",
+      "name": "folks-router",
+      "url": "https://github.com/Folks-Finance/folks-router",
+      "description": "Efficient swap routing SDK on Algorand by Folks Finance.",
       "section": [
         "Application Platforms & Examples",
         "DeFi Platforms"
       ]
     },
     {
-      "key": "https://randgallery.com",
-      "name": "Rand Gallery",
-      "url": "https://www.randgallery.com/",
-      "description": "Algorand Standard Asset (ASA) explorer and marketplace developed by Chris Antaki.",
+      "key": "https://folks.finance",
+      "name": "Folks.finance",
+      "url": "https://folks.finance/",
+      "description": "Decentralized capital markets protocol.",
       "section": [
         "Application Platforms & Examples",
-        "NFT Marketplaces"
+        "DeFi Platforms"
       ]
     },
     {
-      "key": "https://algogems.io",
-      "name": "AlgoGems",
-      "url": "https://algogems.io/",
-      "description": "Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.",
+      "key": "https://lofty.ai",
+      "name": "Lofty.ai",
+      "url": "https://www.lofty.ai/",
+      "description": "Tokenized real estate investing platform.",
       "section": [
         "Application Platforms & Examples",
-        "NFT Marketplaces"
+        "DeFi Platforms"
+      ]
+    },
+    {
+      "key": "https://pact.fi",
+      "name": "Pact",
+      "url": "https://www.pact.fi/",
+      "description": "Decentralised Automated Market Maker (AMM) built on the Algorand protocol.",
+      "section": [
+        "Application Platforms & Examples",
+        "DeFi Platforms"
+      ]
+    },
+    {
+      "key": "https://stabilitas.finance",
+      "name": "stabilitas.finance",
+      "url": "https://stabilitas.finance/",
+      "description": "Stable and secure digital assets for various purposes such as purchases, remittances and as a store of value.",
+      "section": [
+        "Application Platforms & Examples",
+        "DeFi Platforms"
+      ]
+    },
+    {
+      "key": "https://tinyman.org",
+      "name": "Tinyman",
+      "url": "https://tinyman.org/",
+      "description": "A decentralized trading protocol, AMM and platform.",
+      "section": [
+        "Application Platforms & Examples",
+        "DeFi Platforms"
+      ]
+    },
+    {
+      "key": "https://vestige.fi",
+      "name": "vestige.fi",
+      "url": "https://vestige.fi/",
+      "description": "A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.",
+      "section": [
+        "Application Platforms & Examples",
+        "DeFi Platforms"
       ]
     },
     {
@@ -2217,20 +2187,20 @@
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md",
-      "name": "ARC4",
-      "url": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md",
-      "description": "Application Binary Interface.",
+      "key": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md",
+      "name": "ARC32",
+      "url": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md",
+      "description": "Application Specification.",
       "section": [
         "Standards",
         "Algorand Request for Comments"
       ]
     },
     {
-      "key": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md",
-      "name": "ARC32",
-      "url": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md",
-      "description": "Application Specification.",
+      "key": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md",
+      "name": "ARC4",
+      "url": "https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md",
+      "description": "Application Binary Interface.",
       "section": [
         "Standards",
         "Algorand Request for Comments"

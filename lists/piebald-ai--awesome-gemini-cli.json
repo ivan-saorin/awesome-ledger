@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"57a251b1c72a0e1720a054884660e358d4156090d38a5c3a5bd8833ec7152109\"",
+  "etag": "W/\"c1dafea9a01ed4e4d81bbcdbe25ad0b471af246e39abac89a296d47fddbf99c7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -373,9 +373,9 @@
       ]
     },
     {
-      "key": "https://github.com/galz10/pickle-rick-extension",
+      "key": "https://github.com/galdawave/pickle-rick-extension",
       "name": "Pickle Rick",
-      "url": "http://github.com/galz10/pickle-rick-extension",
+      "url": "https://github.com/galdawave/pickle-rick-extension",
       "description": "This extension transforms the Gemini CLI into \"Pickle Rick,\" a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.",
       "section": [
         "Commands & Extensions"
@@ -393,7 +393,7 @@
     {
       "key": "https://github.com/gemini-cli-extensions/conductor",
       "name": "Conductor",
-      "url": "http://github.com/gemini-cli-extensions/conductor",
+      "url": "https://github.com/gemini-cli-extensions/conductor",
       "description": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.",
       "section": [
         "Commands & Extensions"
@@ -845,6 +845,15 @@
       "name": "Devie AI Quota Tracker",
       "url": "https://github.com/mathdevie/devie-ai-quota-tracker",
       "description": "Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/vivekchand/clawmetry",
+      "name": "ClawMetry",
+      "url": "https://github.com/vivekchand/clawmetry",
+      "description": "Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. Website",
       "section": [
         "Development Tools & Utilities"
       ]

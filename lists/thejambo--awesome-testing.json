@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d2b9b0bd65a01886d8a164dffe41aa13da75fd6d91ed8d3df2df048fa9cb147b\"",
+  "etag": "W/\"c5fc2804b1f2cb5a609480b33b80d750ef7a951cef40408d09cb16ff7fa711a3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -838,6 +838,16 @@
       "name": "FakeNamely",
       "url": "https://fakenamely.com",
       "description": "Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://jsonfabrica.com",
+      "name": "JsonFabrica",
+      "url": "https://jsonfabrica.com",
+      "description": "API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.",
       "section": [
         "Software",
         "Test Data Management"

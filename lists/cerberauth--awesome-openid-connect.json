@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"029c848cf9f4b5ccf5368316fe3e4895b068f88a85b3321b96c92f1e9a451023\"",
+  "etag": "W/\"b0401e8fc161aaa8620dcd37df771dac3e64cb6bc81fdf55b2a6deca82662aef\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -655,6 +655,16 @@
       "section": [
         "Relying Parties (RP) Libraries",
         "PHP"
+      ]
+    },
+    {
+      "key": "https://github.com/authlib/authlib",
+      "name": "Authlib",
+      "url": "https://github.com/authlib/authlib",
+      "description": "Python library in building OAuth and OpenID Connect servers and clients.",
+      "section": [
+        "Relying Parties (RP) Libraries",
+        "Python"
       ]
     },
     {
@@ -1479,6 +1489,17 @@
       "name": "OAuth Identity and Authorization Chaining Across Domains",
       "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-11",
       "description": "Preserves user identity, authorization context, and call-chain history across multiple services and trust domains using OAuth token exchange and JWT-based assertions.",
+      "section": [
+        "Resources",
+        "Specifications",
+        "Draft"
+      ]
+    },
+    {
+      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps-04.html",
+      "name": "OAuth 2.0 for First-Party Applications",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps-04.html",
+      "description": "Defines the Authorization Challenge Endpoint to enable native applications to obtain user authorization through native user interfaces.",
       "section": [
         "Resources",
         "Specifications",
