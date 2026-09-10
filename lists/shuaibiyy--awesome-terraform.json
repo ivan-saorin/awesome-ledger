@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"057d6cd41fa52cb56495a2eabd1b5b5946c74f1899e39f7d9f3c343dd77480e0\"",
+  "etag": "W/\"86455c1ea53350cdcc169123306929083a52de2ba0d0ef99638e82d3bcc10c86\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -328,10 +328,28 @@
       ]
     },
     {
+      "key": "https://devops-daily.com/games/terraform-terminal-simulator",
+      "name": "Terraform Terminal Simulator",
+      "url": "https://devops-daily.com/games/terraform-terminal-simulator",
+      "description": "Practice init, plan, and apply in a simulated terminal in the browser. Free and open source, no signup.",
+      "section": [
+        "Learning and Studying"
+      ]
+    },
+    {
       "key": "https://compliance.tf/docs",
       "name": "compliance.tf docs",
       "url": "https://compliance.tf/docs/",
       "description": "Free Terraform implementations of SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other compliance controls — open reference for writing compliant infrastructure code.",
+      "section": [
+        "Learning and Studying"
+      ]
+    },
+    {
+      "key": "https://devopslesson.com/playground/terraform",
+      "name": "DevOpsLesson Terraform Playground",
+      "url": "https://devopslesson.com/playground/terraform",
+      "description": "Free browser-based Terraform simulator with guided HCL exercises and practice commands.",
       "section": [
         "Learning and Studying"
       ]
@@ -405,10 +423,20 @@
       ]
     },
     {
-      "key": "https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/introduction",
+      "key": "https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform",
       "name": "Complete Terraform Course in French (Free)",
-      "url": "https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/introduction/",
+      "url": "https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/",
       "description": "A comprehensive and free course in French to master Terraform, from beginner to advanced usage, with hands-on examples and best practices.",
+      "section": [
+        "Tutorials and Blog Posts",
+        "Beginner Guides"
+      ]
+    },
+    {
+      "key": "https://devopslesson.com/tutorials/terraform/introduction-to-terraform",
+      "name": "Introduction to Terraform",
+      "url": "https://devopslesson.com/tutorials/terraform/introduction-to-terraform",
+      "description": "Beginner-friendly guide to Terraform fundamentals — providers, resources, state, and your first apply with hands-on examples.",
       "section": [
         "Tutorials and Blog Posts",
         "Beginner Guides"
@@ -629,6 +657,16 @@
       "name": "Terraforming Azure PaaS",
       "url": "https://devkimchi.com/2019/01/21/terraforming-azure-paas/",
       "description": "Deploy PaaS Resources on Azure.",
+      "section": [
+        "Tutorials and Blog Posts",
+        "Azure"
+      ]
+    },
+    {
+      "key": "https://github.com/victorlane/azure-az104",
+      "name": "azure-az104",
+      "url": "https://github.com/victorlane/azure-az104",
+      "description": "AZ-104 Azure Administrator study notes and hands-on Terraform examples, including a landing-zone reference architecture.",
       "section": [
         "Tutorials and Blog Posts",
         "Azure"
@@ -1244,6 +1282,24 @@
       ]
     },
     {
+      "key": "https://github.com/fabiocicerchia/terraform-helm-carbon-intensity-exporter",
+      "name": "terraform-helm-carbon-intensity-exporter",
+      "url": "https://github.com/fabiocicerchia/terraform-helm-carbon-intensity-exporter",
+      "description": "Terraform/Helm module to deploy the Kubernetes Carbon Intensity Exporter.",
+      "section": [
+        "Community Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/fabiocicerchia/terraform-helm-kepler",
+      "name": "terraform-helm-kepler",
+      "url": "https://github.com/fabiocicerchia/terraform-helm-kepler",
+      "description": "Terraform module to deploy Kepler (Kubernetes power profiling) via Helm.",
+      "section": [
+        "Community Modules"
+      ]
+    },
+    {
       "key": "https://github.com/kbst/terraform-kubestack",
       "name": "terraform-kubestack",
       "url": "https://github.com/kbst/terraform-kubestack",
@@ -1745,6 +1801,16 @@
       ]
     },
     {
+      "key": "https://github.com/uk-sw/terraform-provider-nxip",
+      "name": "terraform-provider-nxip",
+      "url": "https://github.com/uk-sw/terraform-provider-nxip",
+      "description": "Provider for nxip, IPAM with pool-based CIDR allocation across cloud and on-premise. :heavy_dollar_sign:",
+      "section": [
+        "Providers",
+        "Vendor supported providers"
+      ]
+    },
+    {
       "key": "https://github.com/terraform-provider-openstack/terraform-provider-openstack",
       "name": "terraform-provider-openstack",
       "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack",
@@ -1925,6 +1991,16 @@
       ]
     },
     {
+      "key": "https://github.com/coolify-terraform/terraform-provider-coolify",
+      "name": "terraform-provider-coolify",
+      "url": "https://github.com/coolify-terraform/terraform-provider-coolify",
+      "description": "Terraform provider for Coolify.",
+      "section": [
+        "Providers",
+        "Community providers"
+      ]
+    },
+    {
       "key": "https://github.com/kreuzwerker/terraform-provider-docker",
       "name": "terraform-provider-docker",
       "url": "https://github.com/kreuzwerker/terraform-provider-docker",
@@ -1939,46 +2015,6 @@
       "name": "terraform-provider-minio",
       "url": "https://github.com/aminueza/terraform-provider-minio",
       "description": "Terraform provider for managing MinIO S3 buckets and IAM Users.",
-      "section": [
-        "Providers",
-        "Community providers"
-      ]
-    },
-    {
-      "key": "https://github.com/Telmate/terraform-provider-proxmox",
-      "name": "terraform-provider-proxmox",
-      "url": "https://github.com/Telmate/terraform-provider-proxmox",
-      "description": "Terraform Proxmox provider.",
-      "section": [
-        "Providers",
-        "Community providers"
-      ]
-    },
-    {
-      "key": "https://github.com/devops-rob/terraform-provider-terracurl",
-      "name": "terraform-provider-terracurl",
-      "url": "https://github.com/devops-rob/terraform-provider-terracurl",
-      "description": "Provider to make managed and unmanaged API calls to your target endpoint.",
-      "section": [
-        "Providers",
-        "Community providers"
-      ]
-    },
-    {
-      "key": "https://github.com/julienlevasseur/terraform-provider-uname",
-      "name": "terraform-provider-uname",
-      "url": "https://github.com/julienlevasseur/terraform-provider-uname",
-      "description": "Uname Provider for Terraform.",
-      "section": [
-        "Providers",
-        "Community providers"
-      ]
-    },
-    {
-      "key": "https://github.com/pseudo-dynamic/terraform-provider-value",
-      "name": "terraform-provider-value",
-      "url": "https://github.com/pseudo-dynamic/terraform-provider-value",
-      "description": "Value Provider for Terraform.",
       "section": [
         "Providers",
         "Community providers"
@@ -2015,10 +2051,50 @@
       ]
     },
     {
-      "key": "https://github.com/coolify-terraform/terraform-provider-coolify",
-      "name": "terraform-provider-coolify",
-      "url": "https://github.com/coolify-terraform/terraform-provider-coolify",
-      "description": "Terraform provider for Coolify.",
+      "key": "https://github.com/Telmate/terraform-provider-proxmox",
+      "name": "terraform-provider-proxmox",
+      "url": "https://github.com/Telmate/terraform-provider-proxmox",
+      "description": "Terraform Proxmox provider.",
+      "section": [
+        "Providers",
+        "Community providers"
+      ]
+    },
+    {
+      "key": "https://github.com/Josh-Archer/terraform-provider-seerr",
+      "name": "terraform-provider-seerr",
+      "url": "https://github.com/Josh-Archer/terraform-provider-seerr",
+      "description": "Terraform provider for Seerr (Overseerr/Jellyseerr).",
+      "section": [
+        "Providers",
+        "Community providers"
+      ]
+    },
+    {
+      "key": "https://github.com/devops-rob/terraform-provider-terracurl",
+      "name": "terraform-provider-terracurl",
+      "url": "https://github.com/devops-rob/terraform-provider-terracurl",
+      "description": "Provider to make managed and unmanaged API calls to your target endpoint.",
+      "section": [
+        "Providers",
+        "Community providers"
+      ]
+    },
+    {
+      "key": "https://github.com/julienlevasseur/terraform-provider-uname",
+      "name": "terraform-provider-uname",
+      "url": "https://github.com/julienlevasseur/terraform-provider-uname",
+      "description": "Uname Provider for Terraform.",
+      "section": [
+        "Providers",
+        "Community providers"
+      ]
+    },
+    {
+      "key": "https://github.com/pseudo-dynamic/terraform-provider-value",
+      "name": "terraform-provider-value",
+      "url": "https://github.com/pseudo-dynamic/terraform-provider-value",
+      "description": "Value Provider for Terraform.",
       "section": [
         "Providers",
         "Community providers"
@@ -2039,6 +2115,26 @@
       "name": "terraform-provider-expo",
       "url": "https://github.com/elevenode/terraform-provider-expo",
       "description": "Terraform provider for Expo Application Services (EAS).",
+      "section": [
+        "Providers",
+        "Community providers"
+      ]
+    },
+    {
+      "key": "https://github.com/vivantel/terraform-provider-paddle",
+      "name": "terraform-provider-paddle",
+      "url": "https://github.com/vivantel/terraform-provider-paddle",
+      "description": "Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.",
+      "section": [
+        "Providers",
+        "Community providers"
+      ]
+    },
+    {
+      "key": "https://github.com/seekritdev/terraform-provider-seekrit",
+      "name": "terraform-provider-seekrit",
+      "url": "https://github.com/seekritdev/terraform-provider-seekrit",
+      "description": "Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.",
       "section": [
         "Providers",
         "Community providers"
@@ -2256,6 +2352,24 @@
       "name": "coretech/terrafile",
       "url": "https://github.com/coretech/terrafile",
       "description": "Systematically manage external modules from Github for use in Terraform (written in Go). :skull:",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/cynative/cynative",
+      "name": "Cynative",
+      "url": "https://github.com/cynative/cynative",
+      "description": "Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://datadef.io/repo-to-diagram",
+      "name": "Datadef",
+      "url": "https://datadef.io/repo-to-diagram",
+      "description": "Generates architecture diagrams and docs from a Terraform repo: parses .tf files without running terraform init or reading state, draws modules as zones with per-environment counts, re-syncs daily. :heavy_dollar_sign:",
       "section": [
         "Tools"
       ]
@@ -2666,15 +2780,6 @@
       ]
     },
     {
-      "key": "https://releaserun.com/tools/terraform-checker",
-      "name": "ReleaseRun Terraform Provider Matrix",
-      "url": "https://releaserun.com/tools/terraform-checker/",
-      "description": "Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/JamesWoolfenden/sato",
       "name": "sato",
       "url": "https://github.com/JamesWoolfenden/sato",
@@ -2711,15 +2816,6 @@
       ]
     },
     {
-      "key": "https://releaserun.com/tools/terraform-security",
-      "name": "ReleaseRun Terraform Security Scanner",
-      "url": "https://releaserun.com/tools/terraform-security/",
-      "description": "Free browser-based scanner for .tf files. Checks hardcoded credentials, open ports to 0.0.0.0/0, public S3/RDS, unencrypted storage, missing deletion_protection. A-F grade. No install required.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/shieldly-io/cli",
       "name": "Shieldly",
       "url": "https://github.com/shieldly-io/cli",
@@ -2751,6 +2847,15 @@
       "name": "stacks",
       "url": "https://github.com/cisco-open/stacks",
       "description": "Stacks, the Terraform code pre-processor",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/MR-TABATA/SyncVey",
+      "name": "SyncVey",
+      "url": "https://github.com/MR-TABATA/SyncVey",
+      "description": "Self-hosted AWS asset ledger with attribute-level drift detection between tfstate and live AWS state, scheduled scans, and middleware EOL alerts.",
       "section": [
         "Tools"
       ]
@@ -3359,6 +3464,15 @@
       ]
     },
     {
+      "key": "https://github.com/Rezarys/tfmodcache",
+      "name": "tfmodcache",
+      "url": "https://github.com/Rezarys/tfmodcache",
+      "description": "Local, shared module cache for Terraform and OpenTofu; terraform init stops re-downloading modules it already has. I am the author.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/suzuki-shunsuke/tfmv",
       "name": "tfmv",
       "url": "https://github.com/suzuki-shunsuke/tfmv",
@@ -3626,6 +3740,16 @@
       "description": "Compare Azure resources deployed in a subscription against resources managed by Terraform Enterprise (HCP & Selfhosted) workspaces when your cloud's resource tagging strategy is insufficient.",
       "section": [
         "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/drumandbytes/opentofu-updater-action",
+      "name": "opentofu-updater-action",
+      "url": "https://github.com/drumandbytes/opentofu-updater-action",
+      "description": "GitHub Action that keeps OpenTofu/Terraform providers, modules, Helm charts and container images up to date by opening pull requests.",
+      "section": [
+        "Tools",
+        "CI"
       ]
     },
     {

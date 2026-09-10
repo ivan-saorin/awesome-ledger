@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"95847feb8f9473e9608d519f31f6d70a190705cdf41a12b62fa23c3517e92f35\"",
+  "etag": "W/\"66ad4438c06d3654d7c835317c4fcd0545b463396e493a05a84c21b65185740e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -463,6 +463,15 @@
       ]
     },
     {
+      "key": "https://github.com/runmat-org/runmat",
+      "name": "runmat-org/runmat",
+      "url": "https://github.com/runmat-org/runmat",
+      "description": "[runmat] - A runtime for MATLAB-syntax numerical programs, with GPU acceleration through wgpu.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
       "key": "https://github.com/iot-ecology/rust-iot-platform",
       "name": "Rust Iot Platform",
       "url": "https://github.com/iot-ecology/rust-iot-platform",
@@ -584,6 +593,15 @@
       "name": "topjohnwu/Magisk",
       "url": "https://github.com/topjohnwu/Magisk",
       "description": "A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/tunnetio/Tunnet",
+      "name": "tunnetio/Tunnet",
+      "url": "https://github.com/tunnetio/Tunnet",
+      "description": "Private mesh networking with public tunnels, identity-based SSH, and P2P file transfer",
       "section": [
         "Applications"
       ]
@@ -1808,6 +1826,16 @@
       ]
     },
     {
+      "key": "https://github.com/teaql/teaql-rs",
+      "name": "teaql/teaql-rs",
+      "url": "https://github.com/teaql/teaql-rs",
+      "description": "[teaql-core] - A model-driven runtime with typed queries, governed mutations, and SQL providers",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
       "key": "https://github.com/terminusdb/terminusdb-store",
       "name": "TerminusDB",
       "url": "https://github.com/terminusdb/terminusdb-store",
@@ -2942,6 +2970,16 @@
       "name": "esrlabs/chipmunk",
       "url": "https://github.com/esrlabs/chipmunk",
       "description": "Native egui desktop application for analyzing massive log files and streams. Features a WebAssembly plugin system and automotive formats support.",
+      "section": [
+        "Applications",
+        "Observability"
+      ]
+    },
+    {
+      "key": "https://github.com/madesroches/micromegas",
+      "name": "madesroches/micromegas",
+      "url": "https://github.com/madesroches/micromegas",
+      "description": "[micromegas] - Observability backend for logs, metrics and traces, with low-overhead Rust instrumentation. Stores telemetry as Parquet on object storage and queries it with SQL.",
       "section": [
         "Applications",
         "Observability"
@@ -5548,6 +5586,26 @@
       ]
     },
     {
+      "key": "https://github.com/ja7ad/hydra",
+      "name": "ja7ad/hydra",
+      "url": "https://github.com/ja7ad/hydra",
+      "description": "An open-source, high-performance download manager and accelerator that splits every file across parallel connections and mirror sources. Featuring dynamic range stealing and real-time stall recovery for Windows, macOS, and Linux.",
+      "section": [
+        "Applications",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/lamco-admin/lamco-rdp-server",
+      "name": "lamco-admin/lamco-rdp-server",
+      "url": "https://github.com/lamco-admin/lamco-rdp-server",
+      "description": "Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.",
+      "section": [
+        "Applications",
+        "Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/Linus-Mussmaecher/rucola",
       "name": "Linus-Mussmaecher/rucola",
       "url": "https://github.com/Linus-Mussmaecher/rucola",
@@ -5942,6 +6000,16 @@
       "name": "harlanc/xiu",
       "url": "https://github.com/harlanc/xiu",
       "description": "A powerful and secure live server (rtmp/httpflv/hls/relay).",
+      "section": [
+        "Applications",
+        "Video"
+      ]
+    },
+    {
+      "key": "https://github.com/Jorji49/streamtop",
+      "name": "Jorji49/streamtop",
+      "url": "https://github.com/Jorji49/streamtop",
+      "description": "[streamtop] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.",
       "section": [
         "Applications",
         "Video"
@@ -7539,6 +7607,16 @@
       "name": "Sean1708/rusty-cheddar",
       "url": "https://github.com/Sean1708/rusty-cheddar",
       "description": "generates C header files from Rust source files",
+      "section": [
+        "Development tools",
+        "FFI"
+      ]
+    },
+    {
+      "key": "https://github.com/trevyn/librclone",
+      "name": "trevyn/librclone",
+      "url": "https://github.com/trevyn/librclone",
+      "description": "[librclone] - Rust bindings for the librclone C library.",
       "section": [
         "Development tools",
         "FFI"
@@ -11392,6 +11470,16 @@
       ]
     },
     {
+      "key": "https://github.com/PSU3D0/formualizer",
+      "name": "PSU3D0/formualizer",
+      "url": "https://github.com/PSU3D0/formualizer",
+      "description": "[formualizer] - Embeddable spreadsheet engine that parses, evaluates and mutates Excel workbooks: 400+ functions, Arrow-backed storage, incremental recalculation, Python and WASM bindings",
+      "section": [
+        "Libraries",
+        "Data processing"
+      ]
+    },
+    {
       "key": "https://github.com/weld-project/weld",
       "name": "weld-project/weld",
       "url": "https://github.com/weld-project/weld",
@@ -13502,6 +13590,16 @@
       ]
     },
     {
+      "key": "https://github.com/balaurengine/balaur",
+      "name": "Balaur",
+      "url": "https://github.com/balaurengine/balaur",
+      "description": "A deterministic 2D and 3D game engine with Rune scripting, Rapier physics and a built-in editor",
+      "section": [
+        "Libraries",
+        "Game development"
+      ]
+    },
+    {
       "key": "https://github.com/bevyengine/bevy",
       "name": "Bevy",
       "url": "https://github.com/bevyengine/bevy",
@@ -14456,6 +14554,16 @@
       "name": "slint-ui/slint",
       "url": "https://github.com/slint-ui/slint",
       "description": "slint - Slint is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications.",
+      "section": [
+        "Libraries",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/Smithay/smithay",
+      "name": "smithay",
+      "url": "https://github.com/Smithay/smithay",
+      "description": "[smithay] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors",
       "section": [
         "Libraries",
         "GUI"
@@ -15429,6 +15537,16 @@
       "section": [
         "Libraries",
         "Parsing"
+      ]
+    },
+    {
+      "key": "https://github.com/AprilNEA/OpenLogi/tree/main/crates/openlogi-hidpp",
+      "name": "AprilNEA/OpenLogi/crates/openlogi-hidpp",
+      "url": "https://github.com/AprilNEA/OpenLogi/tree/main/crates/openlogi-hidpp",
+      "description": "[openlogi-hidpp] - OpenLogi's vendored fork of the hidpp crate for Logitech HID++ protocol support.",
+      "section": [
+        "Libraries",
+        "Peripherals"
       ]
     },
     {

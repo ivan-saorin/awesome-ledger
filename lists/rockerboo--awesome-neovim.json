@@ -1,12 +1,12 @@
 {
-  "etag": "W/\"3de86f39e0f867ef4732d433efeea105dc23cf3cf7baa5c78f6e613d30097b9b\"",
+  "etag": "W/\"a48bf24d99c9b545ecd50762a5873a779875054e11ff1d25695f2cf3cc85c7d7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
     {
-      "key": "https://source.alyxshang.boo/alyxshang/nuwa.nvim",
+      "key": "https://github.com/alyxshang/nuwa.nvim",
       "name": "alyxshang/nuwa.nvim",
-      "url": "https://source.alyxshang.boo/alyxshang/nuwa.nvim",
+      "url": "https://github.com/alyxshang/nuwa.nvim",
       "description": "A light package manager.",
       "section": [
         "Plugin Manager"
@@ -1098,6 +1098,24 @@
       "description": "A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.",
       "section": [
         "Completion"
+      ]
+    },
+    {
+      "key": "https://github.com/hebercosfer/floating-claude.nvim",
+      "name": "hebercosfer/floating-claude.nvim",
+      "url": "https://github.com/hebercosfer/floating-claude.nvim",
+      "description": "Floating terminal provider for claudecode.nvim that collapses into a corner notification while Claude edits and returns once idle.",
+      "section": [
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/coder/claudecode.nvim",
+      "name": "coder/claudecode.nvim",
+      "url": "https://github.com/coder/claudecode.nvim",
+      "description": "Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.",
+      "section": [
+        "AI"
       ]
     },
     {
@@ -5998,6 +6016,24 @@
       ]
     },
     {
+      "key": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md",
+      "name": "nvim-mini/mini.nvim#mini.statuscolumn",
+      "url": "https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md",
+      "description": "Module of mini.nvim for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.",
+      "section": [
+        "Bars and Lines"
+      ]
+    },
+    {
+      "key": "https://github.com/olivgr/winbarbuf.nvim",
+      "name": "olivgr/winbarbuf.nvim",
+      "url": "https://github.com/olivgr/winbarbuf.nvim",
+      "description": "Clickable buffer list in the winbar.",
+      "section": [
+        "Bars and Lines"
+      ]
+    },
+    {
       "key": "https://github.com/NTBBloodbath/galaxyline.nvim",
       "name": "NTBBloodbath/galaxyline.nvim",
       "url": "https://github.com/NTBBloodbath/galaxyline.nvim",
@@ -8949,6 +8985,15 @@
       ]
     },
     {
+      "key": "https://github.com/mm4cN/nvim-conan",
+      "name": "mm4cN/nvim-conan",
+      "url": "https://github.com/mm4cN/nvim-conan",
+      "description": "Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.",
+      "section": [
+        "Dependency Management"
+      ]
+    },
+    {
       "key": "https://github.com/Darkskittlz/GitCompanion",
       "name": "Darkskittlz/GitCompanion",
       "url": "https://github.com/Darkskittlz/GitCompanion",
@@ -9340,6 +9385,15 @@
       "name": "harrisoncramer/GitLab.nvim",
       "url": "https://github.com/harrisoncramer/GitLab.nvim",
       "description": "Review pull requests and manage other GitLab resources.",
+      "section": [
+        "Git"
+      ]
+    },
+    {
+      "key": "https://github.com/mm4cN/nvim-gitlab",
+      "name": "mm4cN/nvim-gitlab",
+      "url": "https://github.com/mm4cN/nvim-gitlab",
+      "description": "GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.",
       "section": [
         "Git"
       ]
@@ -12361,6 +12415,15 @@
       ]
     },
     {
+      "key": "https://codeberg.org/caskstrength/nvim-dbeer",
+      "name": "caskstrength/nvim-dbeer",
+      "url": "https://codeberg.org/caskstrength/nvim-dbeer",
+      "description": "Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.",
+      "section": [
+        "Database"
+      ]
+    },
+    {
       "key": "https://github.com/tashikomaaa/neomongo.nvim",
       "name": "tashikomaaa/neomongo.nvim",
       "url": "https://github.com/tashikomaaa/neomongo.nvim",
@@ -12795,6 +12858,16 @@
       "name": "jkeresman01/spring-initializr.nvim",
       "url": "https://github.com/jkeresman01/spring-initializr.nvim",
       "description": "Scaffold Spring Boot projects with a Telescope-powered UI.",
+      "section": [
+        "External",
+        "Plugin Template"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/caskstrength/nvim-springtime",
+      "name": "caskstrength/nvim-springtime",
+      "url": "https://codeberg.org/caskstrength/nvim-springtime",
+      "description": "A scaffold builder based on Spring Initializr.",
       "section": [
         "External",
         "Plugin Template"

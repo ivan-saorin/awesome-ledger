@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8cfd4c7126be3829d14b7a758da644d80c3842559ee75ad8b667edfc67d215dc\"",
+  "etag": "W/\"708104f97431aaf4ad4ef21c5d1686fc20b6eb01eb8f44d43caaeab6a5eb2aa2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -296,6 +296,15 @@
       "name": "Smeldr",
       "url": "https://github.com/Smeldr/core",
       "description": "AI-native content backend with typed lifecycle management, native MCP tools for every content type, and zero runtime dependencies.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/edouard-claude/snip",
+      "name": "snip",
+      "url": "https://github.com/edouard-claude/snip",
+      "description": "CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -1487,6 +1496,16 @@
       "name": "lazyenv",
       "url": "https://github.com/lazynop/lazyenv",
       "description": "TUI for browsing, comparing, and editing .env files.",
+      "section": [
+        "Command Line",
+        "Advanced Console UIs"
+      ]
+    },
+    {
+      "key": "https://github.com/agmonetti/lazyteams",
+      "name": "lazyteams",
+      "url": "https://github.com/agmonetti/lazyteams",
+      "description": "Keyboard-driven terminal user interface for Microsoft Teams.",
       "section": [
         "Command Line",
         "Advanced Console UIs"
@@ -5634,6 +5653,16 @@
       ]
     },
     {
+      "key": "https://github.com/microsoft/go-mssqldb",
+      "name": "go-mssqldb",
+      "url": "https://github.com/microsoft/go-mssqldb",
+      "description": "Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.",
+      "section": [
+        "Database Drivers",
+        "Relational Database Drivers"
+      ]
+    },
+    {
       "key": "https://github.com/mattn/go-oci8",
       "name": "go-oci8",
       "url": "https://github.com/mattn/go-oci8",
@@ -8289,15 +8318,6 @@
       ]
     },
     {
-      "key": "https://github.com/cinar/checker",
-      "name": "checker",
-      "url": "https://github.com/cinar/checker",
-      "description": "Checker helps validating user input through rules defined in struct tags or directly through functions.",
-      "section": [
-        "Forms"
-      ]
-    },
-    {
       "key": "https://github.com/leebenson/conform",
       "name": "conform",
       "url": "https://github.com/leebenson/conform",
@@ -9328,6 +9348,15 @@
       "name": "gollback",
       "url": "https://github.com/vardius/gollback",
       "description": "asynchronous simple function utilities, for managing execution of closures and callbacks.",
+      "section": [
+        "Goroutines"
+      ]
+    },
+    {
+      "key": "https://github.com/ognick/goscade",
+      "name": "goscade",
+      "url": "https://github.com/ognick/goscade",
+      "description": "Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown.",
       "section": [
         "Goroutines"
       ]
@@ -15777,6 +15806,15 @@
       ]
     },
     {
+      "key": "https://github.com/RecoLabs/gnata",
+      "name": "gnata",
+      "url": "https://github.com/RecoLabs/gnata",
+      "description": "Pure-Go implementation of the JSONata 2.x query and transformation language.",
+      "section": [
+        "Query Language"
+      ]
+    },
+    {
       "key": "https://github.com/thedevsaddam/gojsonq",
       "name": "gojsonq",
       "url": "https://github.com/thedevsaddam/gojsonq",
@@ -16776,6 +16814,15 @@
       ]
     },
     {
+      "key": "https://github.com/iSerganov/mist",
+      "name": "mist",
+      "url": "https://github.com/iSerganov/mist",
+      "description": "Asymmetric-key audio steganography library that hides encrypted messages inside compressed audio using X25519 and ChaCha20-Poly1305.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/adrianosela/multikey",
       "name": "multikey",
       "url": "https://github.com/adrianosela/multikey",
@@ -16983,6 +17030,15 @@
       ]
     },
     {
+      "key": "https://github.com/kanywst/y509",
+      "name": "y509",
+      "url": "https://github.com/kanywst/y509",
+      "description": "TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/glycerine/bambam",
       "name": "bambam",
       "url": "https://github.com/glycerine/bambam",
@@ -17185,6 +17241,15 @@
       "name": "Caddy",
       "url": "https://github.com/caddyserver/caddy",
       "description": "Caddy is an alternative, HTTP/2 web server that's easy to configure and use.",
+      "section": [
+        "Server Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/casdoor/casdoor",
+      "name": "Casdoor",
+      "url": "https://github.com/casdoor/casdoor",
+      "description": "Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.",
       "section": [
         "Server Applications"
       ]
@@ -22417,6 +22482,15 @@
       ]
     },
     {
+      "key": "https://github.com/cinar/checker",
+      "name": "checker",
+      "url": "https://github.com/cinar/checker",
+      "description": "Zero-dependency input validation and in-place normalization with struct tags, 23 locales, and JSON Schema generation.",
+      "section": [
+        "Validation"
+      ]
+    },
+    {
       "key": "https://github.com/tiendc/go-validator",
       "name": "go-validator",
       "url": "https://github.com/tiendc/go-validator",
@@ -25006,6 +25080,16 @@
       ]
     },
     {
+      "key": "https://github.com/benzjeremy/docklite",
+      "name": "docklite",
+      "url": "https://github.com/benzjeremy/docklite",
+      "description": "Lightweight Portainer alternative for Docker container management with real-time SSE metrics.",
+      "section": [
+        "Software Packages",
+        "DevOps Tools"
+      ]
+    },
+    {
       "key": "https://github.com/liudng/dogo",
       "name": "dogo",
       "url": "https://github.com/liudng/dogo",
@@ -25540,6 +25624,16 @@
       "name": "Mora",
       "url": "https://github.com/emicklei/mora",
       "description": "REST server for accessing MongoDB documents and meta data.",
+      "section": [
+        "Software Packages",
+        "DevOps Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/amigoer/mq-studio",
+      "name": "mq-studio",
+      "url": "https://github.com/amigoer/mq-studio",
+      "description": "Cross-platform desktop client for managing and monitoring RocketMQ, RabbitMQ, Kafka, Pulsar, Redis Stream, MQTT, NATS, and ActiveMQ clusters.",
       "section": [
         "Software Packages",
         "DevOps Tools"
@@ -26466,6 +26560,16 @@
       ]
     },
     {
+      "key": "https://github.com/PlakarKorp/plakar",
+      "name": "Plakar",
+      "url": "https://github.com/PlakarKorp/plakar",
+      "description": "An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
       "key": "https://github.com/root-gg/plik",
       "name": "Plik",
       "url": "https://github.com/root-gg/plik",
@@ -26566,6 +26670,16 @@
       ]
     },
     {
+      "key": "https://github.com/benzjeremy/spotify-screensaver",
+      "name": "spotify-screensaver",
+      "url": "https://github.com/benzjeremy/spotify-screensaver",
+      "description": "Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
       "key": "https://github.com/pressly/sup",
       "name": "Stack Up",
       "url": "https://github.com/pressly/sup",
@@ -26660,6 +26774,16 @@
       "name": "vFlow",
       "url": "https://github.com/VerizonDigital/vflow",
       "description": "High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
+      "key": "https://github.com/benzjeremy/untis-go",
+      "name": "untis-go",
+      "url": "https://github.com/benzjeremy/untis-go",
+      "description": "Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.",
       "section": [
         "Software Packages",
         "Other Software"

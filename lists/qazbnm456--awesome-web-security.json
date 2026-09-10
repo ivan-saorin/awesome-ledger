@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"646b48c9f8c421079e870c3dd2cd2acf7854b0fb2c00f157699aa89a363fde14\"",
+  "etag": "W/\"47a560929dfc155bfb37f279803b21d448d5e660cf9a782851e81e26c0516c12\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -200,16 +200,6 @@
       ]
     },
     {
-      "key": "https://github.com/payloadbox/xss-payload-list",
-      "name": "payloadbox/xss-payload-list",
-      "url": "https://github.com/payloadbox/xss-payload-list",
-      "description": "Written by @payloadbox.",
-      "section": [
-        "Introduction",
-        "XSS - Cross-Site Scripting"
-      ]
-    },
-    {
       "key": "https://blog.shakiltech.com/laravel-content-security-policy-guide",
       "name": "Laravel Content Security Policy: Complete Implementation Guide",
       "url": "https://blog.shakiltech.com/laravel-content-security-policy-guide/",
@@ -224,26 +214,6 @@
       "name": "Prototype pollution attack in NodeJS application",
       "url": "https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf",
       "description": "Written by @HoLyVieR.",
-      "section": [
-        "Introduction",
-        "Prototype Pollution"
-      ]
-    },
-    {
-      "key": "https://blog.p6.is/Real-World-JS-1",
-      "name": "Real-world JS - 1",
-      "url": "https://blog.p6.is/Real-World-JS-1/",
-      "description": "Written by @po6ix.",
-      "section": [
-        "Introduction",
-        "Prototype Pollution"
-      ]
-    },
-    {
-      "key": "https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609",
-      "name": "Exploiting prototype pollution – RCE in Kibana (CVE-2019-7609)",
-      "url": "https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609/",
-      "description": "Written by @securitymb.",
       "section": [
         "Introduction",
         "Prototype Pollution"
@@ -320,16 +290,6 @@
       ]
     },
     {
-      "key": "https://github.com/payloadbox/sql-injection-payload-list",
-      "name": "payloadbox/sql-injection-payload-list",
-      "url": "https://github.com/payloadbox/sql-injection-payload-list",
-      "description": "Written by @payloadbox.",
-      "section": [
-        "Introduction",
-        "SQL Injection"
-      ]
-    },
-    {
       "key": "https://github.com/ruby/ruby/pull/1777",
       "name": "Potential command injection in resolv.rb",
       "url": "https://github.com/ruby/ruby/pull/1777",
@@ -344,16 +304,6 @@
       "name": "PayloadsAllTheThings - Command Injection",
       "url": "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection",
       "description": "Written by @swisskyrepo.",
-      "section": [
-        "Introduction",
-        "Command Injection"
-      ]
-    },
-    {
-      "key": "https://github.com/payloadbox/command-injection-payload-list",
-      "name": "payloadbox/command-injection-payload-list",
-      "url": "https://github.com/payloadbox/command-injection-payload-list",
-      "description": "Written by @payloadbox.",
       "section": [
         "Introduction",
         "Command Injection"
@@ -450,26 +400,6 @@
       ]
     },
     {
-      "key": "https://vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf",
-      "name": "XML Schema, DTD, and Entity Attacks",
-      "url": "https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf",
-      "description": "Written by Timothy D. Morgan and Omar Al Ibrahim.",
-      "section": [
-        "Introduction",
-        "XXE - XML eXternal Entity"
-      ]
-    },
-    {
-      "key": "https://github.com/payloadbox/xxe-injection-payload-list",
-      "name": "payloadbox/xxe-injection-payload-list",
-      "url": "https://github.com/payloadbox/xxe-injection-payload-list",
-      "description": "Written by @payloadbox.",
-      "section": [
-        "Introduction",
-        "XXE - XML eXternal Entity"
-      ]
-    },
-    {
       "key": "https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f",
       "name": "Wiping Out CSRF",
       "url": "https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f",
@@ -480,9 +410,9 @@
       ]
     },
     {
-      "key": "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection",
+      "key": "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Cross-Site%20Request%20Forgery",
       "name": "PayloadsAllTheThings - CSRF Injection",
-      "url": "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection",
+      "url": "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Cross-Site%20Request%20Forgery",
       "description": "Written by @swisskyrepo.",
       "section": [
         "Introduction",
@@ -590,16 +520,6 @@
       ]
     },
     {
-      "key": "https://github.com/payloadbox/open-redirect-payload-list",
-      "name": "payloadbox/open-redirect-payload-list",
-      "url": "https://github.com/payloadbox/open-redirect-payload-list",
-      "description": "Written by @payloadbox.",
-      "section": [
-        "Introduction",
-        "Open Redirect"
-      ]
-    },
-    {
       "key": "https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology",
       "name": "How to Hunt Bugs in SAML; a Methodology - Part I",
       "url": "https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/",
@@ -700,9 +620,9 @@
       ]
     },
     {
-      "key": "https://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html",
+      "key": "https://portswigger.net/research/dom-based-angularjs-sandbox-escapes",
       "name": "DOM based Angular sandbox escapes",
-      "url": "https://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html",
+      "url": "https://portswigger.net/research/dom-based-angularjs-sandbox-escapes",
       "description": "Written by @garethheyes.",
       "section": [
         "Introduction",
@@ -710,9 +630,9 @@
       ]
     },
     {
-      "key": "https://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html",
+      "key": "https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs",
       "name": "XSS without HTML: Client-Side Template Injection with AngularJS",
-      "url": "https://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html",
+      "url": "https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs",
       "description": "Written by Gareth Heyes.",
       "section": [
         "Introduction",
@@ -760,16 +680,6 @@
       ]
     },
     {
-      "key": "https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php",
-      "name": "Why mail() is dangerous in PHP",
-      "url": "https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/",
-      "description": "Written by Robin Peraglie.",
-      "section": [
-        "Introduction",
-        "Webmail"
-      ]
-    },
-    {
       "key": "https://pentestacademy.wordpress.com/2017/09/20/nfs?cn=ZmxleGlibGVfcmVjc18y&iid=b34422ce15164e99a193fea0ccc7a02f&nid=244 289476616&refsrc=email&t=1&uid=1959680352",
       "name": "NFS | PENETRATION TESTING ACADEMY",
       "url": "https://pentestacademy.wordpress.com/2017/09/20/nfs/?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=b34422ce15164e99a193fea0ccc7a02f&uid=1959680352&nid=244+289476616",
@@ -810,16 +720,6 @@
       ]
     },
     {
-      "key": "https://labs.f-secure.com/blog/misadventures-in-aws",
-      "name": "Misadventures in AWS",
-      "url": "https://labs.f-secure.com/blog/misadventures-in-aws",
-      "description": "Written by Christian Demko.",
-      "section": [
-        "Introduction",
-        "AWS"
-      ]
-    },
-    {
       "key": "https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability",
       "name": "Cloud Security Risks (Part 1): Azure CSV Injection Vulnerability",
       "url": "https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/",
@@ -840,26 +740,6 @@
       ]
     },
     {
-      "key": "https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6",
-      "name": "A penetration tester’s guide to sub-domain enumeration",
-      "url": "https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6",
-      "description": "Written by Bharath.",
-      "section": [
-        "Introduction",
-        "Sub Domain Enumeration"
-      ]
-    },
-    {
-      "key": "https://blog.sweepatic.com/art-of-subdomain-enumeration",
-      "name": "The Art of Subdomain Enumeration",
-      "url": "https://blog.sweepatic.com/art-of-subdomain-enumeration/",
-      "description": "Written by Patrik Hudak.",
-      "section": [
-        "Introduction",
-        "Sub Domain Enumeration"
-      ]
-    },
-    {
       "key": "https://bettercrypto.org",
       "name": "Applied Crypto Hardening",
       "url": "https://bettercrypto.org/",
@@ -870,9 +750,9 @@
       ]
     },
     {
-      "key": "https://csoonline.com/article/3388647/what-is-a-side-channel-attack-how-these-end-runs-around-encryption-put-everyone-at-risk.html",
+      "key": "https://csoonline.com/article/567149/what-is-a-side-channel-attack-how-these-end-runs-around-encryption-put-everyone-at-risk.html",
       "name": "What is a Side-Channel Attack ?",
-      "url": "https://www.csoonline.com/article/3388647/what-is-a-side-channel-attack-how-these-end-runs-around-encryption-put-everyone-at-risk.html",
+      "url": "https://www.csoonline.com/article/567149/what-is-a-side-channel-attack-how-these-end-runs-around-encryption-put-everyone-at-risk.html",
       "description": "Written by J.M Porup.",
       "section": [
         "Introduction",
@@ -1040,9 +920,9 @@
       ]
     },
     {
-      "key": "https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes",
+      "key": "https://semgrep.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes",
       "name": "Hardcoded secrets, unverified tokens, and other common JWT mistakes",
-      "url": "https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/",
+      "url": "https://semgrep.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/",
       "description": "Written by @ermil0v.",
       "section": [
         "Introduction",
@@ -1100,9 +980,9 @@
       ]
     },
     {
-      "key": "https://githubengineering.com/githubs-csp-journey",
+      "key": "https://github.blog/2016-04-12-githubs-csp-journey",
       "name": "GitHub's CSP journey",
-      "url": "https://githubengineering.com/githubs-csp-journey/",
+      "url": "https://github.blog/2016-04-12-githubs-csp-journey/",
       "description": "Written by @ptoomey3.",
       "section": [
         "Evasions",
@@ -1110,9 +990,9 @@
       ]
     },
     {
-      "key": "https://githubengineering.com/githubs-post-csp-journey",
+      "key": "https://github.blog/2017-01-19-githubs-post-csp-journey",
       "name": "GitHub's post-CSP journey",
-      "url": "https://githubengineering.com/githubs-post-csp-journey/",
+      "url": "https://github.blog/2017-01-19-githubs-post-csp-journey/",
       "description": "Written by @ptoomey3.",
       "section": [
         "Evasions",
@@ -1190,16 +1070,6 @@
       ]
     },
     {
-      "key": "https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b",
-      "name": "Exploiting CSRF on JSON endpoints with Flash and redirects",
-      "url": "https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b",
-      "description": "Written by @riyazwalikar.",
-      "section": [
-        "Tricks",
-        "CSRF"
-      ]
-    },
-    {
       "key": "https://zhuanlan.zhihu.com/p/32716181",
       "name": "Neat tricks to bypass CSRF-protection",
       "url": "https://zhuanlan.zhihu.com/p/32716181",
@@ -1214,16 +1084,6 @@
       "name": "Stealing CSRF tokens with CSS injection (without iFrames)",
       "url": "https://github.com/dxa4481/cssInjection",
       "description": "Written by @dxa4481.",
-      "section": [
-        "Tricks",
-        "CSRF"
-      ]
-    },
-    {
-      "key": "https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2",
-      "name": "Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters",
-      "url": "https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2",
-      "description": "Written by @rramgattie.",
       "section": [
         "Tricks",
         "CSRF"
@@ -1280,9 +1140,9 @@
       ]
     },
     {
-      "key": "https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html",
+      "key": "https://blog.orange.tw/posts/2017-07-how-i-chained-4-vulnerabilities-on",
       "name": "How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!",
-      "url": "https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html",
+      "url": "https://blog.orange.tw/posts/2017-07-how-i-chained-4-vulnerabilities-on/",
       "description": "Written by Orange.",
       "section": [
         "Tricks",
@@ -1324,16 +1184,6 @@
       "name": "Remote Code Execution on a Facebook server",
       "url": "https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/",
       "description": "Written by @blaklis_.",
-      "section": [
-        "Tricks",
-        "Remote Code Execution"
-      ]
-    },
-    {
-      "key": "https://blog.ripstech.com/2018/moodle-remote-code-execution",
-      "name": "Evil Teacher: Code Injection in Moodle",
-      "url": "https://blog.ripstech.com/2018/moodle-remote-code-execution/",
-      "description": "Written by RIPS Technologies.",
       "section": [
         "Tricks",
         "Remote Code Execution"
@@ -1420,16 +1270,6 @@
       ]
     },
     {
-      "key": "https://stamone-bug-bounty.blogspot.tw/2017/10/dom-xss-auth14.html",
-      "name": "DOM XSS – auth.uber.com",
-      "url": "http://stamone-bug-bounty.blogspot.tw/2017/10/dom-xss-auth14.html",
-      "description": "Written by StamOne_.",
-      "section": [
-        "Tricks",
-        "XSS"
-      ]
-    },
-    {
       "key": "https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html",
       "name": "Another XSS in Google Colaboratory",
       "url": "https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html",
@@ -1444,16 +1284,6 @@
       "name": "XSS in Google Colaboratory + CSP bypass",
       "url": "https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html",
       "description": "Written by Michał Bentkowski.",
-      "section": [
-        "Tricks",
-        "XSS"
-      ]
-    },
-    {
-      "key": "https://twitter.com/strukt93/status/931586377665331200",
-      "name": "is filtered ?",
-      "url": "https://twitter.com/strukt93/status/931586377665331200",
-      "description": "Written by @strukt93.",
       "section": [
         "Tricks",
         "XSS"
@@ -1480,50 +1310,10 @@
       ]
     },
     {
-      "key": "https://hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html",
-      "name": "Upgrade self XSS to Exploitable XSS an 3 Ways Technic",
-      "url": "https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html",
-      "description": "Written by HAHWUL.",
-      "section": [
-        "Tricks",
-        "XSS"
-      ]
-    },
-    {
-      "key": "https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html",
-      "name": "Exploiting XSS with 20 characters limitation",
-      "url": "https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html",
-      "description": "Written by Jorge Lajara.",
-      "section": [
-        "Tricks",
-        "XSS"
-      ]
-    },
-    {
-      "key": "https://vinothkumar.me/20000-facebook-dom-xss",
-      "name": "$20000 Facebook DOM XSS",
-      "url": "https://vinothkumar.me/20000-facebook-dom-xss/",
-      "description": "Written by @vinodsparrow.",
-      "section": [
-        "Tricks",
-        "XSS"
-      ]
-    },
-    {
-      "key": "https://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html",
+      "key": "https://blog.orange.tw/posts/2017-01-bug-bounty-github-enterprise-sql-injection",
       "name": "GitHub Enterprise SQL Injection",
-      "url": "https://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html",
+      "url": "https://blog.orange.tw/posts/2017-01-bug-bounty-github-enterprise-sql-injection/",
       "description": "Written by Orange.",
-      "section": [
-        "Tricks",
-        "SQL Injection"
-      ]
-    },
-    {
-      "key": "https://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html",
-      "name": "SQL injection in an UPDATE query - a bug bounty story!",
-      "url": "http://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html",
-      "description": "Written by Zombiehelp54.",
       "section": [
         "Tricks",
         "SQL Injection"
@@ -1590,16 +1380,6 @@
       ]
     },
     {
-      "key": "https://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html",
-      "name": "XXE OOB exploitation at Java 1.7+",
-      "url": "http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html",
-      "description": "Written by Ivan Novikov.",
-      "section": [
-        "Tricks",
-        "FTP Injection"
-      ]
-    },
-    {
       "key": "https://mohemiv.com/all/evil-xml",
       "name": "Evil XML with two encodings",
       "url": "https://mohemiv.com/all/evil-xml/",
@@ -1610,9 +1390,9 @@
       ]
     },
     {
-      "key": "https://gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation",
+      "key": "https://gosecure.ai/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation",
       "name": "Automating local DTD discovery for XXE exploitation",
-      "url": "https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation",
+      "url": "https://gosecure.ai/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation",
       "description": "Written by Philippe Arteau.",
       "section": [
         "Tricks",
@@ -1644,16 +1424,6 @@
       "name": "Pre-authentication XXE vulnerability in the Services Drupal module",
       "url": "https://www.synacktiv.com/ressources/synacktiv_drupal_xxe_services.pdf",
       "description": "Written by Renaud Dubourguais.",
-      "section": [
-        "Tricks",
-        "XXE"
-      ]
-    },
-    {
-      "key": "https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf",
-      "name": "What You Didn't Know About XML External Entities Attacks",
-      "url": "https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf",
-      "description": "Written by Timothy D. Morgan.",
       "section": [
         "Tricks",
         "XXE"
@@ -1694,16 +1464,6 @@
       "name": "SSRF in https://imgur.com/vidgif/url",
       "url": "https://hackerone.com/reports/115748",
       "description": "Written by aesteral.",
-      "section": [
-        "Tricks",
-        "SSRF"
-      ]
-    },
-    {
-      "key": "https://blog.safebuff.com/2016/07/03/SSRF-Tips",
-      "name": "SSRF Tips",
-      "url": "http://blog.safebuff.com/2016/07/03/SSRF-Tips/",
-      "description": "Written by xl7dev.",
       "section": [
         "Tricks",
         "SSRF"
@@ -1830,26 +1590,6 @@
       ]
     },
     {
-      "key": "https://nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues",
-      "name": "ASP.NET resource files (.RESX) and deserialisation issues",
-      "url": "https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/",
-      "description": "Written by @irsdl.",
-      "section": [
-        "Tricks",
-        "Deserialization"
-      ]
-    },
-    {
-      "key": "https://amolbaikar.com/facebook-oauth-framework-vulnerability",
-      "name": "Facebook OAuth Framework Vulnerability",
-      "url": "https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/",
-      "description": "Written by @AmolBaikar.",
-      "section": [
-        "Tricks",
-        "OAuth"
-      ]
-    },
-    {
       "key": "https://github.com/epidemics-scepticism/writing/blob/master/onion-dns-leaks.md",
       "name": "Inducing DNS Leaks in Onion Web Services",
       "url": "https://github.com/epidemics-scepticism/writing/blob/master/onion-dns-leaks.md",
@@ -1900,20 +1640,10 @@
       ]
     },
     {
-      "key": "https://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html",
+      "key": "https://portswigger.net/research/json-hijacking-for-the-modern-web",
       "name": "JSON hijacking for the modern web",
-      "url": "https://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html",
+      "url": "https://portswigger.net/research/json-hijacking-for-the-modern-web",
       "description": "Written by portswigger.",
-      "section": [
-        "Browser Exploitation",
-        "Frontend (like SOP bypass, URL spoofing, and something like that)"
-      ]
-    },
-    {
-      "key": "https://brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast",
-      "name": "SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)",
-      "url": "https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/",
-      "description": "Written by Manuel.",
       "section": [
         "Browser Exploitation",
         "Frontend (like SOP bypass, URL spoofing, and something like that)"
@@ -1944,16 +1674,6 @@
       "name": "Setting arbitrary request headers in Chromium via CRLF injection",
       "url": "https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html",
       "description": "Written by Michał Bentkowski.",
-      "section": [
-        "Browser Exploitation",
-        "Frontend (like SOP bypass, URL spoofing, and something like that)"
-      ]
-    },
-    {
-      "key": "https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5",
-      "name": "I’m harvesting credit card numbers and passwords from your site. Here’s how.",
-      "url": "https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5",
-      "description": "Written by David Gilbertson.",
       "section": [
         "Browser Exploitation",
         "Frontend (like SOP bypass, URL spoofing, and something like that)"
@@ -2010,50 +1730,10 @@
       ]
     },
     {
-      "key": "https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty",
-      "name": "Take Advantage of Out-of-Scope Domains in Bug Bounty Programs",
-      "url": "https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/",
-      "description": "Written by @Abdulahhusam.",
-      "section": [
-        "Browser Exploitation",
-        "Frontend (like SOP bypass, URL spoofing, and something like that)"
-      ]
-    },
-    {
-      "key": "https://phrack.org/papers/attacking_javascript_engines.html",
-      "name": "Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622",
-      "url": "https://www.phrack.org/papers/attacking_javascript_engines.html",
-      "description": "Written by phrack@saelo.net.",
-      "section": [
-        "Browser Exploitation",
-        "Backend (core of Browser implementation, and often refers to C or C++ part)"
-      ]
-    },
-    {
-      "key": "https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write",
-      "name": "Exploiting a V8 OOB write.",
-      "url": "https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/",
-      "description": "Written by @halbecaf.",
-      "section": [
-        "Browser Exploitation",
-        "Backend (core of Browser implementation, and often refers to C or C++ part)"
-      ]
-    },
-    {
       "key": "https://blogs.securiteam.com/index.php/archives/3379",
       "name": "SSD Advisory – Chrome Turbofan Remote Code Execution",
       "url": "https://blogs.securiteam.com/index.php/archives/3379",
       "description": "Written by SecuriTeam Secure Disclosure (SSD).",
-      "section": [
-        "Browser Exploitation",
-        "Backend (core of Browser implementation, and often refers to C or C++ part)"
-      ]
-    },
-    {
-      "key": "https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf",
-      "name": "Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11",
-      "url": "https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf",
-      "description": "Written by @moritzj.",
       "section": [
         "Browser Exploitation",
         "Backend (core of Browser implementation, and often refers to C or C++ part)"
@@ -2094,26 +1774,6 @@
       "name": "Breaking UC Browser",
       "url": "https://habr.com/en/company/drweb/blog/452076/",
       "description": "Written by Доктор Веб.",
-      "section": [
-        "Browser Exploitation",
-        "Backend (core of Browser implementation, and often refers to C or C++ part)"
-      ]
-    },
-    {
-      "key": "https://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2",
-      "name": "Three roads lead to Rome",
-      "url": "http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/",
-      "description": "Written by @holynop.",
-      "section": [
-        "Browser Exploitation",
-        "Backend (core of Browser implementation, and often refers to C or C++ part)"
-      ]
-    },
-    {
-      "key": "https://theori.io/research/escaping-chrome-sandbox",
-      "name": "CLEANLY ESCAPING THE CHROME SANDBOX",
-      "url": "https://theori.io/research/escaping-chrome-sandbox",
-      "description": "Written by @tjbecker_.",
       "section": [
         "Browser Exploitation",
         "Backend (core of Browser implementation, and often refers to C or C++ part)"
@@ -2326,9 +1986,9 @@
       ]
     },
     {
-      "key": "https://spiderfoot.net",
+      "key": "https://github.com/smicallef/spiderfoot",
       "name": "SpiderFoot",
-      "url": "https://www.spiderfoot.net/",
+      "url": "https://github.com/smicallef/spiderfoot",
       "description": "Open source footprinting and intelligence-gathering tool by @binarypool.",
       "section": [
         "Tools",
@@ -2473,17 +2133,6 @@
       "name": "OpenBuckets",
       "url": "https://openbuckets.io/",
       "description": "Search engine for misconfigured public cloud storage buckets across any provider.",
-      "section": [
-        "Tools",
-        "Reconnaissance",
-        "OSINT - Open-Source Intelligence"
-      ]
-    },
-    {
-      "key": "https://osintprojects.com",
-      "name": "OSINT Projects",
-      "url": "https://osintprojects.com",
-      "description": "Free web toolkit for WHOIS/RDAP, DNS, IP geolocation, SSL certificate inspection and Certificate Transparency subdomain discovery.",
       "section": [
         "Tools",
         "Reconnaissance",
@@ -2720,16 +2369,6 @@
       ]
     },
     {
-      "key": "https://github.com/m4ll0k/WAScan",
-      "name": "WAScan",
-      "url": "https://github.com/m4ll0k/WAScan",
-      "description": "Is an open source web application security scanner that uses \"black-box\" method, created by @m4ll0k.",
-      "section": [
-        "Tools",
-        "Scanning"
-      ]
-    },
-    {
       "key": "https://github.com/projectdiscovery/nuclei",
       "name": "Nuclei",
       "url": "https://github.com/projectdiscovery/nuclei",
@@ -2754,16 +2393,6 @@
       "name": "ZAP by Checkmarx",
       "url": "https://zaproxy.org",
       "description": "Open-source web application security scanner maintained by the ZAP Core Team.",
-      "section": [
-        "Tools",
-        "Scanning"
-      ]
-    },
-    {
-      "key": "https://github.com/dalisecurity/fray",
-      "name": "Fray",
-      "url": "https://github.com/dalisecurity/fray",
-      "description": "Open-source WAF bypass and security-testing toolkit with 6,300+ payloads across OWASP categories, AI-assisted evasion engine, 27-check reconnaissance pipeline, and OWASP hardening audit, by @dalisecurity.",
       "section": [
         "Tools",
         "Scanning"
@@ -2976,17 +2605,6 @@
         "Tools",
         "Offensive",
         "Cross Site Request Forgery"
-      ]
-    },
-    {
-      "key": "https://tools.intigriti.io/redirector",
-      "name": "Open redirect/SSRF payload generator",
-      "url": "https://tools.intigriti.io/redirector/",
-      "description": "Open redirect/SSRF payload generator by intigriti.",
-      "section": [
-        "Tools",
-        "Offensive",
-        "Server-Side Request Forgery"
       ]
     },
     {
@@ -3480,16 +3098,6 @@
       ]
     },
     {
-      "key": "https://wiki.skullsecurity.org/index.php?title=Dnslogger",
-      "name": "Dnslogger",
-      "url": "https://wiki.skullsecurity.org/index.php?title=Dnslogger",
-      "description": "DNS Logger by @iagox86.",
-      "section": [
-        "Tools",
-        "Others"
-      ]
-    },
-    {
       "key": "https://github.com/taviso/cefdebug",
       "name": "cefdebug",
       "url": "https://github.com/taviso/cefdebug",
@@ -3605,15 +3213,6 @@
       "name": "Scrutiny",
       "url": "https://datarift.blogspot.tw/",
       "description": "Internet Security through Web Browsers by Dhiraj Mishra.",
-      "section": [
-        "Blogs"
-      ]
-    },
-    {
-      "key": "https://blog.ripstech.com/tags/security",
-      "name": "RIPS Technologies",
-      "url": "https://blog.ripstech.com/tags/security/",
-      "description": "Write-ups for PHP vulnerabilities.",
       "section": [
         "Blogs"
       ]
@@ -3788,6 +3387,26 @@
       ]
     },
     {
+      "key": "https://aayushyadav.hashnode.dev/where-the-llm-stops-deterministic-scoring-in-an-ai-assisted-vapt-pipeline",
+      "name": "Where the LLM Stops: Deterministic Scoring in an AI-Assisted VAPT Pipeline",
+      "url": "https://aayushyadav.hashnode.dev/where-the-llm-stops-deterministic-scoring-in-an-ai-assisted-vapt-pipeline",
+      "description": "Technical write-up on designing an AI-assisted VAPT pipeline with deterministic CVSS scoring, passive confidence verification, and LLM-generated vulnerability explanations and remediation.",
+      "section": [
+        "Practices",
+        "Application"
+      ]
+    },
+    {
+      "key": "https://aivist.dev/the-200-that-proved-nothing",
+      "name": "The 200 That Proved Nothing",
+      "url": "https://aivist.dev/the-200-that-proved-nothing",
+      "description": "Why a 200 OK is not proof of an access-control bug: a seeded BOLA benchmark where a model asked to confirm a secure endpoint 79 times and a downgrade-only code gate refused every one, plus the similarity thresholds, a deterministic check that failed the same way, and a plausible fix measured and rejected for making results worse.",
+      "section": [
+        "Practices",
+        "Application"
+      ]
+    },
+    {
       "key": "https://flaws.cloud",
       "name": "FLAWS",
       "url": "http://flaws.cloud/",
@@ -3812,16 +3431,6 @@
       "name": "alert(1) to win",
       "url": "https://alf.nu/alert1",
       "description": "Series of XSS challenges - Written by @steike.",
-      "section": [
-        "Practices",
-        "XSS"
-      ]
-    },
-    {
-      "key": "https://prompt.ml",
-      "name": "prompt(1) to win",
-      "url": "http://prompt.ml/",
-      "description": "Complex 16-Level XSS Challenge held in summer 2014 (+4 Hidden Levels) - Written by @cure53.",
       "section": [
         "Practices",
         "XSS"
@@ -3876,9 +3485,9 @@
       ]
     },
     {
-      "key": "https://githubengineering.com/githubs-bug-bounty-workflow",
+      "key": "https://github.blog/2017-02-22-githubs-bug-bounty-workflow",
       "name": "A glimpse into GitHub's Bug Bounty workflow",
-      "url": "https://githubengineering.com/githubs-bug-bounty-workflow/",
+      "url": "https://github.blog/2017-02-22-githubs-bug-bounty-workflow/",
       "description": "Written by @gregose.",
       "section": [
         "Miscellaneous"
@@ -3943,15 +3552,6 @@
       "name": "Infosec_Reference",
       "url": "https://github.com/rmusser01/Infosec_Reference",
       "description": "Information Security Reference That Doesn't Suck by @rmusser01.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
-      "key": "https://iotscanner.bullguard.com",
-      "name": "Internet of Things Scanner",
-      "url": "http://iotscanner.bullguard.com/",
-      "description": "Check if your internet-connected devices at home are public on Shodan by BullGuard.",
       "section": [
         "Miscellaneous"
       ]
@@ -4038,24 +3638,6 @@
       ]
     },
     {
-      "key": "https://sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals",
-      "name": "Domato Fuzzer's Generation Engine Internals",
-      "url": "https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals",
-      "description": "Written by sigpwn.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
-      "key": "https://evonide.com/side-channel-attacking-browsers-through-css3-features",
-      "name": "CSS Is So Overpowered It Can Deanonymize Facebook Users",
-      "url": "https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/",
-      "description": "Written by Ruslan Habalov.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
       "key": "https://slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018",
       "name": "Introduction to Web Application Security",
       "url": "https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018",
@@ -4074,37 +3656,10 @@
       ]
     },
     {
-      "key": "https://blog.avatao.com/How-I-could-steal-your-photos-from-Google",
-      "name": "How I could have stolen your photos from Google - my first 3 bug bounty writeups",
-      "url": "https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/",
-      "description": "Written by @gergoturcsanyi.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
       "key": "https://0day.work/an-example-why-nat-is-not-security",
       "name": "An example why NAT is NOT security",
       "url": "https://0day.work/an-example-why-nat-is-not-security/",
       "description": "Written by @0daywork.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
-      "key": "https://slashcrypto.org/data/itsecx2018.pdf",
-      "name": "Alexa Top 1 Million Security - Hacking the Big Ones",
-      "url": "https://slashcrypto.org/data/itsecx2018.pdf",
-      "description": "Written by @slashcrypto.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
-      "key": "https://segment.com/blog/hacking-with-a-heads-up-display",
-      "name": "Hacking with a Heads Up Display",
-      "url": "https://segment.com/blog/hacking-with-a-heads-up-display/",
-      "description": "Written by David Scrobonia.",
       "section": [
         "Miscellaneous"
       ]
@@ -4146,15 +3701,6 @@
       ]
     },
     {
-      "key": "https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html",
-      "name": "Implications of Loading .NET Assemblies",
-      "url": "https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html",
-      "description": "Written by Brian Wallace.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
       "key": "https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf",
       "name": "WCTF2019: Gyotaku The Flag",
       "url": "https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf",
@@ -4164,18 +3710,18 @@
       ]
     },
     {
-      "key": "https://rtcsec.com/2020/04/01-slack-webrtc-turn-compromise",
+      "key": "https://enablesecurity.com/blog/slack-webrtc-turn-compromise-and-bug-bounty",
       "name": "How we abused Slack's TURN servers to gain access to internal services",
-      "url": "https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/",
+      "url": "https://www.enablesecurity.com/blog/slack-webrtc-turn-compromise-and-bug-bounty/",
       "description": "Written by @sandrogauci.",
       "section": [
         "Miscellaneous"
       ]
     },
     {
-      "key": "https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa",
+      "key": "https://medium.com/walmartglobaltech/dos-file-path-magic-tricks-5eda7a7a85fa",
       "name": "DOS File Path Magic Tricks",
-      "url": "https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa",
+      "url": "https://medium.com/walmartglobaltech/dos-file-path-magic-tricks-5eda7a7a85fa",
       "description": "Written by @clr2of8.",
       "section": [
         "Miscellaneous"

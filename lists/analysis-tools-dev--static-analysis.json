@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5374a1cd2209e910609274a3ac42af9a959b732d464dde3b732cb220f18ad47f\"",
+  "etag": "W/\"44b8394698c0a81eae156967c99ddcd84394a99383ab1b4d75894fbf48ee7166\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -386,6 +386,15 @@
       "name": "crystal",
       "url": "https://crystal-lang.org",
       "description": "The Crystal compiler has built-in linting functionality.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/passsy/dart-lint",
+      "name": "lint",
+      "url": "https://github.com/passsy/dart-lint",
+      "description": "An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter",
       "section": [
         "Programming Languages"
       ]
@@ -1664,6 +1673,15 @@
       "name": "pycodestyle",
       "url": "https://pycodestyle.pycqa.org/en/latest",
       "description": "(Formerly pep8) Check Python code against some of the style conventions in PEP 8.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://pypi.org/project/pyflakes",
+      "name": "pyflakes",
+      "url": "https://pypi.org/project/pyflakes",
+      "description": "Check Python source files for errors.",
       "section": [
         "Programming Languages"
       ]
@@ -3310,7 +3328,7 @@
       "key": "https://pvs-studio.com",
       "name": "PVS-Studio",
       "url": "https://pvs-studio.com",
-      "description": "copyright: — A (conditionally free for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes you can propose a large FOSS project for analysis by PVS employees. Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.",
+      "description": "copyright: — PVS-Studio is a SAST tool that enhances code quality, security, and safety. Supported languages: C, C++, C#, Java, Go, JavaScript and TypeScript. Works on Windows, macOS, Linux. Supports intermodular, incremental, data flow analysis, taint analysis. Provides compliance with OWASP TOP 10, MISRA C/C++, CWE, and SEI CERT. Conditionally free for FOSS and has trial version.",
       "section": [
         "Multiple languages"
       ]

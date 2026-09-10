@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2ddaa299df06059a2f97948fed12902cc233167eb149040892e71d3eba1fc88f\"",
+  "etag": "W/\"228926c7119250b83a96c7192cccb48e8934b04dc7ff252400fd2d10d25a9712\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -589,6 +589,24 @@
       ]
     },
     {
+      "key": "https://github.com/reductstore/reductstore",
+      "name": "ReductStore",
+      "url": "https://github.com/reductstore/reductstore",
+      "description": "High-performance blob and time-series storage, with edge deployment, selective replication, and efficient querying of multimodal data.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/manticoresoftware/manticoresearch",
+      "name": "Manticore Search",
+      "url": "https://github.com/manticoresoftware/manticoresearch",
+      "description": "An open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
       "key": "https://github.com/capitalone/datacompy",
       "name": "datacompy",
       "url": "https://github.com/capitalone/datacompy",
@@ -898,7 +916,7 @@
       "key": "https://streams.dbconvert.com",
       "name": "DBConvert Streams",
       "url": "https://streams.dbconvert.com",
-      "description": "self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.",
+      "description": "Self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.",
       "section": [
         "Data Ingestion"
       ]
@@ -1078,7 +1096,7 @@
       "key": "https://github.com/mirlan-irokez/rawbbit",
       "name": "Rawbbit",
       "url": "https://github.com/mirlan-irokez/rawbbit",
-      "description": "Open-source self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Uses NATS JetStream for durable buffering and BigQuery external tables for querying. Designed for teams that want to own their raw event data.",
+      "description": "Open-source self-hosted game analytics pipeline. HTTP event collector with NATS JetStream buffering, raw Parquet in object storage you own, and ClickHouse for queries via Metabase, SQL, or a read-only MCP server for AI agents. Designed for teams that want to own their raw game data.",
       "section": [
         "Data Ingestion"
       ]
@@ -1088,6 +1106,24 @@
       "name": "faucet-stream",
       "url": "https://github.com/PawanSikawat/faucet-stream",
       "description": "Config-driven data-movement platform for Rust with pluggable source and sink connectors, running ETL, CDC, and streaming pipelines declaratively from YAML or embedded as a library.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/jitsucom/jitsu",
+      "name": "Jitsu",
+      "url": "https://github.com/jitsucom/jitsu",
+      "description": "An open-source Customer Data Platform. Captures event data from websites, apps, and servers and streams it into ClickHouse, Snowflake, BigQuery, Redshift, Postgres, and MySQL in real time.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/scriptella/scriptella-etl",
+      "name": "Scriptella ETL",
+      "url": "https://github.com/scriptella/scriptella-etl",
+      "description": "Open-source, Java-based ETL and script execution tool for transferring and transforming data between databases, files, and other sources.",
       "section": [
         "Data Ingestion"
       ]
@@ -1885,6 +1921,15 @@
       ]
     },
     {
+      "key": "https://github.com/flex-analytics/flexviz",
+      "name": "FlexViz",
+      "url": "https://github.com/flex-analytics/flexviz",
+      "description": "Open-source Python library for interactive cross-filter dashboards on large datasets. Zoom, pan, and selection are answered by lazy Polars aggregations on a stateless server instead of sending rows to the browser.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
       "key": "https://bonnard.dev",
       "name": "Bonnard",
       "url": "https://bonnard.dev/",
@@ -2320,7 +2365,7 @@
       "key": "https://api.dexpaprika.com",
       "name": "DexPaprika",
       "url": "https://api.dexpaprika.com",
-      "description": "Free real-time DEX data via SSE streaming across 34 blockchains. 30M+ pools, 27M+ tokens, ~1 second price updates. No API key, no rate limits. Docs",
+      "description": "DEX data via SSE streaming across 36 blockchains. 36M+ pools, 33M+ tokens. Metered free tier, no API key required, data delayed up to 15s; real-time on the paid tier. Docs",
       "section": [
         "Datasets",
         "Realtime"
@@ -2647,6 +2692,15 @@
       "name": "Fixzi",
       "url": "https://fixzi.ai",
       "description": "JSON/XML validation and API contract monitoring tool for debugging and testing structured data.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/sealandseacat/dbmask",
+      "name": "dbmask",
+      "url": "https://github.com/sealandseacat/dbmask",
+      "description": "Open-source tool that scans SQL databases for sensitive columns, masks them with deterministic fakes, and validates the masked copy row by row against the original.",
       "section": [
         "Testing"
       ]

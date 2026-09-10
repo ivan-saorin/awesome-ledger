@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3c4f545aaa233e520566ec637e77aec64583b2c0600954e3166e4cc181144a0b\"",
+  "etag": "W/\"8c395b533d630b59e9b2d3a5896143868ec47a773d3c917d25c030339a1f3653\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -78,6 +78,16 @@
       "name": "ai-evaluation",
       "url": "https://github.com/future-agi/ai-evaluation",
       "description": "Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.",
+      "section": [
+        "Agents",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/zenml-io/kitaru",
+      "name": "Kitaru",
+      "url": "https://github.com/zenml-io/kitaru",
+      "description": "Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.",
       "section": [
         "Agents",
         "Tools"
@@ -981,6 +991,16 @@
       "section": [
         "Training Resources",
         "MOOC's"
+      ]
+    },
+    {
+      "key": "https://mygreatlearning.com/data-science/courses",
+      "name": "Great Learning Data Science Programs",
+      "url": "https://www.mygreatlearning.com/data-science/courses",
+      "description": "A collection of online data science and analytics certificate, postgraduate, and degree programs.",
+      "section": [
+        "Training Resources",
+        "Intensive Programs"
       ]
     },
     {
@@ -2191,10 +2211,31 @@
       ]
     },
     {
+      "key": "https://github.com/PhilanthroPy-Project/PhilanthroPy",
+      "name": "PhilanthroPy",
+      "url": "https://github.com/PhilanthroPy-Project/PhilanthroPy",
+      "description": "Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.",
+      "section": [
+        "The Data Science Toolbox",
+        "General Machine Learning Packages"
+      ]
+    },
+    {
       "key": "https://github.com/pytorch/pytorch",
       "name": "PyTorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "",
+      "section": [
+        "The Data Science Toolbox",
+        "Deep Learning Packages",
+        "PyTorch Ecosystem"
+      ]
+    },
+    {
+      "key": "https://github.com/TorchDR/TorchDR",
+      "name": "TorchDR",
+      "url": "https://github.com/TorchDR/TorchDR",
+      "description": "GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API.",
       "section": [
         "The Data Science Toolbox",
         "Deep Learning Packages",
@@ -5595,6 +5636,16 @@
       "name": "Introduction to Data Science - Linkedin",
       "url": "https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916",
       "description": "",
+      "section": [
+        "Literature and Media",
+        "YouTube Videos & Channels"
+      ]
+    },
+    {
+      "key": "https://aietalks.com",
+      "name": "AI Talks",
+      "url": "https://aietalks.com/",
+      "description": "Searchable summaries and topic index for practical AI engineering talks and conference videos.",
       "section": [
         "Literature and Media",
         "YouTube Videos & Channels"

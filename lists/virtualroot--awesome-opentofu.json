@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7b81b6a80a0f8658621740888a958153bbb38121e84aa688810c5181ba4e2470\"",
+  "etag": "W/\"f4bd4d37acd259ca26f9451b1dc87bb09aacd6b94e66403fad73ad79a2c8a1e5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -321,6 +321,16 @@
       "name": "drifthound",
       "url": "https://github.com/treezio/drifthound",
       "description": "Continuous infrastructure drift detection with historical tracking and notifications.",
+      "section": [
+        "Tools",
+        "CI"
+      ]
+    },
+    {
+      "key": "https://github.com/drumandbytes/opentofu-updater-action",
+      "name": "opentofu-updater-action",
+      "url": "https://github.com/drumandbytes/opentofu-updater-action",
+      "description": "Keeps OpenTofu and Terraform providers, modules, Helm charts and container images up to date by opening pull requests.",
       "section": [
         "Tools",
         "CI"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"47cb3ac528125d2b3432de722bf473b4fd9cef61b6b67f327cb8b87c88167a1f\"",
+  "etag": "W/\"f6c69424a46fbb3e1a03670c7afba0d5b940bccdfe0be3baf4286bdc231cda19\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -377,6 +377,24 @@
       ]
     },
     {
+      "key": "https://github.com/netresearch/claude-code-marketplace",
+      "name": "Netresearch Agentic Skills",
+      "url": "https://github.com/netresearch/claude-code-marketplace",
+      "description": "by Netresearch - Skills for assessing and enhancing software projects to meet enterprise-grade standards for security, quality, and automation. Strong collection covering a range of development frameworks, enterprise-readiness, security, GitHub release management, branding, code review - really useful and well curated.",
+      "section": [
+        "Open Source Software"
+      ]
+    },
+    {
+      "key": "https://github.com/costajohnt/oss-autopilot",
+      "name": "OSS Autopilot",
+      "url": "https://github.com/costajohnt/oss-autopilot",
+      "description": "by John Costa - End-to-end open source contribution manager. Discovers contributable issues across GitHub, tracks PRs across multiple repos, diagnoses CI failures, and drafts maintainer responses. Great collection of skills and agents for GitHub contributors, plus a sleek dashboard, standalone CLI and MCP server.",
+      "section": [
+        "Open Source Software"
+      ]
+    },
+    {
       "key": "https://github.com/WenyuChiou/ai-research-skills",
       "name": "AI Research Skills",
       "url": "https://github.com/WenyuChiou/ai-research-skills",
@@ -534,6 +552,15 @@
       "name": "FlyCrys",
       "url": "https://github.com/SergKam/FlyCrys",
       "description": "by Sergii Kamenskyi - A native Linux GUI for Claude Code agents built in Rust + GTK4 — single binary, no Electron, starts in under a second — with a file tree, syntax-highlighted viewer, markdown preview, embedded VTE4 terminal, streaming agent chat, workspace tabs, and tool-restricted agent profiles. Fills a real gap as essentially the only native (non-webview) Linux desktop client, using your own Claude Code CLI with no proxy.",
+      "section": [
+        "Alternative Clients"
+      ]
+    },
+    {
+      "key": "https://github.com/slopus/happy",
+      "name": "Happy Coder",
+      "url": "https://github.com/slopus/happy",
+      "description": "by GrocerPublishAgent - Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing. End-to-end encrypted, with realtime voice.",
       "section": [
         "Alternative Clients"
       ]
@@ -827,6 +854,15 @@
       ]
     },
     {
+      "key": "https://github.com/dagger/container-use",
+      "name": "Container Use",
+      "url": "https://github.com/dagger/container-use",
+      "description": "by dagger - Containerized development environments for coding agents, from the Dagger team. Gives each agent its own isolated stack so several can work in parallel without reaching into your host or each other's workspaces.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/Myr-Aya/GouvernAI-claude-code-plugin",
       "name": "GouvernAI",
       "url": "https://github.com/Myr-Aya/GouvernAI-claude-code-plugin",
@@ -899,6 +935,24 @@
       ]
     },
     {
+      "key": "https://github.com/smtg-ai/claude-squad",
+      "name": "Claude Squad",
+      "url": "https://github.com/smtg-ai/claude-squad",
+      "description": "by smtg-ai - A terminal app that manages multiple Claude Code, Codex, and other local agents (including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.",
+      "section": [
+        "Agent Orchestration"
+      ]
+    },
+    {
+      "key": "https://github.com/MuhammadTalhaMT/claude-intercom",
+      "name": "claude-intercom",
+      "url": "https://github.com/MuhammadTalhaMT/claude-intercom",
+      "description": "by MuhammadTalhaMT - Relays messages between two Claude Code sessions on separate machines using the Channels API, with delivery tracking and per-message reply budget. Pairs sessions belonging to different accounts, which native cross-session messaging does not. Although this sort of functionality is now a platform feature, it's always cool to see people who have built their own solutions.",
+      "section": [
+        "Agent Orchestration"
+      ]
+    },
+    {
       "key": "https://github.com/garrytan/gstack",
       "name": "gstack",
       "url": "https://github.com/garrytan/gstack",
@@ -930,6 +984,15 @@
       "name": "RIPER Workflow",
       "url": "https://github.com/tony/claude-code-riper-5",
       "description": "by Tony Narlock - Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.",
+      "section": [
+        "Agent Orchestration"
+      ]
+    },
+    {
+      "key": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+      "name": "SuperClaude",
+      "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+      "description": "by SuperClaude-Org - A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as \"Introspection\" and \"Orchestration\".",
       "section": [
         "Agent Orchestration"
       ]
@@ -1197,6 +1260,16 @@
       ]
     },
     {
+      "key": "https://github.com/rullerzhou-afk/clawd-on-desk",
+      "name": "Clawd on Desk",
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+      "description": "by Ruller_Lulu - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?",
+      "section": [
+        "Observability & Monitoring",
+        "Session Monitors"
+      ]
+    },
+    {
       "key": "https://github.com/sotthang/so-agentbar",
       "name": "so-agentbar",
       "url": "https://github.com/sotthang/so-agentbar",
@@ -1211,6 +1284,16 @@
       "name": "AgentWatch",
       "url": "https://github.com/mishanefedov/agentwatch",
       "description": "by mishanefedov - Local-only observability for AI agents on your machine. One timeline across coding and non-coding agents.",
+      "section": [
+        "Observability & Monitoring",
+        "Usage & Cost"
+      ]
+    },
+    {
+      "key": "https://github.com/tombii/better-ccflare",
+      "name": "better-ccflare",
+      "url": "https://github.com/tombii/better-ccflare",
+      "description": "by tombii - A well-maintained and feature-enhanced fork of the glorious ccflare usage dashboard by @snipeship. better-ccflare builds on that foundation with performance enhancements, extended provider support, bug fixes, Docker deployment, and more.",
       "section": [
         "Observability & Monitoring",
         "Usage & Cost"
@@ -1261,6 +1344,16 @@
       "name": "ccvitals",
       "url": "https://github.com/educlopez/ccvitals",
       "description": "by educlopez - The prettiest statusline for Claude Code — pure bash, never blocks your prompt. Usage quota, context window, git status & more.",
+      "section": [
+        "Observability & Monitoring",
+        "Usage & Cost"
+      ]
+    },
+    {
+      "key": "https://github.com/lis186/ccxray",
+      "name": "ccxray",
+      "url": "https://github.com/lis186/ccxray",
+      "description": "by lis186 - A transparent HTTP proxy and real-time dashboard that sits between Claude Code and the Anthropic API. Captures every request and response without configuration, presenting them in a Miller-column interface with session grouping, token/cost tracking, and context-window visualization.",
       "section": [
         "Observability & Monitoring",
         "Usage & Cost"
@@ -1357,6 +1450,34 @@
       ]
     },
     {
+      "key": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "name": "OrcaReplay",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "description": "by Continuum AI - Records a Claude Code run through a local proxy and replays it offline, reproducing it byte-for-byte with the network off, or forking it from any checkpoint onto a different model. Capture happens below the harness, so shell exit codes, per-turn file changes and MCP calls land on the same timeline as the model traffic. (NB: Status: \"Early\")",
+      "section": [
+        "Observability & Monitoring",
+        "Observability"
+      ]
+    },
+    {
+      "key": "https://github.com/dyoshikawa/rulesync",
+      "name": "Rulesync",
+      "url": "https://github.com/dyoshikawa/rulesync",
+      "description": "by dyoshikawa - A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.",
+      "section": [
+        "Configuration"
+      ]
+    },
+    {
+      "key": "https://github.com/Piebald-AI/tweakcc",
+      "name": "tweakcc",
+      "url": "https://github.com/Piebald-AI/tweakcc",
+      "description": "by Piebald-AI - Command-line tool to customize your Claude Code installation: themes, thinking verbs, spinners, and input-box styling, plus deeper tweaks like custom toolsets, system-prompt edits, input pattern highlighters, and AGENTS.md support. Works against both native and npm installs.",
+      "section": [
+        "Configuration"
+      ]
+    },
+    {
       "key": "https://github.com/Taiizor/agents-md-cookbook",
       "name": "agents-md-cookbook",
       "url": "https://github.com/Taiizor/agents-md-cookbook",
@@ -1408,6 +1529,24 @@
       "description": "by wei18 - Upkeep — an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/skill + reusable CI workflow.",
       "section": [
         "Linting"
+      ]
+    },
+    {
+      "key": "https://github.com/pchalasani/claude-code-tools",
+      "name": "claude-code-tools",
+      "url": "https://github.com/pchalasani/claude-code-tools",
+      "description": "by Prasad Chalasani - Well-crafted toolset for session continuity, featuring skills/commands to avoid compaction and recover context across sessions with cross-agent handoff between Claude Code and Codex CLI. Includes a fast Rust/Tantivy-powered full-text session search (TUI for humans, skill/CLI for agents), tmux-cli skill + command for interacting with scripts and CLI agents, and safety hooks to block dangerous commands.",
+      "section": [
+        "Multi-Purpose"
+      ]
+    },
+    {
+      "key": "https://github.com/affaan-m/ECC",
+      "name": "Everything Claude Code (ECC)",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "by Affaan Mustafa - Top-notch, well-written resources covering \"just about everything\" from core engineering domains. What's nice about this \"everything-\" store is most of the resources have significant standalone value and unlike some all-encompassing frameworks, although you can opt in to the author's own specific workflow patterns if you choose, the individual resources offer exemplary patterns in (just about) every Claude Code feature you can find (apologies to the Output Styles devotees).",
+      "section": [
+        "Multi-Purpose"
       ]
     }
   ]

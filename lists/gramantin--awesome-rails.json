@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cdea3b37b63a9ea095f4fede9420295214df7b2f4e3cf92e8192c8afc4b1e238\"",
+  "etag": "W/\"00f038457fe642e63fad446ecec3551107d284be24377604e72eab73ef7d3b02\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3789,6 +3789,15 @@
       ]
     },
     {
+      "key": "https://github.com/PositiveControl/rails-rocket-sheep",
+      "name": "rails-rocket-sheep",
+      "url": "https://github.com/PositiveControl/rails-rocket-sheep",
+      "description": "Application template for building with AI coding agents (Claude Code, Cursor, Codex); generates a CLAUDE.md and AGENTS.md, one-convention-per-file rules, workflow commands, and CI gates (using Rails 8.0).",
+      "section": [
+        "Starters/Boilerplates"
+      ]
+    },
+    {
       "key": "https://github.com/mattbrictson/rails-template",
       "name": "rails-template(mattbrictson)",
       "url": "https://github.com/mattbrictson/rails-template",
@@ -3950,6 +3959,16 @@
       "name": "Liam ERD",
       "url": "https://liambx.com/",
       "description": "Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.",
+      "section": [
+        "Other Rails Tools",
+        "DevTools"
+      ]
+    },
+    {
+      "key": "https://mcdview.dev",
+      "name": "mcdview",
+      "url": "https://mcdview.dev/",
+      "description": "Turn your schema.rb into an interactive ER diagram on a stable link, no account, and keep it current in CI with history and diffs.",
       "section": [
         "Other Rails Tools",
         "DevTools"

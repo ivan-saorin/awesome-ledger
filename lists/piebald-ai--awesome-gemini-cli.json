@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c1dafea9a01ed4e4d81bbcdbe25ad0b471af246e39abac89a296d47fddbf99c7\"",
+  "etag": "W/\"bbf37731475982e48b9e4ad84d2c36b612a1c9079d11308489baaa1c173f815c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -350,6 +350,15 @@
       "name": "godmode",
       "url": "https://github.com/arbazkhan971/godmode",
       "description": "Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/yylo-dev/yylo",
+      "name": "YYLO",
+      "url": "https://github.com/yylo-dev/yylo",
+      "description": "Kanban-driven CLI orchestrator that runs Gemini CLI alongside Claude Code and Codex in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work. Git-native task state, per-agent worktree isolation, installable via npm. MIT.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -1177,7 +1186,7 @@
       "key": "https://github.com/vostride/agent-qa",
       "name": "Agent QA",
       "url": "https://github.com/vostride/agent-qa",
-      "description": "Open-source self-improving QA agent for natural-language web and mobile tests. Run its MCP server with agent-qa mcp to let Gemini CLI author, execute, inspect, triage, and repair tests.",
+      "description": "Source-available (FSL-1.1-ALv2) QA agent for natural-language web and mobile tests. Run agent-qa mcp for authoring, execution, artifacts, and failure triage; dashboard-backed tools need a running dashboard and dashboardUrl. Model and infrastructure costs are separate.",
       "section": [
         "MCP Servers"
       ]
@@ -1187,6 +1196,24 @@
       "name": "deja-vu",
       "url": "https://github.com/vshulcz/deja-vu",
       "description": "Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: deja install gemini-auto.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/mnemoverse/gemini-extension",
+      "name": "Mnemoverse Memory",
+      "url": "https://github.com/mnemoverse/gemini-extension",
+      "description": "Hosted memory shared across MCP clients: write a memory in Gemini CLI, recall it in Claude Code, Cursor, VS Code, or any other MCP client. Remote Streamable HTTP with OAuth sign-in, no API key to paste. Install: gemini extensions install https://github.com/mnemoverse/gemini-extension.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://contextstream.io",
+      "name": "ContextStream",
+      "url": "https://contextstream.io",
+      "description": "Shared project context for Cursor, Claude Code, Codex, Grok. Intelligence isn’t the bottleneck. Context is. Remote MCP for Gemini CLI and other coding agents: https://mcp.contextstream.io/mcp.",
       "section": [
         "MCP Servers"
       ]

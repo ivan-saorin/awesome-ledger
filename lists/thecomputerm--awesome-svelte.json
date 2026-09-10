@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4c3d71dc777bd8dccd1c682f48d9b9fd3b127c3c0cd141c1b8804005d7877bf4\"",
+  "etag": "W/\"c4c894a3734ae3d520d0a607bde5f852b49ba52806888a779f7eb5a92b504688\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -304,6 +304,16 @@
       ]
     },
     {
+      "key": "https://capgo.app",
+      "name": "Capgo",
+      "url": "https://capgo.app",
+      "description": "Live updates / OTA for Capacitor apps.",
+      "section": [
+        "Integrations",
+        "Mobile"
+      ]
+    },
+    {
       "key": "https://github.com/sveltetools/svelte-asyncable",
       "name": "svelte-asyncable",
       "url": "https://github.com/sveltetools/svelte-asyncable",
@@ -560,6 +570,15 @@
       "name": "AgentsKit",
       "url": "https://github.com/AgentsKit-io/agentskit",
       "description": "Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.",
+      "section": [
+        "UI Libraries"
+      ]
+    },
+    {
+      "key": "https://ui.human-kit.com",
+      "name": "human-kit",
+      "url": "https://ui.human-kit.com",
+      "description": "Headless, accessible UI primitives for Svelte 5 - ARIA semantics, keyboard interaction and focus management included, styling left entirely to you.",
       "section": [
         "UI Libraries"
       ]
@@ -1115,6 +1134,16 @@
       ]
     },
     {
+      "key": "https://github.com/flyfish-dev/file-viewer/tree/main/packages/components/svelte",
+      "name": "File Viewer",
+      "url": "https://github.com/flyfish-dev/file-viewer/tree/main/packages/components/svelte",
+      "description": "An offline-first Svelte component that previews 206 file extensions with lazy renderer presets and no server-side conversion.",
+      "section": [
+        "UI Components",
+        "Miscellaneous"
+      ]
+    },
+    {
       "key": "https://edra.tsuzat.com",
       "name": "Edra",
       "url": "https://edra.tsuzat.com",
@@ -1145,6 +1174,16 @@
       ]
     },
     {
+      "key": "https://github.com/JuandaGarcia/crd-ui",
+      "name": "crd-ui",
+      "url": "https://github.com/JuandaGarcia/crd-ui",
+      "description": "Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip.",
+      "section": [
+        "UI Components",
+        "Miscellaneous"
+      ]
+    },
+    {
       "key": "https://github.com/vitejs/vite/tree/main/packages/create-vite",
       "name": "create-vite",
       "url": "https://github.com/vitejs/vite/tree/main/packages/create-vite#readme",
@@ -1167,6 +1206,15 @@
       "name": "saasstarter",
       "url": "https://github.com/CriticalMoments/CMSaasStarter",
       "description": "A open source, fast, and free to host Svelte SaaS template.",
+      "section": [
+        "Scaffold"
+      ]
+    },
+    {
+      "key": "https://github.com/rodrgds/productplate",
+      "name": "Product Plate",
+      "url": "https://github.com/rodrgds/productplate",
+      "description": "An open-source SvelteKit + Convex starter for building SaaS products.",
       "section": [
         "Scaffold"
       ]
@@ -1212,6 +1260,24 @@
       "name": "generic-app-template",
       "url": "https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5",
       "description": "A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.",
+      "section": [
+        "Scaffold"
+      ]
+    },
+    {
+      "key": "https://github.com/moisesvalero/my-sveltekit-starter",
+      "name": "My SvelteKit Starter",
+      "url": "https://github.com/moisesvalero/my-sveltekit-starter",
+      "description": "A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.",
+      "section": [
+        "Scaffold"
+      ]
+    },
+    {
+      "key": "https://github.com/aker-dev/microfolio",
+      "name": "microfolio",
+      "url": "https://github.com/aker-dev/microfolio",
+      "description": "A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.",
       "section": [
         "Scaffold"
       ]
@@ -1383,6 +1449,16 @@
       "name": "tanstack-svelte-query",
       "url": "https://tanstack.com/query/latest/docs/svelte/overview",
       "description": "Framework agnostic type-safe query and mutation library for Svelte.",
+      "section": [
+        "Utilities",
+        "HTTP Requests"
+      ]
+    },
+    {
+      "key": "https://github.com/rejifald/StitchAPI/tree/main/packages/svelte",
+      "name": "@stitchapi/svelte",
+      "url": "https://github.com/rejifald/StitchAPI/tree/main/packages/svelte",
+      "description": "Streaming-first StitchAPI bindings: typed, validated stitchStore / stitchStreamStore Svelte stores that re-render as response deltas arrive.",
       "section": [
         "Utilities",
         "HTTP Requests"
@@ -1638,6 +1714,15 @@
       ]
     },
     {
+      "key": "https://github.com/zakarialaoui10/ufbr",
+      "name": "ufbr",
+      "url": "https://github.com/zakarialaoui10/ufbr",
+      "description": "An Universal File Based Router with Svelte support.",
+      "section": [
+        "Routers"
+      ]
+    },
+    {
       "key": "https://svelte.dev/docs/kit/introduction",
       "name": "SvelteKit",
       "url": "https://svelte.dev/docs/kit/introduction",
@@ -1842,6 +1927,16 @@
       "name": "Zephyr",
       "url": "https://github.com/Prismo-Studio/Zephyr",
       "description": "Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.",
+      "section": [
+        "Application Examples",
+        "Desktop"
+      ]
+    },
+    {
+      "key": "https://github.com/theolundqvist/pr-cockpit",
+      "name": "PR Cockpit",
+      "url": "https://github.com/theolundqvist/pr-cockpit",
+      "description": "An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.",
       "section": [
         "Application Examples",
         "Desktop"

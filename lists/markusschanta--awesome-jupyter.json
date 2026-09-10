@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"07f2470b711957f31755723dc27351d9ff451988a7b3bdb073cd68f2bf35dc72\"",
+  "etag": "W/\"809226da9535dcb4485abd145a0f32bfc7ed9eb0f43b24c22b9db8645427a252\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -76,6 +76,15 @@
       ]
     },
     {
+      "key": "https://github.com/jupyterlite/jupyterlite",
+      "name": "JupyterLite",
+      "url": "https://github.com/jupyterlite/jupyterlite",
+      "description": "Jupyter distribution that runs entirely in the browser.",
+      "section": [
+        "Runtimes/Frontends"
+      ]
+    },
+    {
       "key": "https://github.com/tweag/jupyterWith",
       "name": "JupyterWith",
       "url": "https://github.com/tweag/jupyterWith",
@@ -107,6 +116,15 @@
       "name": "nteract",
       "url": "https://github.com/nteract/nteract",
       "description": "Native desktop notebook frontend.",
+      "section": [
+        "Runtimes/Frontends"
+      ]
+    },
+    {
+      "key": "https://openfiles.pansysoft.app",
+      "name": "OpenFiles",
+      "url": "https://openfiles.pansysoft.app/",
+      "description": "Desktop file workspace for editing/running local Jupyter notebooks and 350+ other file formats.",
       "section": [
         "Runtimes/Frontends"
       ]
@@ -319,6 +337,15 @@
       ]
     },
     {
+      "key": "https://github.com/flex-analytics/flexviz",
+      "name": "FlexViz",
+      "url": "https://github.com/flex-analytics/flexviz",
+      "description": "Interactive cross-filter dashboards for datasets that are too large for the browser.",
+      "section": [
+        "Visualization"
+      ]
+    },
+    {
       "key": "https://hvplot.holoviz.org",
       "name": "hvplot",
       "url": "https://hvplot.holoviz.org/",
@@ -454,6 +481,15 @@
       ]
     },
     {
+      "key": "https://github.com/K3D-tools/K3D-jupyter",
+      "name": "K3D-jupyter",
+      "url": "https://github.com/K3D-tools/K3D-jupyter",
+      "description": "WebGL 3D plotting: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays.",
+      "section": [
+        "Visualization"
+      ]
+    },
+    {
       "key": "https://github.com/lux-org/lux",
       "name": "lux",
       "url": "https://github.com/lux-org/lux",
@@ -553,9 +589,9 @@
       ]
     },
     {
-      "key": "https://github.com/paddymul/buckaroo",
+      "key": "https://github.com/buckaroo-data/buckaroo",
       "name": "buckaroo",
-      "url": "https://github.com/paddymul/buckaroo",
+      "url": "https://github.com/buckaroo-data/buckaroo",
       "description": "GUI Data Wrangling tool for Jupyter and pandas.",
       "section": [
         "Tables"
@@ -755,6 +791,15 @@
       "name": "Nikola",
       "url": "https://getnikola.com",
       "description": "Static Site Generator that converts notebooks into websites.",
+      "section": [
+        "Rendering/Publishing/Conversion"
+      ]
+    },
+    {
+      "key": "https://plugins.jetbrains.com/plugin/33811-notebook-lens-jupyter-ipynb-viewer",
+      "name": "Notebook Lens",
+      "url": "https://plugins.jetbrains.com/plugin/33811-notebook-lens-jupyter-ipynb-viewer",
+      "description": "View .ipynb notebooks with outputs inside JetBrains IDEs without running a kernel.",
       "section": [
         "Rendering/Publishing/Conversion"
       ]
@@ -1003,6 +1048,15 @@
       ]
     },
     {
+      "key": "https://github.com/jupyter-server/jupyter-resource-usage",
+      "name": "jupyter-resource-usage",
+      "url": "https://github.com/jupyter-server/jupyter-resource-usage",
+      "description": "Extension to display system metrics.",
+      "section": [
+        "JupyterLab Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/teticio/jupyter-stack-trace",
       "name": "jupyter-stack-trace",
       "url": "https://github.com/teticio/jupyter-stack-trace",
@@ -1192,15 +1246,6 @@
       ]
     },
     {
-      "key": "https://github.com/jtpio/jupyterlab-system-monitor",
-      "name": "system-monitor",
-      "url": "https://github.com/jtpio/jupyterlab-system-monitor",
-      "description": "Extension to display system metrics.",
-      "section": [
-        "JupyterLab Extensions"
-      ]
-    },
-    {
       "key": "https://github.com/codota/tabnine-jupyterlab",
       "name": "tabnine",
       "url": "https://github.com/codota/tabnine-jupyterlab",
@@ -1367,6 +1412,15 @@
       "name": "Jupylet",
       "url": "https://github.com/nir/jupylet",
       "description": "Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.",
+      "section": [
+        "Domain-Specific Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/shopsavvy/jupyter-shopsavvy",
+      "name": "jupyter-shopsavvy",
+      "url": "https://github.com/shopsavvy/jupyter-shopsavvy",
+      "description": "Magic commands for product search, price comparison/history charts using the ShopSavvy API.",
       "section": [
         "Domain-Specific Projects"
       ]
@@ -1729,6 +1783,15 @@
       "description": ", jupyter-notebook",
       "section": [
         "Community Resources"
+      ]
+    },
+    {
+      "key": "https://hack5.dev/accessibility/jupyter/terminal/2026/02/19/accessible-jupyer.html",
+      "name": "Accessibility for Screen Readers",
+      "url": "https://hack5.dev/accessibility/jupyter/terminal/2026/02/19/accessible-jupyer.html",
+      "description": "Guide for converting Jupyter Notebooks to a screen-reader-compatible format.",
+      "section": [
+        "Articles/Guides/Tutorials"
       ]
     },
     {

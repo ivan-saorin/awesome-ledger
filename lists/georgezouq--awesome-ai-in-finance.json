@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d8f47e8ca8043b3f9034fac45298e2c5d35c7053af06c6fc9c2d34927c91e61c\"",
+  "etag": "W/\"40601aa46c1f829135ee83dc8752a4e7f1466536976f7d649acbe853b9e5bc41\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -125,6 +125,24 @@
       "name": "Pineify",
       "url": "https://pineify.app/",
       "description": "AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/rufeng0411/Nova-TradingAgent",
+      "name": "Nova-TradingAgent",
+      "url": "https://github.com/rufeng0411/Nova-TradingAgent",
+      "description": "Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/Kahtaf/opencandle",
+      "name": "OpenCandle",
+      "url": "https://github.com/Kahtaf/opencandle",
+      "description": "Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.",
       "section": [
         "Agents"
       ]
@@ -301,6 +319,51 @@
       ]
     },
     {
+      "key": "https://github.com/Jimmy7892/quant-research-skill",
+      "name": "Quant Research",
+      "url": "https://github.com/Jimmy7892/quant-research-skill",
+      "description": "Agent skill for backtest validation using parameter stability, selection-bias checks, and walk-forward evaluation.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
+      "key": "https://github.com/beepboop2025/market-brief",
+      "name": "Market Brief",
+      "url": "https://github.com/beepboop2025/market-brief",
+      "description": "Agent skill for source-linked funding and liquidity briefs, preserving observation dates and missing-data states.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
+      "key": "https://github.com/TLSRUF/ai-trader-team",
+      "name": "AI Trader Team",
+      "url": "https://github.com/TLSRUF/ai-trader-team",
+      "description": "Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
+      "key": "https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api",
+      "name": "Bargo Congress API",
+      "url": "https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api",
+      "description": "Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
+      "key": "https://github.com/GAJETOso/financeskills",
+      "name": "financeskills",
+      "url": "https://github.com/GAJETOso/financeskills",
+      "description": "Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
       "key": "https://github.com/atilaahmettaner/tradingview-mcp",
       "name": "atilaahmettaner/tradingview-mcp",
       "url": "https://github.com/atilaahmettaner/tradingview-mcp",
@@ -421,6 +484,16 @@
       ]
     },
     {
+      "key": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "name": "livetennisapi/livetennisapi-mcp",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "description": "Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.",
+      "section": [
+        "MCP Servers",
+        "Market Data"
+      ]
+    },
+    {
       "key": "https://github.com/alpacahq/alpaca-mcp-server",
       "name": "alpacahq/alpaca-mcp-server",
       "url": "https://github.com/alpacahq/alpaca-mcp-server",
@@ -525,6 +598,16 @@
       "name": "stefanoamorelli/sec-edgar-mcp",
       "url": "https://github.com/stefanoamorelli/sec-edgar-mcp",
       "description": "Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.",
+      "section": [
+        "MCP Servers",
+        "Research & Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/heubme2020/datasinking",
+      "name": "heubme2020/datasinking",
+      "url": "https://github.com/heubme2020/datasinking",
+      "description": "Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.",
       "section": [
         "MCP Servers",
         "Research & Analysis"
@@ -751,6 +834,15 @@
       "name": "KeepRule",
       "url": "https://keeprule.com",
       "description": "AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.",
+      "section": [
+        "Courses & Books & Blogs"
+      ]
+    },
+    {
+      "key": "https://github.com/Electricitysheep/ai-agent-playbook",
+      "name": "ai-agent-playbook",
+      "url": "https://github.com/Electricitysheep/ai-agent-playbook",
+      "description": "Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.",
       "section": [
         "Courses & Books & Blogs"
       ]
@@ -1276,6 +1368,16 @@
       ]
     },
     {
+      "key": "https://github.com/LuxAlgo/PineTS",
+      "name": "PineTS",
+      "url": "https://github.com/LuxAlgo/PineTS",
+      "description": "Open-source Pine Script transpiler and runtime for indicators and strategies in Node.js and browsers, using live or custom market data.",
+      "section": [
+        "Strategies & Research",
+        "Technical Analysis"
+      ]
+    },
+    {
       "key": "https://github.com/chengstone/LotteryPredict",
       "name": "LotteryPredict",
       "url": "https://github.com/chengstone/LotteryPredict",
@@ -1466,6 +1568,46 @@
       ]
     },
     {
+      "key": "https://spzco.com",
+      "name": "SPZCO",
+      "url": "https://spzco.com",
+      "description": "Research terminal for U.S. congressional trades, executive disclosures, institutional holdings, and insider filings, with links to source documents.",
+      "section": [
+        "Data Sources",
+        "Traditional Markets"
+      ]
+    },
+    {
+      "key": "https://edgrapi.com",
+      "name": "Edgrapi",
+      "url": "https://edgrapi.com",
+      "description": "Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.",
+      "section": [
+        "Data Sources",
+        "Traditional Markets"
+      ]
+    },
+    {
+      "key": "https://earningscall.biz",
+      "name": "EarningsCall",
+      "url": "https://earningscall.biz",
+      "description": "API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.",
+      "section": [
+        "Data Sources",
+        "Traditional Markets"
+      ]
+    },
+    {
+      "key": "https://github.com/thebrierfox/the-stall",
+      "name": "The Stall",
+      "url": "https://github.com/thebrierfox/the-stall",
+      "description": "Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.",
+      "section": [
+        "Data Sources",
+        "Traditional Markets"
+      ]
+    },
+    {
       "key": "https://bitbank.nz",
       "name": "BitBank.nz",
       "url": "https://bitbank.nz",
@@ -1519,7 +1661,7 @@
       "key": "https://api.coinpaprika.com",
       "name": "CoinPaprika API",
       "url": "https://api.coinpaprika.com",
-      "description": "Free cryptocurrency market data API with prices, volume, market cap, and OHLCV for 7,000+ coins. No API key required. Includes MCP server for AI agent integration.",
+      "description": "Cryptocurrency prices, volume, market cap, and historical data via API. Keyless access is available with limits; see plans.",
       "section": [
         "Data Sources",
         "Crypto Currencies"
@@ -1529,7 +1671,7 @@
       "key": "https://api.dexpaprika.com",
       "name": "DexPaprika API",
       "url": "https://api.dexpaprika.com",
-      "description": "Free DEX and DeFi data API — real-time pool data, token prices, OHLCV, and trade history across all chains. No API key, no rate limits. Includes MCP server for AI agents.",
+      "description": "DEX pool, token, OHLCV, and trade data via API and MCP. Keyless access has rate and usage limits; see plans.",
       "section": [
         "Data Sources",
         "Crypto Currencies"
@@ -1586,6 +1728,26 @@
       ]
     },
     {
+      "key": "https://0xarchive.io",
+      "name": "0xArchive",
+      "url": "https://0xarchive.io/",
+      "description": "Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.",
+      "section": [
+        "Data Sources",
+        "Crypto Currencies"
+      ]
+    },
+    {
+      "key": "https://agentservices.to",
+      "name": "AgentServices",
+      "url": "https://agentservices.to",
+      "description": "Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.",
+      "section": [
+        "Data Sources",
+        "Crypto Currencies"
+      ]
+    },
+    {
       "key": "https://github.com/koala73/worldmonitor",
       "name": "WorldMonitor",
       "url": "https://github.com/koala73/worldmonitor",
@@ -1630,6 +1792,16 @@
       "name": "PolyMind",
       "url": "https://polyminds.netlify.app/",
       "description": "Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.",
+      "section": [
+        "Data Sources",
+        "Prediction Markets"
+      ]
+    },
+    {
+      "key": "https://docs.livetennisapi.com",
+      "name": "Live Tennis API",
+      "url": "https://docs.livetennisapi.com",
+      "description": "Tennis scores, win probabilities, and historical match results for prediction-market research via REST and WebSocket. History and advanced features require paid plans.",
       "section": [
         "Data Sources",
         "Prediction Markets"

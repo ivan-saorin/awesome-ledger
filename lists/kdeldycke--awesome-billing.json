@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d5301bc2d6c986300a57e023d43fb4fc6a2d076f49398c6272309a2fc150b640\"",
+  "etag": "W/\"b51188f0168b97280f86bd3ec755a55dec1c98a94eff5dfe364948e50df9cdcf\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -585,6 +585,15 @@
       ]
     },
     {
+      "key": "https://news.ycombinator.com/item?id=49457878",
+      "name": "source",
+      "url": "https://news.ycombinator.com/item?id=49457878",
+      "description": ") - Mechanical Turk's rake was “20% (…) on the reward and bonus amount”, with a minimum fee of $0.01 per bonus payment, so a 7-cent bonus is billed one cent instead of 1.4: an effective 14.3% instead of 20%. The requester's round_payment() snaps every payout onto the 5-cent grid where that truncation always applies, and holds anything below 7 cents in the worker's wallet: “~$50 a day” saved. Rounding per transaction rather than per invoice hands the remainder to whoever picks the transaction amounts.",
+      "section": [
+        "Marketplace"
+      ]
+    },
+    {
       "key": "https://papers.agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf",
       "name": "Incentive Engineering for Computational Resource Management",
       "url": "https://papers.agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf",
@@ -854,10 +863,10 @@
       ]
     },
     {
-      "key": "https://github.com/darcys22/godbledger",
-      "name": "Go DB Ledger",
-      "url": "https://github.com/darcys22/godbledger",
-      "description": "🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.",
+      "key": "https://github.com/blnkfinance/blnk",
+      "name": "Blnk",
+      "url": "https://github.com/blnkfinance/blnk",
+      "description": "💸 Apache-2.0 double-entry ledger exposed as a REST API, with Go, TypeScript, Python and Java SDKs. Inflight transactions hold a pending leg until it is committed or voided, and the reconciliation engine matches external statements against custom rules. Blnk Finance sells a managed cloud adding back-office reports, audit logs and team permissions on top, but the core ledger, reconciliation and identity features are fully functional in OSS.",
       "section": [
         "Accounting",
         "Bookkeeping"
@@ -2283,6 +2292,15 @@
       "name": "Detax",
       "url": "https://detax.framer.website",
       "description": "A site mockup of an tax avoidance product for small businesses.",
+      "section": [
+        "Humour"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Superman_III",
+      "name": "Superman III",
+      "url": "https://en.wikipedia.org/wiki/Superman_III",
+      "description": "The 1983 film in which Gus Gorman, a laid-off clerk who retrains as a programmer, embezzles from his employer's payroll by skimming the fractions of a cent it rounds down.",
       "section": [
         "Humour"
       ]

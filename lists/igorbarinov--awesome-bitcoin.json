@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"bfda3b4f69cd0006b9fa6aff840d045049867f3513afb2b77997577d739c0f41\"",
+  "etag": "W/\"b1078c08dc305186e20cc45c5aeee58c13f0a0a03013cf95b195c2ab11b9d989\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1084,6 +1084,15 @@
       ]
     },
     {
+      "key": "https://808bits.com/tools/raw-transaction-decoder",
+      "name": "Raw transaction decoder",
+      "url": "https://808bits.com/tools/raw-transaction-decoder/",
+      "description": "Paste a raw Bitcoin transaction (legacy, SegWit or Taproot) and see every byte named: scripts disassembled, addresses derived, witness and sequence fields explained. Runs in the browser, no server.",
+      "section": [
+        "Playgrounds"
+      ]
+    },
+    {
       "key": "https://github.com/ladimolnar/BitcoinDatabaseGenerator",
       "name": "BitcoinDatabaseGenerator",
       "url": "https://github.com/ladimolnar/BitcoinDatabaseGenerator",
@@ -1205,6 +1214,15 @@
       "name": "Grokking Bitcoin",
       "url": "https://www.manning.com/books/grokking-bitcoin",
       "description": "An in-depth technical book with rich illustrations.",
+      "section": [
+        "Read"
+      ]
+    },
+    {
+      "key": "https://adamdecaf.github.io/bitcoin-bips-book",
+      "name": "Bitcoin Book of BIPs",
+      "url": "https://adamdecaf.github.io/bitcoin-bips-book/",
+      "description": "Deployed and complete BIPs, grouped by theme. PDF, ePUB, and web.",
       "section": [
         "Read"
       ]

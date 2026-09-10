@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8276533aadae50652e20b88a75667a24e068cdd43b55b8705cf34fb7f2e9e153\"",
+  "etag": "W/\"539dfc2e81eaf07a84418ab206fa08ba22bb186928ea8c9e8abc13bc66e48914\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -130,10 +130,28 @@
       ]
     },
     {
+      "key": "https://github.com/brodie-neuro/ScholarRef",
+      "name": "ScholarRef",
+      "url": "https://github.com/brodie-neuro/ScholarRef",
+      "description": "Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word .docx files.",
+      "section": [
+        "Bibliography"
+      ]
+    },
+    {
       "key": "https://retorque.re/zotero-better-bibtex",
       "name": "Better BibTeX for Zotero",
       "url": "https://retorque.re/zotero-better-bibtex/",
       "description": "Enhanced BibTeX / BibLaTeX integration for Zotero.",
+      "section": [
+        "Bibliography"
+      ]
+    },
+    {
+      "key": "https://github.com/UB-Mannheim/zotero-ocr",
+      "name": "Zotero OCR",
+      "url": "https://github.com/UB-Mannheim/zotero-ocr",
+      "description": "Plugin that makes scanned PDFs searchable using Tesseract OCR and Poppler.",
       "section": [
         "Bibliography"
       ]
@@ -229,10 +247,37 @@
       ]
     },
     {
+      "key": "https://manubot.org",
+      "name": "Manubot",
+      "url": "https://manubot.org/",
+      "description": "Workflow for writing and publishing scholarly manuscripts with Markdown, persistent-identifier citations, and reproducible builds.",
+      "section": [
+        "Converters and Filters"
+      ]
+    },
+    {
+      "key": "https://github.com/YuZh98/latex2arxiv",
+      "name": "latex2arxiv",
+      "url": "https://github.com/YuZh98/latex2arxiv",
+      "description": "Command-line tool which converts a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and draft markup, and flags arXiv submission blockers before upload.",
+      "section": [
+        "Converters and Filters"
+      ]
+    },
+    {
       "key": "https://myst-parser.readthedocs.io/en/latest",
       "name": "MyST",
       "url": "https://myst-parser.readthedocs.io/en/latest/",
       "description": "Markedly Structured Text, a superset of CommonMark markdown with reStructuredText like features.",
+      "section": [
+        "Converters and Filters"
+      ]
+    },
+    {
+      "key": "https://mystmd.org",
+      "name": "MyST Markdown CLI",
+      "url": "https://mystmd.org/",
+      "description": "Command-line tools for building scientific documents from MyST Markdown with citations, cross-references, and HTML, PDF, and Word output.",
       "section": [
         "Converters and Filters"
       ]
@@ -278,6 +323,15 @@
       "name": "Quarto",
       "url": "https://quarto.org",
       "description": "Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.",
+      "section": [
+        "Converters and Filters"
+      ]
+    },
+    {
+      "key": "https://github.com/typst/typst",
+      "name": "Typst",
+      "url": "https://github.com/typst/typst",
+      "description": "Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.",
       "section": [
         "Converters and Filters"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"acaec9ac3ada61c275d7c605d9068d06ba854fbd8ba3681e97f478f1281f4c42\"",
+  "etag": "W/\"2988280ff151faaee5f27c0ce22cf09d4b04f8fdb11c698932314c56debafd80\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1637,6 +1637,15 @@
       "name": "Mailgun",
       "url": "https://www.mailgun.com/",
       "description": "Send, track, and receive emails.",
+      "section": [
+        "Mail"
+      ]
+    },
+    {
+      "key": "https://mailtrap.io",
+      "name": "Mailtrap",
+      "url": "https://mailtrap.io/",
+      "description": "Email delivery platform for developers to test emails in a sandbox and send transactional and bulk emails via API and SMTP.",
       "section": [
         "Mail"
       ]

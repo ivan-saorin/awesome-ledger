@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6944efd3b45965df375f2e6f690a028a0111ca7f80d60bfe7637a48c874abc9d\"",
+  "etag": "W/\"0ca5657da55f8c8423910711c46b13e70b1f486d280199cc4d942c1790abef76\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -17,16 +17,6 @@
       "key": "https://blog.angular.dev",
       "name": "Blog",
       "url": "https://blog.angular.dev/",
-      "description": "",
-      "section": [
-        "Angular",
-        "Official Resources"
-      ]
-    },
-    {
-      "key": "https://angular.dev/overview",
-      "name": "Documentation",
-      "url": "https://angular.dev/overview",
       "description": "",
       "section": [
         "Angular",
@@ -54,9 +44,9 @@
       ]
     },
     {
-      "key": "https://v17.angular.io/docs",
-      "name": "Past Documentation Site",
-      "url": "https://v17.angular.io/docs",
+      "key": "https://angular.dev/style-guide",
+      "name": "Style Guide",
+      "url": "https://angular.dev/style-guide",
       "description": "",
       "section": [
         "Angular",
@@ -234,16 +224,6 @@
       ]
     },
     {
-      "key": "https://github.com/da-mkay/ng-builder-typescript",
-      "name": "ng-builder-typescript",
-      "url": "https://github.com/da-mkay/ng-builder-typescript",
-      "description": "A builder for the Angular CLI to build Node.js apps using the TypeScript compiler tsc (no Webpack or any other bundler used).",
-      "section": [
-        "Angular",
-        "Builders"
-      ]
-    },
-    {
       "key": "https://angular.dev/tools/cli",
       "name": "Official website",
       "url": "https://angular.dev/tools/cli",
@@ -304,16 +284,6 @@
       ]
     },
     {
-      "key": "https://github.com/mahdi-hajian/angular-parallel-test-runner",
-      "name": "angular-parallel-test-runner",
-      "url": "https://github.com/mahdi-hajian/angular-parallel-test-runner",
-      "description": "CLI to run Angular tests in parallel across projects; uses available CPU cores.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
       "key": "https://github.com/qodalis-solutions/angular-web-cli",
       "name": "angular-web-cli",
       "url": "https://github.com/qodalis-solutions/angular-web-cli",
@@ -328,16 +298,6 @@
       "name": "Better-Fullstack",
       "url": "https://github.com/Marve10s/Better-Fullstack",
       "description": "Scaffold production-ready fullstack apps in seconds. Pick your stack from 425 options — the CLI wires everything together.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/elecash/dotairc",
-      "name": "dotairc",
-      "url": "https://github.com/elecash/dotairc",
-      "description": "This tool helps create consistent instructions for AI assistants working with your codebase.",
       "section": [
         "Angular",
         "CLI Tools"
@@ -374,40 +334,10 @@
       ]
     },
     {
-      "key": "https://github.com/KilloconQ/kqgen",
-      "name": "kqgen",
-      "url": "https://github.com/KilloconQ/kqgen",
-      "description": "A fast and flexible CLI for generating Angular components and services. Includes presets for tables, filters, and for REST/GraphQL services.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
       "key": "https://github.com/yuo-app/lin",
       "name": "lin",
       "url": "https://github.com/yuo-app/lin",
       "description": "Lazy I18N is a CLI tool that translates locale JSONs using LLMs.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/talzach/mcp-angular-cli",
-      "name": "mcp-angular-cli",
-      "url": "https://github.com/talzach/mcp-angular-cli",
-      "description": "A server offering Angular CLI and workspace automation, enabling LLMs and agents to generate components, add packages, create workspaces, and run custom architect targets.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/lcasass3/nest-schematics",
-      "name": "nest-schematics",
-      "url": "https://github.com/lcasass3/nest-schematics",
-      "description": "An Angular CLI schematic for generating CQRS (Command Query Responsibility Segregation) modules with hexagonal architecture in NestJS.",
       "section": [
         "Angular",
         "CLI Tools"
@@ -438,76 +368,6 @@
       "name": "ngTooLazy",
       "url": "https://github.com/Iram0598/ng-toolazy",
       "description": "A Node.js CLI that scaffolds an Angular app with modern conventions, opinionated architecture, and starter boilerplate (guards, interceptors, layouts).",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/th3n00bc0d3r/ns-gc",
-      "name": "ns-gc",
-      "url": "https://github.com/th3n00bc0d3r/ns-gc",
-      "description": "A lightweight command-line tool to generate standalone NativeScript Angular components and Angular services with clean structure and zero config.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/pratiksonone/ngx-i18n-scan",
-      "name": "ngx-i18n-scan",
-      "url": "https://github.com/pratiksonone/ngx-i18n-scan",
-      "description": "A CLI tool that scans Angular code to extract and update i18n translation keys, keeping your translation files clean.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/tomer953/ngx-stats",
-      "name": "ngx-stats",
-      "url": "https://github.com/tomer953/ngx-stats",
-      "description": "CLI tool that analyzes Angular projects, quantifying modules, components, directives, pipes, and services to give a clear structural overview for better architectural insight.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/art-ws/ngx-ws",
-      "name": "ngx-ws",
-      "url": "https://github.com/art-ws/ngx-ws",
-      "description": "Easily split a large angular.json into modular, project-local files using the power of JSON References, with the convenience of YAML and JSON5 formats.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/ackheron/prepare-angular-json",
-      "name": "prepare-angular-json",
-      "url": "https://github.com/ackheron/prepare-angular-json",
-      "description": "A lightweight CLI tool that generates a clean angular.json file from a commented angular.jsonc.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/rafa00716/rafacli",
-      "name": "rafacli",
-      "url": "https://github.com/rafa00716/rafacli",
-      "description": "CLI tool that generates authentication and CRUD modules for NestJS and Angular, automating boilerplate to streamline development and ensure consistency.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/ErwanHeschung/ngx-crafter",
-      "name": "ngx-crafter",
-      "url": "https://github.com/ErwanHeschung/ngx-crafter",
-      "description": "A powerful CLI tool that helps you craft Angular projects with pre-configured folder structures and essential packages.",
       "section": [
         "Angular",
         "CLI Tools"
@@ -628,16 +488,6 @@
       "name": "Cloudflare Pages",
       "url": "https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3",
       "description": "",
-      "section": [
-        "Angular",
-        "Deployment"
-      ]
-    },
-    {
-      "key": "https://zerops.io",
-      "name": "Zerops",
-      "url": "https://zerops.io/",
-      "description": "It makes deploying and running Analog apps, both server side rendered and static, a breeze.",
       "section": [
         "Angular",
         "Deployment"
@@ -864,16 +714,6 @@
       ]
     },
     {
-      "key": "https://github.com/eneajaho/ngx-libs",
-      "name": "ngx-libs",
-      "url": "https://github.com/eneajaho/ngx-libs",
-      "description": "Angular Libraries Support lists community libs support for each Angular version.",
-      "section": [
-        "Angular",
-        "Updating Angular"
-      ]
-    },
-    {
       "key": "https://github.com/fast-facts/ng-update",
       "name": "@fast-facts/ng-update",
       "url": "https://github.com/fast-facts/ng-update",
@@ -938,6 +778,16 @@
       "name": "NgReady",
       "url": "https://www.ngready.dev/",
       "description": "Stop Wasting Days on Angular Upgrades.",
+      "section": [
+        "Angular",
+        "Updating Angular"
+      ]
+    },
+    {
+      "key": "https://github.com/korolvitalii/ng-ceiling",
+      "name": "ng-ceiling",
+      "url": "https://github.com/korolvitalii/ng-ceiling",
+      "description": "Estimates the highest Angular version allowed by declared package compatibility and lists upgrade blockers.",
       "section": [
         "Angular",
         "Updating Angular"
@@ -1074,30 +924,10 @@
       ]
     },
     {
-      "key": "https://angulartalents.com",
-      "name": "Angular Talents",
-      "url": "https://www.angulartalents.com/",
-      "description": "Independent developers can highlight their availability for upcoming projects, eliminating the need to endlessly scroll through job boards.",
-      "section": [
-        "Angular Pulse",
-        "Community"
-      ]
-    },
-    {
       "key": "https://anvaka.github.io/map-of-github",
       "name": "Map of GitHub",
       "url": "https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143",
       "description": "Explore the NgSphere to discover repositories with overlapping stargazers.",
-      "section": [
-        "Angular Pulse",
-        "Community"
-      ]
-    },
-    {
-      "key": "https://dolmen.tools/en/angular/good-first-issues/explorer",
-      "name": "Good First Issues",
-      "url": "https://www.dolmen.tools/en/angular/good-first-issues/explorer",
-      "description": "Find beginner-friendly issues and start contributing to Angular open-source projects.",
       "section": [
         "Angular Pulse",
         "Community"
@@ -1874,16 +1704,6 @@
       ]
     },
     {
-      "key": "https://angularminds.com/blog",
-      "name": "Angular Minds",
-      "url": "https://www.angularminds.com/blog",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Blogs"
-      ]
-    },
-    {
       "key": "https://angulararchitects.io/en/blog",
       "name": "Angular Architects",
       "url": "https://www.angulararchitects.io/en/blog/",
@@ -1897,16 +1717,6 @@
       "key": "https://houseofangular.io/blog",
       "name": "House of Angular",
       "url": "https://houseofangular.io/blog/",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Blogs"
-      ]
-    },
-    {
-      "key": "https://thisdot.co/blog?tags=angular",
-      "name": "thisdot labs",
-      "url": "https://www.thisdot.co/blog?tags=angular",
       "description": "",
       "section": [
         "Learning Resources",
@@ -2078,16 +1888,6 @@
       "name": "Angular Tips",
       "url": "https://ngtips.com/",
       "description": "Best practices and recommendations for building complex, large and maintainable applications with Angular.",
-      "section": [
-        "Learning Resources",
-        "Blogs"
-      ]
-    },
-    {
-      "key": "https://practical-angular.donaldmurillo.com",
-      "name": "Practical Angular Guide",
-      "url": "https://practical-angular.donaldmurillo.com/",
-      "description": "Real-world-ish solutions for Angular developers by Donald Murillo.",
       "section": [
         "Learning Resources",
         "Blogs"
@@ -2304,16 +2104,6 @@
       ]
     },
     {
-      "key": "https://v17.angular.io/guide/cheatsheet",
-      "name": "Official Angular Version 17 Cheatsheet",
-      "url": "https://v17.angular.io/guide/cheatsheet",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Cheat Sheets"
-      ]
-    },
-    {
       "key": "https://github.com/sudheerj/angular-interview-questions",
       "name": "List of 100 Angular Interview questions and answers",
       "url": "https://github.com/sudheerj/angular-interview-questions",
@@ -2368,16 +2158,6 @@
       "name": "dotnet_angular_cli_cheatsheet",
       "url": "https://github.com/shashinvision/dotnet_angular_cli_cheatsheet",
       "description": "A comprehensive guide for full-stack developers working with .NET and Angular.",
-      "section": [
-        "Learning Resources",
-        "Cheat Sheets"
-      ]
-    },
-    {
-      "key": "https://slicker.me/angular/signals.html",
-      "name": "Signals in Angular",
-      "url": "https://slicker.me/angular/signals.html",
-      "description": "From basics to advanced patterns with Signals.",
       "section": [
         "Learning Resources",
         "Cheat Sheets"
@@ -2454,16 +2234,6 @@
       ]
     },
     {
-      "key": "https://angularbootcamp.com",
-      "name": "Angular Boot Camp",
-      "url": "https://angularbootcamp.com",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Training"
-      ]
-    },
-    {
       "key": "https://angularstart.com",
       "name": "Angular Start",
       "url": "https://angularstart.com/",
@@ -2507,16 +2277,6 @@
       "key": "https://angular.schule",
       "name": "Angular.Schule (in Germany)",
       "url": "https://angular.schule/",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Training"
-      ]
-    },
-    {
-      "key": "https://angular.de/schulungen/angular-intensiv",
-      "name": "Angular.DE (Germany)",
-      "url": "https://angular.de/schulungen/angular-intensiv/",
       "description": "",
       "section": [
         "Learning Resources",
@@ -2584,16 +2344,6 @@
       ]
     },
     {
-      "key": "https://ultimatecourses.com/courses/angular",
-      "name": "Ultimate Courses",
-      "url": "https://ultimatecourses.com/courses/angular",
-      "description": "Everything you need to become an Angular expert.",
-      "section": [
-        "Learning Resources",
-        "Training"
-      ]
-    },
-    {
       "key": "https://workshops.de/seminare-schulungen-kurse/angular-typescript",
       "name": "Workshops.DE (Germany)",
       "url": "https://workshops.de/seminare-schulungen-kurse/angular-typescript/",
@@ -2604,49 +2354,9 @@
       ]
     },
     {
-      "key": "https://angular.dev/style-guide",
-      "name": "Official Angular style guide",
-      "url": "https://angular.dev/style-guide",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Style Guides"
-      ]
-    },
-    {
-      "key": "https://infinum.com/handbook/frontend/angular/introduction",
-      "name": "Infinum",
-      "url": "https://infinum.com/handbook/frontend/angular/introduction",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Style Guides"
-      ]
-    },
-    {
-      "key": "https://mkosir.github.io/typescript-style-guide",
-      "name": "TypeScript style guide",
-      "url": "https://mkosir.github.io/typescript-style-guide/",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "Style Guides"
-      ]
-    },
-    {
       "key": "https://youtube.com/@Angular",
       "name": "Angular",
       "url": "https://www.youtube.com/@Angular",
-      "description": "",
-      "section": [
-        "Learning Resources",
-        "YouTube Channels"
-      ]
-    },
-    {
-      "key": "https://youtube.com/@ngconfonline",
-      "name": "NG CONF",
-      "url": "https://www.youtube.com/@ngconfonline",
       "description": "",
       "section": [
         "Learning Resources",
@@ -3084,16 +2794,6 @@
       ]
     },
     {
-      "key": "https://github.com/buoy-graphql/buoy",
-      "name": "buoy",
-      "url": "https://github.com/buoy-graphql/buoy",
-      "description": "A GraphQL client for Angular built on top of Apollo.",
-      "section": [
-        "Architecture and Advanced Topics",
-        "GraphQL"
-      ]
-    },
-    {
       "key": "https://github.com/dotansimha/graphql-code-generator",
       "name": "graphql-code-generator",
       "url": "https://github.com/dotansimha/graphql-code-generator",
@@ -3184,16 +2884,6 @@
       ]
     },
     {
-      "key": "https://github.com/Service-Soft/ngx-pwa",
-      "name": "ngx-pwa",
-      "url": "https://github.com/Service-Soft/ngx-pwa",
-      "description": "Provides additional functionality around Angular PWA's. Most notably being able to cache and sync POST/PATCH/DELETE Requests.",
-      "section": [
-        "Architecture and Advanced Topics",
-        "HTTP"
-      ]
-    },
-    {
       "key": "https://github.com/paddls/ngx-repository",
       "name": "ngx-repository",
       "url": "https://github.com/paddls/ngx-repository",
@@ -3274,16 +2964,6 @@
       ]
     },
     {
-      "key": "https://github.com/JPtenBerge/ngx-signal-pagination",
-      "name": "ngx-signal-pagination",
-      "url": "https://github.com/JPtenBerge/ngx-signal-pagination",
-      "description": "Pagination for Angular, powered by signals.",
-      "section": [
-        "Architecture and Advanced Topics",
-        "HTTP"
-      ]
-    },
-    {
       "key": "https://github.com/OGS-GmbH/ngx-http",
       "name": "ngx-http",
       "url": "https://github.com/OGS-GmbH/ngx-http",
@@ -3298,16 +2978,6 @@
       "name": "ng-speed-test",
       "url": "https://github.com/jrquick17/ng-speed-test",
       "description": "A lightweight Angular library for checking internet speed.",
-      "section": [
-        "Architecture and Advanced Topics",
-        "HTTP"
-      ]
-    },
-    {
-      "key": "https://github.com/SebaRenner/ngx-interceptors",
-      "name": "ngx-interceptors",
-      "url": "https://github.com/SebaRenner/ngx-interceptors",
-      "description": "Library with common HTTP interceptors for Angular applications.",
       "section": [
         "Architecture and Advanced Topics",
         "HTTP"
@@ -3554,6 +3224,16 @@
       ]
     },
     {
+      "key": "https://github.com/poluru-labs/fetchwise",
+      "name": "fetchwise",
+      "url": "https://github.com/poluru-labs/fetchwise",
+      "description": "Simplify API integration with automatic retries, response validation, request and response interceptors, and generated API types.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "HTTP"
+      ]
+    },
+    {
       "key": "https://nx.dev/docs/kb/angular-micro-frontends",
       "name": "angular-micro-frontends",
       "url": "https://nx.dev/docs/kb/angular-micro-frontends",
@@ -3584,6 +3264,16 @@
       ]
     },
     {
+      "key": "https://loomweaver.dev",
+      "name": "LoomWeaver",
+      "url": "https://loomweaver.dev/?ref=awesome-angular",
+      "description": "Open-source plugin platform for Angular workbenches; an alternative to micro-frontends for products built as plugins.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Micro Frontends"
+      ]
+    },
+    {
       "key": "https://github.com/native-federation/angular-adapter",
       "name": "@native-federation/angular-adapter",
       "url": "https://github.com/native-federation/angular-adapter",
@@ -3608,6 +3298,16 @@
       "name": "micro-frontend-vite-vue-react-angular-ts",
       "url": "https://github.com/Eraybulut34/micro-frontend-vite-vue-react-angular-ts",
       "description": "Multi-framework micro-frontends (Vue, React, Angular) integrated into a Vue.js shell using Module Federation.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Module Federation Vite"
+      ]
+    },
+    {
+      "key": "https://github.com/ZephyrCloudIO/zephyr-examples/tree/main/frameworks/angular-vite",
+      "name": "Zephyr Cloud",
+      "url": "https://github.com/ZephyrCloudIO/zephyr-examples/tree/main/frameworks/angular-vite",
+      "description": "An Angular application built with Vite bundler, showcasing fast development experience with modern tooling and Zephyr Cloud integration.",
       "section": [
         "Architecture and Advanced Topics",
         "Module Federation Vite"
@@ -4244,6 +3944,16 @@
       ]
     },
     {
+      "key": "https://github.com/L-X-T/ng-agentic-skills",
+      "name": "ng-agentic-skills",
+      "url": "https://github.com/L-X-T/ng-agentic-skills",
+      "description": "Agent skills for Angular development. The official companion repo for the Agentic Engineering series.",
+      "section": [
+        "Development Utilities",
+        "AI"
+      ]
+    },
+    {
       "key": "https://github.com/mintarasss/ng-mocks-testing-skill",
       "name": "ng-mocks-testing-skill",
       "url": "https://github.com/mintarasss/ng-mocks-testing-skill",
@@ -4574,16 +4284,6 @@
       ]
     },
     {
-      "key": "https://github.com/Szymonexis/ngx-meta-pixel",
-      "name": "ngx-meta-pixel",
-      "url": "https://github.com/Szymonexis/ngx-meta-pixel",
-      "description": "This package enables you to setup Meta Pixel for your Angular application.",
-      "section": [
-        "Development Utilities",
-        "Analytics"
-      ]
-    },
-    {
       "key": "https://github.com/PiwikPRO/ngx-piwik-pro",
       "name": "ngx-piwik-pro",
       "url": "https://github.com/PiwikPRO/ngx-piwik-pro",
@@ -4724,6 +4424,16 @@
       ]
     },
     {
+      "key": "https://angularhc.dev",
+      "name": "Angular Health Check",
+      "url": "https://www.angularhc.dev/",
+      "description": "Scan your project, get a 0–100 health score, and auto-fix issues. Version-aware rules for Signals, RxJS, and performance — noise-free.",
+      "section": [
+        "Development Utilities",
+        "Code Analysis"
+      ]
+    },
+    {
       "key": "https://github.com/earthdmitriy/angular-mermaider",
       "name": "angular-mermaider",
       "url": "https://github.com/earthdmitriy/angular-mermaider",
@@ -4778,16 +4488,6 @@
       "name": "ng-di-graph",
       "url": "https://github.com/m-yoshiro/ng-di-graph",
       "description": "A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.",
-      "section": [
-        "Development Utilities",
-        "Code Analysis"
-      ]
-    },
-    {
-      "key": "https://github.com/MerrittMelker/ng-lens",
-      "name": "ng-lens",
-      "url": "https://github.com/MerrittMelker/ng-lens",
-      "description": "A Node.js tool that uses ts-morph to analyze Angular components and detect service usage patterns from any API library.",
       "section": [
         "Development Utilities",
         "Code Analysis"
@@ -5024,16 +4724,6 @@
       ]
     },
     {
-      "key": "https://github.com/alonrbar/easy-template-x-angular-expressions",
-      "name": "easy-template-x-angular-expressions",
-      "url": "https://github.com/alonrbar/easy-template-x-angular-expressions",
-      "description": "Angular expressions support for easy-template-x.",
-      "section": [
-        "Development Utilities",
-        "Documentation Tools"
-      ]
-    },
-    {
       "key": "https://github.com/southleft/story-ui",
       "name": "story-ui",
       "url": "https://github.com/southleft/story-ui",
@@ -5068,6 +4758,16 @@
       "name": "storybook-addon-angular-manifest",
       "url": "https://github.com/anrouxel/storybook-addon-angular-manifest",
       "description": "A Storybook addon that builds an Angular component manifest from your stories and Compodoc documentation.",
+      "section": [
+        "Development Utilities",
+        "Documentation Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Mindfeast/feastdocs",
+      "name": "FeastDocs",
+      "url": "https://github.com/Mindfeast/feastdocs",
+      "description": "Docusaurus-style documentation framework built on Angular, with live Angular components inside Markdown. FeastDocsDemo",
       "section": [
         "Development Utilities",
         "Documentation Tools"
@@ -5584,16 +5284,6 @@
       ]
     },
     {
-      "key": "https://github.com/ricardoferreirades/angular-translation-checker",
-      "name": "angular-translation-checker",
-      "url": "https://github.com/ricardoferreirades/angular-translation-checker",
-      "description": "A tool for ngx-translate that detects unused or missing keys to keep i18n files clean.",
-      "section": [
-        "Development Utilities",
-        "Internationalization"
-      ]
-    },
-    {
       "key": "https://github.com/devremoto/angular-translation-extractor",
       "name": "Angular Translation Extractor",
       "url": "https://github.com/devremoto/angular-translation-extractor",
@@ -5648,16 +5338,6 @@
       "name": "i18n-keygen",
       "url": "https://github.com/gagle/i18n-keygen",
       "description": "Type-safe i18n keys for every build tool. One package, zero lock-in.",
-      "section": [
-        "Development Utilities",
-        "Internationalization"
-      ]
-    },
-    {
-      "key": "https://github.com/58bcbedf47bd91439c/i18n-scanner-toolkit",
-      "name": "i18n-scanner-toolkit",
-      "url": "https://github.com/58bcbedf47bd91439c/i18n-scanner-toolkit",
-      "description": "Extract, detect missing translations, and manage multilingual content with CSV export/import.",
       "section": [
         "Development Utilities",
         "Internationalization"
@@ -5934,16 +5614,6 @@
       ]
     },
     {
-      "key": "https://github.com/njirolu/ruci",
-      "name": "ruci",
-      "url": "https://github.com/njirolu/ruci",
-      "description": "A CLI tool that simplifies i18n validation in Angular projects with ngx-translate, ensuring accurate, high-quality translations.",
-      "section": [
-        "Development Utilities",
-        "Internationalization"
-      ]
-    },
-    {
       "key": "https://forge.deejayy.hu/angular-packages/runtime-localizer",
       "name": "runtime-localizer",
       "url": "https://forge.deejayy.hu/angular-packages/runtime-localizer",
@@ -6164,6 +5834,16 @@
       ]
     },
     {
+      "key": "https://github.com/Myxelium/JunoLint",
+      "name": "JunoLint",
+      "url": "https://github.com/Myxelium/JunoLint",
+      "description": "This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using eslint --fix.",
+      "section": [
+        "Development Utilities",
+        "Linting"
+      ]
+    },
+    {
       "key": "https://github.com/simonh1000/angular-http-server",
       "name": "angular-http-server",
       "url": "https://github.com/simonh1000/angular-http-server",
@@ -6284,30 +5964,10 @@
       ]
     },
     {
-      "key": "https://github.com/MadeByRaymond/ngx-network-monitor",
-      "name": "ngx-network-monitor",
-      "url": "https://github.com/MadeByRaymond/ngx-network-monitor",
-      "description": "A lightweight Angular service to monitor network status: online/offline, connection quality (2G/3G/4G/5G), and ping latency.",
-      "section": [
-        "Development Utilities",
-        "Performance"
-      ]
-    },
-    {
       "key": "https://github.com/maciekv/ngx-performance-diagnostics",
       "name": "ngx-performance-diagnostics",
       "url": "https://github.com/maciekv/ngx-performance-diagnostics",
       "description": "Spot performance bottlenecks, excessive change‑detection cycles, and memory leaks in Angular apps with zero setup.",
-      "section": [
-        "Development Utilities",
-        "Performance"
-      ]
-    },
-    {
-      "key": "https://github.com/Mohid123/ngx-script-optimizer",
-      "name": "ngx-script-optimizer",
-      "url": "https://github.com/Mohid123/ngx-script-optimizer",
-      "description": "A lightweight Angular library designed to supercharge your third-party script handling.",
       "section": [
         "Development Utilities",
         "Performance"
@@ -6374,16 +6034,6 @@
       ]
     },
     {
-      "key": "https://github.com/Service-Soft/lbx-change-sets",
-      "name": "lbx-change-sets",
-      "url": "https://github.com/Service-Soft/lbx-change-sets",
-      "description": "Automatically tracks entity changes using an extendable base repository.",
-      "section": [
-        "Development Utilities",
-        "Runtime"
-      ]
-    },
-    {
       "key": "https://github.com/zvenigora/ng-eval",
       "name": "ng-eval",
       "url": "https://github.com/zvenigora/ng-eval",
@@ -6408,16 +6058,6 @@
       "name": "ngx-api-mimic",
       "url": "https://github.com/mateuszbilicz/ngx-api-mimic",
       "description": "This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.",
-      "section": [
-        "Development Utilities",
-        "Runtime"
-      ]
-    },
-    {
-      "key": "https://github.com/RzoDev/ngx-compare-object",
-      "name": "ngx-compare-object",
-      "url": "https://github.com/RzoDev/ngx-compare-object",
-      "description": "Angular utility to compare an original object with its modified version.",
       "section": [
         "Development Utilities",
         "Runtime"
@@ -6484,9 +6124,9 @@
       ]
     },
     {
-      "key": "https://npmjs.com/package/@unhead/angular",
+      "key": "https://github.com/unjs/unhead",
       "name": "unhead",
-      "url": "https://www.npmjs.com/package/@unhead/angular",
+      "url": "https://github.com/unjs/unhead",
       "description": "Full-stack <head> management for Angular applications.",
       "section": [
         "Development Utilities",
@@ -6498,16 +6138,6 @@
       "name": "Angular-Material-Tailwind-Integration",
       "url": "https://github.com/adandedjanstephane-git/Angular-Material-Tailwind-Integration",
       "description": "A stable, themeable set of CSS custom properties mapping Material Design System tokens to Tailwind CSS utility classes.",
-      "section": [
-        "Development Utilities",
-        "Styling"
-      ]
-    },
-    {
-      "key": "https://github.com/jooherrera/element-identifier",
-      "name": "element-identifier",
-      "url": "https://github.com/jooherrera/element-identifier",
-      "description": "Create reliable, distinct CSS selectors to target DOM elements, and utilize a web component for visual inspection and selection.",
       "section": [
         "Development Utilities",
         "Styling"
@@ -6814,30 +6444,10 @@
       ]
     },
     {
-      "key": "https://github.com/Service-Soft/lbx-jwt",
-      "name": "lbx-jwt",
-      "url": "https://github.com/Service-Soft/lbx-jwt",
-      "description": "Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.",
-      "section": [
-        "Security and Authentication",
-        "Authentication"
-      ]
-    },
-    {
       "key": "https://logto.io",
       "name": "Logto",
       "url": "https://logto.io/",
       "description": "Open‑source Auth0 alternative (OIDC/OAuth2/SAML). Angular quickstart.",
-      "section": [
-        "Security and Authentication",
-        "Authentication"
-      ]
-    },
-    {
-      "key": "https://github.com/ValueMelody/melody-auth",
-      "name": "Melody Auth",
-      "url": "https://github.com/ValueMelody/melody-auth",
-      "description": "Its SDK enables seamless Angular–melody auth integration with automated state, redirects, and token handling.",
       "section": [
         "Security and Authentication",
         "Authentication"
@@ -6938,16 +6548,6 @@
       "name": "omni-auth",
       "url": "https://github.com/ngx-addons/omni-auth",
       "description": "Angular authentication library providing core functionality for authentication flows, guards, and error handling.",
-      "section": [
-        "Security and Authentication",
-        "Authentication"
-      ]
-    },
-    {
-      "key": "https://github.com/subha-patra/otp-angular",
-      "name": "otp-angular",
-      "url": "https://github.com/subha-patra/otp-angular",
-      "description": "A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.",
       "section": [
         "Security and Authentication",
         "Authentication"
@@ -7134,16 +6734,6 @@
       ]
     },
     {
-      "key": "https://github.com/kopy011/ngx-can-i",
-      "name": "ngx-can-i",
-      "url": "https://github.com/kopy011/ngx-can-i",
-      "description": "A package for Angular developers to help them deal with permissions.",
-      "section": [
-        "Security and Authentication",
-        "Role-Based Access Control"
-      ]
-    },
-    {
       "key": "https://github.com/AlexKhymenko/ngx-permissions",
       "name": "ngx-permissions",
       "url": "https://github.com/AlexKhymenko/ngx-permissions",
@@ -7154,30 +6744,10 @@
       ]
     },
     {
-      "key": "https://github.com/IroshanRathnayake/ngx-role-accessor",
-      "name": "ngx-role-accessor",
-      "url": "https://github.com/IroshanRathnayake/ngx-role-accessor",
-      "description": "Enterprise-grade Angular Role-Based Access Control (RBAC) Library.",
-      "section": [
-        "Security and Authentication",
-        "Role-Based Access Control"
-      ]
-    },
-    {
       "key": "https://github.com/levart/ngx-signal-permissions",
       "name": "ngx-signal-permissions",
       "url": "https://github.com/levart/ngx-signal-permissions",
       "description": "A modern, signal-based Angular library for managing permissions and roles with full TypeScript support.",
-      "section": [
-        "Security and Authentication",
-        "Role-Based Access Control"
-      ]
-    },
-    {
-      "key": "https://github.com/rami-sheikha-dev/ngx-smart-permissions",
-      "name": "ngx-smart-permissions",
-      "url": "https://github.com/rami-sheikha-dev/ngx-smart-permissions",
-      "description": "A lightweight Angular library for role and permission-based access control, supporting standalone components and NgModules.",
       "section": [
         "Security and Authentication",
         "Role-Based Access Control"
@@ -7228,6 +6798,16 @@
       "name": "rulegate",
       "url": "https://github.com/fotbiler-lab/rulegate",
       "description": "Local-first, provider-independent authorization for .NET and Angular.",
+      "section": [
+        "Security and Authentication",
+        "Role-Based Access Control"
+      ]
+    },
+    {
+      "key": "https://github.com/sailpoint-oss/angular-sdk",
+      "name": "SailPoint Angular SDK",
+      "url": "https://github.com/sailpoint-oss/angular-sdk",
+      "description": "Use this SDK to interface between SailPoint APIs and your Angular applications.",
       "section": [
         "Security and Authentication",
         "Role-Based Access Control"
@@ -7514,30 +7094,10 @@
       ]
     },
     {
-      "key": "https://github.com/parloti/ngrx-set",
-      "name": "ngrx-set",
-      "url": "https://github.com/parloti/ngrx-set",
-      "description": "This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.",
-      "section": [
-        "State Management",
-        "NgRx"
-      ]
-    },
-    {
       "key": "https://github.com/NGneers/easy-ngrx-distinct-selector",
       "name": "easy-ngrx-distinct-selector",
       "url": "https://github.com/NGneers/easy-ngrx-distinct-selector",
       "description": "Provides functions to easily create @ngrx/store selectors with equal functions for arguments and result values.",
-      "section": [
-        "State Management",
-        "NgRx"
-      ]
-    },
-    {
-      "key": "https://github.com/himanshuarora111/ngrx-store-wrapper",
-      "name": "ngrx-store-wrapper",
-      "url": "https://github.com/himanshuarora111/ngrx-store-wrapper",
-      "description": "Angular library for NgRx state management with built-in session and local storage, no manual actions or reducers needed.",
       "section": [
         "State Management",
         "NgRx"
@@ -7764,16 +7324,6 @@
       ]
     },
     {
-      "key": "https://github.com/henryruhs/ngx-crud",
-      "name": "ngx-crud",
-      "url": "https://github.com/henryruhs/ngx-crud",
-      "description": "CRUD services in Angular with effortless aborting, caching and observing.",
-      "section": [
-        "State Management",
-        "Other State Libraries"
-      ]
-    },
-    {
       "key": "https://github.com/ng-state/store",
       "name": "@ng-state/store",
       "url": "https://github.com/ng-state/store",
@@ -7788,16 +7338,6 @@
       "name": "ng-simple-state-management",
       "url": "https://github.com/LionMarc/ng-simple-state-management",
       "description": "Simple state management implementation for Angular applications.",
-      "section": [
-        "State Management",
-        "Other State Libraries"
-      ]
-    },
-    {
-      "key": "https://github.com/Pierre-MarieMarchio/ngx-statewise",
-      "name": "ngx-statewise",
-      "url": "https://github.com/Pierre-MarieMarchio/ngx-statewise",
-      "description": "A simiplifed state management alternative to NgRx or NGXS.",
       "section": [
         "State Management",
         "Other State Libraries"
@@ -8034,6 +7574,16 @@
       ]
     },
     {
+      "key": "https://github.com/japuentem/rheo-framework",
+      "name": "rheo",
+      "url": "https://github.com/japuentem/rheo-framework",
+      "description": "Ultra-fast reactive state, SWR in-memory caching, request deduplication & optimistic data-flow micro-framework.",
+      "section": [
+        "State Management",
+        "Other State Libraries"
+      ]
+    },
+    {
       "key": "https://cypress.io",
       "name": "Cypress",
       "url": "https://www.cypress.io/",
@@ -8048,16 +7598,6 @@
       "name": "cypress-harness",
       "url": "https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness",
       "description": "This library provides Cypress support to Component Test Harnesses.",
-      "section": [
-        "Testing",
-        "E2E"
-      ]
-    },
-    {
-      "key": "https://github.com/MohamedSci/cypress-angular-commands",
-      "name": "cypress-angular-commands",
-      "url": "https://github.com/MohamedSci/cypress-angular-commands",
-      "description": "A production-ready collection of reusable Cypress custom commands for modern Angular enterprise and ERP applications.",
       "section": [
         "Testing",
         "E2E"
@@ -8894,30 +8434,10 @@
       ]
     },
     {
-      "key": "https://github.com/codebangla/signal-admin",
-      "name": "signal-admin",
-      "url": "https://github.com/codebangla/signal-admin",
-      "description": "Angular 20 admin panel (Material + Tailwind) with responsive layout, sidebar, user management, and UI components.",
-      "section": [
-        "Site Templates",
-        "Free Templates"
-      ]
-    },
-    {
       "key": "https://github.com/angularcafe/ngXpress",
       "name": "ngXpress",
       "url": "https://github.com/angularcafe/ngXpress",
       "description": "The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).",
-      "section": [
-        "Site Templates",
-        "Free Templates"
-      ]
-    },
-    {
-      "key": "https://github.com/thatsamsonkid/spartan-stack-starter",
-      "name": "spartan-stack-starter",
-      "url": "https://github.com/thatsamsonkid/spartan-stack-starter",
-      "description": "An Opinionated Template Project Starter using Spartan Stack.",
       "section": [
         "Site Templates",
         "Free Templates"
@@ -9234,16 +8754,6 @@
       ]
     },
     {
-      "key": "https://github.com/ChellappanRajan/ngx-confetti-explosion",
-      "name": "ngx-confetti-explosion",
-      "url": "https://github.com/ChellappanRajan/ngx-confetti-explosion",
-      "description": "Confetti in Angular.",
-      "section": [
-        "Third Party Components",
-        "Animations"
-      ]
-    },
-    {
       "key": "https://github.com/ngx-lottie/ngx-lottie",
       "name": "ngx-lottie",
       "url": "https://github.com/ngx-lottie/ngx-lottie",
@@ -9264,30 +8774,10 @@
       ]
     },
     {
-      "key": "https://github.com/hm21/ngx-count-animation",
-      "name": "ngx-count-animation",
-      "url": "https://github.com/hm21/ngx-count-animation",
-      "description": "A package that elegantly animates number changes, creating a visually engaging transition from one value to another, perfect for counting or displaying real-time data updates.",
-      "section": [
-        "Third Party Components",
-        "Animations"
-      ]
-    },
-    {
       "key": "https://github.com/ajitzero/ng-auto-animate",
       "name": "ng-auto-animate",
       "url": "https://github.com/ajitzero/ng-auto-animate",
       "description": "Angular Directive (library) for FormKit's Auto Animate.",
-      "section": [
-        "Third Party Components",
-        "Animations"
-      ]
-    },
-    {
-      "key": "https://github.com/Char2sGu/layout-projection",
-      "name": "layout-projection",
-      "url": "https://github.com/Char2sGu/layout-projection",
-      "description": "Beautify the Web with awesome layout animations.",
       "section": [
         "Third Party Components",
         "Animations"
@@ -9614,16 +9104,6 @@
       ]
     },
     {
-      "key": "https://npmjs.com/package/@pyas/connect-angular",
-      "name": "@pyas/connect-angular",
-      "url": "https://www.npmjs.com/package/@pyas/connect-angular",
-      "description": "A plugin wrapper around the Pyas Connect Web Component, exposing PyasConnect as a first-class Angular component.",
-      "section": [
-        "Third Party Components",
-        "Calendars"
-      ]
-    },
-    {
       "key": "https://github.com/mhmfofa/cyrus-calendar",
       "name": "cyrus-calendar",
       "url": "https://github.com/mhmfofa/cyrus-calendar",
@@ -9654,30 +9134,10 @@
       ]
     },
     {
-      "key": "https://github.com/roquemacia/ngx-calendario",
-      "name": "ngx-calendario",
-      "url": "https://github.com/roquemacia/ngx-calendario",
-      "description": "An Angular library for displaying customizable calendars with event support.",
-      "section": [
-        "Third Party Components",
-        "Calendars"
-      ]
-    },
-    {
       "key": "https://github.com/charlesschaefer/ngx-calendar-view/tree/main/projects/ngx-calendar-view",
       "name": "ngx-calendar-view",
       "url": "https://github.com/charlesschaefer/ngx-calendar-view/tree/main/projects/ngx-calendar-view",
       "description": "A responsive Angular calendar component library with day/week/month views, drag-and-drop events, mobile swipe support, and built-in dark mode.",
-      "section": [
-        "Third Party Components",
-        "Calendars"
-      ]
-    },
-    {
-      "key": "https://github.com/giacomo/ngx-calendar-widget",
-      "name": "ngx-calendar-widget",
-      "url": "https://github.com/giacomo/ngx-calendar-widget",
-      "description": "A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.",
       "section": [
         "Third Party Components",
         "Calendars"
@@ -9698,16 +9158,6 @@
       "name": "ngx-resource-scheduler",
       "url": "https://github.com/rmpt/ngx-resource-scheduler",
       "description": "A lightweight, flexible resource scheduler for Angular.",
-      "section": [
-        "Third Party Components",
-        "Calendars"
-      ]
-    },
-    {
-      "key": "https://github.com/codingchefss/ngx-strip-calendar",
-      "name": "ngx-strip-calendar",
-      "url": "https://github.com/codingchefss/ngx-strip-calendar",
-      "description": "Strip calendar component for Angular 17+.",
       "section": [
         "Third Party Components",
         "Calendars"
@@ -9848,16 +9298,6 @@
       "name": "ngx-easy-captcha",
       "url": "https://github.com/angx-libs/ngx-easy-captcha",
       "description": "Easy captcha implementation for both Google Recaptcha and Cloudflare Turnstile.",
-      "section": [
-        "Third Party Components",
-        "Captcha"
-      ]
-    },
-    {
-      "key": "https://github.com/ShreyashThorat-17/ngx-numeric-captcha",
-      "name": "ngx-numeric-captcha",
-      "url": "https://github.com/ShreyashThorat-17/ngx-numeric-captcha",
-      "description": "A modern, lightweight Angular CAPTCHA library featuring multiple verification challenges.",
       "section": [
         "Third Party Components",
         "Captcha"
@@ -10434,26 +9874,6 @@
       ]
     },
     {
-      "key": "https://github.com/Ask-786/ngx-cookie-ssr",
-      "name": "ngx-cookie-ssr",
-      "url": "https://github.com/Ask-786/ngx-cookie-ssr",
-      "description": "A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.",
-      "section": [
-        "Third Party Components",
-        "Cookies"
-      ]
-    },
-    {
-      "key": "https://github.com/KoblerS/ngx-gdpr-cookie-consent",
-      "name": "ngx-gdpr-cookie-consent",
-      "url": "https://github.com/KoblerS/ngx-gdpr-cookie-consent",
-      "description": "A beautiful Cookie consent library, easy to use.",
-      "section": [
-        "Third Party Components",
-        "Cookies"
-      ]
-    },
-    {
       "key": "https://github.com/DreadfulCode/smallest-cookie-banner",
       "name": "smallest-cookie-banner",
       "url": "https://github.com/DreadfulCode/smallest-cookie-banner",
@@ -10678,16 +10098,6 @@
       "name": "angular2-smart-table",
       "url": "https://github.com/dj-fiorex/angular2-smart-table",
       "description": "Angular Smart Data Table component.",
-      "section": [
-        "Third Party Components",
-        "Data Grids"
-      ]
-    },
-    {
-      "key": "https://github.com/valentinstn/ngx-editable-material-table",
-      "name": "ngx-editable-material-table",
-      "url": "https://github.com/valentinstn/ngx-editable-material-table",
-      "description": "An editable table, built on top of Angular Material, natively for Angular.",
       "section": [
         "Third Party Components",
         "Data Grids"
@@ -10954,6 +10364,16 @@
       ]
     },
     {
+      "key": "https://github.com/hjalmers/angular-generic-table",
+      "name": "angular-generic-table",
+      "url": "https://github.com/hjalmers/angular-generic-table",
+      "description": "Angular table component supporting sorting, pagination, search highlighting, keyboard navigation, custom templates, and footer calculations.",
+      "section": [
+        "Third Party Components",
+        "Data Grids"
+      ]
+    },
+    {
       "key": "https://github.com/joanllenas/ngx-date-fns",
       "name": "ngx-date-fns",
       "url": "https://github.com/joanllenas/ngx-date-fns",
@@ -11044,30 +10464,10 @@
       ]
     },
     {
-      "key": "https://github.com/Abhinavgaur01/ngx-daterangepicker-pro-demo",
-      "name": "ngx-daterangepicker-pro",
-      "url": "https://github.com/Abhinavgaur01/ngx-daterangepicker-pro-demo",
-      "description": "A powerful, customizable Angular date range picker built with Angular 17+ and Day.js.",
-      "section": [
-        "Third Party Components",
-        "Dates"
-      ]
-    },
-    {
       "key": "https://github.com/nedpuganti/ngx-custom-daterangepicker",
       "name": "ngx-custom-daterangepicker",
       "url": "https://github.com/nedpuganti/ngx-custom-daterangepicker",
       "description": "An Angular Material date range picker with configurable options, supporting advanced features and straightforward integration.",
-      "section": [
-        "Third Party Components",
-        "Dates"
-      ]
-    },
-    {
-      "key": "https://github.com/aliqb/angular-material-jalali-datepicker-adapter",
-      "name": "angular-material-jalali-datepicker-adapter",
-      "url": "https://github.com/aliqb/angular-material-jalali-datepicker-adapter",
-      "description": "A comprehensive Angular library that provides Jalali (Persian/Solar Hijri/Shamsi) date adapter for Angular Material datepicker component.",
       "section": [
         "Third Party Components",
         "Dates"
@@ -11354,30 +10754,10 @@
       ]
     },
     {
-      "key": "https://github.com/toozuuu/ngxsmk-button-spinner",
-      "name": "ngxsmk-button-spinner",
-      "url": "https://github.com/toozuuu/ngxsmk-button-spinner",
-      "description": "Angular 17+ directive to show a loading spinner inline or centered on any button.",
-      "section": [
-        "Third Party Components",
-        "Directives"
-      ]
-    },
-    {
       "key": "https://github.com/gianpierreVelasquez/ngxture",
       "name": "ngxture",
       "url": "https://github.com/gianpierreVelasquez/ngxture",
       "description": "A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.",
-      "section": [
-        "Third Party Components",
-        "Directives"
-      ]
-    },
-    {
-      "key": "https://github.com/maxime1jacquet/npm-directives",
-      "name": "@maxime1jacquet/npm-directives",
-      "url": "https://github.com/maxime1jacquet/npm-directives",
-      "description": "Angular Directives including ngx-cursor and ngx-simple-countdown.",
       "section": [
         "Third Party Components",
         "Directives"
@@ -11464,16 +10844,6 @@
       ]
     },
     {
-      "key": "https://github.com/MTobisch/ngx-dynamic-hooks",
-      "name": "ngx-dynamic-hooks",
-      "url": "https://github.com/MTobisch/ngx-dynamic-hooks",
-      "description": "Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.",
-      "section": [
-        "Third Party Components",
-        "DOM"
-      ]
-    },
-    {
       "key": "https://github.com/MurhafSousli/ngx-highlightjs",
       "name": "ngx-highlightjs",
       "url": "https://github.com/MurhafSousli/ngx-highlightjs",
@@ -11538,16 +10908,6 @@
       "name": "ng-dynamic-component",
       "url": "https://github.com/gund/ng-dynamic-component",
       "description": "Dynamic components with full life-cycle support for inputs and outputs for Angular.",
-      "section": [
-        "Third Party Components",
-        "DOM"
-      ]
-    },
-    {
-      "key": "https://github.com/Bilal-Abubakari/ngx-optimus",
-      "name": "ngx-optimus",
-      "url": "https://github.com/Bilal-Abubakari/ngx-optimus",
-      "description": "An Angular library offering custom pipes to simplify data formatting and keep component logic cleaner.",
       "section": [
         "Third Party Components",
         "DOM"
@@ -11708,16 +11068,6 @@
       "name": "angular-mixed-cdk-drag-drop",
       "url": "https://github.com/rosejoe47/angular-mixed-cdk-drag-drop",
       "description": "Angular Directive to support mixed orientation drag drop using Angular CDK.",
-      "section": [
-        "Third Party Components",
-        "Drag and Drop"
-      ]
-    },
-    {
-      "key": "https://github.com/shhdharmen/cdk-drag-snap-to-point",
-      "name": "cdk-drag-snap-to-point",
-      "url": "https://github.com/shhdharmen/cdk-drag-snap-to-point",
-      "description": "A demo to showcase cdkDrag features to achieve drop only on certain points.",
       "section": [
         "Third Party Components",
         "Drag and Drop"
@@ -11954,26 +11304,6 @@
       ]
     },
     {
-      "key": "https://github.com/mouhamadalmounayar/ngx-traak",
-      "name": "ngx-traak",
-      "url": "https://github.com/mouhamadalmounayar/ngx-traak",
-      "description": "A WYSIWYG Angular editor library built on top of ProseMirror, built for standalone components and highly customizable with plugins.",
-      "section": [
-        "Third Party Components",
-        "Editors"
-      ]
-    },
-    {
-      "key": "https://github.com/lula/ngx-summernote",
-      "name": "ngx-summernote",
-      "url": "https://github.com/lula/ngx-summernote",
-      "description": "Summernote editor for Angular.",
-      "section": [
-        "Third Party Components",
-        "Editors"
-      ]
-    },
-    {
       "key": "https://github.com/manishpatidar028/angular-rich-text-editor",
       "name": "angular-rich-text-editor",
       "url": "https://github.com/manishpatidar028/angular-rich-text-editor",
@@ -12184,6 +11514,16 @@
       ]
     },
     {
+      "key": "https://github.com/Samyssmile/notectl",
+      "name": "notectl",
+      "url": "https://github.com/Samyssmile/notectl",
+      "description": "Modern accessible WYSIWYG rich text editor built as a framework-agnostic web component that works everywhere.",
+      "section": [
+        "Third Party Components",
+        "Editors"
+      ]
+    },
+    {
       "key": "https://github.com/valor-software/ng2-file-upload",
       "name": "ng2-file-upload",
       "url": "https://github.com/valor-software/ng2-file-upload",
@@ -12248,16 +11588,6 @@
       "name": "ngx-custom-material-file-input",
       "url": "https://github.com/daemons88/ngx-custom-material-file-input",
       "description": "File input management for Angular Material.",
-      "section": [
-        "Third Party Components",
-        "File Upload"
-      ]
-    },
-    {
-      "key": "https://github.com/wh131462/ngx-file-preview",
-      "name": "ngx-file-preview",
-      "url": "https://github.com/wh131462/ngx-file-preview",
-      "description": "A powerful preview tool for many file types.",
       "section": [
         "Third Party Components",
         "File Upload"
@@ -12428,26 +11758,6 @@
       "name": "ngx-forms",
       "url": "https://github.com/nncl/ngx-forms",
       "description": "Collection of Angular form functions, that will help you build your applications.",
-      "section": [
-        "Third Party Components",
-        "Forms"
-      ]
-    },
-    {
-      "key": "https://github.com/Zarlex/ngxAccessor",
-      "name": "ngxAccessor",
-      "url": "https://github.com/Zarlex/ngxAccessor",
-      "description": "This library adds a third approach to Angular forms, integrating signals alongside existing methods with adaptability.",
-      "section": [
-        "Third Party Components",
-        "Forms"
-      ]
-    },
-    {
-      "key": "https://github.com/chocosd/angular-template-signal-forms",
-      "name": "angular-template-signal-forms",
-      "url": "https://github.com/chocosd/angular-template-signal-forms",
-      "description": "A modern Angular form library built from the ground up with Signals — flexible, type-safe, and fully themeable.",
       "section": [
         "Third Party Components",
         "Forms"
@@ -12724,20 +12034,20 @@
       ]
     },
     {
+      "key": "https://github.com/gastonmesseri/form-nodes",
+      "name": "form-nodes",
+      "url": "https://github.com/gastonmesseri/form-nodes",
+      "description": "Typed Signal-based forms for Angular.",
+      "section": [
+        "Third Party Components",
+        "Forms"
+      ]
+    },
+    {
       "key": "https://github.com/zefoy/ngx-color-picker",
       "name": "ngx-color-picker",
       "url": "https://github.com/zefoy/ngx-color-picker",
       "description": "Color picker widget.",
-      "section": [
-        "Third Party Components",
-        "Form Controls"
-      ]
-    },
-    {
-      "key": "https://github.com/ngx-eco/angular-colorful",
-      "name": "angular-colorful",
-      "url": "https://github.com/ngx-eco/angular-colorful",
-      "description": "A tiny color picker component for modern Angular apps.",
       "section": [
         "Third Party Components",
         "Form Controls"
@@ -12788,26 +12098,6 @@
       "name": "angular-code-input",
       "url": "https://github.com/AlexMiniApps/angular-code-input",
       "description": "Robust Angular input component (numbers/chars) for Angular 7–16+, with Ionic 4–7, mobile, and clipboard support.",
-      "section": [
-        "Third Party Components",
-        "Form Controls"
-      ]
-    },
-    {
-      "key": "https://github.com/fundsaccess/angular-iban",
-      "name": "angular-iban",
-      "url": "https://github.com/fundsaccess/angular-iban",
-      "description": "IBAN directives and pipes for Angular.",
-      "section": [
-        "Third Party Components",
-        "Form Controls"
-      ]
-    },
-    {
-      "key": "https://github.com/joshuawwright/ngx-autosize-input",
-      "name": "ngx-autosize-input",
-      "url": "https://github.com/joshuawwright/ngx-autosize-input",
-      "description": "An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.",
       "section": [
         "Third Party Components",
         "Form Controls"
@@ -12978,16 +12268,6 @@
       "name": "rm-ng-star-rating",
       "url": "https://github.com/malikrajat/rm-ng-star-rating",
       "description": "A fully customizable and feature-rich Angular standalone component for advanced star ratings with precision and responsive design.",
-      "section": [
-        "Third Party Components",
-        "Form Controls"
-      ]
-    },
-    {
-      "key": "https://github.com/eladbh-stanley/ngx-animated-paginator",
-      "name": "ngx-animated-paginator",
-      "url": "https://github.com/eladbh-stanley/ngx-animated-paginator",
-      "description": "Angular wrapper for animated-paginator-web-component that plugs seamlessly into template-driven and reactive forms via ControlValueAccessor.",
       "section": [
         "Third Party Components",
         "Form Controls"
@@ -13494,16 +12774,6 @@
       ]
     },
     {
-      "key": "https://github.com/dgonzalez870/ngx-formcontrol-errors",
-      "name": "ngx-formcontrol-errors",
-      "url": "https://github.com/dgonzalez870/ngx-formcontrol-errors",
-      "description": "A directive for showing errors in Angular form controls.",
-      "section": [
-        "Third Party Components",
-        "Form Validation"
-      ]
-    },
-    {
       "key": "https://github.com/dynimorius/ngx-validator-pack",
       "name": "ngx-validator-pack",
       "url": "https://github.com/dynimorius/ngx-validator-pack",
@@ -13528,16 +12798,6 @@
       "name": "ng-error-tooltips",
       "url": "https://github.com/mkeller1992/ng-error-tooltips",
       "description": "Angular reactive forms library that shows error tooltips for user-friendly validation messages.",
-      "section": [
-        "Third Party Components",
-        "Form Validation"
-      ]
-    },
-    {
-      "key": "https://github.com/vbnr/ng-reactive-form-validate",
-      "name": "ng-reactive-form-validate",
-      "url": "https://github.com/vbnr/ng-reactive-form-validate",
-      "description": "Angular library for streamlined form validation with customizable messages, Transloco integration, and styled error labels.",
       "section": [
         "Third Party Components",
         "Form Validation"
@@ -13678,16 +12938,6 @@
       "name": "angular-svg-icon",
       "url": "https://github.com/czeckd/angular-svg-icon",
       "description": "Angular component and service for inlining SVGs allowing them to be easily styled with CSS.",
-      "section": [
-        "Third Party Components",
-        "Icons"
-      ]
-    },
-    {
-      "key": "https://github.com/dimaslz/ng-heroicons",
-      "name": "ng-hero-icons",
-      "url": "https://github.com/dimaslz/ng-heroicons",
-      "description": "Use Heroicons in your Angular application.",
       "section": [
         "Third Party Components",
         "Icons"
@@ -13864,16 +13114,6 @@
       ]
     },
     {
-      "key": "https://github.com/DanielGabbay/ng-cropper",
-      "name": "ng-cropper",
-      "url": "https://github.com/DanielGabbay/ng-cropper",
-      "description": "Angular image cropper built on CropperJS with customizable interface and optional toolbar for seamless cropping.",
-      "section": [
-        "Third Party Components",
-        "Images"
-      ]
-    },
-    {
       "key": "https://github.com/bmartinson/ngx-advanced-img",
       "name": "ngx-advanced-img",
       "url": "https://github.com/bmartinson/ngx-advanced-img",
@@ -13898,16 +13138,6 @@
       "name": "ngx-broken-img",
       "url": "https://github.com/andreagrossetti/ngx-broken-img",
       "description": "Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.",
-      "section": [
-        "Third Party Components",
-        "Images"
-      ]
-    },
-    {
-      "key": "https://github.com/ShreyashThorat-17/ngx-image-compression",
-      "name": "ngx-image-compression",
-      "url": "https://github.com/ShreyashThorat-17/ngx-image-compression",
-      "description": "A lightweight image compression and conversion library for Angular.",
       "section": [
         "Third Party Components",
         "Images"
@@ -14174,16 +13404,6 @@
       ]
     },
     {
-      "key": "https://github.com/katoid/angular-grid-layout",
-      "name": "angular-grid-layout",
-      "url": "https://github.com/katoid/angular-grid-layout",
-      "description": "Responsive grid with draggable and resizable items for Angular applications.",
-      "section": [
-        "Third Party Components",
-        "Layout"
-      ]
-    },
-    {
       "key": "https://github.com/gridstack/gridstack.js/tree/master/angular",
       "name": "gridstack",
       "url": "https://github.com/gridstack/gridstack.js/tree/master/angular/",
@@ -14218,16 +13438,6 @@
       "name": "ngx-retro-grid",
       "url": "https://github.com/omnedia/ngx-retro-grid",
       "description": "3D perspective grid component with customizable colors, rotation, and smooth animations for nostalgic or futuristic effects.",
-      "section": [
-        "Third Party Components",
-        "Layout"
-      ]
-    },
-    {
-      "key": "https://github.com/ArslanAmeer/ngx-bottom-sheet",
-      "name": "ngx-bottom-sheet",
-      "url": "https://github.com/ArslanAmeer/ngx-bottom-sheet",
-      "description": "A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.",
       "section": [
         "Third Party Components",
         "Layout"
@@ -14318,16 +13528,6 @@
       "name": "@marxlnfcs/ngx-grid",
       "url": "https://github.com/marxlnfcs/ngx-grid",
       "description": "Simple Angular Grid Module for modern grid layouts.",
-      "section": [
-        "Third Party Components",
-        "Layout"
-      ]
-    },
-    {
-      "key": "https://github.com/liketiger/lightweight-grid-layout",
-      "name": "lightweight-grid-layout",
-      "url": "https://github.com/liketiger/lightweight-grid-layout",
-      "description": "A headless, dependency-free grid layout library for JavaScript/TypeScript that works with any framework or none, leaving rendering and styling to users.",
       "section": [
         "Third Party Components",
         "Layout"
@@ -14444,16 +13644,6 @@
       ]
     },
     {
-      "key": "https://github.com/ArshdeepGrover/groupix-spinner-library",
-      "name": "groupix-spinner-library",
-      "url": "https://github.com/ArshdeepGrover/groupix-spinner-library",
-      "description": "A lightweight Angular spinner library for seamless loading animations!",
-      "section": [
-        "Third Party Components",
-        "Loaders"
-      ]
-    },
-    {
       "key": "https://github.com/lumberjacque/loadersz-core",
       "name": "loadersz",
       "url": "https://github.com/lumberjacque/loadersz-core",
@@ -14534,26 +13724,6 @@
       ]
     },
     {
-      "key": "https://github.com/dkreider/ngx-loading-buttons",
-      "name": "ngx-loading-buttons",
-      "url": "https://github.com/dkreider/ngx-loading-buttons",
-      "description": "A lightweight Angular library to add a loading spinner to your Angular Material buttons.",
-      "section": [
-        "Third Party Components",
-        "Loaders"
-      ]
-    },
-    {
-      "key": "https://github.com/shaman-apprentice/ngx-loading-overlay",
-      "name": "ngx-loading-overlay",
-      "url": "https://github.com/shaman-apprentice/ngx-loading-overlay",
-      "description": "An Angular directive adding a loading overlay to your HTML.",
-      "section": [
-        "Third Party Components",
-        "Loaders"
-      ]
-    },
-    {
       "key": "https://github.com/MurhafSousli/ngx-progressbar",
       "name": "ngx-progressbar",
       "url": "https://github.com/MurhafSousli/ngx-progressbar",
@@ -14594,30 +13764,10 @@
       ]
     },
     {
-      "key": "https://github.com/mehrabisajad/ngx-source",
-      "name": "ngx-source",
-      "url": "https://github.com/mehrabisajad/ngx-source",
-      "description": "Dynamically load JavaScript and CSS during application execution.",
-      "section": [
-        "Third Party Components",
-        "Loaders"
-      ]
-    },
-    {
       "key": "https://github.com/napster2210/ngx-spinner",
       "name": "ngx-spinner",
       "url": "https://github.com/napster2210/ngx-spinner",
       "description": "A library for loading spinner for Angular.",
-      "section": [
-        "Third Party Components",
-        "Loaders"
-      ]
-    },
-    {
-      "key": "https://github.com/thalsi/ngx-spinner-loading",
-      "name": "ngx-spinner-loading",
-      "url": "https://github.com/thalsi/ngx-spinner-loading",
-      "description": "Lightweight, customizable Angular spinner with global, section, inline loaders, HTTP interceptors, and signal-based state.",
       "section": [
         "Third Party Components",
         "Loaders"
@@ -14894,6 +14044,16 @@
       ]
     },
     {
+      "key": "https://github.com/mdzip-project/mdzip-editor",
+      "name": "mdzip-editor",
+      "url": "https://github.com/mdzip-project/mdzip-editor",
+      "description": "A reusable JavaScript, Angular, React and Vue viewer/editor for Markdown and MDZip (.mdz) files.",
+      "section": [
+        "Third Party Components",
+        "Markdown"
+      ]
+    },
+    {
       "key": "https://github.com/jfcere/ngx-markdown",
       "name": "ngx-markdown",
       "url": "https://github.com/jfcere/ngx-markdown",
@@ -15038,16 +14198,6 @@
       "name": "voicecapture-angular",
       "url": "https://github.com/angular-a11y/voicecapture-angular",
       "description": "The library offers customizable options for handling voice input and transcription, making it a flexible solution for enhancing user interfaces.",
-      "section": [
-        "Third Party Components",
-        "Media"
-      ]
-    },
-    {
-      "key": "https://github.com/RzoDev/ngx-cam-shoot",
-      "name": "ngx-cam-shoot",
-      "url": "https://github.com/RzoDev/ngx-cam-shoot",
-      "description": "A streamlined Angular component that simplifies using your device's camera and accelerates image capture and saving.",
       "section": [
         "Third Party Components",
         "Media"
@@ -15208,16 +14358,6 @@
       "name": "lithium-angular",
       "url": "https://github.com/lVlyke/lithium-angular",
       "description": "Lithium simplifies Angular with utilities for seamless reactive state and event interactions.",
-      "section": [
-        "Third Party Components",
-        "Mixed Utilities"
-      ]
-    },
-    {
-      "key": "https://github.com/rxweb/rxweb",
-      "name": "rxweb",
-      "url": "https://github.com/rxweb/rxweb",
-      "description": "Tons of extensively featured packages for Angular, Vue and React Projects.",
       "section": [
         "Third Party Components",
         "Mixed Utilities"
@@ -15534,26 +14674,6 @@
       ]
     },
     {
-      "key": "https://github.com/max-scopp/reactive-kit",
-      "name": "reactive-kit",
-      "url": "https://github.com/max-scopp/reactive-kit",
-      "description": "Lightweight utilities for reactive Angular apps, reducing boilerplate and pairing well with ngxtension.",
-      "section": [
-        "Third Party Components",
-        "Mixed Utilities"
-      ]
-    },
-    {
-      "key": "https://github.com/BhanukaDev/fireng",
-      "name": "fireng",
-      "url": "https://github.com/BhanukaDev/fireng",
-      "description": "A collection of Angular libraries to simplify responsive development using signals.",
-      "section": [
-        "Third Party Components",
-        "Mixed Utilities"
-      ]
-    },
-    {
       "key": "https://github.com/ziv/xprng",
       "name": "xprng",
       "url": "https://github.com/ziv/xprng",
@@ -15814,26 +14934,6 @@
       ]
     },
     {
-      "key": "https://github.com/lazycuh/angular-confirmation-capture",
-      "name": "angular-confirmation-capture",
-      "url": "https://github.com/lazycuh/angular-confirmation-capture",
-      "description": "A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.",
-      "section": [
-        "Third Party Components",
-        "Modals"
-      ]
-    },
-    {
-      "key": "https://github.com/lazycuh/angular-anchored-floating-box",
-      "name": "angular-anchored-floating-box",
-      "url": "https://github.com/lazycuh/angular-anchored-floating-box",
-      "description": "Singleton Angular service to render floating boxes anchored to elements with TemplateRef or component content.",
-      "section": [
-        "Third Party Components",
-        "Modals"
-      ]
-    },
-    {
       "key": "https://github.com/strikerh/ngx-side-page",
       "name": "ngx-side-page",
       "url": "https://github.com/strikerh/ngx-side-page",
@@ -15914,16 +15014,6 @@
       ]
     },
     {
-      "key": "https://github.com/npm-lahsiv/alert-bar-library",
-      "name": "alert-bar-library",
-      "url": "https://github.com/npm-lahsiv/alert-bar-library",
-      "description": "Display contextual messages (success, info, warning, error) with clean, accessible styles that match modern web apps with this library.",
-      "section": [
-        "Third Party Components",
-        "Notifications"
-      ]
-    },
-    {
       "key": "https://github.com/svierk/angular-bootstrap-toast-service",
       "name": "angular-bootstrap-toast-service",
       "url": "https://github.com/svierk/angular-bootstrap-toast-service",
@@ -15934,30 +15024,10 @@
       ]
     },
     {
-      "key": "https://github.com/lazycuh/angular-notification",
-      "name": "angular-notification",
-      "url": "https://github.com/lazycuh/angular-notification",
-      "description": "A singleton, global Angular service to programmatically show notifications.",
-      "section": [
-        "Third Party Components",
-        "Notifications"
-      ]
-    },
-    {
       "key": "https://github.com/damingerdai/angular-toaster",
       "name": "angular-toaster",
       "url": "https://github.com/damingerdai/angular-toaster",
       "description": "Updated fork of Angular2-Toaster.",
-      "section": [
-        "Third Party Components",
-        "Notifications"
-      ]
-    },
-    {
-      "key": "https://github.com/rishi-rj-s/grand-notifications",
-      "name": "grand-notifications",
-      "url": "https://github.com/rishi-rj-s/grand-notifications",
-      "description": "Beautiful, customizable toast notifications with artistic animations.",
       "section": [
         "Third Party Components",
         "Notifications"
@@ -16028,16 +15098,6 @@
       "name": "ngx-french-toast",
       "url": "https://github.com/thiagopg84/ngx-french-toast",
       "description": "Lightweight, customizable Angular 14+ toast library for informative messages, feedback, and dynamic component support.",
-      "section": [
-        "Third Party Components",
-        "Notifications"
-      ]
-    },
-    {
-      "key": "https://github.com/jonaaix/ngx-modern-alerts",
-      "name": "ngx-modern-alerts",
-      "url": "https://github.com/jonaaix/ngx-modern-alerts",
-      "description": "Flexible Angular system for banner and floating alerts with hub, timeouts, custom actions, and more.",
       "section": [
         "Third Party Components",
         "Notifications"
@@ -16264,6 +15324,16 @@
       ]
     },
     {
+      "key": "https://github.com/xgreymx/snackng",
+      "name": "snackng",
+      "url": "https://github.com/xgreymx/snackng",
+      "description": "Toasts for Angular with a glass design, zero UI dependencies and CSS-variable theming.",
+      "section": [
+        "Third Party Components",
+        "Notifications"
+      ]
+    },
+    {
       "key": "https://github.com/shepherd-pro/angular-shepherd",
       "name": "angular-shepherd",
       "url": "https://github.com/shepherd-pro/angular-shepherd",
@@ -16358,16 +15428,6 @@
       "name": "Angular Image & PDF Viewer",
       "url": "https://github.com/NiranjanKushwaha/imgPdfViewer_library_Angular",
       "description": "A customizable library for viewing PDFs and images using Mozilla’s pdf.js engine for smooth previews.",
-      "section": [
-        "Third Party Components",
-        "PDF"
-      ]
-    },
-    {
-      "key": "https://github.com/askinjohn/ng-pdf-renderer",
-      "name": "ng-pdf-renderer",
-      "url": "https://github.com/askinjohn/ng-pdf-renderer",
-      "description": "A modern, zero-configuration PDF viewer for Angular applications with intelligent auto-fit, text selection, and responsive design.",
       "section": [
         "Third Party Components",
         "PDF"
@@ -16478,16 +15538,6 @@
       "name": "memoize-pipe",
       "url": "https://github.com/ngx-rock/memoize-pipe",
       "description": "A universal pipe for memoizing computations in Angular templates.",
-      "section": [
-        "Third Party Components",
-        "Pipes"
-      ]
-    },
-    {
-      "key": "https://github.com/ultrasonicsoft/ngx-highlight-text",
-      "name": "ngx-highlight-text",
-      "url": "https://github.com/ultrasonicsoft/ngx-highlight-text",
-      "description": "Angular pipe that highlights a selected word in the HTML markup.",
       "section": [
         "Third Party Components",
         "Pipes"
@@ -16714,16 +15764,6 @@
       ]
     },
     {
-      "key": "https://github.com/akshykhade/ngx-foresight",
-      "name": "ngx-foresight",
-      "url": "https://github.com/akshykhade/ngx-foresight",
-      "description": "An Angular integration of ForesightJS for intelligent router preloading based on user intent.",
-      "section": [
-        "Third Party Components",
-        "Router"
-      ]
-    },
-    {
       "key": "https://github.com/rbalet/ngx-href",
       "name": "ngx-href",
       "url": "https://github.com/rbalet/ngx-href",
@@ -16854,16 +15894,6 @@
       ]
     },
     {
-      "key": "https://github.com/alvarotrigo/angular-fullpage",
-      "name": "angular-fullpage",
-      "url": "https://github.com/alvarotrigo/angular-fullpage",
-      "description": "Official component for fullPage.js, a fullscreen scrolling library.",
-      "section": [
-        "Third Party Components",
-        "Scroll"
-      ]
-    },
-    {
       "key": "https://github.com/bartholomej/ngx-scrolltop",
       "name": "ngx-scrolltop",
       "url": "https://github.com/bartholomej/ngx-scrolltop",
@@ -16944,16 +15974,6 @@
       ]
     },
     {
-      "key": "https://github.com/HaidarZ/ng-mat-select-infinite-scroll",
-      "name": "ng-mat-select-infinite-scroll",
-      "url": "https://github.com/HaidarZ/ng-mat-select-infinite-scroll",
-      "description": "Infinite Scroll directive for Angular Material select component.",
-      "section": [
-        "Third Party Components",
-        "Scroll"
-      ]
-    },
-    {
       "key": "https://github.com/Grsmto/simplebar",
       "name": "simplebar",
       "url": "https://github.com/Grsmto/simplebar",
@@ -16978,16 +15998,6 @@
       "name": "ngx-virtual-scroller-flexible",
       "url": "https://github.com/onexip/ngx-virtual-scroller-flexible",
       "description": "Ultra‑fast, flexible virtual scroller rendering unlimited items with varying heights seamlessly.",
-      "section": [
-        "Third Party Components",
-        "Scroll"
-      ]
-    },
-    {
-      "key": "https://github.com/brakmic/ngx-perfect-scrollbar-portable",
-      "name": "ngx-perfect-scrollbar-portable",
-      "url": "https://github.com/brakmic/ngx-perfect-scrollbar-portable",
-      "description": "Angular wrapper library for Perfect Scrollbar.",
       "section": [
         "Third Party Components",
         "Scroll"
@@ -17304,26 +16314,6 @@
       ]
     },
     {
-      "key": "https://github.com/lazycuh/angular-tooltip",
-      "name": "@lazycuh/angular-tooltip",
-      "url": "https://github.com/lazycuh/angular-tooltip",
-      "description": "Easily show tooltips programmatically and/or declaratively in Angular.",
-      "section": [
-        "Third Party Components",
-        "Tooltips"
-      ]
-    },
-    {
-      "key": "https://github.com/bastienmoulia/ngx-overlay",
-      "name": "ngx-overlay",
-      "url": "https://github.com/bastienmoulia/ngx-overlay",
-      "description": "Lightweight Angular library for modern CSS/HTML overlays—modals, tooltips, and popups—browser‑compatible and elegant.",
-      "section": [
-        "Third Party Components",
-        "Tooltips"
-      ]
-    },
-    {
       "key": "https://github.com/techasif/ngx-smart-tooltip",
       "name": "ngx-smart-tooltip",
       "url": "https://github.com/techasif/ngx-smart-tooltip",
@@ -17358,16 +16348,6 @@
       "name": "Zyra UI",
       "url": "https://zyraui.dev/",
       "description": "Modern Angular component library with design tokens, signals, dark-mode-first theming, and WCAG 2.1 AA accessibility.",
-      "section": [
-        "Third Party Components",
-        "UI Libraries"
-      ]
-    },
-    {
-      "key": "https://syncfusion.com/angular-components",
-      "name": "Syncfusion",
-      "url": "https://www.syncfusion.com/angular-components",
-      "description": "Its Essential UI Kit for Angular is compatible with both Tailwind CSS and Bootstrap.",
       "section": [
         "Third Party Components",
         "UI Libraries"
@@ -17584,16 +16564,6 @@
       ]
     },
     {
-      "key": "https://github.com/dyte-io/ui-kit/tree/staging/packages/angular-library",
-      "name": "dyte-io/ui-kit",
-      "url": "https://github.com/dyte-io/ui-kit/tree/staging/packages/angular-library",
-      "description": "Dyte UI Kit: prebuilt components for quick video and voice call integration into any app or website.",
-      "section": [
-        "Third Party Components",
-        "UI Libraries"
-      ]
-    },
-    {
       "key": "https://github.com/kstepien3/ng-zen",
       "name": "ng-zen",
       "url": "https://github.com/kstepien3/ng-zen",
@@ -17608,16 +16578,6 @@
       "name": "ngwr",
       "url": "https://github.com/thekhegay/ngwr",
       "description": "Angular UI kit to make stylish Angular applications.",
-      "section": [
-        "Third Party Components",
-        "UI Libraries"
-      ]
-    },
-    {
-      "key": "https://github.com/WindMillCode/Windmillcode-Angular-CDK",
-      "name": "Windmillcode-Angular-CDK",
-      "url": "https://github.com/WindMillCode/Windmillcode-Angular-CDK",
-      "description": "Provides a collection of reusable UI components, each crafted with attention to detail and performance.",
       "section": [
         "Third Party Components",
         "UI Libraries"
@@ -17648,16 +16608,6 @@
       "name": "po-angular",
       "url": "https://github.com/po-ui/po-angular",
       "description": "Component library based on Angular. Documentation in Portuguese.",
-      "section": [
-        "Third Party Components",
-        "UI Libraries"
-      ]
-    },
-    {
-      "key": "https://github.com/evenuxjs/ngx-nighthawk",
-      "name": "ngx-nighthawk",
-      "url": "https://github.com/evenuxjs/ngx-nighthawk",
-      "description": "A production-ready, enterprise-grade project developed with Bootstrap, offering extensive custom functionality.",
       "section": [
         "Third Party Components",
         "UI Libraries"
@@ -18094,6 +17044,26 @@
       ]
     },
     {
+      "key": "https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular",
+      "name": "atomic-angular",
+      "url": "https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular",
+      "description": "A component library that wraps core Atomic web components to build modern Angular UIs interfacing with the Coveo platform.",
+      "section": [
+        "Third Party Components",
+        "UI Libraries"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/federa-social/libraries/solanda-ui",
+      "name": "solanda-ui",
+      "url": "https://gitlab.com/federa-social/libraries/solanda-ui",
+      "description": "Minimalist Web Components UI library for Vue, Nuxt, React, Angular, Svelte, and vanilla JavaScript.",
+      "section": [
+        "Third Party Components",
+        "UI Libraries"
+      ]
+    },
+    {
       "key": "https://mdbootstrap.com/docs/angular",
       "name": "angular-bootstrap-md",
       "url": "https://mdbootstrap.com/docs/angular/",
@@ -18394,13 +17364,13 @@
       ]
     },
     {
-      "key": "https://github.com/bhaimicrosoft/angular-superui",
-      "name": "angular-superui",
-      "url": "https://github.com/bhaimicrosoft/angular-superui",
-      "description": "Comprehensive Angular UI library with 50+ production‑ready components, built on Tailwind CSS v4, TypeScript, and Angular 17+ Signals.",
+      "key": "https://github.com/sdcorejs/sdcorejs-angular",
+      "name": "sdcorejs-angular",
+      "url": "https://github.com/sdcorejs/sdcorejs-angular",
+      "description": "Reusable Angular UI for data-heavy business applications.",
       "section": [
         "Third Party Components",
-        "UI Libraries built on Tailwind CSS"
+        "UI Libraries built on Material"
       ]
     },
     {
@@ -18764,16 +17734,6 @@
       ]
     },
     {
-      "key": "https://github.com/LennonReid/ionic-component-snippets",
-      "name": "ionic-component-snippets",
-      "url": "https://github.com/LennonReid/ionic-component-snippets",
-      "description": "Repository of unofficial Ionic demos and libraries that can still benefit developers and their apps.",
-      "section": [
-        "Third Party Components",
-        "UI Library and Framework Ionic"
-      ]
-    },
-    {
       "key": "https://github.com/RaschidJFR/ionic-header-parallax",
       "name": "ionic-header-parallax",
       "url": "https://github.com/RaschidJFR/ionic-header-parallax",
@@ -18864,26 +17824,6 @@
       ]
     },
     {
-      "key": "https://github.com/DanielAlcaraz/vacui-ui",
-      "name": "vacui-ui",
-      "url": "https://github.com/DanielAlcaraz/vacui-ui",
-      "description": "A headless Angular library of utility-first, primitives, low-level directives as foundational elements.",
-      "section": [
-        "Third Party Components",
-        "UI Primitives"
-      ]
-    },
-    {
-      "key": "https://github.com/fawadtariq/ngx-headless",
-      "name": "ngx-headless",
-      "url": "https://github.com/fawadtariq/ngx-headless",
-      "description": "A collection of standalone, accessible Angular primitives inspired by Headless UI & FormKit.",
-      "section": [
-        "Third Party Components",
-        "UI Primitives"
-      ]
-    },
-    {
       "key": "https://github.com/ialiaslani/caf",
       "name": "Clean Architecture Frontend",
       "url": "https://github.com/ialiaslani/caf",
@@ -18921,26 +17861,6 @@
       "section": [
         "Third Party Components",
         "UI Primitives"
-      ]
-    },
-    {
-      "key": "https://github.com/ameyb88/file-viewer",
-      "name": "file-viewer",
-      "url": "https://github.com/ameyb88/file-viewer",
-      "description": "A powerful, universal file previewer library for Angular applications with support for PDF, images, documents, spreadsheets, and more.",
-      "section": [
-        "Third Party Components",
-        "Viewers"
-      ]
-    },
-    {
-      "key": "https://github.com/mufasa-dev/Json-diff",
-      "name": "json-diff",
-      "url": "https://github.com/mufasa-dev/Json-diff",
-      "description": "An Angular-powered tool to quickly compare two JSON objects and highlight their differences!",
-      "section": [
-        "Third Party Components",
-        "Viewers"
       ]
     },
     {
@@ -19294,16 +18214,6 @@
       ]
     },
     {
-      "key": "https://github.com/PhilipSh/ngx-device-permission",
-      "name": "ngx-device-permission",
-      "url": "https://github.com/PhilipSh/ngx-device-permission",
-      "description": "Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.",
-      "section": [
-        "Underlying Technologies",
-        "RxJS"
-      ]
-    },
-    {
       "key": "https://github.com/nilsmehlhorn/ngx-operators",
       "name": "ngx-operators",
       "url": "https://github.com/nilsmehlhorn/ngx-operators",
@@ -19354,16 +18264,6 @@
       ]
     },
     {
-      "key": "https://github.com/mrOranger/RxJs",
-      "name": "@mrOranger/RxJs",
-      "url": "https://github.com/mrOranger/RxJs",
-      "description": "Theory with examples about the Reactive Programming paradigm, using the library RxJS.",
-      "section": [
-        "Underlying Technologies",
-        "RxJS"
-      ]
-    },
-    {
       "key": "https://github.com/chrisguttandin/rxjs-broker",
       "name": "rxjs-broker",
       "url": "https://github.com/chrisguttandin/rxjs-broker",
@@ -19378,16 +18278,6 @@
       "name": "rxjs-challenge",
       "url": "https://github.com/AngularWave/rxjs-challenge",
       "description": "A set of little RxJS puzzles to practice your Observable skills.",
-      "section": [
-        "Underlying Technologies",
-        "RxJS"
-      ]
-    },
-    {
-      "key": "https://github.com/henryruhs/rxjs-collection",
-      "name": "rxjs-collection",
-      "url": "https://github.com/henryruhs/rxjs-collection",
-      "description": "RxJS enhanced Array, Map, WeakMap, Set, and WeakSet.",
       "section": [
         "Underlying Technologies",
         "RxJS"
@@ -19428,16 +18318,6 @@
       "name": "subscribable-things",
       "url": "https://github.com/chrisguttandin/subscribable-things",
       "description": "A collection of reactive wrappers for various browser APIs.",
-      "section": [
-        "Underlying Technologies",
-        "RxJS"
-      ]
-    },
-    {
-      "key": "https://github.com/shobeiry/subsiphon",
-      "name": "subsiphon",
-      "url": "https://github.com/shobeiry/subsiphon",
-      "description": "Lightweight utility for managing multiple RxJS subscriptions with indexed/named keys and simple cleanup methods.",
       "section": [
         "Underlying Technologies",
         "RxJS"
@@ -19698,16 +18578,6 @@
       "name": "ngx-reactify",
       "url": "https://github.com/knackstedt/ngx-reactify",
       "description": "Library to make running Angular and React applications together easy.",
-      "section": [
-        "Framework Interoperability",
-        "Cross-Framework Integration"
-      ]
-    },
-    {
-      "key": "https://github.com/john310897/ng-react-bridge",
-      "name": "ng-react-bridge",
-      "url": "https://github.com/john310897/ng-react-bridge",
-      "description": "A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.",
       "section": [
         "Framework Interoperability",
         "Cross-Framework Integration"
@@ -20552,15 +19422,6 @@
       ]
     },
     {
-      "key": "https://github.com/AndreyShashlovDev/flexdi",
-      "name": "flexdi",
-      "url": "https://github.com/AndreyShashlovDev/flexdi",
-      "description": "Flexible, lightweight DI library for React, React Native, and Vue3, inspired by NestJS and Angular.",
-      "section": [
-        "Angular-Inspired Solutions"
-      ]
-    },
-    {
       "key": "https://github.com/Stradivario/gapi",
       "name": "gapi",
       "url": "https://github.com/Stradivario/gapi",
@@ -20624,15 +19485,6 @@
       ]
     },
     {
-      "key": "https://github.com/Gabriel-c0Nsp/Lua-Generate",
-      "name": "Lua-Generate",
-      "url": "https://github.com/Gabriel-c0Nsp/Lua-Generate",
-      "description": "A CLI tool to generate boilerplate code inspired by ng tool from Angular.",
-      "section": [
-        "Angular-Inspired Solutions"
-      ]
-    },
-    {
       "key": "https://github.com/maybebot/named-slots",
       "name": "named-slots",
       "url": "https://github.com/maybebot/named-slots",
@@ -20655,15 +19507,6 @@
       "name": "npm-clang-format-node",
       "url": "https://github.com/lumirlumir/npm-clang-format-node",
       "description": "Node wrapper for LLVM Clang's clang-format and git-clang-format native binaries inspired by clang-format.",
-      "section": [
-        "Angular-Inspired Solutions"
-      ]
-    },
-    {
-      "key": "https://github.com/ozeanjs/ozean",
-      "name": "ozean",
-      "url": "https://github.com/ozeanjs/ozean",
-      "description": "A modern, simple, and high-performance web framework built on the Bun runtime. It provides a development experience and architecture that should be familiar to Angular users.",
       "section": [
         "Angular-Inspired Solutions"
       ]

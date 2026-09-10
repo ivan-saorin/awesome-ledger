@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"bb6a033e20964828bc85e90e7cdae13cb8246a0648e97b74375fddf1c624a8d8\"",
+  "etag": "W/\"cb101c049b652805d92f8eb0d64b2f6d07f4566da86be6ed77e24941a335f30e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -104,33 +104,53 @@
       ]
     },
     {
-      "key": "https://youtube.ndo.dev",
-      "name": "Youtube Dynamic Playlists",
-      "url": "https://youtube.ndo.dev",
-      "description": "Create on-the-fly playlists of YouTube videos.",
+      "key": "https://spotifyedits.com",
+      "name": "Canvas Maker for Spotify Artists",
+      "url": "https://spotifyedits.com",
+      "description": "Make a looping 9:16 Canvas video, artist header, avatar and cover art for a Spotify release. Encodes in the browser with WebCodecs, so files are never uploaded.",
       "section": [
         "Contents",
         "Audio and Video"
       ]
     },
     {
-      "key": "https://shapeshift.io",
-      "name": "ShapeShift.io",
-      "url": "https://shapeshift.io",
-      "description": "Instant cryptocurrency conversion.",
+      "key": "https://videosizereducer.org",
+      "name": "Video Size Reducer",
+      "url": "https://videosizereducer.org",
+      "description": "Compress MP4 videos right in your browser with the WebCodecs API; no upload, no account needed.",
       "section": [
         "Contents",
-        "Business and Finance"
+        "Audio and Video"
       ]
     },
     {
-      "key": "https://cryptrader.com",
-      "name": "Cryptrader.com",
-      "url": "https://cryptrader.com",
-      "description": "Cryptocurrency price charts and indicators. Saving your settings requires an account.",
+      "key": "https://audiotest.io",
+      "name": "audiotest.io",
+      "url": "https://audiotest.io",
+      "description": "Free in-browser audio test toolkit with stereo left/right channel test, frequency sweep, tone generator, bass response test, headphone test and tinnitus frequency test. All tests run client-side, bilingual EN/ZH.",
       "section": [
         "Contents",
-        "Business and Finance"
+        "Audio and Video"
+      ]
+    },
+    {
+      "key": "https://whisperweb.dev",
+      "name": "Whisper Web",
+      "url": "https://whisperweb.dev/",
+      "description": "Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.",
+      "section": [
+        "Contents",
+        "Audio and Video"
+      ]
+    },
+    {
+      "key": "https://vizz.fm",
+      "name": "Vizz.fm",
+      "url": "https://vizz.fm",
+      "description": "Browser-based music visualizer with customizable scenes and presets.",
+      "section": [
+        "Contents",
+        "Audio and Video"
       ]
     },
     {
@@ -144,20 +164,30 @@
       ]
     },
     {
-      "key": "https://icostats.com",
-      "name": "ICOStats.com",
-      "url": "https://icostats.com/",
-      "description": "Track & compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.",
+      "key": "https://invoiceto.me",
+      "name": "InvoiceToMe",
+      "url": "https://invoiceto.me/",
+      "description": "Generate professional invoices from various templates with your company details.",
       "section": [
         "Contents",
         "Business and Finance"
       ]
     },
     {
-      "key": "https://invoiceto.me",
-      "name": "InvoiceToMe",
-      "url": "https://invoiceto.me/",
-      "description": "Generate professional invoices from various templates with your company details.",
+      "key": "https://shiftdispatchhq.com/schedule-builder",
+      "name": "ShiftDispatch Schedule Builder",
+      "url": "https://shiftdispatchhq.com/schedule-builder",
+      "description": "Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.",
+      "section": [
+        "Contents",
+        "Business and Finance"
+      ]
+    },
+    {
+      "key": "https://quotechime.pages.dev",
+      "name": "QuoteChime",
+      "url": "https://quotechime.pages.dev/?ref=awesomenologin#generator",
+      "description": "Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.",
       "section": [
         "Contents",
         "Business and Finance"
@@ -228,16 +258,6 @@
       "name": "FaxZero",
       "url": "https://faxzero.com/",
       "description": "Send an online fax for free.",
-      "section": [
-        "Contents",
-        "Communication"
-      ]
-    },
-    {
-      "key": "https://a2fax.com",
-      "name": "A2fax",
-      "url": "https://www.a2fax.com/",
-      "description": "Send free faxes online. No ads on cover pages. Add your own logo to cover page.",
       "section": [
         "Contents",
         "Communication"
@@ -331,17 +351,6 @@
       ]
     },
     {
-      "key": "https://amitmerchant.com/markdownify-web",
-      "name": "Markdownify",
-      "url": "http://www.amitmerchant.com/markdownify-web/",
-      "description": "Minimal Markdown editor.",
-      "section": [
-        "Contents",
-        "Document Editors",
-        "Markdown"
-      ]
-    },
-    {
       "key": "https://stackedit.io",
       "name": "StackEdit.io",
       "url": "https://stackedit.io/",
@@ -397,9 +406,20 @@
       ]
     },
     {
-      "key": "https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html",
+      "key": "https://tablesmit.com",
+      "name": "Tablesmit",
+      "url": "https://tablesmit.com",
+      "description": "A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.",
+      "section": [
+        "Contents",
+        "Document Editors",
+        "Others"
+      ]
+    },
+    {
+      "key": "https://svg-edit.github.io/svgedit/svg-editor.html",
       "name": "SVG-Edit",
-      "url": "https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html",
+      "url": "https://svg-edit.github.io/svgedit/svg-editor.html",
       "description": "Powerful SVG editor with lots of features. Open source.",
       "section": [
         "Contents",
@@ -411,16 +431,6 @@
       "name": "Method Draw",
       "url": "http://editor.method.ac/",
       "description": "Clean and feature-rich SVG editor. Exports to PNG.",
-      "section": [
-        "Contents",
-        "Drawing"
-      ]
-    },
-    {
-      "key": "https://awwapp.com",
-      "name": "A Web Whiteboard",
-      "url": "https://awwapp.com/",
-      "description": "Touch-friendly online collaborative whiteboard app.",
       "section": [
         "Contents",
         "Drawing"
@@ -527,6 +537,16 @@
       ]
     },
     {
+      "key": "https://mapdraw.net",
+      "name": "MapDraw",
+      "url": "https://www.mapdraw.net/",
+      "description": "Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.",
+      "section": [
+        "Contents",
+        "Drawing"
+      ]
+    },
+    {
       "key": "https://cloudconvert.com",
       "name": "Cloud Convert",
       "url": "https://cloudconvert.com/",
@@ -617,6 +637,26 @@
       ]
     },
     {
+      "key": "https://exceltomd.com/excel-to-markdown",
+      "name": "Excel to Markdown",
+      "url": "https://exceltomd.com/excel-to-markdown",
+      "description": "Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.",
+      "section": [
+        "Contents",
+        "File Converters"
+      ]
+    },
+    {
+      "key": "https://picute.net/en/tools/srt-to-vtt-converter",
+      "name": "Picute Subtitle Converter",
+      "url": "https://picute.net/en/tools/srt-to-vtt-converter",
+      "description": "Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.",
+      "section": [
+        "Contents",
+        "File Converters"
+      ]
+    },
+    {
       "key": "https://efshare.com",
       "name": "EFShare",
       "url": "http://efshare.com/",
@@ -687,10 +727,20 @@
       ]
     },
     {
-      "key": "https://send.firefox.com",
-      "name": "Firefox Send",
-      "url": "https://send.firefox.com",
-      "description": "Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.",
+      "key": "https://harvis.dev",
+      "name": "harvis.dev",
+      "url": "https://harvis.dev/",
+      "description": "Static website hosting without an account. Drag in a folder (or run npx harvis) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.",
+      "section": [
+        "Contents",
+        "File Hosting/Sharing"
+      ]
+    },
+    {
+      "key": "https://cv.cm",
+      "name": "cv.cm",
+      "url": "https://cv.cm/",
+      "description": "Paste text, images, audio, video or files and get an ultra-short link to share; with Markdown, code highlighting and auto-translation.",
       "section": [
         "Contents",
         "File Hosting/Sharing"
@@ -817,10 +867,50 @@
       ]
     },
     {
+      "key": "https://tableparty.io",
+      "name": "Table Party",
+      "url": "https://tableparty.io/",
+      "description": "Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.",
+      "section": [
+        "Contents",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://monteams.com",
+      "name": "Monteams",
+      "url": "https://monteams.com",
+      "description": "Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.",
+      "section": [
+        "Contents",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://everhall.ca",
+      "name": "Double Cross",
+      "url": "https://everhall.ca",
+      "description": "A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.",
+      "section": [
+        "Contents",
+        "Games"
+      ]
+    },
+    {
       "key": "https://photopea.com",
       "name": "PhotoPea",
       "url": "https://www.photopea.com/",
       "description": "Image editor that looks like Photoshop and has most of its features.",
+      "section": [
+        "Contents",
+        "Graphics, Image and Design"
+      ]
+    },
+    {
+      "key": "https://digicamfilter.online",
+      "name": "DigicamFilter",
+      "url": "https://digicamfilter.online/",
+      "description": "Adds an old-camera look (CCD, iPhone 4, disposable, Y2K, film grain) to your photos. Runs fully in the browser, nothing uploaded.",
       "section": [
         "Contents",
         "Graphics, Image and Design"
@@ -917,16 +1007,6 @@
       ]
     },
     {
-      "key": "https://burner.bonanza.com",
-      "name": "Burner Bonanza",
-      "url": "https://burner.bonanza.com/",
-      "description": "[Account] - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.",
-      "section": [
-        "Contents",
-        "Graphics, Image and Design"
-      ]
-    },
-    {
       "key": "https://icomoon.io/app",
       "name": "IcoMoon",
       "url": "https://icomoon.io/app/",
@@ -941,16 +1021,6 @@
       "name": "Flaming Text",
       "url": "http://flamingtext.com/",
       "description": "An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.",
-      "section": [
-        "Contents",
-        "Graphics, Image and Design"
-      ]
-    },
-    {
-      "key": "https://leanlogomaker.com",
-      "name": "LeanLogoMaker",
-      "url": "https://leanlogomaker.com",
-      "description": "Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.",
       "section": [
         "Contents",
         "Graphics, Image and Design"
@@ -997,6 +1067,36 @@
       ]
     },
     {
+      "key": "https://typingwordsgif.com",
+      "name": "Typing Words GIF",
+      "url": "https://typingwordsgif.com/",
+      "description": "Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.",
+      "section": [
+        "Contents",
+        "Graphics, Image and Design"
+      ]
+    },
+    {
+      "key": "https://iconking.net",
+      "name": "IconKing",
+      "url": "https://iconking.net",
+      "description": "Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.",
+      "section": [
+        "Contents",
+        "Graphics, Image and Design"
+      ]
+    },
+    {
+      "key": "https://tyr1105.github.io/shotframe",
+      "name": "ShotFrame",
+      "url": "https://tyr1105.github.io/shotframe/",
+      "description": "Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.",
+      "section": [
+        "Contents",
+        "Graphics, Image and Design"
+      ]
+    },
+    {
       "key": "https://en.savefrom.net",
       "name": "savefrom.net",
       "url": "http://en.savefrom.net/",
@@ -1007,30 +1107,10 @@
       ]
     },
     {
-      "key": "https://onlinevideoconverter.com/video-converter",
-      "name": "Youtube Converter & Downloader",
-      "url": "https://www.onlinevideoconverter.com/video-converter",
-      "description": "Download YouTube video in any audio/video format.",
-      "section": [
-        "Contents",
-        "Internet Downloaders"
-      ]
-    },
-    {
       "key": "https://keepvid.com",
       "name": "keepvid",
       "url": "http://keepvid.com/",
       "description": "YouTube, SoundCloud, Facebook downloader.",
-      "section": [
-        "Contents",
-        "Internet Downloaders"
-      ]
-    },
-    {
-      "key": "https://https//doonline.cc/video-downloader-converter.html",
-      "name": "dOnline",
-      "url": "http://https://doonline.cc/video-downloader-converter.html/",
-      "description": "Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook downloader.",
       "section": [
         "Contents",
         "Internet Downloaders"
@@ -1087,30 +1167,10 @@
       ]
     },
     {
-      "key": "https://stitcher.com",
-      "name": "Stitcher",
-      "url": "http://www.stitcher.com/",
-      "description": "Listen to podcast online.",
-      "section": [
-        "Contents",
-        "Music, Radio and Podcasts"
-      ]
-    },
-    {
       "key": "https://anyaudio.in",
       "name": "AnyAudio",
       "url": "http://anyaudio.in/",
       "description": "Stream and download music.",
-      "section": [
-        "Contents",
-        "Music, Radio and Podcasts"
-      ]
-    },
-    {
-      "key": "https://muki.io",
-      "name": "Muki",
-      "url": "https://muki.io",
-      "description": "WebAudio-based chiptune & MIDI player, with a nice collection of video game music.",
       "section": [
         "Contents",
         "Music, Radio and Podcasts"
@@ -1327,6 +1387,16 @@
       ]
     },
     {
+      "key": "https://metadataremover.ai",
+      "name": "MetadataRemover.ai",
+      "url": "https://metadataremover.ai/",
+      "description": "Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.",
+      "section": [
+        "Contents",
+        "Privacy, Security and Cryptography"
+      ]
+    },
+    {
       "key": "https://tutorialspoint.com/codingground.htm",
       "name": "TutorialsPoint Online Tools",
       "url": "https://www.tutorialspoint.com/codingground.htm",
@@ -1377,16 +1447,6 @@
       ]
     },
     {
-      "key": "https://c9.io",
-      "name": "Cloud9",
-      "url": "https://c9.io/",
-      "description": "[Account] - Very powerful online dev environment, just like your local PC.",
-      "section": [
-        "Contents",
-        "Programming Editors and IDEs"
-      ]
-    },
-    {
       "key": "https://codepen.io",
       "name": "Codepen.io",
       "url": "https://codepen.io/",
@@ -1407,30 +1467,10 @@
       ]
     },
     {
-      "key": "https://codenvy.com",
-      "name": "Codenvy",
-      "url": "https://codenvy.com",
-      "description": "[Account] - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.",
-      "section": [
-        "Contents",
-        "Programming Editors and IDEs"
-      ]
-    },
-    {
       "key": "https://sqlfiddle.com",
       "name": "SQLFiddle",
       "url": "http://sqlfiddle.com/",
       "description": "Tool for easy online testing and sharing of database problems and their solutions.",
-      "section": [
-        "Contents",
-        "Programming Editors and IDEs"
-      ]
-    },
-    {
-      "key": "https://fatiherikli.github.io/brainfuck-visualizer",
-      "name": "Brainfuck Visualizer",
-      "url": "http://fatiherikli.github.io/brainfuck-visualizer/",
-      "description": "Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.",
       "section": [
         "Contents",
         "Programming Editors and IDEs"
@@ -1447,9 +1487,9 @@
       ]
     },
     {
-      "key": "https://dartpad.dartlang.org",
+      "key": "https://dartpad.dev",
       "name": "DartPad",
-      "url": "https://dartpad.dartlang.org/",
+      "url": "https://dartpad.dev/",
       "description": "DartPad is an open-source tool that lets you play with the Dart language in any modern browser.",
       "section": [
         "Contents",
@@ -1481,16 +1521,6 @@
       "name": "HTML minifier by @kangax",
       "url": "https://kangax.github.io/html-minifier/",
       "description": "HTML minifier. Minifies inline CSS and JavaScript too.",
-      "section": [
-        "Contents",
-        "Programming Tools"
-      ]
-    },
-    {
-      "key": "https://javascriptcompressor.com",
-      "name": "JavaScript compressor",
-      "url": "http://javascriptcompressor.com/",
-      "description": "JavaScript compressor and obfuscater.",
       "section": [
         "Contents",
         "Programming Tools"
@@ -1577,16 +1607,6 @@
       ]
     },
     {
-      "key": "https://phpform.org",
-      "name": "pForm",
-      "url": "http://www.phpform.org/",
-      "description": "Create HTML forms through a simple WYSIWYG GUI and download the corresponding code.",
-      "section": [
-        "Contents",
-        "Programming Tools"
-      ]
-    },
-    {
       "key": "https://autoprefixer.github.io",
       "name": "CSS Autoprefixer",
       "url": "https://autoprefixer.github.io/",
@@ -1657,6 +1677,26 @@
       ]
     },
     {
+      "key": "https://mydentify.com/tools/ai-crawler-access-checker",
+      "name": "Mydentify AI Crawler Access Checker",
+      "url": "https://mydentify.com/tools/ai-crawler-access-checker",
+      "description": "Checks robots.txt, page-level crawler directives, and responses to documented ChatGPT and Claude crawler user-agent names without login; it cannot verify official provider IPs.",
+      "section": [
+        "Contents",
+        "Programming Tools"
+      ]
+    },
+    {
+      "key": "https://acento.io/en/jwt-decoder",
+      "name": "Acento JWT Decoder",
+      "url": "https://www.acento.io/en/jwt-decoder/",
+      "description": "Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.",
+      "section": [
+        "Contents",
+        "Programming Tools"
+      ]
+    },
+    {
       "key": "https://iconfinder.com",
       "name": "Iconfinder",
       "url": "https://www.iconfinder.com/",
@@ -1671,16 +1711,6 @@
       "name": "Emoji Search Online",
       "url": "https://www.webpagefx.com/tools/emoji-cheat-sheet/",
       "description": "Intelligent emoji search engine.",
-      "section": [
-        "Contents",
-        "Search Engines"
-      ]
-    },
-    {
-      "key": "https://ctrlq.org/rss",
-      "name": "RSS Feed Search",
-      "url": "http://ctrlq.org/rss/",
-      "description": "Find RSS feeds from search terms.",
       "section": [
         "Contents",
         "Search Engines"
@@ -1707,9 +1737,9 @@
       ]
     },
     {
-      "key": "https://google.com/webfonts",
+      "key": "https://fonts.google.com",
       "name": "Google Fonts",
-      "url": "https://www.google.com/webfonts",
+      "url": "https://fonts.google.com/",
       "description": "Collection of open-source fonts by google.",
       "section": [
         "Contents",
@@ -1797,16 +1827,6 @@
       ]
     },
     {
-      "key": "https://calcul.com",
-      "name": "Calcul",
-      "url": "http://www.calcul.com",
-      "description": "Collection of different calculators including matrix, unit converters, mathematical distributions and more.",
-      "section": [
-        "Contents",
-        "Study and Education"
-      ]
-    },
-    {
       "key": "https://wordsafety.com",
       "name": "Word Safety",
       "url": "http://wordsafety.com/",
@@ -1851,6 +1871,16 @@
       "name": "KeepFormula",
       "url": "https://keepformula.github.io/",
       "description": "Keep Formula is a simple app to make your calculations easier.",
+      "section": [
+        "Contents",
+        "Study and Education"
+      ]
+    },
+    {
+      "key": "https://randomanimalpicker.com",
+      "name": "Random Animal Picker",
+      "url": "https://randomanimalpicker.com/",
+      "description": "Discover real animals through photos, concise facts, source links, and related species without creating an account.",
       "section": [
         "Contents",
         "Study and Education"
@@ -2027,16 +2057,6 @@
       ]
     },
     {
-      "key": "https://exif.regex.info/exif.cgi",
-      "name": "Image Metadata Viewer",
-      "url": "http://exif.regex.info/exif.cgi",
-      "description": "View hidden data (metadata) of any image.",
-      "section": [
-        "Contents",
-        "Utilities (uncategorized)"
-      ]
-    },
-    {
       "key": "https://whoishostingthis.com",
       "name": "WhoIsHostingThis",
       "url": "http://www.whoishostingthis.com/",
@@ -2067,30 +2087,10 @@
       ]
     },
     {
-      "key": "https://talltweets.com",
-      "name": "TallTweets",
-      "url": "http://talltweets.com/",
-      "description": "Send tweets longer than 140 characters.",
-      "section": [
-        "Contents",
-        "Utilities (uncategorized)"
-      ]
-    },
-    {
       "key": "https://postfity.com",
       "name": "Postify",
       "url": "http://postfity.com/",
       "description": "[Account] - Schedule posts on Facebook, Twitter & LinkedIn.",
-      "section": [
-        "Contents",
-        "Utilities (uncategorized)"
-      ]
-    },
-    {
-      "key": "https://wrd.bih.nic.in/font_KtoU.htm",
-      "name": "Krutidev <--> Unicode",
-      "url": "http://wrd.bih.nic.in/font_KtoU.htm",
-      "description": "Convert Krutidev to Unicode (Mangal) and vice versa in one click.",
       "section": [
         "Contents",
         "Utilities (uncategorized)"
@@ -2137,20 +2137,50 @@
       ]
     },
     {
-      "key": "https://meditation.koti.cloud",
-      "name": "Meditation Timer",
-      "url": "https://meditation.koti.cloud/",
-      "description": "A meditation timer to keep track of your sessions.",
+      "key": "https://bucketlisty.com",
+      "name": "Bucket Listy",
+      "url": "https://bucketlisty.com/",
+      "description": "Bucket list manager with unique ideas where you can add your own.",
       "section": [
         "Contents",
         "Utilities (uncategorized)"
       ]
     },
     {
-      "key": "https://bucketlisty.com",
-      "name": "Bucket Listy",
-      "url": "https://bucketlisty.com/",
-      "description": "Bucket list manager with unique ideas where you can add your own.",
+      "key": "https://folicle.app/tools",
+      "name": "Folicle Hair Self-Checks",
+      "url": "https://folicle.app/tools",
+      "description": "Free Norwood scale, Ludwig scale and hair-shedding self-check calculators that run entirely in the browser with no signup.",
+      "section": [
+        "Contents",
+        "Utilities (uncategorized)"
+      ]
+    },
+    {
+      "key": "https://wegowhen.com",
+      "name": "WeGoWhen",
+      "url": "https://wegowhen.com",
+      "description": "Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.",
+      "section": [
+        "Contents",
+        "Utilities (uncategorized)"
+      ]
+    },
+    {
+      "key": "https://arynjennen1989-stack.github.io",
+      "name": "Zero Dollar Domains",
+      "url": "https://arynjennen1989-stack.github.io/",
+      "description": "Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.",
+      "section": [
+        "Contents",
+        "Utilities (uncategorized)"
+      ]
+    },
+    {
+      "key": "https://barcodegen.net",
+      "name": "BarcodeGen",
+      "url": "https://www.barcodegen.net",
+      "description": "Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.",
       "section": [
         "Contents",
         "Utilities (uncategorized)"
@@ -2291,6 +2321,16 @@
       "name": "3dHousePlanner",
       "url": "https://www.3dhouseplanner.com/",
       "description": "3D home design application on the web.",
+      "section": [
+        "Contents",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://lunatarotapp.com",
+      "name": "Luna Tarot",
+      "url": "https://www.lunatarotapp.com",
+      "description": "Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.",
       "section": [
         "Contents",
         "Miscellaneous"

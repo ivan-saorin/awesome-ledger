@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9172fb4afafad3dbc79c75e0e461d4e50ede3cede4e10b86184b85501ddd73ea\"",
+  "etag": "W/\"6907c20ccb44fa1e9e8020be1b37feab42b27e482cd3ce6b30f034a902a61cbb\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -31,6 +31,15 @@
       ]
     },
     {
+      "key": "https://homematic-forum.de/forum/viewtopic.php?t=46890",
+      "name": "Homematic Forum: Addons & Tools Übersicht",
+      "url": "https://homematic-forum.de/forum/viewtopic.php?t=46890",
+      "description": "Übersicht über Addons und Tools für CCU / OpenCCU.",
+      "section": [
+        "Community Ressources (mostly german language)"
+      ]
+    },
+    {
       "key": "https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801",
       "name": "Homematic Forum: HomeMatic - Tipps für Anfänger",
       "url": "https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801",
@@ -52,7 +61,7 @@
       "key": "https://homematic-inside.de",
       "name": "Homematic Inside",
       "url": "https://www.homematic-inside.de/",
-      "description": "News, Blog, Tutorials und mehr.",
+      "description": "News, Blog, Tutorials und mehr (wird nicht weitergeführt, bleibt als Archiv online).",
       "section": [
         "Community Ressources (mostly german language)"
       ]
@@ -70,15 +79,6 @@
       "key": "https://technikkram.net",
       "name": "Technikkram",
       "url": "https://technikkram.net",
-      "description": "News, Blog, Tutorials und mehr.",
-      "section": [
-        "Community Ressources (mostly german language)"
-      ]
-    },
-    {
-      "key": "https://ownsmarthome.de/category/homematic",
-      "name": "OwnSmartHome",
-      "url": "https://ownsmarthome.de/category/homematic/",
       "description": "News, Blog, Tutorials und mehr.",
       "section": [
         "Community Ressources (mostly german language)"
@@ -103,10 +103,10 @@
       ]
     },
     {
-      "key": "https://git.zerfleddert.de/hmcfgusb/AES",
-      "name": "Dissecting HomeMatic AES",
-      "url": "https://git.zerfleddert.de/hmcfgusb/AES/",
-      "description": "BidCos Protocol AES Handshake description.",
+      "key": "https://github.com/homematic-community/ccu-addon-howto",
+      "name": "ccu-addon-howto",
+      "url": "https://github.com/homematic-community/ccu-addon-howto",
+      "description": "Howto für die Entwicklung von Addons für die Homematic CCU und OpenCCU.",
       "section": [
         "Documentation"
       ]
@@ -121,10 +121,46 @@
       ]
     },
     {
-      "key": "https://youtube.com/watch?v=Cwxwtig6Q1I",
-      "name": "Virtuelle Aktorkanäle",
-      "url": "https://www.youtube.com/watch?v=Cwxwtig6Q1I",
-      "description": "Vortrag von Frank Grass.",
+      "key": "https://git.zerfleddert.de/hmcfgusb/AES",
+      "name": "Dissecting HomeMatic AES",
+      "url": "https://git.zerfleddert.de/hmcfgusb/AES/",
+      "description": "BidCos Protocol AES Handshake description.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://eq-3.de/downloads/download/homematic/hm_web_ui_doku/HM-Skript_Teil_1_Sprachbeschreibung_V2.3.pdf",
+      "name": "HomeMatic-Script Dokumentation",
+      "url": "https://www.eq-3.de/downloads/download/homematic/hm_web_ui_doku/HM-Skript_Teil_1_Sprachbeschreibung_V2.3.pdf",
+      "description": "Offizielle Dokumentation von eQ-3: Teil 1 Sprachbeschreibung, Teil 2 Objektmodell, Teil 3 Beispiele, Teil 4 Datenpunkte.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://eq-3.de/Downloads/eq3/download%20bereich/hm_web_ui_doku/HM_XmlRpc_API.pdf",
+      "name": "HomeMatic XML-RPC API",
+      "url": "https://www.eq-3.de/Downloads/eq3/download%20bereich/hm_web_ui_doku/HM_XmlRpc_API.pdf",
+      "description": "Offizielle Spezifikation der XML-RPC Schnittstelle der Interface-Prozesse von eQ-3.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196",
+      "name": "Keymatic Konfiguration",
+      "url": "https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196",
+      "description": "Beitrag von rewe0815 im Homematic Forum.",
+      "section": [
+        "Documentation"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenCCU/OpenCCU/wiki",
+      "name": "OpenCCU Wiki",
+      "url": "https://github.com/OpenCCU/OpenCCU/wiki",
+      "description": "Installation, Administration und Nutzung von OpenCCU.",
       "section": [
         "Documentation"
       ]
@@ -139,10 +175,10 @@
       ]
     },
     {
-      "key": "https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196",
-      "name": "Keymatic Konfiguration",
-      "url": "https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196",
-      "description": "Beitrag von rewe0815 im Homematic Forum.",
+      "key": "https://youtube.com/watch?v=Cwxwtig6Q1I",
+      "name": "Virtuelle Aktorkanäle",
+      "url": "https://www.youtube.com/watch?v=Cwxwtig6Q1I",
+      "description": "Vortrag von Frank Grass.",
       "section": [
         "Documentation"
       ]
@@ -161,24 +197,6 @@
       "name": "HistClient",
       "url": "https://www.sa-com.de/smarthome-special/histclient-handbuch/",
       "description": "(💵 inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android",
-      "section": [
-        "Mobile Apps"
-      ]
-    },
-    {
-      "key": "https://home-24.net/index.php?app=home24&page=sites/home.php",
-      "name": "Home-24",
-      "url": "http://www.home-24.net/index.php?page=sites/home.php&app=home24",
-      "description": "💵 Android",
-      "section": [
-        "Mobile Apps"
-      ]
-    },
-    {
-      "key": "https://ksquare.de/myhomecontrol",
-      "name": "HomeControl",
-      "url": "http://www.ksquare.de/myhomecontrol/",
-      "description": "💵 iOS",
       "section": [
         "Mobile Apps"
       ]
@@ -220,19 +238,28 @@
       ]
     },
     {
-      "key": "https://github.com/angelnu/docker-ccu",
-      "name": "docker-ccu",
-      "url": "https://github.com/angelnu/docker-ccu",
-      "description": "Homematic CCU firmware running as Docker container on arm and (emulated) x86.",
+      "key": "https://homegear.eu/index.php/Main_Page",
+      "name": "Homegear",
+      "url": "https://homegear.eu/index.php/Main_Page",
+      "description": "Free and open source program to interface your smart home devices with your home automation software or your own scripts.",
       "section": [
         "CCU Alternatives"
       ]
     },
     {
-      "key": "https://homegear.eu/index.php/Main_Page",
-      "name": "Homegear",
-      "url": "https://homegear.eu/index.php/Main_Page",
-      "description": "Free and open source program to interface your smart home devices with your home automation software or your own scripts.",
+      "key": "https://github.com/eq-3/occu",
+      "name": "OCCU",
+      "url": "https://github.com/eq-3/occu",
+      "description": "The HM-OCCU-SDK published by eQ-3, the base of debmatic, piVCCU and OpenCCU.",
+      "section": [
+        "CCU Alternatives"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenCCU/OpenCCU",
+      "name": "OpenCCU",
+      "url": "https://github.com/OpenCCU/OpenCCU",
+      "description": "Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi, x86/ARM or as virtual appliance (formerly known as RaspberryMatic).",
       "section": [
         "CCU Alternatives"
       ]
@@ -247,12 +274,12 @@
       ]
     },
     {
-      "key": "https://github.com/jens-maus/RaspberryMatic",
-      "name": "RaspberryMatic",
-      "url": "https://github.com/jens-maus/RaspberryMatic",
-      "description": "Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.",
+      "key": "https://asksinpp.de",
+      "name": "AskSin++",
+      "url": "https://asksinpp.de/",
+      "description": "Dokumentation, Sketche und Community-Projekte rund um Selbstbau-Komponenten für HomeMatic auf Basis von Arduino/STM32 und CC1101.",
       "section": [
-        "CCU Alternatives"
+        "Alternative Sensors, Actuators and Hardware Modifications"
       ]
     },
     {
@@ -278,6 +305,33 @@
       "name": "HAUS-BUS.DE",
       "url": "http://www.haus-bus.de/",
       "description": "💵 Homematic Wired kompatible Geräte.",
+      "section": [
+        "Alternative Sensors, Actuators and Hardware Modifications"
+      ]
+    },
+    {
+      "key": "https://github.com/alexreinert/HB-RF-ETH",
+      "name": "HB-RF-ETH",
+      "url": "https://github.com/alexreinert/HB-RF-ETH",
+      "description": "Platine und Firmware um ein Homematic Funkmodul (HM-MOD-RPI-PCB, RPI-RF-MOD) per Netzwerk an debmatic oder piVCCU anzubinden.",
+      "section": [
+        "Alternative Sensors, Actuators and Hardware Modifications"
+      ]
+    },
+    {
+      "key": "https://github.com/Xerolux/HB-RF-ETH-ng",
+      "name": "HB-RF-ETH-ng",
+      "url": "https://github.com/Xerolux/HB-RF-ETH-ng",
+      "description": "Modernisierte Next-Generation-Firmware für die HB-RF-ETH Platine mit neuer Weboberfläche und MQTT-Monitoring.",
+      "section": [
+        "Alternative Sensors, Actuators and Hardware Modifications"
+      ]
+    },
+    {
+      "key": "https://github.com/jp112sdl/HB-UNI-Sen-WEA",
+      "name": "HB-UNI-Sen-WEA",
+      "url": "https://github.com/jp112sdl/HB-UNI-Sen-WEA",
+      "description": "Selbstbau-Wetterstation für HomeMatic.",
       "section": [
         "Alternative Sensors, Actuators and Hardware Modifications"
       ]
@@ -310,18 +364,36 @@
       ]
     },
     {
-      "key": "https://homematic-inside.de/software/tag/Zusatzsoftware",
+      "key": "https://github.com/firsttris/ccu-addon-mui",
+      "name": "ccu-addon-mui",
+      "url": "https://github.com/firsttris/ccu-addon-mui",
+      "description": "Moderne, responsive Progressive Web App (PWA) für die CCU3 mit integriertem WebSocket-Server.",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/jens-maus/cuxd",
       "name": "CUxD",
-      "url": "https://www.homematic-inside.de/software/tag/Zusatzsoftware",
+      "url": "https://github.com/jens-maus/cuxd",
       "description": "Der \"Leatherman\" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.",
       "section": [
         "CCU Addons"
       ]
     },
     {
-      "key": "https://github.com/jens-maus/hm_email",
+      "key": "https://github.com/homematic-community/CUxD-Highcharts",
+      "name": "CUxD-Highcharts",
+      "url": "https://github.com/homematic-community/CUxD-Highcharts",
+      "description": "Visualisiert CUxD DEVLOGS mit Highcharts/Highstock (verwaist, Maintainer gesucht).",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/hm_email",
       "name": "Email",
-      "url": "https://github.com/jens-maus/hm_email",
+      "url": "https://github.com/homematic-community/hm_email",
       "description": "HomeMatic CCU Addon für den Email Versand.",
       "section": [
         "CCU Addons"
@@ -331,16 +403,34 @@
       "key": "https://github.com/thkl/hap-homematic",
       "name": "HAP-HomeMatic",
       "url": "https://github.com/thkl/hap-homematic",
-      "description": "RaspberryMatic / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like https://github.com/thkl/homebridge-homematic but without homebridge.",
+      "description": "OpenCCU / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like https://github.com/thkl/homebridge-homematic but without homebridge (archived).",
       "section": [
         "CCU Addons"
       ]
     },
     {
-      "key": "https://github.com/litti/hm-print",
+      "key": "https://github.com/cthil/hm-influxdb2",
+      "name": "hm-influxdb2",
+      "url": "https://github.com/cthil/hm-influxdb2",
+      "description": "Addon for the CCU3/OpenCCU to log data from devices into an InfluxDB2.",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/hm-print",
       "name": "hm-print",
-      "url": "https://github.com/litti/hm-print",
+      "url": "https://github.com/homematic-community/hm-print",
       "description": "CCU Programme drucken.",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/hm-sonos",
+      "name": "hm-sonos",
+      "url": "https://github.com/homematic-community/hm-sonos",
+      "description": "HomeMatic CCU Addon zur Steuerung von Sonos Playern.",
       "section": [
         "CCU Addons"
       ]
@@ -349,25 +439,16 @@
       "key": "https://github.com/fhetty/hm-tools",
       "name": "hm-tools",
       "url": "https://github.com/fhetty/hm-tools",
-      "description": "Sammlung von Tools für RaspberryMatic.",
+      "description": "Sammlung von Tools für OpenCCU.",
       "section": [
         "CCU Addons"
       ]
     },
     {
-      "key": "https://github.com/jens-maus/hm_pdetect",
+      "key": "https://github.com/homematic-community/hm_pdetect",
       "name": "hm_pdetect",
-      "url": "https://github.com/jens-maus/hm_pdetect",
+      "url": "https://github.com/homematic-community/hm_pdetect",
       "description": "Anwesenheitserkennung über die FRITZ!-Box",
-      "section": [
-        "CCU Addons"
-      ]
-    },
-    {
-      "key": "https://contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html",
-      "name": "Homeputer",
-      "url": "https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html",
-      "description": "💵",
       "section": [
         "CCU Addons"
       ]
@@ -376,7 +457,7 @@
       "key": "https://github.com/j-a-n/homematic-addon-hue",
       "name": "Homematic-addon-hue",
       "url": "https://github.com/j-a-n/homematic-addon-hue",
-      "description": "HomeMatic Addon für Philips Hue.",
+      "description": "HomeMatic Addon für Philips Hue (archiviert).",
       "section": [
         "CCU Addons"
       ]
@@ -385,7 +466,34 @@
       "key": "https://github.com/alexreinert/homematic_check_mk",
       "name": "homematic_check_mk",
       "url": "https://github.com/alexreinert/homematic_check_mk",
-      "description": "Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.",
+      "description": "Addon for the Homematic CCU2 or an OpenCCU device which acts as an check_mk_agent.",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/jaroschek/homematic-node-exporter",
+      "name": "homematic-node-exporter",
+      "url": "https://github.com/jaroschek/homematic-node-exporter",
+      "description": "Prometheus Node Exporter packaged as Addon for the Homematic CCU3 and OpenCCU.",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/hq-webui",
+      "name": "HQ-WebUI",
+      "url": "https://github.com/homematic-community/hq-webui",
+      "description": "Schnelles alternatives WebUI für die Homematic CCU mit Skript-Editor (verwaist, Maintainer gesucht).",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/jp112sdl/JP-HB-Devices-addon",
+      "name": "JP-HB-Devices-addon",
+      "url": "https://github.com/jp112sdl/JP-HB-Devices-addon",
+      "description": "Addon das über 80 Selbstbau-Geräte (AskSinPP HomeBrew) in die CCU/OpenCCU Firmware integriert.",
       "section": [
         "CCU Addons"
       ]
@@ -400,10 +508,10 @@
       ]
     },
     {
-      "key": "https://github.com/hobbyquaker/ccu-addon-mosquitto",
+      "key": "https://github.com/homematic-community/ccu-addon-mosquitto",
       "name": "Mosquitto",
-      "url": "https://github.com/hobbyquaker/ccu-addon-mosquitto",
-      "description": "Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic",
+      "url": "https://github.com/homematic-community/ccu-addon-mosquitto",
+      "description": "Mosquitto packaged as Addon for the Homematic CCU3 and OpenCCU",
       "section": [
         "CCU Addons"
       ]
@@ -418,19 +526,10 @@
       ]
     },
     {
-      "key": "https://github.com/j-a-n/raspberrymatic-addon-rmupdate",
-      "name": "rmupdate",
-      "url": "https://github.com/j-a-n/raspberrymatic-addon-rmupdate",
-      "description": "RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren",
-      "section": [
-        "CCU Addons"
-      ]
-    },
-    {
       "key": "https://github.com/hobbyquaker/ccu-addon-redis",
       "name": "Redis",
       "url": "https://github.com/hobbyquaker/ccu-addon-redis",
-      "description": "Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic",
+      "description": "Redis packaged as Addon for the Homematic CCU3 and OpenCCU",
       "section": [
         "CCU Addons"
       ]
@@ -439,18 +538,45 @@
       "key": "https://github.com/rdmtc/RedMatic",
       "name": "RedMatic",
       "url": "https://github.com/rdmtc/RedMatic",
-      "description": "Node-RED als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.",
+      "description": "Node-RED als Addon für die Homematic CCU3 und OpenCCU. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.",
       "section": [
         "CCU Addons"
       ]
     },
     {
-      "key": "https://github.com/hobbyquaker/xml-api",
+      "key": "https://github.com/homematic-community/scriptparser",
+      "name": "ScriptParser",
+      "url": "https://github.com/homematic-community/scriptparser",
+      "description": "Addon zur Syntaxprüfung von HomeMatic Skripten.",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/ldittmar81/webmatic",
+      "name": "WebMatic",
+      "url": "https://github.com/ldittmar81/webmatic",
+      "description": "Alternative, für Mobilgeräte optimierte Bedienoberfläche, läuft direkt auf der CCU.",
+      "section": [
+        "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/XML-API",
       "name": "XML-API",
-      "url": "https://github.com/hobbyquaker/xml-api",
+      "url": "https://github.com/homematic-community/XML-API",
       "description": "Vereinfachter CCU Zugriff via HTTP/XML.",
       "section": [
         "CCU Addons"
+      ]
+    },
+    {
+      "key": "https://github.com/mdzio/ccu-ai-mcp",
+      "name": "CCU-AI-MCP",
+      "url": "https://github.com/mdzio/ccu-ai-mcp",
+      "description": "MCP-Server für OpenCCU/CCU, gibt KI-Assistenten (LLMs) über konfigurierbare HM-Skripte Zugriff auf das Smart Home.",
+      "section": [
+        "Interfacing Software"
       ]
     },
     {
@@ -458,6 +584,24 @@
       "name": "CCU-Jack",
       "url": "https://github.com/mdzio/ccu-jack",
       "description": "CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.",
+      "section": [
+        "Interfacing Software"
+      ]
+    },
+    {
+      "key": "https://github.com/claymore666/ccu-mcp",
+      "name": "ccu-mcp",
+      "url": "https://github.com/claymore666/ccu-mcp",
+      "description": "MCP server enabling AI assistants to control Homematic devices via the CCU's JSON-RPC API, no addon required.",
+      "section": [
+        "Interfacing Software"
+      ]
+    },
+    {
+      "key": "https://github.com/hobbyquaker/hm2mqtt.js",
+      "name": "hm2mqtt.js",
+      "url": "https://github.com/hobbyquaker/hm2mqtt.js",
+      "description": "Node.js based interface between Homematic and MQTT.",
       "section": [
         "Interfacing Software"
       ]
@@ -481,10 +625,28 @@
       ]
     },
     {
-      "key": "https://github.com/thkl/Homematic-Virtual-Interface",
-      "name": "hvl - Homematic Virtual Interface",
-      "url": "https://github.com/thkl/Homematic-Virtual-Interface",
-      "description": "Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.",
+      "key": "https://github.com/Ediminator/homematicip-hcu",
+      "name": "homematicip-hcu",
+      "url": "https://github.com/Ediminator/homematicip-hcu",
+      "description": "Home Assistant Integration zur lokalen Anbindung der Homematic IP Home Control Unit (HCU) ohne Cloud.",
+      "section": [
+        "Interfacing Software"
+      ]
+    },
+    {
+      "key": "https://github.com/SukramJ/homematicip_local",
+      "name": "homematicip_local",
+      "url": "https://github.com/SukramJ/homematicip_local",
+      "description": "Home Assistant Custom Component zur lokalen Anbindung von CCU/OpenCCU (Homematic und Homematic IP), basiert auf aiohomematic.",
+      "section": [
+        "Interfacing Software"
+      ]
+    },
+    {
+      "key": "https://github.com/hobbyquaker/matterbridge-homematic",
+      "name": "matterbridge-homematic",
+      "url": "https://github.com/hobbyquaker/matterbridge-homematic",
+      "description": "Matterbridge Plugin to bridge a Homematic CCU's devices to the Matter ecosystem.",
       "section": [
         "Interfacing Software"
       ]
@@ -499,10 +661,64 @@
       ]
     },
     {
+      "key": "https://github.com/SukramJ/openccu-loom",
+      "name": "OpenCCU-Loom",
+      "url": "https://github.com/SukramJ/openccu-loom",
+      "description": "Standalone Go daemon bridging Homematic / Homematic IP CCUs to MQTT (with Home Assistant Discovery), REST + WebSocket, an MCP server and a native Matter bridge.",
+      "section": [
+        "Interfacing Software"
+      ]
+    },
+    {
+      "key": "https://github.com/rdmtc/RedMatic-HomeKit",
+      "name": "RedMatic-HomeKit",
+      "url": "https://github.com/rdmtc/RedMatic-HomeKit",
+      "description": "HAP-Nodejs basierte Node-RED Nodes um (Homematic-)Geräte in HomeKit einzubinden.",
+      "section": [
+        "Interfacing Software"
+      ]
+    },
+    {
+      "key": "https://github.com/rdmtc/RedMatic-Matter",
+      "name": "RedMatic-Matter",
+      "url": "https://github.com/rdmtc/RedMatic-Matter",
+      "description": "Matter.js basierte Node-RED Nodes, die Homematic-Geräte und beliebige Node-RED-Daten als Matter-Bridge bereitstellen.",
+      "section": [
+        "Interfacing Software"
+      ]
+    },
+    {
       "key": "https://github.com/hobbyquaker/check_homematic",
       "name": "check_homematic",
       "url": "https://github.com/hobbyquaker/check_homematic",
       "description": "Nagios/Icinga Plugin for checking Homematic CCU.",
+      "section": [
+        "Misc Software"
+      ]
+    },
+    {
+      "key": "https://github.com/SukramJ/godevccu",
+      "name": "godevccu",
+      "url": "https://github.com/SukramJ/godevccu",
+      "description": "Virtual HomeMatic CCU with XML-RPC and JSON-RPC servers written in Go, single static binary for testing integrations.",
+      "section": [
+        "Misc Software"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/hm-buildroot",
+      "name": "hm-buildroot",
+      "url": "https://github.com/homematic-community/hm-buildroot",
+      "description": "Buildroot environments / cross compiler toolchains to build native applications for the CCU and OpenCCU.",
+      "section": [
+        "Misc Software"
+      ]
+    },
+    {
+      "key": "https://github.com/thkl/HM-Explorer",
+      "name": "HM-Explorer",
+      "url": "https://github.com/thkl/HM-Explorer",
+      "description": "Electron based helper app for the Homematic CCU (macOS/Windows).",
       "section": [
         "Misc Software"
       ]
@@ -526,10 +742,46 @@
       ]
     },
     {
-      "key": "https://github.com/Gerti1972/homehub",
+      "key": "https://github.com/OpenCCU/HMDeviceFirmware",
+      "name": "HMDeviceFirmware",
+      "url": "https://github.com/OpenCCU/HMDeviceFirmware",
+      "description": "Archive of current and past firmware update files for HomeMatic and Homematic IP devices.",
+      "section": [
+        "Misc Software"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/hmGetInfo",
+      "name": "hmGetInfo",
+      "url": "https://github.com/homematic-community/hmGetInfo",
+      "description": "Collect paramsets and paramsetDescriptions from your Homematic CCU as JSON.",
+      "section": [
+        "Misc Software"
+      ]
+    },
+    {
+      "key": "https://zeezide.com/en/products/hmscripteditor",
+      "name": "HMScriptEditor",
+      "url": "https://zeezide.com/en/products/hmscripteditor/",
+      "description": "A very simple macOS editor and runner for HomeMatic (\"Rega\") scripts.",
+      "section": [
+        "Misc Software"
+      ]
+    },
+    {
+      "key": "https://github.com/homematic-community/homehub",
       "name": "HomeHub",
-      "url": "https://github.com/Gerti1972/homehub",
+      "url": "https://github.com/homematic-community/homehub",
       "description": "PHP/XML-API basiertes Webfrontend. Forum",
+      "section": [
+        "Misc Software"
+      ]
+    },
+    {
+      "key": "https://marketplace.visualstudio.com/items?itemName=HeadCrash.hmscript-language-vscode",
+      "name": "Homematic Script Language",
+      "url": "https://marketplace.visualstudio.com/items?itemName=HeadCrash.hmscript-language-vscode",
+      "description": "Visual Studio Code extension providing syntax highlighting for HomeMatic Script (.hms) files.",
       "section": [
         "Misc Software"
       ]
@@ -553,21 +805,30 @@
       ]
     },
     {
-      "key": "https://github.com/hobbyquaker/occu-test",
-      "name": "occu-test",
-      "url": "https://github.com/hobbyquaker/occu-test",
-      "description": "Automated System Tests of ReGaHss - the HomeMatic (O)CCU \"Logic Layer\".",
+      "key": "https://github.com/SukramJ/pydevccu",
+      "name": "pydevccu",
+      "url": "https://github.com/SukramJ/pydevccu",
+      "description": "Virtual HomeMatic CCU XML-RPC and JSON-RPC server with fake devices for development and testing.",
       "section": [
         "Misc Software"
       ]
     },
     {
-      "key": "https://zeezide.com/en/products/hmscripteditor",
-      "name": "HMScriptEditor",
-      "url": "https://zeezide.com/en/products/hmscripteditor/",
-      "description": "A very simple macOS editor and runner for HomeMatic (\"Rega\") scripts.",
+      "key": "https://github.com/OpenCCU/ReGaHss-Test",
+      "name": "ReGaHss-Test",
+      "url": "https://github.com/OpenCCU/ReGaHss-Test",
+      "description": "Automated System Tests of ReGaHss - the HomeMatic (O)CCU \"Logic Layer\" (formerly occu-test).",
       "section": [
         "Misc Software"
+      ]
+    },
+    {
+      "key": "https://github.com/SukramJ/aiohomematic",
+      "name": "aiohomematic",
+      "url": "https://github.com/SukramJ/aiohomematic",
+      "description": "Python 3 interface to interact with Homematic devices via XML-RPC and JSON-RPC, successor of pyhomematic and base of homematicip_local.",
+      "section": [
+        "Software Modules"
       ]
     },
     {
@@ -575,6 +836,15 @@
       "name": "binrpc",
       "url": "https://github.com/hobbyquaker/binrpc",
       "description": "Xmlrpc_bin protocol client and server Node.js module.",
+      "section": [
+        "Software Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/mdzio/go-hmccu",
+      "name": "go-hmccu",
+      "url": "https://github.com/mdzio/go-hmccu",
+      "description": "Go library for interfacing the CCU.",
       "section": [
         "Software Modules"
       ]
@@ -589,19 +859,10 @@
       ]
     },
     {
-      "key": "https://github.com/hobbyquaker/homematic-rega",
-      "name": "homematic-rega",
-      "url": "https://github.com/hobbyquaker/homematic-rega",
-      "description": "Node.js Homematic CCU ReGaHSS Remote Script Interface.",
-      "section": [
-        "Software Modules"
-      ]
-    },
-    {
-      "key": "https://github.com/coreGreenberet/homematicip-rest-api",
-      "name": "homematicip-rest-api",
-      "url": "https://github.com/coreGreenberet/homematicip-rest-api",
-      "description": "Python wrapper for the homematicIP REST API (Cloud / Access Point Based).",
+      "key": "https://github.com/homematicip/connect-api",
+      "name": "Homematic IP Connect API",
+      "url": "https://github.com/homematicip/connect-api",
+      "description": "Official WebSocket API and example plugins (Java, Node.js) for developing plugins for the Homematic IP Home Control Unit (HCU).",
       "section": [
         "Software Modules"
       ]
@@ -616,10 +877,37 @@
       ]
     },
     {
+      "key": "https://github.com/hobbyquaker/homematic-rega",
+      "name": "homematic-rega",
+      "url": "https://github.com/hobbyquaker/homematic-rega",
+      "description": "Node.js Homematic CCU ReGaHSS Remote Script Interface.",
+      "section": [
+        "Software Modules"
+      ]
+    },
+    {
       "key": "https://github.com/hobbyquaker/homematic-xmlrpc",
       "name": "homematic-xmlrpc",
       "url": "https://github.com/hobbyquaker/homematic-xmlrpc",
       "description": "Xmlrpc client and server Node.js module.",
+      "section": [
+        "Software Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/hahn-th/homematicip-rest-api",
+      "name": "homematicip-rest-api",
+      "url": "https://github.com/hahn-th/homematicip-rest-api",
+      "description": "Python wrapper for the homematicIP REST API (Cloud / Access Point Based).",
+      "section": [
+        "Software Modules"
+      ]
+    },
+    {
+      "key": "https://github.com/SukramJ/openccu-loom-client",
+      "name": "openccu-loom-client",
+      "url": "https://github.com/SukramJ/openccu-loom-client",
+      "description": "Async Python REST + WebSocket client for the OpenCCU-Loom daemon.",
       "section": [
         "Software Modules"
       ]
@@ -634,28 +922,10 @@
       ]
     },
     {
-      "key": "https://github.com/danielperna84/pyhomematic",
-      "name": "pyhomematic",
-      "url": "https://github.com/danielperna84/pyhomematic",
-      "description": "Python 3 Interface to interact with Homematic devices.",
-      "section": [
-        "Software Modules"
-      ]
-    },
-    {
-      "key": "https://everhome.de",
-      "name": "everHome",
-      "url": "https://everhome.de",
-      "description": "💵",
-      "section": [
-        "Smart Home Software supporting Homematic"
-      ]
-    },
-    {
       "key": "https://fhem.de",
       "name": "FHEM",
       "url": "https://fhem.de/",
-      "description": "",
+      "description": "via HMCCU Modul.",
       "section": [
         "Smart Home Software supporting Homematic"
       ]
@@ -664,7 +934,7 @@
       "key": "https://home-assistant.io",
       "name": "Home Assistant",
       "url": "https://www.home-assistant.io/",
-      "description": "",
+      "description": "via homematicip_local (CCU/OpenCCU) oder homematicip-hcu (HCU).",
       "section": [
         "Smart Home Software supporting Homematic"
       ]
@@ -673,7 +943,7 @@
       "key": "https://iobroker.net?lang=de",
       "name": "ioBroker",
       "url": "https://www.iobroker.net/?lang=de",
-      "description": "",
+      "description": "via hm-rpc (Interface-Prozesse) und hm-rega (ReGaHSS) Adapter, hmip für den Homematic IP Cloud Access Point.",
       "section": [
         "Smart Home Software supporting Homematic"
       ]
@@ -700,7 +970,7 @@
       "key": "https://openhab.org",
       "name": "OpenHAB",
       "url": "https://www.openhab.org/",
-      "description": "",
+      "description": "via Homematic Binding.",
       "section": [
         "Smart Home Software supporting Homematic"
       ]
@@ -710,6 +980,15 @@
       "name": "Pimatic",
       "url": "https://pimatic.org/",
       "description": "",
+      "section": [
+        "Smart Home Software supporting Homematic"
+      ]
+    },
+    {
+      "key": "https://smarthomeng.de",
+      "name": "SmartHomeNG",
+      "url": "https://www.smarthomeng.de/",
+      "description": "via Plugins.",
       "section": [
         "Smart Home Software supporting Homematic"
       ]
