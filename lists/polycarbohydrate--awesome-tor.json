@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b010fa65a85938eaf6c375fdf6da75766b18d5c6b66344695d6fe4a5476fe44b\"",
+  "etag": "W/\"6d9b8bbd61f870f7a7a451e6bc6b5258f99c89fe0ae12c9de55b6a42a7b2b871\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -609,6 +609,16 @@
       "name": "Relay Search",
       "url": "https://metrics.torproject.org/rs.html",
       "description": "Easy way to search for information about relays.",
+      "section": [
+        "Applications",
+        "Other applications"
+      ]
+    },
+    {
+      "key": "https://github.com/Resilum/resilum-core",
+      "name": "Resilum Core",
+      "url": "https://github.com/Resilum/resilum-core",
+      "description": "Multi-transport Reticulum node in Rust that carries mesh links over Tor, using either an external daemon or an embedded client.",
       "section": [
         "Applications",
         "Other applications"

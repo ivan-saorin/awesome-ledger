@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"bbf37731475982e48b9e4ad84d2c36b612a1c9079d11308489baaa1c173f815c\"",
+  "etag": "W/\"b29759a11c28f9cc722b285a27f872a024075cd8a4370bf1d25bb56a6352e4f7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -863,6 +863,15 @@
       "name": "ClawMetry",
       "url": "https://github.com/vivekchand/clawmetry",
       "description": "Self-hosted, local-first observability and kill switch for coding agents, reading Gemini CLI sessions alongside Claude Code, Codex, Cursor, OpenClaw, Aider, Goose, and others. Reads the session logs the runtimes already write on disk, so there is no SDK and nothing in the request path. Shows sessions, transcripts, tool calls, tokens, and cache-aware cost per session and model; an opt-in emergency stop per session and pre-tool approvals for risky actions. Python, MIT, open-core: OpenClaw and NemoClaw are free, Gemini CLI and the other runtimes need ClawMetry Cloud or a self-hosted Pro license. Website",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://hud.thaliabloom.com",
+      "name": "Usage HUD",
+      "url": "https://hud.thaliabloom.com/",
+      "description": "Native macOS menu-bar meter that shows your Gemini CLI usage window next to Claude, Codex, Grok and Ollama, with a confidence label on every number. Paid, $9.",
       "section": [
         "Development Tools & Utilities"
       ]
