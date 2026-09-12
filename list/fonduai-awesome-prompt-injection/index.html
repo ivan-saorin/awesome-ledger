@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>awesome-prompt-injection — The Awesome Ledger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../style.css">
+<link rel="alternate" type="application/rss+xml" title="The Awesome Ledger" href="../../feed.xml">
+</head>
+<body>
+
+<header class="masthead masthead--sub">
+<p class="back"><a href="../../">← THE AWESOME LEDGER</a></p>
+<p class="m-kicker m-kicker--sp">FROM THE LEDGER OF</p>
+<h1 class="sub-title">awesome-prompt-injection</h1>
+<div class="spark" aria-hidden="true">
+<span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:8%"></span><span style="height:100%"></span>
+</div>
+<p class="sub-stats">60 ENTRIES TODAY · 10 ADDED THIS YEAR · 3 REMOVED<br>TRACKED SINCE AUGUST 2026 · MAINTAINED BY FONDUAI</p>
+<p class="m-cta"><a class="pill pill--solid" href="feed.xml">RSS FOR THIS LIST ↗</a></p>
+</header>
+<main class="content content--narrow">
+<section class="lsec">
+<header class="day-h">
+<span class="rule"></span>
+<h2>Additions</h2>
+<span class="rule"></span>
+</header>
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://dev.to/churik5/i-tried-to-break-my-own-mcp-prompt-injection-detector-one-class-of-attack-walks-straight-through--4534">Why content-based prompt-injection detection has a structural blind spot</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Walks through a disguised &quot;already-scanned, classified DATA&quot; annotation that passes both a regex layer and a local LLM classifier (qwen2.5:3b and 14b), with the gap pinned as a failing test. Detection is necessary but not sufficient.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://doi.org/10.5281/zenodo.21428133">Prompt-Injection Cascades in a Multi-Agent Enterprise (ATLAS)</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Forensic study in which one poisoned support ticket drives four agents across three model families to a fraudulent transfer in 17 of 18 trials, with no model jailbroken. Argues the failure is topological rather than per-model. Synthetic data, CC BY 4.0.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/">OWASP Top 10 for Agentic Applications (2026)</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Companion list for autonomous and agentic systems, released Dec 2025 with input from over 100 contributors. Covers the agent-specific failure modes that the LLM list does not reach, including tool misuse and agent hijacking.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/">OWASP GenAI LLM Top 10 (2026)</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">The canonical community reference for LLM application risk, with prompt injection at number one. Supersedes the 2025 edition; the per-risk 2025 pages remain online as an archive.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://genai.owasp.org/">OWASP Gen AI Security Project</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">The standards body behind the LLM and Agentic Top 10 lists, with working groups, cheat sheets and guidance updated continuously by practitioners across the industry.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://github.com/CyberSunil/LLMVault">LLMVault</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Self-hosted CTF-style training range for the OWASP LLM Top 10, with 25 labs across three tiers. Play Mode uses scripted assistants so flags reproduce every time; Live Mode points the same attacks at a real model on your own machine with the secret regenerated per session, so there is no flag to look up. Each lab pairs the attack with the defense that would have stopped it. MIT, Docker.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://github.com/Cryptix-Security/guard-bands">Guard Bands</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Cryptographic data boundary for LLM applications: untrusted content is wrapped in HMAC-SHA256 or Ed25519 signed markers that bind provenance, lifetime and application context, and the verifier reconstructs that context from trusted state before a protected path proceeds. Tamper, replay, expiry and context mismatch fail closed, so enforcement sits in application code rather than in a model asked to classify inputs. Published protocol spec with conformance vectors, plus FastAPI and MCP adapters. MIT.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://github.com/nac7/finagent-redteam">FinAgent Red-Team: A Benchmark for Regulatory-Control Bypass in Financial LLM Agents</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Aug 2026 benchmark measuring whether indirect prompt injection can drive financial LLM agents past regulatory controls (sanctions screening, payment-structuring thresholds, dual-approval, data exfiltration, confused-deputy payee redirection). Replays 48 scenarios under three control postures (none/advisory/enforced) with deterministic state-predicate scoring rather than an LLM grader. Finds a frontier model (GPT-4o) bypasses controls 71% of the time with no stated policy, while hard tool-layer enforcement drives attack success to 0% for every model tested.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://doi.org/10.5281/zenodo.21425933">Authority Framing in Agentic CI/CD (RELAY)</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Pre-registered factorial study of a five-agent CI/CD pipeline built from five production LLMs. A fabricated &quot;pre-approved, do not re-review&quot; claim gets secret-exfiltration code shipped in up to 55% of runs, and roughly 80% of laundered pull requests pass a capable LLM code scanner. Notably the entry agent never leaked its system prompt (0/40), so prompt secrecy held and did not help. Synthetic data, CC BY 4.0.</p>
+
+</article>
+
+
+
+<article class="art art--text">
+<div class="art-head">
+<a class="a-name" href="https://github.com/agentatwork/trapcheck/blob/main/CORPUS.md">Agent-targeted bounty honeypots: a reproducible corpus</a>
+<span class="a-date">12 SEP</span>
+</div>
+<p class="a-desc">Field notes on a live GitHub operation advertising $219,000 across 43 issues, each stapling a request for the contributor&#x27;s &quot;complete pre-session instructions&quot; onto a genuine engineering task. Documents the sandwich injection in CONTRIBUTING.md, where a truthful human-visible warning that the bounties are symbolic is wrapped in HTML comments telling automated readers to ignore it, and a payout gated on a merge the same file rules out. Every figure ships with the query that reproduces it.</p>
+
+</article>
+
+
+</section>
+
+<section class="lsec lsec--rule">
+<header class="day-h">
+<span class="rule"></span>
+<h2>Removals</h2>
+<span class="rule"></span>
+</header>
+
+<article class="art art--rm">
+<span class="rm-date">12 SEP</span>
+<div>
+<span class="rm-name">tldrsec/prompt-injection-defenses</span>
+<p class="rm-note">// STRUCK FROM THE LEDGER</p>
+</div>
+</article>
+
+<article class="art art--rm">
+<span class="rm-date">12 SEP</span>
+<div>
+<span class="rm-name">Prompt Injection in 2026: Why the Attack Surface Keeps Growing</span>
+<p class="rm-note">// STRUCK FROM THE LEDGER</p>
+</div>
+</article>
+
+<article class="art art--rm">
+<span class="rm-date">12 SEP</span>
+<div>
+<span class="rm-name">LLM01:2025 Prompt Injection – OWASP Gen AI Security Project</span>
+<p class="rm-note">// STRUCK FROM THE LEDGER</p>
+</div>
+</article>
+
+</section>
+
+<footer class="site-foot">
+<p>ONE OF 662 LISTS TRACKED BY THE AWESOME LEDGER<br><a href="../../">FRONT PAGE ↗</a> · <a href="feed.xml">RSS ↗</a></p>
+</footer>
+</main>
+
+</body>
+</html>
