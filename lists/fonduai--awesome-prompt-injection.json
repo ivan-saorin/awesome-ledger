@@ -1,13 +1,13 @@
 {
-  "etag": "W/\"4bc9f9ea99ce084c987119ee81fcd21815f2cebcec423206360c8581e3546c0c\"",
+  "etag": "W/\"bfcf688775f0bbcaeb621994fdcf7c178af9ad6fd9cc01c4d7d955b415440ade\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
     {
-      "key": "https://genai.owasp.org/llmrisk/llm01-prompt-injection",
-      "name": "LLM01:2025 Prompt Injection – OWASP Gen AI Security Project",
-      "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
-      "description": "The canonical OWASP definition, threat model, and attack scenarios for prompt injection (direct and indirect), updated for agentic systems. The baseline reference every tool and paper in 2025–26 cites.",
+      "key": "https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026",
+      "name": "OWASP GenAI LLM Top 10 (2026)",
+      "url": "https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/",
+      "description": "The canonical community reference for LLM application risk, with prompt injection at number one. Supersedes the 2025 edition; the per-risk 2025 pages remain online as an archive.",
       "section": [
         "Introduction Resources"
       ]
@@ -16,16 +16,16 @@
       "key": "https://ai.meta.com/blog/practical-ai-agent-security",
       "name": "Agents Rule of Two: A Practical Approach to AI Agent Security",
       "url": "https://ai.meta.com/blog/practical-ai-agent-security/",
-      "description": "Meta's Oct 2025 framework stating that agents must satisfy no more than two of: (A) processing untrustworthy inputs, (B) access to sensitive data, (C) ability to change state externally — a deterministic architectural approach to bounding blast radius.",
+      "description": "Meta's Oct 2025 framework stating that agents must satisfy no more than two of: (A) processing untrustworthy inputs, (B) access to sensitive data, (C) ability to change state externally, a deterministic architectural approach to bounding blast radius.",
       "section": [
         "Introduction Resources"
       ]
     },
     {
-      "key": "https://notchrisgroves.com/prompt-injection-2026-attack-surface",
-      "name": "Prompt Injection in 2026: Why the Attack Surface Keeps Growing",
-      "url": "https://notchrisgroves.com/prompt-injection-2026-attack-surface/",
-      "description": "Feb 2026 synthesis explaining why the problem is structural, not solvable by filters: vendors face a direct tradeoff between blocking injections and preserving functionality, and covers the Morris II AI worm as a concrete proof of super-linear propagation.",
+      "key": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026",
+      "name": "OWASP Top 10 for Agentic Applications (2026)",
+      "url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "description": "Companion list for autonomous and agentic systems, released Dec 2025 with input from over 100 contributors. Covers the agent-specific failure modes that the LLM list does not reach, including tool misuse and agent hijacking.",
       "section": [
         "Introduction Resources"
       ]
@@ -34,7 +34,7 @@
       "key": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns",
       "name": "Design Patterns for Securing LLM Agents against Prompt Injections",
       "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
-      "description": "Overview of various strategies to mitigate the risk of prompt injection",
+      "description": "Overview of various strategies to mitigate the risk of prompt injection.",
       "section": [
         "Articles and Blog posts"
       ]
@@ -175,6 +175,42 @@
       ]
     },
     {
+      "key": "https://dev.to/churik5/i-tried-to-break-my-own-mcp-prompt-injection-detector-one-class-of-attack-walks-straight-through--4534",
+      "name": "Why content-based prompt-injection detection has a structural blind spot",
+      "url": "https://dev.to/churik5/i-tried-to-break-my-own-mcp-prompt-injection-detector-one-class-of-attack-walks-straight-through--4534",
+      "description": "Walks through a disguised \"already-scanned, classified DATA\" annotation that passes both a regex layer and a local LLM classifier (qwen2.5:3b and 14b), with the gap pinned as a failing test. Detection is necessary but not sufficient.",
+      "section": [
+        "Articles and Blog posts"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.5281/zenodo.21428133",
+      "name": "Prompt-Injection Cascades in a Multi-Agent Enterprise (ATLAS)",
+      "url": "https://doi.org/10.5281/zenodo.21428133",
+      "description": "Forensic study in which one poisoned support ticket drives four agents across three model families to a fraudulent transfer in 17 of 18 trials, with no model jailbroken. Argues the failure is topological rather than per-model. Synthetic data, CC BY 4.0.",
+      "section": [
+        "Articles and Blog posts"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.5281/zenodo.21425933",
+      "name": "Authority Framing in Agentic CI/CD (RELAY)",
+      "url": "https://doi.org/10.5281/zenodo.21425933",
+      "description": "Pre-registered factorial study of a five-agent CI/CD pipeline built from five production LLMs. A fabricated \"pre-approved, do not re-review\" claim gets secret-exfiltration code shipped in up to 55% of runs, and roughly 80% of laundered pull requests pass a capable LLM code scanner. Notably the entry agent never leaked its system prompt (0/40), so prompt secrecy held and did not help. Synthetic data, CC BY 4.0.",
+      "section": [
+        "Articles and Blog posts"
+      ]
+    },
+    {
+      "key": "https://github.com/agentatwork/trapcheck/blob/main/CORPUS.md",
+      "name": "Agent-targeted bounty honeypots: a reproducible corpus",
+      "url": "https://github.com/agentatwork/trapcheck/blob/main/CORPUS.md",
+      "description": "Field notes on a live GitHub operation advertising $219,000 across 43 issues, each stapling a request for the contributor's \"complete pre-session instructions\" onto a genuine engineering task. Documents the sandwich injection in CONTRIBUTING.md, where a truthful human-visible warning that the bounties are symbolic is wrapped in HTML comments telling automated readers to ignore it, and a payout gated on a merge the same file rules out. Every figure ships with the query that reproduces it.",
+      "section": [
+        "Articles and Blog posts"
+      ]
+    },
+    {
       "key": "https://learnprompting.org/docs/prompt_hacking/injection",
       "name": "Prompt Injection",
       "url": "https://learnprompting.org/docs/prompt_hacking/injection",
@@ -185,9 +221,9 @@
     },
     {
       "key": "https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf",
-      "name": "AI Read Teaming from Google",
+      "name": "Google AI Red Team: Securing AI",
       "url": "https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf",
-      "description": "Google's red team walkthrough of hacking AI systems.",
+      "description": "Google's red team walkthrough of how AI systems are attacked in practice. An early foundational report, useful for framing rather than for current technique.",
       "section": [
         "Tutorials"
       ]
@@ -196,7 +232,7 @@
       "key": "https://youtube.com/watch?v=43qfHaKh0Xk",
       "name": "Prompt Injection in LLM Agents (ReAct, Langchain)",
       "url": "https://www.youtube.com/watch?v=43qfHaKh0Xk",
-      "description": "Theory and hands-on lab on prompt injection against Langchain ReAct agents",
+      "description": "Theory and hands-on lab on prompt injection against Langchain ReAct agents.",
       "section": [
         "Tutorials"
       ]
@@ -214,7 +250,7 @@
       "key": "https://youtube.com/watch?v=bO-7DB-3dL8",
       "name": "MCP Prompt Injection: How AI Gets Hacked",
       "url": "https://www.youtube.com/watch?v=bO-7DB-3dL8",
-      "description": "Nov 2025 hands-on walkthrough showing how prompt injection exploits tool metadata and trust boundaries in Model Context Protocol-integrated agents — the dominant new attack surface of 2025.",
+      "description": "Nov 2025 hands-on walkthrough showing how prompt injection exploits tool metadata and trust boundaries in Model Context Protocol-integrated agents, which remain a primary attack surface as MCP adoption widens.",
       "section": [
         "Tutorials"
       ]
@@ -286,7 +322,7 @@
       "key": "https://aclanthology.org/2025.findings-naacl.123.pdf",
       "name": "Attention Tracker: Detecting Prompt Injection Attacks in LLMs",
       "url": "https://aclanthology.org/2025.findings-naacl.123.pdf",
-      "description": "NAACL 2025 Findings paper detecting prompt injection by tracking attention distribution shifts — no modification to the underlying model required, making it deployable as a wrapper on any LLM.",
+      "description": "NAACL 2025 Findings paper detecting prompt injection by tracking attention distribution shifts, with no modification to the underlying model required, making it deployable as a wrapper on any LLM.",
       "section": [
         "Research Papers"
       ]
@@ -305,6 +341,15 @@
       "name": "Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models",
       "url": "https://arxiv.org/abs/2501.18280",
       "description": "Discovers that text embedding models have severely biased output distributions, and exploits this to find universal adversarial suffixes (\"magic words\") that bypass embedding-based LLM safeguards. Attacks transfer across models and languages; a train-free debiasing defense is also proposed.",
+      "section": [
+        "Research Papers"
+      ]
+    },
+    {
+      "key": "https://github.com/nac7/finagent-redteam",
+      "name": "FinAgent Red-Team: A Benchmark for Regulatory-Control Bypass in Financial LLM Agents",
+      "url": "https://github.com/nac7/finagent-redteam",
+      "description": "Aug 2026 benchmark measuring whether indirect prompt injection can drive financial LLM agents past regulatory controls (sanctions screening, payment-structuring thresholds, dual-approval, data exfiltration, confused-deputy payee redirection). Replays 48 scenarios under three control postures (none/advisory/enforced) with deterministic state-predicate scoring rather than an LLM grader. Finds a frontier model (GPT-4o) bypasses controls 71% of the time with no stated policy, while hard tool-layer enforcement drives attack success to 0% for every model tested.",
       "section": [
         "Research Papers"
       ]
@@ -340,7 +385,7 @@
       "key": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
       "name": "Agent Threat Rules (ATR)",
       "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
-      "description": "Open detection standard for AI agent threats (prompt injection, tool poisoning, MCP attacks, skill compromise) — Sigma/YARA-style YAML rules. 330 rules across 9 attack categories with full mapping to OWASP Agentic Top 10 (10/10), MITRE ATLAS (100/113), NIST AI RMF (100%), and SAFE-MCP (78/85). 97.1% recall on the garak probe set (193 probes) and 0% false-positive on 53,577 real-world MCP skills. Shipped in production at Cisco AI Defense and Microsoft agent-governance-toolkit. Apache-2.0.",
+      "description": "Open detection standard for AI agent threats (prompt injection, tool poisoning, MCP attacks, skill compromise), using Sigma/YARA-style YAML rules. 330 rules across 9 attack categories with full mapping to OWASP Agentic Top 10 (10/10), MITRE ATLAS (100/113), NIST AI RMF (100%), and SAFE-MCP (78/85). 97.1% recall on the garak probe set (193 probes) and 0% false-positive on 53,577 real-world MCP skills. Shipped in production at Cisco AI Defense and Microsoft agent-governance-toolkit. Apache-2.0.",
       "section": [
         "Tools"
       ]
@@ -364,15 +409,6 @@
       ]
     },
     {
-      "key": "https://github.com/tldrsec/prompt-injection-defenses",
-      "name": "tldrsec/prompt-injection-defenses",
-      "url": "https://github.com/tldrsec/prompt-injection-defenses",
-      "description": "Actively maintained catalog of every practical defense in production — LLM Guard, Rebuff, architectural controls — the fastest way to survey the defense landscape.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/stacklok/brood-box",
       "name": "brood-box",
       "url": "https://github.com/stacklok/brood-box",
@@ -391,10 +427,19 @@
       ]
     },
     {
+      "key": "https://github.com/Cryptix-Security/guard-bands",
+      "name": "Guard Bands",
+      "url": "https://github.com/Cryptix-Security/guard-bands",
+      "description": "Cryptographic data boundary for LLM applications: untrusted content is wrapped in HMAC-SHA256 or Ed25519 signed markers that bind provenance, lifetime and application context, and the verifier reconstructs that context from trusted state before a protected path proceeds. Tamper, replay, expiry and context mismatch fail closed, so enforcement sits in application code rather than in a model asked to classify inputs. Published protocol spec with conformance vectors, plus FastAPI and MCP adapters. MIT.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://prompttrace.airedlab.com",
       "name": "PromptTrace",
       "url": "https://prompttrace.airedlab.com/",
-      "description": "Free AI security training platform with 7 hands-on prompt injection labs and a 15-level CTF (the Gauntlet) with progressively harder defenses — from prompt-level rules to code guards to LLM classifiers. Unique feature: Context Trace shows the full prompt stack (system prompt, RAG documents, tool definitions, user input) in real-time so you can see exactly how attacks work. Uses real LLMs from OpenAI, Anthropic, Google, Groq, and Cerebras.",
+      "description": "Free AI security training platform with 7 hands-on prompt injection labs and a 15-level CTF (the Gauntlet) with progressively harder defenses, from prompt-level rules to code guards to LLM classifiers. Unique feature: Context Trace shows the full prompt stack (system prompt, RAG documents, tool definitions, user input) in real-time so you can see exactly how attacks work. Uses real LLMs from OpenAI, Anthropic, Google, Groq, and Cerebras.",
       "section": [
         "CTF"
       ]
@@ -445,10 +490,28 @@
       ]
     },
     {
+      "key": "https://github.com/CyberSunil/LLMVault",
+      "name": "LLMVault",
+      "url": "https://github.com/CyberSunil/LLMVault",
+      "description": "Self-hosted CTF-style training range for the OWASP LLM Top 10, with 25 labs across three tiers. Play Mode uses scripted assistants so flags reproduce every time; Live Mode points the same attacks at a real model on your own machine with the secret regenerated per session, so there is no flag to look up. Each lab pairs the attack with the defense that would have stopped it. MIT, Docker.",
+      "section": [
+        "CTF"
+      ]
+    },
+    {
       "key": "https://discord.com/invite/learn-prompting",
       "name": "Learn Prompting",
       "url": "https://discord.com/invite/learn-prompting",
       "description": "Discord server from Learn Prompting.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://genai.owasp.org",
+      "name": "OWASP Gen AI Security Project",
+      "url": "https://genai.owasp.org/",
+      "description": "The standards body behind the LLM and Agentic Top 10 lists, with working groups, cheat sheets and guidance updated continuously by practitioners across the industry.",
       "section": [
         "Community"
       ]
@@ -475,7 +538,7 @@
       "key": "https://atlas.mitre.org",
       "name": "MITRE ATLAS",
       "url": "https://atlas.mitre.org/",
-      "description": "MITRE's adversarial ML threat matrix formally cataloguing direct and indirect prompt injection as core adversary techniques, enabling integration into enterprise threat modelling and purple team exercises.",
+      "description": "MITRE's adversarial ML threat matrix formally cataloging direct and indirect prompt injection as core adversary techniques, enabling integration into enterprise threat modelling and purple team exercises.",
       "section": [
         "Community"
       ]

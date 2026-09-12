@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b29759a11c28f9cc722b285a27f872a024075cd8a4370bf1d25bb56a6352e4f7\"",
+  "etag": "W/\"abf1c33d1ded626b7f1868156caae44df3d7a201a5b1047ce31a89c88292159e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -584,6 +584,15 @@
       "name": "Knowledge Delta Skills",
       "url": "https://github.com/sergeyizmailov/knowledge-delta-skills",
       "description": "Portable SKILL.md skills for media buying, frontend, security, research, and skill authoring, each kept to what a frontier model does not already reliably know. Copy any skill directory into ~/.gemini/skills/ and Gemini CLI discovers it.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Nagarjuna2997/ios-agent-skill",
+      "name": "iOS Agent Skill",
+      "url": "https://github.com/Nagarjuna2997/ios-agent-skill",
+      "description": "Gemini CLI extension with Swift development guidance, read-only code review tools, and local Apple source/reference retrieval.",
       "section": [
         "Commands & Extensions"
       ]
