@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ec38adbd940cc4d91b903e2e7c220a2d99a2867380f185fb1b2ca165a348ad85\"",
+  "etag": "W/\"0ff037386275b80ddf793db1b0ddd2680475d756a5727cf04e8e240384007460\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -830,6 +830,16 @@
       "name": "Polaris",
       "url": "https://github.com/agersant/polaris",
       "description": "A music streaming application.",
+      "section": [
+        "Applications",
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/danylokravchenko/rusty-amp",
+      "name": "rusty-amp",
+      "url": "https://github.com/danylokravchenko/rusty-amp",
+      "description": "A complete guitar amp and pedalboard rig with external plugins support that runs right in your terminal.",
       "section": [
         "Applications",
         "Audio and Music"
@@ -3270,6 +3280,16 @@
       "name": "AlexsJones/llmserve",
       "url": "https://github.com/AlexsJones/llmserve",
       "description": "[llmserve] - Interactive TUI to serve local LLM models with auto-detected backends (llama-server, KoboldCpp, LocalAI, MLX, Ollama, vLLM, LM Studio). Features source tree navigation, per-backend presets, live logs, and vision model support.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/alphaXiv/OpenResearch",
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "A local-first workspace for running parallel research agents with Claude Code, Codex, OpenCode, or Cursor, with reproducible experiment tracking.",
       "section": [
         "Applications",
         "Productivity"
@@ -6655,6 +6675,15 @@
       ]
     },
     {
+      "key": "https://github.com/firelock-ai/kin",
+      "name": "firelock-ai/kin",
+      "url": "https://github.com/firelock-ai/kin",
+      "description": "A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.",
+      "section": [
+        "Development tools"
+      ]
+    },
+    {
       "key": "https://github.com/flox/flox",
       "name": "Flox",
       "url": "https://github.com/flox/flox",
@@ -6893,6 +6922,15 @@
       "name": "sstraus/tuicommander",
       "url": "https://github.com/sstraus/tuicommander",
       "description": "Desktop workspace that runs many AI coding agents in parallel, each in its own git worktree, with agent state detection, diffs, PR management and an MCP proxy hub",
+      "section": [
+        "Development tools"
+      ]
+    },
+    {
+      "key": "https://github.com/sopaco/terrain",
+      "name": "Terrain",
+      "url": "https://github.com/sopaco/terrain",
+      "description": "AI-native engineering environment management that makes your codebase agent-ready.",
       "section": [
         "Development tools"
       ]

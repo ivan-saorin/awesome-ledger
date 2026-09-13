@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2844dcc998b4ca48ce16e9ddf6d85446b86df1c2d0f3927b6069a1babf5d71b7\"",
+  "etag": "W/\"8e3449f8931668063c9fa2a870eb402d0dd3a2ea0bd3a303bf6b7d75e7930c47\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -431,6 +431,15 @@
       "name": "GoAudio",
       "url": "https://github.com/DylanMeeus/GoAudio",
       "description": "Native Go Audio Processing Library.",
+      "section": [
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/iSerganov/gocue",
+      "name": "gocue",
+      "url": "https://github.com/iSerganov/gocue",
+      "description": "Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap.",
       "section": [
         "Audio and Music"
       ]
