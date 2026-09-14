@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b35d89163c5c6717188cd888c484cd79f27f70fa5fa847944a1b9773ce86efc2\"",
+  "etag": "W/\"dc4b5126447ccd1346a7b2a676d52b8143d3979444b65de04ff6a668dc0194a7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -77,7 +77,7 @@
       "key": "https://tryhackme.com/room/principlesofsecurity",
       "name": "Principles of security",
       "url": "https://tryhackme.com/room/principlesofsecurity",
-      "description": "Principles of security.",
+      "description": "Learn the principles of information security that secures data and protects systems from abuse.",
       "section": [
         "Introduction and Pre-Security",
         "Level 1 - Intro"
@@ -327,7 +327,7 @@
       "key": "https://tryhackme.com/room/lazyadmin",
       "name": "Lazy Admin",
       "url": "https://tryhackme.com/room/lazyadmin",
-      "description": "Easy linux machine to practice your skills.",
+      "description": "Easy Linux machine to practice your skills.",
       "section": [
         "Free Beginner Red Team Path",
         "Level 3 - Crypto & Hashes with CTF practice"
@@ -437,7 +437,7 @@
       "key": "https://tryhackme.com/room/bolt",
       "name": "Bolt",
       "url": "https://tryhackme.com/room/bolt",
-      "description": "Bolt themed machine to root into.",
+      "description": "A boot to root Bolt themed machine.",
       "section": [
         "Free Beginner Red Team Path",
         "Level 4 - Web"
@@ -624,10 +624,10 @@
       ]
     },
     {
-      "key": "https://tryhackme.com/room/introdigitalforensics",
-      "name": "Introduction to digital forensics",
-      "url": "https://tryhackme.com/room/introdigitalforensics",
-      "description": "Intro to Digital Forensics.",
+      "key": "https://tryhackme.com/room/introdiGitalforensics",
+      "name": "Introduction to diGital forensics",
+      "url": "https://tryhackme.com/room/introdiGitalforensics",
+      "description": "Intro to DiGital Forensics.",
       "section": [
         "Free Beginner Blue Team Path",
         "Level 1 - Tools"
@@ -697,7 +697,7 @@
       "key": "https://tryhackme.com/room/introductiontohoneypots",
       "name": "Intro to Honeypots",
       "url": "https://tryhackme.com/room/introductiontohoneypots",
-      "description": "Intro to honeypots.",
+      "description": "A guided room covering the deployment of honeypots and analysis of botnet activities.",
       "section": [
         "Free Beginner Blue Team Path",
         "Level 1 - Tools"
@@ -737,7 +737,7 @@
       "key": "https://tryhackme.com/room/investigatingwindows",
       "name": "Investigating Windows",
       "url": "https://tryhackme.com/room/investigatingwindows",
-      "description": "Investigating Windows.",
+      "description": "A windows machine has been hacked, its your job to go investigate this windows machine and find clues to what the hacker might have done.",
       "section": [
         "Free Beginner Blue Team Path",
         "Level 2 - Security Operations, Incident Response & Threat Hunting"
@@ -767,7 +767,7 @@
       "key": "https://tryhackme.com/room/squidgameroom",
       "name": "Squid Game",
       "url": "https://tryhackme.com/room/squidgameroom",
-      "description": "Squid game-themed CTF.",
+      "description": "A CTF room with Squid Game theme.",
       "section": [
         "Free Beginner Blue Team Path",
         "Level 2 - Security Operations, Incident Response & Threat Hunting"
@@ -808,46 +808,6 @@
       "name": "Hunt Conti with Splunk",
       "url": "https://tryhackme.com/room/contiransomwarehgh",
       "description": "An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.",
-      "section": [
-        "Free Beginner Blue Team Path",
-        "Level 2 - Security Operations, Incident Response & Threat Hunting"
-      ]
-    },
-    {
-      "key": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3",
-      "name": "Hunting for Execution Tactic",
-      "url": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3",
-      "description": "Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Execution (TA0002).",
-      "section": [
-        "Free Beginner Blue Team Path",
-        "Level 2 - Security Operations, Incident Response & Threat Hunting"
-      ]
-    },
-    {
-      "key": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5",
-      "name": "Hunting for Credential Access",
-      "url": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5",
-      "description": "Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Credential Access (TA0006).",
-      "section": [
-        "Free Beginner Blue Team Path",
-        "Level 2 - Security Operations, Incident Response & Threat Hunting"
-      ]
-    },
-    {
-      "key": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2",
-      "name": "Hunting for Persistence Access",
-      "url": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2",
-      "description": "Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).",
-      "section": [
-        "Free Beginner Blue Team Path",
-        "Level 2 - Security Operations, Incident Response & Threat Hunting"
-      ]
-    },
-    {
-      "key": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4",
-      "name": "Hunting for Defense Evation",
-      "url": "https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4",
-      "description": "Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Defense Evasion (TA0005).",
       "section": [
         "Free Beginner Blue Team Path",
         "Level 2 - Security Operations, Incident Response & Threat Hunting"
@@ -1173,7 +1133,7 @@
       "key": "https://tryhackme.com/room/dogcat",
       "name": "Dogcat",
       "url": "https://tryhackme.com/room/dogcat",
-      "description": "I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a docker container.",
+      "description": "I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a Docker container.",
       "section": [
         "Bonus CTF practice and Latest CVEs"
       ]
@@ -1216,9 +1176,9 @@
     },
     {
       "key": "https://tryhackme.com/room/thegreatescape",
-      "name": "The Great Escape (docker)",
+      "name": "The Great Escape (Docker)",
       "url": "https://tryhackme.com/room/thegreatescape",
-      "description": "Escaping docker container.",
+      "description": "Escaping Docker container.",
       "section": [
         "Bonus CTF practice and Latest CVEs"
       ]

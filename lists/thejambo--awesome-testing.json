@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6de7306bd794b0852d20632c4b56abe859f3e1a2f37e5a482062e4839a19c0ba\"",
+  "etag": "W/\"98607469caf9bf421338e31bb2436163ce77bbee862acdc5eb9108d4a1b6cb71\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -294,6 +294,26 @@
       ]
     },
     {
+      "key": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "name": "OrcaReplay",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "description": "Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/xag/flight-recorder",
+      "name": "flight-recorder",
+      "url": "https://github.com/xag/flight-recorder",
+      "description": "Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
       "key": "https://beeceptor.com",
       "name": "Beeceptor",
       "url": "https://beeceptor.com/",
@@ -508,6 +528,26 @@
       "name": "DeviceLab",
       "url": "https://devicelab.dev",
       "description": "Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://drengr.dev",
+      "name": "Drengr",
+      "url": "https://drengr.dev",
+      "description": "Mobile tests written as plain-English tasks instead of selectors, driven by an agent on real Android devices and iOS simulators. Works where there is no accessibility tree — canvas, games, Flutter without semantics labels — by falling back to vision and coordinates. Runs locally or in CI; bring your own model key.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/SharminSirajudeen/drengr-runner",
+      "name": "Drengr Runner",
+      "url": "https://github.com/SharminSirajudeen/drengr-runner",
+      "description": "Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -838,6 +878,16 @@
       "name": "Sample Files",
       "url": "https://mzeeshan.me/tools/sample-files",
       "description": "Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://teamaraduru-hub.github.io/araduru-file-format-test-corpus",
+      "name": "ARADURU File Format Test Corpus",
+      "url": "https://teamaraduru-hub.github.io/araduru-file-format-test-corpus/",
+      "description": "Open CC0 corpus of deterministic healthy and intentionally broken XLSX, DOCX, PPTX, ZIP, and PDF fixtures with SHA-256 manifests for file validation, parser, upload, and QA testing.",
       "section": [
         "Software",
         "Test Data Management"

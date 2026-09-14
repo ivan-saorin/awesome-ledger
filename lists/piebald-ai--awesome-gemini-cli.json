@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"948cd25fc658a4316d242befdde1e6cb11d6c6fbbe6ca9b33f7e9af0d0172701\"",
+  "etag": "W/\"3f79db96d21f6a3961d51b6292683f96a1e02f22046113fd2d8b5cdd982bf476\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1259,6 +1259,15 @@
       "name": "ContextStream",
       "url": "https://contextstream.io",
       "description": "Shared project context for Cursor, Claude Code, Codex, Grok. Intelligence isn’t the bottleneck. Context is. Remote MCP for Gemini CLI and other coding agents: https://mcp.contextstream.io/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/noteflowai/dsh-skills-anywhere",
+      "name": "dsh-skills-anywhere",
+      "url": "https://github.com/noteflowai/dsh-skills-anywhere",
+      "description": "MCP server that exposes every Agent Skill installed for Gemini CLI, Claude Code, Codex, Cursor and 60+ other agents, plus Claude Code plugin marketplaces and any GitHub skills repo, as find_skills/open_skill tools and skill:// resources, read in place with zero copies or symlinks.",
       "section": [
         "MCP Servers"
       ]

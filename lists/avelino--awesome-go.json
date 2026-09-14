@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8e3449f8931668063c9fa2a870eb402d0dd3a2ea0bd3a303bf6b7d75e7930c47\"",
+  "etag": "W/\"b1d3ae9827652fa825e6942bfbe57860176c4baa7a7d3ab2978d89c5d77406fe\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -9299,6 +9299,15 @@
       ]
     },
     {
+      "key": "https://github.com/jizhuozhi/go-future",
+      "name": "go-future",
+      "url": "https://github.com/jizhuozhi/go-future",
+      "description": "A Future/Promise library with generic combinators and a DAG execution engine.",
+      "section": [
+        "Goroutines"
+      ]
+    },
+    {
       "key": "https://github.com/nikhilsaraf/go-tools",
       "name": "go-tools/multithreading",
       "url": "https://github.com/nikhilsaraf/go-tools",
@@ -11184,6 +11193,15 @@
       "name": "gone/log",
       "url": "https://github.com/One-com/gone/tree/master/log",
       "description": "Fast, extendable, full-featured, std-lib source compatible log library.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/maguro/gslog",
+      "name": "gslog",
+      "url": "https://github.com/maguro/gslog",
+      "description": "Google Cloud Logging handler for log/slog, with OpenTelemetry trace and baggage, and Kubernetes podinfo labels.",
       "section": [
         "Logging"
       ]

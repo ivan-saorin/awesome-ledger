@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"574be45d02f4e02eba1eac2be85493a72cd29795367b7a264340acdf27683bf8\"",
+  "etag": "W/\"2a84e70c0b5fae792907f94094693892e0d03914748663f57a6c90cfa526ac01\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -804,6 +804,15 @@
       "name": "Book Factory",
       "url": "https://github.com/robertguss/claude-skills",
       "description": "by Robert Guss - A comprehensive pipeline of Skills that replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.",
+      "section": [
+        "Writing & Prose Quality"
+      ]
+    },
+    {
+      "key": "https://github.com/andrewroxby/claude-style-patch",
+      "name": "Claude Style Patch",
+      "url": "https://github.com/andrewroxby/claude-style-patch",
+      "description": "by Andrew Roxby - A CLAUDE.md section that constrains Claude's prose style. It bans specific habits, including announcing a point before making it, colon-hinged sentences where the left side labels the right, verbless fragment openers, and stacked compression. Each rule names the habit, shows an example, and gives the rewrite.",
       "section": [
         "Writing & Prose Quality"
       ]
