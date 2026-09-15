@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"539dfc2e81eaf07a84418ab206fa08ba22bb186928ea8c9e8abc13bc66e48914\"",
+  "etag": "W/\"6937aeaef3639b7fd7572f62b0cc17558f7c54ab3c29d51bef6b1ee672614bf1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -116,6 +116,15 @@
       "name": "Citation Style Language (CSL) styles",
       "url": "https://editor.citationstyles.org/",
       "description": "Crowdsourced repository with over 9000 free CSL citation styles and an online editor to create new ones.",
+      "section": [
+        "Bibliography"
+      ]
+    },
+    {
+      "key": "https://github.com/tobiasosDev/citecheck",
+      "name": "citecheck",
+      "url": "https://github.com/tobiasosDev/citecheck",
+      "description": "Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.",
       "section": [
         "Bibliography"
       ]

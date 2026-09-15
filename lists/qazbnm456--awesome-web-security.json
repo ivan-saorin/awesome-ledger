@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"47a560929dfc155bfb37f279803b21d448d5e660cf9a782851e81e26c0516c12\"",
+  "etag": "W/\"723db885cd973d728e6aa8aa95fa6702bb0e3f85507fd82837b9963f91f0bb6e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3750,6 +3750,15 @@
       "name": "htb-writeups",
       "url": "https://github.com/momenbasel/htb-writeups",
       "description": "Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by @momenbasel.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://admintoolkit.io/guides/dns-mail-security-methodology",
+      "name": "From DNS Evidence to a Finding: DNS and Mail Security Methodology",
+      "url": "https://admintoolkit.io/guides/dns-mail-security-methodology/",
+      "description": "How DNSSEC, DANE, SPF/DKIM/DMARC and SMTP transport evidence becomes a finding, with the decision logic for each, the dig invocations to reproduce it independently, and the false positives to expect.",
       "section": [
         "Miscellaneous"
       ]

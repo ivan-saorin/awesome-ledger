@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"445c7a0a1022cb716ba7814979cee1dd90121e9afc1d2d64612243b1297ccac4\"",
+  "etag": "W/\"0e36b66b9dac2d269052586a535b66274d24540df0687aef4a3b07bb20948ae8\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -427,6 +427,15 @@
       ]
     },
     {
+      "key": "https://github.com/ProxySQL/dbdeployer",
+      "name": "dbdeployer",
+      "url": "https://github.com/ProxySQL/dbdeployer",
+      "description": "A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.",
+      "section": [
+        "Deployment"
+      ]
+    },
+    {
       "key": "https://github.com/MariaDB4j/MariaDB4j",
       "name": "MariaDB4j",
       "url": "https://github.com/MariaDB4j/MariaDB4j",
@@ -697,10 +706,10 @@
       ]
     },
     {
-      "key": "https://github.com/openark/orchestrator",
+      "key": "https://github.com/ProxySQL/orchestrator",
       "name": "Orchestrator",
-      "url": "https://github.com/openark/orchestrator",
-      "description": "(archived) - MySQL replication topology management and High Availability solution.",
+      "url": "https://github.com/ProxySQL/orchestrator",
+      "description": "MySQL replication topology management and High Availability solution.",
       "section": [
         "HA"
       ]

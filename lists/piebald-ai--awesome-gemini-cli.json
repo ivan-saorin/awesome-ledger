@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3f79db96d21f6a3961d51b6292683f96a1e02f22046113fd2d8b5cdd982bf476\"",
+  "etag": "W/\"f82f9c4266fd3616ac4b6407919309792b4a8022ebf4e8bc3a56c7a1b8b3c04a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -625,12 +625,39 @@
       ]
     },
     {
+      "key": "https://github.com/feder-cr/AIHawk",
+      "name": "AIHawk",
+      "url": "https://github.com/feder-cr/AIHawk",
+      "description": "Gives Gemini CLI a real Firefox to drive from plain-English instructions: opens pages, clicks, types, reads and screenshots through the real pointer and keyboard. Open source, MIT. Install via gemini extensions install https://github.com/feder-cr/AIHawk.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/kgaidev/kgai-gemini",
+      "name": "kgai",
+      "url": "https://github.com/kgaidev/kgai-gemini",
+      "description": "Shared decision memory for AI dev teams: your agent records why the code changed (and the dead ends it ruled out), recalls it before the next edit, and syncs it across the team without merge conflicts. Local-first, immutable, engine installs itself on first run.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
       "description": "Adds personality to your terminal with giant ASCII-art logos featuring beautiful color gradients, perfect for customizing your Gemini CLI startup experience.",
       "section": [
         "Fun"
+      ]
+    },
+    {
+      "key": "https://github.com/SurefireStudios/tldr",
+      "name": "tldr",
+      "url": "https://github.com/SurefireStudios/tldr",
+      "description": "Leads every response with a three-line TL;DR and folds the full detail underneath, so the answer is not buried. Never folds destructive commands, security findings, verbatim errors or diffs. Returns a parseable block for agent-to-agent reports. Ships a Gemini CLI extension.",
+      "section": [
+        "Development Tools & Utilities"
       ]
     },
     {
@@ -1264,10 +1291,28 @@
       ]
     },
     {
+      "key": "https://github.com/squirrelscan/squirrelscan",
+      "name": "squirrelscan",
+      "url": "https://github.com/squirrelscan/squirrelscan",
+      "description": "Website audit MCP server for coding agents: run audits, read reports, and fix findings from Gemini CLI or any MCP client. 260+ rules across SEO, performance, security, accessibility, and agent experience, with fixes mapped to source. MIT CLI with a local stdio server (squirrel mcp) or hosted Remote MCP with OAuth: gemini mcp add --transport http squirrelscan https://mcp.squirrelscan.com/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
       "key": "https://github.com/noteflowai/dsh-skills-anywhere",
       "name": "dsh-skills-anywhere",
       "url": "https://github.com/noteflowai/dsh-skills-anywhere",
       "description": "MCP server that exposes every Agent Skill installed for Gemini CLI, Claude Code, Codex, Cursor and 60+ other agents, plus Claude Code plugin marketplaces and any GitHub skills repo, as find_skills/open_skill tools and skill:// resources, read in place with zero copies or symlinks.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/glasser-ai/plugins",
+      "name": "Glasser",
+      "url": "https://github.com/glasser-ai/plugins",
+      "description": "One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: gemini mcp add --transport http glasser https://api.glasser.ai/mcp.",
       "section": [
         "MCP Servers"
       ]

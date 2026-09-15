@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"287b2cb7697b096a0843262abb9584fcb42ac9361ec27f11a0feb3eb67a49a1e\"",
+  "etag": "W/\"89945ad1c82b79b5beaf02ef738c808c93e657689686a1e84faee205e8a7f443\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -195,6 +195,56 @@
       ]
     },
     {
+      "key": "https://github.com/francescopaolopassaro/caveman",
+      "name": "Caveman",
+      "url": "https://github.com/francescopaolopassaro/caveman",
+      "description": "🦴 A self-contained C# prompt compressor for LLMs (GPT-4, Gemma, Llama, …): strips grammatical \"noise\" and lemmatizes text for up to 70% token reduction, across 50+ embedded languages, with zero NLP-model runtime dependency. Content-aware routing auto-detects JSON/diffs/logs/code/tables and applies the best compression strategy for each; ships Light/Semantic/Aggressive levels and ready-made compression profiles. NuGet.",
+      "section": [
+        "Sample Projects",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/francescopaolopassaro/Caveman.SemanticKernel",
+      "name": "Caveman.SemanticKernel",
+      "url": "https://github.com/francescopaolopassaro/Caveman.SemanticKernel",
+      "description": "Optional add-on package exposing Caveman's prompt compression, conversation-fitting/summarization, and project-analysis tools as Microsoft Semantic Kernel plugins (kernel functions ready to register with Kernel.CreateBuilder()).",
+      "section": [
+        "Sample Projects",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/francescopaolopassaro/Caveman.mcp",
+      "name": "Caveman.mcp",
+      "url": "https://github.com/francescopaolopassaro/Caveman.mcp",
+      "description": "An MCP (Model Context Protocol) server exposing Caveman's token compression, language detection, content-aware routing and extractive summarization as tools for AI agents and MCP-compatible editors — integrates directly with Claude Code, Cursor, Windsurf and similar.",
+      "section": [
+        "Sample Projects",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/francescopaolopassaro/Caveman.PrivacyGuard",
+      "name": "Caveman.PrivacyGuard",
+      "url": "https://github.com/francescopaolopassaro/Caveman.PrivacyGuard",
+      "description": "🛡️ Enterprise-grade PII/privacy analyzer for AI/LLM pipelines: detects, risk-scores and auto-masks sensitive data across 27 EU countries (heuristic regex + Luhn/IBAN/checksum validators + Shannon-entropy analysis), with GDPR/PCI-DSS/NIST-800-53 compliance mapping and runtime-configurable YAML rules. NuGet.",
+      "section": [
+        "Sample Projects",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/peopleworks/SignsofAI",
+      "name": "Signs of AI Writing",
+      "url": "https://github.com/peopleworks/SignsofAI",
+      "description": "Free, privacy-first toolkit for writing integrity. An explainable AI-writing linter that suggests a fix for every flagged tell, plus an originality checker that surfaces shared passages as evidence a human judges. Runs almost entirely in the browser, English and Spanish. Blazor WebAssembly. Demo.",
+      "section": [
+        "Sample Projects",
+        "AI"
+      ]
+    },
+    {
       "key": "https://github.com/enkodellc/blazorboilerplate",
       "name": "BlazorBoilerplate",
       "url": "https://github.com/enkodellc/blazorboilerplate",
@@ -322,6 +372,16 @@
       "section": [
         "Sample Projects",
         "CMS"
+      ]
+    },
+    {
+      "key": "https://github.com/francescopaolopassaro/Stilo",
+      "name": "Stilo",
+      "url": "https://github.com/francescopaolopassaro/Stilo",
+      "description": "A professional suite of pure-C# Blazor libraries, zero native dependencies, working in both Blazor Server and WebAssembly: Stilo.Editor, a full Microsoft Word–style WYSIWYG HTML editor (Office-style ribbon, Pages mode with millimeter rulers, offline multilingual spell checking, DOCX/PDF/Markdown import & export, dozens of insertable content types from tables to barcodes/QR); and Stilo.Reports, a self-contained RDL/RDLC-compatible report designer & viewer (drag-and-drop designer, Tablix with true Matrix pivot, 10 chart types rendered as SVG, barcode/QR items, PDF export). Individual developers get a free annual license. Stilo.Editor NuGet · Stilo.Reports NuGet.",
+      "section": [
+        "Sample Projects",
+        "Editors"
       ]
     },
     {
@@ -1192,6 +1252,16 @@
       ]
     },
     {
+      "key": "https://github.com/tossnet/Blazor-WinOld",
+      "name": "BlazorWinOld",
+      "url": "https://github.com/tossnet/Blazor-WinOld",
+      "description": "A Blazor UI component library bringing back the retro look of Windows 98, XP, 7 and 10 desktop styles, compatible with Blazor Server and WebAssembly. Documentation.",
+      "section": [
+        "Libraries & Extensions",
+        "Component bundles"
+      ]
+    },
+    {
       "key": "https://github.com/AlexNek/BabylonBlazor",
       "name": "BabylonBlazor",
       "url": "https://github.com/AlexNek/BabylonBlazor",
@@ -1400,6 +1470,17 @@
       ]
     },
     {
+      "key": "https://github.com/sps014/FlowState",
+      "name": "FlowState",
+      "url": "https://github.com/sps014/FlowState",
+      "description": "A high-performance node editor for Blazor. Build visual programming tools, node-based workflows, and interactive graph editors with complete styling control.",
+      "section": [
+        "Libraries & Extensions",
+        "2D/3D Rendering engines",
+        "Diagrams"
+      ]
+    },
+    {
       "key": "https://github.com/devessenceinc/BlazorScriptReload",
       "name": "BlazorScriptReload",
       "url": "https://github.com/devessenceinc/BlazorScriptReload",
@@ -1568,6 +1649,17 @@
       "name": "Blazor.FileSystemAccess",
       "url": "https://github.com/KristofferStrube/Blazor.FileSystemAccess",
       "description": "A Blazor wrapper for the browser API File System Access. The API makes it possible to read and write to your local file system from the browser both files and directories. [Demo](The API makes it possible to read and write to your local file system from the browser both files and directories.).",
+      "section": [
+        "Libraries & Extensions",
+        "Routing & Navigation",
+        "Others"
+      ]
+    },
+    {
+      "key": "https://github.com/matthetherington/Blazor-Memoire",
+      "name": "BlazorMemoire",
+      "url": "https://github.com/matthetherington/Blazor-Memoire",
+      "description": "A highly-performant Blazor <Memo> component, similar to React.memo, that freezes its child subtree until explicit dependency keys change, preventing unnecessary re-renders and making lifecycle methods fire only when there's been a true change.",
       "section": [
         "Libraries & Extensions",
         "Routing & Navigation",
@@ -1876,6 +1968,17 @@
       "name": "BlazorDragDrop",
       "url": "https://github.com/Postlagerkarte/Blazor-DragDrop",
       "description": "A simple drag-and-drop library for Blazor components.",
+      "section": [
+        "Libraries & Extensions",
+        "Routing & Navigation",
+        "Others"
+      ]
+    },
+    {
+      "key": "https://github.com/iolitetech/IOSwipeView",
+      "name": "IOSwipeView",
+      "url": "https://github.com/iolitetech/IOSwipeView",
+      "description": "Fluid swipe actions and interactive list primitives for Blazor with authentic spring physics, rubber banding, and customizable deletion animations. Demo.",
       "section": [
         "Libraries & Extensions",
         "Routing & Navigation",
@@ -2307,6 +2410,16 @@
       "name": "RxBlazorLight",
       "url": "https://github.com/b-straub/RxBlazorLight",
       "description": "RxBlazorLight is a simple reactive wrapper around Blazor components. For now only MudBlazor components are supported. Build the RxMudBlazorLightSample and enjoy the reactive Components.",
+      "section": [
+        "Libraries & Extensions",
+        "Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/francescopaolopassaro/Pkl.Net",
+      "name": "Pkl.Net",
+      "url": "https://github.com/francescopaolopassaro/Pkl.Net",
+      "description": "A type-safe configuration management library for .NET bringing Apple's Pkl configuration language to C#, zero external dependencies. Catches config errors (type mismatches, out-of-range values) at evaluation time instead of at runtime, with a clean typed-deserialization API, an IConfiguration extension for ASP.NET Core/Blazor apps, and a public MessagePack encoder/decoder.",
       "section": [
         "Libraries & Extensions",
         "Tools & Utilities"
@@ -3005,6 +3118,15 @@
       "name": "LiveSharp",
       "url": "https://github.com/ionoy/LiveSharp",
       "description": "Update .razor files and see the updates instantly without reloading the page. Your application state is preserved because there is no need to reload anything. livesharp.net.",
+      "section": [
+        "Tooling"
+      ]
+    },
+    {
+      "key": "https://github.com/joe-gregory/blazor-devtools",
+      "name": "Blazor Developer Tools",
+      "url": "https://github.com/joe-gregory/blazor-devtools",
+      "description": "The first visual DevTools for Blazor. Browser extension that adds a \"Blazor\" tab to Chrome/Edge DevTools with component tree visualization, timeline profiler, flamegraph, and \"why did this render?\" diagnostics. No code changes required for basic tracking. blazordevelopertools.com.",
       "section": [
         "Tooling"
       ]
