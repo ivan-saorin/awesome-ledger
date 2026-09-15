@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — awesome-blazor</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/adrientorris-awesome-blazor/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Tue, 15 Sep 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>Stilo — via awesome-blazor</title>
+<link>https://github.com/francescopaolopassaro/Stilo</link>
+<guid isPermaLink="false">https://github.com/francescopaolopassaro/Stilo#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>A professional suite of pure-C# Blazor libraries, zero native dependencies, working in both Blazor Server and WebAssembly: Stilo.Editor, a full Microsoft Word–style WYSIWYG HTML editor (Office-style ribbon, Pages mode with millimeter rulers, offline multilingual spell checking, DOCX/PDF/Markdown import &amp; export, dozens of insertable content types from tables to barcodes/QR); and Stilo.Reports, a self-contained RDL/RDLC-compatible report designer &amp; viewer (drag-and-drop designer, Tablix with true Matrix pivot, 10 chart types rendered as SVG, barcode/QR items, PDF export). Individual developers get a free annual license. Stilo.Editor NuGet · Stilo.Reports NuGet.</description>
+</item>
+<item>
+<title>Signs of AI Writing — via awesome-blazor</title>
+<link>https://github.com/peopleworks/SignsofAI</link>
+<guid isPermaLink="false">https://github.com/peopleworks/SignsofAI#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>Free, privacy-first toolkit for writing integrity. An explainable AI-writing linter that suggests a fix for every flagged tell, plus an originality checker that surfaces shared passages as evidence a human judges. Runs almost entirely in the browser, English and Spanish. Blazor WebAssembly. Demo.</description>
+</item>
+<item>
+<title>Pkl.Net — via awesome-blazor</title>
+<link>https://github.com/francescopaolopassaro/Pkl.Net</link>
+<guid isPermaLink="false">https://github.com/francescopaolopassaro/Pkl.Net#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>A type-safe configuration management library for .NET bringing Apple's Pkl configuration language to C#, zero external dependencies. Catches config errors (type mismatches, out-of-range values) at evaluation time instead of at runtime, with a clean typed-deserialization API, an IConfiguration extension for ASP.NET Core/Blazor apps, and a public MessagePack encoder/decoder.</description>
+</item>
+<item>
+<title>IOSwipeView — via awesome-blazor</title>
+<link>https://github.com/iolitetech/IOSwipeView</link>
+<guid isPermaLink="false">https://github.com/iolitetech/IOSwipeView#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>Fluid swipe actions and interactive list primitives for Blazor with authentic spring physics, rubber banding, and customizable deletion animations. Demo.</description>
+</item>
+<item>
+<title>FlowState — via awesome-blazor</title>
+<link>https://github.com/sps014/FlowState</link>
+<guid isPermaLink="false">https://github.com/sps014/FlowState#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>A high-performance node editor for Blazor. Build visual programming tools, node-based workflows, and interactive graph editors with complete styling control.</description>
+</item>
+<item>
+<title>Caveman.mcp — via awesome-blazor</title>
+<link>https://github.com/francescopaolopassaro/Caveman.mcp</link>
+<guid isPermaLink="false">https://github.com/francescopaolopassaro/Caveman.mcp#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>An MCP (Model Context Protocol) server exposing Caveman's token compression, language detection, content-aware routing and extractive summarization as tools for AI agents and MCP-compatible editors — integrates directly with Claude Code, Cursor, Windsurf and similar.</description>
+</item>
+<item>
+<title>Caveman.SemanticKernel — via awesome-blazor</title>
+<link>https://github.com/francescopaolopassaro/Caveman.SemanticKernel</link>
+<guid isPermaLink="false">https://github.com/francescopaolopassaro/Caveman.SemanticKernel#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>Optional add-on package exposing Caveman's prompt compression, conversation-fitting/summarization, and project-analysis tools as Microsoft Semantic Kernel plugins (kernel functions ready to register with Kernel.CreateBuilder()).</description>
+</item>
+<item>
+<title>Caveman.PrivacyGuard — via awesome-blazor</title>
+<link>https://github.com/francescopaolopassaro/Caveman.PrivacyGuard</link>
+<guid isPermaLink="false">https://github.com/francescopaolopassaro/Caveman.PrivacyGuard#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>🛡️ Enterprise-grade PII/privacy analyzer for AI/LLM pipelines: detects, risk-scores and auto-masks sensitive data across 27 EU countries (heuristic regex + Luhn/IBAN/checksum validators + Shannon-entropy analysis), with GDPR/PCI-DSS/NIST-800-53 compliance mapping and runtime-configurable YAML rules. NuGet.</description>
+</item>
+<item>
+<title>Caveman — via awesome-blazor</title>
+<link>https://github.com/francescopaolopassaro/caveman</link>
+<guid isPermaLink="false">https://github.com/francescopaolopassaro/caveman#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>🦴 A self-contained C# prompt compressor for LLMs (GPT-4, Gemma, Llama, …): strips grammatical &quot;noise&quot; and lemmatizes text for up to 70% token reduction, across 50+ embedded languages, with zero NLP-model runtime dependency. Content-aware routing auto-detects JSON/diffs/logs/code/tables and applies the best compression strategy for each; ships Light/Semantic/Aggressive levels and ready-made compression profiles. NuGet.</description>
+</item>
+<item>
+<title>BlazorWinOld — via awesome-blazor</title>
+<link>https://github.com/tossnet/Blazor-WinOld</link>
+<guid isPermaLink="false">https://github.com/tossnet/Blazor-WinOld#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>A Blazor UI component library bringing back the retro look of Windows 98, XP, 7 and 10 desktop styles, compatible with Blazor Server and WebAssembly. Documentation.</description>
+</item>
+<item>
+<title>BlazorMemoire — via awesome-blazor</title>
+<link>https://github.com/matthetherington/Blazor-Memoire</link>
+<guid isPermaLink="false">https://github.com/matthetherington/Blazor-Memoire#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>A highly-performant Blazor &lt;Memo&gt; component, similar to React.memo, that freezes its child subtree until explicit dependency keys change, preventing unnecessary re-renders and making lifecycle methods fire only when there's been a true change.</description>
+</item>
+<item>
+<title>Blazor Developer Tools — via awesome-blazor</title>
+<link>https://github.com/joe-gregory/blazor-devtools</link>
+<guid isPermaLink="false">https://github.com/joe-gregory/blazor-devtools#2026-09-15</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>The first visual DevTools for Blazor. Browser extension that adds a &quot;Blazor&quot; tab to Chrome/Edge DevTools with component tree visualization, timeline profiler, flamegraph, and &quot;why did this render?&quot; diagnostics. No code changes required for basic tracking. blazordevelopertools.com.</description>
+</item>
+<item>
+<title>Explore the Future of ASP.NET Core &amp; Blazor in .NET 11 — via awesome-blazor</title>
+<link>https://www.youtube.com/watch?v=6c8fpShFjZE</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=6c8fpShFjZE#2026-09-12</guid>
+<pubDate>Sat, 12 Sep 2026 06:00:00 +0000</pubDate>
+<description>August 19, 2026 - What’s next for web development on .NET? In this session, we’ll explore the future direction of ASP.NET Core and Blazor in .NET 11, highlighting the themes, priorities, and opportunities shaping the platform’s next chapter.</description>
+</item>
+<item>
+<title>dotnetconf.net — via awesome-blazor</title>
+<link>https://www.dotnetconf.net/?utm_source=awesome-blazor&amp;utm_medium=github</link>
+<guid isPermaLink="false">https://www.dotnetconf.net/?utm_source=awesome-blazor&amp;utm_medium=github#2026-09-04</guid>
+<pubDate>Fri, 4 Sep 2026 06:00:00 +0000</pubDate>
+<description>.</description>
+</item>
+</channel>
+</rss>
