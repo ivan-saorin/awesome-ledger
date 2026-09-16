@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f82f9c4266fd3616ac4b6407919309792b4a8022ebf4e8bc3a56c7a1b8b3c04a\"",
+  "etag": "W/\"84803f7783de66e0bff56f47888f43d66589563402e2c6e8914def823e6c4287\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1034,6 +1034,15 @@
       "name": "TeamoRouter",
       "url": "https://teamorouter.cn",
       "description": "Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly. Free permanent DeepSeek tiers (V4 Pro 200 req/day, V4 Flash 50 req/day, 1M ctx).",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/maximhq/bifrost",
+      "name": "Bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "Self-hosted gateway for Gemini CLI that unifies cloud and local model providers with routing, fallbacks, load balancing, and MCP support.",
       "section": [
         "API Bridges & Proxies"
       ]

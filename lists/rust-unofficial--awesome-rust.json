@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0d2cd712060bee7667ab4375760210d32398ef453799ffe3fc9c66d3f59c1df0\"",
+  "etag": "W/\"80d8619517401d44835920cd8f73dce2c49e16b911802a98f607a3056d7781db\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1750,6 +1750,16 @@
       "name": "ruvnet/ruvector",
       "url": "https://github.com/ruvnet/ruvector",
       "description": "[ruvector-core] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/RyanCodrai/turbovec",
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "[turbovec] - A vector index built on TurboQuant, written in Rust with SIMD-accelerated search and Python bindings",
       "section": [
         "Applications",
         "Database"
@@ -3580,6 +3590,16 @@
       "name": "pier-cli/pier",
       "url": "https://github.com/pier-cli/pier",
       "description": "A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/raine/workmux",
+      "name": "raine/workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "[workmux] - git worktrees + tmux windows for zero-friction parallel dev",
       "section": [
         "Applications",
         "Productivity"

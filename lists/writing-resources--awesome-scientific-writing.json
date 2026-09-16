@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6937aeaef3639b7fd7572f62b0cc17558f7c54ab3c29d51bef6b1ee672614bf1\"",
+  "etag": "W/\"b3ee88294d20a32d5267fd09a02cc0b2b39ba55f9c137955cabc328d1a23a8ab\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -391,6 +391,15 @@
       ]
     },
     {
+      "key": "https://mdformat.readthedocs.io/en/stable",
+      "name": "mdformat",
+      "url": "https://mdformat.readthedocs.io/en/stable/",
+      "description": "Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.",
+      "section": [
+        "Spell Checking and Linting"
+      ]
+    },
+    {
       "key": "https://github.com/amperser/proselint",
       "name": "proselint",
       "url": "https://github.com/amperser/proselint",
@@ -413,6 +422,15 @@
       "name": "restructuredtext-lint",
       "url": "https://github.com/twolfson/restructuredtext-lint",
       "description": "reStructuredText linter.",
+      "section": [
+        "Spell Checking and Linting"
+      ]
+    },
+    {
+      "key": "https://github.com/rvben/rumdl",
+      "name": "rumdl",
+      "url": "https://github.com/rvben/rumdl",
+      "description": "Fast Markdown linter and formatter written in Rust, with built-in support for several \"flavors\" such as GFM, MkDocs, MyST, Quarto etc.",
       "section": [
         "Spell Checking and Linting"
       ]
