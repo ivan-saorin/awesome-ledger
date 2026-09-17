@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2f1010e0deecaf022fff55cf9eb35f41cb411e6dca4de0b1bc5a68e396f55531\"",
+  "etag": "W/\"29feda7a2f6516be9a762d1419439f1318b6bfa4b56674d93cf4bc325b49632c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -171,6 +171,16 @@
       "section": [
         "Frameworks",
         "Performance"
+      ]
+    },
+    {
+      "key": "https://github.com/AmJaradat01/awesome-lazy-zsh",
+      "name": "awesome-lazy-zsh",
+      "url": "https://github.com/AmJaradat01/awesome-lazy-zsh",
+      "description": "automates your ZSH setup with 46 plugins, 5 themes, configuration profiles, and service installation. It installs dependencies, manages Oh My Zsh, and gives you a beautiful interactive CLI to build the terminal environment you want.",
+      "section": [
+        "Setups",
+        "oh-my-zsh"
       ]
     },
     {
@@ -1745,6 +1755,15 @@
       "name": "bol",
       "url": "https://github.com/ikhurramraza/bol",
       "description": "Prints a random quote when you open a terminal window.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/seankoji-com/zsh-boot-kit",
+      "name": "boot-kit",
+      "url": "https://github.com/seankoji-com/zsh-boot-kit",
+      "description": "Adds instrumentation to your ZSH environment.",
       "section": [
         "Plugins"
       ]
@@ -4774,6 +4793,15 @@
       ]
     },
     {
+      "key": "https://github.com/robbyrussell/herdr-ohmyzsh",
+      "name": "herdr",
+      "url": "https://github.com/robbyrussell/herdr-ohmyzsh",
+      "description": "Manages herdr agent management.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/joepvd/zsh-hints",
       "name": "hints",
       "url": "https://github.com/joepvd/zsh-hints",
@@ -7591,6 +7619,15 @@
       ]
     },
     {
+      "key": "https://github.com/shreyanth-sureshkrishnaa/pyroclear",
+      "name": "pyroclear",
+      "url": "https://github.com/shreyanth-sureshkrishnaa/pyroclear",
+      "description": "A terminal clear replacement that burns your screen down before wiping it.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/ACmyles/pyvenv-fast",
       "name": "pyvenv-fast",
       "url": "https://github.com/ACmyles/pyvenv-fast",
@@ -8977,6 +9014,15 @@
       ]
     },
     {
+      "key": "https://github.com/Zezoo123/terminal-pet",
+      "name": "terminal-pet",
+      "url": "https://github.com/Zezoo123/terminal-pet",
+      "description": "Hooks preexec/precmd up to terminal-pet, an animated pixel-art pet that sits on your terminal window and reacts to your commands (macOS).",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/AnimiVulpis/zsh-terminal-title",
       "name": "terminal-title",
       "url": "https://github.com/AnimiVulpis/zsh-terminal-title",
@@ -8990,6 +9036,15 @@
       "name": "terminal-workload-report",
       "url": "https://github.com/LockonS/terminal-workload-report",
       "description": "A plugin that calculates and displays how many commands have been run via terminal.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/termrec/termrec.zsh",
+      "name": "termrec",
+      "url": "https://github.com/termrec/termrec.zsh",
+      "description": "This hook enables termrec to split the session into per-command sections while it generates a command-aware transcript.",
       "section": [
         "Plugins"
       ]
@@ -10075,6 +10130,15 @@
       ]
     },
     {
+      "key": "https://github.com/Jermic/worktree-jump",
+      "name": "worktree-jump",
+      "url": "https://github.com/Jermic/worktree-jump",
+      "description": "Lists git worktrees in a compact table and lets you jump to one by typing its number at the next shell prompt.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/jspears/worktree",
       "name": "worktree",
       "url": "https://github.com/jspears/worktree",
@@ -10178,6 +10242,15 @@
       "name": "yazi-zoxide",
       "url": "https://github.com/fdw/yazi-zoxide-zsh",
       "description": "This plugin for zsh adds just one shortcut, but unfolds the magic of both Zoxide and yazi. Without arguments, y just opens yazi. If you supply an argument that is a directory, yazi is opened in that directory. But if you supply anything else as an argument, zoxide is called with the argument and yazi is opened there.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/NiziL/yazi.plugin.zsh",
+      "name": "yazi",
+      "url": "https://github.com/NiziL/yazi.plugin.zsh",
+      "description": "a tiny plugin for yazi integration.",
       "section": [
         "Plugins"
       ]
@@ -14696,6 +14769,15 @@
       "name": "coolmelon",
       "url": "https://github.com/omkarpai/coolmelon-zsh-theme/",
       "description": "Includes decorators for user@host, time, current directory, node version and git information.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/spideythedev/corbon-zsh-theme",
+      "name": "corbon",
+      "url": "https://github.com/spideythedev/corbon-zsh-theme",
+      "description": "A lightweight, highly customizable theme that gives you control over the layout, segments, Git information, colors, symbols, path display, command timing, and more without turning configuration into a mess.",
       "section": [
         "Themes"
       ]
@@ -19295,6 +19377,15 @@
       "name": "poor-programmer",
       "url": "https://github.com/vishaltelangre/poor-programmer.zsh-theme",
       "description": "Programmer's theme with git status, ruby version and project path.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/stiermid/port",
+      "name": "port",
+      "url": "https://github.com/stiermid/port",
+      "description": "A minimal theme combining the robbyrussell layout with the gentoo git workflow. Built on ZSH's built-in vcs_info — no external dependencies, no prompt frameworks required. Shows the current directory, version-control state (Git and SVN), and command exit status in a single compact line.",
       "section": [
         "Themes"
       ]

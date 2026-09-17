@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9dbffda3c2943a75040923bc9585b37c4e08d77b98bb7225229acb845eba9cbc\"",
+  "etag": "W/\"79703f8c35f2d59014d0d5411348d225c8485cc9e907c528bcc43ef636cb7785\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1935,6 +1935,16 @@
       "name": "flash-flags",
       "url": "https://github.com/agilira/flash-flags",
       "description": "Ultra-fast, zero-dependency, POSIX-compliant flag parsing library that can be used as drop-in stdlib replacement with security hardening.",
+      "section": [
+        "Command Line",
+        "Standard CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/SatyamKumarCS/Fling-CLI",
+      "name": "Fling-CLI",
+      "url": "https://github.com/SatyamKumarCS/Fling-CLI",
+      "description": "Terminal-based peer-to-peer file and message transfer tool over custom reliable UDP.",
       "section": [
         "Command Line",
         "Standard CLI"
@@ -12422,10 +12432,10 @@
       ]
     },
     {
-      "key": "https://github.com/SchwarzIT/hypermatch",
+      "key": "https://github.com/SchwarzDigits/hypermatch",
       "name": "hypermatch",
-      "url": "https://github.com/SchwarzIT/hypermatch",
-      "description": "A very fast and efficient Go library for matching events to a large set of rules",
+      "url": "https://github.com/SchwarzDigits/hypermatch",
+      "description": "Matches events against large sets of rules, with rules written in Go or as JSON.",
       "section": [
         "Messaging"
       ]
@@ -16773,6 +16783,15 @@
       "name": "gost-crypto",
       "url": "https://github.com/rekurt/gost-crypto",
       "description": "Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/ijin82/grim",
+      "name": "grim",
+      "url": "https://github.com/ijin82/grim",
+      "description": "Fast and secure CLI tool for managing encrypted Markdown note vaults in volatile memory.",
       "section": [
         "Security"
       ]

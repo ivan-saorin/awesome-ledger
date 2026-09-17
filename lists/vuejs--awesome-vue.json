@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"15455c39966badc4c8e6504f61e54da0f48b675aafdf2b793b0bed982601a9f1\"",
+  "etag": "W/\"c7d142400c8806c74dbaa7455ba5f8712a69c5ac2e5ff2229ea8c870eaaa499f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -298,6 +298,16 @@
       "name": "Vue.js Interview Questions",
       "url": "https://github.com/sudheerj/vuejs-interview-questions",
       "description": "A List of 300 VueJS Interview Questions and Answers",
+      "section": [
+        "Resources",
+        "Job Portal"
+      ]
+    },
+    {
+      "key": "https://jobsinjs.com/vue-developer-jobs",
+      "name": "Jobs in JS",
+      "url": "https://jobsinjs.com/vue-developer-jobs/",
+      "description": "Vue.js developer jobs in the US, Canada and UK. Updated daily.",
       "section": [
         "Resources",
         "Job Portal"
@@ -3683,6 +3693,16 @@
       ]
     },
     {
+      "key": "https://github.com/martinezsalmeron/dentalpin",
+      "name": "DentalPin",
+      "url": "https://github.com/martinezsalmeron/dentalpin",
+      "description": "Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.",
+      "section": [
+        "Projects Using Vue.js",
+        "Open Source"
+      ]
+    },
+    {
       "key": "https://wijmo.com/products/wijmo-5",
       "name": "Wijmo",
       "url": "https://wijmo.com/products/wijmo-5/",
@@ -6118,6 +6138,17 @@
       ]
     },
     {
+      "key": "https://vue.lynxjs.org",
+      "name": "Vue Lynx",
+      "url": "https://vue.lynxjs.org",
+      "description": "A Vue 3 custom renderer for Lynx, rendering to native iOS and Android views and compiling to web from one codebase.",
+      "section": [
+        "Components & Libraries",
+        "Frameworks",
+        "Mobile"
+      ]
+    },
+    {
       "key": "https://github.com/youzan/vant",
       "name": "vant",
       "url": "https://github.com/youzan/vant",
@@ -6155,6 +6186,17 @@
       "name": "NutUI",
       "url": "https://github.com/jdf2e/nutui/",
       "description": "A Vue.js 2.0 UI Toolkit for Mobile Web",
+      "section": [
+        "Components & Libraries",
+        "Frameworks",
+        "Mobile"
+      ]
+    },
+    {
+      "key": "https://vyui.dev",
+      "name": "Vy UI",
+      "url": "https://vyui.dev",
+      "description": "Headless primitives and styled components for Vue Lynx, with a shadcn-style CLI for copying component source into your project.",
       "section": [
         "Components & Libraries",
         "Frameworks",
@@ -6507,6 +6549,17 @@
       "name": "VitePress",
       "url": "https://github.com/vuejs/vitepress",
       "description": "Vite & Vue powered static site generator.",
+      "section": [
+        "Components & Libraries",
+        "Frameworks",
+        "Static website generator"
+      ]
+    },
+    {
+      "key": "https://github.com/bloggrify/bloggrify",
+      "name": "Bloggrify",
+      "url": "https://github.com/bloggrify/bloggrify",
+      "description": "Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.",
       "section": [
         "Components & Libraries",
         "Frameworks",
@@ -7738,10 +7791,10 @@
       ]
     },
     {
-      "key": "https://github.com/noeGnh/vue3-map-chart",
-      "name": "vue3-map-chart",
-      "url": "https://github.com/noeGnh/vue3-map-chart",
-      "description": "Vue 3 components for displaying dynamic data on a world, continents, countries and custom maps.",
+      "key": "https://github.com/noeGnh/map-chart",
+      "name": "map-chart",
+      "url": "https://github.com/noeGnh/map-chart",
+      "description": "Vue 3 and React components for displaying dynamic data on a world, continents, countries and custom maps.",
       "section": [
         "Components & Libraries",
         "UI Components",
@@ -8277,10 +8330,10 @@
       ]
     },
     {
-      "key": "https://github.com/noeGnh/vue3-icon-picker",
-      "name": "vue3-icon-picker",
-      "url": "https://github.com/noeGnh/vue3-icon-picker",
-      "description": "Icon picker component for Vue 3.",
+      "key": "https://github.com/noeGnh/icon-picker",
+      "name": "icon-picker",
+      "url": "https://github.com/noeGnh/icon-picker",
+      "description": "component libraries for Vue 3 and React, both searching icons live from Iconify (150+ icon sets, 200,000+ icons).",
       "section": [
         "Components & Libraries",
         "UI Components",
@@ -8460,6 +8513,19 @@
       "name": "vue-month-spinner-picker",
       "url": "https://github.com/jlc488/vue-month-spinner-picker",
       "description": "iOS-style drum-roll month picker for Vue 3. Inertia scrolling, bottom sheet modal, min/max constraints, i18n and theming via CSS variables. Zero dependencies.",
+      "section": [
+        "Components & Libraries",
+        "UI Components",
+        "Form",
+        "Generator",
+        "Date Picker"
+      ]
+    },
+    {
+      "key": "https://github.com/devslab-kr/vue-date-rail",
+      "name": "vue-date-rail",
+      "url": "https://github.com/devslab-kr/vue-date-rail",
+      "description": "Horizontal infinite-scroll date rail (day/month strip) picker for Vue 3. Headless composable core, Intl-based i18n, min/max & disabled dates, event marker slot, desktop wheel/drag scrolling, Tailwind-ready unstyled mode. Zero dependencies.",
       "section": [
         "Components & Libraries",
         "UI Components",
@@ -8769,6 +8835,18 @@
       ]
     },
     {
+      "key": "https://github.com/devslab-kr/numkey",
+      "name": "numkey",
+      "url": "https://github.com/devslab-kr/numkey",
+      "description": "Numeric input formatting for Vue 3 — live thousands grouping with a stable caret, string-first canonical v-model (money-safe), leading-zero cleanup, opt-in locale separators and Korean amount reading. Demo",
+      "section": [
+        "Components & Libraries",
+        "UI Components",
+        "Form",
+        "Masked Input"
+      ]
+    },
+    {
       "key": "https://github.com/froala/vue-froala-wysiwyg",
       "name": "vue-froala-wysiwyg",
       "url": "https://github.com/froala/vue-froala-wysiwyg",
@@ -8821,6 +8899,18 @@
       "name": "vue-quilly",
       "url": "https://github.com/alekswebnet/vue-quilly",
       "description": "🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.",
+      "section": [
+        "Components & Libraries",
+        "UI Components",
+        "Form",
+        "Rich Text Editing"
+      ]
+    },
+    {
+      "key": "https://github.com/JackUait/blok",
+      "name": "blok",
+      "url": "https://github.com/JackUait/blok",
+      "description": "Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.",
       "section": [
         "Components & Libraries",
         "UI Components",
@@ -9009,6 +9099,18 @@
       ]
     },
     {
+      "key": "https://github.com/devslab-kr/kokey",
+      "name": "kokey",
+      "url": "https://github.com/devslab-kr/kokey",
+      "description": "Wrong-keyboard-layout input fixer — v-kokey directive and KokeyInput component restore text typed with the wrong layout (Korean Dubeolsik IME built in; Russian, Hebrew, Thai and more as subpath imports), composition-safe with caret preserved. Demo",
+      "section": [
+        "Components & Libraries",
+        "UI Components",
+        "Form",
+        "Miscellaneous"
+      ]
+    },
+    {
       "key": "https://github.com/adi518/vue-stepper-component",
       "name": "vue-stepper-component",
       "url": "https://github.com/adi518/vue-stepper-component",
@@ -9147,6 +9249,17 @@
       "name": "FormKit",
       "url": "https://github.com/formkit/formkit",
       "description": "Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.",
+      "section": [
+        "Components & Libraries",
+        "UI Utilities",
+        "Form"
+      ]
+    },
+    {
+      "key": "https://github.com/eumicro/jsonschema-editor",
+      "name": "jsonschema-editor",
+      "url": "https://github.com/eumicro/jsonschema-editor",
+      "description": "JSON Schema and UI Schema form editor for Vue 3, with fillable forms, nested structures, and oneOf type selection.",
       "section": [
         "Components & Libraries",
         "UI Utilities",
@@ -10106,6 +10219,17 @@
       ]
     },
     {
+      "key": "https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue",
+      "name": "@i18n-micro/vue",
+      "url": "https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue",
+      "description": "Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.",
+      "section": [
+        "Components & Libraries",
+        "Utilities",
+        "i18n"
+      ]
+    },
+    {
       "key": "https://github.com/posva/pinia",
       "name": "pinia",
       "url": "https://github.com/posva/pinia",
@@ -10446,6 +10570,17 @@
       ]
     },
     {
+      "key": "https://github.com/JuandaGarcia/crd-ui",
+      "name": "crd-ui",
+      "url": "https://github.com/JuandaGarcia/crd-ui",
+      "description": "Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.",
+      "section": [
+        "Components & Libraries",
+        "Utilities",
+        "Payment"
+      ]
+    },
+    {
       "key": "https://github.com/jofftiquez/vue-stripe-checkout",
       "name": "vue-stripe-checkout",
       "url": "https://github.com/jofftiquez/vue-stripe-checkout",
@@ -10534,6 +10669,16 @@
       "name": "@agentskit/vue",
       "url": "https://github.com/AgentsKit-io/agentskit",
       "description": "Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.",
+      "section": [
+        "Components & Libraries",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/Souhailmakni/recaptcha-vue",
+      "name": "recaptcha-vue",
+      "url": "https://github.com/Souhailmakni/recaptcha-vue",
+      "description": "Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.",
       "section": [
         "Components & Libraries",
         "Integrations"
@@ -10981,6 +11126,17 @@
       "name": "sketch-to-vue",
       "url": "https://github.com/chenboxun87/sketch-to-vue",
       "description": "AI Skill for Claude Code & Cursor that converts Sketch MeaXure / MasterGo design exports into pixel-perfect Vue 2/3 components. Specialized for dashboard/cockpit/big-screen pages: deterministic asset resolution, ECharts auto-detection, Scene Graph analysis, and full consumption audit.",
+      "section": [
+        "Components & Libraries",
+        "Scaffold",
+        "Desktop"
+      ]
+    },
+    {
+      "key": "https://github.com/fridzema/oxide-dock",
+      "name": "OxideDock",
+      "url": "https://github.com/fridzema/oxide-dock",
+      "description": "Vue 3 desktop app starter built on Tauri v2, with Tailwind CSS, Pinia, Vitest, Playwright, and automated cross-platform releases.",
       "section": [
         "Components & Libraries",
         "Scaffold",

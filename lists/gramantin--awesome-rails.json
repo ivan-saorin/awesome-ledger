@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"00f038457fe642e63fad446ecec3551107d284be24377604e72eab73ef7d3b02\"",
+  "etag": "W/\"835da3a7459ca94c09341d7ffdd6114625e1b7913a5eb8ba12a3425b7e3bb5d0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3929,6 +3929,16 @@
       "name": "Bencher",
       "url": "https://bencher.dev/",
       "description": "A suite of continuous benchmarking tools designed to catch performance regressions in CI.",
+      "section": [
+        "Other Rails Tools",
+        "DevTools"
+      ]
+    },
+    {
+      "key": "https://getreadystack.com/tools/erb-rails-view-snippets-audit",
+      "name": "ERB Snippets + View Audit for Rails",
+      "url": "https://getreadystack.com/tools/erb-rails-view-snippets-audit",
+      "description": "Paste or open one .html.erb view and see every raw, html_safe, params and CSRF finding a Rails security review sends back — 26 rules, 36 snippets, offline in.",
       "section": [
         "Other Rails Tools",
         "DevTools"
