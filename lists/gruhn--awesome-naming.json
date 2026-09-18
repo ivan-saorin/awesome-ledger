@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"08302cb7b4a35a21d98601a56d09f9d91fc3a25cee619a48283610bd42227462\"",
+  "etag": "W/\"3c813f45db3c50a91cf2dc448e6f60fc6036c1681270bff107e90e8162c22692\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -52,7 +52,16 @@
       "key": "https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure",
       "name": "Israeli Queue",
       "url": "https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/",
-      "description": "A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can cut in line when they have already waiting friends.",
+      "description": "A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can cut in line when they already have waiting friends.",
+      "section": [
+        "Data Structures and Algorithms"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Queue_(abstract_data_type)",
+      "name": "Queue",
+      "url": "https://en.wikipedia.org/wiki/Queue_(abstract_data_type)",
+      "description": "In this data structure, items are always added at the end and removed at the front as if the items were waiting in line.",
       "section": [
         "Data Structures and Algorithms"
       ]
@@ -89,15 +98,6 @@
       "name": "Tree",
       "url": "https://en.wikipedia.org/wiki/Tree_(data_structure)",
       "description": "A hierarchically organized data structure. From the root item, the other items branch out into nodes and leaves. A collection of trees is often called a forest.",
-      "section": [
-        "Data Structures and Algorithms"
-      ]
-    },
-    {
-      "key": "https://en.wikipedia.org/wiki/Queue_(abstract_data_type)",
-      "name": "Queue",
-      "url": "https://en.wikipedia.org/wiki/Queue_(abstract_data_type)",
-      "description": "In this data structure, items are always added at the end and removed at the front as if the items were waiting in line.",
       "section": [
         "Data Structures and Algorithms"
       ]
@@ -160,7 +160,7 @@
       "key": "https://en.wikipedia.org/wiki/Spaghetti_code",
       "name": "Spaghetti Code",
       "url": "https://en.wikipedia.org/wiki/Spaghetti_code",
-      "description": "A program with a tangled and hard-to-follow stucture.",
+      "description": "A program with a tangled and hard-to-follow structure.",
       "section": [
         "Design Patterns and Anti-Patterns"
       ]
@@ -400,6 +400,186 @@
       ]
     },
     {
+      "key": "https://en.wikipedia.org/wiki/Busy_beaver",
+      "name": "Busy Beaver",
+      "url": "https://en.wikipedia.org/wiki/Busy_beaver",
+      "description": "Turing machines that produce numbers so insanely large, no other algorithm can keep up with them.",
+      "section": [
+        "Theoretical Computer Science"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Clique_problem",
+      "name": "Clique problem",
+      "url": "https://en.wikipedia.org/wiki/Clique_problem",
+      "description": "The problem of finding groups of mutual friends in a network of people with friendship relations. Or more generally, finding complete subgraphs.",
+      "section": [
+        "Theoretical Computer Science"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+      "name": "Game of Life",
+      "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+      "description": "A game world that showcases how astonishing complexity can arise from very simple ingredients.",
+      "section": [
+        "Theoretical Computer Science"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Oracle_machine",
+      "name": "Oracle",
+      "url": "https://en.wikipedia.org/wiki/Oracle_machine",
+      "description": "A black box that magically gives answers even to undecidable questions like the halting problem.",
+      "section": [
+        "Theoretical Computer Science"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Pumping_lemma",
+      "name": "Pumping lemma",
+      "url": "https://en.wikipedia.org/wiki/Pumping_lemma",
+      "description": "The fact that in some formal languages any sufficiently long string can be pumped with repetitions of its substring and the result stays in the same formal language.",
+      "section": [
+        "Theoretical Computer Science"
+      ]
+    },
+    {
+      "key": "https://github.com/containers/bubblewrap",
+      "name": "bubblewrap",
+      "url": "https://github.com/containers/bubblewrap",
+      "description": "Sandboxing tool forming a protective layer for your system.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://theapplegeek.co.uk/blog/caffeinate",
+      "name": "caffeinate",
+      "url": "https://www.theapplegeek.co.uk/blog/caffeinate",
+      "description": "Terminal app to keep macOS from \"sleeping\".",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/GoogleChromeLabs/clooney",
+      "name": "clooney",
+      "url": "https://github.com/GoogleChromeLabs/clooney",
+      "description": "A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney, who is also an actor.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb",
+      "name": "CockroachDB",
+      "url": "https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb",
+      "description": "Database application, that is marketed as being so fault-tolerant and resilient as a cockroach.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/corrosion-rs/corrosion",
+      "name": "corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "The process that turns metal into rust (literally), but also a tool that \"turns\" C++ into Rust.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://hauntsaninja.github.io/git_bayesect.html",
+      "name": "git bayesect",
+      "url": "https://hauntsaninja.github.io/git_bayesect.html",
+      "description": "Like git bisect but can cope with flaky tests using Bayesian inference.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/molecule-man/go-brrr",
+      "name": "go-brrr",
+      "url": "https://github.com/molecule-man/go-brrr",
+      "description": "Pure Go implementation of the _br_otli compression algorithm. Also a reference to the go brrr meme.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/jesseduffield/horcrux",
+      "name": "horcrux",
+      "url": "https://github.com/jesseduffield/horcrux",
+      "description": "Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/puppeteer/puppeteer",
+      "name": "Puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "A browser automation library. If the browser is the puppet, this is the puppeteer.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
+      "name": "Safari",
+      "url": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
+      "description": "Web browser developed by Apple.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://tldr.sh",
+      "name": "tldr",
+      "url": "https://tldr.sh/",
+      "description": "Simplified man pages with practical examples.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/mishoo/UglifyJS",
+      "name": "Uglify",
+      "url": "https://github.com/mishoo/UglifyJS",
+      "description": "A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/transloadit/uppy",
+      "name": "uppy",
+      "url": "https://github.com/transloadit/uppy",
+      "description": "A dog-themed uploader component. The name is a blend of upload and puppy. It even comes with a crash recovery plugin called Golden Retriever.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://webpack.js.org",
+      "name": "Webpack",
+      "url": "https://webpack.js.org/",
+      "description": "A bundler for JavaScript and other web assets with a short and descriptive name that also somewhat rhymes.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
+      "key": "https://yarnpkg.com",
+      "name": "yarn",
+      "url": "https://yarnpkg.com/",
+      "description": "Node.js dependency manager.",
+      "section": [
+        "Tools, Applications, Libraries, Frameworks"
+      ]
+    },
+    {
       "key": "https://saasframe.io/blog/the-bento-layout-trend",
       "name": "Bento layout",
       "url": "https://www.saasframe.io/blog/the-bento-layout-trend",
@@ -478,186 +658,6 @@
       "description": "A small message that briefly pops up at the edge of the screen and then disappears on its own, just like toast from a toaster.",
       "section": [
         "User Interface Design"
-      ]
-    },
-    {
-      "key": "https://en.wikipedia.org/wiki/Busy_beaver",
-      "name": "Busy Beaver",
-      "url": "https://en.wikipedia.org/wiki/Busy_beaver",
-      "description": "Turing machines that produce numbers so insanely large, no other algorithm can keep up with them.",
-      "section": [
-        "Theoretical Computer Science"
-      ]
-    },
-    {
-      "key": "https://en.wikipedia.org/wiki/Clique_problem",
-      "name": "Clique problem",
-      "url": "https://en.wikipedia.org/wiki/Clique_problem",
-      "description": "The problem of finding groups of mutual friends in a network of people with friendship relations. Or more generally, finding complete subgraphs.",
-      "section": [
-        "Theoretical Computer Science"
-      ]
-    },
-    {
-      "key": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
-      "name": "Game of Life",
-      "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
-      "description": "A game world that showcases how astonishing complexity can arise from very simple ingredients.",
-      "section": [
-        "Theoretical Computer Science"
-      ]
-    },
-    {
-      "key": "https://en.wikipedia.org/wiki/Oracle_machine",
-      "name": "Oracle",
-      "url": "https://en.wikipedia.org/wiki/Oracle_machine",
-      "description": "A black box that magically gives answers even to undecidable questions like the halting problem.",
-      "section": [
-        "Theoretical Computer Science"
-      ]
-    },
-    {
-      "key": "https://en.wikipedia.org/wiki/Pumping_lemma",
-      "name": "Pumping lemma",
-      "url": "https://en.wikipedia.org/wiki/Pumping_lemma",
-      "description": "The fact that in some formal languages any sufficiently long string can be pumped with repetitions of its substring and the result stays in the same formal language.",
-      "section": [
-        "Theoretical Computer Science"
-      ]
-    },
-    {
-      "key": "https://github.com/containers/bubblewrap",
-      "name": "bubblewrap",
-      "url": "https://github.com/containers/bubblewrap",
-      "description": "Sandboxing tool forming a protective layer for your system.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://theapplegeek.co.uk/blog/caffeinate",
-      "name": "caffeinate",
-      "url": "https://www.theapplegeek.co.uk/blog/caffeinate",
-      "description": "Terminal app to keep MacOS from \"sleeping\".",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://github.com/GoogleChromeLabs/clooney",
-      "name": "clooney",
-      "url": "https://github.com/GoogleChromeLabs/clooney",
-      "description": "A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney, who is also an actor.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb",
-      "name": "CockroachDB",
-      "url": "https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb",
-      "description": "Database application, that is marketed as being so fault-tolerant and resilient as a cockroach.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://github.com/corrosion-rs/corrosion",
-      "name": "corrosion",
-      "url": "https://github.com/corrosion-rs/corrosion",
-      "description": "The process that turns metal into rust (literally), but also a tool that \"turns\" C++ into Rust.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://hauntsaninja.github.io/git_bayesect.html",
-      "name": "git bayesect",
-      "url": "https://hauntsaninja.github.io/git_bayesect.html",
-      "description": "Like git bisect but can cope with flaky tests using Baysian inferance.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://github.com/molecule-man/go-brrr",
-      "name": "go-brrr",
-      "url": "https://github.com/molecule-man/go-brrr",
-      "description": "Pure Go implementation of the brotli compression algorithm . Also a reference to the go brrr meme.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://github.com/jesseduffield/horcrux",
-      "name": "horcrux",
-      "url": "https://github.com/jesseduffield/horcrux",
-      "description": "Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://github.com/puppeteer/puppeteer",
-      "name": "Puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "description": "A browser automation library. If the browser is the puppet, this is the puppeteer.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
-      "name": "Safari",
-      "url": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
-      "description": "Web browser developed by Apple.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://tldr.sh",
-      "name": "tldr",
-      "url": "https://tldr.sh/",
-      "description": "Simplified man pages with practical examples.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://github.com/mishoo/UglifyJS",
-      "name": "Uglify",
-      "url": "https://github.com/mishoo/UglifyJS",
-      "description": "A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://github.com/transloadit/uppy",
-      "name": "uppy",
-      "url": "https://github.com/transloadit/uppy",
-      "description": "A dog-themed uploader component. The name is a blend of upload and puppy. It even comes with a crash recovery plugin called Golden Retriever.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://webpack.js.org",
-      "name": "Webpack",
-      "url": "https://webpack.js.org/",
-      "description": "A bundler for JavaScript and other web assets with a short and descriptive name that also somewhat rhymes.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
-      ]
-    },
-    {
-      "key": "https://yarnpkg.com",
-      "name": "yarn",
-      "url": "https://yarnpkg.com/",
-      "description": "NodeJS dependency manager.",
-      "section": [
-        "Tools, Applications, Libraries, Frameworks"
       ]
     },
     {

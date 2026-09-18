@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5a67cacecddab6fccdaca70b96f09a32d01dd3bdd76dd580b1f756f8bfb7e9ee\"",
+  "etag": "W/\"ae1efcc207de18df234c28c1658f3fdb408db770a9218e29b92b3f167c552d04\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1075,15 +1075,6 @@
       ]
     },
     {
-      "key": "https://github.com/analysis-tools-dev/static-analysis/issues/223",
-      "name": ":information_source:",
-      "url": "https://github.com/analysis-tools-dev/static-analysis/issues/223",
-      "description": "warning: — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/douglascrockford/JSLint",
       "name": "JSLint",
       "url": "https://github.com/douglascrockford/JSLint",
@@ -1138,6 +1129,15 @@
       ]
     },
     {
+      "key": "https://github.com/analysis-tools-dev/static-analysis/issues/223",
+      "name": ":information_source:",
+      "url": "https://github.com/analysis-tools-dev/static-analysis/issues/223",
+      "description": "warning: — Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://github.com/aviatesk/JET.jl",
       "name": "JET",
       "url": "https://github.com/aviatesk/JET.jl",
@@ -1165,9 +1165,9 @@
       ]
     },
     {
-      "key": "https://facebook.github.io/ktfmt",
+      "key": "https://kotlin.github.io/ktfmt",
       "name": "ktfmt",
-      "url": "https://facebook.github.io/ktfmt/",
+      "url": "https://kotlin.github.io/ktfmt/",
       "description": "A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions. A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.",
       "section": [
         "Programming Languages"
@@ -1480,9 +1480,9 @@
       ]
     },
     {
-      "key": "https://securityonline.info/owasp-wap-web-application-protection-project",
+      "key": "https://awap.sourceforge.net",
       "name": "WAP",
-      "url": "https://securityonline.info/owasp-wap-web-application-protection-project",
+      "url": "https://awap.sourceforge.net/",
       "description": "Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives by combining static analysis and data mining.",
       "section": [
         "Programming Languages"
@@ -2173,9 +2173,9 @@
       ]
     },
     {
-      "key": "https://trailofbits.com/post/write-rust-lints-without-forking-clippy",
+      "key": "https://blog.trailofbits.com/2021/11/09/write-rust-lints-without-forking-clippy",
       "name": "dylint",
-      "url": "https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy",
+      "url": "https://blog.trailofbits.com/2021/11/09/write-rust-lints-without-forking-clippy/",
       "description": "A tool for running Rust lints from dynamic libraries. Dylint makes it easy for developers to maintain their own personal lint collections.",
       "section": [
         "Programming Languages"
@@ -2452,15 +2452,6 @@
       ]
     },
     {
-      "key": "https://github.com/palantir/tslint/issues/4534",
-      "name": "this issue",
-      "url": "https://github.com/palantir/tslint/issues/4534",
-      "description": "for more details. typescript-eslint is now your best option for linting TypeScript. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/whyboris/TypeScript-Call-Graph",
       "name": "TypeScript Call Graph",
       "url": "https://github.com/whyboris/TypeScript-Call-Graph",
@@ -2483,6 +2474,15 @@
       "name": "zod",
       "url": "https://zod.dev",
       "description": "TypeScript-first schema validation with static type inference. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It is easy to compose simpler types into complex data structures.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/palantir/tslint/issues/4534",
+      "name": "this issue",
+      "url": "https://github.com/palantir/tslint/issues/4534",
+      "description": "for more details. typescript-eslint is now your best option for linting TypeScript. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.",
       "section": [
         "Programming Languages"
       ]
@@ -2749,15 +2749,6 @@
       ]
     },
     {
-      "key": "https://groupon.github.io/codeburner",
-      "name": "codeburner",
-      "url": "https://groupon.github.io/codeburner",
-      "description": "Provides a unified interface to sort and act on the issues it finds.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
       "key": "https://codefactor.io",
       "name": "CodeFactor",
       "url": "https://codefactor.io",
@@ -2816,15 +2807,6 @@
       "name": "CodeScene",
       "url": "https://codescene.com",
       "description": "copyright: — CodeScene is a quality visualization tool for software. Prioritize technical debt, detect delivery risks, and measure organizational aspects. Fully automated.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
-      "key": "https://codesee.io",
-      "name": "CodeSee",
-      "url": "https://www.codesee.io/",
-      "description": "copyright: — CodeSee is mapping and automating your app's services, directories, file dependencies, and code changes. It's like Google Map, but for code.t",
       "section": [
         "Multiple languages"
       ]
@@ -2897,6 +2879,15 @@
       "name": "Depends",
       "url": "https://github.com/multilang-depends/depends",
       "description": "Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://depwarden.in",
+      "name": "DepWarden",
+      "url": "https://depwarden.in",
+      "description": "copyright: — Free, anonymous SCA + SAST scanner. SCA: scans npm, PyPI, Maven, Go, Cargo, Ruby, NuGet dependencies for CVEs (OSV/KEV/EPSS), typosquats and supply-chain risk. SAST: pattern + taint analysis for 15 languages, 300+ rules. No account, no source upload. Available as a web tool, zero-install CLI and GitHub Action.",
       "section": [
         "Multiple languages"
       ]
@@ -3001,9 +2992,9 @@
       ]
     },
     {
-      "key": "https://microfocus.com/en-us/cyberres/application-security/static-code-analyzer",
+      "key": "https://opentext.com/products/static-application-security-testing",
       "name": "Fortify",
-      "url": "https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer",
+      "url": "https://www.opentext.com/products/static-application-security-testing",
       "description": "copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.",
       "section": [
         "Multiple languages"
@@ -3127,15 +3118,6 @@
       ]
     },
     {
-      "key": "https://github.com/HzaCode/Langlint",
-      "name": "LangLint",
-      "url": "https://github.com/HzaCode/Langlint",
-      "description": "Automated translation platform for code comments and docstrings across 20+ file types. Eliminates language barriers in international software collaboration. Supports 100+ language pairs with syntax protection. Integrates into CI/CD pipelines like Ruff. 10-20x faster with concurrent processing.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
       "key": "https://lgtm.com",
       "name": "LGTM",
       "url": "https://lgtm.com/",
@@ -3190,9 +3172,9 @@
       ]
     },
     {
-      "key": "https://neurolint.dev",
+      "key": "https://github.com/Alcatecablee/Neurolint-CLI",
       "name": "Neurolint-CLI",
-      "url": "https://neurolint.dev",
+      "url": "https://github.com/Alcatecablee/Neurolint-CLI#readme",
       "description": "Deterministic code transformation tool using AST parsing and rule-based transformations. Automatically fixes 50+ issues including accessibility violations, hydration errors, React 19/Next.js 16 migrations, and configuration updates. Features 5-step fail-safe orchestration to ensure zero breaking changes. Specialized for React, Next.js, and TypeScript projects.",
       "section": [
         "Multiple languages"
@@ -3230,6 +3212,15 @@
       "name": "OpenStaticAnalyzer",
       "url": "https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer",
       "description": "OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://opentaint.org",
+      "name": "OpenTaint",
+      "url": "https://opentaint.org",
+      "description": "Open-source taint analysis engine for Java and Kotlin applications, formerly Seqra. Tracks data flow across function boundaries to find security vulnerabilities, with Spring support, YAML rules, and CI integrations.",
       "section": [
         "Multiple languages"
       ]
@@ -3442,15 +3433,6 @@
       ]
     },
     {
-      "key": "https://seqra.dev",
-      "name": "Seqra",
-      "url": "https://seqra.dev",
-      "description": "Security-focused static analyzer for Java and Kotlin web applications. Analyzes bytecode with Semgrep-style YAML rules and CodeQL-grade dataflow (with first-class Spring support) to find vulnerabilities that source-only scanners miss.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
       "key": "https://softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform",
       "name": "Sigrid",
       "url": "https://www.softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform/",
@@ -3550,9 +3532,9 @@
       ]
     },
     {
-      "key": "https://securityreviewer.atlassian.net/wiki/spaces/KC/pages/196633/Static+Reviewer",
+      "key": "https://securityreviewer.net/kb/products",
       "name": "StaticReviewer",
-      "url": "https://securityreviewer.atlassian.net/wiki/spaces/KC/pages/196633/Static+Reviewer",
+      "url": "https://securityreviewer.net/kb/products",
       "description": "copyright: — Static Reviewer executes code checks according to the most relevant Secure Coding Standards, OWASP, CWE, CVE, CVSS, MISRA, CERT, for 40+ programming languages, using 1000+ built-in validation rules for Security, Deadcode & Best Practices Available a module for Software Composition Analysis (SCA) to find vulnerabilities in open source and third party libraries.",
       "section": [
         "Multiple languages"
@@ -3734,6 +3716,24 @@
       "name": "GitGuardian ggshield",
       "url": "https://www.gitguardian.com/ggshield",
       "description": "ggshield is a CLI application that runs in your local environment or in a CI environment to help you detect more than 350+ types of secrets, as well as other potential security vulnerabilities or policy breaks affecting your codebase.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://skillsaw.org",
+      "name": "skillsaw",
+      "url": "https://skillsaw.org/",
+      "description": "Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://trent.ai",
+      "name": "trentclaw",
+      "url": "https://trent.ai/",
+      "description": "Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.",
       "section": [
         "Other"
       ]
@@ -4000,9 +4000,9 @@
       ]
     },
     {
-      "key": "https://docs.chef.io/cookstyle.html",
+      "key": "https://docs.chef.io/workstation/cookstyle",
       "name": "cookstyle",
-      "url": "https://docs.chef.io/cookstyle.html",
+      "url": "https://docs.chef.io/workstation/cookstyle/",
       "description": "Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks.",
       "section": [
         "Other"
@@ -4180,15 +4180,6 @@
       ]
     },
     {
-      "key": "https://trent.ai",
-      "name": "trentclaw",
-      "url": "https://trent.ai/",
-      "description": "Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://zizmor.sh",
       "name": "zizmor",
       "url": "https://zizmor.sh",
@@ -4234,15 +4225,6 @@
       ]
     },
     {
-      "key": "https://github.com/twbs/bootlint",
-      "name": "Bootlint",
-      "url": "https://github.com/twbs/bootlint",
-      "description": ", the HTML linter for Bootstrap projects.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://html-validate.org",
       "name": "HTML-Validate",
       "url": "https://html-validate.org/",
@@ -4265,6 +4247,15 @@
       "name": "Pa11y",
       "url": "https://pa11y.org/",
       "description": "Automated accessibility testing tool that runs HTML CodeSniffer or axe-core from the command line. Supports CI/CD integration, multiple reporters, and testing against WCAG 2.1 AA standards.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/twbs/bootlint",
+      "name": "Bootlint",
+      "url": "https://github.com/twbs/bootlint",
+      "description": ", the HTML linter for Bootstrap projects.",
       "section": [
         "Other"
       ]
@@ -4522,15 +4513,6 @@
       ]
     },
     {
-      "key": "https://huggingface.co/SAPOSS/password-model",
-      "name": "Password Model",
-      "url": "https://huggingface.co/SAPOSS/password-model",
-      "description": ". This scanner is able to detect passwords and non structured tokens with a low false positive rate.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://github.com/Yelp/detect-secrets",
       "name": "detect-secrets",
       "url": "https://github.com/Yelp/detect-secrets",
@@ -4598,6 +4580,15 @@
       "name": "Tsunami Security Scanner",
       "url": "https://github.com/google/tsunami-security-scanner",
       "description": "A general purpose network security scanner with an extensible plugin system for detecting high severity RCE-like vulnerabilities with high confidence. Custom detectors for finding vulnerabilities (e.g. open APIs) can be added.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://huggingface.co/SAPOSS/password-model",
+      "name": "Password Model",
+      "url": "https://huggingface.co/SAPOSS/password-model",
+      "description": ". This scanner is able to detect passwords and non structured tokens with a low false positive rate.",
       "section": [
         "Other"
       ]
@@ -4738,6 +4729,15 @@
       ]
     },
     {
+      "key": "https://appsecsanta.com/sast-tools",
+      "name": "AppSec Santa — SAST Tools",
+      "url": "https://appsecsanta.com/sast-tools",
+      "description": "Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives",
+      "section": [
+        "More collections"
+      ]
+    },
+    {
       "key": "https://github.com/collections/clean-code-linters",
       "name": "Clean code linters",
       "url": "https://github.com/collections/clean-code-linters",
@@ -4787,15 +4787,6 @@
       "name": "php-static-analysis-tools",
       "url": "https://github.com/exakat/php-static-analysis-tools",
       "description": "A reviewed list of useful PHP static analysis tools",
-      "section": [
-        "More collections"
-      ]
-    },
-    {
-      "key": "https://appsecsanta.com/sast-tools",
-      "name": "AppSec Santa — SAST Tools",
-      "url": "https://appsecsanta.com/sast-tools",
-      "description": "Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives",
       "section": [
         "More collections"
       ]

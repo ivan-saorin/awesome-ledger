@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"387cfda790657891a98d884f31c5b082d198e8eb11d1c7eba1115b57418af7fa\"",
+  "etag": "W/\"cb314214eb278870ce8dcb8cbc17b159712336ea6689d4a216a3acd119c363d5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -808,6 +808,17 @@
       "name": "bus-router",
       "url": "https://github.com/atlregional/bus-router",
       "description": "Python script that generates missing shapes.txt for GTFS using routing from Google Maps Directions API or OSRM.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Data Collection and Maintenance Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/julian-city/croquis",
+      "name": "Croquis",
+      "url": "https://github.com/julian-city/croquis",
+      "description": "An open-source R package and Shiny web application for transit sketch planning and GTFS production and editing. Users can upload an existing GTFS file or rapidly create one from scratch on an interactive map interface.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -3094,6 +3105,17 @@
       "name": "Amtraker",
       "url": "https://amtraker.com/",
       "description": "Live tracker for Amtrak trains across the US, with route maps and station ETAs.",
+      "section": [
+        "Using Data",
+        "Consumer Apps",
+        "Web Apps (closed source)"
+      ]
+    },
+    {
+      "key": "https://haltestelle.net",
+      "name": "haltestelle.net",
+      "url": "https://haltestelle.net",
+      "description": "Live departure boards for every stop in Germany's VRR and VRS transit networks (Rhine-Ruhr / Rhine-Sieg, NRW), powered by the TRIAS realtime interface. Also shows live vehicle positions along each line and real-time elevator/escalator status — runs entirely in the browser, no app needed.",
       "section": [
         "Using Data",
         "Consumer Apps",
