@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9523634211db6575a663e5407bdd1b270a3334694407a24d877f30d3c8209546\"",
+  "etag": "W/\"b763109d630cc9f926417e95bb92afa3c6e6a9bfece6dd9a39bebb8e851af398\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -7485,6 +7485,16 @@
       "name": "vercel/turborepo",
       "url": "https://github.com/vercel/turborepo",
       "description": "High-performance build system for JavaScript and TypeScript monorepos, written in Rust. Features incremental computation, remote caching, and parallel task execution.",
+      "section": [
+        "Development tools",
+        "Build system"
+      ]
+    },
+    {
+      "key": "https://github.com/wislertt/zerv",
+      "name": "wislertt/zerv",
+      "url": "https://github.com/wislertt/zerv",
+      "description": "[zerv] - Dynamic versioning tool that generates a version for every build from any Git state, with SemVer, PEP 440, and CalVer output",
       "section": [
         "Development tools",
         "Build system"

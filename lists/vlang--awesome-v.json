@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"35754ec6fcc8b9b08ff736dc0f6a8b45f1f19871a8bcf0a5d3657880b2ef3e2d\"",
+  "etag": "W/\"6de31da6e8224b2bae162be7150985573787d587178574f4b8dc9d8d48564df4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -864,6 +864,16 @@
       ]
     },
     {
+      "key": "https://github.com/Create-Vlang-App/create-vlang-app",
+      "name": "create-vlang-app",
+      "url": "https://github.com/Create-Vlang-App/create-vlang-app",
+      "description": "A V-native scaffolding CLI to generate production-ready V projects from composable templates and extensions.",
+      "section": [
+        "Applications",
+        "Project management"
+      ]
+    },
+    {
       "key": "https://github.com/lenra-io/template-v",
       "name": "Lenra template",
       "url": "https://github.com/lenra-io/template-v",
@@ -1337,7 +1347,7 @@
       "key": "https://github.com/vlang/leveldb",
       "name": "leveldb",
       "url": "https://github.com/vlang/leveldb",
-      "description": "LevelDB implementation in pure V.",
+      "description": "Pure V implementation of LevelDB.",
       "section": [
         "Libraries",
         "Database clients"
@@ -1818,6 +1828,26 @@
       "name": "vmq",
       "url": "https://github.com/jordan-bonecutter/vmq",
       "description": "V wrapper For ZMQ (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).",
+      "section": [
+        "Libraries",
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/bedrock-v/webrtc-v",
+      "name": "webrtc-v",
+      "url": "https://github.com/bedrock-v/webrtc-v",
+      "description": "A pure V implementation of the WebRTC protocol stack.",
+      "section": [
+        "Libraries",
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/bedrock-v/raknet",
+      "name": "raknet",
+      "url": "https://github.com/bedrock-v/raknet",
+      "description": "A V implementation of the classic RakNet protocol used by Minecraft: Bedrock Edition.",
       "section": [
         "Libraries",
         "Networking"

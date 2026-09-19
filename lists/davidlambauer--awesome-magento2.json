@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"bba7161adfd0f8dcc9a0ac9d9b83f142db0129b1b2f65e636bc0e665f801ee96\"",
+  "etag": "W/\"362a00f464293c68a784fd5629391d2bd32ad079255a0551ed6aea94db528ce0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -220,15 +220,6 @@
       ]
     },
     {
-      "key": "https://front-commerce.com",
-      "name": "Front-Commerce",
-      "url": "https://www.front-commerce.com/",
-      "description": "French PWA front-end solution for Magento.",
-      "section": [
-        "Front-ends"
-      ]
-    },
-    {
       "key": "https://github.com/nunomaduro/phpinsights",
       "name": "PhpInsights",
       "url": "https://github.com/nunomaduro/phpinsights",
@@ -413,6 +404,15 @@
       "name": "Magento Log Viewer (VS Code extension)",
       "url": "https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer",
       "description": "VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://magento.watch",
+      "name": "magento.watch",
+      "url": "https://magento.watch",
+      "description": "Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.",
       "section": [
         "Tools"
       ]
@@ -1043,6 +1043,26 @@
       ]
     },
     {
+      "key": "https://github.com/BerryPath/magento2-berrypath-flow",
+      "name": "BerryPath Guided Selling",
+      "url": "https://github.com/BerryPath/magento2-berrypath-flow",
+      "description": "Open source integration for BerryPath. Add interactive product finders and buying guides to Magento 2 storefronts with product synchronization, assisted conversion tracking + Hyvä compatibility.",
+      "section": [
+        "Open Source Extensions",
+        "Marketing"
+      ]
+    },
+    {
+      "key": "https://github.com/BerryPath/magento2-berrypath-product-feed",
+      "name": "BerryPath Product Feed",
+      "url": "https://github.com/BerryPath/magento2-berrypath-product-feed",
+      "description": "Open source Magento 2 product feed generator. Create XML product feeds with configurable attributes and multi store support for Google Shopping, Meta, Pinterest, TikTok, Microsoft Shopping, AI search engines and custom integrations.",
+      "section": [
+        "Open Source Extensions",
+        "Marketing"
+      ]
+    },
+    {
       "key": "https://github.com/staempfli/magento2-module-pdf",
       "name": "Magento 2 PDF",
       "url": "https://github.com/staempfli/magento2-module-pdf",
@@ -1357,16 +1377,6 @@
       "name": "Magicento",
       "url": "http://magicento.com/",
       "description": "PHPStorm plugin to add Magento 2 related functionality.",
-      "section": [
-        "Open Source Extensions",
-        "Proprietary Extensions"
-      ]
-    },
-    {
-      "key": "https://store.pulsestorm.net/products/commerce-bug-3",
-      "name": "Commercebug Debugging Extension",
-      "url": "http://store.pulsestorm.net/products/commerce-bug-3",
-      "description": "A Magento 2 Debug Extension.",
       "section": [
         "Open Source Extensions",
         "Proprietary Extensions"
@@ -1771,15 +1781,6 @@
       ]
     },
     {
-      "key": "https://mage2.tv",
-      "name": "Mage2.tv",
-      "url": "https://www.mage2.tv",
-      "description": "Magento 2 developer screencasts by Vinai Kopp.",
-      "section": [
-        "Learning"
-      ]
-    },
-    {
       "key": "https://youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl",
       "name": "MageTitans Italia 2016",
       "url": "https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl",
@@ -1861,37 +1862,10 @@
       ]
     },
     {
-      "key": "https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog",
-      "name": "Magento Developer Blog",
-      "url": "https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog",
-      "description": "Developer blog run by Magento.",
-      "section": [
-        "Official Resources"
-      ]
-    },
-    {
       "key": "https://devdocs.magento.com",
       "name": "Magento Developer Documentation",
       "url": "http://devdocs.magento.com/",
       "description": "Official developer documentation.",
-      "section": [
-        "Official Resources"
-      ]
-    },
-    {
-      "key": "https://community.magento.com",
-      "name": "Magento Forum",
-      "url": "https://community.magento.com/",
-      "description": "Community forum run by Magento.",
-      "section": [
-        "Official Resources"
-      ]
-    },
-    {
-      "key": "https://magento.com",
-      "name": "Magento Official Website",
-      "url": "https://www.magento.com",
-      "description": "Magento's official website.",
       "section": [
         "Official Resources"
       ]
@@ -2045,6 +2019,15 @@
       "name": "Sergej Derzap",
       "url": "https://amasty.com",
       "description": "Treasurer of the Magento Association; CEO and CPO of Amasty, one of the largest Magento 2 extension vendors; 18+ years in the ecosystem.",
+      "section": [
+        "Influencing People"
+      ]
+    },
+    {
+      "key": "https://mage2.tv",
+      "name": "Vinai Kopp",
+      "url": "https://mage2.tv/",
+      "description": "President of Mage-OS; Technical Director at Hyva Themes; 3x Magento Master; creator of Mage2Katas; lead of the Mage-OS Technical Working Group.",
       "section": [
         "Influencing People"
       ]

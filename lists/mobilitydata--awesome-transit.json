@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cb314214eb278870ce8dcb8cbc17b159712336ea6689d4a216a3acd119c363d5\"",
+  "etag": "W/\"f654d2aa2211e602d2bc33a701cc207e253519d862df2fcdeac6f9d2aa23598d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1126,7 +1126,7 @@
       "key": "https://github.com/ChelseaKR/gtfs-scorecard",
       "name": "GTFS Scorecard",
       "url": "https://github.com/ChelseaKR/gtfs-scorecard",
-      "description": "Daily, open-source GTFS and GTFS-Realtime quality scoring for a curated registry of 1,700+ feed records with 1,100+ published scorecards, rider-focused fix guidance, agency and program views, trend history, a read API, pre-publish checks, and a GitHub Action.",
+      "description": "Daily, open-source GTFS and GTFS-Realtime quality scoring, built on the MobilityData validator, for a curated registry of 2,400+ feed records, virtually all with a published scorecard. Rider-focused fix guidance, agency/program/state-NTD-readiness views, trend history, a read API, pre-publish checks via a GitHub Action, and a paid report bundle for programs supporting many agencies.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -1332,6 +1332,17 @@
       ]
     },
     {
+      "key": "https://github.com/ttezer/gtfs-analyzer",
+      "name": "GTFS Analyzer",
+      "url": "https://github.com/ttezer/gtfs-analyzer",
+      "description": "An open-source, local-first GTFS Schedule validator and quality analyzer written in Rust, available as a browser-based WebAssembly app, a Cargo-installable CLI, a Rust library, an npm SDK, and a CI/CD integration. It supports multilingual reports in Turkish, English, and Japanese, GTFS-JP v3/v4 profile validation, local browser processing without feed uploads, and additional specification, interoperability, accessibility, geographic, service, and operational quality analysis. Web app.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Validators"
+      ]
+    },
+    {
       "key": "https://github.com/Stephen-Gates/GTFS",
       "name": "GTFS Data Package Specification",
       "url": "https://github.com/Stephen-Gates/GTFS",
@@ -1413,6 +1424,17 @@
       "name": "Reflect GTFS Validator (hosted by Foursquare ITP)",
       "url": "https://reflect.foursquareitp.com",
       "description": "Transit schedule and GTFS validation platform by Foursquare ITP that includes a free, web-based GTFS validator based on gtfs-lib.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Validators"
+      ]
+    },
+    {
+      "key": "https://github.com/ChelseaKR/tods-validate",
+      "name": "tods-validate",
+      "url": "https://github.com/ChelseaKR/tods-validate",
+      "description": "A Python validator and GitHub Action for TODS feeds, the operational overlay to GTFS covering crew runs, deadheads and vehicle assignments. Checks a feed against TODS v2.1.0, cross-checks the companion GTFS, and cites the spec section behind each finding. Also runs entirely in the browser via WebAssembly, so non-public operational data is not uploaded.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -3105,6 +3127,17 @@
       "name": "Amtraker",
       "url": "https://amtraker.com/",
       "description": "Live tracker for Amtrak trains across the US, with route maps and station ETAs.",
+      "section": [
+        "Using Data",
+        "Consumer Apps",
+        "Web Apps (closed source)"
+      ]
+    },
+    {
+      "key": "https://busrtinsights.com",
+      "name": "Bus RT Insights",
+      "url": "https://busrtinsights.com",
+      "description": "Web-based transit analytics platform that turns GTFS and GTFS-Realtime data into automated KPIs, service delivery analysis, load profiles, and interactive maps and dashboards for any agency that has GTFS and GTFS-RT publicly available.",
       "section": [
         "Using Data",
         "Consumer Apps",

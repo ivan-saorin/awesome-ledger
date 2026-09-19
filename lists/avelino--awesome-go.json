@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"79703f8c35f2d59014d0d5411348d225c8485cc9e907c528bcc43ef636cb7785\"",
+  "etag": "W/\"8a8aee37ab191cba681a2146fc209364203a54185b84600c112b01f06e3117b6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -12981,6 +12981,16 @@
       "name": "wire",
       "url": "https://github.com/Fs02/wire",
       "description": "Strict Runtime Dependency Injection for Golang.",
+      "section": [
+        "Miscellaneous",
+        "Dependency Injection"
+      ]
+    },
+    {
+      "key": "https://github.com/livetribe/yama",
+      "name": "yama",
+      "url": "https://github.com/livetribe/yama",
+      "description": "Compile-time dependency injection and lifecycle framework that generates start, quiesce, and stop code for Google Wire graphs.",
       "section": [
         "Miscellaneous",
         "Dependency Injection"
