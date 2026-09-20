@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"29feda7a2f6516be9a762d1419439f1318b6bfa4b56674d93cf4bc325b49632c\"",
+  "etag": "W/\"66258e8e63de5eb94230a870886d0d505f545b68bc97e666350c7462a2d6f51f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4653,6 +4653,15 @@
       "name": "gtr",
       "url": "https://github.com/Zocker1999NET/zsh-gtr",
       "description": "Allows fast tagging of a release in git using the tag name *release-YYYY-MM-DD-HH-MM- and headline Release YYYY-MM-DD HH:MM.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/findmalek/guesswork",
+      "name": "guesswork",
+      "url": "https://github.com/findmalek/guesswork",
+      "description": "Fish-style history autosuggestions ranked by an AI model instead of prefix matching, so an abbreviation or a short description of what you want finds the right command out of your recent history.",
       "section": [
         "Plugins"
       ]
@@ -9428,6 +9437,15 @@
       ]
     },
     {
+      "key": "https://github.com/undefined443/tssh",
+      "name": "tssh",
+      "url": "https://github.com/undefined443/tssh",
+      "description": "Adds a function for connecting to a named tmux session on a remote host. selects the tmux integration mode from the current terminal - tmux control mode for iTerm 2, standard tmux client for everything else.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/unixorn/tumult.plugin.zsh",
       "name": "tumult",
       "url": "https://github.com/unixorn/tumult.plugin.zsh",
@@ -13506,18 +13524,9 @@
     },
     {
       "key": "https://github.com/aramirol/apple-zsh-custom-themes",
-      "name": "apple (aramirol)",
+      "name": "apple",
       "url": "https://github.com/aramirol/apple-zsh-custom-themes",
       "description": "Based on robbyrussell, includes vcs status decorations. Colors customizable by setting vars in your .zshrc.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/bjrowlett2/apple-zsh-theme",
-      "name": "apple (bjrowlett2)",
-      "url": "https://github.com/bjrowlett2/apple-zsh-theme",
-      "description": "Minimalist theme with git status decorations.",
       "section": [
         "Themes"
       ]
@@ -22652,7 +22661,7 @@
       "key": "https://github.com/kislyuk/argcomplete",
       "name": "argcomplete",
       "url": "https://github.com/kislyuk/argcomplete",
-      "description": "Generates tab completions for programs using Python's argparse module.",
+      "description": "Generates tab completions for programs written using Python's argparse module.",
       "section": [
         "Other Resources",
         "ZSH Tools"
@@ -22702,7 +22711,7 @@
       "key": "https://github.com/adaszko/complgen",
       "name": "complgen",
       "url": "https://github.com/adaszko/complgen",
-      "description": "Generates completion scripts for bash/fish/zsh from a man-page/EBNF-like grammar. The resulting standalone scripts require only the target shell to be present.",
+      "description": "Generates completion scripts for bash/fish/ZSH from a man-page/EBNF-like grammar. The resulting standalone scripts require only the target shell to be present.",
       "section": [
         "Other Resources",
         "ZSH Tools"
@@ -22752,7 +22761,7 @@
       "key": "https://github.com/johnstonskj/rust-zsh-plugin-cli",
       "name": "rust-zsh-plugin-cli",
       "url": "https://github.com/johnstonskj/rust-zsh-plugin-cli",
-      "description": "This tool scaffolds Zsh plugins with best practices built-in, including function tracking for clean unloading, optional alias support, autoloaded functions, and CI/CD workflows for shellcheck and shellspec. Choose from minimal, simple, or complete templates to match your plugin's complexity.",
+      "description": "This tool scaffolds ZSH plugins with best practices built-in, including function tracking for clean unloading, optional alias support, autoloaded functions, and CI/CD workflows for shellcheck and shellspec. Choose from minimal, simple, or complete templates to match your plugin's complexity.",
       "section": [
         "Other Resources",
         "ZSH Tools"
@@ -22802,7 +22811,7 @@
       "key": "https://github.com/ctil/zargparse",
       "name": "zargparse",
       "url": "https://github.com/ctil/zargparse",
-      "description": "Pass it a script that uses argparse and it will write a ZSH completion to your current directory.",
+      "description": "Pass it a script that uses Python's argparse and it will write a ZSH completion to your current directory.",
       "section": [
         "Other Resources",
         "ZSH Tools"
@@ -22853,6 +22862,16 @@
       "name": "zshelldoc",
       "url": "https://github.com/zdharma-continuum/zshelldoc",
       "description": "Doxygen for shell scripts. Parses ZSH and Bash scripts, outputs Asciidoc document with function lists, call trees, lists of exported variables, and more.",
+      "section": [
+        "Other Resources",
+        "ZSH Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/kongo2002/zshist",
+      "name": "zshist",
+      "url": "https://github.com/kongo2002/zshist",
+      "description": "A shell history daemon-free replacement for ZSH's built-in history. Stores every command in a JSONL file with directory, exit code, timestamp, and duration, and gives you fzf-powered fuzzy search plus prefix-based up-arrow-style search.",
       "section": [
         "Other Resources",
         "ZSH Tools"

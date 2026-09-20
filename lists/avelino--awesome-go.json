@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8a8aee37ab191cba681a2146fc209364203a54185b84600c112b01f06e3117b6\"",
+  "etag": "W/\"d60885cb31a318709942e08128cb1f79c46f5e7cc642e9f4243219fd3a91e25d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8917,6 +8917,15 @@
       "name": "borders",
       "url": "https://github.com/kpfaulkner/borders",
       "description": "Detects image borders and converts to GeoJSON for GIS operations.",
+      "section": [
+        "Geographic"
+      ]
+    },
+    {
+      "key": "https://github.com/AlexG695/geo-engine-go",
+      "name": "geo-engine-go",
+      "url": "https://github.com/AlexG695/geo-engine-go",
+      "description": "Official Go SDK for GeoEngine, offering high-performance geospatial data ingestion with single-digit millisecond latency.",
       "section": [
         "Geographic"
       ]

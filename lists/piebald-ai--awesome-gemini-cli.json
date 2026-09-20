@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"84803f7783de66e0bff56f47888f43d66589563402e2c6e8914def823e6c4287\"",
+  "etag": "W/\"541b808ba038aa5cc64ea2a272e8b74ed5c3aa9fde52644fd8455b5fbb53c33f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -935,6 +935,15 @@
       "name": "Usage HUD",
       "url": "https://hud.thaliabloom.com/",
       "description": "Native macOS menu-bar meter that shows your Gemini CLI usage window next to Claude, Codex, Grok and Ollama, with a confidence label on every number. Paid, $9.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/devgiordane/openfiles",
+      "name": "OpenFiles",
+      "url": "https://github.com/devgiordane/openfiles",
+      "description": "VS Code extension (also on Open VSX for Cursor, Windsurf and VSCodium) that opens every file Gemini CLI edits so ESLint, TypeScript and other language servers check it, then returns the problems to Gemini CLI through an AfterTool hook in the same turn. Also works with Claude Code, Codex, Copilot and Cursor. MIT.",
       "section": [
         "Development Tools & Utilities"
       ]
