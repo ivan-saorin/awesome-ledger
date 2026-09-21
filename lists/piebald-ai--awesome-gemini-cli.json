@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"541b808ba038aa5cc64ea2a272e8b74ed5c3aa9fde52644fd8455b5fbb53c33f\"",
+  "etag": "W/\"800c3321daf16dc349c65fc4f8fa2a3e9df1795fcb0f75b3691f15df7a7f3820\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -179,6 +179,15 @@
       "name": "Termly",
       "url": "https://termly.dev/",
       "description": "Free native iOS and Android app to monitor and control Gemini CLI (and other CLI AI assistants) remotely. Zero-knowledge E2E encryption, pairs in under 60 seconds via QR code. No subscriptions, no usage limits.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/cvelasquez/agent-workbench",
+      "name": "Agent Workbench",
+      "url": "https://github.com/cvelasquez/agent-workbench",
+      "description": "Local web UI for Antigravity CLI (agy), the official successor to Gemini CLI: tabs, browsable history, conversations as cards, and its status and context meter through the status line. Runs Claude Code, Codex and OpenCode side by side and hands a conversation over from one CLI to another. It doesn't drive Gemini CLI itself; the repository includes a one-off importer for old Gemini CLI chats.",
       "section": [
         "Interfaces"
       ]
@@ -643,6 +652,33 @@
       ]
     },
     {
+      "key": "https://github.com/raimondasl/isitdone-gemini",
+      "name": "isitdone",
+      "url": "https://github.com/raimondasl/isitdone-gemini",
+      "description": "Gemini CLI extension that refuses to let the agent end its turn claiming \"done\" until the repository's real test, typecheck and lint commands pass. An AfterAgent hook runs them on the exact working tree and feeds the failing output back; an AfterTool hook warns when an edit weakened a test. No LLM calls, no network. Install via gemini extensions install https://github.com/raimondasl/isitdone-gemini.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/minosin/gtdbrain-gemini-extension",
+      "name": "GTD Brain",
+      "url": "https://github.com/minosin/gtdbrain-gemini-extension",
+      "description": "Getting Things Done (GTD) task board for Gemini CLI: capture to your Inbox, next actions by context, projects, Waiting For and a guided weekly review over a hosted MCP server, plus a GEMINI.md context file and /gtd:* commands. Sign in with an email code, no API key; same board as the GTD Brain web, iOS and Android apps. Install: gemini extensions install https://github.com/minosin/gtdbrain-gemini-extension.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/hermes-labs-ai/supersearch",
+      "name": "SuperSearch",
+      "url": "https://github.com/hermes-labs-ai/supersearch",
+      "description": "Local Python CLI/library that fans out bounded searches across web, code, community, and research sources and returns source-explicit JSON receipts.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -944,6 +980,15 @@
       "name": "OpenFiles",
       "url": "https://github.com/devgiordane/openfiles",
       "description": "VS Code extension (also on Open VSX for Cursor, Windsurf and VSCodium) that opens every file Gemini CLI edits so ESLint, TypeScript and other language servers check it, then returns the problems to Gemini CLI through an AfterTool hook in the same turn. Also works with Claude Code, Codex, Copilot and Cursor. MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/hermes-labs-ai/hermes-jailbench",
+      "name": "Hermes Jailbench",
+      "url": "https://github.com/hermes-labs-ai/hermes-jailbench",
+      "description": "Repeatable jailbreak test harness for Anthropic/OpenAI-compatible endpoints. It emits deterministic refusal/partial/compliance classifications and includes a no-key dry-run and Gemini CLI extension.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -1331,6 +1376,15 @@
       "name": "Glasser",
       "url": "https://github.com/glasser-ai/plugins",
       "description": "One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: gemini mcp add --transport http glasser https://api.glasser.ai/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/minds-ai-co/minds-mcp",
+      "name": "Minds",
+      "url": "https://github.com/minds-ai-co/minds-mcp",
+      "description": "Synthetic market research: create AI audiences, interview them and run studies such as MaxDiff, conjoint and NPS. Remote MCP server with OAuth; installable as a Gemini CLI extension.",
       "section": [
         "MCP Servers"
       ]

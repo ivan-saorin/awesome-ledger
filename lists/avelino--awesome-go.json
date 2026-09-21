@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d60885cb31a318709942e08128cb1f79c46f5e7cc642e9f4243219fd3a91e25d\"",
+  "etag": "W/\"1590808773836612e011785eaac602cdc92e696964d0110a1784bc60e9e1697a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -5166,6 +5166,16 @@
       "name": "pgrwl",
       "url": "https://github.com/pgrwl/pgrwl",
       "description": "Cloud-native continuous backup for PostgreSQL.",
+      "section": [
+        "Database",
+        "Database Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hrodrig/pgwd",
+      "name": "pgwd",
+      "url": "https://github.com/hrodrig/pgwd",
+      "description": "CLI that monitors PostgreSQL connection counts (total, active, idle, stale) and notifies via Slack and/or Loki when thresholds are exceeded. Supports Kubernetes (kubectl port-forward) and optional run context in notifications.",
       "section": [
         "Database",
         "Database Tools"
@@ -25887,6 +25897,16 @@
       "name": "skm",
       "url": "https://github.com/TimothyYe/skm",
       "description": "SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!",
+      "section": [
+        "Software Packages",
+        "DevOps Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/sortie-ai/sortie",
+      "name": "sortie",
+      "url": "https://github.com/sortie-ai/sortie",
+      "description": "Turn tracker tickets into autonomous coding agent sessions.",
       "section": [
         "Software Packages",
         "DevOps Tools"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b6c7919e907d189a9e60cee3168889e0b24c040f79b356bc08386258568398c5\"",
+  "etag": "W/\"cc0601f7ec45ac3a8819eef675a4c456d20d531c0d2927ddc3442fba0828708b\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -53,6 +53,33 @@
       "name": "Bonsai",
       "url": "https://github.com/uxebu/bonsai",
       "description": "BonsaiJS is a graphics library and renderer.",
+      "section": [
+        "SVG"
+      ]
+    },
+    {
+      "key": "https://github.com/merri-ment/lazy-line-painter",
+      "name": "Lazy Line Painter",
+      "url": "https://github.com/merri-ment/lazy-line-painter",
+      "description": "A modern JavaScript library for SVG path animation.",
+      "section": [
+        "SVG"
+      ]
+    },
+    {
+      "key": "https://github.com/veltman/flubber",
+      "name": "Flubber",
+      "url": "https://github.com/veltman/flubber",
+      "description": "Tools for smoother SVG shape morphing and interpolation.",
+      "section": [
+        "SVG"
+      ]
+    },
+    {
+      "key": "https://github.com/airbnb/lottie-web",
+      "name": "Lottie",
+      "url": "https://github.com/airbnb/lottie-web",
+      "description": "Render After Effects animations natively on the web as SVG or Canvas.",
       "section": [
         "SVG"
       ]
@@ -211,6 +238,51 @@
       ]
     },
     {
+      "key": "https://github.com/theatre-js/theatre",
+      "name": "Theatre.js",
+      "url": "https://github.com/theatre-js/theatre",
+      "description": "Motion design editor for the web.",
+      "section": [
+        "Common"
+      ]
+    },
+    {
+      "key": "https://github.com/Popmotion/popmotion",
+      "name": "Popmotion",
+      "url": "https://github.com/Popmotion/popmotion",
+      "description": "Simple animation libraries for delightful user interfaces.",
+      "section": [
+        "Common"
+      ]
+    },
+    {
+      "key": "https://github.com/formkit/auto-animate",
+      "name": "AutoAnimate",
+      "url": "https://github.com/formkit/auto-animate",
+      "description": "Zero-config, drop-in animation utility for smooth DOM transitions.",
+      "section": [
+        "Common"
+      ]
+    },
+    {
+      "key": "https://github.com/thednp/kute.js",
+      "name": "KUTE.js",
+      "url": "https://github.com/thednp/kute.js",
+      "description": "JavaScript animation engine for modern browsers.",
+      "section": [
+        "Common"
+      ]
+    },
+    {
+      "key": "https://github.com/rive-app/rive-wasm",
+      "name": "Rive",
+      "url": "https://github.com/rive-app/rive-wasm",
+      "description": "Web runtime for interactive Rive animations.",
+      "section": [
+        "Common"
+      ]
+    },
+    {
       "key": "https://github.com/daneden/animate.css",
       "name": "Animate.css",
       "url": "https://github.com/daneden/animate.css",
@@ -260,6 +332,51 @@
       "name": "Bounce.js",
       "url": "https://github.com/tictail/bounce.js",
       "description": "Create beautiful CSS3 powered animations in no time.",
+      "section": [
+        "CSS"
+      ]
+    },
+    {
+      "key": "https://github.com/ingram-projects/animxyz",
+      "name": "AnimXYZ",
+      "url": "https://github.com/ingram-projects/animxyz",
+      "description": "Composable CSS animation toolkit powered by CSS variables.",
+      "section": [
+        "CSS"
+      ]
+    },
+    {
+      "key": "https://github.com/IanLunn/Hover",
+      "name": "Hover.css",
+      "url": "https://github.com/IanLunn/Hover",
+      "description": "A collection of CSS3 powered hover effects.",
+      "section": [
+        "CSS"
+      ]
+    },
+    {
+      "key": "https://github.com/elrumordelaluz/csshake",
+      "name": "CSShake",
+      "url": "https://github.com/elrumordelaluz/csshake",
+      "description": "CSS classes to shake your DOM.",
+      "section": [
+        "CSS"
+      ]
+    },
+    {
+      "key": "https://github.com/jh3y/whirl",
+      "name": "Whirl",
+      "url": "https://github.com/jh3y/whirl",
+      "description": "CSS loading animations with minimal effort.",
+      "section": [
+        "CSS"
+      ]
+    },
+    {
+      "key": "https://github.com/css-doodle/css-doodle",
+      "name": "CSS Doodle",
+      "url": "https://github.com/css-doodle/css-doodle",
+      "description": "A web component for drawing patterns with CSS.",
       "section": [
         "CSS"
       ]
@@ -355,6 +472,69 @@
       ]
     },
     {
+      "key": "https://github.com/pixijs/pixijs",
+      "name": "PixiJS",
+      "url": "https://github.com/pixijs/pixijs",
+      "description": "Fast 2D WebGL renderer for interactive graphics and animation.",
+      "section": [
+        "Canvas"
+      ]
+    },
+    {
+      "key": "https://github.com/processing/p5.js",
+      "name": "p5.js",
+      "url": "https://github.com/processing/p5.js",
+      "description": "Creative coding library for drawing and animation on canvas.",
+      "section": [
+        "Canvas"
+      ]
+    },
+    {
+      "key": "https://github.com/metafizzy/zdog",
+      "name": "Zdog",
+      "url": "https://github.com/metafizzy/zdog",
+      "description": "Round, flat, designer-friendly pseudo-3D engine for canvas and SVG.",
+      "section": [
+        "Canvas"
+      ]
+    },
+    {
+      "key": "https://github.com/catdad/canvas-confetti",
+      "name": "canvas-confetti",
+      "url": "https://github.com/catdad/canvas-confetti",
+      "description": "Performant confetti animation in the browser.",
+      "section": [
+        "Canvas"
+      ]
+    },
+    {
+      "key": "https://github.com/tengbao/vanta",
+      "name": "Vanta.js",
+      "url": "https://github.com/tengbao/vanta",
+      "description": "Animated 3D backgrounds for your website.",
+      "section": [
+        "Canvas"
+      ]
+    },
+    {
+      "key": "https://github.com/mrdoob/three.js",
+      "name": "Three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D library.",
+      "section": [
+        "Canvas"
+      ]
+    },
+    {
+      "key": "https://github.com/liabru/matter-js",
+      "name": "Matter.js",
+      "url": "https://github.com/liabru/matter-js",
+      "description": "A 2D rigid body physics engine for the web.",
+      "section": [
+        "Canvas"
+      ]
+    },
+    {
       "key": "https://github.com/michalsnik/aos",
       "name": "AOS",
       "url": "https://github.com/michalsnik/aos",
@@ -418,6 +598,51 @@
       ]
     },
     {
+      "key": "https://github.com/darkroomengineering/lenis",
+      "name": "Lenis",
+      "url": "https://github.com/darkroomengineering/lenis",
+      "description": "Lightweight, accessible smooth scroll library.",
+      "section": [
+        "Animate on scroll"
+      ]
+    },
+    {
+      "key": "https://github.com/locomotivemtl/locomotive-scroll",
+      "name": "Locomotive Scroll",
+      "url": "https://github.com/locomotivemtl/locomotive-scroll",
+      "description": "Detection of elements in viewport and smooth scrolling with parallax.",
+      "section": [
+        "Animate on scroll"
+      ]
+    },
+    {
+      "key": "https://github.com/dixonandmoe/rellax",
+      "name": "Rellax",
+      "url": "https://github.com/dixonandmoe/rellax",
+      "description": "Lightweight vanilla JavaScript parallax library.",
+      "section": [
+        "Animate on scroll"
+      ]
+    },
+    {
+      "key": "https://github.com/scroll-out/scroll-out",
+      "name": "ScrollOut",
+      "url": "https://github.com/scroll-out/scroll-out",
+      "description": "Scroll effects for reveal, parallax, and CSS variables.",
+      "section": [
+        "Animate on scroll"
+      ]
+    },
+    {
+      "key": "https://github.com/nolimits4web/atropos",
+      "name": "Atropos",
+      "url": "https://github.com/nolimits4web/atropos",
+      "description": "Touch-friendly 3D parallax hover effects.",
+      "section": [
+        "Animate on scroll"
+      ]
+    },
+    {
       "key": "https://github.com/yuanqing/malarkey",
       "name": "Malarkey",
       "url": "https://github.com/yuanqing/malarkey",
@@ -463,6 +688,42 @@
       ]
     },
     {
+      "key": "https://github.com/shshaw/Splitting",
+      "name": "Splitting",
+      "url": "https://github.com/shshaw/Splitting",
+      "description": "Microlibrary to split text into words and characters for CSS animation.",
+      "section": [
+        "Text"
+      ]
+    },
+    {
+      "key": "https://github.com/alexmacarthur/typeit",
+      "name": "TypeIt",
+      "url": "https://github.com/alexmacarthur/typeit",
+      "description": "The most versatile JavaScript typewriter effect library.",
+      "section": [
+        "Text"
+      ]
+    },
+    {
+      "key": "https://github.com/tameemsafi/typewriterjs",
+      "name": "TypewriterJS",
+      "url": "https://github.com/tameemsafi/typewriterjs",
+      "description": "Native JavaScript plugin for typewriter text effects.",
+      "section": [
+        "Text"
+      ]
+    },
+    {
+      "key": "https://github.com/barvian/number-flow",
+      "name": "NumberFlow",
+      "url": "https://github.com/barvian/number-flow",
+      "description": "Animated number component for React, Vue, Svelte, and vanilla JS.",
+      "section": [
+        "Text"
+      ]
+    },
+    {
       "key": "https://github.com/framer/motion",
       "name": "Motion",
       "url": "https://github.com/framer/motion",
@@ -494,6 +755,60 @@
       "name": "React spring",
       "url": "https://www.react-spring.io/",
       "description": "Open source, spring-physics based animation library for React that supports interpolations. Fast and easy to use.",
+      "section": [
+        "React"
+      ]
+    },
+    {
+      "key": "https://github.com/Gamote/lottie-react",
+      "name": "Lottie React",
+      "url": "https://github.com/Gamote/lottie-react",
+      "description": "React component for rendering Lottie animations.",
+      "section": [
+        "React"
+      ]
+    },
+    {
+      "key": "https://github.com/rive-app/rive-react",
+      "name": "Rive React",
+      "url": "https://github.com/rive-app/rive-react",
+      "description": "React runtime for interactive Rive animations.",
+      "section": [
+        "React"
+      ]
+    },
+    {
+      "key": "https://github.com/aholachek/react-flip-toolkit",
+      "name": "React Flip Toolkit",
+      "url": "https://github.com/aholachek/react-flip-toolkit",
+      "description": "Lightweight magic-move library for configurable layout transitions.",
+      "section": [
+        "React"
+      ]
+    },
+    {
+      "key": "https://github.com/remotion-dev/remotion",
+      "name": "Remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "Create videos programmatically with React.",
+      "section": [
+        "React"
+      ]
+    },
+    {
+      "key": "https://github.com/pmndrs/react-three-fiber",
+      "name": "React Three Fiber",
+      "url": "https://github.com/pmndrs/react-three-fiber",
+      "description": "A React renderer for Three.js.",
+      "section": [
+        "React"
+      ]
+    },
+    {
+      "key": "https://github.com/reactjs/react-transition-group",
+      "name": "React Transition Group",
+      "url": "https://github.com/reactjs/react-transition-group",
+      "description": "Perform animations when a React component enters or leaves the DOM.",
       "section": [
         "React"
       ]
@@ -571,10 +886,100 @@
       ]
     },
     {
+      "key": "https://rive.app",
+      "name": "Rive",
+      "url": "https://rive.app/",
+      "description": "Real-time interactive animation tool for websites, apps, and games. Design vector graphics and state machines in the editor, then ship them with open-source runtimes for the web.",
+      "section": [
+        "GUI tools"
+      ]
+    },
+    {
+      "key": "https://lottiefiles.com",
+      "name": "LottieFiles",
+      "url": "https://lottiefiles.com/",
+      "description": "Platform for creating, editing, and shipping Lottie and dotLottie animations. Browse a huge motion library or use Lottie Creator in the browser.",
+      "section": [
+        "GUI tools"
+      ]
+    },
+    {
+      "key": "https://svgator.com",
+      "name": "SVGator",
+      "url": "https://www.svgator.com/",
+      "description": "Browser-based SVG animation tool with a visual timeline. Animate stroke, fill, morph, and motion along a path, then export CSS, JavaScript, or Lottie.",
+      "section": [
+        "GUI tools"
+      ]
+    },
+    {
+      "key": "https://spline.design",
+      "name": "Spline",
+      "url": "https://spline.design/",
+      "description": "Real-time 3D design tool that runs in the browser. Build interactive 3D scenes and export them to websites with the Spline runtime.",
+      "section": [
+        "GUI tools"
+      ]
+    },
+    {
+      "key": "https://cables.gl",
+      "name": "Cables",
+      "url": "https://cables.gl/",
+      "description": "Visual programming tool for interactive WebGL content. Connect operators into patches and export real-time visuals to your website.",
+      "section": [
+        "GUI tools"
+      ]
+    },
+    {
+      "key": "https://easings.net",
+      "name": "Easings.net",
+      "url": "https://easings.net/",
+      "description": "Visual cheat sheet of easing functions. Compare curves, preview motion, and copy CSS or JavaScript snippets.",
+      "section": [
+        "GUI tools"
+      ]
+    },
+    {
       "key": "https://youtube.com/user/flintyara",
       "name": "Yuri Artyukh youtube channel",
       "url": "https://www.youtube.com/user/flintyara",
       "description": "This man creates amazing web animations using various technologies for this, and recording it all in steam format.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/@GreenSockLearning",
+      "name": "GSAP Learning",
+      "url": "https://www.youtube.com/@GreenSockLearning",
+      "description": "Official GreenSock channel with GSAP tutorials, scroll demos, and plugin walkthroughs.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/@Hyperplexed",
+      "name": "Hyperplexed",
+      "url": "https://www.youtube.com/@Hyperplexed",
+      "description": "Creative front-end motion breakdowns: hover effects, text animation, and award-style interactions.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/@TheCodingTrain",
+      "name": "The Coding Train",
+      "url": "https://www.youtube.com/@TheCodingTrain",
+      "description": "Daniel Shiffman teaches creative coding, canvas animation, and p5.js in an approachable format.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/@KevinPowell",
+      "name": "Kevin Powell",
+      "url": "https://www.youtube.com/@KevinPowell",
+      "description": "Practical CSS animation, transitions, and modern layout techniques.",
       "section": [
         "Videos"
       ]

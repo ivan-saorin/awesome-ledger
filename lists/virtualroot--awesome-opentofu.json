@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1997df7782943847d47d4db6be2f61614d4cbf8196598e6431cc6586207f5d2e\"",
+  "etag": "W/\"765ec51c33aa94edf0ffc4014cabba12807c98f9616bf98fd917b376e29b2027\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -671,6 +671,16 @@
       "name": "tfupdate",
       "url": "https://github.com/minamijoyo/tfupdate",
       "description": "Update version constraints in your Terraform / OpenTofu configurations.",
+      "section": [
+        "Tools",
+        "Helpers"
+      ]
+    },
+    {
+      "key": "https://github.com/bare-devcontainer/templates/tree/main/src/opentofu",
+      "name": "bare-devcontainer/templates",
+      "url": "https://github.com/bare-devcontainer/templates/tree/main/src/opentofu",
+      "description": "Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at bare-devcontainer/images.",
       "section": [
         "Tools",
         "Helpers"

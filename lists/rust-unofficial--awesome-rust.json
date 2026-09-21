@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d40ce452c12c8592fc64048e71ed4611b937d7bebca0b8090b0c3cd0ef9edb8f\"",
+  "etag": "W/\"5c2b7b48d817df99f2bc6178b058586213c6e7af482eb51f811c20a1f758a471\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -269,15 +269,6 @@
       "name": "linkerd/linkerd2-proxy",
       "url": "https://github.com/linkerd/linkerd2-proxy",
       "description": "Ultralight service mesh for Kubernetes.",
-      "section": [
-        "Applications"
-      ]
-    },
-    {
-      "key": "https://github.com/SoCkEt7/Livediff",
-      "name": "Livediff",
-      "url": "https://github.com/SoCkEt7/Livediff",
-      "description": "[livediff] - Real-time terminal file diff monitoring TUI.",
       "section": [
         "Applications"
       ]
@@ -7510,6 +7501,16 @@
       ]
     },
     {
+      "key": "https://github.com/rui314/mold",
+      "name": "rui314/mold",
+      "url": "https://github.com/rui314/mold",
+      "description": "A modern, high-speed linker for Linux, macOS, and Windows (ELF, Mach-O, PE)",
+      "section": [
+        "Development tools",
+        "Build system"
+      ]
+    },
+    {
       "key": "https://github.com/TraceMachina/nativelink",
       "name": "tracemachina/nativelink",
       "url": "https://github.com/TraceMachina/nativelink",
@@ -9190,17 +9191,6 @@
       "name": "ave-sergeev/tictonix",
       "url": "https://github.com/Ave-Sergeev/Tictonix",
       "description": "[tictonix] - A library that provides the ability to convert tokens into embeddings, as well as to encode their positions.",
-      "section": [
-        "Libraries",
-        "Artificial Intelligence",
-        "Machine learning"
-      ]
-    },
-    {
-      "key": "https://github.com/avifenesh/memra",
-      "name": "avifenesh/memra",
-      "url": "https://github.com/avifenesh/memra",
-      "description": "[memra-server] - Inference engine for NVIDIA Blackwell cards with per-device tuned defaults, serving GGUF and safetensors over an OpenAI-compatible API; speculative, CUDA-graphed and batched decode are each gated byte-identical to plain decode.",
       "section": [
         "Libraries",
         "Artificial Intelligence",
@@ -16371,6 +16361,16 @@
       "name": "mitsuhiko/minijinja",
       "url": "https://github.com/mitsuhiko/minijinja",
       "description": "[minijinja] - minimal dependency template engine based on Jinja2.",
+      "section": [
+        "Libraries",
+        "Template engine"
+      ]
+    },
+    {
+      "key": "https://github.com/rshtml/rshtml",
+      "name": "rshtml/rshtml",
+      "url": "https://github.com/rshtml/rshtml",
+      "description": "[rshtml] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.",
       "section": [
         "Libraries",
         "Template engine"
