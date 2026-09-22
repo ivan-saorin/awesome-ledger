@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"08103ab703d05cf5c857c5692b125ca78b284b6ec9da2f56692b7e8e53ba9f54\"",
+  "etag": "W/\"63b0e5a00e310df9dac02bbf5ed19d65ef7fbd11c119c7bf10db51a881b16b52\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2618,6 +2618,15 @@
       "name": "activerecord-postgres_enum",
       "url": "https://github.com/bibendi/activerecord-postgres_enum",
       "description": "A gem to adds migration and schema.rb support to PostgreSQL enum data types. :red_circle:",
+      "section": [
+        "Gems"
+      ]
+    },
+    {
+      "key": "https://github.com/carldaws/activerecord-postgresql-branched",
+      "name": "activerecord-postgresql-branched",
+      "url": "https://github.com/carldaws/activerecord-postgresql-branched",
+      "description": "Database adapter that gives each git branch its own PostgreSQL schema. :red_circle:",
       "section": [
         "Gems"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"69c42a1c422db562dd31fe22e79f127e646ad20924690e8f993cabdbd835345d\"",
+  "etag": "W/\"28b395260813bf3283ed607db3a1b7beaed2c05a0a4fce2b7f9ae53ae9c0b022\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -728,6 +728,15 @@
       "name": "Crysthamus/nvim-file-operations",
       "url": "https://github.com/Crysthamus/nvim-file-operations",
       "description": "Add support for workspace file operations using built-in LSPs.",
+      "section": [
+        "LSP"
+      ]
+    },
+    {
+      "key": "https://github.com/carldaws/miser.nvim",
+      "name": "carldaws/miser.nvim",
+      "url": "https://github.com/carldaws/miser.nvim",
+      "description": "Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's mise.toml.",
       "section": [
         "LSP"
       ]

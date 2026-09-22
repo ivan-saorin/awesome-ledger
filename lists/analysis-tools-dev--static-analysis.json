@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6f6f9495d979214b633e67798e1384aa194c49be1b65cd3ffe4ac13272de5ebf\"",
+  "etag": "W/\"f996117c2b9f3779fba4d3cb8375ffce686de38021533f541ecbd3dc61b6f3b8\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1079,6 +1079,15 @@
       "name": "JSLint",
       "url": "https://github.com/douglascrockford/JSLint",
       "description": "information_source: — The JavaScript Code Quality Tool.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://opensecurity.in",
+      "name": "NodeJSScan",
+      "url": "https://opensecurity.in",
+      "description": "A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.",
       "section": [
         "Programming Languages"
       ]
@@ -4468,15 +4477,6 @@
       ]
     },
     {
-      "key": "https://opensecurity.in",
-      "name": "njsscan",
-      "url": "https://opensecurity.in",
-      "description": "A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
       "key": "https://wiki.debian.org/Lintian",
       "name": "lintian",
       "url": "https://wiki.debian.org/Lintian",
@@ -4679,15 +4679,6 @@
       "name": "languagetool",
       "url": "https://languagetool.org",
       "description": "Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/vlajos/misspell-fixer",
-      "name": "misspell-fixer",
-      "url": "https://github.com/vlajos/misspell-fixer",
-      "description": "Quick tool for fixing common misspellings, typos in source code.",
       "section": [
         "Other"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f654d2aa2211e602d2bc33a701cc207e253519d862df2fcdeac6f9d2aa23598d\"",
+  "etag": "W/\"6383d0c10a0ae79ced895103262e0d3ac750f6e4f79c774375055a344c90337a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -540,6 +540,17 @@
       ]
     },
     {
+      "key": "https://github.com/Gabboxl/gtfs-osm-import",
+      "name": "gtfs-osm-import",
+      "url": "https://github.com/Gabboxl/gtfs-osm-import",
+      "description": "Java tool for importing GTFS data into OpenStreetMap, with conflict checks against existing OSM elements.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Converters"
+      ]
+    },
+    {
       "key": "https://github.com/CUTR-at-USF/gtfs-osm-sync",
       "name": "GTFS-OSM-Sync",
       "url": "https://github.com/CUTR-at-USF/gtfs-osm-sync",
@@ -588,6 +599,17 @@
       "name": "gtfs-to-geojson",
       "url": "https://github.com/BlinkTagInc/gtfs-to-geojson",
       "description": "Javascript tool that converts transit data in GTFS shapes and stops into geoJSON. This is useful for creating maps of transit routes.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Converters"
+      ]
+    },
+    {
+      "key": "https://getroutepress.com/free-tools/gtfs-to-geojson",
+      "name": "RoutePress GTFS to GeoJSON Converter",
+      "url": "https://www.getroutepress.com/free-tools/gtfs-to-geojson",
+      "description": "Free, easy-to-use browser tool that converts GTFS shapes and stops into GeoJSON for use in ArcGIS, QGIS, and other GIS software. No installation required.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -1468,6 +1490,17 @@
       "name": "gtfs-accessiblity-validator",
       "url": "https://github.com/BlinkTagInc/gtfs-accessibility-validator",
       "description": "Validates the presence of accessiblity-related fields and files in a GTFS file. Can be a command line tool or node.js package.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Validators"
+      ]
+    },
+    {
+      "key": "https://gtfs.guru",
+      "name": "GTFS.guru",
+      "url": "https://gtfs.guru/",
+      "description": "Rust-core GTFS validator that compiles to WebAssembly so feeds can be validated locally in the browser. Also ships desktop apps, a CLI, and Python bindings.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -3116,6 +3149,39 @@
       "name": "DC MetroHero",
       "url": "https://dcmetrohero.net",
       "description": "Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.",
+      "section": [
+        "Using Data",
+        "Consumer Apps",
+        "Web Apps (closed source)"
+      ]
+    },
+    {
+      "key": "https://el-tracker.com/home",
+      "name": "El Tracker",
+      "url": "https://www.el-tracker.com/home",
+      "description": "Realtime tracker for Chicago Transit Authority (CTA) Loop trains.",
+      "section": [
+        "Using Data",
+        "Consumer Apps",
+        "Web Apps (closed source)"
+      ]
+    },
+    {
+      "key": "https://wmata-exit-optimizer.com",
+      "name": "WMATA Exit Optimizer",
+      "url": "https://wmata-exit-optimizer.com/",
+      "description": "Suggests which train car to board for the shortest walk to your destination station's exit on the WMATA Metro.",
+      "section": [
+        "Using Data",
+        "Consumer Apps",
+        "Web Apps (closed source)"
+      ]
+    },
+    {
+      "key": "https://transferhero.app",
+      "name": "Transfer Hero",
+      "url": "https://transferhero.app/",
+      "description": "Realtime metro trip planning for WMATA that surfaces useful transfers.",
       "section": [
         "Using Data",
         "Consumer Apps",

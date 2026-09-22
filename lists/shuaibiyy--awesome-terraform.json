@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"86455c1ea53350cdcc169123306929083a52de2ba0d0ef99638e82d3bcc10c86\"",
+  "etag": "W/\"273e80850e1383424516d3589ccd2a1e0b948d79ff4a71438a09fe525405ffcc\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -823,6 +823,16 @@
       ]
     },
     {
+      "key": "https://devtoolhub.com/terraform-docs-github-action",
+      "name": "The terraform-docs GitHub Action: A Complete CI Setup Guide",
+      "url": "https://devtoolhub.com/terraform-docs-github-action/",
+      "description": "Generating and auto-committing module docs on every PR with terraform-docs, including the OIDC/permissions gotchas that break it in CI.",
+      "section": [
+        "Tutorials and Blog Posts",
+        "Miscellaneous"
+      ]
+    },
+    {
       "key": "https://github.com/nis2shield/infrastructure",
       "name": "nis2shield/infrastructure",
       "url": "https://github.com/nis2shield/infrastructure",
@@ -1291,6 +1301,15 @@
       ]
     },
     {
+      "key": "https://github.com/fabiocicerchia/terraform-helm-cloud-carbon-footprint",
+      "name": "terraform-helm-cloud-carbon-footprint",
+      "url": "https://github.com/fabiocicerchia/terraform-helm-cloud-carbon-footprint",
+      "description": "Terraform/Helm module to deploy Cloud Carbon Footprint on Kubernetes.",
+      "section": [
+        "Community Modules"
+      ]
+    },
+    {
       "key": "https://github.com/fabiocicerchia/terraform-helm-kepler",
       "name": "terraform-helm-kepler",
       "url": "https://github.com/fabiocicerchia/terraform-helm-kepler",
@@ -1685,6 +1704,16 @@
       "name": "terraform-provider-env0",
       "url": "https://github.com/env0/terraform-provider-env0",
       "description": "Provider for env0",
+      "section": [
+        "Providers",
+        "Vendor supported providers"
+      ]
+    },
+    {
+      "key": "https://github.com/canopy-labs/terraform-provider-featureflip",
+      "name": "terraform-provider-featureflip",
+      "url": "https://github.com/canopy-labs/terraform-provider-featureflip",
+      "description": "Provider for Featureflip feature flags: projects, environments, flags, targeting rules, segments and SDK keys.",
       "section": [
         "Providers",
         "Vendor supported providers"
@@ -2937,6 +2966,15 @@
       "name": "TerraDepot",
       "url": "https://github.com/derBroBro/TerraDepot",
       "description": "Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/niravraychura/terradrift",
+      "name": "TerraDrift",
+      "url": "https://github.com/niravraychura/terradrift",
+      "description": "Self-hosted Terraform/OpenTofu drift CLI for CI and cron (plan-based; not unmanaged-resource inventory).",
       "section": [
         "Tools"
       ]
