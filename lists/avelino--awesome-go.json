@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1590808773836612e011785eaac602cdc92e696964d0110a1784bc60e9e1697a\"",
+  "etag": "W/\"5d0eb39086d0c4544bae33bfa7c614c4814a772f9fe8676c4c909564de83d092\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2887,6 +2887,15 @@
       "name": "CDS",
       "url": "https://github.com/ovh/cds",
       "description": "Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.",
+      "section": [
+        "Continuous Integration"
+      ]
+    },
+    {
+      "key": "https://github.com/jbunds/coverage",
+      "name": "coverage",
+      "url": "https://github.com/jbunds/coverage",
+      "description": "A simple Web UI for Go test coverage, and the go-test-coverage-html-report reusable GitHub Action.",
       "section": [
         "Continuous Integration"
       ]
