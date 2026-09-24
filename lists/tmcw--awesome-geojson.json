@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5b996953c3504d01118dcc119a38ad16b384b9d932c359787d3739909c7f2c03\"",
+  "etag": "W/\"6622b2d6250dc412347497f21d034cb5e52d435d805556af0e77369f6f29d514\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -386,6 +386,15 @@
       "name": "MapDraw",
       "url": "https://www.mapdraw.net/",
       "description": "web-based editor, imports & exports GeoJSON, GPX & KML, routing & elevation profiles, sharing via URL",
+      "section": [
+        "editors & viewers"
+      ]
+    },
+    {
+      "key": "https://9revolution9.com/tools/geo/geojson-viewer",
+      "name": "GeoJSON Viewer & Validator",
+      "url": "https://9revolution9.com/tools/geo/geojson-viewer",
+      "description": "web-based viewer, checks the declared bbox against the data, ring winding, coordinate ranges and swapped lat/lng, runs entirely in the browser",
       "section": [
         "editors & viewers"
       ]

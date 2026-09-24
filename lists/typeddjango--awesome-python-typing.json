@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"900514c4fa4221808915a77e402d930e2b839f9a99d59936eb4b8c242dcb9350\"",
+  "etag": "W/\"d33a723ee3a28eaf2a1d3365d3545bf3d796c1d091e714527f3d132a036bbd5a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -179,6 +179,15 @@
       "name": "trycast",
       "url": "https://github.com/davidfstr/trycast",
       "description": "Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.",
+      "section": [
+        "Dynamic type checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/connor-makowski/type_enforced",
+      "name": "type_enforced",
+      "url": "https://github.com/connor-makowski/type_enforced",
+      "description": "Fast runtime type enforcement for annotations with no dependencies. Includes fast O(1) and full O(n) operations.",
       "section": [
         "Dynamic type checkers"
       ]
