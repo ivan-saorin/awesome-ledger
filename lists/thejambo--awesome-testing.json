@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"98607469caf9bf421338e31bb2436163ce77bbee862acdc5eb9108d4a1b6cb71\"",
+  "etag": "W/\"c3c3682883c7c9c24e8a3d87ddf65b3629f1085a23b5cd8d4c4c7fba4ebe8c64\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -288,6 +288,16 @@
       "name": "crilio",
       "url": "https://github.com/mukundzha/crilio",
       "description": "An open-source Python CLI that uses LLM-as-a-Judge to automate semantic regression testing for LLM prompts in CI/CD, blocking GitHub PRs that cause hallucinations or break formatting rules. Supports OpenAI, Anthropic, and local Ollama models.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/dmsehgal/aiexpect",
+      "name": "aiexpect",
+      "url": "https://github.com/dmsehgal/aiexpect",
+      "description": "Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.",
       "section": [
         "Software",
         "AI & LLM Testing"
@@ -694,6 +704,16 @@
       ]
     },
     {
+      "key": "https://vibeview.io",
+      "name": "VibeView",
+      "url": "https://vibeview.io/",
+      "description": "Run & test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be ran cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://github.com/jiongfeng/waterfall-ai-test-platform",
       "name": "Waterfall AI Test",
       "url": "https://github.com/jiongfeng/waterfall-ai-test-platform",
@@ -707,7 +727,7 @@
       "key": "https://github.com/vostride/agent-qa",
       "name": "agent-qa",
       "url": "https://github.com/vostride/agent-qa",
-      "description": "Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.",
+      "description": "Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -814,26 +834,6 @@
       ]
     },
     {
-      "key": "https://github.com/altansayan/mock-jutsu-api",
-      "name": "MockJutsu",
-      "url": "https://github.com/altansayan/mock-jutsu-api",
-      "description": "Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter plugin. 6 locales.",
-      "section": [
-        "Software",
-        "Test Data Management"
-      ]
-    },
-    {
-      "key": "https://mockhero.dev",
-      "name": "MockHero",
-      "url": "https://mockhero.dev",
-      "description": "REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.",
-      "section": [
-        "Software",
-        "Test Data Management"
-      ]
-    },
-    {
       "key": "https://github.com/getsynth/synth",
       "name": "Synth",
       "url": "https://github.com/getsynth/synth",
@@ -858,16 +858,6 @@
       "name": "test-each",
       "url": "https://github.com/ehmicky/test-each",
       "description": "Data-driven testing framework.",
-      "section": [
-        "Software",
-        "Test Data Management"
-      ]
-    },
-    {
-      "key": "https://singhajit.com/tools/fake-data-generator",
-      "name": "Fake Data Generator",
-      "url": "https://singhajit.com/tools/fake-data-generator/",
-      "description": "Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.",
       "section": [
         "Software",
         "Test Data Management"
@@ -1441,15 +1431,6 @@
       "description": "Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.",
       "section": [
         "Training (Includes developer training for automation testers)"
-      ]
-    },
-    {
-      "key": "https://satisfice.com/blog",
-      "name": "James Bach",
-      "url": "http://www.satisfice.com/blog/",
-      "description": "",
-      "section": [
-        "Blogs"
       ]
     },
     {

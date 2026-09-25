@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6ccf5bf19fb9c1bd27a6d6d094b618252d5815786efa7beb5301c434de354dfc\"",
+  "etag": "W/\"58d4f472ec41bda5e573e5f03f8ed61e8088c95817217e3aa970a289cfbb46a7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -17622,6 +17622,15 @@
       "name": "SFTPGo",
       "url": "https://github.com/drakkan/sftpgo",
       "description": "Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.",
+      "section": [
+        "Server Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/shaunlee/simpleconf",
+      "name": "simpleconf",
+      "url": "https://github.com/shaunlee/simpleconf",
+      "description": "Configuration server holding one JSON document, read and written by key path over HTTP and TCP, with optional Raft clustering.",
       "section": [
         "Server Applications"
       ]

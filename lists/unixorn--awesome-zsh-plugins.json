@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"66258e8e63de5eb94230a870886d0d505f545b68bc97e666350c7462a2d6f51f\"",
+  "etag": "W/\"093e6911ce5e94367279f3fbca65ace6ccaec6a2521a8d2e05e9026ef6a2ac4d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2115,6 +2115,15 @@
       "name": "chgo",
       "url": "https://github.com/sbfaulkner/chgo-plugin-zsh",
       "description": "Clone of chruby modified to make it easy to switch between multiple Go versions.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/kiki-ki/chuchu",
+      "name": "chuchu",
+      "url": "https://github.com/kiki-ki/chuchu",
+      "description": "Tints your terminal background by where you are. When you step into a pod, a container or a remote host, the pane's background turns a color derived from that name, and goes back once you return to the prompt. The same name always gets the same color, so you learn to recognise places at a glance.",
       "section": [
         "Plugins"
       ]
@@ -4509,6 +4518,15 @@
       "name": "gitio (nicolodiamante)",
       "url": "https://github.com/nicolodiamante/gitio",
       "description": "Uses git.io to shorten git urls.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/softspark/gitspace",
+      "name": "gitspace",
+      "url": "https://github.com/softspark/gitspace",
+      "description": "Binds a git identity to a directory. The wrong account fails loudly instead of signing a commit quietly.",
       "section": [
         "Plugins"
       ]
@@ -8487,6 +8505,15 @@
       "name": "smart-command-not-found",
       "url": "https://github.com/rami-shalhoub/Smart-command-not-found",
       "description": "Shows all available options when a command is not found.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/imonior/zsh-smart-complete",
+      "name": "smart-complete",
+      "url": "https://github.com/imonior/zsh-smart-complete",
+      "description": "A modern smart completion & suggestion layer for ZSH. Replaces both zsh-autocomplete and zsh-autosuggestions in a single plugin.",
       "section": [
         "Plugins"
       ]
@@ -15156,15 +15183,6 @@
       "name": "do-you-even-nix",
       "url": "https://github.com/miche1e/do-you-even-nix",
       "description": "Simple powerline-esque theme designed to increase nix power. Includes decorators for username@hostname, current directory, git status, whether you're in a nix shell, and whether there is a flake.nix or shell.nix file in the current directory.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
-      "key": "https://github.com/tariqdomi/ohmyzsh-domixgit",
-      "name": "domixgit",
-      "url": "https://github.com/tariqdomi/ohmyzsh-domixgit",
-      "description": "Prompt with git status and current directory decorators.",
       "section": [
         "Themes"
       ]

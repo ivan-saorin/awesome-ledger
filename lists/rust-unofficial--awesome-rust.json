@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5cd033f6bb0bf75d64447a8bd98a6eeb25e02e3b60bfa3bf5d0b986fa513cc6f\"",
+  "etag": "W/\"4f5886cfc1c23f75a742ba9012eaa79ef9b3231ad2c4b0bceefb2fe55e69fa59\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1091,6 +1091,16 @@
       "name": "Hyperlane",
       "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo",
       "description": "Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.",
+      "section": [
+        "Applications",
+        "Blockchain"
+      ]
+    },
+    {
+      "key": "https://github.com/enviodev/hypersync-client-rust",
+      "name": "HyperSync",
+      "url": "https://github.com/enviodev/hypersync-client-rust",
+      "description": "[hypersync-client] - Client for Envio's HyperSync, a blockchain data API that returns filtered blocks, transactions and logs as an alternative to JSON-RPC.",
       "section": [
         "Applications",
         "Blockchain"
@@ -2737,6 +2747,16 @@
       ]
     },
     {
+      "key": "https://github.com/monfa-red/lini",
+      "name": "monfa-red/lini",
+      "url": "https://github.com/monfa-red/lini",
+      "description": "[lini] - A small language for every kind of figure — diagrams, charts, sequences, schematics, technical drawings — compiled from plain text to themeable SVG",
+      "section": [
+        "Applications",
+        "Graphics"
+      ]
+    },
+    {
       "key": "https://github.com/museslabs/phonto",
       "name": "museslabs/phonto",
       "url": "https://github.com/museslabs/phonto",
@@ -3297,6 +3317,16 @@
       ]
     },
     {
+      "key": "https://github.com/akitaonrails/ai-memory",
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Long-term memory for AI coding agents: a git-backed markdown wiki with automatic lifecycle capture, cross-agent handoffs, and a self-hosted MCP server.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
       "key": "https://github.com/AlexsJones/llmfit",
       "name": "AlexsJones/llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
@@ -3321,6 +3351,16 @@
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "A local-first workspace for running parallel research agents with Claude Code, Codex, OpenCode, or Cursor, with reproducible experiment tracking.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/antiburn/antiburn",
+      "name": "antiburn/antiburn",
+      "url": "https://github.com/antiburn/antiburn",
+      "description": "Local desktop app (Tauri) that checks AI coding agent sessions for common causes of token burn: sessions too deep, overpowered subagents, broken caching, and unused MCP servers, skills, and tools. Supports Claude Code, Codex, Cursor, Copilot, Pi, and more",
       "section": [
         "Applications",
         "Productivity"
@@ -9376,6 +9416,17 @@
       "name": "Mottl/lightgb3-rs",
       "url": "https://github.com/Mottl/lightgbm3-rs",
       "description": "Bindings for LightGBM",
+      "section": [
+        "Libraries",
+        "Artificial Intelligence",
+        "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/nobodywho-ooo/nobodywho",
+      "name": "nobodywho-ooo/nobodywho",
+      "url": "https://github.com/nobodywho-ooo/nobodywho",
+      "description": "On-device LLM inference engine that embeds directly in games and apps with no server or API key. Supports streaming generation, embeddings, GBNF grammar-constrained structured output, and Whisper speech-to-text, with bindings for Godot, Flutter, React Native, and Swift.",
       "section": [
         "Libraries",
         "Artificial Intelligence",

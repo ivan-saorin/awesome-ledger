@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"61f0069ae10fcf1ad7004b128254bda0a22c304a1f2035c1ea3cb9b5b46929da\"",
+  "etag": "W/\"fb63ae02c73d3812e183ed3950f64f8e36701443c284ff92904c24782a21845a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1250,6 +1250,15 @@
       "name": "Firecrawl",
       "url": "https://www.firecrawl.dev/",
       "description": "API that crawls websites and converts them into clean, LLM-ready markdown or structured data, handling JavaScript rendering, proxies, and rate limits. The free plan includes 1,000 credits per month with no credit card required.",
+      "section": [
+        "APIs, Data, and ML"
+      ]
+    },
+    {
+      "key": "https://flakyapi.dev",
+      "name": "flaky",
+      "url": "https://flakyapi.dev",
+      "description": "A mock API where you can paste your JSON and simulate API problems like delays, errors, failed requests, and malformed responses. 1,000 requests per day without a key, or 10,000 requests per day with a free key. There is no paid tier.",
       "section": [
         "APIs, Data, and ML"
       ]
@@ -6406,7 +6415,7 @@
       "key": "https://wraps.dev",
       "name": "Wraps",
       "url": "https://wraps.dev",
-      "description": "email automation workflows, 5k tracked events and unlimited contacts free.",
+      "description": "Email infrastructure deployed to your own AWS account (SES), with a dashboard. Pay AWS directly for sending. Free plan covers 1 AWS account, unlimited domains and contacts.",
       "section": [
         "Email"
       ]
@@ -11137,9 +11146,9 @@
       ]
     },
     {
-      "key": "https://ironfang.uk/renderwolf",
-      "name": "Renderwolf",
-      "url": "https://ironfang.uk/renderwolf",
+      "key": "https://ironfang.uk/render",
+      "name": "Ironfang Render",
+      "url": "https://ironfang.uk/render",
       "description": "UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.",
       "section": [
         "Screenshot APIs"

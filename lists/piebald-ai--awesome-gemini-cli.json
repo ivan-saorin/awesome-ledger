@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cdb4842ba54ddc169920463891771a6a861131ec6eeb63986bb6d1a2b75e305a\"",
+  "etag": "W/\"fe8d933a41665aba4fc2b2ec1b1ce4a25c86686d09c150057eb6574e0916d792\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -193,6 +193,15 @@
       ]
     },
     {
+      "key": "https://anywheredesign.site",
+      "name": "AnywhereDesign",
+      "url": "https://anywheredesign.site",
+      "description": "Local-first voice cockpit and remote mobile interface for Claude Code & Antigravity/Gemini CLI. Control terminal agent sessions from your phone via local QR code, real-time voice dictation, live terminal output streaming, and zero-token mobile Git sync.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
       "key": "https://github.com/vybestack/llxprt-code",
       "name": "LLxprt Code",
       "url": "https://github.com/vybestack/llxprt-code",
@@ -217,6 +226,15 @@
       "description": "Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.",
       "section": [
         "Forks"
+      ]
+    },
+    {
+      "key": "https://github.com/ruslanlap/loopguard",
+      "name": "loopguard",
+      "url": "https://github.com/ruslanlap/loopguard",
+      "description": "Watchdog that tails Gemini CLI session transcripts and alerts when the agent loops, oscillates, or stalls — Telegram notifications, zero dependencies.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
       ]
     },
     {
@@ -1003,6 +1021,15 @@
       ]
     },
     {
+      "key": "https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor",
+      "name": "anotifier",
+      "url": "https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor",
+      "description": "Desktop toasts, ntfy phone push and webhooks when Gemini CLI finishes a task or needs input, wired through its hooks by a one-command setup. Zero-dependency Node CLI whose single config also covers Claude Code, Codex CLI and Cursor.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -1403,6 +1430,15 @@
       "name": "SkillAgent",
       "url": "https://skillagent.dev",
       "description": "Remote MCP server (Streamable HTTP, no auth) for searching ~3,500 agent skills, rules files (including Gemini rules) and MCP servers indexed hourly from GitHub, with project-based recommendations and per-agent install instructions for Gemini CLI. Install: gemini mcp add --transport http skillagent https://skillagent.dev/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/samvallad33/vestige",
+      "name": "Vestige",
+      "url": "https://github.com/samvallad33/vestige",
+      "description": "Memory system for coding agents: backfill ranks earlier records as candidate causes of a fresh failure even when they share no vocabulary with it, the composed graph records which memories were used together and surfaces never-tried combinations, retrieval decays on an FSRS-6 schedule, and receipts fail closed after compaction. Single Rust binary, local only. Install: gemini extensions install https://github.com/samvallad33/vestige-gemini.",
       "section": [
         "MCP Servers"
       ]
