@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2b1ee669eeafe8945d5cda03e818c955a4abec2434ca3101b425bc9414f1ae42\"",
+  "etag": "W/\"61d72132e1913435d69178d75e48704209f49e67603fe2d4f96c1635e83273b4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -728,6 +728,15 @@
       "name": "Crysthamus/nvim-file-operations",
       "url": "https://github.com/Crysthamus/nvim-file-operations",
       "description": "Add support for workspace file operations using built-in LSPs.",
+      "section": [
+        "LSP"
+      ]
+    },
+    {
+      "key": "https://github.com/antosha417/nvim-lsp-file-operations",
+      "name": "antosha417/nvim-lsp-file-operations",
+      "url": "https://github.com/antosha417/nvim-lsp-file-operations",
+      "description": "File operations using built-in LSP support.",
       "section": [
         "LSP"
       ]
@@ -8693,6 +8702,15 @@
       "name": "caskstrength/nvim-soil",
       "url": "https://codeberg.org/caskstrength/nvim-soil",
       "description": "Run PlantUML script and generate UML design.",
+      "section": [
+        "Code Runner"
+      ]
+    },
+    {
+      "key": "https://github.com/pewpewnor/dove.nvim",
+      "name": "pewpewnor/dove.nvim",
+      "url": "https://github.com/pewpewnor/dove.nvim",
+      "description": "Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.",
       "section": [
         "Code Runner"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"58d4f472ec41bda5e573e5f03f8ed61e8088c95817217e3aa970a289cfbb46a7\"",
+  "etag": "W/\"3bd8db904a031bcb6039ff26c9bf1d05b2b5467e4467808779be4484eca6b3d9\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -116,6 +116,15 @@
       "name": "crewai-go",
       "url": "https://github.com/rhgs/crewai-go",
       "description": "Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/cynative/cynative",
+      "name": "Cynative",
+      "url": "https://github.com/cynative/cynative",
+      "description": "Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -305,6 +314,15 @@
       "name": "snip",
       "url": "https://github.com/edouard-claude/snip",
       "description": "CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/jadmadi/thermal",
+      "name": "thermal",
+      "url": "https://github.com/jadmadi/thermal",
+      "description": "Terminal contribution heatmap, streak tracker, and token leaderboard for AI coding assistants.",
       "section": [
         "Artificial Intelligence"
       ]
