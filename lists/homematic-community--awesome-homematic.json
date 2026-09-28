@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6907c20ccb44fa1e9e8020be1b37feab42b27e482cd3ce6b30f034a902a61cbb\"",
+  "etag": "W/\"c778e4417abd02dc39f5cfb8227d82b03221cb6a8b62ba9bfa466da9d7dac147\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -9,7 +9,7 @@
       "url": "https://haus-automatisierung.com/",
       "description": "News, Blog, Youtube, Tutorials, ...",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://homematic-forum.de/forum/",
       "description": "Diskussions-Foren",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -27,7 +27,7 @@
       "url": "https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907",
       "description": "Curated link list by AndiN.",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -36,7 +36,7 @@
       "url": "https://homematic-forum.de/forum/viewtopic.php?t=46890",
       "description": "Übersicht über Addons und Tools für CCU / OpenCCU.",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -45,7 +45,7 @@
       "url": "https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801",
       "description": "Pflichtlektüre für Einsteiger von Sammy",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://homematic-guru.de/",
       "description": "News, Blog, Tutorials und mehr.",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -63,7 +63,7 @@
       "url": "https://www.homematic-inside.de/",
       "description": "News, Blog, Tutorials und mehr (wird nicht weitergeführt, bleibt als Archiv online).",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -72,7 +72,7 @@
       "url": "https://homematic-blog.lison.ch/",
       "description": "Blog, Tutorials und mehr..",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://technikkram.net",
       "description": "News, Blog, Tutorials und mehr.",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://www.verdrahtet.info/",
       "description": "News, Blog, Youtube, Tutorials, ...",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -99,7 +99,7 @@
       "url": "http://www.wikimatic.de/wiki/Hauptseite",
       "description": "Community Wiki.",
       "section": [
-        "Community Ressources (mostly german language)"
+        "Community Ressources"
       ]
     },
     {
@@ -232,25 +232,7 @@
       "key": "https://github.com/alexreinert/debmatic",
       "name": "debmatic",
       "url": "https://github.com/alexreinert/debmatic",
-      "description": "Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)",
-      "section": [
-        "CCU Alternatives"
-      ]
-    },
-    {
-      "key": "https://homegear.eu/index.php/Main_Page",
-      "name": "Homegear",
-      "url": "https://homegear.eu/index.php/Main_Page",
-      "description": "Free and open source program to interface your smart home devices with your home automation software or your own scripts.",
-      "section": [
-        "CCU Alternatives"
-      ]
-    },
-    {
-      "key": "https://github.com/eq-3/occu",
-      "name": "OCCU",
-      "url": "https://github.com/eq-3/occu",
-      "description": "The HM-OCCU-SDK published by eQ-3, the base of debmatic, piVCCU and OpenCCU.",
+      "description": "Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian) software or your own scripts.",
       "section": [
         "CCU Alternatives"
       ]
@@ -260,6 +242,15 @@
       "name": "OpenCCU",
       "url": "https://github.com/OpenCCU/OpenCCU",
       "description": "Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi, x86/ARM or as virtual appliance (formerly known as RaspberryMatic).",
+      "section": [
+        "CCU Alternatives"
+      ]
+    },
+    {
+      "key": "https://github.com/hobbyquaker/openccu-lite",
+      "name": "openccu-lite",
+      "url": "https://github.com/hobbyquaker/openccu-lite",
+      "description": "Fork of OpenCCU: Homematic CCU firmware without ReGaHSS and with new web interface.",
       "section": [
         "CCU Alternatives"
       ]
@@ -400,10 +391,10 @@
       ]
     },
     {
-      "key": "https://github.com/thkl/hap-homematic",
-      "name": "HAP-HomeMatic",
-      "url": "https://github.com/thkl/hap-homematic",
-      "description": "OpenCCU / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like https://github.com/thkl/homebridge-homematic but without homebridge (archived).",
+      "key": "https://github.com/hobbyquaker/hm2mqtt.js",
+      "name": "hm2mqtt.js",
+      "url": "https://github.com/hobbyquaker/hm2mqtt.js",
+      "description": "Connect CCU to MQTT, Home Assistant auto discovery, follows mqtt-smarthome convention",
       "section": [
         "CCU Addons"
       ]
@@ -593,15 +584,6 @@
       "name": "ccu-mcp",
       "url": "https://github.com/claymore666/ccu-mcp",
       "description": "MCP server enabling AI assistants to control Homematic devices via the CCU's JSON-RPC API, no addon required.",
-      "section": [
-        "Interfacing Software"
-      ]
-    },
-    {
-      "key": "https://github.com/hobbyquaker/hm2mqtt.js",
-      "name": "hm2mqtt.js",
-      "url": "https://github.com/hobbyquaker/hm2mqtt.js",
-      "description": "Node.js based interface between Homematic and MQTT.",
       "section": [
         "Interfacing Software"
       ]
@@ -904,6 +886,15 @@
       ]
     },
     {
+      "key": "https://github.com/hobbyquaker/occulite-client",
+      "name": "occulite-client",
+      "url": "https://github.com/hobbyquaker/occulite-client",
+      "description": "Typescript client for openccu-lite.",
+      "section": [
+        "Software Modules"
+      ]
+    },
+    {
       "key": "https://github.com/SukramJ/openccu-loom-client",
       "name": "openccu-loom-client",
       "url": "https://github.com/SukramJ/openccu-loom-client",
@@ -979,6 +970,15 @@
       "key": "https://pimatic.org",
       "name": "Pimatic",
       "url": "https://pimatic.org/",
+      "description": "",
+      "section": [
+        "Smart Home Software supporting Homematic"
+      ]
+    },
+    {
+      "key": "https://github.com/hobbyquaker/she",
+      "name": "Smart Home Engine (\"she\")",
+      "url": "https://github.com/hobbyquaker/she",
       "description": "",
       "section": [
         "Smart Home Software supporting Homematic"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3bd8db904a031bcb6039ff26c9bf1d05b2b5467e4467808779be4484eca6b3d9\"",
+  "etag": "W/\"1a34d7f294bffe97039c6a0f326899c28366687122b294abd05b07c30b3ab51b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2590,6 +2590,15 @@
       "name": "go-up",
       "url": "https://github.com/ufoscout/go-up",
       "description": "A simple configuration library with recursive placeholders resolution and no magic.",
+      "section": [
+        "Configuration"
+      ]
+    },
+    {
+      "key": "https://github.com/Yakwilik/go-yamlvalidator",
+      "name": "go-yamlvalidator",
+      "url": "https://github.com/Yakwilik/go-yamlvalidator",
+      "description": "Source-aware YAML validation with native Go schemas and JSON Schema support.",
       "section": [
         "Configuration"
       ]
@@ -8936,6 +8945,15 @@
       "name": "protoc-gen-httpgo",
       "url": "https://github.com/MUlt1mate/protoc-gen-httpgo",
       "description": "Generate HTTP server and client from protobuf.",
+      "section": [
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://github.com/easyp-tech/protoc-gen-mcp",
+      "name": "protoc-gen-mcp",
+      "url": "https://github.com/easyp-tech/protoc-gen-mcp",
+      "description": "Generate typed MCP tools, prompts, and resources from Protocol Buffers.",
       "section": [
         "Generators"
       ]

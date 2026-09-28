@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6c345ae07c3527d97b87cf75e183ce82b50df58e61c48562aff2cc6bfa97b682\"",
+  "etag": "W/\"58dc7225b6cf6ca4917b5b63346d98d9607815789874dd5d3ac7a9d61ffc55e6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -889,7 +889,7 @@
       "key": "https://arize.com",
       "name": "Arize AI",
       "url": "https://arize.com/",
-      "description": "Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.",
+      "description": "AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.",
       "section": [
         "APIs, Data, and ML"
       ]
@@ -1880,6 +1880,15 @@
       "name": "The IP API",
       "url": "https://theipapi.com/",
       "description": "IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.",
+      "section": [
+        "APIs, Data, and ML"
+      ]
+    },
+    {
+      "key": "https://timezone.io/docs/worldtimeapi",
+      "name": "timezone.io",
+      "url": "https://www.timezone.io/docs/worldtimeapi",
+      "description": "Current time, UTC offset and DST for any time zone or IP address, compatible with the shut-down WorldTimeAPI (clients only change the host). Free with no API key or sign-up, 60 requests/minute per IP, over HTTPS or plain HTTP.",
       "section": [
         "APIs, Data, and ML"
       ]
@@ -7438,6 +7447,15 @@
       ]
     },
     {
+      "key": "https://snapdeploy.dev",
+      "name": "SnapDeploy",
+      "url": "https://snapdeploy.dev/",
+      "description": "Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.",
+      "section": [
+        "PaaS"
+      ]
+    },
+    {
       "key": "https://val.town",
       "name": "Val Town",
       "url": "https://www.val.town",
@@ -8396,6 +8414,15 @@
       "name": "restdb.io",
       "url": "https://restdb.io/",
       "description": "a fast and straightforward NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries), and an efficient multi-user admin UI for working with data. The free plan allows 3 users, 2500 records, and 1 API request per second.",
+      "section": [
+        "Managed Data Services"
+      ]
+    },
+    {
+      "key": "https://revivedb.dev",
+      "name": "ReviveDB",
+      "url": "https://revivedb.dev/",
+      "description": "A way back for your Supabase app. ReviveDB keeps recovery points of your database and Auth, Storage files, Edge Functions and supported project configuration, and only calls a backup ready once your database has been restored from it and compared. The free plan covers one project with weekly backups and three recovery points.",
       "section": [
         "Managed Data Services"
       ]

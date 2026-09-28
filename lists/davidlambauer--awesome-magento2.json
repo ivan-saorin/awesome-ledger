@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"180b19e663c7fd20f8de74fbefa261b094876925539c66f86513c3e67b42bec4\"",
+  "etag": "W/\"e0f26889c7ada5081b012003a1307a3b40beb1aa4518979e6856719464a3bfe0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -87,6 +87,16 @@
       ]
     },
     {
+      "key": "https://meetmagento.pl",
+      "name": "Meet Magento Poland",
+      "url": "https://meetmagento.pl/",
+      "description": "🫡 - Meet Magento event series — Poland.",
+      "section": [
+        "Events: Meet the community",
+        "Meet Magento"
+      ]
+    },
+    {
       "key": "https://meet-magento.co.uk",
       "name": "Meet Magento UK",
       "url": "https://meet-magento.co.uk/",
@@ -101,16 +111,6 @@
       "name": "Meet Magento Malaysia",
       "url": "https://www.meetmagento.asia/",
       "description": "Meet Magento event series — Malaysia.",
-      "section": [
-        "Events: Meet the community",
-        "Meet Magento"
-      ]
-    },
-    {
-      "key": "https://meetmagento.pl",
-      "name": "Meet Magento Poland",
-      "url": "https://meetmagento.pl/",
-      "description": "Meet Magento event series — Poland.",
       "section": [
         "Events: Meet the community",
         "Meet Magento"
@@ -673,20 +673,20 @@
       ]
     },
     {
-      "key": "https://github.com/crealoz/easyaudit-cli",
-      "name": "easyaudit-cli",
-      "url": "https://github.com/crealoz/easyaudit-cli",
-      "description": "🫡 - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.",
+      "key": "https://github.com/extdn/github-actions-m2",
+      "name": "Github Actions for Magento2",
+      "url": "https://github.com/extdn/github-actions-m2",
+      "description": "GitHub Actions for Magento 2 Extensions.",
       "section": [
         "Open Source Extensions",
         "Deployment"
       ]
     },
     {
-      "key": "https://github.com/extdn/github-actions-m2",
-      "name": "Github Actions for Magento2",
-      "url": "https://github.com/extdn/github-actions-m2",
-      "description": "GitHub Actions for Magento 2 Extensions.",
+      "key": "https://github.com/crealoz/easyaudit-cli",
+      "name": "easyaudit-cli",
+      "url": "https://github.com/crealoz/easyaudit-cli",
+      "description": "Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.",
       "section": [
         "Open Source Extensions",
         "Deployment"
@@ -1073,16 +1073,6 @@
       ]
     },
     {
-      "key": "https://github.com/hyva-themes/magento2-hyva-admin",
-      "name": "magento2-hyva-admin",
-      "url": "https://github.com/hyva-themes/magento2-hyva-admin",
-      "description": "🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
-      "section": [
-        "Open Source Extensions",
-        "Adminhtml / Backend"
-      ]
-    },
-    {
       "key": "https://github.com/bitExpert/magento2-force-login",
       "name": "Customer Force Login",
       "url": "https://github.com/bitExpert/magento2-force-login",
@@ -1137,6 +1127,16 @@
       "name": "Disable Stock Reservation",
       "url": "https://github.com/AmpersandHQ/magento2-disable-stock-reservation",
       "description": "Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.",
+      "section": [
+        "Open Source Extensions",
+        "Adminhtml / Backend"
+      ]
+    },
+    {
+      "key": "https://github.com/hyva-themes/magento2-hyva-admin",
+      "name": "magento2-hyva-admin",
+      "url": "https://github.com/hyva-themes/magento2-hyva-admin",
+      "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
       "section": [
         "Open Source Extensions",
         "Adminhtml / Backend"
@@ -1483,6 +1483,16 @@
       ]
     },
     {
+      "key": "https://m.academy/blog",
+      "name": "M.academy",
+      "url": "https://m.academy/blog/",
+      "description": "🫡 - Blog from the M.academy team.",
+      "section": [
+        "Blogs",
+        "Company Blogs"
+      ]
+    },
+    {
       "key": "https://blog.bitexpert.de/blog/tags/magento",
       "name": "bitExpert AG",
       "url": "https://blog.bitexpert.de/blog/tags/magento",
@@ -1517,16 +1527,6 @@
       "name": "integer_net blog",
       "url": "https://www.integer-net.com/blog/",
       "description": "integer_net's technical Magento blog.",
-      "section": [
-        "Blogs",
-        "Company Blogs"
-      ]
-    },
-    {
-      "key": "https://m.academy/blog",
-      "name": "M.academy",
-      "url": "https://m.academy/blog/",
-      "description": "Blog from the M.academy team.",
       "section": [
         "Blogs",
         "Company Blogs"
@@ -1581,6 +1581,15 @@
       ]
     },
     {
+      "key": "https://m.academy/newsletter",
+      "name": "M Bytes Newsletter",
+      "url": "https://m.academy/newsletter/",
+      "description": "🫡 - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.",
+      "section": [
+        "Newsletters"
+      ]
+    },
+    {
       "key": "https://magedispatch.com",
       "name": "Mage Dispatch",
       "url": "https://www.magedispatch.com/",
@@ -1603,15 +1612,6 @@
       "name": "The Devletter",
       "url": "https://www.maxpronko.com/the-devletter/",
       "description": "Free weekly email digest by Max Pronko covering Magento 2 development tips and news.",
-      "section": [
-        "Newsletters"
-      ]
-    },
-    {
-      "key": "https://m.academy/newsletter",
-      "name": "M Bytes Newsletter",
-      "url": "https://m.academy/newsletter/",
-      "description": "Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.",
       "section": [
         "Newsletters"
       ]

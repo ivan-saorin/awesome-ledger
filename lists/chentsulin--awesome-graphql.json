@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b84a78c8373444a3dd553d2bb0f6aa4a1830ccbbd54f26f3ad4f178b68677979\"",
+  "etag": "W/\"f604ba54f750c8e8e5495acabd3c3c87c9c49d884548bc18cfd546964ad3fd06\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1977,10 +1977,70 @@
       ]
     },
     {
+      "key": "https://github.com/graphql-java/java-dataloader",
+      "name": "java-dataloader",
+      "url": "https://github.com/graphql-java/java-dataloader",
+      "description": "DataLoader implementation that provides batching and caching to avoid N+1 data-fetching problems.",
+      "section": [
+        "Implementations",
+        "Java"
+      ]
+    },
+    {
       "key": "https://github.com/Netflix/dgs-framework",
       "name": "DGS Framework",
       "url": "https://github.com/Netflix/dgs-framework",
       "description": "A GraphQL server framework for Spring Boot, developed by Netflix.",
+      "section": [
+        "Implementations",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://spring.io/projects/spring-graphql",
+      "name": "Spring for GraphQL",
+      "url": "https://spring.io/projects/spring-graphql",
+      "description": "Official Spring integration for applications built on GraphQL Java.",
+      "section": [
+        "Implementations",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/microprofile/microprofile-graphql",
+      "name": "MicroProfile GraphQL",
+      "url": "https://github.com/microprofile/microprofile-graphql",
+      "description": "Specification for developing portable, code-first GraphQL services with Enterprise Java.",
+      "section": [
+        "Implementations",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/smallrye/smallrye-graphql",
+      "name": "SmallRye GraphQL",
+      "url": "https://github.com/smallrye/smallrye-graphql",
+      "description": "Implementation of MicroProfile GraphQL with server, client, and tooling support.",
+      "section": [
+        "Implementations",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://github.com/micronaut-projects/micronaut-graphql",
+      "name": "Micronaut GraphQL",
+      "url": "https://github.com/micronaut-projects/micronaut-graphql",
+      "description": "Official Micronaut integration for building GraphQL Java servers.",
+      "section": [
+        "Implementations",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://vertx.io/docs/vertx-web-graphql/java",
+      "name": "Vert.x Web GraphQL",
+      "url": "https://vertx.io/docs/vertx-web-graphql/java/",
+      "description": "Official GraphQL Java integration for Vert.x Web.",
       "section": [
         "Implementations",
         "Java"
@@ -2147,6 +2207,16 @@
       ]
     },
     {
+      "key": "https://github.com/introproventures/graphql-jpa-query",
+      "name": "GraphQL JPA Query",
+      "url": "https://github.com/introproventures/graphql-jpa-query",
+      "description": "Generates GraphQL query APIs from JPA entity models.",
+      "section": [
+        "Implementations",
+        "Java"
+      ]
+    },
+    {
       "key": "https://github.com/graphql-java/graphql-java-extended-validation",
       "name": "graphql-java-extended-validation",
       "url": "https://github.com/graphql-java/graphql-java-extended-validation",
@@ -2226,6 +2296,17 @@
       "name": "graphql-java-kickstart_samples",
       "url": "https://github.com/graphql-java-kickstart/samples",
       "description": "Samples for using the GraphQL Java Kickstart projects.",
+      "section": [
+        "Implementations",
+        "Java",
+        "Java Examples"
+      ]
+    },
+    {
+      "key": "https://docs.spring.io/spring-graphql/reference",
+      "name": "Spring for GraphQL reference",
+      "url": "https://docs.spring.io/spring-graphql/reference/",
+      "description": "Official reference documentation for building GraphQL services with Spring.",
       "section": [
         "Implementations",
         "Java",
@@ -2727,16 +2808,6 @@
       "name": "Hasura",
       "url": "https://github.com/hasura/graphql-engine",
       "description": "Provides instant real-time GraphQL APIs over new or existing PostgreSQL databases.",
-      "section": [
-        "Implementations",
-        "SQL"
-      ]
-    },
-    {
-      "key": "https://subzero.cloud",
-      "name": "subZero",
-      "url": "https://subzero.cloud/",
-      "description": "GraphQL and REST API for databases.",
       "section": [
         "Implementations",
         "SQL"

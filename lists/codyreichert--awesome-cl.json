@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"37a510da38d8c2e019ef98c189ae5e3a545beb6d9115194768f01fbf3388f7e6\"",
+  "etag": "W/\"f941d2951e442f21b9c51f862275590e615948ee71e031c9f393c5c840b9e0e7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -6519,6 +6519,24 @@
       "name": "Sly",
       "url": "https://github.com/joaotavora/sly",
       "description": "SLY is a fork of SLIME and contains multiple changes and new features, such as Sly stickers.",
+      "section": [
+        "Emacs"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/zshaftel/lisp-ts-mode",
+      "name": "lisp-ts-mode",
+      "url": "https://codeberg.org/zshaftel/lisp-ts-mode",
+      "description": "Tree-sitter powered Common Lisp major-mode with FORMAT string syntax highlighting and indentation. Compatible with Sly and Slime.",
+      "section": [
+        "Emacs"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/zshaftel/gaudy-cl",
+      "name": "gaudy-cl",
+      "url": "https://codeberg.org/zshaftel/gaudy-cl",
+      "description": "Colorful semantic syntax highlighting, powered by lisp-ts-mode and Sly or Slime.",
       "section": [
         "Emacs"
       ]

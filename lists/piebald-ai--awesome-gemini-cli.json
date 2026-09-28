@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"eeb0b3bd3e4d2a66526cc282e3996467f46a5debfd1402c5d198f6d8f37d05c7\"",
+  "etag": "W/\"0ab5f20406c7d0d1f5347d4ed8257e3b33680f8e6cf22cdddf36fcd31fa34cd2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -305,15 +305,6 @@
       "name": "postmortemthis",
       "url": "https://github.com/Softeria/postmortemthis",
       "description": "Runs Gemini CLI alongside your other coding agents (Claude Code, Codex, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model review panel.",
-      "section": [
-        "Agent Orchestration & CLI Tools"
-      ]
-    },
-    {
-      "key": "https://codeagentswarm.com",
-      "name": "CodeAgentSwarm",
-      "url": "https://www.codeagentswarm.com",
-      "description": "Desktop app (macOS, Windows) that runs multiple Gemini CLI terminals in parallel alongside Claude Code and Codex CLI, under human supervision. Desktop notifications when an agent finishes or needs input, cross-session conversation history, per-terminal file diffs, and an MCP kanban board.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -706,6 +697,24 @@
       ]
     },
     {
+      "key": "https://github.com/hermes-labs-ai/hermeneutic",
+      "name": "Hermeneutic",
+      "url": "https://github.com/hermes-labs-ai/hermeneutic",
+      "description": "Gemini CLI extension that reviews final-response wording for completion and certainty claims, then requests at most one evidence-focused revision through an AfterAgent hook. Runs the deterministic check locally.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/MohammadHijjawi97/since-cutoff",
+      "name": "since-cutoff",
+      "url": "https://github.com/MohammadHijjawi97/since-cutoff",
+      "description": "Gemini CLI extension (MCP server + skill) that tells the agent what changed in your Python dependencies since the model's training cutoff: a static diff of each library's public API between the release at the cutoff and the version your lockfile pins, with no model calls or API key. Install via gemini extensions install https://github.com/MohammadHijjawi97/since-cutoff.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1039,6 +1048,15 @@
       ]
     },
     {
+      "key": "https://agentcat.app",
+      "name": "Agent Cat",
+      "url": "https://agentcat.app",
+      "description": "Free macOS/Windows menu-bar app that shows Gemini CLI and Antigravity usage and limits next to Claude Code and Codex, read from local files.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -1151,6 +1169,15 @@
       "name": "gemini-cli-prompt-library",
       "url": "https://github.com/harish-garg/gemini-cli-prompt-library",
       "description": "30+ professional prompts for Gemini CLI.",
+      "section": [
+        "Prompts"
+      ]
+    },
+    {
+      "key": "https://github.com/Continuum-AI-Corp/OrcaPromptVault",
+      "name": "OrcaPromptVault",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaPromptVault",
+      "description": "Dated archive of the system prompts and tool schemas shipped AI agents send, including the one Gemini CLI itself puts on the wire.",
       "section": [
         "Prompts"
       ]
@@ -1448,6 +1475,15 @@
       "name": "Vestige",
       "url": "https://github.com/samvallad33/vestige",
       "description": "Memory system for coding agents: backfill ranks earlier records as candidate causes of a fresh failure even when they share no vocabulary with it, the composed graph records which memories were used together and surfaces never-tried combinations, retrieval decays on an FSRS-6 schedule, and receipts fail closed after compaction. Single Rust binary, local only. Install: gemini extensions install https://github.com/samvallad33/vestige-gemini.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/ateymoori/oh-my-android",
+      "name": "Oh My Android",
+      "url": "https://github.com/ateymoori/oh-my-android",
+      "description": "MCP server that lets Gemini CLI see and drive the Android Emulator on macOS: screenshots, UI tree in dp, tap/type, dark mode, RTL, font scale, logcat. Free, MIT, native macOS app (macOS 26+, Apple silicon) with a built-in stdio server. Install: gemini mcp add --scope user oh-my-android ohmyandroid-mcp.",
       "section": [
         "MCP Servers"
       ]
