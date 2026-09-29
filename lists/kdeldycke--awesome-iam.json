@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"596e7dca45a9c41a097fc0fba1d1b7c399a5038ac89c24acb8e4bbe8356d9f64\"",
+  "etag": "W/\"bbbc748550babe1486138566514fe78b53a47dc233402c57e15fc7c4da1cdb43\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -1256,6 +1256,15 @@
       "name": "The Beer Drinker's Guide to SAML",
       "url": "https://duo.com/blog/the-beer-drinkers-guide-to-saml",
       "description": "SAML is arcane at times. A another analogy might helps get more sense out of it.",
+      "section": [
+        "SAML"
+      ]
+    },
+    {
+      "key": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design",
+      "name": "SAML: A Fractal of Bad Design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "description": "“SAML is being crushed under the weight of its own complexity.” The author lists five flaws that compound: “1. Built on XML; 2. Canonicalization; 3. Enveloped signatures; 4. 'Kitchen-sink' design; 5. Ossification.” So instead of one more mitigation, identity providers get a deprecation plan: stop onboarding SAML integrations, migrate customers to OIDC, set a sunset date.",
       "section": [
         "SAML"
       ]

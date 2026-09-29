@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"58dc7225b6cf6ca4917b5b63346d98d9607815789874dd5d3ac7a9d61ffc55e6\"",
+  "etag": "W/\"295e13ac86f70dd60b8911c8ce4f96a83b6b9dd8426e751f72f6ecb425270b9e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -881,15 +881,6 @@
       "name": "APIVerve",
       "url": "https://apiverve.com",
       "description": "Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month. (Possibly taken down, 2025-06-25)",
-      "section": [
-        "APIs, Data, and ML"
-      ]
-    },
-    {
-      "key": "https://arize.com",
-      "name": "Arize AI",
-      "url": "https://arize.com/",
-      "description": "AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.",
       "section": [
         "APIs, Data, and ML"
       ]
@@ -2668,6 +2659,15 @@
       ]
     },
     {
+      "key": "https://teamsort.world",
+      "name": "TeamSort",
+      "url": "https://teamsort.world",
+      "description": "Free tool to vote on a shared list and rank items together. Create a ranked-choice poll in seconds - no signup.",
+      "section": [
+        "Tools for Teams and Collaboration"
+      ]
+    },
+    {
       "key": "https://telegram.org",
       "name": "Telegram",
       "url": "https://telegram.org/",
@@ -3410,15 +3410,6 @@
       "name": "Spacelift",
       "url": "https://spacelift.io/",
       "description": "Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month",
-      "section": [
-        "CI and CD"
-      ]
-    },
-    {
-      "key": "https://squash.io",
-      "name": "Squash Labs",
-      "url": "https://www.squash.io/",
-      "description": "creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.",
       "section": [
         "CI and CD"
       ]
@@ -6934,6 +6925,15 @@
       ]
     },
     {
+      "key": "https://arize.com",
+      "name": "Arize AX",
+      "url": "https://arize.com/",
+      "description": "AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.",
+      "section": [
+        "Generative AI"
+      ]
+    },
+    {
       "key": "https://voice-clone.org/tools/audio-enhancer",
       "name": "Audio Enhancer",
       "url": "https://voice-clone.org/tools/audio-enhancer",
@@ -7037,6 +7037,15 @@
       "name": "Mediaworkbench.ai",
       "url": "https://mediaworkbench.ai",
       "description": "MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.",
+      "section": [
+        "Generative AI"
+      ]
+    },
+    {
+      "key": "https://onomeo.com",
+      "name": "onomeo",
+      "url": "https://onomeo.com/",
+      "description": "Onomeo gives you one key for dozens of AI models. Plug it right into tools like Cline, SillyTavern, or Open WebUI using standard OpenAI format. 35 models are completely free (60 requests / 5 hrs per user, pooled at 450 / 5 hrs across all users). Daily check-in credits let you use big models like Claude and GPT, up to a daily limit. Extra credits start at $5/month. We’re in open beta, so expect occasional instability. It’s great for casual use, but not ready to be a daily driver. Feedback is always welcome.",
       "section": [
         "Generative AI"
       ]
@@ -11200,9 +11209,9 @@
       ]
     },
     {
-      "key": "https://ironfang.uk/render",
+      "key": "https://ironfang.com/render",
       "name": "Ironfang Render",
-      "url": "https://ironfang.uk/render",
+      "url": "https://ironfang.com/render",
       "description": "UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.",
       "section": [
         "Screenshot APIs"

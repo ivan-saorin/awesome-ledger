@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"de81124d44a1cceadff770119f482cb9ff7831967992620fc968b5bc65bdd950\"",
+  "etag": "W/\"42cf709807961825ae3a0707e497af16abc8c4b577c29d217e228609970f3510\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -339,6 +339,24 @@
       "name": "Crayonan / payload-plugin-ai-localization",
       "url": "https://github.com/Crayonan/payload-plugin-ai-localization",
       "description": "Adds an AI-powered \"Translate\" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/s1awek/payload-ecommerce-tpay",
+      "name": "s1awek / payload-ecommerce-tpay",
+      "url": "https://github.com/s1awek/payload-ecommerce-tpay",
+      "description": "Tpay payment adapter for the official ecommerce plugin: BLIK, bank transfers and cards for shops selling to Polish customers.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/relative23/payload-live-preview",
+      "name": "relative23 / payload-live-preview",
+      "url": "https://github.com/relative23/payload-live-preview",
+      "description": "Astro-first live preview for Payload: patches the DOM in the admin iframe as you edit, for any SSR or static frontend (Astro, SvelteKit, Nuxt, Next.js, plain HTML).",
       "section": [
         "Plugins"
       ]

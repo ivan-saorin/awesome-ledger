@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"82f77307dc92507caab3c8cdfa3715391041cbb1b9e5d94f9aec7a4d65e2317e\"",
+  "etag": "W/\"6e0c25bb2b43c57e513e30d3b62265eb64691fb9163c0144957d02dc6c6fbe61\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1728,6 +1728,16 @@
       "name": "TutorialSearch",
       "url": "https://tutorialsearch.io/browse/programming-languages/angular-interview",
       "description": "Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.",
+      "section": [
+        "Learning Resources",
+        "Exercises"
+      ]
+    },
+    {
+      "key": "https://frontendatlas.com/angular/trivia/angular-http-what-actually-cancels-request",
+      "name": "Angular HTTP Cancellation Lab",
+      "url": "https://frontendatlas.com/angular/trivia/angular-http-what-actually-cancels-request",
+      "description": "Free interactive lab comparing request cancellation with ignoring stale responses.",
       "section": [
         "Learning Resources",
         "Exercises"
@@ -3548,6 +3558,16 @@
       "name": "ngx-ai-devtools",
       "url": "https://github.com/ahmedkhan1/ngx-ai-devtools",
       "description": "See every prompt, response, token, and dollar your app spends without leaving the browser tab.",
+      "section": [
+        "Development Utilities",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/djordjejanjic/ngx-beautiful-ui",
+      "name": "ngx-beautiful-ui",
+      "url": "https://github.com/djordjejanjic/ngx-beautiful-ui",
+      "description": "Signal-based Angular components for AI chat interfaces: prompt bar, streaming markdown, thinking states, tool calls and approval cards. Unofficial port of Beautiful UI, no Tailwind or UI framework required.",
       "section": [
         "Development Utilities",
         "AI"
@@ -7228,6 +7248,16 @@
       "name": "ng-signal-state-manager",
       "url": "https://github.com/EugBoy/ng-signal-state-manager",
       "description": "Standalone, lightweight, and type-safe async query cache and state manager for Angular powered by Angular Signals and RxJS.",
+      "section": [
+        "State Management",
+        "Other State Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/danseid/ngx-signal-flow",
+      "name": "ngx-signal-flow",
+      "url": "https://github.com/danseid/ngx-signal-flow",
+      "description": "Manages state with Angular Signals, updates via Immer, and handles async side effects using RxJS.",
       "section": [
         "State Management",
         "Other State Libraries"

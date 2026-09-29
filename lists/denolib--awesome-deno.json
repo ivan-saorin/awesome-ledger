@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fdec8b070414233d614fbe182626b970ec2ffdbfa09dc9b7af3b7f47e8afcfce\"",
+  "etag": "W/\"82524fd914a3d6c6924d0495e23682b02ebb4cd4d829dbe5041204555314369c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -408,6 +408,16 @@
       "name": "deno-smtp",
       "url": "https://github.com/manyuanrong/deno-smtp",
       "description": "A smtp mail sender for deno.",
+      "section": [
+        "Modules",
+        "Mail"
+      ]
+    },
+    {
+      "key": "https://github.com/domaincanary/dmarc-rua",
+      "name": "dmarc-rua",
+      "url": "https://github.com/domaincanary/dmarc-rua",
+      "description": "Parse DMARC aggregate reports from XML, gzip, zip and report emails.",
       "section": [
         "Modules",
         "Mail"
