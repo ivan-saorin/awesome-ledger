@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8a56f29cf6fb5bbfc4b88def1be573bce08294894bcd3dba8ed75eb11620d66c\"",
+  "etag": "W/\"0ab4256e608ca52bc1a8e1655821c764a1b9b267d5f8bfa99dcd432f9093a93e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2371,6 +2371,16 @@
       "name": "longbridge/longbridge-terminal",
       "url": "https://github.com/longbridge/longbridge-terminal",
       "description": "AI-native CLI for Longbridge Securities: real-time quotes, portfolio, trading for HK/US/A-share/SG.",
+      "section": [
+        "Applications",
+        "Finance"
+      ]
+    },
+    {
+      "key": "https://github.com/makeev/alphai-tui",
+      "name": "makeev/alphai-tui",
+      "url": "https://github.com/makeev/alphai-tui",
+      "description": "[alphai-tui] - Terminal stock dashboard with keyless quotes and charts, news sentiment, SEC Form 4 insider trades and earnings reads.",
       "section": [
         "Applications",
         "Finance"
@@ -8831,6 +8841,16 @@
       ]
     },
     {
+      "key": "https://github.com/minikin/cargo-crap",
+      "name": "minikin/cargo-crap",
+      "url": "https://github.com/minikin/cargo-crap",
+      "description": "[cargo-crap] - Finds complex, untested functions by combining cyclomatic complexity with LCOV coverage (the CRAP metric) and gates CI on the score",
+      "section": [
+        "Development tools",
+        "Testing"
+      ]
+    },
+    {
       "key": "https://github.com/supercorp-ai/supercov",
       "name": "supercorp-ai/supercov",
       "url": "https://github.com/supercorp-ai/supercov",
@@ -10142,6 +10162,16 @@
       "name": "sgrust01/jwtvault",
       "url": "https://github.com/sgrust01/jwtvault",
       "description": "Async library to manage and orchestrate JWT workflow",
+      "section": [
+        "Libraries",
+        "Authentication"
+      ]
+    },
+    {
+      "key": "https://github.com/tenuo-ai/tenuo",
+      "name": "tenuo-ai/tenuo",
+      "url": "https://github.com/tenuo-ai/tenuo",
+      "description": "[tenuo] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated",
       "section": [
         "Libraries",
         "Authentication"
@@ -17011,7 +17041,7 @@
       "key": "https://github.com/rust-dd/tako",
       "name": "tako",
       "url": "https://github.com/rust-dd/tako",
-      "description": "Tako is an asynchronous web framework for Rust on Hyper & Tokio. GitHub Workflow Status",
+      "description": "[tako-rs] - Multi-transport web framework: HTTP/1.1, HTTP/2, HTTP/3, WebSocket, SSE, gRPC, TCP/UDP and Unix sockets behind one router, on Tokio or Compio.",
       "section": [
         "Libraries",
         "Web programming"

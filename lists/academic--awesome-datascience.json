@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fa9e2b058670f973a216acc41db61db2b810be96d5818ce09952f85b04114b33\"",
+  "etag": "W/\"3369b376d9737b8da5b3e46e1112e94252885318adc9b6c6a14ec1a7fe576540\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -98,6 +98,16 @@
       "name": "Jev Social",
       "url": "https://github.com/socai-io/jev-social",
       "description": "Read-only social research agent that lets Jev choose bounded Instagram, TikTok, and LinkedIn operations, runs them through the local socai CLI in Chrome, and preserves source-linked evidence beside a cited report.",
+      "section": [
+        "Agents",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/yylo-dev/yylo-benchmark",
+      "name": "YYLO Benchmark",
+      "url": "https://github.com/yylo-dev/yylo-benchmark",
+      "description": "Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.",
       "section": [
         "Agents",
         "Tools"

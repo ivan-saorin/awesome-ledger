@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6ce6c09f756a9c8c1c0be351db1d7192cb046031afe4dbc5dc0e0257a4a1863b\"",
+  "etag": "W/\"9afd7c232cbef9bca0aa1dfa03d089744b41a338126fbcb32e4b77ff8b8380e0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8256,6 +8256,15 @@
       "name": "NickTsaizer/splitasm.nvim",
       "url": "https://github.com/NickTsaizer/splitasm.nvim",
       "description": "View compiled assembly output side by side with source code, with synchronized cursor movement.",
+      "section": [
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/JarnDev/autodap.nvim",
+      "name": "JarnDev/autodap.nvim",
+      "url": "https://github.com/JarnDev/autodap.nvim",
+      "description": "Thin layer over nvim-dap that reads the current project and wires up the debugger for you; no launch.json, no per-language boilerplate.",
       "section": [
         "Debugging"
       ]

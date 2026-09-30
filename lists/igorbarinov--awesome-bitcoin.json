@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"68fe931ca5db7a451ab935770fe3684749f8848b8d8cb0aa59d2f16e2c2daeee\"",
+  "etag": "W/\"5738ac975f2e167201ac0adc79562ab7c342b2331b3ec44bcd144009d6d2a201\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -359,6 +359,15 @@
       "name": "OnFinality",
       "url": "https://onfinality.io/en/networks/bitcoin",
       "description": "Bitcoin RPC endpoints and API access for dApps, wallets, analytics, and backend services.",
+      "section": [
+        "Blockchain API and Web services"
+      ]
+    },
+    {
+      "key": "https://rpc.luganodes.com",
+      "name": "Luganodes RPC",
+      "url": "https://rpc.luganodes.com",
+      "description": "Bitcoin Core JSON-RPC endpoints on dedicated bare-metal infrastructure with a free tier.",
       "section": [
         "Blockchain API and Web services"
       ]

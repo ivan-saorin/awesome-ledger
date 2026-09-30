@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f941d2951e442f21b9c51f862275590e615948ee71e031c9f393c5c840b9e0e7\"",
+  "etag": "W/\"2ecd6962849fade90a81b02e2bda9416084247a36b229df376f9f2b2fcdccb91\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4839,6 +4839,15 @@
       ]
     },
     {
+      "key": "https://codeberg.org/fsm/lc-sse",
+      "name": "lc-sse",
+      "url": "https://codeberg.org/fsm/lc-sse",
+      "description": "",
+      "section": [
+        "Javascript"
+      ]
+    },
+    {
       "key": "https://github.com/fsmunoz/datastar-cl",
       "name": "datastar-cl",
       "url": "https://github.com/fsmunoz/datastar-cl",
@@ -5142,6 +5151,16 @@
       "section": [
         "Web development utilities",
         "User login and password management"
+      ]
+    },
+    {
+      "key": "https://github.com/phoe/the-great-rouclere",
+      "name": "the-great-rouclere",
+      "url": "https://github.com/phoe/the-great-rouclere",
+      "description": "Programmable HTTP mocking library in Common Lisp. MIT.",
+      "section": [
+        "Web development utilities",
+        "Testing HTTP requests"
       ]
     },
     {
@@ -5895,10 +5914,28 @@
       ]
     },
     {
+      "key": "https://github.com/ruricolist/infix-math",
+      "name": "infix-math",
+      "url": "https://github.com/ruricolist/infix-math",
+      "description": "An extensible infix syntax for math. MIT.",
+      "section": [
+        "Utils"
+      ]
+    },
+    {
+      "key": "https://github.com/mrcdr/polisher",
+      "name": "polisher",
+      "url": "https://github.com/mrcdr/polisher",
+      "description": ".",
+      "section": [
+        "Utils"
+      ]
+    },
+    {
       "key": "https://github.com/rigetti/cmu-infix",
       "name": "cmu-infix",
       "url": "https://github.com/rigetti/cmu-infix",
-      "description": "A library for writing infix mathematical notation in Common Lisp. See also polisher.",
+      "description": "A library for writing infix mathematical notation in Common Lisp.",
       "section": [
         "Utils"
       ]
