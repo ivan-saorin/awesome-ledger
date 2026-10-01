@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2c31ae9c85465c1908c9a69f5c3fd714c2a45f0e536bebbdf382cff0a8f8915e\"",
+  "etag": "W/\"a9ecf3dbeec3eae722a9e81ddd8c88bb18672c763b9b905a2820e2fd7f8ade57\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -208,6 +208,16 @@
       "name": "Nuclei Scanner",
       "url": "https://github.com/projectdiscovery/nuclei",
       "description": "nuclei is automated scanner for common vulnerability finding on site.",
+      "section": [
+        "Software",
+        "Security Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/ASCIT31/Dark-Moon",
+      "name": "Darkmoon",
+      "url": "https://github.com/ASCIT31/Dark-Moon",
+      "description": "Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.",
       "section": [
         "Software",
         "Security Testing"
@@ -914,6 +924,36 @@
       ]
     },
     {
+      "key": "https://jsonfabrica.com",
+      "name": "JsonFabrica",
+      "url": "https://jsonfabrica.com",
+      "description": "API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://codigoaoponto.com/en/tools",
+      "name": "Código ao Ponto",
+      "url": "https://codigoaoponto.com/en/tools",
+      "description": "Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://launchstock.app/tools/test-data-generator",
+      "name": "LaunchStock Test Data Generator",
+      "url": "https://launchstock.app/tools/test-data-generator",
+      "description": "Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
       "key": "https://github.com/vinceblock99/postal-code-formats",
       "name": "postal-code-formats",
       "url": "https://github.com/vinceblock99/postal-code-formats",
@@ -1098,6 +1138,16 @@
       "name": "k6",
       "url": "https://github.com/grafana/k6",
       "description": "Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.",
+      "section": [
+        "Software",
+        "Performance & Load Testing"
+      ]
+    },
+    {
+      "key": "https://jmeterhub.com",
+      "name": "JMeterHub",
+      "url": "https://www.jmeterhub.com",
+      "description": "Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.",
       "section": [
         "Software",
         "Performance & Load Testing"

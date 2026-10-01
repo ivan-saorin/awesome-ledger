@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"dce4d519a684e03aacd50f897c99a405299ab55ece39fcfd3c803d7d8fa1999d\"",
+  "etag": "W/\"6d48fc329abeeb393cfa5d648a80ae38496f02aa4885a5b388b3cfbcefc77ea8\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -5351,6 +5351,16 @@
       "name": "builq",
       "url": "https://github.com/cristalhq/builq",
       "description": "Easily build SQL queries in Go.",
+      "section": [
+        "Database",
+        "SQL Query Builders"
+      ]
+    },
+    {
+      "key": "https://github.com/kran/dba",
+      "name": "dba",
+      "url": "https://github.com/kran/dba",
+      "description": "SQL query builder for hand-written SQL, adding dynamic conditions, dialect-aware placeholders, and immutable chaining.",
       "section": [
         "Database",
         "SQL Query Builders"

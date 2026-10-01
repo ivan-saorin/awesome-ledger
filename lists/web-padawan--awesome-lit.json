@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5e4acaebe99e42d524b060fc56a64c750f0e3337691b74fc908cfd285890ae35\"",
+  "etag": "W/\"38bfd8f2218c7ac808b5e7e68e37bd7130388b7aad6b39788b312119fec216b6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1430,6 +1430,16 @@
       "name": "rollup-plugin-postcss-lit",
       "url": "https://www.npmjs.com/package/rollup-plugin-postcss-lit",
       "description": "Rollup plugin to load PostCSS-processed stylesheets in Lit components.",
+      "section": [
+        "Tools",
+        "Building"
+      ]
+    },
+    {
+      "key": "https://npmjs.com/package/@oddsquad/vite-plugin-lit",
+      "name": "vite-plugin-lit",
+      "url": "https://www.npmjs.com/package/@oddsquad/vite-plugin-lit",
+      "description": "Vite plugin for Lit adding HMR support, shadow root CSS helpers and a DevTools panel.",
       "section": [
         "Tools",
         "Building"

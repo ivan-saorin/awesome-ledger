@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8d4d7e1dad7b364bd60ee0128ddd4aa985b68a5e3b2d3faaf3a4588654c759b8\"",
+  "etag": "W/\"f49d0add5162cfd7bbb9798aeb20f1e70898bb1bb6553caa9b0903139f50cd48\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2564,6 +2564,15 @@
       "name": "seafile.com",
       "url": "https://www.seafile.com/",
       "description": "Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB",
+      "section": [
+        "Tools for Teams and Collaboration"
+      ]
+    },
+    {
+      "key": "https://sharry.live",
+      "name": "Sharry",
+      "url": "https://sharry.live/",
+      "description": "Screen sharing via the browser, no downloads, no installs. Useful for pair programming, presentations or remote support. Free tier: no account, 5-minute sessions, 1 viewer.",
       "section": [
         "Tools for Teams and Collaboration"
       ]
@@ -5539,6 +5548,15 @@
       ]
     },
     {
+      "key": "https://vinktar.com",
+      "name": "Vinktar",
+      "url": "https://vinktar.com/",
+      "description": "Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.",
+      "section": [
+        "Crash and Exception Handling"
+      ]
+    },
+    {
       "key": "https://whitespace.dev",
       "name": "Whitespace",
       "url": "https://whitespace.dev",
@@ -8392,10 +8410,10 @@
       ]
     },
     {
-      "key": "https://neon.tech",
+      "key": "https://neon.com",
       "name": "Neon",
-      "url": "https://neon.tech/",
-      "description": "Managed PostgreSQL, 0.5 GB of storage per project, 100 Projects ,10 branches per project, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.",
+      "url": "https://neon.com",
+      "description": "Managed Postgres, 0.5 GB of storage per project, 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU, scales to zero after 5 minutes. Includes S3-compatible Object Storage with 5 GB per project that branches with the database. 5 GB of network transfer per project, shared across all products.",
       "section": [
         "Managed Data Services"
       ]

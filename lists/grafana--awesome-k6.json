@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d835396cd370b1ba2c7d400642725785ad7fa9eb01c5d9550d073d048fe6516b\"",
+  "etag": "W/\"5ecc5c05f76c1862101a1d6eed13900f9b8c33a695b7fe9a669f87e807603fae\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -616,9 +616,9 @@
       ]
     },
     {
-      "key": "https://kubeshop.github.io/testkube/executor-k6",
+      "key": "https://docs.testkube.io/test-types/executor-k6",
       "name": "k6 Testkube executor",
-      "url": "https://kubeshop.github.io/testkube/executor-k6/",
+      "url": "https://docs.testkube.io/test-types/executor-k6",
       "description": "",
       "section": [
         "Tools"
@@ -1113,6 +1113,16 @@
       "name": "xk6-top",
       "url": "https://github.com/szkiba/xk6-top",
       "description": "Updating the current k6 metrics summaries on the terminal during the test run.",
+      "section": [
+        "Extensions",
+        "Community"
+      ]
+    },
+    {
+      "key": "https://github.com/Dmitry-Fedotov-Dev/xk6-sip",
+      "name": "xk6-sip",
+      "url": "https://github.com/Dmitry-Fedotov-Dev/xk6-sip",
+      "description": "Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.",
       "section": [
         "Extensions",
         "Community"
