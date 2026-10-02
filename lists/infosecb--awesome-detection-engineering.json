@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5e813b783ee7fd04f76a9b5969753eb537f05eaea2070aac87f7869160b397b3\"",
+  "etag": "W/\"f3ee9011a7c54bf6171c463309f89611cfe95be70da7b6da7e054a7b230bf714\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -59,7 +59,7 @@
     },
     {
       "key": "https://betaalvereniging.nl/wp-content/uploads/2026/03/FI-ISAC-use-case-framework-verkorte-versie.pdf",
-      "name": "MaGMa (Management, Growth and Metrics & Assessment) Use Case Defintion Model",
+      "name": "MaGMa (Management, Growth and Metrics & Assessment) Use Case Definition Model",
       "url": "https://www.betaalvereniging.nl/wp-content/uploads/2026/03/FI-ISAC-use-case-framework-verkorte-versie.pdf",
       "description": "A business-centric approach for defining threat detection use cases.",
       "section": [
@@ -112,9 +112,9 @@
       ]
     },
     {
-      "key": "https://elastic.co/security-labs/elastic-releases-debmm",
+      "key": "https://elastic.co/security-labs/threat-command/elastic-releases-debmm",
       "name": "Elastic's Detection Engineering Behavior Maturity Model",
-      "url": "https://www.elastic.co/security-labs/elastic-releases-debmm",
+      "url": "https://www.elastic.co/security-labs/threat-command/elastic-releases-debmm",
       "description": "Elastic's qualitative and quantitative approach to measuring threat detection program maturity.",
       "section": [
         "Concepts & Frameworks"
@@ -157,18 +157,18 @@
       ]
     },
     {
-      "key": "https://github.com/anpa1200/threatmapper",
+      "key": "https://github.com/anpa1200/adversarygraph",
       "name": "ThreatMapper | Andrey Pautov",
-      "url": "https://github.com/anpa1200/threatmapper",
+      "url": "https://github.com/anpa1200/adversarygraph",
       "description": "CTI-to-detection workbench for mapping threat reports to ATT&CK, comparing TTP overlap with groups and campaigns, identifying detection gaps, and exporting analyst-ready outputs.",
       "section": [
         "Concepts & Frameworks"
       ]
     },
     {
-      "key": "https://github.com/rolandpg/zettelforge",
+      "key": "https://github.com/ThreatRecall/zettelforge",
       "name": "ZettelForge",
-      "url": "https://github.com/rolandpg/zettelforge",
+      "url": "https://github.com/ThreatRecall/zettelforge",
       "description": "Agentic memory system that treats Sigma and YARA rules as first-class memory entities, with an LLM rule explainer, STIX 2.1 knowledge graph of CTI entities, and offline-first RAG to connect rules to the actors and techniques they detect. Python, MIT.",
       "section": [
         "Concepts & Frameworks"
@@ -194,7 +194,7 @@
     },
     {
       "key": "https://car.mitre.org/coverage",
-      "name": "CAR Coverage Comparision",
+      "name": "CAR Coverage Comparison",
       "url": "https://car.mitre.org/coverage/",
       "description": "A matrix of MITRE ATT&CK technique IDs and links to available Splunk Security Content, Elastic detection rules, Sigma rules, and CAR content.",
       "section": [
@@ -286,7 +286,7 @@
       "key": "https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua",
       "name": "Elastic Endpoint Ransomware Artifact",
       "url": "https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua",
-      "description": "Elastic's ranswomware artifact, which runs on the Elastic endpoint agent.",
+      "description": "Elastic's ransomware artifact, which runs on the Elastic endpoint agent.",
       "section": [
         "Detection Content & Signatures"
       ]
@@ -295,7 +295,7 @@
       "key": "https://github.com/chronicle/detection-rules",
       "name": "Chronicle (GCP) Detection Rules",
       "url": "https://github.com/chronicle/detection-rules",
-      "description": "Chronicle's detection rules written natively for the the Chronicle Platform.",
+      "description": "Chronicle's detection rules written natively for the Chronicle Platform.",
       "section": [
         "Detection Content & Signatures"
       ]
@@ -358,7 +358,7 @@
       "key": "https://github.com/center-for-threat-informed-defense/security-stack-mappings",
       "name": "Center for Threat Informed Defense Security Stack Mappings",
       "url": "https://github.com/center-for-threat-informed-defense/security-stack-mappings",
-      "description": "Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mapings to the MITRE ATT&CK framework.",
+      "description": "Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mappings to the MITRE ATT&CK framework.",
       "section": [
         "Detection Content & Signatures"
       ]
@@ -535,9 +535,9 @@
       ]
     },
     {
-      "key": "https://github.com/InnerWarden/innerwarden",
+      "key": "https://innerwarden.com",
       "name": "InnerWarden",
-      "url": "https://github.com/InnerWarden/innerwarden",
+      "url": "https://www.innerwarden.com/",
       "description": "Autonomous security agent for Linux with real-time threat detection and response via 38 eBPF hooks, 48 detectors, and 23 correlation rules.",
       "section": [
         "Logging, Monitoring & Data Sources"

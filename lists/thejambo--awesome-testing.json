@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a9ecf3dbeec3eae722a9e81ddd8c88bb18672c763b9b905a2820e2fd7f8ade57\"",
+  "etag": "W/\"13a23ad1f21d1bb7cad2fcc9c123422a77e2349a7b382dd540c1a0a9bb111a46\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -334,6 +334,16 @@
       ]
     },
     {
+      "key": "https://github.com/Continuum-AI-Corp/OrcaPromptVault",
+      "name": "OrcaPromptVault",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaPromptVault",
+      "description": "Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
       "key": "https://beeceptor.com",
       "name": "Beeceptor",
       "url": "https://beeceptor.com/",
@@ -398,6 +408,16 @@
       "name": "ApiNotes",
       "url": "https://apinotes.io/mock-server",
       "description": "Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.",
+      "section": [
+        "Software",
+        "Service Virtualization"
+      ]
+    },
+    {
+      "key": "https://twinbay.ai",
+      "name": "Twinbay",
+      "url": "https://twinbay.ai",
+      "description": "Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.",
       "section": [
         "Software",
         "Service Virtualization"
@@ -824,6 +844,16 @@
       ]
     },
     {
+      "key": "https://8m30mail.com",
+      "name": "8½ Minute Mail",
+      "url": "https://8m30mail.com/",
+      "description": "Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
       "key": "https://github.com/rapiddweller/datamimic",
       "name": "DATAMIMIC CE",
       "url": "https://github.com/rapiddweller/datamimic",
@@ -958,6 +988,16 @@
       "name": "postal-code-formats",
       "url": "https://github.com/vinceblock99/postal-code-formats",
       "description": "Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://stanzaapi.com/datasets",
+      "name": "StanzaAPI Test Data",
+      "url": "https://stanzaapi.com/datasets",
+      "description": "Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.",
       "section": [
         "Software",
         "Test Data Management"
@@ -1479,15 +1519,6 @@
       ]
     },
     {
-      "key": "https://dojo.ministryoftesting.com",
-      "name": "The Dojo",
-      "url": "https://dojo.ministryoftesting.com/",
-      "description": "Courses and talks directly from the testing community.",
-      "section": [
-        "Training (Includes developer training for automation testers)"
-      ]
-    },
-    {
       "key": "https://coursera.org",
       "name": "Coursera",
       "url": "https://www.coursera.org/",
@@ -1521,15 +1552,6 @@
       "description": "Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.",
       "section": [
         "Training (Includes developer training for automation testers)"
-      ]
-    },
-    {
-      "key": "https://developsense.com/blog",
-      "name": "Michael Bolton",
-      "url": "http://www.developsense.com/blog/",
-      "description": "",
-      "section": [
-        "Blogs"
       ]
     },
     {

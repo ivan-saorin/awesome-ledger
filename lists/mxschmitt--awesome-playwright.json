@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d47d348c76876e2fbfa61069cff6d46ca451f716e560c84cc787865f6c1bed0b\"",
+  "etag": "W/\"b84bdd95fb06338ad6586835032329e20e87290b8a31cd1f0ab8aa10823fc9be\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -454,6 +454,15 @@
       ]
     },
     {
+      "key": "https://github.com/supercorp-ai/supercov",
+      "name": "supercov",
+      "url": "https://github.com/supercorp-ai/supercov",
+      "description": "Wraps an existing Playwright test run to report line, branch and MC/DC coverage per test, worker and retry, without config or a custom reporter.",
+      "section": [
+        "Utils"
+      ]
+    },
+    {
       "key": "https://testingbot.com",
       "name": "TestingBot",
       "url": "https://testingbot.com",
@@ -553,6 +562,15 @@
       ]
     },
     {
+      "key": "https://github.com/half144/cutaway",
+      "name": "Cutaway",
+      "url": "https://github.com/half144/cutaway",
+      "description": "Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.",
+      "section": [
+        "AI & Agents"
+      ]
+    },
+    {
       "key": "https://playwright.dev/agent-cli/introduction",
       "name": "Playwright Agent CLI",
       "url": "https://playwright.dev/agent-cli/introduction",
@@ -647,6 +665,15 @@
       "name": "playwright-ctrf-json-reporter",
       "url": "https://github.com/ctrf-io/playwright-ctrf-json-reporter",
       "description": "A Playwright JSON test results reporter that follows the CTRF schema.",
+      "section": [
+        "Reporters"
+      ]
+    },
+    {
+      "key": "https://github.com/endformdev/playwright-opentelemetry",
+      "name": "playwright-opentelemetry",
+      "url": "https://github.com/endformdev/playwright-opentelemetry",
+      "description": "OpenTelemetry reporter for Playwright with trace propagation, OTLP export, and a viewer pairing screenshots with backend spans.",
       "section": [
         "Reporters"
       ]

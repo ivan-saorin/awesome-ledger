@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"51f603c965faf142a63e892c127d2f174ba4fb88dd7530b5ba495013428f3ae7\"",
+  "etag": "W/\"da01747234a6e08b512f33f8cf9973d70b57fe016e47140e89ec973a9c6e9684\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1702,6 +1702,15 @@
       "description": "Community-driven Ruby coding style.",
       "section": [
         "Coding Style Guides"
+      ]
+    },
+    {
+      "key": "https://github.com/rubyzip/rubyzip",
+      "name": "rubyzip",
+      "url": "https://github.com/rubyzip/rubyzip",
+      "description": "A Ruby library for reading and writing zip files.",
+      "section": [
+        "Compression"
       ]
     },
     {
@@ -4342,6 +4351,15 @@
       ]
     },
     {
+      "key": "https://github.com/flavorjones/loofah",
+      "name": "Loofah",
+      "url": "https://github.com/flavorjones/loofah",
+      "description": "A general library for manipulating and transforming HTML/XML documents and fragments, built on top of Nokogiri, with built-in HTML sanitizers.",
+      "section": [
+        "HTML/XML Parsing"
+      ]
+    },
+    {
       "key": "https://nokogiri.org",
       "name": "Nokogiri",
       "url": "https://nokogiri.org",
@@ -5359,6 +5377,15 @@
       ]
     },
     {
+      "key": "https://github.com/ohler55/oj",
+      "name": "Oj",
+      "url": "https://github.com/ohler55/oj",
+      "description": "A fast JSON parser and Object marshaller.",
+      "section": [
+        "Optimizations"
+      ]
+    },
+    {
       "key": "https://github.com/fatkodima/pluck_in_batches",
       "name": "pluck_in_batches",
       "url": "https://github.com/fatkodima/pluck_in_batches",
@@ -6029,6 +6056,15 @@
       "name": "Squid",
       "url": "https://github.com/claudiob/squid",
       "description": "Squid · A Ruby library to plot charts in PDF files",
+      "section": [
+        "PDF"
+      ]
+    },
+    {
+      "key": "https://github.com/actsasflinn/typst-rb",
+      "name": "typst",
+      "url": "https://github.com/actsasflinn/typst-rb",
+      "description": "Ruby binding to Typst, a markup-based typesetting system, to compile documents to PDF, SVG, PNG or HTML.",
       "section": [
         "PDF"
       ]
@@ -7316,6 +7352,15 @@
       "name": "Docsplit",
       "url": "http://documentcloud.github.io/docsplit",
       "description": "Gem to convert Microsoft Word (and other) documents into images, pdf, pages or text.",
+      "section": [
+        "Spreadsheets and Documents"
+      ]
+    },
+    {
+      "key": "https://github.com/Paxa/fast_excel",
+      "name": "fast_excel",
+      "url": "https://github.com/Paxa/fast_excel",
+      "description": "Ultra fast Excel (xlsx) writer for Ruby, a wrapper for libxlsxwriter using FFI.",
       "section": [
         "Spreadsheets and Documents"
       ]
