@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ba8f807cdae6529df793de79fe465fdb1d5108271448efb2adc383f047b7a4c9\"",
+  "etag": "W/\"9723a3bc33ccfddc4a3599236c0210625dbbf692805fa5a302e20347d3187ff4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -277,6 +277,16 @@
       "name": "cakedc/cakephp-phpstan",
       "url": "https://github.com/CakeDC/cakephp-phpstan",
       "description": "A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.",
+      "section": [
+        "Plugins",
+        "Code Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/Crustum/structarmed-cakephp",
+      "name": "Crustum/StructArmed preset",
+      "url": "https://github.com/Crustum/structarmed-cakephp",
+      "description": "Architecture/convention preset for CakePHP 5 that enforces layer isolation, naming, and quality/safety rules (max complexity, no dd/dump/die) via a static analyzer.",
       "section": [
         "Plugins",
         "Code Analysis"
@@ -683,6 +693,16 @@
       ]
     },
     {
+      "key": "https://github.com/cpierce/cakephp-claude-skill",
+      "name": "CakePHP Claude Skill",
+      "url": "https://github.com/cpierce/cakephp-claude-skill",
+      "description": "Claude Code skill for CakePHP development covering conventions, PHPStan compliance, migrations, and upgrade guidance.",
+      "section": [
+        "Plugins",
+        "Miscellaneous"
+      ]
+    },
+    {
       "key": "https://github.com/dereuromark/cakephp-calendar",
       "name": "Calendar plugin",
       "url": "https://github.com/dereuromark/cakephp-calendar",
@@ -783,20 +803,20 @@
       ]
     },
     {
-      "key": "https://github.com/icings/menu",
-      "name": "Icings/Menu plugin",
-      "url": "https://github.com/icings/menu",
-      "description": "A KnpMenu seasoned menu plugin for CakePHP.",
+      "key": "https://github.com/dereuromark/cakephp-menu",
+      "name": "CakeMenu plugin",
+      "url": "https://github.com/dereuromark/cakephp-menu",
+      "description": "Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs - and zero dependencies.",
       "section": [
         "Plugins",
         "Navigation"
       ]
     },
     {
-      "key": "https://github.com/dereuromark/cakephp-menu",
-      "name": "Menu plugin",
-      "url": "https://github.com/dereuromark/cakephp-menu",
-      "description": "Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs - and zero dependencies.",
+      "key": "https://github.com/icings/menu",
+      "name": "Icings/Menu plugin",
+      "url": "https://github.com/icings/menu",
+      "description": "A KnpMenu seasoned menu plugin for CakePHP.",
       "section": [
         "Plugins",
         "Navigation"

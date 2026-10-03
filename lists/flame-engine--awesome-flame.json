@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2a662e1e056a0b87a65bac651ee06cce3f33f20f7c422c56a0e26430942383d8\"",
+  "etag": "W/\"0b00e6f3d5552473548b19322c5e5070d7f8bd0c7e768de64462c3718e0c46aa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -344,6 +344,15 @@
       "name": "fuse",
       "url": "https://github.com/misha/flame_fuse",
       "description": "Behavior composition with hooks for Flame components. By Misha",
+      "section": [
+        "Plugins & Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d",
+      "name": "flame_flutter3d",
+      "url": "https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d",
+      "description": "Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By dzolotov",
       "section": [
         "Plugins & Libraries"
       ]

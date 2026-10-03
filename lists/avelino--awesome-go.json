@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e10f54a4b81a1308fdb38a5c3ed15c5d5e3429b13388225c439ef35a7704dbe8\"",
+  "etag": "W/\"1eb4f79644236d0632369934a70a9164aca1c49cf0885343ae6e8313750f31b6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8609,6 +8609,15 @@
       ]
     },
     {
+      "key": "https://github.com/dobyte/due",
+      "name": "due",
+      "url": "https://github.com/dobyte/due",
+      "description": "Distributed game server framework with a modular component design, providing tcp, kcp, ws and quic gateways.",
+      "section": [
+        "Game Development"
+      ]
+    },
+    {
       "key": "https://github.com/hajimehoshi/ebiten",
       "name": "Ebitengine",
       "url": "https://github.com/hajimehoshi/ebiten",
@@ -12528,6 +12537,15 @@
       "name": "jazz",
       "url": "https://github.com/socifi/jazz",
       "description": "A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages.",
+      "section": [
+        "Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/rafaelaugustos/kiln",
+      "name": "kiln",
+      "url": "https://github.com/rafaelaugustos/kiln",
+      "description": "Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard.",
       "section": [
         "Messaging"
       ]
@@ -16750,6 +16768,15 @@
       "name": "Coraza",
       "url": "https://github.com/corazawaf/coraza",
       "description": "Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/stardothosting/coraza-rule-validator",
+      "name": "coraza-rule-validator",
+      "url": "https://github.com/stardothosting/coraza-rule-validator",
+      "description": "Standalone CLI tool to validate ModSecurity and Coraza SecLang WAF rules before production deployment.",
       "section": [
         "Security"
       ]
@@ -22795,7 +22822,16 @@
       "key": "https://github.com/Oudwins/zog",
       "name": "Zog",
       "url": "https://github.com/Oudwins/zog",
-      "description": "A Zod inspired schema builder for runtime value parsing and validation. ⬆ back to top",
+      "description": "A Zod inspired schema builder for runtime value parsing and validation.",
+      "section": [
+        "Validation"
+      ]
+    },
+    {
+      "key": "https://github.com/sevlyar/vx",
+      "name": "vx",
+      "url": "https://github.com/sevlyar/vx",
+      "description": "Validation built from small, composable checks with zero dependencies and a reconstructable error path. ⬆ back to top",
       "section": [
         "Validation"
       ]

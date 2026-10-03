@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a634d72d90ce1ba2e3fa6aa1c0d93631cb3befbfa551b133712d11ab29c03167\"",
+  "etag": "W/\"76e869bd1572bb7557bfd805fad062ec27ddc573f61bf543a4bb581775c31308\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -118,6 +118,16 @@
       "name": "YYLO",
       "url": "https://github.com/yylo-dev/yylo",
       "description": "Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.",
+      "section": [
+        "Agents",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/yylo-dev/yylo-ledger",
+      "name": "YYLO Ledger",
+      "url": "https://github.com/yylo-dev/yylo-ledger",
+      "description": "Command-line task and workflow ledger for coding-agent projects: stores the Kanban board and task state as hash-chained Markdown inside the repository, tracks receipts and archives, and drives typed merge and release flows across agent worktrees. MIT licensed.",
       "section": [
         "Agents",
         "Tools"
@@ -6812,10 +6822,30 @@
       ]
     },
     {
+      "key": "https://github.com/npiwho/us-provider-payments",
+      "name": "US Provider Industry Payments",
+      "url": "https://github.com/npiwho/us-provider-payments",
+      "description": "1.65M US healthcare providers joined by NPI to the drug and device company payments reported to them in CMS Open Payments (2019-2025): total, payment count, largest payer and payment type, with state and specialty rollups. Gzipped CSV, no login, CC0, Zenodo DOI 10.5281/zenodo.23098004.",
+      "section": [
+        "Fun",
+        "Datasets"
+      ]
+    },
+    {
       "key": "https://github.com/whatfontis/WhatFontIs-Bench",
       "name": "WhatFontIs-Bench",
       "url": "https://github.com/whatfontis/WhatFontIs-Bench",
       "description": "Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.",
+      "section": [
+        "Fun",
+        "Datasets"
+      ]
+    },
+    {
+      "key": "https://github.com/checkdutyrates/us-tariff-data",
+      "name": "US Tariff Data",
+      "url": "https://github.com/checkdutyrates/us-tariff-data",
+      "description": "The US Harmonized Tariff Schedule (about 30,000 lines with rates), chapter 99 additional duties by country (Section 301, 232 and others) and EU import duties by HS subheading and origin, refreshed with each HTS revision. CSV and JSON, no login, CC0 (US data) and OGL v3 (EU data), Zenodo DOI 10.5281/zenodo.23093989.",
       "section": [
         "Fun",
         "Datasets"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1c677bb85fb5b87822d1d3aabfd2e2ebba03ec39a4bef5d3f5042a676d4db1b1\"",
+  "etag": "W/\"795a1246f1a2d4c2a9b0fce0acf9b3935df923dbea2abcad7a4580ef2f0d3a9b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -7,7 +7,7 @@
       "key": "https://github.com/chris-ritsen/network-audio-controller",
       "name": "Network Audio Controller",
       "url": "https://github.com/chris-ritsen/network-audio-controller",
-      "description": "Reverse engineered Dante Controller on the command line.",
+      "description": "Reverse engineered Dante Controller. Supports Web GUI and command line.",
       "section": [
         "Tools"
       ]
@@ -219,6 +219,42 @@
       "description": ", public version - AES67 based audio transport in a video stream. Adds some contains to AES67.",
       "section": [
         "Standards"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20250402090003/https://static.vsf.tv/download/technical_recommendations/VSF_TR-10-13_2024-01-19.pdf",
+      "name": "IPMX PEP Draft",
+      "url": "https://web.archive.org/web/20250402090003/https://static.vsf.tv/download/technical_recommendations/VSF_TR-10-13_2024-01-19.pdf",
+      "description": "The VSF used to host a draft on IPMX encryption (linked the archived copy).",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://getdante.com/products/network-management/dante-media-encryption",
+      "name": "Dante Encryption",
+      "url": "https://www.getdante.com/products/network-management/dante-media-encryption/",
+      "description": "Dante encrypts media streams, but requires a cloud connection for encrypted control traffic.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://ritcsec.wordpress.com/2020/04/28/reverse-engineering-and-vulnerability-assessment-of-the-dante-protocol",
+      "name": "Vulnerability assessment of the Dante Protocol",
+      "url": "https://ritcsec.wordpress.com/2020/04/28/reverse-engineering-and-vulnerability-assessment-of-the-dante-protocol/",
+      "description": "This article looks at the low-level implementation of Dante protocol.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20250823221404/http://lersse-dl.ece.ubc.ca/record/123/files/123.pdf",
+      "name": "Secuirty analysis of PTP paper",
+      "url": "https://web.archive.org/web/20250823221404/http://lersse-dl.ece.ubc.ca/record/123/files/123.pdf",
+      "description": "A paper from 2025 explaining which attack vectors on PTP exist in theory.",
+      "section": [
+        "Security"
       ]
     },
     {
