@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1eb4f79644236d0632369934a70a9164aca1c49cf0885343ae6e8313750f31b6\"",
+  "etag": "W/\"727f3c9fb60db67b5d870d6925685367a1148a9465ed92818b6fe4602bfb859e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -529,7 +529,16 @@
       "key": "https://github.com/gordonklaus/portaudio",
       "name": "PortAudio",
       "url": "https://github.com/gordonklaus/portaudio",
-      "description": "Go bindings for the PortAudio audio I/O library. -voxrai-ai - AI voice agents with a JSON configuration, STT → LLM → TTS pipelines over WebSocket and WebRTC",
+      "description": "Go bindings for the PortAudio audio I/O library.",
+      "section": [
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/Voxray-AI/Voxray",
+      "name": "voxrai-ai",
+      "url": "https://github.com/Voxray-AI/Voxray",
+      "description": "AI voice agents with a JSON configuration, STT → LLM → TTS pipelines over WebSocket and WebRTC.",
       "section": [
         "Audio and Music"
       ]
@@ -2058,6 +2067,16 @@
       ]
     },
     {
+      "key": "https://github.com/ramayac/GoPOSIX",
+      "name": "GoPOSIX",
+      "url": "https://github.com/ramayac/GoPOSIX",
+      "description": "A Go-native, single-binary multicall with 77 POSIX tools and >97% BusyBox test compatibility.",
+      "section": [
+        "Command Line",
+        "Standard CLI"
+      ]
+    },
+    {
       "key": "https://github.com/hashicorp/cli",
       "name": "hashicorp/cli",
       "url": "https://github.com/hashicorp/cli",
@@ -2928,15 +2947,6 @@
       ]
     },
     {
-      "key": "https://github.com/jbunds/coverage",
-      "name": "coverage",
-      "url": "https://github.com/jbunds/coverage",
-      "description": "A simple Web UI for Go test coverage, and the go-test-coverage-html-report reusable GitHub Action.",
-      "section": [
-        "Continuous Integration"
-      ]
-    },
-    {
       "key": "https://github.com/opnlabs/dot",
       "name": "dot",
       "url": "https://github.com/opnlabs/dot",
@@ -3327,6 +3337,16 @@
       ]
     },
     {
+      "key": "https://github.com/CreateLab/glinq",
+      "name": "glinq",
+      "url": "https://github.com/CreateLab/glinq",
+      "description": "LINQ-like lazy evaluation library with type-safe generics, performance optimizations and zero dependencies.",
+      "section": [
+        "Data Structures and Algorithms",
+        "Iterators"
+      ]
+    },
+    {
       "key": "https://github.com/alvii147/gloop",
       "name": "gloop",
       "url": "https://github.com/alvii147/gloop",
@@ -3611,6 +3631,16 @@
       "name": "slices",
       "url": "https://github.com/twharmon/slices",
       "description": "Pure, generic functions for slices.",
+      "section": [
+        "Data Structures and Algorithms",
+        "Miscellaneous Data Structures and Algorithms"
+      ]
+    },
+    {
+      "key": "https://github.com/puzpuzpuz/xsync",
+      "name": "xsync",
+      "url": "https://github.com/puzpuzpuz/xsync",
+      "description": "Concurrent scalable data structures like xsync.Map, a concurrent generic hash table.",
       "section": [
         "Data Structures and Algorithms",
         "Miscellaneous Data Structures and Algorithms"
@@ -4057,20 +4087,20 @@
       ]
     },
     {
-      "key": "https://github.com/EchoVault/EchoVault",
-      "name": "EchoVault",
-      "url": "https://github.com/EchoVault/EchoVault",
-      "description": "Embeddable Distributed in-memory data store compatible with Redis clients.",
+      "key": "https://github.com/hugocarreira/easycache",
+      "name": "easycache",
+      "url": "https://github.com/hugocarreira/easycache",
+      "description": "A simple way to use in-memory cache in Golang (TTL/FIFO/LRU/LFU).",
       "section": [
         "Database",
         "Caches"
       ]
     },
     {
-      "key": "https://github.com/hugocarreira/easycache",
-      "name": "easycache",
-      "url": "https://github.com/hugocarreira/easycache",
-      "description": "A simple way to use in-memory cache in Golang (TTL/FIFO/LRU/LFU).",
+      "key": "https://github.com/EchoVault/EchoVault",
+      "name": "EchoVault",
+      "url": "https://github.com/EchoVault/EchoVault",
+      "description": "Embeddable Distributed in-memory data store compatible with Redis clients.",
       "section": [
         "Database",
         "Caches"
@@ -5551,6 +5581,16 @@
       "name": "sqlc",
       "url": "https://github.com/kyleconroy/sqlc",
       "description": "Generate type-safe code from SQL.",
+      "section": [
+        "Database",
+        "SQL Query Builders"
+      ]
+    },
+    {
+      "key": "https://github.com/Klojer/sqlcredo",
+      "name": "sqlcredo",
+      "url": "https://github.com/Klojer/sqlcredo",
+      "description": "Package for type-safe generic SQL CRUD operations with pagination, transactions, debugging, and custom raw SQL extensions.",
       "section": [
         "Database",
         "SQL Query Builders"
@@ -7893,6 +7933,15 @@
       "name": "go-wkhtmltopdf",
       "url": "https://github.com/SebastiaanKlippert/go-wkhtmltopdf",
       "description": "A package to convert an HTML template to a PDF file.",
+      "section": [
+        "File Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/lzambarda/goflat",
+      "name": "goflat",
+      "url": "https://github.com/lzambarda/goflat",
+      "description": "Context-aware generic flat file marshaler/unmarshaler.",
       "section": [
         "File Handling"
       ]
@@ -14560,6 +14609,15 @@
       ]
     },
     {
+      "key": "https://github.com/melihbirim/corsproxy",
+      "name": "corsproxy",
+      "url": "https://github.com/melihbirim/corsproxy",
+      "description": "CORS proxy server with SSRF protection, host allow/blocklisting, and optional API key authentication.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
       "key": "https://github.com/mdlayher/dhcp6",
       "name": "dhcp6",
       "url": "https://github.com/mdlayher/dhcp6",
@@ -16620,19 +16678,19 @@
       ]
     },
     {
-      "key": "https://github.com/hlandau/acme",
-      "name": "acmetool",
-      "url": "https://github.com/hlandau/acme",
-      "description": "ACME (Let's Encrypt) client tool with automatic renewal.",
+      "key": "https://github.com/esnet/acme-proxy",
+      "name": "acme-proxy",
+      "url": "https://github.com/esnet/acme-proxy",
+      "description": "Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.",
       "section": [
         "Security"
       ]
     },
     {
-      "key": "https://github.com/esnet/acme-proxy",
-      "name": "acme-proxy",
-      "url": "https://github.com/esnet/acme-proxy",
-      "description": "Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.",
+      "key": "https://github.com/hlandau/acme",
+      "name": "acmetool",
+      "url": "https://github.com/hlandau/acme",
+      "description": "ACME (Let's Encrypt) client tool with automatic renewal.",
       "section": [
         "Security"
       ]
@@ -17025,10 +17083,28 @@
       ]
     },
     {
+      "key": "https://github.com/tecnickcom/nurago/tree/main/pkg/redact",
+      "name": "nurago/pkg/redact",
+      "url": "https://github.com/tecnickcom/nurago/tree/main/pkg/redact",
+      "description": "Removes secrets from log lines and HTTP dumps in a single pass, covering headers, JSON, XML, URL-encoded data, JWTs, PEM keys, and vendor tokens.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/pjebs/optimus-go",
       "name": "optimus-go",
       "url": "https://github.com/pjebs/optimus-go",
       "description": "ID hashing and Obfuscation using Knuth's Algorithm.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/google/osv-scanner",
+      "name": "osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by OSV.",
       "section": [
         "Security"
       ]
@@ -17943,6 +18019,15 @@
       ]
     },
     {
+      "key": "https://github.com/Notifuse/liquidgo",
+      "name": "liquidgo",
+      "url": "https://github.com/Notifuse/liquidgo",
+      "description": "Full Go implementation of Shopify's Liquid template engine.",
+      "section": [
+        "Template Engines"
+      ]
+    },
+    {
       "key": "https://github.com/johnfercher/maroto",
       "name": "maroto",
       "url": "https://github.com/johnfercher/maroto",
@@ -18064,6 +18149,16 @@
       ]
     },
     {
+      "key": "https://github.com/Nikita-Filonov/axiom",
+      "name": "axiom",
+      "url": "https://github.com/Nikita-Filonov/axiom",
+      "description": "Composable Go test framework with fixtures, hooks, retries, metadata, plugins, and parallel execution.",
+      "section": [
+        "Testing",
+        "Testing Frameworks"
+      ]
+    },
+    {
       "key": "https://github.com/h2non/baloo",
       "name": "baloo",
       "url": "https://github.com/h2non/baloo",
@@ -18108,6 +18203,16 @@
       "name": "commander",
       "url": "https://github.com/SimonBaeumer/commander",
       "description": "Tool for testing cli applications on windows, linux and osx.",
+      "section": [
+        "Testing",
+        "Testing Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/jbunds/coverage",
+      "name": "coverage",
+      "url": "https://github.com/jbunds/coverage",
+      "description": "A simple Web UI for Go test coverage, and the go-test-coverage-html-report reusable GitHub Action.",
       "section": [
         "Testing",
         "Testing Frameworks"
@@ -19849,19 +19954,19 @@
       ]
     },
     {
-      "key": "https://github.com/OTA-Insight/bqwriter",
-      "name": "bqwriter",
-      "url": "https://github.com/OTA-Insight/bqwriter",
-      "description": "High Level Go Library to write data into Google BigQuery at a high throughout.",
+      "key": "https://github.com/tigusigalpa/birdeye-go",
+      "name": "birdeye-go",
+      "url": "https://github.com/tigusigalpa/birdeye-go",
+      "description": "Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.",
       "section": [
         "Third-party APIs"
       ]
     },
     {
-      "key": "https://github.com/tigusigalpa/birdeye-go",
-      "name": "birdeye-go",
-      "url": "https://github.com/tigusigalpa/birdeye-go",
-      "description": "Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.",
+      "key": "https://github.com/OTA-Insight/bqwriter",
+      "name": "bqwriter",
+      "url": "https://github.com/OTA-Insight/bqwriter",
+      "description": "High Level Go Library to write data into Google BigQuery at a high throughout.",
       "section": [
         "Third-party APIs"
       ]
@@ -22594,6 +22699,15 @@
       ]
     },
     {
+      "key": "https://github.com/sixafter/nanoid",
+      "name": "nanoid",
+      "url": "https://github.com/sixafter/nanoid",
+      "description": "Efficient, cryptographically secure generator for fast, concurrent NanoID and UUID creation.",
+      "section": [
+        "UUID"
+      ]
+    },
+    {
       "key": "https://github.com/muyo/sno",
       "name": "sno",
       "url": "https://github.com/muyo/sno",
@@ -22819,19 +22933,19 @@
       ]
     },
     {
-      "key": "https://github.com/Oudwins/zog",
-      "name": "Zog",
-      "url": "https://github.com/Oudwins/zog",
-      "description": "A Zod inspired schema builder for runtime value parsing and validation.",
+      "key": "https://github.com/sevlyar/vx",
+      "name": "vx",
+      "url": "https://github.com/sevlyar/vx",
+      "description": "Validation built from small, composable checks with zero dependencies and a reconstructable error path.",
       "section": [
         "Validation"
       ]
     },
     {
-      "key": "https://github.com/sevlyar/vx",
-      "name": "vx",
-      "url": "https://github.com/sevlyar/vx",
-      "description": "Validation built from small, composable checks with zero dependencies and a reconstructable error path. ⬆ back to top",
+      "key": "https://github.com/Oudwins/zog",
+      "name": "Zog",
+      "url": "https://github.com/Oudwins/zog",
+      "description": "A Zod inspired schema builder for runtime value parsing and validation. ⬆ back to top",
       "section": [
         "Validation"
       ]
@@ -23404,10 +23518,10 @@
       ]
     },
     {
-      "key": "https://github.com/axzilla/templui",
-      "name": "templui",
-      "url": "https://github.com/axzilla/templui",
-      "description": "Modern UI Components for Go & Templ.",
+      "key": "https://github.com/axadrn/shadcn-templ",
+      "name": "shadcn-templ",
+      "url": "https://github.com/axadrn/shadcn-templ",
+      "description": "Unofficial shadcn/ui port for Go and templ: accessible UI components with CLI and registry.",
       "section": [
         "Web Frameworks"
       ]
@@ -24050,6 +24164,15 @@
       "name": "wasmbrowsertest",
       "url": "https://github.com/agnivade/wasmbrowsertest",
       "description": "Run Go WASM tests in your browser.",
+      "section": [
+        "WebAssembly"
+      ]
+    },
+    {
+      "key": "https://github.com/bytecodealliance/wasmtime-go",
+      "name": "wasmtime-go",
+      "url": "https://github.com/bytecodealliance/wasmtime-go",
+      "description": "Go bindings for the Wasmtime WebAssembly runtime (WASI support, JIT/AOT, secure and fast embedding).",
       "section": [
         "WebAssembly"
       ]
@@ -25669,16 +25792,6 @@
       ]
     },
     {
-      "key": "https://github.com/Knuspii/kepfi",
-      "name": "kepfi",
-      "url": "https://github.com/Knuspii/kepfi",
-      "description": "A smart alternative to rm with a recovery bin and storage tracking.",
-      "section": [
-        "Software Packages",
-        "DevOps Tools"
-      ]
-    },
-    {
       "key": "https://github.com/kubernetes-sigs/kind",
       "name": "kind",
       "url": "https://github.com/kubernetes-sigs/kind",
@@ -26999,6 +27112,16 @@
       ]
     },
     {
+      "key": "https://github.com/benzjeremy/untis-go",
+      "name": "untis-go",
+      "url": "https://github.com/benzjeremy/untis-go",
+      "description": "Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
       "key": "https://github.com/lingrino/vaku",
       "name": "vaku",
       "url": "https://github.com/lingrino/vaku",
@@ -27013,16 +27136,6 @@
       "name": "vFlow",
       "url": "https://github.com/VerizonDigital/vflow",
       "description": "High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.",
-      "section": [
-        "Software Packages",
-        "Other Software"
-      ]
-    },
-    {
-      "key": "https://github.com/benzjeremy/untis-go",
-      "name": "untis-go",
-      "url": "https://github.com/benzjeremy/untis-go",
-      "description": "Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.",
       "section": [
         "Software Packages",
         "Other Software"

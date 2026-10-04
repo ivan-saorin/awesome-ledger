@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"273e80850e1383424516d3589ccd2a1e0b948d79ff4a71438a09fe525405ffcc\"",
+  "etag": "W/\"e9abb1588a6857be8d30985aa0d741f0a4a4ba8f9f8bf8811b6ad5131d61154b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2363,6 +2363,15 @@
       "name": "cloud-audit",
       "url": "https://github.com/gebalamariusz/cloud-audit",
       "description": "AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/towardsthecloud/cloudburn",
+      "name": "CloudBurn",
+      "url": "https://github.com/towardsthecloud/cloudburn",
+      "description": "AWS cost policy checks for Terraform and CloudFormation in CI and live AWS accounts.",
       "section": [
         "Tools"
       ]

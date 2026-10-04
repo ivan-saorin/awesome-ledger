@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0ab5f20406c7d0d1f5347d4ed8257e3b33680f8e6cf22cdddf36fcd31fa34cd2\"",
+  "etag": "W/\"7995efc09b35f37da44dc059fa568bcecc0693aa0f05600ba106723aa583f5ed\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -391,6 +391,15 @@
       ]
     },
     {
+      "key": "https://github.com/YoanWai/agent-manager",
+      "name": "agent-manager",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "description": "Terminal UI that runs Gemini CLI alongside Claude Code, Codex, OpenCode and other coding-agent CLIs, each in its own persistent tmux session. One list shows every session's live status, prompts go into a pane without attaching, a session can spawn into its own Git worktree, and a full-file diff review sends line comments back to the agent. Launches your installed Gemini CLI unmodified, so login, config and MCP servers carry over. macOS, Linux and Windows via WSL2. Apache-2.0.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
       "key": "https://github.com/hyhmrright/brooks-lint",
       "name": "brooks-lint",
       "url": "https://github.com/hyhmrright/brooks-lint",
@@ -710,6 +719,51 @@
       "name": "since-cutoff",
       "url": "https://github.com/MohammadHijjawi97/since-cutoff",
       "description": "Gemini CLI extension (MCP server + skill) that tells the agent what changed in your Python dependencies since the model's training cutoff: a static diff of each library's public API between the release at the cutoff and the version your lockfile pins, with no model calls or API key. Install via gemini extensions install https://github.com/MohammadHijjawi97/since-cutoff.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/better-designs/better-design-plugin",
+      "name": "Better Design",
+      "url": "https://github.com/better-designs/better-design-plugin",
+      "description": "Gemini CLI extension that connects the Better Design MCP server: design systems, UI and UX principles, icons and UI review for the interfaces the agent builds. Install with gemini extensions install https://github.com/better-designs/better-design-plugin; sign in with a free account on first connect.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/WhiteBite/dejavu-gates",
+      "name": "dejavu",
+      "url": "https://github.com/WhiteBite/dejavu-gates",
+      "description": "Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: gemini extensions install https://github.com/WhiteBite/dejavu-gates. MIT.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/firelock-ai/kin",
+      "name": "Kin",
+      "url": "https://github.com/firelock-ai/kin",
+      "description": "Gemini CLI extension for Kin, a graph-native code repository for people and AI agents. Its MCP server lets Gemini look up callers, references and history from the same record you inspect with the kin CLI.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/voygr-tech/placecall",
+      "name": "PlaceCall",
+      "url": "https://github.com/voygr-tech/placecall",
+      "description": "Gemini CLI extension (skill + remote MCP server) that places real outbound phone calls to US businesses for bookings, inquiries and quotes, and returns the outcome and transcript. Paid API. Install: gemini extensions install https://github.com/voygr-tech/placecall.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/8bsite/8b-agent-plugin",
+      "name": "8B AI Website Builder",
+      "url": "https://github.com/8bsite/8b-agent-plugin",
+      "description": "Gemini CLI extension that builds an animated one-page website: the agent picks an 8B generated design, writes the copy and returns a preview link, plain-word edits and one HTML file. Remote MCP https://mcp.8b.com/mcp, no account or API key. Install: gemini extensions install https://github.com/8bsite/8b-agent-plugin.",
       "section": [
         "Commands & Extensions"
       ]
@@ -1057,6 +1111,33 @@
       ]
     },
     {
+      "key": "https://github.com/mugeshk97/tokenmeter",
+      "name": "Tokenmeter",
+      "url": "https://github.com/mugeshk97/tokenmeter",
+      "description": "Desktop widget that shows Gemini CLI tokens today and over the last 7 days, alongside Claude Code, Codex and Copilot limits. Linux, Windows and macOS.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/jongos/Dazzler",
+      "name": "Dazzler",
+      "url": "https://github.com/jongos/Dazzler",
+      "description": "Agent Skill for frontend and document design (typography, palettes, 30 templates, offline design checks) with setup instructions for Gemini CLI.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/dspv/caprock",
+      "name": "Caprock",
+      "url": "https://github.com/dspv/caprock",
+      "description": "Local dashboard that starts Gemini CLI sessions and follows them through the telemetry file Gemini writes, on the same screens as Claude Code, Codex and OpenCode: live activity, token cost per repository, searchable history.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -1187,6 +1268,15 @@
       "name": "Shiori",
       "url": "https://github.com/kaorii-ako/Shiori-v1",
       "description": "Open-source AI study companion powered by Gemini AI. Assignments tracker, SRS flashcards, GPA predictor, AI quiz generator, Pomodoro focus timer, and Claude Code MCP server. Live demo.",
+      "section": [
+        "Education & Study Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ZeKaiNie/universal-examprep-skill",
+      "name": "Exam Cram Coach",
+      "url": "https://github.com/ZeKaiNie/universal-examprep-skill",
+      "description": "Agent Skill for exam prep that runs in Gemini CLI and other agents (npx skills add ZeKaiNie/universal-examprep-skill). Teaches from a student's own lecture slides, notes and past papers with file and page citations, crops figures from the PDFs, quizzes only from their homework and past papers, and keeps progress across sessions. English and Chinese.",
       "section": [
         "Education & Study Tools"
       ]
@@ -1484,6 +1574,42 @@
       "name": "Oh My Android",
       "url": "https://github.com/ateymoori/oh-my-android",
       "description": "MCP server that lets Gemini CLI see and drive the Android Emulator on macOS: screenshots, UI tree in dp, tap/type, dark mode, RTL, font scale, logcat. Free, MIT, native macOS app (macOS 26+, Apple silicon) with a built-in stdio server. Install: gemini mcp add --scope user oh-my-android ohmyandroid-mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/louis030195/hyperconsciousness",
+      "name": "Hyperconsciousness",
+      "url": "https://github.com/louis030195/hyperconsciousness",
+      "description": "Developer-alpha encrypted, append-only knowledge store with a Rust CLI and stdio MCP server. Gives agents scoped, expiring access to notes and supports device sync. MIT licensed.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/allxsmith/bestax/tree/main/bestax-mcp",
+      "name": "Bestax",
+      "url": "https://github.com/allxsmith/bestax/tree/main/bestax-mcp",
+      "description": "MCP server that gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1). Runs offline.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/foklepoint/court-rules-mcp",
+      "name": "Court Rules",
+      "url": "https://github.com/foklepoint/court-rules-mcp",
+      "description": "U.S. federal court rules, local rules, judge standing orders and court holidays with filing deadline checks, over a hosted MCP server. Install: gemini extensions install https://github.com/foklepoint/court-rules-mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://lognorm.com",
+      "name": "LogNorm",
+      "url": "https://lognorm.com",
+      "description": "Hosted remote MCP server that hands a website's SEO and AI-visibility (GEO) backlog (site audits, fixes, content drafts, AI-answer tracking) to coding agents. Remote Streamable HTTP with OAuth sign-in, no API key; free plan available. Source: lognorm/lognorm-mcp. Add with: gemini mcp add --transport http lognorm https://lognorm.com/api/mcp.",
       "section": [
         "MCP Servers"
       ]
