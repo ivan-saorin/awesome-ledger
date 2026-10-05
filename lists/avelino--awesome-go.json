@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"727f3c9fb60db67b5d870d6925685367a1148a9465ed92818b6fe4602bfb859e\"",
+  "etag": "W/\"797bc729e0b4e1bf1459cd069d367ab37aa066b25dd6fdd3da271f9a1a3af663\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -152,6 +152,15 @@
       "name": "fun",
       "url": "https://gitlab.com/tozd/go/fun",
       "description": "The simplest but powerful way to use large language models (LLMs) in Go.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/firebase/genkit",
+      "name": "Genkit",
+      "url": "https://github.com/firebase/genkit",
+      "description": "Framework created by Google for building AI-powered and agentic applications in idiomatic Go.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -6534,6 +6543,15 @@
       ]
     },
     {
+      "key": "https://github.com/invzhi/timex",
+      "name": "timex",
+      "url": "https://github.com/invzhi/timex",
+      "description": "A Go package that extends the standard library time with dedicated date and time-of-day types.",
+      "section": [
+        "Date and Time"
+      ]
+    },
+    {
       "key": "https://github.com/osteele/tuesday",
       "name": "tuesday",
       "url": "https://github.com/osteele/tuesday",
@@ -7762,6 +7780,15 @@
       "name": "Fault",
       "url": "https://github.com/Southclaws/fault",
       "description": "An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.",
+      "section": [
+        "Error Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/aisbergg/go-bruh",
+      "name": "go-bruh",
+      "url": "https://github.com/aisbergg/go-bruh",
+      "description": "Error handling with stack traces, custom formatting, and observability integration.",
       "section": [
         "Error Handling"
       ]
@@ -16894,6 +16921,15 @@
       ]
     },
     {
+      "key": "https://github.com/WebDecoy/FCaptcha",
+      "name": "FCaptcha",
+      "url": "https://github.com/WebDecoy/FCaptcha",
+      "description": "Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/prashantgupta24/firewalld-rest",
       "name": "firewalld-rest",
       "url": "https://github.com/prashantgupta24/firewalld-rest",
@@ -18913,6 +18949,16 @@
       "name": "gomock",
       "url": "https://github.com/vibridi/gomock",
       "description": "CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.",
+      "section": [
+        "Testing",
+        "Mock"
+      ]
+    },
+    {
+      "key": "https://github.com/zhongjie-cai/gomocker",
+      "name": "gomocker",
+      "url": "https://github.com/zhongjie-cai/gomocker",
+      "description": "A live mocker library for functions and methods in Golang for unit testing with fluent syntax, no code-gen needed.",
       "section": [
         "Testing",
         "Mock"
@@ -23572,6 +23618,17 @@
       ]
     },
     {
+      "key": "https://github.com/apitally/apitally-go",
+      "name": "apitally",
+      "url": "https://github.com/apitally/apitally-go",
+      "description": "API monitoring and analytics middleware with metrics, logging, and alerts. Works with Chi, Echo, Fiber, and Gin.",
+      "section": [
+        "Web Frameworks",
+        "Middlewares",
+        "Actual middlewares"
+      ]
+    },
+    {
       "key": "https://github.com/posener/client-timing",
       "name": "client-timing",
       "url": "https://github.com/posener/client-timing",
@@ -25902,6 +25959,16 @@
       ]
     },
     {
+      "key": "https://github.com/lima-vm/lima",
+      "name": "lima",
+      "url": "https://github.com/lima-vm/lima",
+      "description": "Linux virtual machines with a focus on running containers and local VM workloads.",
+      "section": [
+        "Software Packages",
+        "DevOps Tools"
+      ]
+    },
+    {
       "key": "https://github.com/ivanilves/lstags",
       "name": "lstags",
       "url": "https://github.com/ivanilves/lstags",
@@ -25936,6 +26003,16 @@
       "name": "Mantil",
       "url": "https://github.com/mantil-io/mantil",
       "description": "Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.",
+      "section": [
+        "Software Packages",
+        "DevOps Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/0x524A/metricsd",
+      "name": "metricsd",
+      "url": "https://github.com/0x524A/metricsd",
+      "description": "Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.",
       "section": [
         "Software Packages",
         "DevOps Tools"
@@ -26406,6 +26483,16 @@
       "name": "Circuit",
       "url": "https://github.com/gocircuit/circuit",
       "description": "Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
+      "key": "https://github.com/evoleinik/claude-grep",
+      "name": "claude-grep",
+      "url": "https://github.com/evoleinik/claude-grep",
+      "description": "Search Claude Code session history with regex and semantic (vector) search.",
       "section": [
         "Software Packages",
         "Other Software"
@@ -27002,6 +27089,16 @@
       ]
     },
     {
+      "key": "https://github.com/matveynator/sitebrush",
+      "name": "SiteBrush",
+      "url": "https://github.com/matveynator/sitebrush",
+      "description": "Keep the website. Retire WordPress. Turn an existing website into editable static HTML without rebuilding its design.",
+      "section": [
+        "Software Packages",
+        "Other Software"
+      ]
+    },
+    {
       "key": "https://github.com/lucasgomide/snitch",
       "name": "Snitch",
       "url": "https://github.com/lucasgomide/snitch",
@@ -27453,18 +27550,9 @@
       ]
     },
     {
-      "key": "https://gophercon.vn",
-      "name": "GopherCon Vietnam",
-      "url": "https://gophercon.vn/",
-      "description": "Ho Chi Minh City, Vietnam.",
-      "section": [
-        "Conferences"
-      ]
-    },
-    {
       "key": "https://gowestconf.com",
       "name": "GoWest Conference",
-      "url": "https://www.gowestconf.com/",
+      "url": "https://gowestconf.com/",
       "description": "Lehi, USA.",
       "section": [
         "Conferences"
@@ -27631,9 +27719,9 @@
       ]
     },
     {
-      "key": "https://golang-book.com",
+      "key": "https://web.archive.org/web/20231228173204/https://www.golang-book.com/books/intro",
       "name": "An Introduction to Programming in Go",
-      "url": "http://www.golang-book.com/",
+      "url": "https://web.archive.org/web/20231228173204/https://www.golang-book.com/books/intro",
       "description": "",
       "section": [
         "E-Books",
@@ -28907,6 +28995,15 @@
       ]
     },
     {
+      "key": "https://github.com/readytotouch/readytotouch",
+      "name": "ReadyToTouch",
+      "url": "https://github.com/readytotouch/readytotouch",
+      "description": "Open-source list of companies and jobs using Go in production.",
+      "section": [
+        "Websites"
+      ]
+    },
+    {
       "key": "https://studygolang.com",
       "name": "studygolang",
       "url": "https://studygolang.com",
@@ -29104,9 +29201,9 @@
       ]
     },
     {
-      "key": "https://javatpoint.com/go-tutorial",
+      "key": "https://tpointtech.com/go-tutorial",
       "name": "Go Language Tutorial",
-      "url": "https://www.javatpoint.com/go-tutorial",
+      "url": "https://www.tpointtech.com/go-tutorial",
       "description": "Learn Go language Tutorial.",
       "section": [
         "Websites",
@@ -29338,6 +29435,16 @@
       "name": "package main",
       "url": "https://www.youtube.com/packagemain",
       "description": "YouTube channel about Programming in Go.",
+      "section": [
+        "Websites",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://programmingforlovers.com",
+      "name": "Programming for Lovers",
+      "url": "https://programmingforlovers.com",
+      "description": "Free introductory programming course with Go code-alongs built around scientific applications.",
       "section": [
         "Websites",
         "Tutorials"

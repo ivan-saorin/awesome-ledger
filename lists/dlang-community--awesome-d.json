@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f1bfd71fbdafd2054f6061b0167c741fe6e4348afed6e0a2c6e764fc701394b0\"",
+  "etag": "W/\"76792f6e055eb765ea499852d587bf0a4ed45e1654a34bc5fd51dbb1cc7b744d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -22,9 +22,9 @@
       ]
     },
     {
-      "key": "https://dlang.org/blog",
+      "key": "https://blog.dlang.org",
       "name": "blog.dlang.org",
-      "url": "https://dlang.org/blog/",
+      "url": "https://blog.dlang.org/",
       "description": "Official blog for D.",
       "section": [
         "Official Websites"
@@ -67,9 +67,9 @@
       ]
     },
     {
-      "key": "https://status.dlang.rocks",
+      "key": "https://status.dlang.rocks/dashboards/dlang.org",
       "name": "status.dlang.rocks",
-      "url": "https://status.dlang.rocks",
+      "url": "https://status.dlang.rocks/dashboards/dlang.org",
       "description": "Public infrastructure monitoring of services associated with or used by the D Language Foundation and its project contributors.",
       "section": [
         "Official Websites",
@@ -124,7 +124,7 @@
     {
       "key": "https://erdani.org",
       "name": "Andrei Alexandrescu, PhD",
-      "url": "http://erdani.org/",
+      "url": "https://erdani.org/",
       "description": "C++ guru. Author of The D Programming Language and Modern C++ Design. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.",
       "section": [
         "People"
@@ -144,6 +144,15 @@
       "name": "DConf",
       "url": "https://dconf.org/",
       "description": "The premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.",
+      "section": [
+        "Events"
+      ]
+    },
+    {
+      "key": "https://dlangsymposium.com",
+      "name": "D Programming Language Symposium",
+      "url": "https://dlangsymposium.com/",
+      "description": "A two-day symposium on the D language featuring a colloquium and talks.",
       "section": [
         "Events"
       ]
@@ -551,6 +560,33 @@
       "description": "formatter for D source code",
       "section": [
         "Dev Tools"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/ddn/dejadoc",
+      "name": "dejadoc",
+      "url": "https://codeberg.org/ddn/dejadoc",
+      "description": "Static documentation generator for D packages, generating searchable HTML documentation from DUB registry packages. See it in action at dlang.uk.",
+      "section": [
+        "Dev Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/bazel-contrib/rules_d",
+      "name": "rules_d",
+      "url": "https://github.com/bazel-contrib/rules_d",
+      "description": "Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.",
+      "section": [
+        "Build Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/dcarp/gazelle_d",
+      "name": "gazelle_d",
+      "url": "https://github.com/dcarp/gazelle_d",
+      "description": "Gazelle extension for generating Bazel build files from D sources and DUB manifests.",
+      "section": [
+        "Build Tools"
       ]
     },
     {
@@ -1562,6 +1598,33 @@
       ]
     },
     {
+      "key": "https://codeberg.org/dejan/dterm",
+      "name": "dterm",
+      "url": "https://codeberg.org/dejan/dterm",
+      "description": "A minimalistic terminal emulator written in D using GTK4 and VTE.",
+      "section": [
+        "GUI Applications"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/Kymorphia/daphne-music",
+      "name": "Daphne",
+      "url": "https://codeberg.org/Kymorphia/daphne-music",
+      "description": "Advanced audio player and music library manager written in D using giD (GTK 4 and GStreamer).",
+      "section": [
+        "GUI Applications"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/ddn/veb",
+      "name": "Veb",
+      "url": "https://codeberg.org/ddn/veb",
+      "description": "Minimal, tabbed web browser written in D using giD (GTK4, libadwaita, WebKitGTK 6).",
+      "section": [
+        "GUI Applications"
+      ]
+    },
+    {
       "key": "https://github.com/schveiguy/raylib-d",
       "name": "raylib-d",
       "url": "https://github.com/schveiguy/raylib-d",
@@ -1949,6 +2012,24 @@
       ]
     },
     {
+      "key": "https://github.com/Kapendev/wasip1libc-d",
+      "name": "wasip1libc-d",
+      "url": "https://github.com/Kapendev/wasip1libc-d",
+      "description": "A minimal WASI Preview 1 libc + browser host.",
+      "section": [
+        "Game Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/Kapendev/raylib-d-template",
+      "name": "raylib-d-template",
+      "url": "https://github.com/Kapendev/raylib-d-template",
+      "description": "A simple template for raylib-d projects.",
+      "section": [
+        "Game Libraries"
+      ]
+    },
+    {
       "key": "https://github.com/Kapendev/parin",
       "name": "Parin",
       "url": "https://github.com/Kapendev/parin",
@@ -1980,15 +2061,6 @@
       "name": "PixmapPresenter",
       "url": "https://github.com/adamdruppe/arsd/blob/master/pixmappresenter.d",
       "description": "High-level display library for blitting fully-rendered frames to the screen (→ software-rendering, retro graphics).",
-      "section": [
-        "Game Libraries"
-      ]
-    },
-    {
-      "key": "https://github.com/bmchtech/rengfx",
-      "name": "rengfx",
-      "url": "https://github.com/bmchtech/rengfx",
-      "description": "lightweight, expressive, extensible 2D/3D game engine.",
       "section": [
         "Game Libraries"
       ]

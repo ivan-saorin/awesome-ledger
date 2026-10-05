@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3c4b0745df7cd726a64130216f61ac61c474563007f73a0a40654e2a5fb7f40e\"",
+  "etag": "W/\"e3c10e7f74c53dc870ad68d6e004a6a2ea7273458328d8bb6737fd087d4d0e84\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -796,6 +796,16 @@
       ]
     },
     {
+      "key": "https://safestreets.streetsandcommons.com",
+      "name": "SafeStreets",
+      "url": "https://safestreets.streetsandcommons.com",
+      "description": "Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap data.",
+      "section": [
+        "Maps",
+        "Web Maps"
+      ]
+    },
+    {
       "key": "https://osmand.net",
       "name": "OsmAnd",
       "url": "https://osmand.net",
@@ -860,6 +870,16 @@
       "name": "Field Papers",
       "url": "http://fieldpapers.org/",
       "description": "Generate maps for printing, annotate them, and manage your notes after. (Source Code / Wiki)",
+      "section": [
+        "Maps",
+        "Generators"
+      ]
+    },
+    {
+      "key": "https://maptoposter.0v0.one",
+      "name": "MapPoster Online",
+      "url": "https://maptoposter.0v0.one/",
+      "description": "Web-based map poster generator with customizable styles. (Source Code)",
       "section": [
         "Maps",
         "Generators"
@@ -960,6 +980,16 @@
       "name": "mapnik",
       "url": "https://github.com/mapnik/mapnik",
       "description": "Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. (Wiki)",
+      "section": [
+        "Libraries",
+        "C/C++"
+      ]
+    },
+    {
+      "key": "https://github.com/valhalla/valhalla",
+      "name": "Valhalla",
+      "url": "https://github.com/valhalla/valhalla",
+      "description": "Routing engine written in C++. (Wiki)",
       "section": [
         "Libraries",
         "C/C++"
@@ -1262,6 +1292,15 @@
       "name": "Sophox",
       "url": "https://sophox.org/",
       "description": "SPARQL API for OSM data. (Wiki)",
+      "section": [
+        "Public APIs"
+      ]
+    },
+    {
+      "key": "https://mapatlas.eu",
+      "name": "MapAtlas",
+      "url": "https://mapatlas.eu",
+      "description": "REST API for geocoding, routing, isochrone, matrix, map matching, and MVT vector tiles built on OpenStreetMap data. (Docs)",
       "section": [
         "Public APIs"
       ]

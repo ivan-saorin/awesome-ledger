@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0279f46ce8af75f69ca33a85b689d96e1ba21dcd7fa8b4dba5bfe47fafb39e24\"",
+  "etag": "W/\"24ede95f23a983f1b9497c154f0a303cde00684fcee29a951c6a925117425259\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -639,6 +639,15 @@
       "name": "ota",
       "url": "https://github.com/ota-run/ota",
       "description": "Unified diagnosable repo setup across stacks (local, deploy, CI, agents).",
+      "section": [
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/persiyanov/herdr-reviewr",
+      "name": "herdr-reviewr",
+      "url": "https://github.com/persiyanov/herdr-reviewr",
+      "description": "Review a coding agent's diff and send line comments back to it.",
       "section": [
         "Development"
       ]

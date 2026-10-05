@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4cd1ee2deaa23a87db1b2382ddf0a8f07a0ade6463db092cfeeb4876f0899de3\"",
+  "etag": "W/\"603765b8565dd4d3648cfdd29b2323ea69ae3fd2cf2d1c2d6f03be0f98502c33\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -6314,16 +6314,6 @@
       ]
     },
     {
-      "key": "https://shelf.nu",
-      "name": "Shelf",
-      "url": "https://www.shelf.nu",
-      "description": "Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. (Source Code) AGPL-3.0 Nodejs",
-      "section": [
-        "Software",
-        "Inventory Management"
-      ]
-    },
-    {
       "key": "https://github.com/Donkie/Spoolman",
       "name": "Spoolman",
       "url": "https://github.com/Donkie/Spoolman",
@@ -6358,6 +6348,16 @@
       "name": "LibreKB",
       "url": "https://librekb.com/",
       "description": "Web-based knowledge base solution. A simple web app, it runs on pretty much any web server or hosting provider with PHP and MySQL. (Source Code) GPL-3.0 PHP",
+      "section": [
+        "Software",
+        "Knowledge Management Tools"
+      ]
+    },
+    {
+      "key": "https://marmotdata.io",
+      "name": "Marmot",
+      "url": "https://marmotdata.io",
+      "description": "Data catalog for discovering and organizing data assets across your stack, including databases, APIs, message queues, and pipelines. (Demo, Source Code) MIT Docker",
       "section": [
         "Software",
         "Knowledge Management Tools"
@@ -9014,6 +9014,16 @@
       ]
     },
     {
+      "key": "https://notediscovery.com",
+      "name": "NoteDiscovery",
+      "url": "https://www.notediscovery.com/",
+      "description": "Markdown note-taking app with plain-file storage, graph view, and MCP integration (alternative to Obsidian, Notion). (Demo, Source Code) MIT Docker/Python",
+      "section": [
+        "Software",
+        "Note-taking & Editors"
+      ]
+    },
+    {
       "key": "https://overleaf.com",
       "name": "Overleaf",
       "url": "https://www.overleaf.com/",
@@ -10038,6 +10048,16 @@
       "name": "GitProxy",
       "url": "https://git-proxy.finos.org/",
       "description": "Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. (Source Code) Apache-2.0 Nodejs/Docker",
+      "section": [
+        "Software",
+        "Proxy"
+      ]
+    },
+    {
+      "key": "https://github.com/cshum/imagor",
+      "name": "imagor",
+      "url": "https://github.com/cshum/imagor",
+      "description": "Fast, secure image processing server and Go library built on libvips, with on-demand resizing, cropping, filtering, format conversion and image composition, signed URLs and streaming pipelines for high-concurrency throughput. Apache-2.0 Docker",
       "section": [
         "Software",
         "Proxy"
@@ -11888,6 +11908,16 @@
       "name": "Roundup Issue Tracker",
       "url": "https://www.roundup-tracker.org/",
       "description": "Simple-to-use and -install issue tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. (Source Code) MIT/ZPL-2.0 Python/Docker",
+      "section": [
+        "Software",
+        "Ticketing"
+      ]
+    },
+    {
+      "key": "https://rustrak.github.io/rustrak",
+      "name": "Rustrak",
+      "url": "https://rustrak.github.io/rustrak/",
+      "description": "Error tracking server compatible with Sentry SDKs, using 32 MB of memory at idle with SQLite storage. (Source Code) GPL-3.0 Rust/Docker",
       "section": [
         "Software",
         "Ticketing"

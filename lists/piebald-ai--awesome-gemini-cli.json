@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7995efc09b35f37da44dc059fa568bcecc0693aa0f05600ba106723aa583f5ed\"",
+  "etag": "W/\"4d5aea7afb8efe5da0937047ffdae2dc99ed0c0dc565946aa56a62a7ab6764e6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -764,6 +764,15 @@
       "name": "8B AI Website Builder",
       "url": "https://github.com/8bsite/8b-agent-plugin",
       "description": "Gemini CLI extension that builds an animated one-page website: the agent picks an 8B generated design, writes the copy and returns a preview link, plain-word edits and one HTML file. Remote MCP https://mcp.8b.com/mcp, no account or API key. Install: gemini extensions install https://github.com/8bsite/8b-agent-plugin.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/supercorp-ai/supercov",
+      "name": "Supercov",
+      "url": "https://github.com/supercorp-ai/supercov",
+      "description": "Coverage, security and code quality for coding agents. Gemini CLI extension that runs the project's existing tests, measures line, branch and MC/DC coverage, and hands Gemini the untested code to test next. Install with gemini extensions install https://github.com/supercorp-ai/supercov.",
       "section": [
         "Commands & Extensions"
       ]
@@ -1610,6 +1619,15 @@
       "name": "LogNorm",
       "url": "https://lognorm.com",
       "description": "Hosted remote MCP server that hands a website's SEO and AI-visibility (GEO) backlog (site audits, fixes, content drafts, AI-answer tracking) to coding agents. Remote Streamable HTTP with OAuth sign-in, no API key; free plan available. Source: lognorm/lognorm-mcp. Add with: gemini mcp add --transport http lognorm https://lognorm.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Lunarwerx/connections-gemini-extension",
+      "name": "Connections",
+      "url": "https://github.com/Lunarwerx/connections-gemini-extension",
+      "description": "Work a free Connections contact book, follow-ups, ticketed event pages, notes and email from Gemini CLI; no card needed for the account. Remote Streamable HTTP MCP server with OAuth sign-in at https://studio.connections.icu/v1/mcp. Install: gemini extensions install https://github.com/Lunarwerx/connections-gemini-extension.",
       "section": [
         "MCP Servers"
       ]
