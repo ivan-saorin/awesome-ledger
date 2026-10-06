@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2ecd6962849fade90a81b02e2bda9416084247a36b229df376f9f2b2fcdccb91\"",
+  "etag": "W/\"b6a756a2d3c89a2ff9f83405d846fc2bd4297a51f42a923ea9cd829cda50a145\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2300,172 +2300,238 @@
       ]
     },
     {
+      "key": "https://github.com/atgreen/evergreen-compose",
+      "name": "Evergreen-Compose",
+      "url": "https://github.com/atgreen/evergreen-compose",
+      "description": "Build native Android apps in Evergreen Common Lisp, using Jetpack Compose and Material 3. GPL-3.0-or-later WITH Classpath-exception-2.0.",
+      "section": [
+        "Mobile"
+      ]
+    },
+    {
       "key": "https://github.com/quil-lang/sbcl-librarian",
       "name": "sbcl-librarian",
       "url": "https://github.com/quil-lang/sbcl-librarian",
       "description": "Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. Blog post. Tutorial.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://github.com/sionescu/sbcl-goodies",
       "name": "SBCL-GOODIES",
       "url": "https://github.com/sionescu/sbcl-goodies",
       "description": "Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. MIT.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://github.com/olnw/sbcl-builds",
       "name": "Nightly Windows builds of SBCL",
       "url": "https://github.com/olnw/sbcl-builds",
       "description": "Nightly builds of SBCL using MSYS2 UCRT64. See also Roswell's SBCL MSI builds.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://community.chocolatey.org/packages/sbcl",
       "name": "SBCL on Chocolatey for Windows",
       "url": "https://community.chocolatey.org/packages/sbcl",
       "description": "(unofficial)",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://timmons.dev/posts/static-executables-with-sbcl-v2.html",
       "name": "Static Executables with SBCL",
       "url": "https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html",
       "description": ".",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://github.com/lockie/sbcl-w7",
       "name": "SBCL Windows builds supporting Windows 7+",
       "url": "https://github.com/lockie/sbcl-w7",
       "description": ", packaged into NSIS installer and updated monthly (unofficial)",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://sbcl.org/index.html",
       "name": "SBCL",
       "url": "http://www.sbcl.org/index.html",
       "description": "Steel Bank Common Lisp. A fork of CMUCL; compiles to efficient machine code. Standard compliance. Public domain, with some parts under Expat and 3-clause BSD.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://ccl.clozure.com",
       "name": "CCL",
       "url": "https://ccl.clozure.com/",
       "description": "Clozure Common Lisp; compiler-only implementation, generates native code. LLGPL.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://li-yiyang.github.io/lisp/imaxima",
       "name": "blog report: porting Maxima to iOS",
       "url": "https://li-yiyang.github.io/lisp/imaxima/",
       "description": ".",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://ecl.common-lisp.dev/static/files/manual/current-manual/System-building.html",
       "name": "cross compilation",
       "url": "https://ecl.common-lisp.dev/static/files/manual/current-manual/System-building.html#Cross-compilation",
       "description": "",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://nlnet.nl/project/ECL",
       "name": "NLNET grant in 2025",
       "url": "https://nlnet.nl/project/ECL/",
       "description": ")",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://github.com/chee/eclweb",
       "name": "eclweb",
       "url": "https://github.com/chee/eclweb",
       "description": "is a proof-of-concept REPL inside a browser using Web Assembly (WASM).",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://common-lisp.net/project/ecl",
       "name": "ECL",
       "url": "https://common-lisp.net/project/ecl/",
       "description": "Embeddable Common Lisp; compiles to C. GNU LGPL2.1.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://gitlab.com/cl-projects/abcl-memory-compiler",
       "name": "abcl-memory-compiler",
       "url": "https://gitlab.com/cl-projects/abcl-memory-compiler",
       "description": "a way to compile Java source code to create Java classes at runtime with ABCL. Apache2.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://gitlab.com/cl-projects/py4abcl",
       "name": "py4abcl",
       "url": "https://gitlab.com/cl-projects/py4abcl",
       "description": "communicate with Python in ABCL.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://common-lisp.net/project/armedbear",
       "name": "ABCL",
       "url": "https://common-lisp.net/project/armedbear/",
       "description": "Armed Bear Common Lisp; targets the JVM, compiles to bytecode. Standard conformance. GNU GPL3 with Classpath exception.",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://github.com/drmeister/clasp",
       "name": "CLASP",
       "url": "https://github.com/drmeister/clasp",
       "description": "a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. LGPL2.1 (and others).",
-      "section": []
+      "section": [
+        "Open-source and active"
+      ]
     },
     {
       "key": "https://lispworks.com",
       "name": "LispWorks",
       "url": "http://www.lispworks.com/",
       "description": "an integrated cross-platform development tool for Common Lisp.",
-      "section": []
+      "section": [
+        "Proprietary"
+      ]
     },
     {
       "key": "https://github.com/franzinc",
       "name": "open-source libraries",
       "url": "https://github.com/franzinc",
       "description": "(often tied to AllegroCL).",
-      "section": []
+      "section": [
+        "Proprietary"
+      ]
     },
     {
       "key": "https://franz.com/products/allegro-common-lisp",
       "name": "Allegro CL",
       "url": "https://franz.com/products/allegro-common-lisp/",
       "description": "provides the full ANSI Common Lisp standard with many extensions.",
-      "section": []
+      "section": [
+        "Proprietary"
+      ]
+    },
+    {
+      "key": "https://github.com/atgreen/evergreen",
+      "name": "Evergreen",
+      "url": "https://github.com/atgreen/evergreen",
+      "description": "Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.",
+      "section": [
+        "AI-developped"
+      ]
     },
     {
       "key": "https://cons.org/cmucl",
       "name": "CMUCL",
       "url": "http://www.cons.org/cmucl/",
       "description": "An implementation from Carnegie Mellon University. Public domain. SBCL is a fork of CMUCL.",
-      "section": []
+      "section": [
+        "Other implementations"
+      ]
     },
     {
       "key": "https://clisp.org",
       "name": "GNU CLISP",
       "url": "http://www.clisp.org/",
       "description": "A GNU implementation; contains a compiler and an interpreter. Standard conformance. GNU GPL3. They develop on Gitlab.",
-      "section": []
+      "section": [
+        "Other implementations"
+      ]
     },
     {
       "key": "https://github.com/sharplispers/cormanlisp",
       "name": "Corman Lisp",
       "url": "https://github.com/sharplispers/cormanlisp",
       "description": "a Common Lisp development environment for Microsoft Windows running on Intel platforms. MIT.",
-      "section": []
+      "section": [
+        "Other implementations"
+      ]
     },
     {
       "key": "https://codeberg.org/shinmera/cl-all",
       "name": "cl-all",
       "url": "https://codeberg.org/shinmera/cl-all",
       "description": "A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. zlib.",
-      "section": []
+      "section": [
+        "Tools to work with different implementations"
+      ]
     },
     {
       "key": "https://github.com/s-expressionists/Eclector",

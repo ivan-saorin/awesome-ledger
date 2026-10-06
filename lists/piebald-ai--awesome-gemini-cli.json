@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4d5aea7afb8efe5da0937047ffdae2dc99ed0c0dc565946aa56a62a7ab6764e6\"",
+  "etag": "W/\"d889120673a389f81d9bb510f48f6046f21468703e4e9ec4f63b62293f476770\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1147,6 +1147,15 @@
       ]
     },
     {
+      "key": "https://awakado.noodledragon.studio",
+      "name": "Awakado",
+      "url": "https://awakado.noodledragon.studio",
+      "description": "macOS menu-bar app that keeps the Mac awake while Gemini CLI is working, using Gemini CLI hooks, and lets it sleep when it finishes. Also supports Claude Code, Codex and other agents. Free, with a paid Pro tier.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -1250,6 +1259,15 @@
       "name": "Bifrost",
       "url": "https://github.com/maximhq/bifrost",
       "description": "Self-hosted gateway for Gemini CLI that unifies cloud and local model providers with routing, fallbacks, load balancing, and MCP support.",
+      "section": [
+        "API Bridges & Proxies"
+      ]
+    },
+    {
+      "key": "https://github.com/vayungodara/cliproxy-rs",
+      "name": "cliproxy-rs",
+      "url": "https://github.com/vayungodara/cliproxy-rs",
+      "description": "Rust rewrite of CLIProxyAPI with a built-in dashboard. Serves the Gemini API on a local endpoint (GOOGLE_GEMINI_BASE_URL), so Gemini CLI can run on Gemini API keys or on signed-in Claude and ChatGPT accounts.",
       "section": [
         "API Bridges & Proxies"
       ]
@@ -1628,6 +1646,15 @@
       "name": "Connections",
       "url": "https://github.com/Lunarwerx/connections-gemini-extension",
       "description": "Work a free Connections contact book, follow-ups, ticketed event pages, notes and email from Gemini CLI; no card needed for the account. Remote Streamable HTTP MCP server with OAuth sign-in at https://studio.connections.icu/v1/mcp. Install: gemini extensions install https://github.com/Lunarwerx/connections-gemini-extension.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://app.linkmcp.io",
+      "name": "LinkMCP",
+      "url": "https://app.linkmcp.io",
+      "description": "Hosted LinkedIn MCP server for your own LinkedIn account: profile and company lookups, people and Sales Navigator search, inbox, posts and comments, connection requests, and work email finding. Remote Streamable HTTP with OAuth sign-in; the server is closed source. Paid plans from $19/month, 7-day free trial without a card. Install: gemini extensions install https://github.com/linkmcp-io/linkmcp.",
       "section": [
         "MCP Servers"
       ]

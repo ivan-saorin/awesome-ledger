@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"81e7cc8d2cb8aa488dc14b96b567ace88a07521c83da630920ec70690fbe8f3e\"",
+  "etag": "W/\"51f57afb6242c890132c347453e182b4da26a923fdfcb64d925454b0a603e2dc\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -692,6 +692,15 @@
       "name": "Ganimede",
       "url": "https://github.com/manugraj/ganimede",
       "description": "Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.",
+      "section": [
+        "Rendering/Publishing/Conversion"
+      ]
+    },
+    {
+      "key": "https://ipynbtopdf.xyz",
+      "name": "ipynbtopdf",
+      "url": "https://ipynbtopdf.xyz/",
+      "description": "Browser-only Jupyter notebook to PDF converter; no upload or LaTeX toolchain.",
       "section": [
         "Rendering/Publishing/Conversion"
       ]

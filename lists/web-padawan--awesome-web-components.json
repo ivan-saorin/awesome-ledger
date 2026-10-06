@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8f0f0b7967b4b094f16f3165c3f3a7c906f81dc614fbd6c5ba7988d2623c8f5d\"",
+  "etag": "W/\"7709aa412c530ccfba5961cbdd7e8616b7fde6a777e7f68fa811765ebb52d089\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -101,16 +101,6 @@
       "key": "https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements",
       "name": "MDN - Using Custom Elements",
       "url": "https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements",
-      "description": "",
-      "section": [
-        "Standards",
-        "Custom Elements"
-      ]
-    },
-    {
-      "key": "https://github.com/web-platform-tests/wpt/tree/master/custom-elements",
-      "name": "web-platform-tests",
-      "url": "https://github.com/web-platform-tests/wpt/tree/master/custom-elements",
       "description": "",
       "section": [
         "Standards",
@@ -238,9 +228,9 @@
       ]
     },
     {
-      "key": "https://bitsofco.de/what-is-the-shadow-dom",
-      "name": "What is the Shadow DOM?",
-      "url": "https://bitsofco.de/what-is-the-shadow-dom/",
+      "key": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom",
+      "name": "Web Components: Working With Shadow DOM",
+      "url": "https://www.smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
       "description": "",
       "section": [
         "Standards",
@@ -248,9 +238,9 @@
       ]
     },
     {
-      "key": "https://github.com/web-platform-tests/wpt/tree/master/shadow-dom",
-      "name": "web-platform-tests",
-      "url": "https://github.com/web-platform-tests/wpt/tree/master/shadow-dom",
+      "key": "https://bitsofco.de/what-is-the-shadow-dom",
+      "name": "What is the Shadow DOM?",
+      "url": "https://bitsofco.de/what-is-the-shadow-dom/",
       "description": "",
       "section": [
         "Standards",
@@ -348,18 +338,8 @@
       ]
     },
     {
-      "key": "https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element",
-      "name": "web-platform-tests",
-      "url": "https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element",
-      "description": "",
-      "section": [
-        "Standards",
-        "HTML Templates"
-      ]
-    },
-    {
       "key": "https://w3.org/TR/css-shadow-parts-1",
-      "name": "W3C First Public Working Draft",
+      "name": "CSS Shadow Parts Module Level 1",
       "url": "https://www.w3.org/TR/css-shadow-parts-1/",
       "description": "",
       "section": [
@@ -381,16 +361,6 @@
       "key": "https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5",
       "name": "CSS Shadow Parts are coming!",
       "url": "https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5",
-      "description": "",
-      "section": [
-        "Standards",
-        "CSS Shadow Parts"
-      ]
-    },
-    {
-      "key": "https://meowni.ca/posts/part-theme-explainer",
-      "name": "::part and ::theme, an ::explainer",
-      "url": "https://meowni.ca/posts/part-theme-explainer/",
       "description": "",
       "section": [
         "Standards",
@@ -1992,6 +1962,16 @@
       "name": "Lume",
       "url": "https://github.com/lume/lume",
       "description": "Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.",
+      "section": [
+        "Real World",
+        "Component Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/marvelous-ui/marvelous-ui",
+      "name": "Marvelous UI",
+      "url": "https://github.com/marvelous-ui/marvelous-ui",
+      "description": "Framework-agnostic custom elements and CSS components with design tokens and no runtime dependencies.",
       "section": [
         "Real World",
         "Component Libraries"
@@ -3748,19 +3728,39 @@
       ]
     },
     {
-      "key": "https://wicg.github.io/construct-stylesheets",
-      "name": "Specification Draft",
-      "url": "https://wicg.github.io/construct-stylesheets/",
+      "key": "https://github.com/web-platform-tests/wpt/tree/master/custom-elements",
+      "name": "wpt/custom-elements",
+      "url": "https://github.com/web-platform-tests/wpt/tree/master/custom-elements",
       "description": "",
       "section": [
-        "Proposals",
-        "Constructable Stylesheet Objects"
+        "Usage Metrics",
+        "Web Platform Tests"
       ]
     },
     {
-      "key": "https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html",
-      "name": "web-platform-tests",
-      "url": "https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html",
+      "key": "https://github.com/web-platform-tests/wpt/tree/master/shadow-dom",
+      "name": "wpt/shadow-dom",
+      "url": "https://github.com/web-platform-tests/wpt/tree/master/shadow-dom",
+      "description": "",
+      "section": [
+        "Usage Metrics",
+        "Web Platform Tests"
+      ]
+    },
+    {
+      "key": "https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element",
+      "name": "wpt/template-element",
+      "url": "https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element",
+      "description": "",
+      "section": [
+        "Usage Metrics",
+        "Web Platform Tests"
+      ]
+    },
+    {
+      "key": "https://wicg.github.io/construct-stylesheets",
+      "name": "Specification Draft",
+      "url": "https://wicg.github.io/construct-stylesheets/",
       "description": "",
       "section": [
         "Proposals",
@@ -4198,9 +4198,9 @@
       ]
     },
     {
-      "key": "https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice",
-      "name": "Styling is critical to web component reuse, but may prove difficult in practice",
-      "url": "https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice",
+      "key": "https://meowni.ca/posts/part-theme-explainer",
+      "name": "::part and ::theme, an ::explainer",
+      "url": "https://meowni.ca/posts/part-theme-explainer/",
       "description": "",
       "section": [
         "Archive",
@@ -4209,9 +4209,9 @@
       ]
     },
     {
-      "key": "https://bendyworks.com/blog/native-web-components",
-      "name": "Make a Native Web Component with Custom Elements v1 and Shadow DOM v1",
-      "url": "https://bendyworks.com/blog/native-web-components/",
+      "key": "https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice",
+      "name": "Styling is critical to web component reuse, but may prove difficult in practice",
+      "url": "https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice",
       "description": "",
       "section": [
         "Archive",
@@ -4322,6 +4322,17 @@
       "key": "https://meowni.ca/posts/web-components-with-otters",
       "name": "An intro to web components with otters",
       "url": "https://meowni.ca/posts/web-components-with-otters/",
+      "description": "",
+      "section": [
+        "Archive",
+        "History",
+        "2017"
+      ]
+    },
+    {
+      "key": "https://bendyworks.com/blog/native-web-components",
+      "name": "Make a Native Web Component with Custom Elements v1 and Shadow DOM v1",
+      "url": "https://bendyworks.com/blog/native-web-components/",
       "description": "",
       "section": [
         "Archive",

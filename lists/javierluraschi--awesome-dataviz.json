@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"639ee83a3346489379e166b44a6ced0283f2d2296e0f953217eede2c45c507ae\"",
+  "etag": "W/\"4add97b1f92218ed4961ef2641550fb83d6c71dba34c3d2346aa1a7d6d847e7c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -44,10 +44,50 @@
       ]
     },
     {
+      "key": "https://github.com/wa0x6e/cal-heatmap",
+      "name": "Cal-Heatmap",
+      "url": "https://github.com/wa0x6e/cal-heatmap",
+      "description": "Time-series calendar heatmaps, similar to GitHub's contribution graph, built on D3.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/carbon-design-system/carbon-charts",
+      "name": "Carbon Charts",
+      "url": "https://github.com/carbon-design-system/carbon-charts",
+      "description": "Chart library from IBM's Carbon Design System, built on D3, with React, Angular, Vue and Svelte wrappers.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries"
+      ]
+    },
+    {
       "key": "https://chartjs.org",
       "name": "Chart.js",
       "url": "https://www.chartjs.org/",
       "description": "Charts with the canvas tag.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/timqian/chart.xkcd",
+      "name": "chart.xkcd",
+      "url": "https://github.com/timqian/chart.xkcd",
+      "description": "Chart library that renders line, bar, pie and other charts in a hand-drawn xkcd style.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/ChartGPU/ChartGPU",
+      "name": "ChartGPU",
+      "url": "https://github.com/ChartGPU/ChartGPU",
+      "description": "WebGPU charting library for large datasets, real-time streaming and multi-chart dashboards.",
       "section": [
         "JavaScript tools",
         "Charting libraries"
@@ -84,10 +124,10 @@
       ]
     },
     {
-      "key": "https://github.com/devexperts/dxcharts-lite",
-      "name": "dxcharts-lite",
-      "url": "https://github.com/devexperts/dxcharts-lite",
-      "description": "Flexible financial charting library based on HTML5 canvas.",
+      "key": "https://github.com/DHTMLX/gantt",
+      "name": "DHTMLX Gantt",
+      "url": "https://github.com/DHTMLX/gantt",
+      "description": "Gantt chart component for project schedules, with task dependencies and drag-and-drop editing.",
       "section": [
         "JavaScript tools",
         "Charting libraries"
@@ -104,10 +144,30 @@
       ]
     },
     {
+      "key": "https://github.com/ecomfe/echarts-gl",
+      "name": "ECharts GL",
+      "url": "https://github.com/ecomfe/echarts-gl",
+      "description": "Extension for Apache ECharts that adds 3D plots, globe visualizations and WebGL-accelerated series.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries"
+      ]
+    },
+    {
       "key": "https://github.com/epochjs/epoch",
       "name": "Epoch",
       "url": "https://github.com/epochjs/epoch",
       "description": "Perfect to create real-time charts.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/flot/flot",
+      "name": "Flot",
+      "url": "https://github.com/flot/flot",
+      "description": "jQuery plotting library for line, bar and pie charts with zooming and other interactive features.",
       "section": [
         "JavaScript tools",
         "Charting libraries"
@@ -174,10 +234,10 @@
       ]
     },
     {
-      "key": "https://github.com/tradingview/lightweight-charts",
-      "name": "Lightweight Charts",
-      "url": "https://github.com/tradingview/lightweight-charts",
-      "description": "Performant HTML5 canvas financial charts, from TradingView.",
+      "key": "https://github.com/pa7/heatmap.js",
+      "name": "heatmap.js",
+      "url": "https://github.com/pa7/heatmap.js",
+      "description": "Canvas-based library for rendering heatmaps, with plugins for Leaflet and Google Maps.",
       "section": [
         "JavaScript tools",
         "Charting libraries"
@@ -244,16 +304,6 @@
       ]
     },
     {
-      "key": "https://techanjs.org",
-      "name": "TechanJS",
-      "url": "https://techanjs.org/",
-      "description": "Stock and financial charts.",
-      "section": [
-        "JavaScript tools",
-        "Charting libraries"
-      ]
-    },
-    {
       "key": "https://github.com/nhn/tui.chart",
       "name": "TOAST UI Chart",
       "url": "https://github.com/nhn/tui.chart",
@@ -284,6 +334,16 @@
       ]
     },
     {
+      "key": "https://github.com/VisActor/VChart",
+      "name": "VChart",
+      "url": "https://github.com/VisActor/VChart",
+      "description": "Cross-platform charting library with animation and storytelling features, from ByteDance's VisActor.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries"
+      ]
+    },
+    {
       "key": "https://github.com/vizzuhq/vizzu-lib",
       "name": "Vizzu",
       "url": "https://github.com/vizzuhq/vizzu-lib",
@@ -308,6 +368,16 @@
       "name": "Cola.js",
       "url": "https://marvl.infotech.monash.edu/webcola/",
       "description": "A tool to create diagrams using constraint-based optimization techniques. Works with d3 and svg.js.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries for graphs"
+      ]
+    },
+    {
+      "key": "https://github.com/cosmosgl/graph",
+      "name": "cosmos.gl",
+      "url": "https://github.com/cosmosgl/graph",
+      "description": "GPU-accelerated force graph layout and rendering engine that runs entirely in WebGL shaders.",
       "section": [
         "JavaScript tools",
         "Charting libraries for graphs"
@@ -348,6 +418,16 @@
       "name": "elkjs",
       "url": "https://github.com/kieler/elkjs",
       "description": "Eclipse Layout Kernel (ELK) graph layout algorithms for JavaScript.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries for graphs"
+      ]
+    },
+    {
+      "key": "https://github.com/vasturiano/force-graph",
+      "name": "force-graph",
+      "url": "https://github.com/vasturiano/force-graph",
+      "description": "Force-directed graph component rendered on HTML5 canvas.",
       "section": [
         "JavaScript tools",
         "Charting libraries for graphs"
@@ -404,6 +484,16 @@
       ]
     },
     {
+      "key": "https://github.com/mdaines/viz-js",
+      "name": "Viz.js",
+      "url": "https://github.com/mdaines/viz-js",
+      "description": "Graphviz compiled to WebAssembly for rendering DOT graphs in the browser and Node.js.",
+      "section": [
+        "JavaScript tools",
+        "Charting libraries for graphs"
+      ]
+    },
+    {
       "key": "https://github.com/vizdom-dev/vizdom",
       "name": "Vizdom",
       "url": "https://github.com/vizdom-dev/vizdom",
@@ -444,6 +534,96 @@
       ]
     },
     {
+      "key": "https://github.com/chartjs/chartjs-chart-financial",
+      "name": "chartjs-chart-financial",
+      "url": "https://github.com/chartjs/chartjs-chart-financial",
+      "description": "Chart.js module that adds candlestick and OHLC chart types.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://github.com/devexperts/dxcharts-lite",
+      "name": "dxcharts-lite",
+      "url": "https://github.com/devexperts/dxcharts-lite",
+      "description": "Flexible financial charting library based on HTML5 canvas.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://github.com/jones2000/HQChart",
+      "name": "HQChart",
+      "url": "https://github.com/jones2000/HQChart",
+      "description": "K-line and stock charts with a technical indicator scripting engine, for web pages and WeChat mini programs.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://github.com/klinecharts/KLineChart",
+      "name": "KLineChart",
+      "url": "https://github.com/klinecharts/KLineChart",
+      "description": "Lightweight, highly customizable candlestick (k-line) chart with zero dependencies and mobile support.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://github.com/tradingview/lightweight-charts",
+      "name": "Lightweight Charts",
+      "url": "https://github.com/tradingview/lightweight-charts",
+      "description": "Performant HTML5 canvas financial charts, from TradingView.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://github.com/react-financial/react-financial-charts",
+      "name": "React Financial Charts",
+      "url": "https://github.com/react-financial/react-financial-charts",
+      "description": "React components for financial charts: candlesticks, technical indicators, overlays and drawing tools.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://techanjs.org",
+      "name": "TechanJS",
+      "url": "https://techanjs.org/",
+      "description": "Stock and financial charts.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://github.com/bonguynvan/tradecanvas",
+      "name": "TradeCanvas",
+      "url": "https://github.com/bonguynvan/tradecanvas",
+      "description": "Financial charts with indicators, drawing tools and live feeds, drawn with Canvas 2D or WebGL.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
+      "key": "https://github.com/LuxAlgo/Vela",
+      "name": "Vela",
+      "url": "https://github.com/LuxAlgo/Vela",
+      "description": "Financial charting library with a headless core, native WebGL2 renderer and plugin SDK, from LuxAlgo.",
+      "section": [
+        "JavaScript tools",
+        "Financial charts"
+      ]
+    },
+    {
       "key": "https://github.com/Shree-hari/canvas-globe",
       "name": "CanvasGlobe",
       "url": "https://github.com/Shree-hari/canvas-globe",
@@ -458,6 +638,16 @@
       "name": "Cesium",
       "url": "https://github.com/CesiumGS/cesium",
       "description": "WebGL 3D globes and maps.",
+      "section": [
+        "JavaScript tools",
+        "Maps"
+      ]
+    },
+    {
+      "key": "https://github.com/shuding/cobe",
+      "name": "COBE",
+      "url": "https://github.com/shuding/cobe",
+      "description": "Lightweight WebGL globe library of about 5 kB, with configurable markers.",
       "section": [
         "JavaScript tools",
         "Maps"
@@ -554,6 +744,16 @@
       ]
     },
     {
+      "key": "https://github.com/AnmolSaini16/mapcn",
+      "name": "mapcn",
+      "url": "https://github.com/AnmolSaini16/mapcn",
+      "description": "Map components for React built on MapLibre GL, styled with Tailwind and compatible with shadcn/ui.",
+      "section": [
+        "JavaScript tools",
+        "Maps"
+      ]
+    },
+    {
       "key": "https://github.com/maplibre/maplibre-gl-js",
       "name": "MapLibre GL JS",
       "url": "https://github.com/maplibre/maplibre-gl-js",
@@ -624,6 +824,16 @@
       ]
     },
     {
+      "key": "https://github.com/TerriaJS/terriajs",
+      "name": "TerriaJS",
+      "url": "https://github.com/TerriaJS/terriajs",
+      "description": "Library for building web-based 2D and 3D geospatial data explorers with catalogs of map layers.",
+      "section": [
+        "JavaScript tools",
+        "Maps"
+      ]
+    },
+    {
       "key": "https://vectoratlas.menelabs.com",
       "name": "VectorAtlas",
       "url": "https://vectoratlas.menelabs.com/",
@@ -651,6 +861,16 @@
       "section": [
         "JavaScript tools",
         "d3"
+      ]
+    },
+    {
+      "key": "https://github.com/ant-design/ant-design-charts",
+      "name": "Ant Design Charts",
+      "url": "https://github.com/ant-design/ant-design-charts",
+      "description": "React chart library based on AntV, with statistical charts, graphs and maps.",
+      "section": [
+        "JavaScript tools",
+        "React"
       ]
     },
     {
@@ -744,6 +964,26 @@
       ]
     },
     {
+      "key": "https://github.com/vasturiano/react-force-graph",
+      "name": "react-force-graph",
+      "url": "https://github.com/vasturiano/react-force-graph",
+      "description": "React components for 2D, 3D, VR and AR force-directed graphs.",
+      "section": [
+        "JavaScript tools",
+        "React"
+      ]
+    },
+    {
+      "key": "https://github.com/plotly/react-plotly.js",
+      "name": "react-plotly.js",
+      "url": "https://github.com/plotly/react-plotly.js",
+      "description": "React component for Plotly.js charts, maintained by Plotly.",
+      "section": [
+        "JavaScript tools",
+        "React"
+      ]
+    },
+    {
       "key": "https://github.com/uber/react-vis",
       "name": "React-vis",
       "url": "https://github.com/uber/react-vis",
@@ -824,6 +1064,26 @@
       ]
     },
     {
+      "key": "https://github.com/wuxudong/react-native-charts-wrapper",
+      "name": "react-native-charts-wrapper",
+      "url": "https://github.com/wuxudong/react-native-charts-wrapper",
+      "description": "React Native wrapper for MPAndroidChart and DGCharts on Android and iOS.",
+      "section": [
+        "JavaScript tools",
+        "React Native"
+      ]
+    },
+    {
+      "key": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
+      "name": "react-native-gifted-charts",
+      "url": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
+      "description": "Bar, line, area, pie, radar, bubble and candlestick charts for React Native, with animations.",
+      "section": [
+        "JavaScript tools",
+        "React Native"
+      ]
+    },
+    {
       "key": "https://github.com/margelo/react-native-graph",
       "name": "react-native-graph",
       "url": "https://github.com/margelo/react-native-graph",
@@ -854,10 +1114,30 @@
       ]
     },
     {
+      "key": "https://github.com/kroitor/asciichart",
+      "name": "asciichart",
+      "url": "https://github.com/kroitor/asciichart",
+      "description": "ASCII line charts for the console in Node.js and browsers, with ports to other languages.",
+      "section": [
+        "JavaScript tools",
+        "Misc"
+      ]
+    },
+    {
       "key": "https://github.com/yaronn/blessed-contrib",
       "name": "blessed-contrib",
       "url": "https://github.com/yaronn/blessed-contrib",
       "description": "Terminal dashboards with charts, maps, gauges and tables, built with Node.js and ASCII/ANSI art.",
+      "section": [
+        "JavaScript tools",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/microsoft/flint-chart",
+      "name": "Flint",
+      "url": "https://github.com/microsoft/flint-chart",
+      "description": "Chart specification language from Microsoft that compiles to Vega-Lite, ECharts, Chart.js or Plotly.",
       "section": [
         "JavaScript tools",
         "Misc"
@@ -894,10 +1174,30 @@
       ]
     },
     {
+      "key": "https://github.com/techniq/layerchart",
+      "name": "LayerChart",
+      "url": "https://github.com/techniq/layerchart",
+      "description": "Composable Svelte chart components for cartesian, radial, hierarchical, graph and geo charts.",
+      "section": [
+        "JavaScript tools",
+        "Misc"
+      ]
+    },
+    {
       "key": "https://github.com/uwdata/mosaic",
       "name": "Mosaic",
       "url": "https://github.com/uwdata/mosaic",
       "description": "Framework for linking databases such as DuckDB with interactive views to visualize large datasets.",
+      "section": [
+        "JavaScript tools",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/valor-software/ng2-charts",
+      "name": "ng2-charts",
+      "url": "https://github.com/valor-software/ng2-charts",
+      "description": "Angular directives for Chart.js charts.",
       "section": [
         "JavaScript tools",
         "Misc"
@@ -984,6 +1284,16 @@
       ]
     },
     {
+      "key": "https://github.com/visjs/vis-timeline",
+      "name": "vis-timeline",
+      "url": "https://github.com/visjs/vis-timeline",
+      "description": "Interactive timelines and 2D graphs with items and ranges, from the vis.js project.",
+      "section": [
+        "JavaScript tools",
+        "Misc"
+      ]
+    },
+    {
       "key": "https://visjs.org",
       "name": "Vis.js",
       "url": "https://visjs.org/",
@@ -998,6 +1308,16 @@
       "name": "vtk.js",
       "url": "https://github.com/Kitware/vtk-js",
       "description": "JavaScript implementation of the Visualization Toolkit (VTK) for scientific visualization on the web.",
+      "section": [
+        "JavaScript tools",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/graphieros/vue-data-ui",
+      "name": "Vue Data UI",
+      "url": "https://github.com/graphieros/vue-data-ui",
+      "description": "Vue 3 component library of charts, gauges, tables and other data visualizations.",
       "section": [
         "JavaScript tools",
         "Misc"
@@ -1087,6 +1407,15 @@
       ]
     },
     {
+      "key": "https://github.com/brenocq/implot3d",
+      "name": "ImPlot3D",
+      "url": "https://github.com/brenocq/implot3d",
+      "description": "Immediate-mode 3D plotting extension for Dear ImGui, inspired by ImPlot.",
+      "section": [
+        "C++ tools"
+      ]
+    },
+    {
       "key": "https://github.com/lferry007/LargeVis",
       "name": "LargeVis",
       "url": "https://github.com/lferry007/LargeVis",
@@ -1118,6 +1447,15 @@
       "name": "Matplot++",
       "url": "https://github.com/alandefreitas/matplotplusplus",
       "description": "C++ graphics library for data visualization with a MATLAB-like API.",
+      "section": [
+        "C++ tools"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenSpace/OpenSpace",
+      "name": "OpenSpace",
+      "url": "https://github.com/OpenSpace/OpenSpace",
+      "description": "Interactive software for visualizing the known universe, from astronomy catalogs to space missions.",
       "section": [
         "C++ tools"
       ]
@@ -1168,6 +1506,15 @@
       ]
     },
     {
+      "key": "https://github.com/Serial-Studio/Serial-Studio",
+      "name": "Serial Studio",
+      "url": "https://github.com/Serial-Studio/Serial-Studio",
+      "description": "Real-time telemetry dashboard for data from serial ports, Bluetooth LE, network sockets and other sources.",
+      "section": [
+        "C++ tools"
+      ]
+    },
+    {
       "key": "https://github.com/topology-tool-kit/ttk",
       "name": "TTK",
       "url": "https://github.com/topology-tool-kit/ttk",
@@ -1208,6 +1555,15 @@
       "name": "DataLens",
       "url": "https://github.com/datalens-tech/datalens",
       "description": "Business intelligence and data visualization system, originally developed at Yandex.",
+      "section": [
+        "Dashboards and BI"
+      ]
+    },
+    {
+      "key": "https://github.com/running-elephant/datart",
+      "name": "datart",
+      "url": "https://github.com/running-elephant/datart",
+      "description": "Data visualization platform for building reports, dashboards and data stories.",
       "section": [
         "Dashboards and BI"
       ]
@@ -1456,6 +1812,15 @@
       ]
     },
     {
+      "key": "https://github.com/MakieOrg/AlgebraOfGraphics.jl",
+      "name": "AlgebraOfGraphics.jl",
+      "url": "https://github.com/MakieOrg/AlgebraOfGraphics.jl",
+      "description": "Algebraic grammar-of-graphics visualization for Julia, built on Makie.",
+      "section": [
+        "Julia tools"
+      ]
+    },
+    {
       "key": "https://github.com/GiovineItalia/Gadfly.jl",
       "name": "Gadfly.jl",
       "url": "https://github.com/GiovineItalia/Gadfly.jl",
@@ -1591,10 +1956,28 @@
       ]
     },
     {
+      "key": "https://github.com/google-ai-edge/model-explorer",
+      "name": "Model Explorer",
+      "url": "https://github.com/google-ai-edge/model-explorer",
+      "description": "Hierarchical graph visualizer and debugger for ML models, from Google.",
+      "section": [
+        "Machine Learning tools"
+      ]
+    },
+    {
       "key": "https://github.com/lutzroeder/netron",
       "name": "Netron",
       "url": "https://github.com/lutzroeder/netron",
       "description": "Viewer for neural network, deep learning and machine learning models.",
+      "section": [
+        "Machine Learning tools"
+      ]
+    },
+    {
+      "key": "https://github.com/alexlenail/NN-SVG",
+      "name": "NN-SVG",
+      "url": "https://github.com/alexlenail/NN-SVG",
+      "description": "Web tool for drawing publication-ready neural network architecture diagrams and exporting them to SVG.",
       "section": [
         "Machine Learning tools"
       ]
@@ -1654,6 +2037,15 @@
       ]
     },
     {
+      "key": "https://github.com/PaddlePaddle/VisualDL",
+      "name": "VisualDL",
+      "url": "https://github.com/PaddlePaddle/VisualDL",
+      "description": "Deep learning visualization toolkit for metrics, graphs, embeddings and more, from PaddlePaddle.",
+      "section": [
+        "Machine Learning tools"
+      ]
+    },
+    {
       "key": "https://github.com/DistrictDataLabs/yellowbrick",
       "name": "Yellowbrick",
       "url": "https://github.com/DistrictDataLabs/yellowbrick",
@@ -1708,10 +2100,28 @@
       ]
     },
     {
+      "key": "https://github.com/plotly/Plotly.NET",
+      "name": "Plotly.NET",
+      "url": "https://github.com/plotly/Plotly.NET",
+      "description": "Interactive charts for F# and C#, based on Plotly.js.",
+      "section": [
+        ".NET tools"
+      ]
+    },
+    {
       "key": "https://github.com/ScottPlot/ScottPlot",
       "name": "ScottPlot",
       "url": "https://github.com/ScottPlot/ScottPlot",
       "description": "Interactive plotting library for .NET with WinForms, WPF, Avalonia, Blazor and other controls.",
+      "section": [
+        ".NET tools"
+      ]
+    },
+    {
+      "key": "https://github.com/XCharts-Team/XCharts",
+      "name": "XCharts",
+      "url": "https://github.com/XCharts-Team/XCharts",
+      "description": "Charting and data visualization library for Unity, built on UGUI.",
       "section": [
         ".NET tools"
       ]
@@ -1762,6 +2172,15 @@
       ]
     },
     {
+      "key": "https://github.com/man-group/dtale",
+      "name": "D-Tale",
+      "url": "https://github.com/man-group/dtale",
+      "description": "Web-based visual explorer for pandas DataFrames with charts, summaries and correlations.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
       "key": "https://github.com/plotly/dash",
       "name": "Dash",
       "url": "https://github.com/plotly/dash",
@@ -1784,6 +2203,15 @@
       "name": "diagram",
       "url": "https://github.com/tehmaze/diagram",
       "description": "Text mode diagrams using UTF-8 characters",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/fastplotlib/fastplotlib",
+      "name": "fastplotlib",
+      "url": "https://github.com/fastplotlib/fastplotlib",
+      "description": "GPU-accelerated plotting library built on WGPU and pygfx for fast interactive visualization.",
       "section": [
         "Python tools"
       ]
@@ -1825,10 +2253,28 @@
       ]
     },
     {
+      "key": "https://github.com/holoviz/hvplot",
+      "name": "hvPlot",
+      "url": "https://github.com/holoviz/hvplot",
+      "description": "High-level plotting API for pandas, xarray, Dask, NetworkX and other data structures, built on HoloViews.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
       "key": "https://github.com/nicohlr/ipychart",
       "name": "ipychart",
       "url": "https://github.com/nicohlr/ipychart",
       "description": "The power of Chart.js in Jupyter Notebook.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jupyter-widgets/ipyleaflet",
+      "name": "ipyleaflet",
+      "url": "https://github.com/jupyter-widgets/ipyleaflet",
+      "description": "Interactive Leaflet maps in Jupyter notebooks, built on ipywidgets.",
       "section": [
         "Python tools"
       ]
@@ -1847,6 +2293,33 @@
       "name": "Lets-Plot",
       "url": "https://github.com/JetBrains/lets-plot",
       "description": "Grammar of graphics plotting library for Python and Kotlin, by JetBrains.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/microsoft/lida",
+      "name": "LIDA",
+      "url": "https://github.com/microsoft/lida",
+      "description": "Generates visualizations and infographics from data with large language models, from Microsoft.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/louisnw01/lightweight-charts-python",
+      "name": "lightweight-charts-python",
+      "url": "https://github.com/louisnw01/lightweight-charts-python",
+      "description": "Python interface to TradingView's Lightweight Charts for financial charts.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/developmentseed/lonboard",
+      "name": "Lonboard",
+      "url": "https://github.com/developmentseed/lonboard",
+      "description": "Fast, interactive geospatial data visualization in Jupyter, built on deck.gl and GeoArrow.",
       "section": [
         "Python tools"
       ]
@@ -1874,6 +2347,15 @@
       "name": "missingno",
       "url": "https://github.com/ResidentMario/missingno",
       "description": "provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mpld3/mpld3",
+      "name": "mpld3",
+      "url": "https://github.com/mpld3/mpld3",
+      "description": "Renders matplotlib figures as interactive D3.js graphics in the browser.",
       "section": [
         "Python tools"
       ]
@@ -1942,10 +2424,37 @@
       ]
     },
     {
+      "key": "https://github.com/marceloprates/prettymaps",
+      "name": "prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "description": "Draws stylized maps from OpenStreetMap data, using osmnx and matplotlib.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
       "key": "https://github.com/pyecharts/pyecharts",
       "name": "pyecharts",
       "url": "https://github.com/pyecharts/pyecharts",
       "description": "Python binding for Echarts library.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Kozea/pygal",
+      "name": "pygal",
+      "url": "https://github.com/Kozea/pygal",
+      "description": "SVG charting library for Python with many chart types and interactive output.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/GenericMappingTools/pygmt",
+      "name": "PyGMT",
+      "url": "https://github.com/GenericMappingTools/pygmt",
+      "description": "Python interface to the Generic Mapping Tools (GMT) for maps and figures in the geosciences.",
       "section": [
         "Python tools"
       ]
@@ -1996,6 +2505,15 @@
       ]
     },
     {
+      "key": "https://github.com/JasonKessler/scattertext",
+      "name": "scattertext",
+      "url": "https://github.com/JasonKessler/scattertext",
+      "description": "Interactive scatterplot visualizations of how language differs between groups of documents.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
       "key": "https://github.com/garrettj403/SciencePlots",
       "name": "SciencePlots",
       "url": "https://github.com/garrettj403/SciencePlots",
@@ -2032,6 +2550,15 @@
       ]
     },
     {
+      "key": "https://github.com/fbdesignpro/sweetviz",
+      "name": "Sweetviz",
+      "url": "https://github.com/fbdesignpro/sweetviz",
+      "description": "Generates self-contained HTML reports that visualize and compare datasets for exploratory analysis.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
       "key": "https://github.com/landoskape/syd",
       "name": "syd",
       "url": "https://github.com/landoskape/syd",
@@ -2045,6 +2572,15 @@
       "name": "Taipy",
       "url": "https://github.com/Avaiga/taipy",
       "description": "Python framework for building data and AI web applications with interactive charts and dashboards.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mkaz/termgraph",
+      "name": "termgraph",
+      "url": "https://github.com/mkaz/termgraph",
+      "description": "Draws bar charts, histograms and other basic graphs in the terminal, as a CLI or Python library.",
       "section": [
         "Python tools"
       ]
@@ -2095,10 +2631,28 @@
       ]
     },
     {
+      "key": "https://github.com/viser-project/viser",
+      "name": "viser",
+      "url": "https://github.com/viser-project/viser",
+      "description": "Web-based 3D visualization library for computer vision and robotics, with GUI building blocks.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
       "key": "https://vispy.org",
       "name": "VisPy",
       "url": "https://vispy.org/",
       "description": "High-performance scientific visualization based on OpenGL.",
+      "section": [
+        "Python tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mckinsey/vizro",
+      "name": "Vizro",
+      "url": "https://github.com/mckinsey/vizro",
+      "description": "Low-code toolkit from McKinsey for building data visualization apps and dashboards, built on Dash.",
       "section": [
         "Python tools"
       ]
@@ -2149,6 +2703,15 @@
       ]
     },
     {
+      "key": "https://github.com/jokergoo/circlize",
+      "name": "circlize",
+      "url": "https://github.com/jokergoo/circlize",
+      "description": "Circular visualization in R, such as chord diagrams and Circos-style genomic plots.",
+      "section": [
+        "R tools"
+      ]
+    },
+    {
       "key": "https://github.com/jokergoo/ComplexHeatmap",
       "name": "ComplexHeatmap",
       "url": "https://github.com/jokergoo/ComplexHeatmap",
@@ -2185,10 +2748,28 @@
       ]
     },
     {
+      "key": "https://github.com/davidgohel/ggiraph",
+      "name": "ggiraph",
+      "url": "https://github.com/davidgohel/ggiraph",
+      "description": "Makes ggplot2 graphics interactive, with tooltips, hover effects and selections.",
+      "section": [
+        "R tools"
+      ]
+    },
+    {
       "key": "https://ggplot2.tidyverse.org",
       "name": "ggplot2",
       "url": "https://ggplot2.tidyverse.org/",
       "description": "A plotting system based on the grammar of graphics.",
+      "section": [
+        "R tools"
+      ]
+    },
+    {
+      "key": "https://github.com/kassambara/ggpubr",
+      "name": "ggpubr",
+      "url": "https://github.com/kassambara/ggpubr",
+      "description": "ggplot2-based functions for publication-ready plots with statistical annotations.",
       "section": [
         "R tools"
       ]
@@ -2234,6 +2815,15 @@
       "name": "gt",
       "url": "https://github.com/rstudio/gt",
       "description": "Builds publication-quality display tables in R.",
+      "section": [
+        "R tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ramnathv/htmlwidgets",
+      "name": "htmlwidgets",
+      "url": "https://github.com/ramnathv/htmlwidgets",
+      "description": "Framework for binding JavaScript visualization libraries to R, for use in R Markdown and Shiny.",
       "section": [
         "R tools"
       ]
@@ -2306,6 +2896,15 @@
       "name": "shiny",
       "url": "https://shiny.rstudio.com",
       "description": "Framework for creating interactive applications/visualisations",
+      "section": [
+        "R tools"
+      ]
+    },
+    {
+      "key": "https://github.com/r-tmap/tmap",
+      "name": "tmap",
+      "url": "https://github.com/r-tmap/tmap",
+      "description": "Thematic maps in R, with a ggplot2-like layered syntax and static or interactive output.",
       "section": [
         "R tools"
       ]
@@ -2392,6 +2991,24 @@
       ]
     },
     {
+      "key": "https://github.com/plantuml-stdlib/C4-PlantUML",
+      "name": "C4-PlantUML",
+      "url": "https://github.com/plantuml-stdlib/C4-PlantUML",
+      "description": "PlantUML macros and styles for drawing software architecture diagrams with the C4 model.",
+      "section": [
+        "Markup-based tools"
+      ]
+    },
+    {
+      "key": "https://github.com/cetz-package/cetz",
+      "name": "CeTZ",
+      "url": "https://github.com/cetz-package/cetz",
+      "description": "Drawing library for Typst with a TikZ-inspired API, for diagrams and plots.",
+      "section": [
+        "Markup-based tools"
+      ]
+    },
+    {
       "key": "https://github.com/d2lang/d2",
       "name": "D2",
       "url": "https://github.com/d2lang/d2",
@@ -2405,6 +3022,15 @@
       "name": "Diagrams",
       "url": "https://github.com/mingrammer/diagrams",
       "description": "Diagram as code in Python for prototyping cloud system architectures.",
+      "section": [
+        "Markup-based tools"
+      ]
+    },
+    {
+      "key": "https://github.com/tone-row/flowchart-fun",
+      "name": "Flowchart Fun",
+      "url": "https://github.com/tone-row/flowchart-fun",
+      "description": "Web app that generates flowcharts and diagrams from indented text.",
       "section": [
         "Markup-based tools"
       ]
@@ -2455,10 +3081,28 @@
       ]
     },
     {
+      "key": "https://github.com/skanaar/nomnoml",
+      "name": "nomnoml",
+      "url": "https://github.com/skanaar/nomnoml",
+      "description": "Draws UML diagrams from a simple text syntax.",
+      "section": [
+        "Markup-based tools"
+      ]
+    },
+    {
       "key": "https://github.com/penrose/penrose",
       "name": "Penrose",
       "url": "https://github.com/penrose/penrose",
       "description": "Creates diagrams from mathematical notation in plain text, from Carnegie Mellon University.",
+      "section": [
+        "Markup-based tools"
+      ]
+    },
+    {
+      "key": "https://github.com/pgf-tikz/pgf",
+      "name": "PGF/TikZ",
+      "url": "https://github.com/pgf-tikz/pgf",
+      "description": "TeX packages for programmatically drawing vector graphics and diagrams in LaTeX.",
       "section": [
         "Markup-based tools"
       ]
@@ -2482,21 +3126,21 @@
       ]
     },
     {
+      "key": "https://github.com/ivanceras/svgbob",
+      "name": "Svgbob",
+      "url": "https://github.com/ivanceras/svgbob",
+      "description": "Converts ASCII art diagrams into SVG.",
+      "section": [
+        "Markup-based tools"
+      ]
+    },
+    {
       "key": "https://wavedrom.com",
       "name": "WaveDrom",
       "url": "https://wavedrom.com/",
       "description": "Draws timing diagrams and waveforms from simple textual descriptions.",
       "section": [
         "Markup-based tools"
-      ]
-    },
-    {
-      "key": "https://github.com/chartdb/chartdb",
-      "name": "ChartDB",
-      "url": "https://github.com/chartdb/chartdb",
-      "description": "An Open-source tool to visualize database schemas and generate ER diagrams from a single query.",
-      "section": [
-        "Other tools"
       ]
     },
     {
@@ -2545,24 +3189,6 @@
       ]
     },
     {
-      "key": "https://github.com/jgraph/drawio",
-      "name": "draw.io",
-      "url": "https://github.com/jgraph/drawio",
-      "description": "Client-side JavaScript editor for flowcharts, network, UML and other diagrams.",
-      "section": [
-        "Other tools"
-      ]
-    },
-    {
-      "key": "https://erdlab.io",
-      "name": "ERD Lab",
-      "url": "https://erdlab.io/",
-      "description": "Free cloud based entity relationship diagram (ERD) tool made for developers.",
-      "section": [
-        "Other tools"
-      ]
-    },
-    {
       "key": "https://github.com/brendangregg/FlameGraph",
       "name": "FlameGraph",
       "url": "https://github.com/brendangregg/FlameGraph",
@@ -2572,10 +3198,28 @@
       ]
     },
     {
+      "key": "https://github.com/opengeos/GeoLibre",
+      "name": "GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "Cloud-native GIS app for visualizing and analyzing geospatial data on the web, desktop and mobile.",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
       "key": "https://github.com/gephi/gephi",
       "name": "Gephi",
       "url": "https://github.com/gephi/gephi",
       "description": "An open-source platform for visualizing and manipulating large graphs",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
+      "key": "https://github.com/GenericMappingTools/gmt",
+      "name": "GMT",
+      "url": "https://github.com/GenericMappingTools/gmt",
+      "description": "Command-line tools for processing geographic data and making publication-quality maps and plots.",
       "section": [
         "Other tools"
       ]
@@ -2617,6 +3261,15 @@
       ]
     },
     {
+      "key": "https://github.com/AykutSarac/jsoncrack.com",
+      "name": "JSON Crack",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "description": "Visualizes JSON, YAML, XML and CSV data as interactive graphs.",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
       "key": "https://kepler.gl",
       "name": "Kepler.gl",
       "url": "https://kepler.gl/",
@@ -2630,6 +3283,15 @@
       "name": "LabPlot",
       "url": "https://github.com/KDE/labplot",
       "description": "KDE application for interactive scientific plotting, data analysis and visualization.",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
+      "key": "https://github.com/antvis/mcp-server-chart",
+      "name": "mcp-server-chart",
+      "url": "https://github.com/antvis/mcp-server-chart",
+      "description": "MCP server from AntV that lets AI agents generate more than 25 chart types.",
       "section": [
         "Other tools"
       ]
@@ -2716,6 +3378,15 @@
       ]
     },
     {
+      "key": "https://github.com/nowthis/sankeymatic",
+      "name": "SankeyMATIC",
+      "url": "https://github.com/nowthis/sankeymatic",
+      "description": "Web tool for building Sankey diagrams from a plain-text description of flows.",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
       "key": "https://github.com/holman/spark",
       "name": "Spark",
       "url": "https://github.com/holman/spark",
@@ -2725,10 +3396,37 @@
       ]
     },
     {
+      "key": "https://github.com/lana-k/sqliteviz",
+      "name": "sqliteviz",
+      "url": "https://github.com/lana-k/sqliteviz",
+      "description": "Browser app that loads CSV, JSON or SQLite files, runs SQL and charts the results offline.",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
       "key": "https://squey.org",
       "name": "Squey",
       "url": "https://squey.org",
       "description": "Visualization software for exploring and understanding large amounts of tabular data (using parallel coordinates, timeseries and scatter plots).",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
+      "key": "https://github.com/tenox7/ttyplot",
+      "name": "ttyplot",
+      "url": "https://github.com/tenox7/ttyplot",
+      "description": "Real-time terminal plotting utility that reads data from standard input.",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
+      "key": "https://github.com/umap-project/umap",
+      "name": "uMap",
+      "url": "https://github.com/umap-project/umap",
+      "description": "Web app for creating maps with OpenStreetMap layers and embedding them in websites.",
       "section": [
         "Other tools"
       ]
