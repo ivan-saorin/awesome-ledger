@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d889120673a389f81d9bb510f48f6046f21468703e4e9ec4f63b62293f476770\"",
+  "etag": "W/\"56cf1529085fd5efbef7071f7e9ba5ffa5e904400c58c99c312674d7f97582ea\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -202,6 +202,24 @@
       ]
     },
     {
+      "key": "https://mobile-ssh.github.io",
+      "name": "Mobile SSH",
+      "url": "https://mobile-ssh.github.io/",
+      "description": "Android and iOS (TestFlight beta) SSH client for running Gemini CLI on remote servers, with a Gemini CLI installer plugin, simultaneous terminal sessions, and tmux session management.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://bellowsai.app",
+      "name": "Bellows",
+      "url": "https://bellowsai.app",
+      "description": "Desktop workspace that runs Gemini CLI over ACP alongside Claude and Codex, with diffs, permission prompts, team rules, a hash-linked audit trail and live session sharing. Windows, macOS and Linux.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
       "key": "https://github.com/vybestack/llxprt-code",
       "name": "LLxprt Code",
       "url": "https://github.com/vybestack/llxprt-code",
@@ -395,6 +413,15 @@
       "name": "agent-manager",
       "url": "https://github.com/YoanWai/agent-manager",
       "description": "Terminal UI that runs Gemini CLI alongside Claude Code, Codex, OpenCode and other coding-agent CLIs, each in its own persistent tmux session. One list shows every session's live status, prompts go into a pane without attaching, a session can spawn into its own Git worktree, and a full-file diff review sends line comments back to the agent. Launches your installed Gemini CLI unmodified, so login, config and MCP servers carry over. macOS, Linux and Windows via WSL2. Apache-2.0.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/mano7onam/puenteo",
+      "name": "puenteo",
+      "url": "https://github.com/mano7onam/puenteo",
+      "description": "Gemini CLI extension + MCP server that lets Gemini CLI, Claude Code, Codex and Cursor sessions on one machine search each other's history and message each other live (send/wait/reply, channels, file claims). Local SQLite, no daemon.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -778,6 +805,15 @@
       ]
     },
     {
+      "key": "https://github.com/thiagoxikota/figma-maxxing",
+      "name": "figma-maxxing",
+      "url": "https://github.com/thiagoxikota/figma-maxxing",
+      "description": "Gemini CLI extension with 8 skills for agents editing real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, and a handoff gate. Built on figma-console-mcp; 3 of the checks also ran once on Figma's official MCP server. MIT. Install via gemini extensions install https://github.com/thiagoxikota/figma-maxxing.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1151,6 +1187,24 @@
       "name": "Awakado",
       "url": "https://awakado.noodledragon.studio",
       "description": "macOS menu-bar app that keeps the Mac awake while Gemini CLI is working, using Gemini CLI hooks, and lets it sleep when it finishes. Also supports Claude Code, Codex and other agents. Free, with a paid Pro tier.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://skillkeeper.app",
+      "name": "SkillKeeper",
+      "url": "https://skillkeeper.app/",
+      "description": "macOS menu bar app that reads local Gemini CLI, Claude Code, Codex and Cursor sessions to show which skills, agents, MCP servers and tools ran, how often, and what they cost in tokens. Native Swift, free to track.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/fitzyracing1/fakegreen",
+      "name": "fakegreen",
+      "url": "https://github.com/fitzyracing1/fakegreen",
+      "description": "Deterministic diff checker with an AfterAgent hook (npx fakegreen install gemini) that denies the turn when the agent skipped or deleted tests, weakened assertions, added suppressions, special-cased the test environment or forced CI green with || true, and feeds the findings back so Gemini fixes them. No LLM or API key. MIT.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -1655,6 +1709,15 @@
       "name": "LinkMCP",
       "url": "https://app.linkmcp.io",
       "description": "Hosted LinkedIn MCP server for your own LinkedIn account: profile and company lookups, people and Sales Navigator search, inbox, posts and comments, connection requests, and work email finding. Remote Streamable HTTP with OAuth sign-in; the server is closed source. Paid plans from $19/month, 7-day free trial without a card. Install: gemini extensions install https://github.com/linkmcp-io/linkmcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/negm17111995/mcp-server",
+      "name": "MAQAMI Travel",
+      "url": "https://github.com/negm17111995/mcp-server",
+      "description": "Hotel and flight search and booking from Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then prebook and book a chosen offer after the user confirms. Remote Streamable HTTP (https://mcp.maqami.co/), no sign-in or API key. Install: gemini extensions install https://github.com/negm17111995/mcp-server.",
       "section": [
         "MCP Servers"
       ]

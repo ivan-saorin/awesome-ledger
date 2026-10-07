@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b2d4b9e6eab387ac354e96beb5f99e2b1753f63df8cdf356fb62107fa3a4f099\"",
+  "etag": "W/\"ccc913b97fb1b6e5d2f8148262e0ca1a6e8b56d824d1f9ea9526bc60b62c9cae\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4351,6 +4351,16 @@
       "name": "Rustodon",
       "url": "https://github.com/rustodon/rustodon",
       "description": "A Mastodon-compatible, ActivityPub-speaking server.",
+      "section": [
+        "Applications",
+        "Social networks"
+      ]
+    },
+    {
+      "key": "https://github.com/poljar/weechat-matrix-rs",
+      "name": "poljar/weechat-matrix-rs",
+      "url": "https://github.com/poljar/weechat-matrix-rs",
+      "description": "Rust rewrite of the python weechat-matrix script.",
       "section": [
         "Applications",
         "Social networks"
@@ -9896,6 +9906,17 @@
       ]
     },
     {
+      "key": "https://github.com/samvallad33/vestige",
+      "name": "samvallad33/vestige",
+      "url": "https://github.com/samvallad33/vestige",
+      "description": "Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it",
+      "section": [
+        "Libraries",
+        "Artificial Intelligence",
+        "Tooling"
+      ]
+    },
+    {
       "key": "https://github.com/tenequm/pond",
       "name": "tenequm/pond",
       "url": "https://github.com/tenequm/pond",
@@ -11857,6 +11878,16 @@
       ]
     },
     {
+      "key": "https://github.com/suradet-ps/encryptman-keyring",
+      "name": "suradet-ps/encryptman-keyring",
+      "url": "https://github.com/suradet-ps/encryptman-keyring",
+      "description": "[encryptman-keyring] - OS keychain-backed master key storage for encryptman",
+      "section": [
+        "Libraries",
+        "Cryptography"
+      ]
+    },
+    {
       "key": "https://github.com/hamzaydia/verifyfetch",
       "name": "verifyfetch",
       "url": "https://github.com/hamzaydia/verifyfetch",
@@ -12621,6 +12652,16 @@
       "name": "LMDB",
       "url": "https://www.symas.com/lmdb.php",
       "description": "[lmdb]",
+      "section": [
+        "Libraries",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/project-minigraf/minigraf",
+      "name": "Minigraf",
+      "url": "https://github.com/project-minigraf/minigraf",
+      "description": "[minigraf] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries",
       "section": [
         "Libraries",
         "Database"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"80f8214ada4e1af9ccfaca0b71ab329f58eff16e9a0f60e9882a860c2c8af8b9\"",
+  "etag": "W/\"20608bddac4954fcb1b424de062464b200e8f114167533d843b07bf0e7573fff\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -418,6 +418,17 @@
       "name": "fsf-gnat",
       "url": "https://github.com/alire-project/GNAT-FSF-builds/releases",
       "description": "Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.",
+      "section": [
+        "Compilers",
+        "Open source",
+        "GPL (with linking exception)"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/gnat-patches",
+      "name": "gnat-patches",
+      "url": "https://github.com/flyology-ada/gnat-patches",
+      "description": "Curated GCC/GNAT patchsets against checksum-pinned upstream sources, each backed by an executable regression, published as patched native toolchain builds for GCC 13 through 16.",
       "section": [
         "Compilers",
         "Open source",
@@ -844,6 +855,15 @@
       ]
     },
     {
+      "key": "https://github.com/flyology-ada/flyology",
+      "name": "flyology",
+      "url": "https://github.com/flyology-ada/flyology",
+      "description": "Experimental GNAT runtime extension for ordinary Ada tasking, adding task-aware I/O and an opt-in lightweight lane that runs designated tasks as fibers on shared event loops.",
+      "section": [
+        "Runtimes"
+      ]
+    },
+    {
       "key": "https://m2os.unican.es",
       "name": "m2os",
       "url": "https://m2os.unican.es/",
@@ -1205,6 +1225,16 @@
       ]
     },
     {
+      "key": "https://github.com/kokhlo/ipfs",
+      "name": "ipfs",
+      "url": "https://github.com/kokhlo/ipfs",
+      "description": "InterPlanetary File System client library: CID/multihash/multibase, CAR archives with block verification, trustless HTTP gateway client.",
+      "section": [
+        "Frameworks",
+        "Distributed"
+      ]
+    },
+    {
       "key": "https://sourceforge.net/projects/gnoga",
       "name": "gnoga",
       "url": "https://sourceforge.net/projects/gnoga/",
@@ -1355,6 +1385,16 @@
       ]
     },
     {
+      "key": "https://github.com/flyology-ada/flyology-tui",
+      "name": "flyology-tui",
+      "url": "https://github.com/flyology-ada/flyology-tui",
+      "description": "Typed, declarative terminal user-interface toolkit for Ada.",
+      "section": [
+        "Frameworks",
+        "Terminal User Interface"
+      ]
+    },
+    {
       "key": "https://github.com/zertovitch/globe-3d",
       "name": "globe-3d",
       "url": "https://github.com/zertovitch/globe-3d",
@@ -1419,6 +1459,16 @@
       "name": "apq-base",
       "url": "https://github.com/ada-apq/apq/",
       "description": "APQ is a database interface library written in Ada95.",
+      "section": [
+        "Frameworks",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology-postgres",
+      "name": "flyology-postgres",
+      "url": "https://github.com/flyology-ada/flyology-postgres",
+      "description": "Client and server primitives for the PostgreSQL frontend/backend protocol, built on flyology task-aware I/O.",
       "section": [
         "Frameworks",
         "Database"
@@ -1529,6 +1579,16 @@
       "name": "matreshka",
       "url": "https://github.com/godunko/matreshka",
       "description": "Framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.",
+      "section": [
+        "Frameworks",
+        "Web"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology-http",
+      "name": "flyology-http",
+      "url": "https://github.com/flyology-ada/flyology-http",
+      "description": "HTTP/1.1 clients and servers with opt-in HTTP/2 and HTTP/3 engines and WebSocket support, built on flyology task-aware I/O.",
       "section": [
         "Frameworks",
         "Web"
@@ -2155,6 +2215,26 @@
       ]
     },
     {
+      "key": "https://github.com/flyology-ada/flyology/tree/main/flyology_allocators",
+      "name": "flyology-allocators",
+      "url": "https://github.com/flyology-ada/flyology/tree/main/flyology_allocators",
+      "description": "Caller-owned buddy, best-fit, TLSF, and slab/span allocation algorithms with no hosted operating system dependency.",
+      "section": [
+        "Libraries",
+        "Algorithms, Containers and Protocols"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology/tree/main/flyology_cachelines",
+      "name": "flyology-cachelines",
+      "url": "https://github.com/flyology-ada/flyology/tree/main/flyology_cachelines",
+      "description": "Cache-line-aware storage, ownership-aware groups, grouped arrays, and host cache queries.",
+      "section": [
+        "Libraries",
+        "Algorithms, Containers and Protocols"
+      ]
+    },
+    {
       "key": "https://github.com/jrcarter/Threefish",
       "name": "threefish",
       "url": "https://github.com/jrcarter/Threefish",
@@ -2705,6 +2785,26 @@
       ]
     },
     {
+      "key": "https://github.com/flyology-ada/flyology-http/tree/main/flyology_iri",
+      "name": "flyology-iri",
+      "url": "https://github.com/flyology-ada/flyology-http/tree/main/flyology_iri",
+      "description": "Allocation-conscious URI, IRI, and WHATWG URL parsing.",
+      "section": [
+        "Libraries",
+        "Format Readers, Writers and Checkers"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology-rdf",
+      "name": "flyology-rdf",
+      "url": "https://github.com/flyology-ada/flyology-rdf",
+      "description": "RDF 1.2 terms, streaming Turtle, TriG, N-Triples and N-Quads parsing, RDFC-1.0 dataset canonicalization, Notation3, and SPARQL 1.1 query syntax.",
+      "section": [
+        "Libraries",
+        "Format Readers, Writers and Checkers"
+      ]
+    },
+    {
       "key": "https://codelabs.ch/anet",
       "name": "anet",
       "url": "https://www.codelabs.ch/anet/",
@@ -2819,6 +2919,16 @@
       "name": "coap-spark",
       "url": "https://github.com/mgrojo/coap_spark",
       "description": "A formally verified implementation of CoAP, the Constrained Application Protocol.",
+      "section": [
+        "Libraries",
+        "Networking and Communication Middleware"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology-http/tree/main/flyology_quic",
+      "name": "flyology-quic",
+      "url": "https://github.com/flyology-ada/flyology-http/tree/main/flyology_quic",
+      "description": "Experimental bounded QUIC transport with protocol state, streams, loss recovery, and congestion control.",
       "section": [
         "Libraries",
         "Networking and Communication Middleware"
@@ -2999,6 +3109,16 @@
       "name": "ada-bfd",
       "url": "https://github.com/stcarrez/ada-bfd",
       "description": "An Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.",
+      "section": [
+        "Libraries",
+        "General Purpose Computing"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology-simd",
+      "name": "flyology-simd",
+      "url": "https://github.com/flyology-ada/flyology-simd",
+      "description": "Portable, strongly typed SIMD foundations for Ada.",
       "section": [
         "Libraries",
         "General Purpose Computing"
@@ -3245,6 +3365,26 @@
       ]
     },
     {
+      "key": "https://github.com/flyology-ada/flyology/tree/main/flyology_bench",
+      "name": "flyology-bench",
+      "url": "https://github.com/flyology-ada/flyology/tree/main/flyology_bench",
+      "description": "Adaptive microbenchmarking with balanced comparisons, diagnostics, baselines, and machine-readable reports.",
+      "section": [
+        "Libraries",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology/tree/main/flyology_debug",
+      "name": "flyology-debug",
+      "url": "https://github.com/flyology-ada/flyology/tree/main/flyology_debug",
+      "description": "Bounded in-memory tracing, producer shards, retained batches, and persistent gauges.",
+      "section": [
+        "Libraries",
+        "Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/ada-ros/rclada",
       "name": "rclada",
       "url": "https://github.com/ada-ros/rclada",
@@ -3329,6 +3469,16 @@
       "name": "suid-helper",
       "url": "https://gitlab.com/mockturtle/suid-helper",
       "description": "Small Ada library that helps in writing safer suid programs.",
+      "section": [
+        "Libraries",
+        "Linux and POSIX"
+      ]
+    },
+    {
+      "key": "https://github.com/flyology-ada/flyology/tree/main/flyology_numa",
+      "name": "flyology-numa",
+      "url": "https://github.com/flyology-ada/flyology/tree/main/flyology_numa",
+      "description": "Memory-node topology reporting, memory placement on a chosen node, and node-bound storage pools.",
       "section": [
         "Libraries",
         "Linux and POSIX"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"eabb721a23d6f05feb6f7885dbd8e78ff04878459516fc2b745d14ddb8854cd9\"",
+  "etag": "W/\"e5f78a60a93122081d25b953c85c51d9798146027c6907c99537b4217c4cb8c2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -885,6 +885,15 @@
       "name": "otelcol-doctor",
       "url": "https://github.com/s3onghyun/otelcol-doctor",
       "description": "by s3onghyun - A focused, vendor-neutral skill that writes, fixes, and validates OpenTelemetry Collector configs — encoding the Collector's real footguns (memory_limiter/batch ordering, core-vs-contrib components, pull-vs-push exporters, deprecated exporters, pipelines that validate but were never wired) as an authoring workflow and diagnosis checklist. Its standout is honesty plus a verification loop: it always finishes by running otelcol validate and ships CI-checked before/after example configs rather than handing back an unverified file.",
+      "section": [
+        "Infrastructure & DevOps"
+      ]
+    },
+    {
+      "key": "https://github.com/degordonstech/pwa2play",
+      "name": "pwa2play",
+      "url": "https://github.com/degordonstech/pwa2play",
+      "description": "by degordonstech - Packages a PWA into a signed Play Store Android bundle with Bubblewrap and checks target API level, signing key reuse, assetlinks fingerprints and version codes before upload.",
       "section": [
         "Infrastructure & DevOps"
       ]

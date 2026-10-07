@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b6a756a2d3c89a2ff9f83405d846fc2bd4297a51f42a923ea9cd829cda50a145\"",
+  "etag": "W/\"0b0cb5c9cc342b95edf4ee503d6799f135d3208b2f9fb135e36065d76069d88f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2489,12 +2489,21 @@
       ]
     },
     {
+      "key": "https://codeberg.org/gsou/LCL",
+      "name": "LCL - Lua Common Lisp",
+      "url": "https://codeberg.org/gsou/LCL",
+      "description": "Lua Common Lisp is an implementation of Common Lisp targeting the Lua language. The goal of this project is to provide an implementation of Common Lisp that can be used wherever an unmodified Lua VM is running.",
+      "section": [
+        "Work in progress"
+      ]
+    },
+    {
       "key": "https://github.com/atgreen/evergreen",
       "name": "Evergreen",
       "url": "https://github.com/atgreen/evergreen",
       "description": "Evergreen is Common Lisp with a HotSpot-inspired native runtime, built from scratch in Rust. It starts executing in bytecode, compiles hot code to native instructions, and specializes dynamically typed programs as they run.",
       "section": [
-        "AI-developped"
+        "Work in progress"
       ]
     },
     {
