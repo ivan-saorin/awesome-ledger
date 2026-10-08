@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e5f78a60a93122081d25b953c85c51d9798146027c6907c99537b4217c4cb8c2\"",
+  "etag": "W/\"141d02f304f66647fbb6f7aa35807ea2fac17cd4f5b1f4a833c28e8e78db4bf7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -265,15 +265,6 @@
       ]
     },
     {
-      "key": "https://github.com/JSONbored/claudepro-directory",
-      "name": "ClaudoPro Directory",
-      "url": "https://github.com/JSONbored/claudepro-directory",
-      "description": "by JSONbored - Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average \"Claude-template-for-everything\" site.",
-      "section": [
-        "Documentation, Knowledge & Learning"
-      ]
-    },
-    {
       "key": "https://github.com/zarazhangrui/codebase-to-course",
       "name": "Codebase to Course",
       "url": "https://github.com/zarazhangrui/codebase-to-course",
@@ -310,9 +301,9 @@
       ]
     },
     {
-      "key": "https://github.com/cheukyin175/learn-faster-kit",
+      "key": "https://github.com/hluaguo/learn-faster-kit",
       "name": "learn-faster-kit",
-      "url": "https://github.com/cheukyin175/learn-faster-kit",
+      "url": "https://github.com/hluaguo/learn-faster-kit",
       "description": "by Hugo Lau - A creative educational framework for Claude Code, inspired by the \"FASTER\" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.",
       "section": [
         "Documentation, Knowledge & Learning"
@@ -395,6 +386,16 @@
       ]
     },
     {
+      "key": "https://github.com/djolex999/vir",
+      "name": "vir",
+      "url": "https://github.com/djolex999/vir",
+      "description": "by Djordje Marković - Distills the Claude Code transcripts already on your disk into typed markdown notes (decisions, gotchas, patterns). Serves them via MCP and a CLAUDE.md block. Integrates with Obsidian.",
+      "section": [
+        "Documentation, Knowledge & Learning",
+        "Obsidian"
+      ]
+    },
+    {
       "key": "https://github.com/netresearch/claude-code-marketplace",
       "name": "Netresearch Agentic Skills",
       "url": "https://github.com/netresearch/claude-code-marketplace",
@@ -422,9 +423,9 @@
       ]
     },
     {
-      "key": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "key": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "name": "Claude Scientific Skills",
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "by K-Dense - \"A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing.\" That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.",
       "section": [
         "Research & Scientific Inquiry"
@@ -512,19 +513,28 @@
       ]
     },
     {
-      "key": "https://github.com/zyx77550/sparda",
+      "key": "https://github.com/zakariagharzouli/sparda",
       "name": "SPARDA",
-      "url": "https://github.com/zyx77550/sparda",
+      "url": "https://github.com/zakariagharzouli/sparda",
       "description": "by Zakaria Gharzouli (Residual Labs) - Converts a running Express or FastAPI app into an MCP server by AST-parsing its routes and injecting a marked, byte-for-byte-removable /mcp router, so the agent can operate your live application (real auth, real data) rather than just read files. Exceptionally safety-minded: writes are disabled by default behind two-phase confirmation, docstrings are sanitized against prompt injection, a circuit-breaker quarantines failing routes, nothing leaves the machine, and persistence stores structure never payloads.",
       "section": [
         "Providers, Runtime & Integration Infrastructure"
       ]
     },
     {
-      "key": "https://github.com/DevinoSolutions/ai-agent-notifier",
-      "name": "ai-agent-notifier",
-      "url": "https://github.com/DevinoSolutions/ai-agent-notifier",
+      "key": "https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor",
+      "name": "anotifier",
+      "url": "https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor",
       "description": "by Amin Dhouib (Devino Solutions) - A zero-dependency, cross-platform notifier that fires a desktop toast and a free phone push (via ntfy) the moment Claude Code (or Codex/Cursor/Gemini) finishes a task or needs input, wired up by a one-command setup. The standout among notifiers is its testing rigor — CI drives the real agent CLIs end to end and asserts real ntfy round-trips and real OS toast delivery, no mocks.",
+      "section": [
+        "Remote Control, Notifications & Voice I/O"
+      ]
+    },
+    {
+      "key": "https://github.com/Imolatte/claude-cli-telegram",
+      "name": "Claude CLI ↔ Telegram",
+      "url": "https://github.com/Imolatte/claude-cli-telegram",
+      "description": "by Imolatte - A feature-rich Telegram bot that turns your machine into a remote Claude Code terminal driven from your phone: streaming tool progress, voice input, a git panel, Mac remote control, and 30+ commands. Its standout is the approval flow — dangerous-op Approve/Deny taps are injected straight into the real terminal prompt via tmux send-keys, so you authorize from your phone without killing the session or losing context.",
       "section": [
         "Remote Control, Notifications & Voice I/O"
       ]
@@ -566,21 +576,21 @@
       ]
     },
     {
-      "key": "https://github.com/Imolatte/tg-claude",
-      "name": "Telegram-Claude (tg-claude)",
-      "url": "https://github.com/Imolatte/tg-claude",
-      "description": "by Imolatte - A feature-rich Telegram bot that turns your machine into a remote Claude Code terminal driven from your phone: streaming tool progress, voice input, a git panel, Mac remote control, and 30+ commands. Its standout is the approval flow — dangerous-op Approve/Deny taps are injected straight into the real terminal prompt via tmux send-keys, so you authorize from your phone without killing the session or losing context.",
-      "section": [
-        "Remote Control, Notifications & Voice I/O"
-      ]
-    },
-    {
       "key": "https://github.com/Rich627/whatsapp-claude-plugin",
       "name": "WhatsApp Channel Plugin",
       "url": "https://github.com/Rich627/whatsapp-claude-plugin",
       "description": "by Richie Liu - Connects WhatsApp as a native Claude Code channel via Baileys linked-device (no bot token or API keys), with bidirectional messaging, full media, voice transcription, remote tool approval, access control, and per-group personalities. Runs entirely locally and was the first community plugin officially reviewed and published on Anthropic's plugin marketplace.",
       "section": [
         "Remote Control, Notifications & Voice I/O"
+      ]
+    },
+    {
+      "key": "https://github.com/cvelasquez/agent-workbench",
+      "name": "Agent Workbench",
+      "url": "https://github.com/cvelasquez/agent-workbench",
+      "description": "by cvelasquez - Local web UI that runs the unmodified Claude Code CLI in a pseudo-terminal and adds tabs, a browsable history of past sessions, conversations rendered as cards, a context meter, and the agent's multiple-choice questions answered from the UI.",
+      "section": [
+        "Alternative Clients"
       ]
     },
     {
@@ -822,6 +832,24 @@
       "name": "naming",
       "url": "https://github.com/glacierphonk/naming",
       "description": "by GlacierPhonk - A Claude Code skill for naming products, SaaS tools, brands, and projects via a structured metaphor-driven process — naming brief, metaphor exploration, candidate generation, anti-slop filtering, a weighted evaluation rubric, and availability checks for domains/handles/package names. A genuinely different (and creative) take that produces names grounded in meaning instead of the random tech-syllable mush an unguided model reaches for.",
+      "section": [
+        "Writing & Prose Quality"
+      ]
+    },
+    {
+      "key": "https://github.com/illusionaireal/oh-my-patent",
+      "name": "oh-my-patent",
+      "url": "https://github.com/illusionaireal/oh-my-patent",
+      "description": "by illusionaireal - A plugin for turning technical ideas into patent disclosures.",
+      "section": [
+        "Writing & Prose Quality"
+      ]
+    },
+    {
+      "key": "https://github.com/dvdsosa/scientific-writing-skills",
+      "name": "Scientific Writing Skills",
+      "url": "https://github.com/dvdsosa/scientific-writing-skills",
+      "description": "by David Sosa-Trejo - Six Agent Skills for scientific writing based on Stanford's Writing in the Sciences course: sentence-level prose editing, IMRaD manuscript structure, the writing process, peer review and publication, grants and recommendation letters, and lay summaries and press. Ships as the sciwrite Claude Code plugin with four stdlib-only Python audit scripts.",
       "section": [
         "Writing & Prose Quality"
       ]
@@ -1263,6 +1291,16 @@
       ]
     },
     {
+      "key": "https://github.com/vkuprin/ralph-harness",
+      "name": "ralph-harness",
+      "url": "https://github.com/vkuprin/ralph-harness",
+      "description": "by Vitaly Kuprin - A CLI that runs Claude Code in a loop, with a fresh claude -p process for each iteration in a harness-owned git worktree.",
+      "section": [
+        "Agent Orchestration",
+        "Ralph Wiggum"
+      ]
+    },
+    {
       "key": "https://github.com/mikeyobrien/ralph-orchestrator",
       "name": "ralph-orchestrator",
       "url": "https://github.com/mikeyobrien/ralph-orchestrator",
@@ -1311,6 +1349,15 @@
       ]
     },
     {
+      "key": "https://github.com/cooklang/cooklang-skills",
+      "name": "Cooklang skills",
+      "url": "https://github.com/cooklang/cooklang-skills",
+      "description": "by dubadub - Skills and an MCP server that let AI agents work with Cooklang recipes: plain-text .cook recipes and .menu meal plans in a folder you own.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
       "key": "https://github.com/dailydotdev/daily",
       "name": "daily.dev",
       "url": "https://github.com/dailydotdev/daily",
@@ -1324,6 +1371,15 @@
       "name": "fable-mode",
       "url": "https://github.com/mrtooher/fable-mode",
       "description": "by mrtooher - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
+      "key": "https://github.com/gilles-g/localpr",
+      "name": "localpr",
+      "url": "https://github.com/gilles-g/localpr",
+      "description": "by gilles-g - Reviews Claude's uncommitted changes in a local GitHub-style pull request page: comment on any line, send comments in batches while Claude keeps working, ask Claude questions answered inline in the thread, and get each comment back marked fixed or refused.",
       "section": [
         "Skills"
       ]
@@ -1743,6 +1799,15 @@
       ]
     },
     {
+      "key": "https://github.com/1160054/claude-code-zsh-completion",
+      "name": "claude-code-zsh-completion",
+      "url": "https://github.com/1160054/claude-code-zsh-completion",
+      "description": "by 1160054 - Zsh completion for the Claude Code CLI. Dynamically completes sessions, MCP servers, agents, models and plugins from the user's configuration.",
+      "section": [
+        "Configuration"
+      ]
+    },
+    {
       "key": "https://github.com/disler/fixing-smartass-opus-5",
       "name": "Fixing Opus 5",
       "url": "https://github.com/disler/fixing-smartass-opus-5",
@@ -1884,6 +1949,15 @@
       "description": "by TÂCHES - A well-balanced, \"down-to-Earth\" set of sub agents, skills, and commands, that are well-organized, easy to read, and a healthy focus on \"meta\"-skills/agents, like \"skill-auditor\", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around.",
       "section": [
         "Multi-Purpose"
+      ]
+    },
+    {
+      "key": "https://github.com/karanb192/awesome-claude-code-mods",
+      "name": "Awesome Claude Code Mods",
+      "url": "https://github.com/karanb192/awesome-claude-code-mods",
+      "description": "by Karan Bansal - A community list of Claude Code mods built with function hooks. Scans public GitHub repositories and shows what the validator reports each mod can read, write, run or send over the network.",
+      "section": [
+        "Lists & Collections"
       ]
     }
   ]

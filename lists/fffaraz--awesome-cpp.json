@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"70815f68b12e8dd520b14c1f42c8533dbd55148364ac10a27ae3b46d669bc4c2\"",
+  "etag": "W/\"5ecdd297a07c06f86d511ca10c30aa6e1eec16c5a218e85066f2cadbe0dc9611\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -11240,6 +11240,15 @@
       "name": "Clang-Tidy",
       "url": "https://clang.llvm.org/extra/clang-tidy.html",
       "description": "Clang-based C++ linter tool.",
+      "section": [
+        "Coding Style Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/cpp-linter/cpp-linter-hooks",
+      "name": "cpp-linter-hooks",
+      "url": "https://github.com/cpp-linter/cpp-linter-hooks",
+      "description": "Pre-commit hooks for C/C++ powered by clang-format and clang-tidy. [MIT]",
       "section": [
         "Coding Style Tools"
       ]
