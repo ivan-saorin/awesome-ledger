@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9723a3bc33ccfddc4a3599236c0210625dbbf692805fa5a302e20347d3187ff4\"",
+  "etag": "W/\"00ba079868811015b54d6d1aa391f9c877958193f3d5a53884c0ab9c5aec7369\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -213,6 +213,16 @@
       ]
     },
     {
+      "key": "https://github.com/dereuromark/cakephp-passkeys",
+      "name": "CakePasskeys plugin",
+      "url": "https://github.com/dereuromark/cakephp-passkeys",
+      "description": "Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.",
+      "section": [
+        "Plugins",
+        "Authentication and Authorization"
+      ]
+    },
+    {
       "key": "https://github.com/salines/cakephp-verification",
       "name": "CakeVerification plugin",
       "url": "https://github.com/salines/cakephp-verification",
@@ -387,6 +397,16 @@
       "name": "Execution order",
       "url": "https://github.com/dereuromark/executionorder",
       "description": "A demo app to display the execution order of files, methods and callbacks.",
+      "section": [
+        "Plugins",
+        "Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/orca-services/cakephp-heartbeat",
+      "name": "OrcaServices/Heartbeat plugin",
+      "url": "https://github.com/orca-services/cakephp-heartbeat",
+      "description": "A plugin providing an application heartbeat status page with configurable sensors.",
       "section": [
         "Plugins",
         "Debugging"
@@ -803,6 +823,16 @@
       ]
     },
     {
+      "key": "https://github.com/Crustum/rhythm",
+      "name": "Crustum/Rhythm plugin",
+      "url": "https://github.com/Crustum/rhythm",
+      "description": "Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.",
+      "section": [
+        "Plugins",
+        "Monitoring"
+      ]
+    },
+    {
       "key": "https://github.com/dereuromark/cakephp-menu",
       "name": "CakeMenu plugin",
       "url": "https://github.com/dereuromark/cakephp-menu",
@@ -1053,6 +1083,16 @@
       ]
     },
     {
+      "key": "https://github.com/orca-services/cakephp-swagger-ui",
+      "name": "SwaggerUi plugin",
+      "url": "https://github.com/orca-services/cakephp-swagger-ui",
+      "description": "A plugin for publishing Swagger UIs based on OpenAPI specification files.",
+      "section": [
+        "Plugins",
+        "REST and API"
+      ]
+    },
+    {
       "key": "https://github.com/cakephp/elastic-search",
       "name": "Cake/Elasticsearch plugin",
       "url": "https://github.com/cakephp/elastic-search",
@@ -1067,6 +1107,16 @@
       "name": "CakeDC/SearchFilter plugin",
       "url": "https://github.com/CakeDC/search-filter",
       "description": "Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.",
+      "section": [
+        "Plugins",
+        "Search"
+      ]
+    },
+    {
+      "key": "https://github.com/Crustum/explorator",
+      "name": "Crustum/Explorator plugin",
+      "url": "https://github.com/Crustum/explorator",
+      "description": "Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).",
       "section": [
         "Plugins",
         "Search"
@@ -1343,6 +1393,16 @@
       ]
     },
     {
+      "key": "https://github.com/orca-services/cakephp-data-validation-testing",
+      "name": "DataValidationTesting plugin",
+      "url": "https://github.com/orca-services/cakephp-data-validation-testing",
+      "description": "A plugin to help testing data validation.",
+      "section": [
+        "Plugins",
+        "Testing"
+      ]
+    },
+    {
       "key": "https://github.com/FriendsOfCake/fixturize",
       "name": "FriendsOfCake/Fixturize plugin",
       "url": "https://github.com/FriendsOfCake/fixturize",
@@ -1350,6 +1410,16 @@
       "section": [
         "Plugins",
         "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/Crustum/saloon",
+      "name": "Crustum/Saloon plugin",
+      "url": "https://github.com/Crustum/saloon",
+      "description": "Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.",
+      "section": [
+        "Plugins",
+        "Third Party APIs"
       ]
     },
     {

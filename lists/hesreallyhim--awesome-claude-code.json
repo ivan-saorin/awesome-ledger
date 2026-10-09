@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"141d02f304f66647fbb6f7aa35807ea2fac17cd4f5b1f4a833c28e8e78db4bf7\"",
+  "etag": "W/\"4cbd021244be4e628e9e2cc293a717eb5b7312db4afa8a3a1e21ef7e440936c8\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -396,6 +396,16 @@
       ]
     },
     {
+      "key": "https://github.com/tt-a1i/archify",
+      "name": "Archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "by tt-a1i - An Agent Skill for Claude Code that generates interactive architecture, workflow, sequence, data-flow, and lifecycle diagrams as standalone HTML. Typed JSON, local renderers, and delivery checks support source-linked node details, path tracing, themes, and export.",
+      "section": [
+        "Documentation, Knowledge & Learning",
+        "Data Visualization"
+      ]
+    },
+    {
       "key": "https://github.com/netresearch/claude-code-marketplace",
       "name": "Netresearch Agentic Skills",
       "url": "https://github.com/netresearch/claude-code-marketplace",
@@ -751,6 +761,15 @@
       "name": "Diagram Design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "by Cathryn Lavery - Another welcome contribution to the domain of making Claude Code output look stylish, this collection of skills produces a variety of editorial diagrams in the form of self-contained HTML + SVG. Although I never thought I'd hear these words together, according to the author: \"no Mermaid-slop.\"",
+      "section": [
+        "Design & UI/UX"
+      ]
+    },
+    {
+      "key": "https://github.com/neonwatty/logo-designer-skill",
+      "name": "Logo Designer Skill",
+      "url": "https://github.com/neonwatty/logo-designer-skill",
+      "description": "by neonwatty - Create and evolve SVG logos with Claude Code. Turns a project brief into distinct concepts you can compare side by side, then guides refinement, checks favicon legibility, and exports production-ready PNGs.",
       "section": [
         "Design & UI/UX"
       ]
@@ -1210,6 +1229,15 @@
       "name": "Harness",
       "url": "https://github.com/revfactory/harness",
       "description": "by revfactory - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Resources are in Korean but can produce high-quality English-language output.",
+      "section": [
+        "Agent Orchestration"
+      ]
+    },
+    {
+      "key": "https://github.com/mvschwarz/openrig",
+      "name": "OpenRig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "by Mike Schwarz - Combines Claude Code, Codex, and Pi terminal sessions into persistent long-running teams. Agents message each other directly over tmux and queue work to each other, instead of the user relaying messages. Teams and agents are saved as YAML files, and a running team can be snapshotted and restored later.",
       "section": [
         "Agent Orchestration"
       ]
@@ -1803,6 +1831,15 @@
       "name": "claude-code-zsh-completion",
       "url": "https://github.com/1160054/claude-code-zsh-completion",
       "description": "by 1160054 - Zsh completion for the Claude Code CLI. Dynamically completes sessions, MCP servers, agents, models and plugins from the user's configuration.",
+      "section": [
+        "Configuration"
+      ]
+    },
+    {
+      "key": "https://github.com/larcane97/clausona",
+      "name": "clausona",
+      "url": "https://github.com/larcane97/clausona",
+      "description": "by larcane97 - A CLI and TUI for running several Claude Code accounts on one machine. Each account gets its own config directory through a shell hook, keeping its own sign-in and history, while plugins, settings, skills, commands and agents are symlinked to one primary directory.",
       "section": [
         "Configuration"
       ]

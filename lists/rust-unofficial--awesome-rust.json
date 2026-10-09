@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e883d4802eecbc1d3ef075018ca714c8e80713933a7bb93c715b056db7eed8cd\"",
+  "etag": "W/\"218c87dcaa572f76cf2ab8b15ffe704fa4aafe11bd2769cdb9925bf9edecbec5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2827,6 +2827,16 @@
       ]
     },
     {
+      "key": "https://github.com/storytold/cadcraft",
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "description": "An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.",
+      "section": [
+        "Applications",
+        "Graphics"
+      ]
+    },
+    {
       "key": "https://crates.io/crates/valora",
       "name": "turnage/valora",
       "url": "https://crates.io/crates/valora",
@@ -2911,6 +2921,26 @@
       "name": "Sprite Fusion Pixel Snapper",
       "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
       "description": "A CLI and WebAssembly tool that cleans up AI-generated pixel art to get pixel-perfect pixel art sprites (MIT).",
+      "section": [
+        "Applications",
+        "Image processing"
+      ]
+    },
+    {
+      "key": "https://github.com/storytold/lightcraft",
+      "name": "storytold/lightcraft",
+      "url": "https://github.com/storytold/lightcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "section": [
+        "Applications",
+        "Image processing"
+      ]
+    },
+    {
+      "key": "https://github.com/storytold/vectorcraft",
+      "name": "storytold/vectorcraft",
+      "url": "https://github.com/storytold/vectorcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
       "section": [
         "Applications",
         "Image processing"
@@ -3451,6 +3481,16 @@
       "name": "bitrouter/bitrouter",
       "url": "https://github.com/bitrouter/bitrouter",
       "description": "[bitrouter] - Agent-native LLM router that optimizes your agent with every run with zero harness changes, making every model call reliable, traceable, secure, and cost-effective. Routes across OpenAI, Anthropic, Google, OpenRouter, Bedrock, GitHub Copilot, and more through a single local endpoint, with an MCP gateway, ACP integration, guardrails, observability, and multi-account failover.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/burakdede/aisw",
+      "name": "burakdede/aisw",
+      "url": "https://github.com/burakdede/aisw",
+      "description": "[aisw] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards",
       "section": [
         "Applications",
         "Productivity"
@@ -6391,6 +6431,16 @@
       "name": "Michael-A-Kuykendall/muxide",
       "url": "https://github.com/Michael-A-Kuykendall/muxide",
       "description": "[muxide] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.",
+      "section": [
+        "Applications",
+        "Video"
+      ]
+    },
+    {
+      "key": "https://github.com/storytold/effectcraft",
+      "name": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.",
       "section": [
         "Applications",
         "Video"
@@ -11962,6 +12012,16 @@
       "name": "datafusion",
       "url": "https://github.com/apache/datafusion",
       "description": "DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.",
+      "section": [
+        "Libraries",
+        "Data processing"
+      ]
+    },
+    {
+      "key": "https://github.com/faucet-hq/faucet-stream",
+      "name": "faucet-hq/faucet-stream",
+      "url": "https://github.com/faucet-hq/faucet-stream",
+      "description": "[faucet-core] - ETL that governs your data while it moves: a config-driven data-movement platform with pluggable source and sink connectors, CDC, in-flight masking and quality checks, run from YAML by a single binary or embedded as a library",
       "section": [
         "Libraries",
         "Data processing"

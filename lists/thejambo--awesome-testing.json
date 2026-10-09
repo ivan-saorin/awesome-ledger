@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"13a23ad1f21d1bb7cad2fcc9c123422a77e2349a7b382dd540c1a0a9bb111a46\"",
+  "etag": "W/\"86cba76dba4da205b9709cf96caa4d64d11c1e1c931862fdeecac143ac4e670d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -524,6 +524,16 @@
       ]
     },
     {
+      "key": "https://github.com/TestChimp/ai-wright",
+      "name": "ai-wright",
+      "url": "https://github.com/TestChimp/ai-wright",
+      "description": "Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://blastproof.dev",
       "name": "blastproof",
       "url": "https://blastproof.dev",
@@ -774,6 +784,16 @@
       ]
     },
     {
+      "key": "https://github.com/awss1i/assay",
+      "name": "assay",
+      "url": "https://github.com/awss1i/assay",
+      "description": "Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://github.com/kiwitcms/Kiwi",
       "name": "Kiwi TCMS",
       "url": "https://github.com/kiwitcms/Kiwi",
@@ -894,6 +914,16 @@
       ]
     },
     {
+      "key": "https://mailsocket.app",
+      "name": "mailsocket",
+      "url": "https://mailsocket.app",
+      "description": "Inbox API that waits for an email OTP or magic link and returns it as JSON, with Python and TypeScript SDKs and an MCP server.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
       "key": "https://github.com/getsynth/synth",
       "name": "Synth",
       "url": "https://github.com/getsynth/synth",
@@ -948,16 +978,6 @@
       "name": "FakeNamely",
       "url": "https://fakenamely.com",
       "description": "Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.",
-      "section": [
-        "Software",
-        "Test Data Management"
-      ]
-    },
-    {
-      "key": "https://jsonfabrica.com",
-      "name": "JsonFabrica",
-      "url": "https://jsonfabrica.com",
-      "description": "API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.",
       "section": [
         "Software",
         "Test Data Management"
@@ -1104,6 +1124,16 @@
       ]
     },
     {
+      "key": "https://ratemyapp.io/tools/app-testing-brief-builder",
+      "name": "RateMyApp Testing Brief Builder",
+      "url": "https://ratemyapp.io/tools/app-testing-brief-builder/",
+      "description": "Free, no-account tool for writing mobile usability-testing tasks, expected outcomes, and feedback instructions.",
+      "section": [
+        "Software",
+        "Accessibility & Usability Testing"
+      ]
+    },
+    {
       "key": "https://ratedwithai.com",
       "name": "RatedWithAI",
       "url": "https://ratedwithai.com",
@@ -1188,6 +1218,16 @@
       "name": "JMeterHub",
       "url": "https://www.jmeterhub.com",
       "description": "Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.",
+      "section": [
+        "Software",
+        "Performance & Load Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/AbdelrhmanHamouda/locust-k8s-operator",
+      "name": "Locust Kubernetes Operator",
+      "url": "https://github.com/AbdelrhmanHamouda/locust-k8s-operator",
+      "description": "Run distributed Locust load tests on Kubernetes with a LocustTest CRD.",
       "section": [
         "Software",
         "Performance & Load Testing"
@@ -1338,6 +1378,16 @@
       "name": "Captura",
       "url": "https://github.com/MathewSachin/Captura",
       "description": "Open-source video recording tool.",
+      "section": [
+        "Software",
+        "Screen Recording & Session Replays"
+      ]
+    },
+    {
+      "key": "https://everframe.dev",
+      "name": "Everframe",
+      "url": "https://everframe.dev",
+      "description": "In-app bug reporter for mobile, web and TV apps that attaches an annotated screenshot, console, network, device info and an optional replay of the moments before the bug.",
       "section": [
         "Software",
         "Screen Recording & Session Replays"

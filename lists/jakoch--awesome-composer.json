@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1596e063aebb41b149360384b09e327c373d344b68a88f181ad6e78a13ad9405\"",
+  "etag": "W/\"f9b4e97452ba4800f07f2073e140610d91d0e43285192eb7ecf46965acfa9bed\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -640,6 +640,15 @@
       ]
     },
     {
+      "key": "https://github.com/typisttech/wp-org-closed-plugin",
+      "name": "WP Org Closed Plugin",
+      "url": "https://github.com/typisttech/wp-org-closed-plugin",
+      "description": "Marks packages as abandoned if closed on WordPress.org.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://semver.madewithlove.com",
       "name": "Composer SemVer Checker",
       "url": "https://semver.madewithlove.com/",
@@ -743,6 +752,15 @@
       "name": "Composer Semver Range Checker",
       "url": "https://gitlab.com/MattyRad/composer.guru",
       "description": "A tool to help check the satisfiable ranges of a composer constraint.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/typisttech/composer-audit-to-sarif-action",
+      "name": "Composer Audit to SARIF Action",
+      "url": "https://github.com/typisttech/composer-audit-to-sarif-action",
+      "description": "Convert Composer audit reports to SARIF files on GitHub Actions.",
       "section": [
         "Tools"
       ]
@@ -1295,6 +1313,24 @@
       "name": "WordPress Packagist",
       "url": "https://wpackagist.org/",
       "description": "Mirrors the WordPress plugin and theme directories as a Composer repository.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://wp-packages.org",
+      "name": "WordPress Packages",
+      "url": "https://wp-packages.org/",
+      "description": "Composer repository for WordPress.org plugins and themes.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://github.com/typisttech/wpsecadv",
+      "name": "WP Sec Adv",
+      "url": "https://github.com/typisttech/wpsecadv",
+      "description": "Composer repository for WordPress security advisories.",
       "section": [
         "Packagist-compatible repositories"
       ]

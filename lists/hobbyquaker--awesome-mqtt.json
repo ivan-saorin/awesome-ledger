@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ac379d3285869b25381dccb77c2244cc49fcdd4fa2f31e3dd88076e3228c9ab1\"",
+  "etag": "W/\"0b1ae9e5e597f2256edd4b4ce2e42c33285697132bcdb83c99b21cc5c3ce9a16\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -894,6 +894,15 @@
       ]
     },
     {
+      "key": "https://spitfire.tr/en/guides/mqtt-load-testing",
+      "name": "Spitfire",
+      "url": "https://spitfire.tr/en/guides/mqtt-load-testing",
+      "description": "Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/menudoproblema/Wireshark-MQTT",
       "name": "Wireshark-MQTT",
       "url": "https://github.com/menudoproblema/Wireshark-MQTT",
@@ -1244,6 +1253,16 @@
       "section": [
         "Clients",
         "Ruby"
+      ]
+    },
+    {
+      "key": "https://github.com/aimdb-dev/aimdb",
+      "name": "AimDB",
+      "url": "https://github.com/aimdb-dev/aimdb",
+      "description": "Typed, versioned data contracts over MQTT from no_std microcontrollers (Embassy) to the cloud (Tokio), with schema migrations at the hub.",
+      "section": [
+        "Clients",
+        "Rust"
       ]
     },
     {
