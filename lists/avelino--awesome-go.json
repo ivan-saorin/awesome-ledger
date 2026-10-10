@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a63170e81be2f164cd03b84e200c93321a352b3e54e5f1b6f921ae7e347fae87\"",
+  "etag": "W/\"e9bbe9c96796ab2b205888ef4c60418ccf09cba5fed9aa0929715e0e95d11413\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -112,6 +112,15 @@
       ]
     },
     {
+      "key": "https://github.com/baalimago/clai",
+      "name": "clai",
+      "url": "https://github.com/baalimago/clai",
+      "description": "Agentic harness focused on terminal workflows, following UNIX principles. No external dependencies, ideal for scripting/prototyping agentic apps, engine is also exposed as a package.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "key": "https://github.com/lancekrogers/claude-code-go",
       "name": "claude-code-go",
       "url": "https://github.com/lancekrogers/claude-code-go",
@@ -143,15 +152,6 @@
       "name": "dakera-go",
       "url": "https://github.com/dakera-ai/dakera-go",
       "description": "Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.",
-      "section": [
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "key": "https://gitlab.com/tozd/go/fun",
-      "name": "fun",
-      "url": "https://gitlab.com/tozd/go/fun",
-      "description": "The simplest but powerful way to use large language models (LLMs) in Go.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -10866,6 +10866,15 @@
       ]
     },
     {
+      "key": "https://github.com/runwisp/runwisp",
+      "name": "RunWisp",
+      "url": "https://github.com/runwisp/runwisp",
+      "description": "Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI.",
+      "section": [
+        "Job Scheduler"
+      ]
+    },
+    {
       "key": "https://github.com/romshark/sched",
       "name": "sched",
       "url": "https://github.com/romshark/sched",
@@ -16883,6 +16892,15 @@
       "name": "certificates",
       "url": "https://github.com/mvmaasakkers/certificates",
       "description": "An opinionated tool for generating tls certificates.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/0x524a/certifier",
+      "name": "certifier",
+      "url": "https://github.com/0x524a/certifier",
+      "description": "Library and CLI for generating and validating X.509 certificates, certificate authorities, CRLs, and OCSP responses.",
       "section": [
         "Security"
       ]
@@ -23284,6 +23302,15 @@
       "name": "mpeg-ts-analyzer",
       "url": "https://github.com/small-teton/mpeg-ts-analyzer",
       "description": "Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.",
+      "section": [
+        "Video"
+      ]
+    },
+    {
+      "key": "https://github.com/0x524a/onvif-go",
+      "name": "onvif-go",
+      "url": "https://github.com/0x524a/onvif-go",
+      "description": "ONVIF client, WS-Discovery and virtual camera server for IP cameras.",
       "section": [
         "Video"
       ]

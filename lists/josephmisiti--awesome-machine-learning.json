@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"87434090da4250e5abd1146018d2609b915e7c47db17a8b012c2aef665a43ca5\"",
+  "etag": "W/\"ed0feaa67361f0190de7da72416d4627368df3b58d1363fea1105d91b22ac6b9\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -9391,6 +9391,16 @@
       "name": "EspNet",
       "url": "https://github.com/espnet/espnet",
       "description": "ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.",
+      "section": [
+        "Python",
+        "Speech Recognition"
+      ]
+    },
+    {
+      "key": "https://github.com/alexkroman/tiny-audio",
+      "name": "tiny-audio",
+      "url": "https://github.com/alexkroman/tiny-audio",
+      "description": "Minimal, hackable PyTorch/Hugging Face codebase for training LLM-based speech recognition by connecting a frozen pretrained speech encoder to a pretrained LLM through a small trained projector, with word timestamps, speaker diarization and a free course.",
       "section": [
         "Python",
         "Speech Recognition"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"76e869bd1572bb7557bfd805fad062ec27ddc573f61bf543a4bb581775c31308\"",
+  "etag": "W/\"553868b7dac6b5f1a8793ada5dfafd6dac8ca1ee6ba05b02a2ad20cfac8dbbd5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3241,6 +3241,17 @@
       "name": "FlexViz",
       "url": "https://github.com/flex-analytics/flexviz",
       "description": "Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.",
+      "section": [
+        "The Data Science Toolbox",
+        "Deep Learning Packages",
+        "Visualization Tools"
+      ]
+    },
+    {
+      "key": "https://pypi.org/project/cvdmaps",
+      "name": "cvdmaps",
+      "url": "https://pypi.org/project/cvdmaps/",
+      "description": "Colorblind-safe colormaps and color cycles for matplotlib. matplotlib's default cycle is not colorblind-safe; one call swaps it for an Okabe-Ito palette verified under protanopia, deuteranopia and tritanopia.",
       "section": [
         "The Data Science Toolbox",
         "Deep Learning Packages",
@@ -6846,6 +6857,16 @@
       "name": "US Tariff Data",
       "url": "https://github.com/checkdutyrates/us-tariff-data",
       "description": "The US Harmonized Tariff Schedule (about 30,000 lines with rates), chapter 99 additional duties by country (Section 301, 232 and others) and EU import duties by HS subheading and origin, refreshed with each HTS revision. CSV and JSON, no login, CC0 (US data) and OGL v3 (EU data), Zenodo DOI 10.5281/zenodo.23093989.",
+      "section": [
+        "Fun",
+        "Datasets"
+      ]
+    },
+    {
+      "key": "https://huggingface.co/datasets/first-point/tour-group-headset-rules",
+      "name": "Tour Group Headset and Loudspeaker Rules",
+      "url": "https://huggingface.co/datasets/first-point/tour-group-headset-rules",
+      "description": "198 written rules from 36 countries on how guided tour groups may be heard at museums, palaces, archaeological sites and historic city centres (headset requirements, loudspeaker bans), each checked against its official source. CSV and JSONL, CC-BY-4.0.",
       "section": [
         "Fun",
         "Datasets"

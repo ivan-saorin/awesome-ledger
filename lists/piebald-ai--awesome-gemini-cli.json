@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"56cf1529085fd5efbef7071f7e9ba5ffa5e904400c58c99c312674d7f97582ea\"",
+  "etag": "W/\"3d031a5c209c6ae91f642abcdb90716a66725740d9ba5db2abd2cd48d201bab5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -427,6 +427,42 @@
       ]
     },
     {
+      "key": "https://github.com/Kernel-Hunter/mudroom",
+      "name": "Mudroom",
+      "url": "https://github.com/Kernel-Hunter/mudroom",
+      "description": "Runs Gemini CLI, Claude Code, Codex, Aider and opencode inside a Linux micro-VM on a copy-on-write clone of your project, with a network allowlist and a pull-request-style diff review before changes are applied.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://drevon.dev",
+      "name": "Drevon",
+      "url": "https://www.drevon.dev",
+      "description": "Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Dv04/dhi-orbit",
+      "name": "DHI Orbit",
+      "url": "https://github.com/Dv04/dhi-orbit",
+      "description": "Local web dashboard that lists Gemini CLI and Antigravity chats alongside Claude Code, Codex and Cursor on one board, with what needs an answer and a reply box (gemini --resume <id> -p). Python standard library only, MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/stevehuang0115/crewly",
+      "name": "Crewly",
+      "url": "https://github.com/stevehuang0115/crewly",
+      "description": "MIT-licensed, local platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Gemini CLI, Claude Code, and Codex, with task delegation through agent skills, shared persistent memory, and a web dashboard of live agent terminals. Requires one of these agent CLIs installed and logged in.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
       "key": "https://github.com/hyhmrright/brooks-lint",
       "name": "brooks-lint",
       "url": "https://github.com/hyhmrright/brooks-lint",
@@ -809,6 +845,24 @@
       "name": "figma-maxxing",
       "url": "https://github.com/thiagoxikota/figma-maxxing",
       "description": "Gemini CLI extension with 8 skills for agents editing real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, and a handoff gate. Built on figma-console-mcp; 3 of the checks also ran once on Figma's official MCP server. MIT. Install via gemini extensions install https://github.com/thiagoxikota/figma-maxxing.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/RyanNSJ/notworking",
+      "name": "NotWorking",
+      "url": "https://github.com/RyanNSJ/notworking",
+      "description": "Downdetector for AI agents: a skill and remote MCP server that checks whether other agents report the same site, skill or MCP server failure, and takes failure reports. Install: gemini extensions install https://github.com/RyanNSJ/notworking.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/awss1i/assay",
+      "name": "assay",
+      "url": "https://github.com/awss1i/assay",
+      "description": "Deterministic QA for web pages, with a Gemini CLI skill. assay opens the page in Chromium with Playwright, drives every control, and reports where the page contradicts itself, with no LLM and the same result on every run. The skill tells Gemini CLI to run assay after it changes a page and report what it found. Install with pip install assay-ui, then add the skill file. MIT.",
       "section": [
         "Commands & Extensions"
       ]
@@ -1205,6 +1259,33 @@
       "name": "fakegreen",
       "url": "https://github.com/fitzyracing1/fakegreen",
       "description": "Deterministic diff checker with an AfterAgent hook (npx fakegreen install gemini) that denies the turn when the agent skipped or deleted tests, weakened assertions, added suppressions, special-cased the test environment or forced CI green with || true, and feeds the findings back so Gemini fixes them. No LLM or API key. MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/MajidRaimi/yoink",
+      "name": "yoink",
+      "url": "https://github.com/MajidRaimi/yoink",
+      "description": "Saves and switches Gemini CLI Google logins (oauth_creds.json and google_accounts.json) alongside Claude Code, Codex, Kimi Code and GitHub Copilot logins, from a CLI or a macOS menu bar app.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://macmdviewer.com",
+      "name": "MacMD Viewer",
+      "url": "https://macmdviewer.com",
+      "description": "Read-only Markdown viewer for macOS 14+ for the GEMINI.md and plan files Gemini CLI writes. Renders Mermaid diagrams and highlighted code, reloads when the file changes on disk, and adds Quick Look previews in Finder. Paid, $19.99 one-time.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/burakdede/aisw",
+      "name": "aisw",
+      "url": "https://github.com/burakdede/aisw",
+      "description": "Saves Gemini CLI logins and API keys as named profiles and switches the live ~/.gemini state in one command, alongside Claude Code, Codex CLI and Antigravity CLI. Docs: aiswitcher.dev.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -1714,10 +1795,64 @@
       ]
     },
     {
+      "key": "https://fxmacrodata.com",
+      "name": "FXMacroData",
+      "url": "https://fxmacrodata.com",
+      "description": "Official macroeconomic releases, central bank decisions, release calendars, FX rates and COT positioning for 22 currencies, with release timestamps and source links. Remote Streamable HTTP server; USD releases (last 90 days, 15-minute delay), the USD calendar and the USD catalogue work with no sign-in or API key, other currencies and FX rates need a key. Add with: gemini mcp add --transport http fxmacrodata https://mcp.fxmacrodata.com.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/masondelan/selvedge",
+      "name": "Selvedge",
+      "url": "https://github.com/masondelan/selvedge",
+      "description": "Local SQLite decision memory for Gemini CLI via stdio MCP, storing explicit decisions, reasons, and rejected approaches for retrieval across sessions. Setup: selvedge setup --agent gemini.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Shipped-Studio/unsora",
+      "name": "Unsora",
+      "url": "https://github.com/Shipped-Studio/unsora",
+      "description": "AI content generation and social media scheduling from Gemini CLI: generate images, video, music and voiceovers, clip long videos into short clips, and schedule or publish posts to YouTube, TikTok, Instagram, Facebook, LinkedIn, Bluesky, Threads and Pinterest. Official open-source MCP server (AGPL-3.0, in apps/mcp), hosted as remote Streamable HTTP with OAuth sign-in or an API key. Paid plans from $19/month with a 3-day free trial. Add with: gemini mcp add --transport http unsora https://mcp.tryunsora.com/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
       "key": "https://github.com/negm17111995/mcp-server",
       "name": "MAQAMI Travel",
       "url": "https://github.com/negm17111995/mcp-server",
-      "description": "Hotel and flight search and booking from Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then prebook and book a chosen offer after the user confirms. Remote Streamable HTTP (https://mcp.maqami.co/), no sign-in or API key. Install: gemini extensions install https://github.com/negm17111995/mcp-server.",
+      "description": "Hotel and flight search and booking from Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then send the customer a secure checkout link on book.maqami.co for the offer they choose. Remote Streamable HTTP (https://mcp.maqami.co/), no sign-in or API key. Install: gemini extensions install https://github.com/negm17111995/mcp-server.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/loootai/looot-mcp",
+      "name": "looot",
+      "url": "https://github.com/loootai/looot-mcp",
+      "description": "Remote MCP server (OAuth sign-in) that searches, prices and runs 2,500+ data API endpoints from 90+ providers (emails, phones, company and people search, Google results, web pages) on one prepaid balance. Ships a Gemini CLI extension manifest.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server",
+      "name": "BulkPublish",
+      "url": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server",
+      "description": "Draft, schedule, cross-post and analyze social media posts on 15 platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more) from Gemini CLI. Hosted Streamable HTTP with OAuth sign-in, or local stdio via npx -y @bulkpublish/mcp-server with an API key; free plan available. MIT. Add with: gemini mcp add --transport http bulkpublish https://mcp.bulkpublish.com/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://docs.datacircle.dev/mcp-server",
+      "name": "Datacircle",
+      "url": "https://docs.datacircle.dev/mcp-server",
+      "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Add with: gemini mcp add --transport http datacircle https://api.datacircle.dev/mcp.",
       "section": [
         "MCP Servers"
       ]
