@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"49266712245afe75ddaad11e25aa4aef328ed8a28a0e1a404ba17bde8ee9c4e8\"",
+  "etag": "W/\"51a54042be13f7d63d9fa2bf1f27518ed241c50473cf48fd5395811d29b0bf09\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2084,6 +2084,15 @@
       ]
     },
     {
+      "key": "https://github.com/jnnrgd/certview",
+      "name": "certview",
+      "url": "https://github.com/jnnrgd/certview",
+      "description": "Fast inspection and verification of X.509 certificates, CSRs, and cryptographic keys (RSA, ECC, Ed25519) in both PEM and DER formats.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/mtxr/zsh-change-case",
       "name": "change-case",
       "url": "https://github.com/mtxr/zsh-change-case",
@@ -2610,6 +2619,15 @@
       "name": "ddev",
       "url": "https://github.com/voronkovich/ddev.plugin.zsh",
       "description": "A ZSH plugin for the ddev tool for setting up PHP development environments.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tmiland/oh-my-zsh-debian",
+      "name": "debian",
+      "url": "https://github.com/tmiland/oh-my-zsh-debian",
+      "description": "Provides Debian-related aliases and functions. Forked from the oh-my-zsh debian plugin.",
       "section": [
         "Plugins"
       ]
@@ -4167,15 +4185,6 @@
       "name": "git-fuzzy",
       "url": "https://github.com/bigH/git-fuzzy",
       "description": "A CLI interface to git that relies heavily on fzf.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
-      "key": "https://github.com/sharif3271/git-gen",
-      "name": "git-gen",
-      "url": "https://github.com/sharif3271/git-gen",
-      "description": "Handle git bulk branch delete and create operations.",
       "section": [
         "Plugins"
       ]
@@ -5855,6 +5864,15 @@
       ]
     },
     {
+      "key": "https://github.com/freddi-kit/zsh-ls-branch-label",
+      "name": "ls-branch-label",
+      "url": "https://github.com/freddi-kit/zsh-ls-branch-label",
+      "description": "Shows the current git branch next to repository directories when you run a plain ls.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/tankeryang/zsh-lsd",
       "name": "lsd (tankeryang)",
       "url": "https://github.com/tankeryang/zsh-lsd",
@@ -7394,6 +7412,15 @@
       ]
     },
     {
+      "key": "https://github.com/loudoncloud/pratchett",
+      "name": "pratchett",
+      "url": "https://github.com/loudoncloud/pratchett",
+      "description": "Displays a random Terry Pratchett quote from the Discworld novels, copied verbatim from Wikiquote. Includes a quote of the day, filtering by book, search, and tab completion; DEATH delivers his own lines if cowsay is installed.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/idadzie/zsh-presenter-mode",
       "name": "presenter-mode",
       "url": "https://github.com/idadzie/zsh-presenter-mode",
@@ -7947,6 +7974,15 @@
       "name": "revolver",
       "url": "https://github.com/molovo/revolver",
       "description": "A progress spinner for ZSH scripts.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/tamia6/rfig",
+      "name": "rfig",
+      "url": "https://github.com/tamia6/rfig",
+      "description": "Adds command completion menus and directory-scoped history autosuggestions to ZSH, Bash and Fish on macOS and Linux. Written in Rust.",
       "section": [
         "Plugins"
       ]
@@ -10422,6 +10458,15 @@
       "name": "zconvey",
       "url": "https://github.com/zdharma-continuum/zconvey",
       "description": "Adds ability to send commands to other ZSH sessions, you can use this to cd $PWD on all active ZSH sessions, for example.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/landerox/zdx-suite",
+      "name": "zdx-suite",
+      "url": "https://github.com/landerox/zdx-suite",
+      "description": "Interactive, fzf-powered developer workflows and a custom plugin loader for ZSH, built for oh-my-zsh.",
       "section": [
         "Plugins"
       ]
@@ -19125,6 +19170,15 @@
       "name": "parrot",
       "url": "https://github.com/trabdlkarim/parrot-zsh-theme",
       "description": "Based on Parrot OS bash theme. Includes decorators for user@host, git information, exit status of last command, time and current directory.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/epicseven-cup/partner-theme-zsh",
+      "name": "partner",
+      "url": "https://github.com/epicseven-cup/partner-theme-zsh",
+      "description": "Theme where every git branch hatches its own pet. Your pet evolves as you commit on the branch, so your prompt shows how much work you've put in. Includes decorators for git branch and current directory.",
       "section": [
         "Themes"
       ]

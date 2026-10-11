@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5ecdd297a07c06f86d511ca10c30aa6e1eec16c5a218e85066f2cadbe0dc9611\"",
+  "etag": "W/\"a0d8e9c1d9f3824b33dd79936d52d9fe6839a2892f617e488d485809e73c7ee3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1934,6 +1934,15 @@
       "name": "junction",
       "url": "https://github.com/preshing/junction",
       "description": "A library of concurrent data structures in C++. [BSD]",
+      "section": [
+        "Concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/vincent212/kaspar-hft",
+      "name": "Kaspar-HFT",
+      "url": "https://github.com/vincent212/kaspar-hft",
+      "description": "A C++20 actor framework and trading system with synchronous message delivery (fast_send), order-book reconstruction and a queue-exact replay simulator. [MIT]",
       "section": [
         "Concurrency"
       ]
@@ -4913,6 +4922,15 @@
       "name": "FreeImage",
       "url": "https://freeimage.sourceforge.net/",
       "description": "An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]",
+      "section": [
+        "Image Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/agruzdev/FreeImageRe",
+      "name": "FreeImageRe",
+      "url": "https://github.com/agruzdev/FreeImageRe",
+      "description": "A fork of FreeImage to support latest image codecs and adjust for modern compilers. All original formats and plugins are maintained. [GPLv2, GPLv3, FIPL]",
       "section": [
         "Image Processing"
       ]

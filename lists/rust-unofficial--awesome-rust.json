@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"218c87dcaa572f76cf2ab8b15ffe704fa4aafe11bd2769cdb9925bf9edecbec5\"",
+  "etag": "W/\"6cbe7b85ea8936d243cf148c9e8c7f66c53ac4a5e76952c1f25f27ad33cbc9fd\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -386,6 +386,15 @@
       "name": "OxideTerm",
       "url": "https://github.com/AnalyseDeCircuit/oxideterm",
       "description": "A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/pelazas/p2pmux",
+      "name": "pelazas/p2pmux",
+      "url": "https://github.com/pelazas/p2pmux",
+      "description": "[p2pmux] - Peer-to-peer terminal multiplexer for macOS and Linux where multiple users and machines join the same session; every pane is a real shell on the machine of whoever opened it",
       "section": [
         "Applications"
       ]
@@ -4367,6 +4376,16 @@
       ]
     },
     {
+      "key": "https://github.com/shleder/vetto",
+      "name": "shleder/vetto",
+      "url": "https://github.com/shleder/vetto",
+      "description": "[vetto] - Daemon-less, sub-4ms cold start kernel sandbox for AI coding agents (Landlock, seccomp, namespaces)",
+      "section": [
+        "Applications",
+        "Security tools"
+      ]
+    },
+    {
       "key": "https://github.com/ssh-vault/ssh-vault",
       "name": "ssh-vault",
       "url": "https://github.com/ssh-vault/ssh-vault",
@@ -5511,6 +5530,16 @@
       "name": "mathall/rim",
       "url": "https://github.com/mathall/rim",
       "description": "Vim-like text editor.",
+      "section": [
+        "Applications",
+        "Text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/Oleafly/Oleafly",
+      "name": "Oleafly/Oleafly",
+      "url": "https://github.com/Oleafly/Oleafly",
+      "description": "A desktop editor for writing papers and theses in LaTeX, Typst and Markdown, with a built-in Tectonic engine and live PDF preview. Built with Tauri.",
       "section": [
         "Applications",
         "Text editors"
@@ -6717,6 +6746,16 @@
       ]
     },
     {
+      "key": "https://github.com/ferronweb/ferron",
+      "name": "ferronweb/ferron",
+      "url": "https://github.com/ferronweb/ferron",
+      "description": "A fast, modern web server built for production debugging.",
+      "section": [
+        "Applications",
+        "Web Servers"
+      ]
+    },
+    {
       "key": "https://github.com/bytedance/g3",
       "name": "g3proxy",
       "url": "https://github.com/bytedance/g3",
@@ -7723,6 +7762,16 @@
       "name": "SiegeLord/RustCMake",
       "url": "https://github.com/SiegeLord/RustCMake",
       "description": "an example project showing usage of CMake with Rust",
+      "section": [
+        "Development tools",
+        "Build system"
+      ]
+    },
+    {
+      "key": "https://github.com/euv-dev/euv",
+      "name": "euv-cli",
+      "url": "https://github.com/euv-dev/euv",
+      "description": "[euv-cli] - The official CLI tool for the euv UI framework, providing dev/release profiles with run/build modes, hot reload, and wasm-pack integration.",
       "section": [
         "Development tools",
         "Build system"
@@ -8949,6 +8998,16 @@
       ]
     },
     {
+      "key": "https://github.com/MykytaStel/repopilot",
+      "name": "MykytaStel/repopilot",
+      "url": "https://github.com/MykytaStel/repopilot",
+      "description": "[repopilot] - Local, deterministic review of Git changes, including AI-agent edits: weakened tests and checks, callers broken by removed APIs, and risky boundary changes; CLI, MCP server and agent hooks",
+      "section": [
+        "Development tools",
+        "Static analysis"
+      ]
+    },
+    {
       "key": "https://github.com/safer-rust/RAPx",
       "name": "RAPx",
       "url": "https://github.com/safer-rust/RAPx",
@@ -9947,6 +10006,17 @@
       "name": "juyterman1000/entroly",
       "url": "https://github.com/juyterman1000/entroly",
       "description": "Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.",
+      "section": [
+        "Libraries",
+        "Artificial Intelligence",
+        "Tooling"
+      ]
+    },
+    {
+      "key": "https://github.com/Mattbusel/tokio-prompt-orchestrator",
+      "name": "Mattbusel/tokio-prompt-orchestrator",
+      "url": "https://github.com/Mattbusel/tokio-prompt-orchestrator",
+      "description": "[tokio-prompt-orchestrator] - Tokio pipeline for serving LLM requests with dedup, circuit breakers, retries, rate limits and a dead-letter queue in front of Anthropic, OpenAI, llama.cpp or vLLM.",
       "section": [
         "Libraries",
         "Artificial Intelligence",
@@ -14932,16 +15002,6 @@
       "name": "emoon/rust_minifb",
       "url": "https://github.com/emoon/rust_minifb",
       "description": "minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/euv-dev/euv",
-      "name": "euv-dev/euv",
-      "url": "https://github.com/euv-dev/euv",
-      "description": "[euv] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly.",
       "section": [
         "Libraries",
         "GUI"

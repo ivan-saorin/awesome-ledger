@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1c52a0c4e7025c19a69a4229f056ad306d23052aa387d8763e7f62ed7528be28\"",
+  "etag": "W/\"9ad51801479ad8dbe84a7e771f838912746dab2da22dd7e94fe8da9fa6b10136\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1315,7 +1315,7 @@
     },
     {
       "key": "https://dial.uclouvain.be/memoire/ucl/en/object/thesis:25193",
-      "name": "Building a smart and automated tool for packed malware detections using machine learning",
+      "name": "Building a smart and automated tool for packed malware detection using machine learning",
       "url": "https://dial.uclouvain.be/memoire/ucl/en/object/thesis:25193",
       "description": "(June 2020)",
       "section": [
@@ -3007,7 +3007,7 @@
       "key": "https://linkinghub.elsevier.com/retrieve/pii/S0020025511004336",
       "name": "Opcode sequences as representation of executables for data-mining-based unknown malware detection",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0020025511004336",
-      "description": "(May 2013) :star:",
+      "description": "(May 2013)",
       "section": [
         ":books: Literature",
         "Scientific Research"
@@ -3144,6 +3144,16 @@
       ]
     },
     {
+      "key": "https://link.springer.com/article/10.1186/s42400-025-00416-y",
+      "name": "A packer identification method based on section-entropy plot",
+      "url": "https://link.springer.com/article/10.1186/s42400-025-00416-y",
+      "description": "(February 2026) :star:",
+      "section": [
+        ":books: Literature",
+        "Scientific Research"
+      ]
+    },
+    {
       "key": "https://ieeexplore.ieee.org/document/9366089",
       "name": "Packer identification method for multi-layer executables with k-Nearest neighbor of entropies",
       "url": "https://ieeexplore.ieee.org/document/9366089",
@@ -3208,6 +3218,16 @@
       "name": "Packing detection and classification relying on machine learning to stop malware propagation",
       "url": "https://theses.hal.science/tel-03781104",
       "description": "(December 2021) :star:",
+      "section": [
+        ":books: Literature",
+        "Scientific Research"
+      ]
+    },
+    {
+      "key": "https://ieeexplore.ieee.org/abstract/document/11395794",
+      "name": "Packing induced bias in deep learning malware classifiers: A systematic experimental study",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11395794",
+      "description": "(February 2026)",
       "section": [
         ":books: Literature",
         "Scientific Research"
@@ -4107,7 +4127,7 @@
       "key": "https://dl.acm.org/doi/10.1145/3243734.3243827",
       "name": "VMHunt: A verifiable approach to partially-virtualized binary code simplification",
       "url": "https://dl.acm.org/doi/10.1145/3243734.3243827",
-      "description": "(October 2018) :star:",
+      "description": "(October 2018)",
       "section": [
         ":books: Literature",
         "Scientific Research"
@@ -4907,6 +4927,16 @@
       ]
     },
     {
+      "key": "https://github.com/HimitsuShell/HimitsuShell",
+      "name": "HimitsuShell",
+      "url": "https://github.com/HimitsuShell/HimitsuShell",
+      "description": "A shell script protector that converts shell scripts into binaries with an embedded interpreter, obfuscation, and anti-debug protections (shc alternative).",
+      "section": [
+        ":package: Packers",
+        "After 2010"
+      ]
+    },
+    {
       "key": "https://github.com/rurararura/hXOR-Packer",
       "name": "hXOR-Packer",
       "url": "https://github.com/rurararura/hXOR-Packer",
@@ -4950,7 +4980,7 @@
       "key": "https://github.com/johnsonjh/lzpack",
       "name": "LZPACK",
       "url": "https://github.com/johnsonjh/lzpack",
-      "description": "LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
+      "description": "PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.",
       "section": [
         ":package: Packers",
         "After 2010"
@@ -7407,6 +7437,15 @@
       "name": "Winbindex",
       "url": "https://github.com/m417z/winbindex",
       "description": "An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.",
+      "section": [
+        ":wrench: Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/horsicq/XVolkolak",
+      "name": "XVolkolak",
+      "url": "https://github.com/horsicq/XVolkolak",
+      "description": "Qt/CMake emulator-unpacker project with a GUI and a console application.",
       "section": [
         ":wrench: Tools"
       ]

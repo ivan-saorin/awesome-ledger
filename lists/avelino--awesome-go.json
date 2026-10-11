@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e9bbe9c96796ab2b205888ef4c60418ccf09cba5fed9aa0929715e0e95d11413\"",
+  "etag": "W/\"97c4ea9f7f78bbf60be3f547fb2b5c58a4fecaafc14c8f8f8aa4317399cd48d3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1429,6 +1429,16 @@
       "name": "ctc",
       "url": "https://github.com/wzshiming/ctc",
       "description": "The non-invasive cross-platform terminal color library does not need to modify the Print method.",
+      "section": [
+        "Command Line",
+        "Advanced Console UIs"
+      ]
+    },
+    {
+      "key": "https://github.com/tech-thinker/eyez",
+      "name": "eyez",
+      "url": "https://github.com/tech-thinker/eyez",
+      "description": "eyez is a handy CLI tool that lets you view images directly in your terminal, with support for most terminal emulators.",
       "section": [
         "Command Line",
         "Advanced Console UIs"
@@ -15341,6 +15351,15 @@
       ]
     },
     {
+      "key": "https://github.com/tech-thinker/telepath",
+      "name": "telepath",
+      "url": "https://github.com/tech-thinker/telepath",
+      "description": "telepath is a powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.",
+      "section": [
+        "Networking"
+      ]
+    },
+    {
       "key": "https://github.com/two/tspool",
       "name": "tspool",
       "url": "https://github.com/two/tspool",
@@ -23316,6 +23335,15 @@
       ]
     },
     {
+      "key": "https://github.com/0x524a/rtspeek",
+      "name": "rtspeek",
+      "url": "https://github.com/0x524a/rtspeek",
+      "description": "Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions.",
+      "section": [
+        "Video"
+      ]
+    },
+    {
       "key": "https://github.com/korandiz/v4l",
       "name": "v4l",
       "url": "https://github.com/korandiz/v4l",
@@ -24720,6 +24748,15 @@
       "name": "goast-viewer",
       "url": "https://github.com/yuroyoro/goast-viewer",
       "description": "Web based Golang AST visualizer.",
+      "section": [
+        "Code Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/abemedia/gocondense",
+      "name": "gocondense",
+      "url": "https://github.com/abemedia/gocondense",
+      "description": "A gofmt-compatible formatter that condenses multi-line constructs onto single lines where they fit.",
       "section": [
         "Code Analysis"
       ]

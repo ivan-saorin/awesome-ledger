@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3d031a5c209c6ae91f642abcdb90716a66725740d9ba5db2abd2cd48d201bab5\"",
+  "etag": "W/\"c1207c9ff35ec553a8d11be5b90c46d8fdf6f3112d0e7aa19f43fdf660466362\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1291,6 +1291,24 @@
       ]
     },
     {
+      "key": "https://github.com/GeiserX/LynxPrompt",
+      "name": "LynxPrompt",
+      "url": "https://github.com/GeiserX/LynxPrompt",
+      "description": "Self-hosted web app that turns one set of AI coding rules into the file each tool reads: Gemini CLI's GEMINI.md, AGENTS.md, CLAUDE.md, Cursor rules and Copilot instructions, 30 rule-file formats in all. Blueprints carry variables so a team shares one set across projects, and the lynxp CLI writes the files into each repository. AGPL-3.0.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/maximilianfeix/spillage",
+      "name": "spillage",
+      "url": "https://github.com/maximilianfeix/spillage",
+      "description": "Finds API keys in the chats, logs and checkpoints Gemini CLI keeps under ~/.gemini/tmp and in the MCP servers of ~/.gemini/settings.json, redacts them in place, and installs BeforeAgent / BeforeTool / SessionEnd hooks (spillage guard install) that block a prompt with a key in it and reads of .env. Python, no dependencies, no network; also covers Claude Code, Codex CLI and Cursor.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -1853,6 +1871,33 @@
       "name": "Datacircle",
       "url": "https://docs.datacircle.dev/mcp-server",
       "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Add with: gemini mcp add --transport http datacircle https://api.datacircle.dev/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/qrxcodes/qrx-mcp",
+      "name": "QRX",
+      "url": "https://github.com/qrxcodes/qrx-mcp",
+      "description": "Turn a text prompt and a link into an artistic, branded QR code from Gemini CLI. Each code is checked to scan before it is returned and uses a hosted qrx.to short link. Remote Streamable HTTP with OAuth sign-in or an API key, or local stdio via npx -y @qrxcodes/mcp. MIT. Add with: gemini mcp add --transport http qrx https://qrx.codes/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+      "name": "Tapetide MCP",
+      "url": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+      "description": "Indian stock market data for Gemini CLI: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings for about 8,200 NSE and BSE stocks. Remote Streamable HTTP with OAuth or a free personal token, or local stdio via npx -y tapetide-mcp; free plan available. MIT. Install: gemini extensions install https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Parallel-Platforms/hootlens-mcp",
+      "name": "Hoot Lens",
+      "url": "https://github.com/Parallel-Platforms/hootlens-mcp",
+      "description": "Session replays and click heatmaps from real website visits. Find clicks that broke, jump to the JavaScript error and source line, and check whether a fix helped. Remote with OAuth (httpUrl: https://mcp.hootlens.com/mcp) or local with npx -y @hootlens/mcp. Demo with sample data, no sign-in: https://mcp.hootlens.com/demo.",
       "section": [
         "MCP Servers"
       ]

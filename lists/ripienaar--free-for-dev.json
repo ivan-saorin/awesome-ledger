@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"79a8ad8e7ad396ff4ccced5b6ebe54c76b18fe81afa159ab07c60f5bd9c66518\"",
+  "etag": "W/\"e3b24cfedb66361f2fbadb6c119f068ce5d76cb54bb567e12bb08df6d4d4571c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1430,6 +1430,15 @@
       "name": "ip2geo.dev",
       "url": "https://ip2geo.dev",
       "description": "IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.",
+      "section": [
+        "APIs, Data, and ML"
+      ]
+    },
+    {
+      "key": "https://ip99.com",
+      "name": "IP99",
+      "url": "https://ip99.com/",
+      "description": "IP risk and geolocation API with passive DNS and certificate transparency. Free without a key: 500 IP lookups/day; 10 domain/cert trial lookups/day.",
       "section": [
         "APIs, Data, and ML"
       ]
@@ -7522,7 +7531,7 @@
       "key": "https://ownkube.io",
       "name": "Ownkube",
       "url": "https://ownkube.io",
-      "description": "Free single-node k3s in your own AWS account, run apps, databases, workers with a git push. Use your AWS credits at peak efficiency.",
+      "description": "A cloud for personal software. Deploy apps, workers, jobs and managed databases with your coding agent, on prepaid credit from $5 that never expires. Free tier: the Starter plan runs everything on one instance in your own AWS account, no credit card needed (you pay AWS for the instance).",
       "section": [
         "PaaS"
       ]

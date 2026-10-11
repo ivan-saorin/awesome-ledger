@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4cbd021244be4e628e9e2cc293a717eb5b7312db4afa8a3a1e21ef7e440936c8\"",
+  "etag": "W/\"c8bc8f9d9ead5e89b0dc9ce808ee3d2eb6d98d0e9c6ddc14f0811d20fdda0bd3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -442,6 +442,15 @@
       ]
     },
     {
+      "key": "https://github.com/Oldcircle/geo-sleuth",
+      "name": "geo-sleuth",
+      "url": "https://github.com/Oldcircle/geo-sleuth",
+      "description": "by Oldcircle - An agent skill that geolocates a photo with no readable text. Single-purpose Python scripts search and rank candidates using OpenStreetMap geometry, elevation skylines, satellite imagery and street view. The answer comes with a camera position, heading, error radius and an evidence image. NOTE: Scripts involve contact with Baidu and Yandex.",
+      "section": [
+        "Research & Scientific Inquiry"
+      ]
+    },
+    {
       "key": "https://github.com/pedrohcgs/claude-code-my-workflow",
       "name": "My Claude Code Setup",
       "url": "https://github.com/pedrohcgs/claude-code-my-workflow",
@@ -451,10 +460,28 @@
       ]
     },
     {
+      "key": "https://github.com/automatis-tools/agents-can-communicate",
+      "name": "Agents Can Communicate (ACC)",
+      "url": "https://github.com/automatis-tools/agents-can-communicate",
+      "description": "by Mykola Maksymenko - Local, multi-provider agent communication tool. Adds hooks and a skill to exchange questions and reviews, and saves decisions, verification results and handoffs for later sessions. Each session keeps its own client, model, conversation and permissions.",
+      "section": [
+        "Providers, Runtime & Integration Infrastructure"
+      ]
+    },
+    {
       "key": "https://github.com/EndeavorYen/chrome-cdp-ex",
       "name": "chrome-cdp-ex",
       "url": "https://github.com/EndeavorYen/chrome-cdp-ex",
       "description": "by Endeavor Yen - A zero-dependency Claude Code skill (68 commands) that connects to your real Chrome — logged-in tabs, cookies, live page state — to give the agent a perception layer: layout, visible styles, per-action \"what changed\" evidence, CSS-cascade-to-source tracing, and session replay/Playwright export. Notably rigorous about its own claims, with a dogfood benchmark gate that blocks performance/adoption assertions unless it passes.",
+      "section": [
+        "Providers, Runtime & Integration Infrastructure"
+      ]
+    },
+    {
+      "key": "https://github.com/nicedreamzapp/claude-code-local",
+      "name": "Claude Code Local",
+      "url": "https://github.com/nicedreamzapp/claude-code-local",
+      "description": "by Matt Macosko - Runs Claude Code fully on-device on Apple Silicon: a native MLX server speaks the Anthropic Messages API, so the unmodified claude CLI works against local Qwen, Gemma and Llama models with no cloud calls. Includes RAM-based model selection, a tool-call parser for local models' output formats, and a verified-offline mode.",
       "section": [
         "Providers, Runtime & Integration Infrastructure"
       ]
@@ -518,6 +545,15 @@
       "name": "OpenWeb",
       "url": "https://github.com/openweb-org/openweb",
       "description": "by openweb-org - An agent-native skill that accesses 90+ websites by calling their underlying APIs directly (typed JSON in, JSON out) instead of screenshotting and parsing the DOM, with auth auto-resolved locally from your existing browser session. Security is first-class — every operation is tagged read/write/delete/transact behind permission tiers, SSRF protection runs on each request, and there is no vendor backend or proxy in the request path.",
+      "section": [
+        "Providers, Runtime & Integration Infrastructure"
+      ]
+    },
+    {
+      "key": "https://github.com/prassanna-ravishankar/repowire",
+      "name": "Repowire",
+      "url": "https://github.com/prassanna-ravishankar/repowire",
+      "description": "by Prassanna Ravishankar - A live mesh network that connects Claude Code and other providers so they can talk to each other in real time. Built for emergent coordination. Agents discover each other and share context across project boundaries. Uses tmux sessions as the coordination layer with logical \"circles\" for peer isolation. Includes a web dashboard and Telegram bot.",
       "section": [
         "Providers, Runtime & Integration Infrastructure"
       ]
@@ -703,6 +739,15 @@
       ]
     },
     {
+      "key": "https://github.com/gwittebolle/claude-carbon",
+      "name": "claude-carbon",
+      "url": "https://github.com/gwittebolle/claude-carbon",
+      "description": "by Gaëtan Wittebolle - Tracks the carbon footprint of Claude Code sessions, feautring a live CO2 estimate in the status line, computed locally from token usage, next to the session cost.",
+      "section": [
+        "Status Lines"
+      ]
+    },
+    {
       "key": "https://github.com/kumamaki/Claude-Code-Personalities",
       "name": "claude-code-personalities",
       "url": "https://github.com/kumamaki/Claude-Code-Personalities",
@@ -748,6 +793,24 @@
       ]
     },
     {
+      "key": "https://github.com/EthanY33/atelier",
+      "name": "atelier",
+      "url": "https://github.com/EthanY33/atelier",
+      "description": "by Ethan Yucetepe - Claude Code plugin with eight design-automation skills driven by one schema-validated brand.json: design tokens for CSS, Tailwind, TypeScript and Figma, social cards, favicon and app-icon sets, responsive AVIF and WebP images, HTML-to-video recording, a WCAG 2.1 AA audit, and a runtime UX audit covering bfcache, INP, dialogs and mobile viewports.",
+      "section": [
+        "Design & UI/UX"
+      ]
+    },
+    {
+      "key": "https://github.com/szymdzum/browser-debugger-cli",
+      "name": "bdg (Browser Debugger CLI)",
+      "url": "https://github.com/szymdzum/browser-debugger-cli",
+      "description": "by szymdzum - A CLI and Claude Code skill for UI debugging in Chrome using the DevTools Protocol, including DOM inspection, browser events, rendered styles, and detailed layout information.",
+      "section": [
+        "Design & UI/UX"
+      ]
+    },
+    {
       "key": "https://github.com/SawyerHood/dev-browser",
       "name": "Dev Browser",
       "url": "https://github.com/SawyerHood/dev-browser",
@@ -770,6 +833,15 @@
       "name": "Logo Designer Skill",
       "url": "https://github.com/neonwatty/logo-designer-skill",
       "description": "by neonwatty - Create and evolve SVG logos with Claude Code. Turns a project brief into distinct concepts you can compare side by side, then guides refinement, checks favicon legibility, and exports production-ready PNGs.",
+      "section": [
+        "Design & UI/UX"
+      ]
+    },
+    {
+      "key": "https://github.com/gowtham012/pinpoint",
+      "name": "Pinpoint",
+      "url": "https://github.com/gowtham012/pinpoint",
+      "description": "by gowtham012 - Local MCP server, Claude Code hooks and a Chrome extension for marking up a running app: clicking an element (or one in the iOS Simulator) and typing a change delivers the comment to Claude Code with the selector, DOM path, computed styles, component chain, source-file hint and a cropped screenshot.",
       "section": [
         "Design & UI/UX"
       ]
@@ -874,6 +946,15 @@
       ]
     },
     {
+      "key": "https://github.com/danjdewhurst/story-skills",
+      "name": "Story Skills",
+      "url": "https://github.com/danjdewhurst/story-skills",
+      "description": "by Daniel Dewhurst - Skills for planning and drafting fiction as markdown with YAML frontmatter: story bible, characters, worldbuilding, arcs, scenes, and chapters. Includes a dependency-free CLI whose continuity checker flags characters appearing after their death, payoffs placed before their setup, and stale story state.",
+      "section": [
+        "Writing & Prose Quality"
+      ]
+    },
+    {
       "key": "https://github.com/elithril/blender-kiln",
       "name": "blender-kiln",
       "url": "https://github.com/elithril/blender-kiln",
@@ -923,6 +1004,15 @@
       "name": "cc-devops-skills",
       "url": "https://github.com/akin-ozer/cc-devops-skills",
       "description": "by akin-ozer - Immensely detailed set of skills for DevOps Engineers (or anyone who has to deploy code, really). Works with validations, generators, shell scripts and CLI tools to create high quality IaC code for about any platform you've ever struggled painfully to work with. Worth downloading even just as a source of documentation.",
+      "section": [
+        "Infrastructure & DevOps"
+      ]
+    },
+    {
+      "key": "https://github.com/metalbear-co/skills",
+      "name": "mirrord",
+      "url": "https://github.com/metalbear-co/skills",
+      "description": "by MetalBear - Agent skills and a Claude Code plugin marketplace for mirrord, which runs a local process inside a live Kubernetes cluster's network, environment and traffic. Lets Claude verify changes against real services, databases and queues instead of mocks, with skills for config, CI, database branching, Kafka queue splitting and preview environments.",
       "section": [
         "Infrastructure & DevOps"
       ]
@@ -1072,6 +1162,15 @@
       ]
     },
     {
+      "key": "https://github.com/safedep/gryph",
+      "name": "Gryph",
+      "url": "https://github.com/safedep/gryph",
+      "description": "by SafeDep - Gryph is a security layer for AI coding agents. It hooks into Claude Code and enforces YAML policy rules that block, warn, or guide actions in real time, then logs every event to a local SQLite database for review and audit.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/katspaugh/machine",
       "name": "machine",
       "url": "https://github.com/katspaugh/machine",
@@ -1130,6 +1229,15 @@
       "name": "AB Method",
       "url": "https://github.com/ayoubben18/ab-method",
       "description": "by Ayoub Bensalah - A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.",
+      "section": [
+        "Agent Orchestration"
+      ]
+    },
+    {
+      "key": "https://github.com/bill10/agent-007",
+      "name": "Agent 007",
+      "url": "https://github.com/bill10/agent-007",
+      "description": "by bill10 - A self-hosted office with a pleasing pixel-art UI where one manager agent, Billion, takes a mission, posts jobs to a board, and reviews and merges pull requests that Claude Code and Codex workers open from their own git worktrees. Accessible from desktop or mobile.",
       "section": [
         "Agent Orchestration"
       ]
@@ -1211,6 +1319,15 @@
       "name": "Compound Engineering Plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "by EveryInc - A very pragmatic set of well-designed agents, skills, and commands, built around a discipline of turning past mistakes and errors into lessons and opportunities for future growth and improvement. Good documentation.",
+      "section": [
+        "Agent Orchestration"
+      ]
+    },
+    {
+      "key": "https://github.com/databricks-solutions/consort",
+      "name": "Consort",
+      "url": "https://github.com/databricks-solutions/consort",
+      "description": "by Kevin Hartman - Spec-first, test-driven agent framework: runs the build loop against live Lakebase Postgres branches under a deterministic orchestrator, with human-approval gates.",
       "section": [
         "Agent Orchestration"
       ]
@@ -1356,6 +1473,36 @@
       "section": [
         "Agent Orchestration",
         "Dynamic Workflows"
+      ]
+    },
+    {
+      "key": "https://github.com/Ovich/charrette",
+      "name": "Charrette",
+      "url": "https://github.com/Ovich/charrette",
+      "description": "by Stefan Teofanovic - A Claude Code plugin with agent skills for designing software before code is written: brainstorm boards, plans cut into slices and run by subagents, working HTML mockups, development workbenches and layered pull request reviews. Every document renders live in a bundled local viewer with Mermaid diagrams, outside the repository.",
+      "section": [
+        "Agent Orchestration",
+        "SDLC"
+      ]
+    },
+    {
+      "key": "https://github.com/tsmztech/napkin-to-blueprint",
+      "name": "napkin-to-blueprint",
+      "url": "https://github.com/tsmztech/napkin-to-blueprint",
+      "description": "by Tapas Mukherjee - A five-stage pipeline of Claude Code slash commands and specialized subagents that turns a raw product idea into a build-ready blueprint: an interview-driven brief, researched feature definitions, per-feature specs with acceptance criteria, and an architecture with a database schema.",
+      "section": [
+        "Agent Orchestration",
+        "SDLC"
+      ]
+    },
+    {
+      "key": "https://github.com/savvasioakeim/OctoShell",
+      "name": "OctoShell",
+      "url": "https://github.com/savvasioakeim/OctoShell",
+      "description": "by savvasioakeim - Terminal workspace for Windows and macOS, built on command blocks, that runs Claude Code in git worktrees, one per task, each with its own shell and dev server. Features include Strategy Mode (several agents plan a change before writing code), a Reviewer agent that reads each change for regressions, and QA Mode (checklist over the running app).",
+      "section": [
+        "Agent Orchestration",
+        "SDLC"
       ]
     },
     {
@@ -1539,6 +1686,15 @@
       ]
     },
     {
+      "key": "https://github.com/nickelsec/bough",
+      "name": "bough",
+      "url": "https://github.com/nickelsec/bough",
+      "description": "by nickelsec - Reads Claude Code JSONL session transcripts and draws a project's history as a creatively-styled diagram: a day, the tasks inside it, and every prompt, with the ones that ended in a commit marked. Segments work from pauses in the record rather than anything the user labelled, and prompts can be searched by the words they contain.",
+      "section": [
+        "Observability & Monitoring"
+      ]
+    },
+    {
       "key": "https://github.com/lookfree/cc-harness",
       "name": "CC Harness",
       "url": "https://github.com/lookfree/cc-harness",
@@ -1561,6 +1717,16 @@
       "name": "c9watch",
       "url": "https://github.com/minchenlee/c9watch",
       "description": "by minchenlee - A macOS menu-bar app (and companion JSON CLI, built from one Rust/Tauri binary) that auto-discovers running Claude Code sessions by scanning OS processes and shows live working / needs-attention / idle status, plus session-history search, cost tracking, and PM-style worker orchestration. Rust + Tauri 2 + Svelte 5, with a token-gated mobile web client.",
+      "section": [
+        "Observability & Monitoring",
+        "Session Monitors"
+      ]
+    },
+    {
+      "key": "https://github.com/patakuti/cc-semaphore",
+      "name": "cc-semaphore",
+      "url": "https://github.com/patakuti/cc-semaphore",
+      "description": "by patakuti - A lightweight session monitor for parallel Claude Code sessions. Aggregates running/waiting/idle status across sessions into the OS status bar or system tray, with the same experience on native Linux (GNOME Shell extension) and Windows (system tray via WSL). Also includes a scriptable trigger system for state-transition commands.",
       "section": [
         "Observability & Monitoring",
         "Session Monitors"
@@ -1631,6 +1797,16 @@
       "name": "so-agentbar",
       "url": "https://github.com/sotthang/so-agentbar",
       "description": "by sotthang - A native macOS menu-bar app that watches Claude Code and OpenAI Codex CLI session logs in real time and shows each running session's live status, tokens, and cost, with subagent grouping and an optional animated pixel-art view. Swift/SwiftUI + SpriteKit, using FSEvents with incremental JSONL parsing plus multi-provider quota tracking.",
+      "section": [
+        "Observability & Monitoring",
+        "Session Monitors"
+      ]
+    },
+    {
+      "key": "https://github.com/jasonm4130/wattop",
+      "name": "wattop",
+      "url": "https://github.com/jasonm4130/wattop",
+      "description": "by Jasonm4130 - Terminal monitor for Apple Silicon Macs that shows live Claude Code and Codex sessions, including subagent and workflow trees, with output tokens/s, context fill and estimated cost beside CPU/GPU power, temperatures and fans. Reads local transcripts.",
       "section": [
         "Observability & Monitoring",
         "Session Monitors"
@@ -1741,6 +1917,26 @@
       "name": "Claumon",
       "url": "https://github.com/fabioconcina/claumon",
       "description": "by fabioconcina - Claude Code dashboard for Pro/Max users: live rate-limit gauges, calibrated usage forecasts, session costs, memory browser. Single binary, zero config.",
+      "section": [
+        "Observability & Monitoring",
+        "Usage & Cost"
+      ]
+    },
+    {
+      "key": "https://github.com/getagentseal/codeburn",
+      "name": "Codeburn",
+      "url": "https://github.com/getagentseal/codeburn",
+      "description": "by iamtoruk - Breakdown of local spend down by project, model, git branch and task. Tracks plan quotas, and identifies token waste, including unused MCP servers, verbose CLAUDE.md, repeated file reads, and more.",
+      "section": [
+        "Observability & Monitoring",
+        "Usage & Cost"
+      ]
+    },
+    {
+      "key": "https://github.com/gethrbr/context-tax",
+      "name": "context-tax",
+      "url": "https://github.com/gethrbr/context-tax",
+      "description": "by Harbor - A zero-dependency CLI (npx context-tax) that reads Claude Code session transcripts to measure what is sent on every turn before the first prompt: system prompt, MCP tool names, the skill listing and instruction files. It prices each item per use, counts skills sent without a description once the listing budget runs out, and context-tax fix points each finding at the setting that turns it off.",
       "section": [
         "Observability & Monitoring",
         "Usage & Cost"
