@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c1207c9ff35ec553a8d11be5b90c46d8fdf6f3112d0e7aa19f43fdf660466362\"",
+  "etag": "W/\"6e49c71a1e10fe437c406e47f61cb476926d5e122267b8c2c8a6ff6a2937c14a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1898,6 +1898,24 @@
       "name": "Hoot Lens",
       "url": "https://github.com/Parallel-Platforms/hootlens-mcp",
       "description": "Session replays and click heatmaps from real website visits. Find clicks that broke, jump to the JavaScript error and source line, and check whether a fix helped. Remote with OAuth (httpUrl: https://mcp.hootlens.com/mcp) or local with npx -y @hootlens/mcp. Demo with sample data, no sign-in: https://mcp.hootlens.com/demo.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/adamgusky/blawgy-mcp",
+      "name": "Blawgy",
+      "url": "https://github.com/adamgusky/blawgy-mcp",
+      "description": "Run your SEO blog from Gemini CLI. Research keywords, manage the content plan, write and update SEO blog posts with images and internal links, publish them to WordPress, Shopify, Webflow, Wix, Framer, Ghost and Duda, and read Search Console traffic, rankings and indexing status. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source, included on every paid plan with a free trial. Add with gemini mcp add --transport http blawgy https://app.blawgy.com/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/bosmdavid-gif/dropthehassle-mcp",
+      "name": "DropTheHassle",
+      "url": "https://github.com/bosmdavid-gif/dropthehassle-mcp",
+      "description": "Lets Gemini CLI publish the site it built on a real HTTPS link instead of localhost: a free link, no account needed. For your own .com it hands the human a €19/$19-a-year payment link; after payment the site goes live on it with no DNS. No tool spends money. For claimed sites, ask it for visitors, leads or site status. Remote Streamable HTTP, no sign-in for the first publish, or local stdio via npx -y dropthehassle-mcp. MIT. Add with: gemini mcp add --transport http dropthehassle https://dropthehassle.com/mcp.",
       "section": [
         "MCP Servers"
       ]

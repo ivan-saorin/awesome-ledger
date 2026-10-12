@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"00ba079868811015b54d6d1aa391f9c877958193f3d5a53884c0ab9c5aec7369\"",
+  "etag": "W/\"659aabe539542f319a44ced908c016128f22b5e97bd687ef06c0e61645d8334b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -517,6 +517,16 @@
       "name": "Cake/Localized plugin",
       "url": "https://github.com/cakephp/localized",
       "description": "Localized validation and ready-to-use translation PO files.",
+      "section": [
+        "Plugins",
+        "I18n"
+      ]
+    },
+    {
+      "key": "https://github.com/dereuromark/cakephp-i18n-lint",
+      "name": "dereuromark/cakephp-i18n-lint",
+      "url": "https://github.com/dereuromark/cakephp-i18n-lint",
+      "description": "Checks POT templates against the code, syncs and lints PO files for plugins and apps, e.g. in CI.",
       "section": [
         "Plugins",
         "I18n"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a5bd5a458a23224cec68d66062c7bd9593f33122b45c3090c411073a3378e46e\"",
+  "etag": "W/\"5f791b8fc7cc0886d42bf6af08a7881ea0c64739928153981fc1f5df0cfd160a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -217,6 +217,16 @@
       "name": "transformers",
       "url": "https://github.com/huggingface/transformers",
       "description": "The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.",
+      "section": [
+        "Projects",
+        "AI and Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/huggingface/sentence-transformers",
+      "name": "sentence-transformers",
+      "url": "https://github.com/huggingface/sentence-transformers",
+      "description": "Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.",
       "section": [
         "Projects",
         "AI and Agents"
@@ -3313,6 +3323,16 @@
       ]
     },
     {
+      "key": "https://github.com/temporalio/sdk-python",
+      "name": "temporalio",
+      "url": "https://github.com/temporalio/sdk-python",
+      "description": "Temporal SDK for durable, fault-tolerant workflows that survive crashes and retries.",
+      "section": [
+        "Projects",
+        "Job Schedulers"
+      ]
+    },
+    {
       "key": "https://github.com/dagster-io/dagster",
       "name": "dagster",
       "url": "https://github.com/dagster-io/dagster",
@@ -3453,10 +3473,10 @@
       ]
     },
     {
-      "key": "https://github.com/google/python-fire",
-      "name": "fire",
-      "url": "https://github.com/google/python-fire",
-      "description": "A library for creating command line interfaces from absolutely any Python object.",
+      "key": "https://github.com/BrianPugh/cyclopts",
+      "name": "cyclopts",
+      "url": "https://github.com/BrianPugh/cyclopts",
+      "description": "Build CLIs from type-hinted functions, with docstring-based help.",
       "section": [
         "Projects",
         "CLI Development"

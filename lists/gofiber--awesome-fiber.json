@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cb7dcb365321d13e1eaaa80d983a4e1585a57d8cb874e9bc6660b829e3874df0\"",
+  "etag": "W/\"d0302dbbe8fe17ee646184a8e6d124bd91167b84cc10d711b3ea6cc4931fb413\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1121,6 +1121,15 @@
       "name": "gofiber/cli",
       "url": "https://github.com/gofiber/cli",
       "description": "Official Fiber command line interface for project generation, live reloading and version migration.",
+      "section": [
+        "🛠️ Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/keploy/keploy",
+      "name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Records real traffic to a Fiber app and replays it as tests with mocked SQL, Redis, and HTTP calls.",
       "section": [
         "🛠️ Tools"
       ]

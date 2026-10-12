@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2523023485e71e5766b7250c5a39e7bb3753fd7453c6d34cc6e13aeb405be8b6\"",
+  "etag": "W/\"5608615ad8bf91ed3bf5b909a0912164b37b1afb817e19d577ffe264d4afdeeb\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -158,6 +158,16 @@
       "name": "Bytewax",
       "url": "https://github.com/bytewax/bytewax",
       "description": "Community-maintained Python framework with a Rust-based distributed engine for stateful stream processing.",
+      "section": [
+        "Table of Contents",
+        "Engines and Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/orhaugh/clink",
+      "name": "Clink",
+      "url": "https://github.com/orhaugh/clink",
+      "description": "Embedded-first, Arrow-native stream processing engine with streaming SQL and exactly-once checkpoints.",
       "section": [
         "Table of Contents",
         "Engines and Platforms"
@@ -1024,6 +1034,16 @@
       ]
     },
     {
+      "key": "https://github.com/datazip-inc/olake",
+      "name": "OLake",
+      "url": "https://github.com/datazip-inc/olake",
+      "description": "Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg with CDC, full refresh and incremental sync.",
+      "section": [
+        "Table of Contents",
+        "Data Integration and Pipelines"
+      ]
+    },
+    {
       "key": "https://github.com/pathwaycom/pathway",
       "name": "Pathway",
       "url": "https://github.com/pathwaycom/pathway",
@@ -1198,16 +1218,6 @@
       "name": "Turbine",
       "url": "https://github.com/Netflix/Turbine",
       "description": "Netflix tool for aggregating Server-Sent Event JSON streams.",
-      "section": [
-        "Table of Contents",
-        "Applications and Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/aklivity/zilla",
-      "name": "Zilla",
-      "url": "https://github.com/aklivity/zilla",
-      "description": "Multi-protocol gateway for connecting applications, APIs, agents, and devices to event streams.",
       "section": [
         "Table of Contents",
         "Applications and Tools"

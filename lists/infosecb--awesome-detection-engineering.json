@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f3ee9011a7c54bf6171c463309f89611cfe95be70da7b6da7e054a7b230bf714\"",
+  "etag": "W/\"cd878373aa68b81aceca0d380ceaf9a3ce7107882a85ee1f2cfac6ad817d2070\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -373,6 +373,15 @@
       ]
     },
     {
+      "key": "https://github.com/ridgelinecyberdefence/Enterprise-Detection-Engineering",
+      "name": "Ridgeline Detection Library",
+      "url": "https://github.com/ridgelinecyberdefence/Enterprise-Detection-Engineering",
+      "description": "Production-validated detections across nine platforms (KQL, Sigma, Splunk, Athena, PowerShell, Velociraptor, YARA, Suricata, osquery), each with triggers, false positives, tuning guidance, and validation steps. Apache-2.0.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
       "key": "https://github.com/GoogleCloudPlatform/security-analytics",
       "name": "Google Cloud Security Analytics",
       "url": "https://github.com/GoogleCloudPlatform/security-analytics",
@@ -674,6 +683,15 @@
       "name": "SOCLabs",
       "url": "https://www.soc-labs.top/",
       "description": "A lab for blue teamers and detection engineers, with real threat data and support for popular SIEM query languages, enabling hands-on learning and practice in detection rule writing and threat hunting.",
+      "section": [
+        "General Resources"
+      ]
+    },
+    {
+      "key": "https://cybersecurity101.net/labs/security-monitoring",
+      "name": "Security Monitoring Labs | cybersecurity101.net",
+      "url": "https://cybersecurity101.net/labs/security-monitoring/",
+      "description": "48 free, step-by-step labs that build a small Wazuh monitoring stack on your own VMs, connect Linux and Windows (Sysmon) log sources, then write and tune detection rules, test them with simulated events, triage alerts and report on coverage. No account or hosted platform.",
       "section": [
         "General Resources"
       ]
