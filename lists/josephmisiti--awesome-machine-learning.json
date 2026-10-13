@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ed0feaa67361f0190de7da72416d4627368df3b58d1363fea1105d91b22ac6b9\"",
+  "etag": "W/\"f39a951ac1d9de6a3ae420016d40cd6c2004d14e7e7fce9d9d9ef5a80dfb8d6e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4773,6 +4773,16 @@
       "name": "Stanford.NLP for .NET",
       "url": "https://github.com/sergey-tihon/Stanford.NLP.NET/",
       "description": "A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.",
+      "section": [
+        ".NET",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "key": "https://bitbucket.org/thorium/fuuga",
+      "name": "Fuuga",
+      "url": "https://bitbucket.org/thorium/fuuga",
+      "description": "LLM pipeline built from scratch in F# on TorchSharp: BPE tokenizer training, pre-training, LoRA/QLoRA/DPO fine-tuning, weight import from Hugging Face and GGUF models, RAG-grounded generation and an OpenAI-compatible server. GPU or CPU, no Python.",
       "section": [
         ".NET",
         "Natural Language Processing"

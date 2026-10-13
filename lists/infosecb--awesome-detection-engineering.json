@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cd878373aa68b81aceca0d380ceaf9a3ce7107882a85ee1f2cfac6ad817d2070\"",
+  "etag": "W/\"40f521022455c14918b8902de9627c87dcef279c18a8979af52c75c2e8be7012\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -89,6 +89,15 @@
       "name": "Blue-team-as-Code - the Spiral of Joy | Den Iuzvyk, Oleg Kolesnikov",
       "url": "https://sansorg.egnyte.com/dl/KTc16ldiqv",
       "description": "Blue-Team-as-Code: Lessons From Real-world Red Team Detection Automation Using Logs.",
+      "section": [
+        "Concepts & Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/gyubin02/control-assurance-lab",
+      "name": "Control Assurance Lab | Gyubin Lee",
+      "url": "https://github.com/gyubin02/control-assurance-lab",
+      "description": "Runs reproducible matched-intervention experiments that distinguish target-control failures from failures masked by downstream safeguards.",
       "section": [
         "Concepts & Frameworks"
       ]
@@ -413,6 +422,15 @@
       "name": "TerraSigma",
       "url": "https://github.com/Khadinxc/TerraSigma",
       "description": "A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.",
+      "section": [
+        "Detection Content & Signatures"
+      ]
+    },
+    {
+      "key": "https://clankerusecase.com",
+      "name": "Clankerusecase",
+      "url": "https://clankerusecase.com",
+      "description": "Threat-led library of 7,800+ MITRE ATT&CK-mapped detections in Defender/Sentinel KQL, Sigma, Splunk SPL, Datadog, Falcon LogScale, and AWS CloudWatch, generated from public threat-intel reporting and schema-validated before publish.",
       "section": [
         "Detection Content & Signatures"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6cbe7b85ea8936d243cf148c9e8c7f66c53ac4a5e76952c1f25f27ad33cbc9fd\"",
+  "etag": "W/\"d803d5800c7c90cdc8fc95c83d37e754cefe00b5014c20d205f981afd506fcaa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -53,6 +53,15 @@
       "name": "asm-cli-rust",
       "url": "https://github.com/cch123/asm-cli-rust",
       "description": "An interactive assembly shell.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/Aster-Privacy/Aster-Mail",
+      "name": "Aster-Privacy/Aster-Mail",
+      "url": "https://github.com/Aster-Privacy/Aster-Mail",
+      "description": "Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.",
       "section": [
         "Applications"
       ]
@@ -3776,6 +3785,16 @@
       ]
     },
     {
+      "key": "https://github.com/raine/aven",
+      "name": "raine/aven",
+      "url": "https://github.com/raine/aven",
+      "description": "[aven] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
       "key": "https://github.com/raine/workmux",
       "name": "raine/workmux",
       "url": "https://github.com/raine/workmux",
@@ -4980,6 +4999,36 @@
       "name": "mdgaziur/findex",
       "url": "https://github.com/mdgaziur/findex",
       "description": "Findex is a highly customizable application finder using GTK3",
+      "section": [
+        "Applications",
+        "System tools"
+      ]
+    },
+    {
+      "key": "https://crates.io/crates/fusevm",
+      "name": "MenkeTechnologies/fusevm",
+      "url": "https://crates.io/crates/fusevm",
+      "description": "a polygot virtual machine and JIT",
+      "section": [
+        "Applications",
+        "System tools"
+      ]
+    },
+    {
+      "key": "https://crates.io/crates/temprs",
+      "name": "MenkeTechnologies/temprs",
+      "url": "https://crates.io/crates/temprs",
+      "description": "a tempfile manager with stack mechanism",
+      "section": [
+        "Applications",
+        "System tools"
+      ]
+    },
+    {
+      "key": "https://crates.io/crates/zshrs",
+      "name": "MenkeTechnologies/zshrs",
+      "url": "https://crates.io/crates/zshrs",
+      "description": "A zsh superset with JIT UNIX shell",
       "section": [
         "Applications",
         "System tools"

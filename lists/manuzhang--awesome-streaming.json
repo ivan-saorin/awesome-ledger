@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5608615ad8bf91ed3bf5b909a0912164b37b1afb817e19d577ffe264d4afdeeb\"",
+  "etag": "W/\"6290af465867abd852e3da51bfe0fcc6d87805944baf3529b6e7ef213c103112\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1108,6 +1108,16 @@
       "name": "beava",
       "url": "https://github.com/beava-dev/beava",
       "description": "Single-binary feature server for querying fresh per-entity counters and aggregates without a message broker.",
+      "section": [
+        "Table of Contents",
+        "Applications and Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/avison9/cdclint",
+      "name": "cdclint",
+      "url": "https://github.com/avison9/cdclint",
+      "description": "Linter for the contract between Postgres migrations, a Debezium connector and the sink schema, failing the pull request that would silently drop a CDC column.",
       "section": [
         "Table of Contents",
         "Applications and Tools"

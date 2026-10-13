@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c08356d0fdcadd6d7acd9238a2005ff87b5c8ccf7177dbeff29351df38e5158c\"",
+  "etag": "W/\"11a07c84e447ae13c2a7e612b08398f58bcc907418ee98ede21078a921a62d30\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2624,6 +2624,15 @@
       ]
     },
     {
+      "key": "https://youtube.com/live/adwmjYzQhaU?si=g9SNYD-JnE3c8XPb&t=19792",
+      "name": ".NET Day Online 2026, by JetBrains",
+      "url": "https://www.youtube.com/live/adwmjYzQhaU?si=g9SNYD-JnE3c8XPb&t=19792",
+      "description": "October 7, 2026 - Escape the Monolith: Scaling Blazor with .NET Aspire and Azure Container Apps, with Michael Washington.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
       "key": "https://youtube.com/watch?v=6c8fpShFjZE",
       "name": "Explore the Future of ASP.NET Core & Blazor in .NET 11",
       "url": "https://www.youtube.com/watch?v=6c8fpShFjZE",
@@ -2637,6 +2646,15 @@
       "name": "ASP.NET Community Standup: What's new in .NET 11 Preview 6?",
       "url": "https://www.youtube.com/watch?v=1G3d5YphhcM",
       "description": "July 21, 2026 - Join the ASP.NET Core team for a tour of what's new for ASP.NET Core and Blazor in .NET 11 Preview 6: Async minimal API validation, automatic CSRF protection, unions, OpenAPI 3.2, Blazor and SignalR improvements, and more.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=b9siFlZE6XQ",
+      "name": "Blazor Hybrid: One UI for Web, iOS, Android & Desktop (.NET MAUI)",
+      "url": "https://www.youtube.com/watch?v=b9siFlZE6XQ",
+      "description": "July 20, 2026 - Blazor Hybrid + .NET MAUI: build your UI once with Razor components and ship it to the browser, iOS, Android, Windows, and macOS – with full native API access from a single .NET codebase. David Ortinau, Principal Product Manager on the .NET team at Microsoft, breaks down how Blazor Hybrid works under the hood: Razor components hosted in a BlazorWebView, running in one .NET process with no web server on the device. He walks through the .NET MAUI Blazor Web App template, native platform concerns like Android safe areas, and real production-grade Blazor Hybrid apps – Sentence Studio (an AI-powered language learning app orchestrated with .NET Aspire), PolyPilot (an app the .NET MAUI team built entirely with AI agents), and MAUI Sherpa (an open-source toolbox for cross-platform developers). He also shares the .NET 11 roadmap: CoreCLR as the single runtime across platforms (WASM support still in progress), the path to Native AOT, .NET Watch everywhere, a unified Hot Reload pipeline, and MAUI DevFlow – tooling that gives AI coding agents eyes and hands inside your running app.",
       "section": [
         "Videos"
       ]
@@ -2981,6 +2999,15 @@
       "description": "January 24, 2024 - In the last episode, we dug deep into the underpinnings of optimistic concurrency handling in EF Core. In this episode, we continue that journey to cover disconnected scenarios. That is, where the entity travels to a client and then back to the server before being updated in the database. We’ll look at the different patterns for doing updates like this in ASP.NET Core and Blazor apps and see how concurrency tokens work with each of these. We’ll also look at how ExecuteUpdate can be used with concurrency tokens, and take a look at ETag concurrency in Azure Cosmos DB.",
       "section": [
         "Videos"
+      ]
+    },
+    {
+      "key": "https://blazrlytics.com/blog/should-i-break-down-my-blazor-page-into-multiple-components",
+      "name": "Should I break down my Blazor page into multiple components?",
+      "url": "https://www.blazrlytics.com/blog/should-i-break-down-my-blazor-page-into-multiple-components",
+      "description": "October 6, 2026 - Article describing the pros and cons about breaking down a Blazor page into multiple components. *Build Agentic UI with the new Blazor AI components - September 28, 2026 - Build Agentic UI with the new Blazor AI components for streamed content, tools, approvals, shared state, and generative experiences.",
+      "section": [
+        "Articles"
       ]
     },
     {

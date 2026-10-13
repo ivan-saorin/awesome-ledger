@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6e49c71a1e10fe437c406e47f61cb476926d5e122267b8c2c8a6ff6a2937c14a\"",
+  "etag": "W/\"6dc19b4c5dcf6681dd19ee31aa76a07e9f01a2bf259604927d9a375a144eee4d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1717,7 +1717,7 @@
       "key": "https://github.com/glasser-ai/plugins",
       "name": "Glasser",
       "url": "https://github.com/glasser-ai/plugins",
-      "description": "One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: gemini mcp add --transport http glasser https://api.glasser.ai/mcp.",
+      "description": "One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: gemini mcp add --transport http glasser \"https://api.glasser.ai/mcp?utm_source=awesome-gemini-cli&utm_medium=mcp\".",
       "section": [
         "MCP Servers"
       ]
@@ -1916,6 +1916,33 @@
       "name": "DropTheHassle",
       "url": "https://github.com/bosmdavid-gif/dropthehassle-mcp",
       "description": "Lets Gemini CLI publish the site it built on a real HTTPS link instead of localhost: a free link, no account needed. For your own .com it hands the human a €19/$19-a-year payment link; after payment the site goes live on it with no DNS. No tool spends money. For claimed sites, ask it for visitors, leads or site status. Remote Streamable HTTP, no sign-in for the first publish, or local stdio via npx -y dropthehassle-mcp. MIT. Add with: gemini mcp add --transport http dropthehassle https://dropthehassle.com/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://linkednav.com/mcp",
+      "name": "LinkedNav",
+      "url": "https://www.linkednav.com/mcp?utm_source=gemini-cli-list&utm_medium=listing",
+      "description": "Hosted MCP server for LinkedIn outreach in your own LinkedNav account: find leads, launch campaigns, send, and reply. LinkedNav detects LinkedIn buying signals and sends personalized outreach you approve. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Free 7-day trial. An independent service, not affiliated with LinkedIn. Add with: gemini mcp add --transport http linkednav https://mcp.linkednav.com/.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://heyreagent.com/linkedin-mcp",
+      "name": "HeyReagent",
+      "url": "https://heyreagent.com/linkedin-mcp?utm_source=gemini-cli-list&utm_medium=listing",
+      "description": "Hosted LinkedIn MCP server for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts. Remote Streamable HTTP with OAuth sign-in, no key to paste; the server is closed source. Free plan available. An independent service, not affiliated with LinkedIn. Add with: gemini mcp add --transport http heyreagent https://api.heyreagent.com/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/fclairamb/solidping",
+      "name": "SolidPing",
+      "url": "https://github.com/fclairamb/solidping",
+      "description": "Uptime and synthetic monitoring with a remote MCP server (OAuth) to create, run and diagnose checks. Works with Gemini CLI: gemini mcp add --transport http solidping https://solidping.io/api/v1/mcp.",
       "section": [
         "MCP Servers"
       ]

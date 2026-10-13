@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c16f1424840faa56cacd166572a7f5201384195a101dede89e13852a99b2f1b8\"",
+  "etag": "W/\"d20799b760d9a181eed0ea8235fc27b4e0e5859a4a86f3fed4fe4ad3b2601635\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1284,6 +1284,16 @@
       ]
     },
     {
+      "key": "https://bsonjet.com",
+      "name": "BsonJet",
+      "url": "https://bsonjet.com",
+      "description": "Native cross-platform GUI (no Electron, no Java), free for personal use; copy databases between servers, encrypted backups, replica set health",
+      "section": [
+        "Tools",
+        "Desktop"
+      ]
+    },
+    {
       "key": "https://jetbrains.com/datagrip",
       "name": "DataGrip",
       "url": "https://www.jetbrains.com/datagrip/",
@@ -1378,6 +1388,16 @@
       "name": "C# Analyzer",
       "url": "https://github.com/mongodb/mongo-csharp-analyzer",
       "description": "View the MongoDB Query API equivalents of your builder expressions in Visual Studio",
+      "section": [
+        "Tools",
+        "Development"
+      ]
+    },
+    {
+      "key": "https://github.com/keploy/keploy",
+      "name": "Keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Records real MongoDB query results and replays them as mocks in tests, without a running database",
       "section": [
         "Tools",
         "Development"
@@ -1611,6 +1631,16 @@
       "section": [
         "Tools",
         "Low-Code"
+      ]
+    },
+    {
+      "key": "https://github.com/masumedb/masume",
+      "name": "masume",
+      "url": "https://github.com/masumedb/masume",
+      "description": "Keyboard-first terminal database client with AI chat and an MCP server",
+      "section": [
+        "Tools",
+        "Shell"
       ]
     },
     {
