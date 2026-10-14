@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d20799b760d9a181eed0ea8235fc27b4e0e5859a4a86f3fed4fe4ad3b2601635\"",
+  "etag": "W/\"56ba0970f829e32b159376e2d6d8fb26fe48493682720c442fe76d057d1ae4eb\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1144,6 +1144,16 @@
       ]
     },
     {
+      "key": "https://github.com/datazip-inc/olake",
+      "name": "OLake",
+      "url": "https://github.com/datazip-inc/olake",
+      "description": "Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go",
+      "section": [
+        "Tools",
+        "Data"
+      ]
+    },
+    {
       "key": "https://mongodb.com/products/cluster-to-cluster-sync",
       "name": "Cluster to cluster sync",
       "url": "https://www.mongodb.com/products/cluster-to-cluster-sync",
@@ -1528,6 +1538,16 @@
       "name": "Percona Monitoring and Management",
       "url": "https://github.com/percona/pmm",
       "description": "Free and open-source platform for managing and monitoring databases performances",
+      "section": [
+        "Tools",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/fclairamb/solidping",
+      "name": "SolidPing",
+      "url": "https://github.com/fclairamb/solidping",
+      "description": "Self-hosted uptime monitor with a MongoDB ping check and alerting",
       "section": [
         "Tools",
         "Monitoring"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6dc19b4c5dcf6681dd19ee31aa76a07e9f01a2bf259604927d9a375a144eee4d\"",
+  "etag": "W/\"a889322088cb9666a81b374acb9c622bc72a9ffc07b7408a8e1a73566f983aa9\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -51,7 +51,7 @@
     {
       "key": "https://tars.saccolabs.com",
       "name": "Tars",
-      "url": "https://tars.saccolabs.com",
+      "url": "https://tars.saccolabs.com?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.",
       "section": [
         ":tada: New"
@@ -168,7 +168,7 @@
     {
       "key": "https://yaw.sh",
       "name": "Yaw",
-      "url": "https://yaw.sh",
+      "url": "https://yaw.sh?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Cross-platform terminal that auto-detects Gemini CLI and opens a split-pane workflow with a companion terminal.",
       "section": [
         "Interfaces"
@@ -177,7 +177,7 @@
     {
       "key": "https://termly.dev",
       "name": "Termly",
-      "url": "https://termly.dev/",
+      "url": "https://termly.dev/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Free native iOS and Android app to monitor and control Gemini CLI (and other CLI AI assistants) remotely. Zero-knowledge E2E encryption, pairs in under 60 seconds via QR code. No subscriptions, no usage limits.",
       "section": [
         "Interfaces"
@@ -195,7 +195,7 @@
     {
       "key": "https://anywheredesign.site",
       "name": "AnywhereDesign",
-      "url": "https://anywheredesign.site",
+      "url": "https://anywheredesign.site?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Local-first voice cockpit and remote mobile interface for Claude Code & Antigravity/Gemini CLI. Control terminal agent sessions from your phone via local QR code, real-time voice dictation, live terminal output streaming, and zero-token mobile Git sync.",
       "section": [
         "Interfaces"
@@ -204,7 +204,7 @@
     {
       "key": "https://mobile-ssh.github.io",
       "name": "Mobile SSH",
-      "url": "https://mobile-ssh.github.io/",
+      "url": "https://mobile-ssh.github.io/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Android and iOS (TestFlight beta) SSH client for running Gemini CLI on remote servers, with a Gemini CLI installer plugin, simultaneous terminal sessions, and tmux session management.",
       "section": [
         "Interfaces"
@@ -213,7 +213,7 @@
     {
       "key": "https://bellowsai.app",
       "name": "Bellows",
-      "url": "https://bellowsai.app",
+      "url": "https://bellowsai.app?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Desktop workspace that runs Gemini CLI over ACP alongside Claude and Codex, with diffs, permission prompts, team rules, a hash-linked audit trail and live session sharing. Windows, macOS and Linux.",
       "section": [
         "Interfaces"
@@ -402,7 +402,7 @@
     {
       "key": "https://fuseintelligence.org/products/vibefuse",
       "name": "VibeFuse",
-      "url": "https://fuseintelligence.org/products/vibefuse",
+      "url": "https://fuseintelligence.org/products/vibefuse?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Free Windows desktop harness that runs Gemini CLI alongside Claude Code, Codex, Cursor, and Qwen as live draggable widgets on one canvas, with named sessions, local Whisper/Piper voice, an MCP tool panel, and a marketplace where skill and widget sellers keep 80% (Stripe Connect).",
       "section": [
         "Agent Orchestration & CLI Tools"
@@ -438,7 +438,7 @@
     {
       "key": "https://drevon.dev",
       "name": "Drevon",
-      "url": "https://www.drevon.dev",
+      "url": "https://www.drevon.dev?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.",
       "section": [
         "Agent Orchestration & CLI Tools"
@@ -458,6 +458,15 @@
       "name": "Crewly",
       "url": "https://github.com/stevehuang0115/crewly",
       "description": "MIT-licensed, local platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Gemini CLI, Claude Code, and Codex, with task delegation through agent skills, shared persistent memory, and a web dashboard of live agent terminals. Requires one of these agent CLIs installed and logged in.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/abnegate/magents",
+      "name": "magents",
+      "url": "https://github.com/abnegate/magents",
+      "description": "Gemini CLI extension, MCP server and CLI over the session transcripts Gemini CLI, Claude Code, Codex, Copilot CLI, Cursor, Grok and OpenCode already write. List and read other live sessions, hand off compact state, send into a specific chat, or spawn a headless session that replies through a shared inbox. Install: gemini extensions install https://github.com/abnegate/magents. Rust, MIT.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -924,7 +933,7 @@
     {
       "key": "https://issue-queue.readthedocs.io/en/latest/llm_agents.html",
       "name": "IssueDB",
-      "url": "https://issue-queue.readthedocs.io/en/latest/llm_agents.html",
+      "url": "https://issue-queue.readthedocs.io/en/latest/llm_agents.html?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.",
       "section": [
         "Development Tools & Utilities"
@@ -1113,7 +1122,7 @@
     {
       "key": "https://mcpconfigdoctor.online",
       "name": "MCP Config Doctor",
-      "url": "https://mcpconfigdoctor.online/",
+      "url": "https://mcpconfigdoctor.online/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Browser-local diagnostic that validates Gemini CLI ~/.gemini/settings.json MCP server entries (shape, env/secret references, transport fields). Also covers Claude Code, Codex CLI, and VS Code MCP configs. No account, no telemetry, no remote calls — runs entirely in the browser.",
       "section": [
         "Development Tools & Utilities"
@@ -1158,7 +1167,7 @@
     {
       "key": "https://hud.thaliabloom.com",
       "name": "Usage HUD",
-      "url": "https://hud.thaliabloom.com/",
+      "url": "https://hud.thaliabloom.com/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Native macOS menu-bar meter that shows your Gemini CLI usage window next to Claude, Codex, Grok and Ollama, with a confidence label on every number. Paid, $9.",
       "section": [
         "Development Tools & Utilities"
@@ -1203,7 +1212,7 @@
     {
       "key": "https://agentcat.app",
       "name": "Agent Cat",
-      "url": "https://agentcat.app",
+      "url": "https://agentcat.app?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Free macOS/Windows menu-bar app that shows Gemini CLI and Antigravity usage and limits next to Claude Code and Codex, read from local files.",
       "section": [
         "Development Tools & Utilities"
@@ -1239,7 +1248,7 @@
     {
       "key": "https://awakado.noodledragon.studio",
       "name": "Awakado",
-      "url": "https://awakado.noodledragon.studio",
+      "url": "https://awakado.noodledragon.studio?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "macOS menu-bar app that keeps the Mac awake while Gemini CLI is working, using Gemini CLI hooks, and lets it sleep when it finishes. Also supports Claude Code, Codex and other agents. Free, with a paid Pro tier.",
       "section": [
         "Development Tools & Utilities"
@@ -1248,7 +1257,7 @@
     {
       "key": "https://skillkeeper.app",
       "name": "SkillKeeper",
-      "url": "https://skillkeeper.app/",
+      "url": "https://skillkeeper.app/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "macOS menu bar app that reads local Gemini CLI, Claude Code, Codex and Cursor sessions to show which skills, agents, MCP servers and tools ran, how often, and what they cost in tokens. Native Swift, free to track.",
       "section": [
         "Development Tools & Utilities"
@@ -1275,7 +1284,7 @@
     {
       "key": "https://macmdviewer.com",
       "name": "MacMD Viewer",
-      "url": "https://macmdviewer.com",
+      "url": "https://macmdviewer.com?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Read-only Markdown viewer for macOS 14+ for the GEMINI.md and plan files Gemini CLI writes. Renders Mermaid diagrams and highlighted code, reloads when the file changes on disk, and adds Quick Look previews in Finder. Paid, $19.99 one-time.",
       "section": [
         "Development Tools & Utilities"
@@ -1304,6 +1313,33 @@
       "name": "spillage",
       "url": "https://github.com/maximilianfeix/spillage",
       "description": "Finds API keys in the chats, logs and checkpoints Gemini CLI keeps under ~/.gemini/tmp and in the MCP servers of ~/.gemini/settings.json, redacts them in place, and installs BeforeAgent / BeforeTool / SessionEnd hooks (spillage guard install) that block a prompt with a key in it and reads of .env. Python, no dependencies, no network; also covers Claude Code, Codex CLI and Cursor.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/golproductions/check",
+      "name": "Check",
+      "url": "https://github.com/golproductions/check",
+      "description": "BeforeTool hook that parses a file on your own machine before Gemini CLI writes it, and blocks a write_file that would leave a Python, shell or PowerShell script, an .mjs file or package.json unparseable, handing the agent the parser's error. On Windows, file writes are what it checks. Also installs into Claude Code, Codex CLI, Cursor, Windsurf and Copilot CLI. Install: npx @golproductions/check@latest --install. Paid, 14-day free trial.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/henrikdukefoss/tokenreceipt",
+      "name": "tokenreceipt",
+      "url": "https://github.com/henrikdukefoss/tokenreceipt",
+      "description": "Local CLI that reads Gemini CLI chat logs (plus Claude Code, Codex, OpenCode and other agents) and prints a till-style receipt of tokens per agent and model, priced at public API list prices. Exports SVG/PNG cards or JSON; no account, no upload, no dependencies. MIT. Run: npx github:henrikdukefoss/tokenreceipt.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://wardlume.github.io",
+      "name": "Wardlume",
+      "url": "https://wardlume.github.io?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Locks the Mac's keyboard, mouse, and trackpad while Gemini CLI runs unattended, so progress stays visible but nobody can type into the session. Unlocks with Touch ID or Apple Watch; sandboxed with no network access.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -1401,7 +1437,7 @@
     {
       "key": "https://teamorouter.cn",
       "name": "TeamoRouter",
-      "url": "https://teamorouter.cn",
+      "url": "https://teamorouter.cn?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly. Free permanent DeepSeek tiers (V4 Pro 200 req/day, V4 Flash 50 req/day, 1M ctx).",
       "section": [
         "API Bridges & Proxies"
@@ -1563,7 +1599,7 @@
     {
       "key": "https://intel.twzrd.xyz/mcp",
       "name": "TWZRD Agent Intel",
-      "url": "https://intel.twzrd.xyz/mcp",
+      "url": "https://intel.twzrd.xyz/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Trust scoring and identity verification for AI agent wallets on Solana. Verify agent identity before x402 micropayments or agent-initiated operations. Free: score_agent, preflight_check. Paid (x402): get_trust_receipt. Works with any MCP client including Gemini CLI.",
       "section": [
         "MCP Servers"
@@ -1635,7 +1671,7 @@
     {
       "key": "https://aisotools.com/mcp",
       "name": "AISO Tools MCP",
-      "url": "https://aisotools.com/mcp",
+      "url": "https://aisotools.com/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Query a catalog of 1,636 AI tools from the CLI: keyword/category/pricing search, side-by-side comparison, and alternatives lookup, with a canonical citation URL on every result. Remote Streamable HTTP, no API key. Works with any MCP client including Gemini CLI: gemini mcp add --transport http aisotools https://aisotools.com/api/mcp.",
       "section": [
         "MCP Servers"
@@ -1689,7 +1725,7 @@
     {
       "key": "https://contextstream.io",
       "name": "ContextStream",
-      "url": "https://contextstream.io",
+      "url": "https://contextstream.io?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Shared project context for Cursor, Claude Code, Codex, Grok. Intelligence isn’t the bottleneck. Context is. Remote MCP for Gemini CLI and other coding agents: https://mcp.contextstream.io/mcp.",
       "section": [
         "MCP Servers"
@@ -1734,7 +1770,7 @@
     {
       "key": "https://skillagent.dev",
       "name": "SkillAgent",
-      "url": "https://skillagent.dev",
+      "url": "https://skillagent.dev?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Remote MCP server (Streamable HTTP, no auth) for searching ~3,500 agent skills, rules files (including Gemini rules) and MCP servers indexed hourly from GitHub, with project-based recommendations and per-agent install instructions for Gemini CLI. Install: gemini mcp add --transport http skillagent https://skillagent.dev/mcp.",
       "section": [
         "MCP Servers"
@@ -1788,7 +1824,7 @@
     {
       "key": "https://lognorm.com",
       "name": "LogNorm",
-      "url": "https://lognorm.com",
+      "url": "https://lognorm.com?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Hosted remote MCP server that hands a website's SEO and AI-visibility (GEO) backlog (site audits, fixes, content drafts, AI-answer tracking) to coding agents. Remote Streamable HTTP with OAuth sign-in, no API key; free plan available. Source: lognorm/lognorm-mcp. Add with: gemini mcp add --transport http lognorm https://lognorm.com/api/mcp.",
       "section": [
         "MCP Servers"
@@ -1806,7 +1842,7 @@
     {
       "key": "https://app.linkmcp.io",
       "name": "LinkMCP",
-      "url": "https://app.linkmcp.io",
+      "url": "https://app.linkmcp.io?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Hosted LinkedIn MCP server for your own LinkedIn account: profile and company lookups, people and Sales Navigator search, inbox, posts and comments, connection requests, and work email finding. Remote Streamable HTTP with OAuth sign-in; the server is closed source. Paid plans from $19/month, 7-day free trial without a card. Install: gemini extensions install https://github.com/linkmcp-io/linkmcp.",
       "section": [
         "MCP Servers"
@@ -1815,7 +1851,7 @@
     {
       "key": "https://fxmacrodata.com",
       "name": "FXMacroData",
-      "url": "https://fxmacrodata.com",
+      "url": "https://fxmacrodata.com?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Official macroeconomic releases, central bank decisions, release calendars, FX rates and COT positioning for 22 currencies, with release timestamps and source links. Remote Streamable HTTP server; USD releases (last 90 days, 15-minute delay), the USD calendar and the USD catalogue work with no sign-in or API key, other currencies and FX rates need a key. Add with: gemini mcp add --transport http fxmacrodata https://mcp.fxmacrodata.com.",
       "section": [
         "MCP Servers"
@@ -1869,7 +1905,7 @@
     {
       "key": "https://docs.datacircle.dev/mcp-server",
       "name": "Datacircle",
-      "url": "https://docs.datacircle.dev/mcp-server",
+      "url": "https://docs.datacircle.dev/mcp-server?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Add with: gemini mcp add --transport http datacircle https://api.datacircle.dev/mcp.",
       "section": [
         "MCP Servers"
@@ -1923,7 +1959,7 @@
     {
       "key": "https://linkednav.com/mcp",
       "name": "LinkedNav",
-      "url": "https://www.linkednav.com/mcp?utm_source=gemini-cli-list&utm_medium=listing",
+      "url": "https://www.linkednav.com/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Hosted MCP server for LinkedIn outreach in your own LinkedNav account: find leads, launch campaigns, send, and reply. LinkedNav detects LinkedIn buying signals and sends personalized outreach you approve. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Free 7-day trial. An independent service, not affiliated with LinkedIn. Add with: gemini mcp add --transport http linkednav https://mcp.linkednav.com/.",
       "section": [
         "MCP Servers"
@@ -1932,7 +1968,7 @@
     {
       "key": "https://heyreagent.com/linkedin-mcp",
       "name": "HeyReagent",
-      "url": "https://heyreagent.com/linkedin-mcp?utm_source=gemini-cli-list&utm_medium=listing",
+      "url": "https://heyreagent.com/linkedin-mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Hosted LinkedIn MCP server for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts. Remote Streamable HTTP with OAuth sign-in, no key to paste; the server is closed source. Free plan available. An independent service, not affiliated with LinkedIn. Add with: gemini mcp add --transport http heyreagent https://api.heyreagent.com/mcp.",
       "section": [
         "MCP Servers"

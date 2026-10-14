@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d803d5800c7c90cdc8fc95c83d37e754cefe00b5014c20d205f981afd506fcaa\"",
+  "etag": "W/\"b13bb62e55260ff803b66e065e6034c859ed4565b50a95c1a9434c657262189e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -206,6 +206,15 @@
       "name": "habitat",
       "url": "https://github.com/habitat-sh/habitat",
       "description": "A tool created by Chef to build, deploy, and manage applications.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/HaseebKhalid1507/SynapsCLI",
+      "name": "HaseebKhalid1507/SynapsCLI",
+      "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
+      "description": "[synaps] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language",
       "section": [
         "Applications"
       ]
@@ -5145,6 +5154,16 @@
       ]
     },
     {
+      "key": "https://github.com/ziuus/orbit-tui",
+      "name": "orbit-tui",
+      "url": "https://github.com/ziuus/orbit-tui",
+      "description": "Keyboard-driven terminal system dashboard (~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer",
+      "section": [
+        "Applications",
+        "System tools"
+      ]
+    },
+    {
       "key": "https://github.com/orhun/kmon",
       "name": "orhun/kmon",
       "url": "https://github.com/orhun/kmon",
@@ -6509,6 +6528,16 @@
       "name": "Michael-A-Kuykendall/muxide",
       "url": "https://github.com/Michael-A-Kuykendall/muxide",
       "description": "[muxide] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.",
+      "section": [
+        "Applications",
+        "Video"
+      ]
+    },
+    {
+      "key": "https://github.com/open-subs/opensubs",
+      "name": "open-subs/opensubs",
+      "url": "https://github.com/open-subs/opensubs",
+      "description": "Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling",
       "section": [
         "Applications",
         "Video"

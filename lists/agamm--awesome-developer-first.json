@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1c8dc12e7af2cf0b19585ede68347e7625108a494d7a398ad618ba3820c710cc\"",
+  "etag": "W/\"20ac069f53443e559c3b9c211ee4060a6d535e49b0b2b4bbc28dda3624be6b6d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -448,7 +448,7 @@
       "key": "https://scalekit.com",
       "name": "Scalekit",
       "url": "https://scalekit.com",
-      "description": "Add enterprise SSO (SAML, OIDC), SCIM provisioning to your existing auth setup like Firebase, Auth0, or Cognito without rewrites.",
+      "description": "Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.",
       "section": [
         "Authentication & Identity"
       ]
@@ -2645,6 +2645,15 @@
       "name": "Fiberplane",
       "url": "https://fiberplane.com/",
       "description": "Test and debug Hono APIs.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://keploy.io",
+      "name": "Keploy",
+      "url": "https://keploy.io",
+      "description": "Records real API and dependency traffic and replays it as tests with auto-generated mocks.",
       "section": [
         "Testing"
       ]

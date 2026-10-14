@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"28f4886a546972ffbaf6c80e34df02a189f2d796334eb349a48df5c48625cca7\"",
+  "etag": "W/\"4e294e2242fe01d72b7176928e3e3058e23e043505261f08950e93b889bfc471\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -158,16 +158,6 @@
       "name": "Doorman",
       "url": "https://github.com/mwielgoszewski/doorman",
       "description": "osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness.",
-      "section": [
-        "IR Tools Collection",
-        "All-In-One Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/CrowdStrike/falcon-orchestrator",
-      "name": "Falcon Orchestrator",
-      "url": "https://github.com/CrowdStrike/falcon-orchestrator",
-      "description": "Extendable Windows-based application that provides workflow automation, case management and security response functionality.",
       "section": [
         "IR Tools Collection",
         "All-In-One Tools"
@@ -628,16 +618,6 @@
       "name": "ir-rescue",
       "url": "https://github.com/diogo-fernan/ir-rescue",
       "description": "Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.",
-      "section": [
-        "IR Tools Collection",
-        "Evidence Collection"
-      ]
-    },
-    {
-      "key": "https://brimorlabs.com/tools",
-      "name": "Live Response Collection",
-      "url": "https://www.brimorlabs.com/tools/",
-      "description": "Automated tool that collects volatile data from Windows, OSX, and *nix based operating systems.",
       "section": [
         "IR Tools Collection",
         "Evidence Collection"

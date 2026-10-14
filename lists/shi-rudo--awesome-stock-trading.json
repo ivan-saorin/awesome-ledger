@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2da8d7ff7f18925f712b5a7ef6b32548cebbd0f8528a1961fb460f85ae054578\"",
+  "etag": "W/\"e39fd3a4cc7cc6c87b2e5d18da178dd13a07b11a04232e204ad0c33a0dd5ad72\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -23,9 +23,9 @@
     },
     {
       "key": "https://capitoltrades.com",
-      "name": "Capitol Trade",
+      "name": "Capitol Trades",
       "url": "https://www.capitoltrades.com",
-      "description": "Keeping Tabs on Politicians' Trades (US only).",
+      "description": "Tracks stock trades disclosed by US politicians.",
       "section": [
         "Stock Research"
       ]
@@ -43,23 +43,32 @@
       "key": "https://danelfin.com",
       "name": "Danelfin",
       "url": "https://danelfin.com",
-      "description": "Provides AI-Powered Stock Research & Picking Tools.",
+      "description": "Provides AI-powered stock research and picking tools.",
       "section": [
         "Stock Research"
       ]
     },
     {
-      "key": "https://finbox.io",
+      "key": "https://finbox.com",
       "name": "Finbox",
-      "url": "https://finbox.io/",
+      "url": "https://finbox.com",
       "description": "Offers tools for financial analysis, valuation, and screening of stocks.",
       "section": [
         "Stock Research"
       ]
     },
     {
+      "key": "https://koyfin.com",
+      "name": "Koyfin",
+      "url": "https://www.koyfin.com",
+      "description": "Market data and analytics platform with customizable dashboards, charts, fundamentals, and screening across stocks, ETFs, and macro data.",
+      "section": [
+        "Stock Research"
+      ]
+    },
+    {
       "key": "https://marketbeat.com",
-      "name": "Market Beat",
+      "name": "MarketBeat",
       "url": "https://www.marketbeat.com",
       "description": "Provides stock research, ratings, and news for individual investors.",
       "section": [
@@ -68,7 +77,7 @@
     },
     {
       "key": "https://marketscreener.com",
-      "name": "Market Screener",
+      "name": "MarketScreener",
       "url": "https://www.marketscreener.com",
       "description": "Offers stock market quotes, news, analysis, and screening tools.",
       "section": [
@@ -80,6 +89,15 @@
       "name": "Morningstar",
       "url": "https://www.morningstar.com",
       "description": "Provides investment research, ratings, and tools for stocks, mutual funds, and ETFs.",
+      "section": [
+        "Stock Research"
+      ]
+    },
+    {
+      "key": "https://sec.gov/edgar/search",
+      "name": "SEC EDGAR Full-Text Search",
+      "url": "https://www.sec.gov/edgar/search/",
+      "description": "Official SEC search for company filings such as 10-K, 10-Q, 8-K, and proxy statements, with full-text search of filings since 2001.",
       "section": [
         "Stock Research"
       ]
@@ -104,7 +122,7 @@
     },
     {
       "key": "https://tipranks.com",
-      "name": "Tip Ranks",
+      "name": "TipRanks",
       "url": "https://www.tipranks.com",
       "description": "Provides ratings and analysis of stocks and financial experts based on their historical performance.",
       "section": [
@@ -113,9 +131,9 @@
     },
     {
       "key": "https://wallstreetzen.com",
-      "name": "Wall Street Zen",
+      "name": "WallStreetZen",
       "url": "https://www.wallstreetzen.com",
-      "description": "Offers tools for financial analysis, screening, and backtesting of investment strategies.",
+      "description": "Offers stock screening, quantitative Zen Ratings, and analyst forecast tracking.",
       "section": [
         "Stock Research"
       ]
@@ -130,8 +148,35 @@
       ]
     },
     {
+      "key": "https://aaii.com/sentimentsurvey",
+      "name": "AAII Sentiment Survey",
+      "url": "https://www.aaii.com/sentimentsurvey",
+      "description": "Weekly survey of individual investors' bullish, neutral, and bearish outlook on the stock market for the next six months, published since 1987.",
+      "section": [
+        "Market Analysis"
+      ]
+    },
+    {
+      "key": "https://cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "name": "CME FedWatch Tool",
+      "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "description": "Shows market-implied probabilities of Federal Reserve rate changes at upcoming FOMC meetings, based on 30-Day Fed Funds futures prices.",
+      "section": [
+        "Market Analysis"
+      ]
+    },
+    {
+      "key": "https://edition.cnn.com/markets/fear-and-greed",
+      "name": "CNN Fear & Greed Index",
+      "url": "https://edition.cnn.com/markets/fear-and-greed",
+      "description": "Market sentiment indicator that combines seven measures, including market momentum, stock price breadth, put and call options, market volatility, and safe-haven demand, into a score from 0 to 100 that shows whether the market is driven by fear or greed.",
+      "section": [
+        "Market Analysis"
+      ]
+    },
+    {
       "key": "https://companiesmarketcap.com",
-      "name": "Companies Market Cap",
+      "name": "CompaniesMarketCap",
       "url": "https://www.companiesmarketcap.com",
       "description": "Provides a list of companies and their market capitalizations, allowing users to easily track the valuations of various publicly traded companies. It also includes useful data such as industry classifications and stock exchange listings.",
       "section": [
@@ -139,10 +184,10 @@
       ]
     },
     {
-      "key": "https://edition.cnn.com/markets/fear-and-greed",
-      "name": "Fear & Greed Index",
-      "url": "https://edition.cnn.com/markets/fear-and-greed",
-      "description": "Provides a market sentiment indicator for investors. It analyzes seven different indicators, including market volatility, investor sentiment, and safe-haven demand, to generate a score ranging from 0-100 that reflects whether the market is in a state of fear or greed.",
+      "key": "https://fred.stlouisfed.org",
+      "name": "FRED",
+      "url": "https://fred.stlouisfed.org",
+      "description": "Federal Reserve Bank of St. Louis database of US and international economic time series, such as interest rates, inflation, employment, and money supply, with charting and downloads.",
       "section": [
         "Market Analysis"
       ]
@@ -151,25 +196,16 @@
       "key": "https://tradingterminal.com",
       "name": "Trading Terminal",
       "url": "https://www.tradingterminal.com",
-      "description": "Overview of the most important metrics for the US Market.",
+      "description": "Market dashboard for US stocks with key metrics, news, an economic calendar, a heatmap, insider trades, and scanners.",
       "section": [
         "Market Analysis"
       ]
     },
     {
-      "key": "https://tradytics.com",
-      "name": "Tradytics",
-      "url": "https://tradytics.com",
-      "description": "AI predictions, intraday market price action, biggest movers, sectors performance, and more.",
-      "section": [
-        "Market Analysis"
-      ]
-    },
-    {
-      "key": "https://cnbc.com/stock-screener",
-      "name": "Cnbc Stock Screener",
-      "url": "https://www.cnbc.com/stock-screener/",
-      "description": "Stock screener for US stock market.",
+      "key": "https://cnbc.com/pro-stock-screener",
+      "name": "CNBC Stock Screener",
+      "url": "https://www.cnbc.com/pro-stock-screener/",
+      "description": "US stock screener, part of the CNBC PRO subscription.",
       "section": [
         "Stock Screener"
       ]
@@ -185,7 +221,7 @@
     },
     {
       "key": "https://marketbeat.com/stock-screener",
-      "name": "Market Beat Stock Screener",
+      "name": "MarketBeat Stock Screener",
       "url": "https://www.marketbeat.com/stock-screener/",
       "description": "US stock market screener that allows filtering stocks by market cap, sector, industry, and more.",
       "section": [
@@ -202,8 +238,17 @@
       ]
     },
     {
+      "key": "https://stockopedia.com",
+      "name": "Stockopedia",
+      "url": "https://www.stockopedia.com",
+      "description": "Stock screener and research platform for UK, European, and international markets that scores every stock from 0 to 100 on quality, value, and momentum (StockRanks).",
+      "section": [
+        "Stock Screener"
+      ]
+    },
+    {
       "key": "https://tipranks.com/screener",
-      "name": "Tip Ranks Stock Screener",
+      "name": "TipRanks Stock Screener",
       "url": "https://www.tipranks.com/screener",
       "description": "International stock market screener that allows filtering stocks by market cap, sector, industry, and more.",
       "section": [
@@ -212,7 +257,7 @@
     },
     {
       "key": "https://wallstreetzen.com/stock-screener",
-      "name": "Wallstreet Zen Stock Screener",
+      "name": "WallStreetZen Stock Screener",
       "url": "https://www.wallstreetzen.com/stock-screener",
       "description": "Free US stock market screener that allows filtering stocks by market cap, sector, industry, and more.",
       "section": [
@@ -220,21 +265,12 @@
       ]
     },
     {
-      "key": "https://zacks.com/stock-screener",
+      "key": "https://zacks.com/screening/stock-screener",
       "name": "Zacks Stock Screener",
-      "url": "https://www.zacks.com/stock-screener",
+      "url": "https://www.zacks.com/screening/stock-screener",
       "description": "US stock market screener that allows filtering stocks by market cap, sector, industry, and more.",
       "section": [
         "Stock Screener"
-      ]
-    },
-    {
-      "key": "https://tradingview.com",
-      "name": "TradingView",
-      "url": "https://www.tradingview.com",
-      "description": "Platform that offers charting tools, trading ideas, and real-time market data for stocks, forex, cryptocurrencies, and other financial instruments.",
-      "section": [
-        "Charting"
       ]
     },
     {
@@ -242,6 +278,15 @@
       "name": "StockCharts",
       "url": "https://stockcharts.com",
       "description": "Technical analysis and charting website that provides advanced charting tools, custom indicators, and market analysis for stocks, funds, and indices.",
+      "section": [
+        "Charting"
+      ]
+    },
+    {
+      "key": "https://tradingview.com",
+      "name": "TradingView",
+      "url": "https://www.tradingview.com",
+      "description": "Platform that offers charting tools, trading ideas, and real-time market data for stocks, forex, cryptocurrencies, and other financial instruments.",
       "section": [
         "Charting"
       ]
@@ -274,8 +319,17 @@
       ]
     },
     {
+      "key": "https://ft.com",
+      "name": "Financial Times",
+      "url": "https://www.ft.com",
+      "description": "International business newspaper covering global markets, companies, and economic policy.",
+      "section": [
+        "News"
+      ]
+    },
+    {
       "key": "https://investing.com",
-      "name": "Investing",
+      "name": "Investing.com",
       "url": "https://www.investing.com",
       "description": "Online platform that offers financial news, real-time quotes, and analysis on stocks, currencies, commodities, and other investments.",
       "section": [
@@ -292,10 +346,28 @@
       ]
     },
     {
+      "key": "https://reuters.com/markets",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/markets/",
+      "description": "Global news agency with fast, neutral coverage of markets, companies, and economies.",
+      "section": [
+        "News"
+      ]
+    },
+    {
       "key": "https://fool.com",
       "name": "The Motley Fool",
       "url": "https://www.fool.com",
       "description": "Investment website that provides stock market analysis, investing ideas, and personal finance advice.",
+      "section": [
+        "News"
+      ]
+    },
+    {
+      "key": "https://thestreet.com",
+      "name": "TheStreet",
+      "url": "https://www.thestreet.com",
+      "description": "Financial news and investing website that offers stock market analysis, investment strategies, and personal finance advice.",
       "section": [
         "News"
       ]
@@ -310,21 +382,21 @@
       ]
     },
     {
-      "key": "https://thestreet.com",
-      "name": "The Street",
-      "url": "https://www.thestreet.com",
-      "description": "Financial news and investing website that offers stock market analysis, investment strategies, and personal finance advice.",
-      "section": [
-        "News"
-      ]
-    },
-    {
       "key": "https://finance.yahoo.com",
       "name": "Yahoo Finance",
       "url": "https://finance.yahoo.com",
       "description": "Financial news and data website that provides real-time stock quotes, financial news, and investment analysis.",
       "section": [
         "News"
+      ]
+    },
+    {
+      "key": "https://gmo.com/americas/research-library",
+      "name": "GMO - Research Library",
+      "url": "https://www.gmo.com/americas/research-library/",
+      "description": "Quarterly letters, 7-year asset class forecasts, and valuation-driven research from GMO.",
+      "section": [
+        "Commentaries"
       ]
     },
     {
@@ -337,10 +409,19 @@
       ]
     },
     {
-      "key": "https://msci.com/research-and-insights/market-insights",
-      "name": "MSCI - Market Insights",
-      "url": "https://www.msci.com/research-and-insights/market-insights",
-      "description": "Market commentaries and research reports with a focus on macroeconomic topics.",
+      "key": "https://msci.com/indexes/markets-in-motion",
+      "name": "MSCI - Markets in Motion",
+      "url": "https://www.msci.com/indexes/markets-in-motion",
+      "description": "Daily and monthly market reports plus research-based commentary on equity, multi-asset, and macroeconomic trends.",
+      "section": [
+        "Commentaries"
+      ]
+    },
+    {
+      "key": "https://oaktreecapital.com/insights/memos",
+      "name": "Oaktree - Memos from Howard Marks",
+      "url": "https://www.oaktreecapital.com/insights/memos",
+      "description": "Free archive of Howard Marks' client memos since 1990 on market cycles, risk, and investor psychology.",
       "section": [
         "Commentaries"
       ]
@@ -364,10 +445,19 @@
       ]
     },
     {
+      "key": "https://sharesight.com",
+      "name": "Sharesight",
+      "url": "https://www.sharesight.com",
+      "description": "Portfolio tracker for stocks, ETFs, and funds across global markets that reports performance including dividends, currency effects, and tax.",
+      "section": [
+        "Portfolio Tracker"
+      ]
+    },
+    {
       "key": "https://wealthica.com",
       "name": "Wealthica",
       "url": "https://www.wealthica.com",
-      "description": "Wealth management platform that provides portfolio management, financial planning, and investment research (Canada-focused).",
+      "description": "Aggregates bank, brokerage, and crypto accounts for portfolio, net-worth, and budget tracking (Canada and US).",
       "section": [
         "Portfolio Tracker"
       ]
@@ -382,6 +472,24 @@
       ]
     },
     {
+      "key": "https://trendspider.com",
+      "name": "TrendSpider",
+      "url": "https://trendspider.com",
+      "description": "Charting and strategy-testing platform offering no-code backtesting of technical trading strategies on stocks and other markets.",
+      "section": [
+        "Strategy Backtesting"
+      ]
+    },
+    {
+      "key": "https://wealth-lab.com",
+      "name": "Wealth-Lab",
+      "url": "https://www.wealth-lab.com",
+      "description": "Strategy development and portfolio backtesting platform for stocks and futures, supporting no-code building blocks and C# strategies.",
+      "section": [
+        "Strategy Backtesting"
+      ]
+    },
+    {
       "key": "https://seekingalpha.com/alpha-picks",
       "name": "Alpha Picks",
       "url": "https://seekingalpha.com/alpha-picks/",
@@ -391,19 +499,10 @@
       ]
     },
     {
-      "key": "https://pro.benzinga.com",
+      "key": "https://benzinga.com/pro",
       "name": "Benzinga Pro",
-      "url": "https://pro.benzinga.com",
+      "url": "https://www.benzinga.com/pro/",
       "description": "Benzinga offers daily trade picks from professional day traders with on-demand support, as well as exclusive market-moving stories.",
-      "section": [
-        "Stock Picks"
-      ]
-    },
-    {
-      "key": "https://investopedia.com/best-stocks-to-buy-now",
-      "name": "Best Stocks to Buy Now",
-      "url": "https://www.investopedia.com/best-stocks-to-buy-now/",
-      "description": "Investopedia list of the best stocks to buy now.",
       "section": [
         "Stock Picks"
       ]
@@ -418,37 +517,37 @@
       ]
     },
     {
-      "key": "https://seekingalpha.com/groups",
+      "key": "https://seekingalpha.com/marketplace/directory",
       "name": "Investing Groups by Seeking Alpha",
-      "url": "https://seekingalpha.com/groups",
+      "url": "https://seekingalpha.com/marketplace/directory",
       "description": "Investing groups on Seeking Alpha that provide stock picks, analysis, and market insights.",
       "section": [
         "Stock Picks"
       ]
     },
     {
-      "key": "https://fool.com/services",
+      "key": "https://fool.com/services/stock-advisor",
       "name": "The Motley Fool Stock Advisor",
-      "url": "https://www.fool.com/services/",
+      "url": "https://www.fool.com/services/stock-advisor/",
       "description": "Stock Advisor is a premium service that provides stock picks, analysis, and market insights.",
       "section": [
         "Stock Picks"
       ]
     },
     {
-      "key": "https://marketsmith.investors.com/growth250",
-      "name": "Growth 250",
-      "url": "https://marketsmith.investors.com/growth250/",
-      "description": "MarketSmith's Growth 250 is a curated list of high-potential stocks.",
+      "key": "https://get.investors.com/marketsurge",
+      "name": "MarketSurge Growth 250",
+      "url": "https://get.investors.com/marketsurge/",
+      "description": "Curated list of high-potential growth stocks from MarketSurge (formerly MarketSmith), available with a MarketSurge subscription.",
       "section": [
         "Stock Collections"
       ]
     },
     {
-      "key": "https://stocktwits.com/rankings/trending",
-      "name": "StockTwits Top 10",
-      "url": "https://stocktwits.com/rankings/trending",
-      "description": "StockTwits' list of the top 10 trending stocks.",
+      "key": "https://stocktwits.com/sentiment/trending",
+      "name": "Stocktwits Trending",
+      "url": "https://stocktwits.com/sentiment/trending",
+      "description": "Ranking of the most-discussed stocks on Stocktwits, ordered by its trending score.",
       "section": [
         "Stock Collections"
       ]
@@ -472,10 +571,10 @@
       ]
     },
     {
-      "key": "https://eodhistoricaldata.com",
-      "name": "Eodhistoricaldata",
-      "url": "https://eodhistoricaldata.com",
-      "description": "Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.",
+      "key": "https://eodhd.com",
+      "name": "EODHD",
+      "url": "https://eodhd.com",
+      "description": "EODHD offers APIs for real-time and historical stock data, fundamentals, forex, and cryptocurrency data.",
       "section": [
         "Stock APIs"
       ]
@@ -490,10 +589,37 @@
       ]
     },
     {
+      "key": "https://fred.stlouisfed.org/docs/api/fred",
+      "name": "FRED API",
+      "url": "https://fred.stlouisfed.org/docs/api/fred/",
+      "description": "Free API from the Federal Reserve Bank of St. Louis for more than 800,000 US and international economic time series such as interest rates, inflation, and employment.",
+      "section": [
+        "Stock APIs"
+      ]
+    },
+    {
+      "key": "https://interactivebrokers.com/en/trading/ib-api.php",
+      "name": "Interactive Brokers API",
+      "url": "https://www.interactivebrokers.com/en/trading/ib-api.php",
+      "description": "Trading and market data APIs (TWS API, Web API, FIX) for programmatic order execution and real-time and historical data across global stocks, options, futures, and forex.",
+      "section": [
+        "Stock APIs"
+      ]
+    },
+    {
+      "key": "https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python",
+      "name": "LSEG Data Library",
+      "url": "https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python",
+      "description": "Python library for LSEG Workspace and Data Platform data, successor to the Eikon Data API.",
+      "section": [
+        "Stock APIs"
+      ]
+    },
+    {
       "key": "https://marketstack.com",
-      "name": "MarketStack",
+      "name": "Marketstack",
       "url": "https://marketstack.com",
-      "description": "MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.",
+      "description": "Stock market data API by APILayer with end-of-day, intraday, and real-time prices, indices, and exchange data.",
       "section": [
         "Stock APIs"
       ]
@@ -509,9 +635,9 @@
     },
     {
       "key": "https://developer.morningstar.com",
-      "name": "Morningstar",
+      "name": "Morningstar Developer",
       "url": "https://developer.morningstar.com",
-      "description": "Provides data, research, and reports.",
+      "description": "APIs for Morningstar investment data, research, and ratings.",
       "section": [
         "Stock APIs"
       ]
@@ -520,18 +646,27 @@
       "key": "https://data.nasdaq.com",
       "name": "Nasdaq Data Link",
       "url": "https://data.nasdaq.com",
-      "description": "Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.",
+      "description": "Financial, economic, and alternative datasets from Nasdaq (formerly Quandl).",
       "section": [
         "Stock APIs"
       ]
     },
     {
-      "key": "https://refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api",
-      "name": "Refinitiv Eikon Data",
-      "url": "https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api",
-      "description": "The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.",
+      "key": "https://sec.gov/search-filings/edgar-application-programming-interfaces",
+      "name": "SEC EDGAR APIs",
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "description": "Free official JSON APIs from the U.S. SEC for company filing histories and XBRL financial statement data, no API key required.",
       "section": [
         "Stock APIs"
+      ]
+    },
+    {
+      "key": "https://berkshirehathaway.com/letters/letters.html",
+      "name": "Berkshire Hathaway Shareholder Letters",
+      "url": "https://www.berkshirehathaway.com/letters/letters.html",
+      "description": "Warren Buffett's annual letters to Berkshire Hathaway shareholders, freely available on the company website, covering investment strategy, capital allocation, and corporate culture.",
+      "section": [
+        "Knowledge"
       ]
     },
     {
@@ -544,48 +679,38 @@
       ]
     },
     {
-      "key": "https://stockscreening101.com",
-      "name": "StockScreening101",
-      "url": "https://www.stockscreening101.com",
-      "description": "StockScreening101 is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.",
+      "key": "https://investor.gov",
+      "name": "Investor.gov",
+      "url": "https://www.investor.gov",
+      "description": "Official investor education site of the U.S. Securities and Exchange Commission covering investing basics, fees, and fraud prevention.",
       "section": [
         "Knowledge"
       ]
     },
     {
       "key": "https://wallstreetmojo.com",
-      "name": "Wallstreetmojo",
+      "name": "WallStreetMojo",
       "url": "https://www.wallstreetmojo.com",
-      "description": "Learn Investment Banking, Finance Modeling and Excel with more than 4800+ Articles, Self Study Guides, Resources and courses.",
+      "description": "Free finance tutorials with more than 10,000 articles on investment banking, financial modeling, valuation, and Excel.",
       "section": [
         "Knowledge"
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders",
-      "name": "Berkshire Hathaway Letters to Shareholders",
-      "url": "https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders",
-      "description": "Warren Buffett, 2016 For nearly six decades, Warren Buffett has written an annual letter to his shareholders. The letters, written between 1965 and 2014, reveal the investor's thoughts on investment strategy, share buybacks, corporate culture and much more.",
-      "section": [
-        "Books",
-        "Value Investing and Fundamental Analysis"
-      ]
-    },
-    {
-      "key": "https://goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0",
+      "key": "https://goodreads.com/book/show/25574",
       "name": "Common Stocks and Uncommon Profits",
-      "url": "https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0",
-      "description": "Philip A. Fisher, 1957 This book is considered a classic and is used as part of several investment courses, such as Stanford Graduate School of Business. In the book, Fisher explains his basic views and approach to his investment strategies.",
+      "url": "https://www.goodreads.com/book/show/25574",
+      "description": "Philip A. Fisher, 1958 This book is considered a classic of growth investing. Fisher, who taught investment courses at Stanford Graduate School of Business, explains his basic views and his approach to selecting stocks.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/21841022-damodaran-on-valuation",
+      "key": "https://goodreads.com/book/show/1422813",
       "name": "Damodaran on Valuation: Security Analysis for Investment and Corporate Finance",
-      "url": "https://www.goodreads.com/book/show/21841022-damodaran-on-valuation",
-      "description": "Aswath Damodaran, 1994 Damodaran explains aspect of valuation, from the basics of estimating cash flows and discount rates to the principles for using multiples.",
+      "url": "https://www.goodreads.com/book/show/1422813",
+      "description": "Aswath Damodaran, 1994 Damodaran explains aspects of valuation, from the basics of estimating cash flows and discount rates to the principles for using multiples.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
@@ -595,7 +720,7 @@
       "key": "https://goodreads.com/book/show/746936.Margin_of_Safety",
       "name": "Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor",
       "url": "https://www.goodreads.com/book/show/746936.Margin_of_Safety",
-      "description": "Seth Klarman, 1991 Margin of Safety explains the key fundamentals and practices of value investing. He outlines what value investing looks like and where investors might find attractive opportunities.",
+      "description": "Seth Klarman, 1991 Margin of Safety explains the key fundamentals and practices of value investing. Klarman outlines what value investing looks like and where investors might find attractive opportunities.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
@@ -605,7 +730,7 @@
       "key": "https://en.wikipedia.org/wiki/Security_Analysis_(book)",
       "name": "Security Analysis",
       "url": "https://en.wikipedia.org/wiki/Security_Analysis_(book)",
-      "description": "Benjamin Graham, 1934 This book laid the intellectual foundation for what would later be called value investing. The first edition was published in 1934, shortly after the Wall Street crash and start of the Great Depression.",
+      "description": "Benjamin Graham, David L. Dodd, 1934 This book laid the intellectual foundation for what would later be called value investing. The first edition was published in 1934, shortly after the Wall Street crash and start of the Great Depression.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
@@ -635,7 +760,7 @@
       "key": "https://en.wikipedia.org/wiki/The_Intelligent_Investor",
       "name": "The Intelligent Investor",
       "url": "https://en.wikipedia.org/wiki/The_Intelligent_Investor",
-      "description": "Benjamin Graham, 1949 In this book, Grahame explains his investment principles and views regarding an investor's mindset. He shows how investors analyze the actual performance of companies and advises to disregard the changing moods of the market.",
+      "description": "Benjamin Graham, 1949 In this book, Graham explains his investment principles and views regarding an investor's mindset. He shows how investors analyze the actual performance of companies and advises to disregard the changing moods of the market.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
@@ -645,16 +770,16 @@
       "key": "https://goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing",
       "name": "The Little Book of Value Investing",
       "url": "https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing",
-      "description": "Christopher H. Browne, 2006 Brown explains the basic approaches of the value investing philosophy, but without making any big promises about market success. He provides guidance on the use of simple metrics such as the price-earnings ratio.",
+      "description": "Christopher H. Browne, 2006 Browne explains the basic approaches of the value investing philosophy, but without making any big promises about market success. He provides guidance on the use of simple metrics such as the price-earnings ratio.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/41211699-the-most-important-thing",
+      "key": "https://goodreads.com/book/show/10454418",
       "name": "The Most Important Thing",
-      "url": "https://www.goodreads.com/book/show/41211699-the-most-important-thing",
+      "url": "https://www.goodreads.com/book/show/10454418",
       "description": "Howard Marks, 2011 In this book, Howard Marks summarizes investment insights from his client memos and explains his investment philosophy.",
       "section": [
         "Books",
@@ -662,10 +787,10 @@
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/21949163-the-thoughtful-investor",
+      "key": "https://goodreads.com/book/show/28387868",
       "name": "The Thoughtful Investor",
-      "url": "https://www.goodreads.com/book/show/21949163-the-thoughtful-investor",
-      "description": "Basant Maheshwari, 2011 Maheshwari, a renowned Indian investor, explains in his book topics of financial analysis, the analysis of individual sectors and the behavioral aspect of investing.",
+      "url": "https://www.goodreads.com/book/show/28387868",
+      "description": "Basant Maheshwari, 2014 Maheshwari, a renowned Indian investor, explains in his book topics of financial analysis, the analysis of individual sectors and the behavioral aspect of investing.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
@@ -675,7 +800,7 @@
       "key": "https://goodreads.com/book/show/209956.The_Warren_Buffett_Way",
       "name": "The Warren Buffett Way",
       "url": "https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way",
-      "description": "Robert G. Hagstrom, 2007 The book describes the business and investment principles of value investing according to Warren Buffett.",
+      "description": "Robert G. Hagstrom, 1994 The book describes the business and investment principles of value investing according to Warren Buffett.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
@@ -685,7 +810,7 @@
       "key": "https://goodreads.com/book/show/293636.Value_Investing",
       "name": "Value Investing: From Graham to Buffett and Beyond",
       "url": "https://www.goodreads.com/book/show/293636.Value_Investing",
-      "description": "Bruce C. N. Greenwald, 2004 Greenwald explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.",
+      "description": "Bruce C. N. Greenwald, Judd Kahn, Paul D. Sonkin, Michael van Biema, 2001 Greenwald explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.",
       "section": [
         "Books",
         "Value Investing and Fundamental Analysis"
@@ -695,7 +820,7 @@
       "key": "https://goodreads.com/book/show/537529.Active_Portfolio_Management",
       "name": "Active Portfolio Management",
       "url": "https://www.goodreads.com/book/show/537529.Active_Portfolio_Management",
-      "description": "Richard C. Grinold, Ronald Kahn, 1994 In this book, Grinold and Kahn show how economics, econometrics, and operations research can be used to solve practical investment problems and identify profit opportunities.",
+      "description": "Richard C. Grinold, Ronald N. Kahn, 1995 In this book, Grinold and Kahn show how economics, econometrics, and operations research can be used to solve practical investment problems and identify profit opportunities.",
       "section": [
         "Books",
         "Quantitative Investing and Portfolio Management"
@@ -705,7 +830,7 @@
       "key": "https://goodreads.com/book/show/2825008-portfolio-selection",
       "name": "Portfolio Selection: Efficient Diversification of Investments",
       "url": "https://www.goodreads.com/book/show/2825008-portfolio-selection",
-      "description": "Harry M. Markowitz, 1968 A comprehensive explanation of analysis and calculation methods to help investors find the best combinations of securities to match their requirements.",
+      "description": "Harry M. Markowitz, 1959 A comprehensive explanation of analysis and calculation methods to help investors find the best combinations of securities to match their requirements.",
       "section": [
         "Books",
         "Quantitative Investing and Portfolio Management"
@@ -722,10 +847,20 @@
       ]
     },
     {
+      "key": "https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street",
+      "name": "A Random Walk Down Wall Street",
+      "url": "https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street",
+      "description": "Burton G. Malkiel, 1973 Malkiel argues that stock prices largely reflect available information and that most investors are better served by low-cost index funds than by stock picking or market timing. The book is a standard reference for the efficient market hypothesis and passive investing.",
+      "section": [
+        "Books",
+        "General Stock Trading"
+      ]
+    },
+    {
       "key": "https://goodreads.com/book/show/891835.Beating_the_Street",
       "name": "Beating the Street",
       "url": "https://www.goodreads.com/book/show/891835.Beating_the_Street",
-      "description": "Peter Lynch, 1992 In the book, Lynch, a successful fund manager from 1977 to 1990, gives readers insight into his investment methods and tactics.",
+      "description": "Peter Lynch, John Rothchild, 1993 In the book, Lynch, a successful fund manager from 1977 to 1990, gives readers insight into his investment methods and tactics.",
       "section": [
         "Books",
         "General Stock Trading"
@@ -735,7 +870,7 @@
       "key": "https://goodreads.com/book/show/34889127-charlie-munger",
       "name": "Charlie Munger: The Complete Investor",
       "url": "https://www.goodreads.com/book/show/34889127-charlie-munger",
-      "description": "Tren Griffin, 2015 Tren Griffin uses interviews, writings, and letters to explain the investment philosophy and thought processes of Charlie Munger, vice chairman of Berkshire Hathaway and longtime business partner of Warren Buffett.",
+      "description": "Tren Griffin, 2015 Tren Griffin uses interviews, writings, and letters to explain the investment philosophy and thought processes of Charlie Munger, the late vice chairman of Berkshire Hathaway and longtime business partner of Warren Buffett.",
       "section": [
         "Books",
         "General Stock Trading"
@@ -745,7 +880,7 @@
       "key": "https://goodreads.com/book/show/966769.Market_Wizards",
       "name": "Market Wizards: Interviews with Top Traders",
       "url": "https://www.goodreads.com/book/show/966769.Market_Wizards",
-      "description": "Jack D. Schwager, 1989 By interviewing successful investors such as Bruce Kovner, Richard Dennis, Paul Tudor Jones, Michel Steinhardt, Ed Seykota, Marty Schwartz, Tom Baldwin, and others, Schwager explores what separates the world's best traders from the vast majority of unsuccessful investors.",
+      "description": "Jack D. Schwager, 1989 By interviewing successful investors such as Bruce Kovner, Richard Dennis, Paul Tudor Jones, Michael Steinhardt, Ed Seykota, Marty Schwartz, Tom Baldwin, and others, Schwager explores what separates the world's best traders from the vast majority of unsuccessful investors.",
       "section": [
         "Books",
         "General Stock Trading"
@@ -755,7 +890,17 @@
       "key": "https://goodreads.com/book/show/762462.One_Up_On_Wall_Street",
       "name": "One Up On Wall Street",
       "url": "https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street",
-      "description": "Peter Lynch, 1989 Peter Lynch, who managed Fidelity Investment's successful Magellan Fund from 1977 to 1990, gives investors an insight into his investment methods. Using simple examples and some practices, he explains his process of stock selection.",
+      "description": "Peter Lynch, John Rothchild, 1989 Peter Lynch, who managed Fidelity Investments' successful Magellan Fund from 1977 to 1990, gives investors an insight into his investment methods. Using simple examples and some practices, he explains his process of stock selection.",
+      "section": [
+        "Books",
+        "General Stock Trading"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator",
+      "name": "Reminiscences of a Stock Operator",
+      "url": "https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator",
+      "description": "Edwin Lefèvre, 1923 A thinly fictionalized account of speculator Jesse Livermore's career, describing how he read the tape, followed trends, and managed risk. Generations of traders regard it as the classic text on speculation and trader psychology.",
       "section": [
         "Books",
         "General Stock Trading"
@@ -775,7 +920,7 @@
       "key": "https://goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_",
       "name": "The Battle for Investment Survival",
       "url": "https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_",
-      "description": "Gerald M. Loeb, 1911 Now more than 100 years old, Gerald M. Loeb's work is considered a classic of financial literature. In his explanations, Loeb straightforwardly explains how investors should behave in rising and falling markets.",
+      "description": "Gerald M. Loeb, 1935 Now more than 90 years old, Gerald M. Loeb's work is considered a classic of financial literature. In his explanations, Loeb straightforwardly explains how investors should behave in rising and falling markets.",
       "section": [
         "Books",
         "General Stock Trading"
@@ -783,18 +928,18 @@
     },
     {
       "key": "https://goodreads.com/book/show/33026972-the-complete-turtle-trader",
-      "name": "The Complete Turtle Trader",
+      "name": "The Complete TurtleTrader",
       "url": "https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader",
-      "description": "Michael W. Covel, 2007 The author tells the story of Richard Dennis, an extraordinarily successful stock market trader of the 1980s, and how he turned a group of beginners, under his guidance, into extraordinarily successful traders.",
+      "description": "Michael W. Covel, 2007 The author tells the story of Richard Dennis, a highly successful commodities trader of the 1980s, and how he turned a group of beginners, under his guidance, into extraordinarily successful traders.",
       "section": [
         "Books",
         "General Stock Trading"
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/128947547-the-craft-of-investing-by-john-train",
+      "key": "https://goodreads.com/book/show/1966669",
       "name": "The Craft of Investing",
-      "url": "https://www.goodreads.com/book/show/128947547-the-craft-of-investing-by-john-train",
+      "url": "https://www.goodreads.com/book/show/1966669",
       "description": "John Train, 1994 In the book, Train outlines his key strategies and principles that have brought him success, addressing everything from the psychology of the market to practical portfolio management tips.",
       "section": [
         "Books",
@@ -815,30 +960,40 @@
       "key": "https://goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market",
       "name": "The Little Book that Still Beats the Market",
       "url": "https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market",
-      "description": "Joel Greenblatt, 2007 Joel Greenblatt explains how investors can outperform the popular market averages by systematically applying a formula. The book is kept simple and is aimed at beginners.",
+      "description": "Joel Greenblatt, 2010 Joel Greenblatt explains how investors can outperform the popular market averages by systematically applying a formula. The book is kept simple and is aimed at beginners.",
       "section": [
         "Books",
         "General Stock Trading"
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/27224350-new-market-wizards",
+      "key": "https://goodreads.com/book/show/787719",
       "name": "The New Market Wizards",
-      "url": "https://www.goodreads.com/book/show/27224350-new-market-wizards",
-      "description": "Jack D. Schwager, 1992 Jack Schwager interviews some of the most successful stock traders in the United States. Through these interviews, Schwager offers insight into the strategies, perspectives, and psychological insights of successful traders.",
+      "url": "https://www.goodreads.com/book/show/787719",
+      "description": "Jack D. Schwager, 1992 Jack Schwager interviews some of the most successful traders in the United States. Through these interviews, Schwager offers insight into the strategies, perspectives, and psychological insights of successful traders.",
       "section": [
         "Books",
         "General Stock Trading"
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/34943907-think-trade-like-a-champion",
-      "name": "Think & Trade Like a Champion",
-      "url": "https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion",
-      "description": "Mark Minervini, 2017 In this book, Mark Minervini explains readers how to apply his methods step by step to enhance their trading performance and create the confidence they need to outperform.",
+      "key": "https://goodreads.com/book/show/16189528",
+      "name": "Trade Like a Stock Market Wizard",
+      "url": "https://www.goodreads.com/book/show/16189528",
+      "description": "Mark Minervini, 2013 Minervini presents his SEPA (Specific Entry Point Analysis) method for finding growth stocks before large price moves. The book covers stock selection, timing entries with chart patterns, and strict risk management to protect capital.",
       "section": [
         "Books",
         "General Stock Trading"
+      ]
+    },
+    {
+      "key": "https://goodreads.com/book/show/15845804",
+      "name": "Following the Trend",
+      "url": "https://www.goodreads.com/book/show/15845804",
+      "description": "Andreas F. Clenow, 2012 Clenow, a hedge fund manager, explains diversified trend following across futures markets in enough detail for readers to build their own strategy. He argues that position sizing and risk management matter more than entry and exit rules, and shows how such a strategy performed year by year.",
+      "section": [
+        "Books",
+        "Trend Following"
       ]
     },
     {
@@ -846,36 +1001,6 @@
       "name": "Investing with Volume Analysis",
       "url": "https://www.goodreads.com/book/show/12664470-investing-with-volume-analysis",
       "description": "Buff Dormeier, 2011 Dormeier offers insights into using volume metrics to enhance stock trading strategies, providing a framework for interpreting price-volume relationships to predict market trends.",
-      "section": [
-        "Books",
-        "Trend Following"
-      ]
-    },
-    {
-      "key": "https://goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks",
-      "name": "Learn to Trade Momentum Stocks",
-      "url": "https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks",
-      "description": "Matthew R. Kratter, 2015 This beginner-friendly book presents a trading strategy by Matthew R. Kratter. It is designed to give readers the knowledge and skills to make profitable trades in momentum stocks.",
-      "section": [
-        "Books",
-        "Trend Following"
-      ]
-    },
-    {
-      "key": "https://goodreads.com/book/show/25819574-stocks-on-the-move",
-      "name": "Stocks on the Move",
-      "url": "https://www.goodreads.com/book/show/25819574-stocks-on-the-move",
-      "description": "Andreas Clenow, 2015 In this book, Clenow, a hedge fund manager, explores why most mutual funds consistently underperform and shows how anyone can outperform them. He emphasizes the power of momentum investing as one of the few consistent ways to beat the markets.",
-      "section": [
-        "Books",
-        "Trend Following"
-      ]
-    },
-    {
-      "key": "https://goodreads.com/book/show/20428445-trading-the-trends",
-      "name": "Trading the Trends",
-      "url": "https://www.goodreads.com/book/show/20428445-trading-the-trends",
-      "description": "L. A. Little, 2011 The book covers various aspects, including identifying trends, using technical indicators, and managing risk. The content is written in an easy-to-understand style, providing readers with valuable insights into understanding and profiting from the stock market.",
       "section": [
         "Books",
         "Trend Following"
@@ -895,7 +1020,7 @@
       "key": "https://goodreads.com/book/show/18969247-trend-qualification-and-trading",
       "name": "Trend Qualification and Trading",
       "url": "https://www.goodreads.com/book/show/18969247-trend-qualification-and-trading",
-      "description": "L. A. Little, 2011 Through a proven technical approach, the book explains how to gauge the likelihood of trend continuation and its potential for better trading results. Readers will gain understanding on timing entries, taking profits, and effectively exiting trades based on these trends.",
+      "description": "L. A. Little, 2011 Through a proven technical approach, the book explains how to gauge the likelihood of trend continuation and its potential for better trading results. Readers will gain an understanding of timing entries, taking profits, and effectively exiting trades based on these trends.",
       "section": [
         "Books",
         "Trend Following"
@@ -912,40 +1037,20 @@
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/29460388-price-action-breakdown",
-      "name": "Price Action Breakdown",
-      "url": "https://www.goodreads.com/book/show/29460388-price-action-breakdown",
-      "description": "Laurentiu Damir, 2016 This book provides a comprehensive guide to trading pure price action analysis. It covers concepts, ideas and trading methods based on pure price action and can be applied to various financial markets.",
-      "section": [
-        "Books",
-        "Price Action Trading"
-      ]
-    },
-    {
-      "key": "https://goodreads.com/book/show/55854507-price-action-trading-secrets",
-      "name": "Price Action Trading Secrets",
-      "url": "https://www.goodreads.com/book/show/55854507-price-action-trading-secrets",
-      "description": "Rayner Teo, 2020 Rayner Teo's book is intended as a guide to the use of price action trading. The book covers trading strategies, instruments and techniques and is written in a simple, step-by-step manner.",
-      "section": [
-        "Books",
-        "Price Action Trading"
-      ]
-    },
-    {
       "key": "https://goodreads.com/book/show/19138622-pring-on-price-patterns",
       "name": "Pring on Price Patterns",
       "url": "https://www.goodreads.com/book/show/19138622-pring-on-price-patterns",
-      "description": "Martin J. Pring, 2009 Martin J. Pring's book provides a comprehensive examination of the most commonly used price patterns and offers insights into their effectiveness and logic. The book covers a range of patterns, including one- and two-bar patterns, outside bars, reversals, pennants, and more.",
+      "description": "Martin J. Pring, 2004 Martin J. Pring's book provides a comprehensive examination of the most commonly used price patterns and offers insights into their effectiveness and logic. The book covers a range of patterns, including one- and two-bar patterns, outside bars, reversals, pennants, and more.",
       "section": [
         "Books",
         "Price Action Trading"
       ]
     },
     {
-      "key": "https://goodreads.com/book/show/38296614-stock-trading-investing-using-volume-price-analysis",
-      "name": "Stock Trading & Investing Using Volume Price Analysis",
-      "url": "https://www.goodreads.com/book/show/38296614-stock-trading-investing-using-volume-price-analysis",
-      "description": "Anna Coulling, 2015 Anna Coulling provides an in-depth examination of volume price analysis in stock trading. In doing so, she examines the approaches of other successful price analysis practitioners and explains them with examples.",
+      "key": "https://goodreads.com/book/show/212102.Technical_Analysis_of_the_Financial_Markets",
+      "name": "Technical Analysis of the Financial Markets",
+      "url": "https://www.goodreads.com/book/show/212102.Technical_Analysis_of_the_Financial_Markets",
+      "description": "John J. Murphy, 1999 Murphy's standard reference covers chart construction, trends, price patterns, moving averages, oscillators, and intermarket analysis. It is widely used as a core text for learning technical analysis.",
       "section": [
         "Books",
         "Price Action Trading"
@@ -973,7 +1078,7 @@
     },
     {
       "key": "https://goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing",
-      "name": "The Little Book of Behavioral Investing: How not to be your own worst enemy",
+      "name": "The Little Book of Behavioral Investing: How Not to Be Your Own Worst Enemy",
       "url": "https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing",
       "description": "James Montier, 2010 Author James Montier looks at the psychological aspects of investing and examines common behavioral biases that can hinder investors' success in the marketplace.",
       "section": [
@@ -986,6 +1091,16 @@
       "name": "The Wisdom of Crowds",
       "url": "https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds",
       "description": "James Surowiecki, 2004 James Surowiecki's book addresses the concept that large groups of people collectively have higher intelligence than individual experts. Surowiecki supports his argument with various case studies and anecdotes from different fields.",
+      "section": [
+        "Books",
+        "Behavioral Finance and Psychological Aspect of Investing"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+      "name": "Thinking, Fast and Slow",
+      "url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+      "description": "Daniel Kahneman, 2011 Nobel laureate Kahneman describes the two systems of thinking behind human judgment and the biases they produce, such as overconfidence, anchoring, and loss aversion. It is a foundational text for behavioral finance.",
       "section": [
         "Books",
         "Behavioral Finance and Psychological Aspect of Investing"
@@ -1005,7 +1120,7 @@
       "key": "https://en.wikipedia.org/wiki/Fooled_by_Randomness",
       "name": "Fooled by Randomness",
       "url": "https://en.wikipedia.org/wiki/Fooled_by_Randomness",
-      "description": "Nassim Nicholas Taleb, 2001 Part of Taleb's multi-volume philosophical essay on uncertainty, this book examines various misconceptions of chance, including survival bias and skewed distributions, and illuminates how people tend to seek explanations even when there are none.",
+      "description": "Nassim Nicholas Taleb, 2001 Part of Taleb's multi-volume philosophical essay on uncertainty, this book examines various misconceptions of chance, including survivorship bias and skewed distributions, and illuminates how people tend to seek explanations even when there are none.",
       "section": [
         "Books",
         "Risk and Uncertainty"
@@ -1042,6 +1157,26 @@
       ]
     },
     {
+      "key": "https://en.wikipedia.org/wiki/The_Big_Short",
+      "name": "The Big Short",
+      "url": "https://en.wikipedia.org/wiki/The_Big_Short",
+      "description": "Michael Lewis, 2010 Lewis follows the small group of investors who recognized the US housing bubble and bet against subprime mortgage bonds before the 2008 financial crisis. The book shows how the crisis built up inside the financial system.",
+      "section": [
+        "Books",
+        "Contemporary History"
+      ]
+    },
+    {
+      "key": "https://en.wikipedia.org/wiki/When_Genius_Failed",
+      "name": "When Genius Failed",
+      "url": "https://en.wikipedia.org/wiki/When_Genius_Failed",
+      "description": "Roger Lowenstein, 2000 Lowenstein tells the story of Long-Term Capital Management, the hedge fund whose highly leveraged bets collapsed in 1998 and forced a Federal Reserve-organized rescue. It is a classic case study in leverage, model risk, and liquidity.",
+      "section": [
+        "Books",
+        "Contemporary History"
+      ]
+    },
+    {
       "key": "https://asx.com.au",
       "name": "Australian Securities Exchange (ASX)",
       "url": "https://www.asx.com.au",
@@ -1061,7 +1196,7 @@
     },
     {
       "key": "https://bseindia.com",
-      "name": "Bombay Stock Exchange (BSE)",
+      "name": "BSE (formerly Bombay Stock Exchange)",
       "url": "https://www.bseindia.com",
       "description": "Asia’s oldest stock exchange. Major venue for Indian equities and indices.",
       "section": [
@@ -1069,10 +1204,19 @@
       ]
     },
     {
-      "key": "https://boerse-frankfurt.de",
-      "name": "Frankfurter Wertpapierbörse (Börse Frankfurt)",
-      "url": "https://www.boerse-frankfurt.de",
-      "description": "Germany’s principal stock exchange, operated by Deutsche Börse. Electronic trading is conducted via Xetra.",
+      "key": "https://live.deutsche-boerse.com/en",
+      "name": "Deutsche Börse Frankfurt",
+      "url": "https://live.deutsche-boerse.com/en",
+      "description": "Germany’s principal stock exchange (formerly Börse Frankfurt), operated by Deutsche Börse. Electronic trading is conducted via Deutsche Börse Xetra.",
+      "section": [
+        "Most Important Stock Exchanges"
+      ]
+    },
+    {
+      "key": "https://euronext.com",
+      "name": "Euronext",
+      "url": "https://www.euronext.com",
+      "description": "Pan-European exchange group operating regulated markets in multiple European countries, including France, the Netherlands, Belgium, Ireland, Portugal, Italy, Norway, and Greece.",
       "section": [
         "Most Important Stock Exchanges"
       ]
@@ -1132,18 +1276,27 @@
       ]
     },
     {
-      "key": "https://sse.com.cn",
+      "key": "https://saudiexchange.sa",
+      "name": "Saudi Exchange (Tadawul)",
+      "url": "https://www.saudiexchange.sa",
+      "description": "The main equity market of Saudi Arabia and the Gulf region, operated by Saudi Tadawul Group. Strong weighting in energy, petrochemicals, and banking.",
+      "section": [
+        "Most Important Stock Exchanges"
+      ]
+    },
+    {
+      "key": "https://english.sse.com.cn",
       "name": "Shanghai Stock Exchange (SSE)",
-      "url": "https://www.sse.com.cn",
+      "url": "https://english.sse.com.cn/",
       "description": "Major mainland Chinese exchange, focused on large state-owned and industrial enterprises.",
       "section": [
         "Most Important Stock Exchanges"
       ]
     },
     {
-      "key": "https://szse.cn",
+      "key": "https://szse.cn/English/index.html",
       "name": "Shenzhen Stock Exchange (SZSE)",
-      "url": "https://www.szse.cn",
+      "url": "https://www.szse.cn/English/index.html",
       "description": "Chinese exchange with emphasis on growth, technology, and small- to mid-cap companies.",
       "section": [
         "Most Important Stock Exchanges"
@@ -1159,10 +1312,19 @@
       ]
     },
     {
-      "key": "https://six-group.com",
+      "key": "https://six-group.com/en/products-services/the-swiss-stock-exchange.html",
       "name": "SIX Swiss Exchange",
-      "url": "https://www.six-group.com",
+      "url": "https://www.six-group.com/en/products-services/the-swiss-stock-exchange.html",
       "description": "Switzerland’s principal exchange, known for stability and strong representation of financial and life-science firms.",
+      "section": [
+        "Most Important Stock Exchanges"
+      ]
+    },
+    {
+      "key": "https://twse.com.tw/en",
+      "name": "Taiwan Stock Exchange (TWSE)",
+      "url": "https://www.twse.com.tw/en/",
+      "description": "Taiwan's principal securities exchange. Strong concentration in semiconductors and the electronics supply chain.",
       "section": [
         "Most Important Stock Exchanges"
       ]
@@ -1181,15 +1343,6 @@
       "name": "Toronto Stock Exchange (TSX)",
       "url": "https://www.tsx.com",
       "description": "Canada’s main equity market, globally relevant for mining and energy companies.",
-      "section": [
-        "Most Important Stock Exchanges"
-      ]
-    },
-    {
-      "key": "https://euronext.com",
-      "name": "Euronext",
-      "url": "https://www.euronext.com",
-      "description": "Pan-European exchange group operating regulated markets in multiple European countries, including France, the Netherlands, Belgium, Ireland, Portugal, Italy, and Norway.",
       "section": [
         "Most Important Stock Exchanges"
       ]

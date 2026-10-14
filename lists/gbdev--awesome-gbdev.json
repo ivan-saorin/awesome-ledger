@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c3d9fd9b124ad979d752db7b4b5d8a4d18f306b42ee77657acdd16171f87e221\"",
+  "etag": "W/\"f0eff35a35fb513e63704113435e110a4d72500bb58d260a99e3bc302bcbcc7a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -827,6 +827,15 @@
       "name": "Game Boy Doctor",
       "url": "https://github.com/robert/gameboy-doctor",
       "description": "A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.",
+      "section": [
+        "Emulator Development"
+      ]
+    },
+    {
+      "key": "https://openaccess.uoc.edu/bitstream/10609/115466/6/dsbartomeuTFG0620mem%C3%B2ria.pdf",
+      "name": "DraconicGB: Creating a Game Boy Emulator",
+      "url": "https://openaccess.uoc.edu/bitstream/10609/115466/6/dsbartomeuTFG0620mem%C3%B2ria.pdf",
+      "description": "Bachelor's thesis (UOC, 2020) documenting the research, architecture and C++ implementation of a Game Boy emulator, with an overview of the hardware and of existing emulators.",
       "section": [
         "Emulator Development"
       ]
@@ -1691,16 +1700,6 @@
       ]
     },
     {
-      "key": "https://voidptr.io/blog/2017/01/21/GameBoy.html",
-      "name": "FlappyBoy: Making a simple Game Boy Game",
-      "url": "http://voidptr.io/blog/2017/01/21/GameBoy.html",
-      "description": "",
-      "section": [
-        "Programming",
-        "ASM"
-      ]
-    },
-    {
       "key": "https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html",
       "name": "Super Game Boy development",
       "url": "https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html",
@@ -2132,6 +2131,36 @@
       "section": [
         "Programming",
         "C"
+      ]
+    },
+    {
+      "key": "https://gmiller.net/2019/04/dots-for-gameboy-color",
+      "name": "DOTs for GBC",
+      "url": "https://www.gmiller.net/2019/04/dots-for-gameboy-color/",
+      "description": "Making of a Game Boy Color port of the Dots game in C with GBDK, from code to a physical cartridge with box art. Includes the source code and a one-hour development commentary video.",
+      "section": [
+        "Programming",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://voidptr.io/blog/2017/01/21/GameBoy.html",
+      "name": "FlappyBoy: Making a simple Game Boy Game",
+      "url": "http://voidptr.io/blog/2017/01/21/GameBoy.html",
+      "description": "",
+      "section": [
+        "Programming",
+        "Blog posts"
+      ]
+    },
+    {
+      "key": "https://gamedeveloper.com/programming/making-a-game-boy-game-in-2017-a-quot-sheep-it-up-quot-post-mortem-part-1-2-",
+      "name": "part 1",
+      "url": "https://www.gamedeveloper.com/programming/making-a-game-boy-game-in-2017-a-quot-sheep-it-up-quot-post-mortem-part-1-2-",
+      "description": ", part 2)",
+      "section": [
+        "Programming",
+        "Blog posts"
       ]
     },
     {
@@ -2968,6 +2997,15 @@
       ]
     },
     {
+      "key": "https://youtube.com/watch?v=FPzuYWbnln4",
+      "name": "Super Mario Land 2 - Memory Exploration",
+      "url": "https://www.youtube.com/watch?v=FPzuYWbnln4",
+      "description": "Video by Retro Game Mechanics Explained on how the game stores levels in memory, and what happens when Mario goes out of bounds.",
+      "section": [
+        "Reverse Engineering"
+      ]
+    },
+    {
       "key": "https://github.com/pret/pokered",
       "name": "Pokémon Red/Blue",
       "url": "https://github.com/pret/pokered",
@@ -3390,15 +3428,6 @@
       "name": "Booting the Game Boy with a custom logo",
       "url": "https://dhole.github.io/post/gameboy_custom_logo/",
       "description": "Bypassing the Nintendo logo check.",
-      "section": [
-        "Related projects"
-      ]
-    },
-    {
-      "key": "https://gamasutra.com/blogs/DoctorLudos/20171207/311143",
-      "name": "part 1",
-      "url": "https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/",
-      "description": ", part 2)",
       "section": [
         "Related projects"
       ]
