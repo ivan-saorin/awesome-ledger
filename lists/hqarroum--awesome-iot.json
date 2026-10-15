@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7726360b1f6f860a39d7a6ab72db8b7f2f4fb491598182db50ce55b4fedbbb09\"",
+  "etag": "W/\"3417e7cc36c6161aa9b08b393809702452f301054322ac4d5a1e44b3544d4970\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -268,17 +268,6 @@
       ]
     },
     {
-      "key": "https://developer.android.com/things",
-      "name": "Android Things",
-      "url": "https://developer.android.com/things/",
-      "description": "Note: Android Things is depreciated. Android Things extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone.",
-      "section": [
-        "Table of Contents",
-        "Software",
-        "Operating systems"
-      ]
-    },
-    {
       "key": "https://openwrt.org",
       "name": "OpenWrt",
       "url": "https://openwrt.org/",
@@ -290,9 +279,9 @@
       ]
     },
     {
-      "key": "https://wiki.ubuntu.com/Snappy",
+      "key": "https://ubuntu.com/core",
       "name": "Snappy Ubuntu",
-      "url": "https://wiki.ubuntu.com/Snappy",
+      "url": "https://ubuntu.com/core",
       "description": "Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates. It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.",
       "section": [
         "Table of Contents",
@@ -719,17 +708,6 @@
       ]
     },
     {
-      "key": "https://github.com/macchina-io/macchina.io",
-      "name": "Macchina.io",
-      "url": "https://github.com/macchina-io/macchina.io",
-      "description": "macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.",
-      "section": [
-        "Table of Contents",
-        "Software",
-        "Frameworks"
-      ]
-    },
-    {
       "key": "https://wiki.eclipse.org/Mihini",
       "name": "Mihini",
       "url": "https://wiki.eclipse.org/Mihini",
@@ -1038,17 +1016,6 @@
       ]
     },
     {
-      "key": "https://devicepilot.com",
-      "name": "DevicePilot",
-      "url": "https://www.devicepilot.com",
-      "description": "Operational analytics for connected devices (includes free-forever tier).",
-      "section": [
-        "Table of Contents",
-        "Software",
-        "Middlewares"
-      ]
-    },
-    {
       "key": "https://emqx.io",
       "name": "EMQX",
       "url": "https://www.emqx.io/",
@@ -1119,17 +1086,6 @@
       "name": "Husarnet",
       "url": "https://husarnet.com/",
       "description": "Husarnet is a global peer-to-peer network layer that can make the MCU-Server or MCU-MCU connection directly, without the need of a bridge, over the internet.",
-      "section": [
-        "Table of Contents",
-        "Software",
-        "Middlewares"
-      ]
-    },
-    {
-      "key": "https://github.com/aklivity/zilla",
-      "name": "Zilla",
-      "url": "https://github.com/aklivity/zilla",
-      "description": "A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.",
       "section": [
         "Table of Contents",
         "Software",
@@ -1368,17 +1324,6 @@
       ]
     },
     {
-      "key": "https://kandi.openweaver.com/explore/internet-of-things",
-      "name": "Explore IoT Libraries",
-      "url": "https://kandi.openweaver.com/explore/internet-of-things",
-      "description": "Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.",
-      "section": [
-        "Table of Contents",
-        "Software",
-        "Libraries and Tools"
-      ]
-    },
-    {
       "key": "https://github.com/volkanalkilic/ThingsOn.MQTT.Bench",
       "name": "ThingsOn MQTT Bench",
       "url": "https://github.com/volkanalkilic/ThingsOn.MQTT.Bench",
@@ -1438,6 +1383,17 @@
       "name": "Electrum",
       "url": "https://github.com/yoelf22/electrum",
       "description": "A structured, AI-assisted toolkit for defining hardware products that have software inside — from concept through engineering spec to presentation-ready materials in eight phases.",
+      "section": [
+        "Table of Contents",
+        "Software",
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "name": "ESP32 iPhone Agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "An ESP32-S3 plugged into an iPhone acts as a Wi-Fi-controlled USB mouse and keyboard, so an AI vision model can operate the phone through AirPlay screen mirroring.",
       "section": [
         "Table of Contents",
         "Software",
@@ -1517,7 +1473,7 @@
       "description": "A curated list of tools, libraries, hardware, and guides for working with NFC tags.",
       "section": [
         "Technologies",
-        "- NFC"
+        "NFC"
       ]
     },
     {
@@ -1571,9 +1527,9 @@
       ]
     },
     {
-      "key": "https://meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html",
+      "key": "https://aioti.eu",
       "name": "AIOTI",
-      "url": "http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html",
+      "url": "https://aioti.eu/",
       "description": "The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.",
       "section": [
         "Standards and Alliances",
@@ -1681,16 +1637,6 @@
       ]
     },
     {
-      "key": "https://iamqa.in/2015/10/04/The-IoT-Testing-Atlas",
-      "name": "The IoT Testing Atlas",
-      "url": "http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/",
-      "description": "A testing methodology for managing the permutations of parameters while testing an IoT based product.",
-      "section": [
-        "Resources",
-        "Articles"
-      ]
-    },
-    {
       "key": "https://itnext.io/how-to-begin-with-the-amazon-timestream-in-5-simple-steps-19c129040d9c",
       "name": "How to begin with the Amazon Timestream",
       "url": "https://itnext.io/how-to-begin-with-the-amazon-timestream-in-5-simple-steps-19c129040d9c/",
@@ -1755,16 +1701,6 @@
       "name": "Realizing the Potential of the Internet of Things",
       "url": "https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf",
       "description": "A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.",
-      "section": [
-        "Resources",
-        "Papers"
-      ]
-    },
-    {
-      "key": "https://aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf",
-      "name": "The Internet of Things: Evolution or Revolution ?",
-      "url": "http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf",
-      "description": "This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.",
       "section": [
         "Resources",
         "Papers"

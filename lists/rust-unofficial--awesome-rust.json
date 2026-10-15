@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b13bb62e55260ff803b66e065e6034c859ed4565b50a95c1a9434c657262189e\"",
+  "etag": "W/\"3703bd6c561f02f1e18d8353b6ee8517fdf5e30685e07b9f8783a1bc9e9714db\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -535,6 +535,15 @@
       ]
     },
     {
+      "key": "https://github.com/scarletkc/Hatoba",
+      "name": "scarletkc/Hatoba",
+      "url": "https://github.com/scarletkc/Hatoba",
+      "description": "Desktop SSH client built with Tauri and russh, with an AI assistant beside each terminal and end-to-end encrypted sync through your own Cloudflare account",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
       "key": "https://github.com/servo/servo",
       "name": "Servo",
       "url": "https://github.com/servo/servo",
@@ -638,6 +647,15 @@
       "name": "Typst",
       "url": "https://github.com/typst/typst",
       "description": "A markup-based typesetting system",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/unxsist/jet-pilot",
+      "name": "unxsist/jet-pilot",
+      "url": "https://github.com/unxsist/jet-pilot",
+      "description": "An open-source Kubernetes desktop client built with Tauri, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal",
       "section": [
         "Applications"
       ]
@@ -908,6 +926,16 @@
       "name": "WhatBPM",
       "url": "https://github.com/sergree/whatbpm",
       "description": "A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify.",
+      "section": [
+        "Applications",
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/ZacharyL2/KeyEcho",
+      "name": "ZacharyL2/KeyEcho",
+      "url": "https://github.com/ZacharyL2/KeyEcho",
+      "description": "Desktop app that plays recorded mechanical keyboard sounds as you type, built with Tauri",
       "section": [
         "Applications",
         "Audio and Music"
@@ -4404,16 +4432,6 @@
       ]
     },
     {
-      "key": "https://github.com/shleder/vetto",
-      "name": "shleder/vetto",
-      "url": "https://github.com/shleder/vetto",
-      "description": "[vetto] - Daemon-less, sub-4ms cold start kernel sandbox for AI coding agents (Landlock, seccomp, namespaces)",
-      "section": [
-        "Applications",
-        "Security tools"
-      ]
-    },
-    {
       "key": "https://github.com/ssh-vault/ssh-vault",
       "name": "ssh-vault",
       "url": "https://github.com/ssh-vault/ssh-vault",
@@ -4888,6 +4906,16 @@
       "name": "LACT",
       "url": "https://github.com/ilya-zlobintsev/LACT",
       "description": "Linux AMDGPU Controller",
+      "section": [
+        "Applications",
+        "System tools"
+      ]
+    },
+    {
+      "key": "https://github.com/LambdaBytes/sping",
+      "name": "LambdaBytes/sping",
+      "url": "https://github.com/LambdaBytes/sping",
+      "description": "[sping] - Cross-platform ICMP/TCP connectivity diagnostics with network context, multi-target monitoring, and structured JSON output.",
       "section": [
         "Applications",
         "System tools"
@@ -6808,6 +6836,16 @@
       "name": "cloudflare/pingora",
       "url": "https://github.com/cloudflare/pingora",
       "description": "A library for building fast, reliable and evolvable network services.",
+      "section": [
+        "Applications",
+        "Web Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/dorianverlaine/pingclair",
+      "name": "dorianverlaine/pingclair",
+      "url": "https://github.com/dorianverlaine/pingclair",
+      "description": "A web server and reverse proxy built on Cloudflare Pingora, providing a Caddyfile-compatible configuration language, automatic HTTPS, HTTP/1.1, HTTP/2 and HTTP/3, load balancing, and static file serving.",
       "section": [
         "Applications",
         "Web Servers"
@@ -9100,6 +9138,16 @@
       "name": "static_assertions",
       "url": "https://crates.io/crates/static_assertions",
       "description": "Compile-time assertions to ensure that invariants are met",
+      "section": [
+        "Development tools",
+        "Static analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/tupe12334/linecheck",
+      "name": "tupe12334/linecheck",
+      "url": "https://github.com/tupe12334/linecheck",
+      "description": "[linecheck] - Enforces per-file line-count limits with per-glob warn/error thresholds and CI-friendly exit codes, so oversized files fail the build",
       "section": [
         "Development tools",
         "Static analysis"

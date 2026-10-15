@@ -1,12 +1,12 @@
 {
-  "etag": "W/\"83f5dd7fe7c46aa4a525935fac5860bea5a5ec75afacaf5c3a2d9a37c2f850c4\"",
+  "etag": "W/\"694e4a8d620e072bbc09cd4ca4bc9d45c44722b44ac1f95292b896be80f5fc60\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
     {
-      "key": "https://codeux.com/textual",
+      "key": "https://textualapp.com",
       "name": "Textual",
-      "url": "https://www.codeux.com/textual/",
+      "url": "https://www.textualapp.com/",
       "description": "Very customizable, ZNC integration, iCloud sync ($4.99). (source) macOS",
       "section": [
         "Clients"
@@ -31,10 +31,10 @@
       ]
     },
     {
-      "key": "https://sr.ht/~emersion/gamja",
+      "key": "https://codeberg.org/emersion/gamja",
       "name": "gamja",
-      "url": "https://sr.ht/~emersion/gamja/",
-      "description": "A simple IRC web client. (source) Web",
+      "url": "https://codeberg.org/emersion/gamja",
+      "description": "A simple IRC web client. Web",
       "section": [
         "Clients"
       ]
@@ -61,7 +61,7 @@
       "key": "https://quassel-irc.org",
       "name": "Quassel",
       "url": "https://quassel-irc.org",
-      "description": "Distributed (clients can attach to and detach from a central core that stays permanently online. (source) Linux macOS Windows",
+      "description": "Distributed (clients can attach to and detach from a central core that stays permanently online). (source) Linux macOS Windows",
       "section": [
         "Clients"
       ]
@@ -211,10 +211,10 @@
       ]
     },
     {
-      "key": "https://sr.ht/~emersion/goguma",
+      "key": "https://goguma.im",
       "name": "Goguma",
-      "url": "https://sr.ht/~emersion/goguma/",
-      "description": "An IRC client for mobile devices, from the creator of soju. Android Linux",
+      "url": "https://goguma.im/",
+      "description": "An IRC client for mobile devices, from the creator of soju. (source) Android Linux",
       "section": [
         "Clients"
       ]
@@ -253,7 +253,7 @@
       "key": "https://irccloud.com",
       "name": "IRCCloud",
       "url": "https://www.irccloud.com",
-      "description": "Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).",
+      "description": "Group chat for teams, friends, and communities. Stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).",
       "section": [
         "Bouncers",
         "Hosted"
@@ -273,7 +273,7 @@
       "key": "https://wiki.znc.in/ZNC",
       "name": "ZNC",
       "url": "https://wiki.znc.in/ZNC",
-      "description": "Most popular. many different plugins. (source) C++",
+      "description": "Most popular. Many different plugins. (source) C++",
       "section": [
         "Bouncers",
         "Self-hosted"
@@ -523,7 +523,7 @@
       "key": "https://github.com/Inspyre-Technologies/EveIRC",
       "name": "EveIRC",
       "url": "https://github.com/Inspyre-Technologies/EveIRC",
-      "description": "Extendable chat/channel/server-managenent service-providing bot. Using the Cinch Framework. Ruby",
+      "description": "Extendable chat/channel/server-management service-providing bot. Using the Cinch Framework. Ruby",
       "section": [
         "Bots"
       ]
@@ -676,7 +676,7 @@
       "key": "https://projects.malikania.fr/irccd/index.html",
       "name": "irccd",
       "url": "https://projects.malikania.fr/irccd/index.html",
-      "description": "Flexible IRC bot customizable with JavaScript. C++.",
+      "description": "Flexible IRC bot customizable with JavaScript. C++",
       "section": [
         "Frameworks"
       ]
@@ -695,7 +695,7 @@
       "key": "https://github.com/OpenTTD/dibridge",
       "name": "dibridge",
       "url": "https://github.com/OpenTTD/dibridge",
-      "description": "Discord ↔ IRC (with puppets) Python",
+      "description": "Discord ↔ IRC (with puppets). Python",
       "section": [
         "Frameworks",
         "Bridges"
@@ -765,7 +765,7 @@
       "key": "https://github.com/ProgVal/skyweb2irc",
       "name": "skyweb2irc",
       "url": "https://github.com/ProgVal/skyweb2irc",
-      "description": "Skype (webclient API) ↔ IRC. Javascript",
+      "description": "Skype (webclient API) ↔ IRC. JavaScript",
       "section": [
         "Frameworks",
         "Bridges"
@@ -785,7 +785,7 @@
       "key": "https://github.com/hifi/heisenbridge",
       "name": "Heisenbridge",
       "url": "https://github.com/hifi/heisenbridge",
-      "description": "Bouncer-style Matrix IRC bridge Python",
+      "description": "Bouncer-style Matrix IRC bridge. Python",
       "section": [
         "Frameworks",
         "Bridges"
@@ -795,7 +795,7 @@
       "key": "https://github.com/matrix-org/matrix-appservice-irc",
       "name": "Appservice-IRC",
       "url": "https://github.com/matrix-org/matrix-appservice-irc",
-      "description": "Gateway and bridge Matrix ↔ IRC Javascript",
+      "description": "Gateway and bridge Matrix ↔ IRC. JavaScript",
       "section": [
         "Frameworks",
         "Bridges"
@@ -832,9 +832,9 @@
       ]
     },
     {
-      "key": "https://wiki.ubuntu.com/IRC/ChannelList",
+      "key": "https://ubuntu.com/community/docs/support",
       "name": "#Ubuntu",
-      "url": "https://wiki.ubuntu.com/IRC/ChannelList",
+      "url": "https://ubuntu.com/community/docs/support",
       "description": "@Libera.Chat - Official Ubuntu support channel. (rules)",
       "section": [
         "Channels",
@@ -935,7 +935,7 @@
       "key": "https://modern.ircdocs.horse",
       "name": "Modern IRC Documents",
       "url": "https://modern.ircdocs.horse",
-      "description": "An attempt to write an update to the original IRC protocol. documentation (source)",
+      "description": "An attempt to write an update to the original IRC protocol documentation. (source)",
       "section": [
         "Protocol"
       ]
@@ -987,7 +987,7 @@
     },
     {
       "key": "https://github.com/waveplate/img2irc",
-      "name": "img2src",
+      "name": "img2irc",
       "url": "https://github.com/waveplate/img2irc",
       "description": "Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. Rust",
       "section": [

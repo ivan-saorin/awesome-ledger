@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"68be8c3813d21f084a56aa41f48fbd9f438a73d3cb38dc5c6484aa6195c05418\"",
+  "etag": "W/\"3d0121606fd8d413a25407f2755373cd6fa445b7404b2df8b56e3cbbd50eb83c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1826,6 +1826,15 @@
       "name": "RequestBin.com",
       "url": "https://requestbin.com",
       "description": "Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.",
+      "section": [
+        "APIs, Data, and ML"
+      ]
+    },
+    {
+      "key": "https://roic.ai",
+      "name": "ROIC.ai",
+      "url": "https://www.roic.ai/",
+      "description": "Financial Data API: income statements, balance sheets and cash flows, and earnings call transcripts (with audio and slides) for 68k+ companies. Free tier: 5 requests/minute, 2 years of history, no credit card.",
       "section": [
         "APIs, Data, and ML"
       ]
@@ -3761,6 +3770,15 @@
       "name": "tesults.com",
       "url": "https://www.tesults.com",
       "description": "Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://uiverify.ai",
+      "name": "UI Verify",
+      "url": "https://uiverify.ai",
+      "description": "Visual regression testing for Storybook, Playwright and Vitest, built for coding agents. 10,000 snapshots per month free, no credit card. 50,000 per month for open-source projects.",
       "section": [
         "Testing"
       ]
@@ -6583,6 +6601,15 @@
       ]
     },
     {
+      "key": "https://flagpool.io/en",
+      "name": "Flagpool",
+      "url": "https://www.flagpool.io/en/",
+      "description": "Feature flag management platform with a focus on simplicity and ease of use. Free plan includes creating up to 10 new flags per month, unlimited requests and targeting rules.",
+      "section": [
+        "Feature Toggles Management Platforms"
+      ]
+    },
+    {
       "key": "https://flagsmith.com",
       "name": "Flagsmith",
       "url": "https://flagsmith.com",
@@ -7595,6 +7622,15 @@
       "name": "SnapDeploy",
       "url": "https://snapdeploy.dev/",
       "description": "Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.",
+      "section": [
+        "PaaS"
+      ]
+    },
+    {
+      "key": "https://staxa.dev",
+      "name": "Staxa",
+      "url": "https://staxa.dev/",
+      "description": "Multi-tenant app hosting: each tenant gets its own app, database, subdomain and TLS in an isolated Kubernetes namespace through either a web app or API integration. Free tier includes 2 tenants with up to 2 services each (0.5 vCPU, 512 MB), free apps sleep after 24 hours of being idle.",
       "section": [
         "PaaS"
       ]

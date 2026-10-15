@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a6d0263c3463a9f9faee5f01517cf08f768ea0293c532e57e5d30d8a01e8ea04\"",
+  "etag": "W/\"e766b11ad464a717741261af18c9c117c81b4a41c9f4aada08d12ff5fd74efea\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8,6 +8,16 @@
       "name": "FarmBot",
       "url": "https://farm.bot/pages/open-source",
       "description": "Automated gardening machine to grow vegetables.",
+      "section": [
+        "Projects",
+        "Automation, Manufacturing, and Robotics"
+      ]
+    },
+    {
+      "key": "https://github.com/tomrodinger/servomotor",
+      "name": "Gearotons M17",
+      "url": "https://github.com/tomrodinger/servomotor",
+      "description": "Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body.",
       "section": [
         "Projects",
         "Automation, Manufacturing, and Robotics"
@@ -98,6 +108,16 @@
       "name": "RepRap",
       "url": "https://reprap.org/wiki/RepRap",
       "description": "Humanity's first general-purpose, self-replicating manufacturing machine.",
+      "section": [
+        "Projects",
+        "Automation, Manufacturing, and Robotics"
+      ]
+    },
+    {
+      "key": "https://github.com/roboninecom/SO-ARM-102",
+      "name": "SO-ARM 102",
+      "url": "https://github.com/roboninecom/SO-ARM-102",
+      "description": "3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.",
       "section": [
         "Projects",
         "Automation, Manufacturing, and Robotics"
@@ -198,6 +218,16 @@
       "name": "SlimeVR",
       "url": "https://slimevr.dev",
       "description": "Full-body tracking sensors for virtual reality and motion capture.",
+      "section": [
+        "Projects",
+        "Consumer Devices"
+      ]
+    },
+    {
+      "key": "https://github.com/SuveenE/tiny-film-camera",
+      "name": "Tiny Film Camera",
+      "url": "https://github.com/SuveenE/tiny-film-camera",
+      "description": "Raspberry Pi Zero 2 W digital camera with physical controls, three selectable image filters, and a 3D-printable enclosure.",
       "section": [
         "Projects",
         "Consumer Devices"
@@ -858,6 +888,24 @@
       ]
     },
     {
+      "key": "https://icboms.com",
+      "name": "ICBOMS",
+      "url": "https://icboms.com",
+      "description": "Open electronic component search engine, BOM management platform, and semiconductor distribution database.",
+      "section": [
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://robopartpicker.com",
+      "name": "RoboPartPicker",
+      "url": "https://robopartpicker.com",
+      "description": "Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.",
+      "section": [
+        "Platforms"
+      ]
+    },
+    {
       "key": "https://soundcloud.com/utrechtuniversity/r2os-a-closer-look-at-open-hardware-with-jose-urra-llanusa-and-santosh-ilamparuthi",
       "name": "Road to Open Science",
       "url": "https://soundcloud.com/utrechtuniversity/r2os-a-closer-look-at-open-hardware-with-jose-urra-llanusa-and-santosh-ilamparuthi",
@@ -1060,6 +1108,15 @@
       "name": "Awesome Electronics",
       "url": "https://github.com/kitspace/awesome-electronics",
       "description": "A curated list of awesome resources for electronic engineers and hobbyists.",
+      "section": [
+        "Related Awesome"
+      ]
+    },
+    {
+      "key": "https://github.com/way2pramil/awesome-kicad-projects",
+      "name": "Awesome KiCad Projects",
+      "url": "https://github.com/way2pramil/awesome-kicad-projects",
+      "description": "Curated list of open source hardware projects whose PCBs are designed in KiCad.",
       "section": [
         "Related Awesome"
       ]
