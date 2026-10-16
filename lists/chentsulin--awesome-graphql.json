@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e8aac7d86537ab246e0eb171b45aa28cb33bc1c803448f494666d9a486110be7\"",
+  "etag": "W/\"0b396dc61235e9a40150dc89c8b13056550ce73416da57674e1a864c8f910707\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3523,6 +3523,16 @@
       "name": "schemathesis",
       "url": "https://github.com/schemathesis/schemathesis",
       "description": "Runs arbitrary queries matching a GraphQL schema to find server errors.",
+      "section": [
+        "Tools",
+        "Tools - Testing, Prototyping & Mocking"
+      ]
+    },
+    {
+      "key": "https://nickgeorgeai.com/fieldtwin",
+      "name": "fieldtwin",
+      "url": "https://nickgeorgeai.com/fieldtwin",
+      "description": "Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.",
       "section": [
         "Tools",
         "Tools - Testing, Prototyping & Mocking"

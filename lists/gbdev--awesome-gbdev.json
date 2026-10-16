@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c4782a7b5a3efddb2fbdc43f612b3be280443a9503a0b214d6852245a42bb679\"",
+  "etag": "W/\"46427030ee2f4c4a79159ad3908784aa5db7db13aa635399cb7af5b0529c5c10\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -195,16 +195,6 @@
       ]
     },
     {
-      "key": "https://github.com/applefreak/esp8266-gameboy-printer",
-      "name": "ESP8266 GB Printer",
-      "url": "https://github.com/applefreak/esp8266-gameboy-printer",
-      "description": "A device that emulates the GB Printer and lets you retrieve images using WiFi.",
-      "section": [
-        "Documentation",
-        "Hardware"
-      ]
-    },
-    {
       "key": "https://web.archive.org/web/20220628023315/https://verhoeven272.nl/fruttenboel/Gameboy/index.html",
       "name": "fruttenboel",
       "url": "https://web.archive.org/web/20220628023315/https://verhoeven272.nl/fruttenboel/Gameboy/index.html",
@@ -369,16 +359,6 @@
       "name": "Ben Heck Reverse Engineers Game Boy Printer",
       "url": "https://www.youtube.com/watch?v=43FfJvd-YP4",
       "description": "(Errata: the used thermal paper is expired, 4 colors are actually printable).",
-      "section": [
-        "Documentation",
-        "Peripherals"
-      ]
-    },
-    {
-      "key": "https://github.com/mofosyne/arduino-gameboy-printer-emulator",
-      "name": "Arduino Game Boy Printer Emulator",
-      "url": "https://github.com/mofosyne/arduino-gameboy-printer-emulator",
-      "description": "Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.",
       "section": [
         "Documentation",
         "Peripherals"
@@ -1070,7 +1050,7 @@
       "key": "https://github.com/ulrikdamm/Assembler",
       "name": "Assembler",
       "url": "https://github.com/ulrikdamm/Assembler",
-      "description": "Assembler written in Swift.",
+      "description": "written in Swift.",
       "section": [
         "Software Development",
         "Compilers",
@@ -1103,7 +1083,7 @@
       "key": "https://github.com/zlfn/rust-gb",
       "name": "Rust-GB",
       "url": "https://github.com/zlfn/rust-gb",
-      "description": "A compiler and library that enable the development of GB ROMs using Rust.",
+      "description": "A toolchain and SDK that enable the development of GB ROMs using Rust.",
       "section": [
         "Software Development",
         "Compilers",
@@ -3143,6 +3123,26 @@
       "section": [
         "Reverse Engineering",
         "Game Disassemblies"
+      ]
+    },
+    {
+      "key": "https://github.com/mofosyne/arduino-gameboy-printer-emulator",
+      "name": "Arduino Gameboy Printer Emulator",
+      "url": "https://github.com/mofosyne/arduino-gameboy-printer-emulator",
+      "description": "Emulate a gameboy printer via the gameboy link cable.",
+      "section": [
+        "Game Boy Camera",
+        "Retrieving images"
+      ]
+    },
+    {
+      "key": "https://github.com/applefreak/esp8266-gameboy-printer",
+      "name": "ESP8266 Game Boy Printer",
+      "url": "https://github.com/applefreak/esp8266-gameboy-printer",
+      "description": "A device that emulates the Game Boy Printer and lets you retrieve images using WiFi, powered by an ESP8266.",
+      "section": [
+        "Game Boy Camera",
+        "Retrieving images"
       ]
     },
     {

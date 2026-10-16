@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ec6bfe44540e47f3cfbb10a8d838ec46c419137864d9542ccbab67a929ca4a84\"",
+  "etag": "W/\"f7fe962d4818479d6fc6e42a3d866f94f5b2163cc07fe0fde4da8fd526297f8c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -130,6 +130,15 @@
       ]
     },
     {
+      "key": "https://github.com/crmne/omarchy-active-window",
+      "name": "Active Window + Icon",
+      "url": "https://github.com/crmne/omarchy-active-window",
+      "description": "Shows the focused window title and application icon in the bar, with adjustable icon saturation.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/stappmus/omarchy-activity-monitor",
       "name": "Activity Monitor",
       "url": "https://github.com/stappmus/omarchy-activity-monitor",
@@ -256,6 +265,24 @@
       ]
     },
     {
+      "key": "https://github.com/crmne/omarchy-lyrics",
+      "name": "Lyrics Synced with Music",
+      "url": "https://github.com/crmne/omarchy-lyrics",
+      "description": "Displays lyrics for the current media player track and highlights each line as the song plays.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/crmne/omarchy-mpris",
+      "name": "Media Controls + Album Art",
+      "url": "https://github.com/crmne/omarchy-mpris",
+      "description": "Shows album art, track details, and playback controls for MPRIS media players in the bar.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/lijiawei0305-pixel/omarchy-mihomo-plugin",
       "name": "Mihomo",
       "url": "https://github.com/lijiawei0305-pixel/omarchy-mihomo-plugin",
@@ -296,6 +323,15 @@
       "name": "Okomart",
       "url": "https://github.com/brianblakely/omarchy-plugins",
       "description": "Storefront to browse, install, update, and remove Omarchy plugins.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/crmne/omacal",
+      "name": "OmaCal",
+      "url": "https://github.com/crmne/omacal",
+      "description": "Adds calendar events, quick add, reminders, and time tracking to the stock clock and calendar, with a HEY backend.",
       "section": [
         "Plugins"
       ]
@@ -409,10 +445,28 @@
       ]
     },
     {
+      "key": "https://github.com/crmne/omastats",
+      "name": "OmaStats",
+      "url": "https://github.com/crmne/omastats",
+      "description": "Monitors CPU, GPU, memory, disks, network, temperatures, fans, and battery with bar graphs and detailed panels.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/dmitry-solomadin/omastocks",
       "name": "Omastocks",
       "url": "https://github.com/dmitry-solomadin/omastocks",
       "description": "Stock research app with charts, market heatmaps, watchlists, and a top-bar ticker.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/crmne/omatasks",
+      "name": "OmaTasks for Todoist",
+      "url": "https://github.com/crmne/omatasks",
+      "description": "Brings Todoist tasks, Quick Add, editing, and drag-to-reorder into the Omarchy bar.",
       "section": [
         "Plugins"
       ]
@@ -544,6 +598,15 @@
       ]
     },
     {
+      "key": "https://github.com/crmne/fastframe",
+      "name": "fastframe",
+      "url": "https://github.com/crmne/fastframe",
+      "description": "Native Rust application framework with automatic Omarchy palette updates for egui apps.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
       "key": "https://github.com/aloisdeniel/flutter_omarchy",
       "name": "flutter_omarchy",
       "url": "https://github.com/aloisdeniel/flutter_omarchy",
@@ -593,6 +656,15 @@
       "name": "hyprmon",
       "url": "https://github.com/erans/hyprmon",
       "description": "TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.",
+      "section": [
+        "Development Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/crmne/hyprmoncfg",
+      "name": "hyprmoncfg",
+      "url": "https://github.com/crmne/hyprmoncfg",
+      "description": "Visual Hyprland monitor editor with profiles, automatic switching, and Omarchy integration.",
       "section": [
         "Development Tools"
       ]
@@ -1030,6 +1102,15 @@
       ]
     },
     {
+      "key": "https://github.com/crmne/omafish",
+      "name": "omafish",
+      "url": "https://github.com/crmne/omafish",
+      "description": "Fish shell setup based on Omarchy defaults, with matching aliases and Omarchy command completions.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
       "key": "https://github.com/omacom-io/omarchy-mirror",
       "name": "omarchy-mirror",
       "url": "https://github.com/omacom-io/omarchy-mirror",
@@ -1061,6 +1142,24 @@
       "name": "sheikhlimon/dotfiles",
       "url": "https://github.com/sheikhlimon/dotfiles",
       "description": "Personal Omarchy dotfiles configuration.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/crmne/spotifast",
+      "name": "Spotifast",
+      "url": "https://github.com/crmne/spotifast",
+      "description": "Native Spotify client with playback, Spotify Connect, and automatic Omarchy theme support.",
+      "section": [
+        "Related Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/crmne/zapfast",
+      "name": "ZapFast",
+      "url": "https://github.com/crmne/zapfast",
+      "description": "Native WhatsApp client with messaging, calls, and automatic Omarchy theme support.",
       "section": [
         "Related Projects"
       ]

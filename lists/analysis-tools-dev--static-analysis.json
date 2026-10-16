@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d39e5af900ee2b935c6fe2ad9a8dccdedd5fb3ffd66d76632eed887e4bc70597\"",
+  "etag": "W/\"11d0df56504afbec269af2960f6ddbeaee4ddcab9336627b2a8bd01135339bd5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1394,6 +1394,15 @@
       "name": "phpDocumentor",
       "url": "https://www.phpdoc.org",
       "description": "Analyzes PHP source code to generate documentation.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/sebastianbergmann/phploc",
+      "name": "phploc",
+      "url": "https://github.com/sebastianbergmann/phploc",
+      "description": "A tool for quickly measuring the size and analyzing the structure of a PHP project.",
       "section": [
         "Programming Languages"
       ]
@@ -4103,6 +4112,15 @@
       "name": "clair",
       "url": "https://github.com/coreos/clair",
       "description": "Vulnerability Static Analysis for Containers.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://tmatens.github.io/compose-lint",
+      "name": "compose-lint",
+      "url": "https://tmatens.github.io/compose-lint/",
+      "description": "Security linter for Docker Compose files. Checks compose.yaml against 27 rules taken from the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark: mounted Docker socket, privileged mode, missing no-new-privileges, extra capabilities, writable root filesystem, ports bound to all interfaces, credentials in environment variables, unpinned images. Each finding says how to fix it and which runtime error the fix can cause. JSON and SARIF output, a GitHub Action, and a dry-run auto-fix.",
       "section": [
         "Other"
       ]

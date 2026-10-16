@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4b9127d266bfdbe3c0464ef7f10b4c21920b1cde46f0a5bc54b8e59e6ffc79be\"",
+  "etag": "W/\"064a393ca69fa712ff8a34a9e852afa053c536e5dab5a173b1326f02d045cc17\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1504,6 +1504,16 @@
       ]
     },
     {
+      "key": "https://github.com/haabe/mycelium",
+      "name": "Mycelium",
+      "url": "https://github.com/haabe/mycelium",
+      "description": "by Håvard Bartnes - A plugin that holds the agent back from writing code until the builder has answered four questions in the repo: what the problem is, who has it, what is assumed, and what would show it to be wrong. The answers live in the repo as YAML the agent is held to, next to a decision log.",
+      "section": [
+        "Agent Orchestration",
+        "SDLC"
+      ]
+    },
+    {
       "key": "https://github.com/tsmztech/napkin-to-blueprint",
       "name": "napkin-to-blueprint",
       "url": "https://github.com/tsmztech/napkin-to-blueprint",
@@ -1518,6 +1528,16 @@
       "name": "OctoShell",
       "url": "https://github.com/savvasioakeim/OctoShell",
       "description": "by savvasioakeim - Terminal workspace for Windows and macOS, built on command blocks, that runs Claude Code in git worktrees, one per task, each with its own shell and dev server. Features include Strategy Mode (several agents plan a change before writing code), a Reviewer agent that reads each change for regressions, and QA Mode (checklist over the running app).",
+      "section": [
+        "Agent Orchestration",
+        "SDLC"
+      ]
+    },
+    {
+      "key": "https://github.com/michael-denyer/pstack-claude",
+      "name": "pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "by Michael Denyer - Claude Code version of Lauren Tan's Poteto's pstack. Rigorous agent workflows with Cursor primitives translated to other agents. Supports multiple providers.",
       "section": [
         "Agent Orchestration",
         "SDLC"
@@ -1569,10 +1589,28 @@
       ]
     },
     {
+      "key": "https://github.com/sergebulaev/linkedin-skills",
+      "name": "LinkedIn Skills",
+      "url": "https://github.com/sergebulaev/linkedin-skills",
+      "description": "by Serge Bulaev - A set of skills for LinkedIn marketing: drafting posts, comments and replies, extracting the hook formula from a viral post, planning a week of content, rewriting a profile, and segmenting the people who engaged. Posts are read through Apify and published through Publora, and every skill shows a draft for approval before anything goes out.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
       "key": "https://github.com/gilles-g/localpr",
       "name": "localpr",
       "url": "https://github.com/gilles-g/localpr",
       "description": "by gilles-g - Reviews Claude's uncommitted changes in a local GitHub-style pull request page: comment on any line, send comments in batches while Claude keeps working, ask Claude questions answered inline in the thread, and get each comment back marked fixed or refused.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
+      "key": "https://github.com/alexex1993/mcu-skills",
+      "name": "mcu-skills",
+      "url": "https://github.com/alexex1993/mcu-skills",
+      "description": "by Alex New - A collection of board-specific Claude Code skills for microcontrollers firmware development, one per board, covering STM32, ESP32, ESP8266, RP2040/RP2350, nRF52840 and AVR.Each skill documents pin mapping, clock and peripheral pitfalls, PlatformIO/toolchain setup and flashing.",
       "section": [
         "Skills"
       ]
@@ -1654,6 +1692,15 @@
       "name": "faf-cli",
       "url": "https://github.com/Wolfe-Jam/faf-cli",
       "description": "by Wolfe-Jam - Authors and versions CLAUDE.md and AGENTS.md from a repository's actual detected stack, so Claude Code's project context stays in sync with the code instead of drifting. One typed source file (project.faf, an IANA-registered media type) is the single origin for every assistant's context file; a deterministic score reports how complete that context is. The file lives in the repo and carries no telemetry.",
+      "section": [
+        "Memory & Context Persistence"
+      ]
+    },
+    {
+      "key": "https://github.com/huggingface/funes",
+      "name": "funes",
+      "url": "https://github.com/huggingface/funes",
+      "description": "by David Corvoysier - Durable cross-agent memory for Claude Code, Codex, pi, and Hermes. Your memory is a Hugging Face dataset you own: recall it from any machine or share it with your team. Single binary, local index, pinned local embedding models.",
       "section": [
         "Memory & Context Persistence"
       ]
