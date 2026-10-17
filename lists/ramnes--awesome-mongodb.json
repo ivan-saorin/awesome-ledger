@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"56ba0970f829e32b159376e2d6d8fb26fe48493682720c442fe76d057d1ae4eb\"",
+  "etag": "W/\"ec6d6ccbec54a647df24ccacf6e99c84a93f0b44248338ad966976db383529ae\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1018,6 +1018,16 @@
       "name": "mongodb-tools",
       "url": "https://github.com/jwilder/mongodb-tools",
       "description": "Three neat Python scripts to work with collections and indexes",
+      "section": [
+        "Tools",
+        "Administration"
+      ]
+    },
+    {
+      "key": "https://github.com/YigitCittan/mongorescue",
+      "name": "MongoRescue",
+      "url": "https://github.com/YigitCittan/mongorescue",
+      "description": "Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption",
       "section": [
         "Tools",
         "Administration"

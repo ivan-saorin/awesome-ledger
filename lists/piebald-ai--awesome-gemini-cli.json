@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9294b05ae1f335ace9368b4eba7032be6e8790a04d761e6ece3c1b76953b30c6\"",
+  "etag": "W/\"6996bc6670acc8d6e0697cb793f324ca3e0de0842837a2d06be67d0dca4f9b02\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -386,6 +386,15 @@
       "name": "magents",
       "url": "https://github.com/abnegate/magents",
       "description": "Gemini CLI extension, MCP server and CLI over the session transcripts Gemini CLI, Claude Code, Codex, Copilot CLI, Cursor, Grok and OpenCode already write. List and read other live sessions, hand off compact state, send into a specific chat, or spawn a headless session that replies through a shared inbox. Install: gemini extensions install https://github.com/abnegate/magents. Rust, MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/oll4com/spaceapp",
+      "name": "SpaceApp",
+      "url": "https://github.com/oll4com/spaceapp",
+      "description": "Self-hosted web workspace that runs Gemini CLI alongside OpenCode, Codex, Claude Code and other coding CLIs as side-by-side panes in persistent rooms, with MCP servers and managed browser panes. Install: npx --yes run-spaceapp@latest install. Source-available (BSL 1.1).",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -845,6 +854,15 @@
       "name": "MoltNode by Chord",
       "url": "https://github.com/tuantqse90/moltnode-mcp",
       "description": "Gemini CLI extension that connects two hosted MCP servers and a GEMINI.md context file: MoltNode for JSON-RPC reads on 31 blockchains, and Chord for DEX swap quotes and unsigned swap transactions on Base, Monad, BNB Chain, Avalanche, Arbitrum, Robinhood Chain and Arc, plus token boards, candles and wallet PnL. No API key; the agent's own wallet signs every transaction. MIT. Install via gemini extensions install https://github.com/tuantqse90/moltnode-mcp.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/ysskrishna/ai-agent-skills",
+      "name": "Thinking Methods",
+      "url": "https://github.com/ysskrishna/ai-agent-skills",
+      "description": "Curated Agent Skills (SKILL.md) for structured thinking on real decisions: five whys, pre-mortem, trade-offs, prioritization, six thinking hats, and twelve more methods plus a selector skill. Install as a Gemini extension (gemini extensions install https://github.com/ysskrishna/ai-agent-skills) or skills only (gemini skills install https://github.com/ysskrishna/ai-agent-skills.git --path skills). MIT.",
       "section": [
         "Commands & Extensions"
       ]
@@ -2051,6 +2069,24 @@
       "name": "DC Hub",
       "url": "https://github.com/azmartone67/dchub-mcp-server",
       "description": "Live data for data-center site selection: a daily Data Center Power Index (DCPI) of where data centers can get grid power across 300+ markets, live grid feeds from the seven US ISOs, plus fiber, gas and electricity prices. Answers carry an as-of timestamp and a citation line. 94 tools, remote Streamable HTTP, free tier needs no key. Install: gemini extensions install https://github.com/azmartone67/dchub-mcp-server.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/huynhtanan/google-hotels-mcp",
+      "name": "Google Hotels MCP",
+      "url": "https://github.com/huynhtanan/google-hotels-mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Search Google Hotels and Google Vacation Rentals from Gemini CLI: per-OTA nightly rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers), 3-month daily price calendars, amenities, nearby places and review topics. Local stdio server (3 tools) wrapping Apify Google Hotels actors; uvx --from \"git+https://github.com/huynhtanan/google-hotels-mcp.git@v0.1.2\" google-hotels-mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://altorank.co/docs/mcp",
+      "name": "AltoRank",
+      "url": "https://altorank.co/docs/mcp/?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Open-source SEO content software with a hosted MCP server: check whether search engines and AI crawlers can read a site, research keywords, read Google Search Console, and write sourced drafts into a person's review queue. No approve or publish tool. AGPL-3.0 and self-hostable (source). Remote Streamable HTTP with OAuth sign-in. Add with gemini mcp add --transport http altorank https://app.altorank.co/api/mcp.",
       "section": [
         "MCP Servers"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e050a783f43d61e068efcd1a7ee1703d5ae3aabaa926512ea69b866506782af0\"",
+  "etag": "W/\"6d430557604f13ff0bd1ef79669b417cd5e4eba2bef3e9a85cfe8b82ebb8bf64\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -144,9 +144,9 @@
       ]
     },
     {
-      "key": "https://github.com/bampakoa/ngx-electronify",
+      "key": "https://github.com/bampakoa/ngx-electron/tree/master/packages/builder",
       "name": "ngx-electronify",
-      "url": "https://github.com/bampakoa/ngx-electronify",
+      "url": "https://github.com/bampakoa/ngx-electron/tree/master/packages/builder",
       "description": "Angular CLI builder that runs your application in the desktop using Electron.",
       "section": [
         "Angular",
@@ -294,9 +294,9 @@
       ]
     },
     {
-      "key": "https://github.com/qodalis-solutions/angular-web-cli",
-      "name": "angular-web-cli",
-      "url": "https://github.com/qodalis-solutions/angular-web-cli",
+      "key": "https://github.com/qodalis-solutions/web-cli",
+      "name": "Qodalis Web CLI",
+      "url": "https://github.com/qodalis-solutions/web-cli",
       "description": "A flexible CLI tool designed to streamline workflows, automate tasks, and provide customizable utilities for developers.",
       "section": [
         "Angular",
@@ -314,9 +314,9 @@
       ]
     },
     {
-      "key": "https://github.com/FirebaseExtended/firebase-framework-tools",
-      "name": "firebase-framework-tools",
-      "url": "https://github.com/FirebaseExtended/firebase-framework-tools",
+      "key": "https://github.com/firebase/apphosting-adapters",
+      "name": "Firebase App Hosting adapters",
+      "url": "https://github.com/firebase/apphosting-adapters",
       "description": "Experimental addon to the Firebase CLI to add web framework support.",
       "section": [
         "Angular",
@@ -348,16 +348,6 @@
       "name": "js-stack",
       "url": "https://github.com/vipinyadav01/js-stack",
       "description": "Modern CLI for scaffolding production-ready JavaScript full-stack projects, with customization and best-practice presets.",
-      "section": [
-        "Angular",
-        "CLI Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/yuo-app/lin",
-      "name": "lin",
-      "url": "https://github.com/yuo-app/lin",
-      "description": "A CLI tool that translates locale JSONs using LLMs.",
       "section": [
         "Angular",
         "CLI Tools"
@@ -2664,16 +2654,6 @@
       ]
     },
     {
-      "key": "https://github.com/fvilli/simply-direct",
-      "name": "simply-direct",
-      "url": "https://github.com/fvilli/simply-direct",
-      "description": "A fullstack communication library that bridges Angular and NestJS through real-time, bidirectional communication powered by WebSockets.",
-      "section": [
-        "Architecture and Advanced Topics",
-        "HTTP"
-      ]
-    },
-    {
       "key": "https://github.com/ressurectit/ng-error-handling",
       "name": "ng-error-handling",
       "url": "https://github.com/ressurectit/ng-error-handling",
@@ -3604,16 +3584,6 @@
       ]
     },
     {
-      "key": "https://github.com/Kobolden/angular-skills",
-      "name": "@Kobolden/angular-skills",
-      "url": "https://github.com/Kobolden/angular-skills",
-      "description": "Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.",
-      "section": [
-        "Development Utilities",
-        "AI"
-      ]
-    },
-    {
       "key": "https://github.com/vuanhtung10/angular-vibe-kit",
       "name": "angular-vibe-kit",
       "url": "https://github.com/vuanhtung10/angular-vibe-kit",
@@ -4324,6 +4294,16 @@
       ]
     },
     {
+      "key": "https://github.com/bo-516/ide-byebye",
+      "name": "ide-byebye",
+      "url": "https://github.com/bo-516/ide-byebye",
+      "description": "Click an element in the running app, describe the change, and send its template source location to AI coding agents such as Claude Code, Codex and Cursor.",
+      "section": [
+        "Development Utilities",
+        "Code Analysis"
+      ]
+    },
+    {
       "key": "https://github.com/sinanyilmaz0/modulens",
       "name": "modulens",
       "url": "https://github.com/sinanyilmaz0/modulens",
@@ -4608,16 +4588,6 @@
       "name": "docgeni",
       "url": "https://github.com/docgeni/docgeni",
       "description": "A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.",
-      "section": [
-        "Development Utilities",
-        "Documentation Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/timonkrebs/ng-component-hierarchy-visualizer",
-      "name": "ng-component-hierarchy-visualizer",
-      "url": "https://github.com/timonkrebs/ng-component-hierarchy-visualizer",
-      "description": "An unobtrusive tool that generates Mermaid diagrams of your Angular component hierarchy from route configs.",
       "section": [
         "Development Utilities",
         "Documentation Tools"
@@ -5284,16 +5254,6 @@
       ]
     },
     {
-      "key": "https://github.com/mariokreitz/langsync",
-      "name": "langsync",
-      "url": "https://github.com/mariokreitz/langsync",
-      "description": "CLI tooling for localization workflows in TypeScript projects.",
-      "section": [
-        "Development Utilities",
-        "Internationalization"
-      ]
-    },
-    {
       "key": "https://github.com/Lessify/localess",
       "name": "localess",
       "url": "https://github.com/Lessify/localess",
@@ -5588,16 +5548,6 @@
       "name": "Transifex",
       "url": "https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk",
       "description": "You can easily localize Angular components using the Transifex library extension. This library extends the functionality of Transifex Native JavaScript SDK.",
-      "section": [
-        "Development Utilities",
-        "Internationalization"
-      ]
-    },
-    {
-      "key": "https://github.com/Marbulinek/TransLatte",
-      "name": "TransLatte",
-      "url": "https://github.com/Marbulinek/TransLatte",
-      "description": "A CLI tool that generates translation JSON files using the Lingva API.",
       "section": [
         "Development Utilities",
         "Internationalization"
@@ -7584,10 +7534,10 @@
       ]
     },
     {
-      "key": "https://github.com/GonzaloCarmenado/lib-e2e-cypress-for-dummys",
-      "name": "lib-e2e-cypress-for-dummys",
-      "url": "https://github.com/GonzaloCarmenado/lib-e2e-cypress-for-dummys",
-      "description": "An Angular library that automatically records the Cypress commands needed to test your application while you browse and use the interface.",
+      "key": "https://github.com/GonzaloCarmenado/lib-e2e-cypress-for-dummys-ts",
+      "name": "lib-e2e-cypress-for-dummys-ts",
+      "url": "https://github.com/GonzaloCarmenado/lib-e2e-cypress-for-dummys-ts",
+      "description": "A library that automatically records the Cypress commands needed to test your application while you browse and use the interface.",
       "section": [
         "Testing",
         "E2E"
@@ -8478,26 +8428,6 @@
       "name": "angular.ng",
       "url": "https://github.com/desoga10/angular.ng",
       "description": "An open-source productivity dashboard built with Angular and Supabase.",
-      "section": [
-        "Site Templates",
-        "Free Templates"
-      ]
-    },
-    {
-      "key": "https://github.com/minhpham-mew/angluar-crm",
-      "name": "angluar-crm",
-      "url": "https://github.com/minhpham-mew/angluar-crm",
-      "description": "Angular CRM template with contact management, deal tracking, and analytics.",
-      "section": [
-        "Site Templates",
-        "Free Templates"
-      ]
-    },
-    {
-      "key": "https://github.com/sebbegamer2222/ngx-admin-v20",
-      "name": "ngx-admin-v20",
-      "url": "https://github.com/sebbegamer2222/ngx-admin-v20",
-      "description": "With this admin dashboard, you’ll enjoy a modern Bootstrap 5 UI with SASS customization, reusable components, and a sleek material theme.",
       "section": [
         "Site Templates",
         "Free Templates"
@@ -9668,16 +9598,6 @@
       "name": "mayacharts",
       "url": "https://github.com/BbekShr/mayacharts",
       "description": "A framework-agnostic, zero-dependency web component that renders beautiful, accessible charts in just a few lines of code, powered entirely by the browser.",
-      "section": [
-        "Third Party Components",
-        "Charts"
-      ]
-    },
-    {
-      "key": "https://github.com/beany-vu/michi-vz-mono",
-      "name": "michi-vz-mono",
-      "url": "https://github.com/beany-vu/michi-vz-mono",
-      "description": "One engine powering 17 interactive, accessible chart types with seamless support for Angular and more, all emitting LLM‑ready data for reports, dashboards, and AI features.",
       "section": [
         "Third Party Components",
         "Charts"
@@ -11784,9 +11704,9 @@
       ]
     },
     {
-      "key": "https://github.com/JsDaddy/ngx-mask",
+      "key": "https://github.com/NepipenkoIgor/ngx-mask",
       "name": "ngx-mask",
-      "url": "https://github.com/JsDaddy/ngx-mask",
+      "url": "https://github.com/NepipenkoIgor/ngx-mask",
       "description": "Angular Plugin to make masks on form fields and html elements.",
       "section": [
         "Third Party Components",
@@ -13784,16 +13704,6 @@
       ]
     },
     {
-      "key": "https://github.com/laynjs/layn",
-      "name": "layn",
-      "url": "https://github.com/laynjs/layn",
-      "description": "A framework-agnostic layout engine featuring virtualized, SSR-deterministic masonry and justified packing layouts.",
-      "section": [
-        "Third Party Components",
-        "Layout"
-      ]
-    },
-    {
       "key": "https://github.com/itihon/layout-virtual",
       "name": "layout-virtual",
       "url": "https://github.com/itihon/layout-virtual",
@@ -13868,16 +13778,6 @@
       "name": "loaderx-arun",
       "url": "https://github.com/Arun44764/loaderx-arun",
       "description": "500+ Next-Generation Animated UI Loaders.",
-      "section": [
-        "Third Party Components",
-        "Loaders"
-      ]
-    },
-    {
-      "key": "https://github.com/lucapiciollo/loadingTrace",
-      "name": "loadingTrace",
-      "url": "https://github.com/lucapiciollo/loadingTrace",
-      "description": "Angular loading overlay with zero boilerplate, 76 animations, auto‑tracking, named overlays, determinate progress, runtime config, and Signals.",
       "section": [
         "Third Party Components",
         "Loaders"
@@ -14794,16 +14694,6 @@
       ]
     },
     {
-      "key": "https://github.com/domideimel/ng-tool-collection",
-      "name": "ng-tool-collection",
-      "url": "https://github.com/domideimel/ng-tool-collection",
-      "description": "Useful Tools written in Angular.",
-      "section": [
-        "Third Party Components",
-        "Mixed Utilities"
-      ]
-    },
-    {
       "key": "https://yaagoub.org",
       "name": "yaagoub",
       "url": "https://yaagoub.org/",
@@ -15098,16 +14988,6 @@
       "name": "Indice.Angular",
       "url": "https://github.com/indice-co/Indice.Angular",
       "description": "A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.",
-      "section": [
-        "Third Party Components",
-        "Mixed Utilities"
-      ]
-    },
-    {
-      "key": "https://github.com/therightthings/trt-web/tree/dev",
-      "name": "trt-web-utils",
-      "url": "https://github.com/therightthings/trt-web/tree/dev",
-      "description": "Monorepo for the @trt-web packages, which includes a Firebase admin helper library and more.",
       "section": [
         "Third Party Components",
         "Mixed Utilities"
@@ -16384,6 +16264,16 @@
       ]
     },
     {
+      "key": "https://github.com/gultyayev/ngx-virtual-dnd",
+      "name": "ngx-virtual-dnd",
+      "url": "https://github.com/gultyayev/ngx-virtual-dnd",
+      "description": "Angular drag and drop for virtual scrolling.",
+      "section": [
+        "Third Party Components",
+        "Scroll"
+      ]
+    },
+    {
       "key": "https://rxdb.info",
       "name": "rxdb",
       "url": "https://rxdb.info/",
@@ -17028,16 +16918,6 @@
       "name": "ngx-nova-ui",
       "url": "https://github.com/lebocow/ngx-nova-ui",
       "description": "A modern Angular 20 UI component library built with signals, standalone components, and a CSS-first theming approach.",
-      "section": [
-        "Third Party Components",
-        "UI Libraries"
-      ]
-    },
-    {
-      "key": "https://github.com/MatoMakuch/maxterdev/tree/main/projects/ngx-components",
-      "name": "MaxterDev NGX Components",
-      "url": "https://github.com/MatoMakuch/maxterdev/tree/main/projects/ngx-components",
-      "description": "A highly flexible and SCSS-customizable components library for Angular.",
       "section": [
         "Third Party Components",
         "UI Libraries"

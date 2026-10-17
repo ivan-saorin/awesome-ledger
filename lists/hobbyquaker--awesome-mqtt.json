@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c3ed7f6e965c3648e821cbcb75b3a76c16c91de222d596bc7c0802b811e3e174\"",
+  "etag": "W/\"5f3ef27f5857582dc935363daa9d715230a3bf194c773a839a5307e9b794cf88\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1196,6 +1196,16 @@
       ]
     },
     {
+      "key": "https://github.com/ashtonian/mqttv5",
+      "name": "mqttv5",
+      "url": "https://github.com/ashtonian/mqttv5",
+      "description": "MQTT v5 client with allocation-free PUBLISH decoding, session resume, file-backed QoS 1/2 persistence and multi-broker failover.",
+      "section": [
+        "Clients",
+        "GoLang"
+      ]
+    },
+    {
       "key": "https://github.com/xHasKx/luamqtt",
       "name": "luamqtt",
       "url": "https://github.com/xHasKx/luamqtt/",
@@ -1741,6 +1751,16 @@
       "name": "snmp2mqtt",
       "url": "https://c0d3.sh/andre/snmp2mqtt",
       "description": "Python based SNMP v2 and v3 bridge to MQTT, active project in late 2025.",
+      "section": [
+        "Interfaces",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/fclairamb/solidping",
+      "name": "SolidPing",
+      "url": "https://github.com/fclairamb/solidping",
+      "description": "Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.",
       "section": [
         "Interfaces",
         "Monitoring"

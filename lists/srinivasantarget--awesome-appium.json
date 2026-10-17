@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c81fb9d3797213c3906e2df715f7966356620dda44da3dd34d0d31a0fb019b72\"",
+  "etag": "W/\"7759038500a28c330302d5d1ed3e8beb195b5d4c7308710646afbdcb6584ced5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1381,6 +1381,15 @@
       ]
     },
     {
+      "key": "https://testmuai.com/lambdatest-appium",
+      "name": "TestMu AI",
+      "url": "https://www.testmuai.com/lambdatest-appium/",
+      "description": "AI-native cloud testing platform (formerly LambdaTest), run Appium tests in parallel on real Android and iOS devices.",
+      "section": [
+        "Cloud"
+      ]
+    },
+    {
       "key": "https://packtpub.com/application-development/appium-essentials",
       "name": "Appium Essentials",
       "url": "https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480",
@@ -1450,6 +1459,24 @@
       "description": "Run appium tests in parallel across iOS and Android devices.",
       "section": [
         "Test Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/zosmaai/zosma-qa",
+      "name": "zosma-qa",
+      "url": "https://github.com/zosmaai/zosma-qa",
+      "description": "Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.",
+      "section": [
+        "Test Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/majdukovic/frontrow",
+      "name": "FrontRow",
+      "url": "https://github.com/majdukovic/frontrow",
+      "description": "Open source React Native concert ticketing app built specifically as a QA automation training surface. Ships Appium WebdriverIO and TypeScript scaffolds with full WDIO configs for iOS and Android, smoke and login specs, and a central testID registry that maps to accessibility identifiers on both platforms. Includes a QA Debug Menu with force error modes, time travel, and deterministic IAP outcomes for practising failure mode testing.",
+      "section": [
+        "Sample Apps for Practice"
       ]
     },
     {

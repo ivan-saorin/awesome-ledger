@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"11d0df56504afbec269af2960f6ddbeaee4ddcab9336627b2a8bd01135339bd5\"",
+  "etag": "W/\"06eeea9391cdf8a0865caa6d95a437656ae7ba1a540cd28f6b187326b46172e0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1394,15 +1394,6 @@
       "name": "phpDocumentor",
       "url": "https://www.phpdoc.org",
       "description": "Analyzes PHP source code to generate documentation.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/sebastianbergmann/phploc",
-      "name": "phploc",
-      "url": "https://github.com/sebastianbergmann/phploc",
-      "description": "A tool for quickly measuring the size and analyzing the structure of a PHP project.",
       "section": [
         "Programming Languages"
       ]
@@ -4778,6 +4769,15 @@
       "name": "commitlint",
       "url": "https://commitlint.js.org",
       "description": "checks if your commit messages meet the conventional commit format",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/shenxianpeng/gitstats",
+      "name": "GitStats",
+      "url": "https://github.com/shenxianpeng/gitstats",
+      "description": "Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.",
       "section": [
         "Other"
       ]

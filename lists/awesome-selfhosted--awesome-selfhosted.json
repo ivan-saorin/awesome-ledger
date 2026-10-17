@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1ebc0eb6548752aa09f1efa9ff99d9410e74c86167821ea703f959e6c2046803\"",
+  "etag": "W/\"f41aa81c610020672bc4de35c6cb24b931bdd5fadf3a6f35314edc2911628a9d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3908,6 +3908,16 @@
       "name": "Calibre",
       "url": "https://calibre-ebook.com/",
       "description": "E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. (Demo, Source Code) GPL-3.0 Python/deb",
+      "section": [
+        "Software",
+        "Document Management - E-books"
+      ]
+    },
+    {
+      "key": "https://grimmory.org",
+      "name": "Grimmory",
+      "url": "https://grimmory.org/",
+      "description": "Library for ebooks, comics and audiobooks with a built-in reader, metadata lookup, multi-user support, OPDS, and Kobo/KOReader sync. (Source Code) AGPL-3.0 Docker",
       "section": [
         "Software",
         "Document Management - E-books"
@@ -12018,6 +12028,16 @@
       "name": "Surmai",
       "url": "https://surmai.app/",
       "description": "Collaborative personal and family travel organizer. (Demo, Source Code) MIT Docker",
+      "section": [
+        "Software",
+        "Travel Organization"
+      ]
+    },
+    {
+      "key": "https://github.com/liketrek/TREK",
+      "name": "TREK",
+      "url": "https://github.com/liketrek/TREK",
+      "description": "Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. (Demo) AGPL-3.0 Docker/K8S",
       "section": [
         "Software",
         "Travel Organization"

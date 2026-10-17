@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"46427030ee2f4c4a79159ad3908784aa5db7db13aa635399cb7af5b0529c5c10\"",
+  "etag": "W/\"793d49f3b16eb7b21e543589c88ffa5c29d6f3db00e215bc9e25bd73dcabce56\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -981,6 +981,16 @@
       ]
     },
     {
+      "key": "https://github.com/llvm-z80/llvm-z80",
+      "name": "LLVM-Z80",
+      "url": "https://github.com/llvm-z80/llvm-z80",
+      "description": "† - A fork of LLVM with a backend for the Game Boy CPU (SM83), supporting the latest C standards and LLVM’s excellent optimizations.",
+      "section": [
+        "Software Development",
+        "Compilers"
+      ]
+    },
+    {
       "key": "https://gbdev.io/rgbds-live",
       "name": "RGBDS-Live",
       "url": "https://gbdev.io/rgbds-live",
@@ -1051,17 +1061,6 @@
       "name": "Assembler",
       "url": "https://github.com/ulrikdamm/Assembler",
       "description": "written in Swift.",
-      "section": [
-        "Software Development",
-        "Compilers",
-        "Experimental/Proof of Concepts"
-      ]
-    },
-    {
-      "key": "https://github.com/Bevinsky/llvm-gbz80",
-      "name": "llvm-gbz80",
-      "url": "https://github.com/Bevinsky/llvm-gbz80",
-      "description": "/ clang-gbz80 - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated euclio/llvm-gbz80).",
       "section": [
         "Software Development",
         "Compilers",
@@ -1460,6 +1459,17 @@
       "name": "Superfamiconv",
       "url": "https://github.com/Optiroc/SuperFamiconv",
       "description": "Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.",
+      "section": [
+        "Software Development",
+        "Tools",
+        "Graphics utilities"
+      ]
+    },
+    {
+      "key": "https://joelj.itch.io/tessarium",
+      "name": "Tessarium",
+      "url": "https://joelj.itch.io/tessarium",
+      "description": "‡ - Tile-first pixel art level editor with linked tile editing, shared tilesets, and live unique tile and colours-per-tile budget checks for Game Boy and Game Boy Color backgrounds.",
       "section": [
         "Software Development",
         "Tools",
@@ -1873,9 +1883,9 @@
       ]
     },
     {
-      "key": "https://github.com/ISSOtm/gb-vwf",
+      "key": "https://codeberg.org/ISSOtm/gb-vwf",
       "name": "gb-vwf",
-      "url": "https://github.com/ISSOtm/gb-vwf",
+      "url": "https://codeberg.org/ISSOtm/gb-vwf",
       "description": "Library to print variable-width text, comes with a demo.",
       "section": [
         "Programming",
@@ -1884,9 +1894,9 @@
       ]
     },
     {
-      "key": "https://github.com/ISSOtm/gb-boilerplate",
+      "key": "https://codeberg.org/ISSOtm/gb-boilerplate",
       "name": "gb-boilerplate",
-      "url": "https://github.com/ISSOtm/gb-boilerplate",
+      "url": "https://codeberg.org/ISSOtm/gb-boilerplate",
       "description": "A template for starting Game Boy projects, providing a Makefile for infrastructure.",
       "section": [
         "Programming",
@@ -1895,9 +1905,9 @@
       ]
     },
     {
-      "key": "https://github.com/ISSOtm/gb-starter-kit",
+      "key": "https://codeberg.org/ISSOtm/gb-starter-kit",
       "name": "gb-starter-kit",
-      "url": "https://github.com/ISSOtm/gb-starter-kit",
+      "url": "https://codeberg.org/ISSOtm/gb-starter-kit",
       "description": "An expansion on the above, including base library code as well to get started faster.",
       "section": [
         "Programming",
@@ -1917,9 +1927,42 @@
       ]
     },
     {
-      "key": "https://github.com/ISSOtm/gbz80-highlight",
+      "key": "https://codeberg.org/ISSOtm/rgbds-structs",
+      "name": "rgbds-structs",
+      "url": "https://codeberg.org/ISSOtm/rgbds-structs",
+      "description": "A macro pack that provides struct-like functionality.",
+      "section": [
+        "Programming",
+        "ASM",
+        "Boilerplates and libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/Rangi42/rgbds-arrays",
+      "name": "rgbds-arrays",
+      "url": "https://github.com/Rangi42/rgbds-arrays",
+      "description": "A macro pack that provides array-like functionality.",
+      "section": [
+        "Programming",
+        "ASM",
+        "Boilerplates and libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/evie-calico/regex.inc",
+      "name": "regex.inc",
+      "url": "https://github.com/evie-calico/regex.inc",
+      "description": "A regular expression parser in assembly macros.",
+      "section": [
+        "Programming",
+        "ASM",
+        "Boilerplates and libraries"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/ISSOtm/gbz80-highlight",
       "name": "gbz80-highlight",
-      "url": "https://github.com/ISSOtm/gbz80-highlight",
+      "url": "https://codeberg.org/ISSOtm/gbz80-highlight",
       "description": "Notepad+- and gedit syntax highlighting files for RGBDS assembly.",
       "section": [
         "Programming",
@@ -2293,9 +2336,9 @@
       ]
     },
     {
-      "key": "https://github.com/ISSOtm/Aevilia-GB",
+      "key": "https://codeberg.org/ISSOtm/Aevilia-GB",
       "name": "Aevilia",
-      "url": "https://github.com/ISSOtm/Aevilia-GB",
+      "url": "https://codeberg.org/ISSOtm/Aevilia-GB",
       "description": "",
       "section": [
         "Homebrews",
@@ -2917,6 +2960,16 @@
       "name": "GBVideoPlayer2",
       "url": "https://github.com/LIJI32/GBVideoPlayer2",
       "description": "The second iteration of the above demo, which increases the resolution, adds stereo PCM audio, and introduces video compression.",
+      "section": [
+        "Homebrews",
+        "Demos"
+      ]
+    },
+    {
+      "key": "https://privat.bahnhof.se/wb800787/gb",
+      "name": "Game Boy Demospotting",
+      "url": "https://privat.bahnhof.se/wb800787/gb/",
+      "description": "An archive of Game Boy software demos made from 1996 to 2020.",
       "section": [
         "Homebrews",
         "Demos"

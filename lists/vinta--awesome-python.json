@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"578284a1824c388e12ff84a6f00074161b6b6473e6a9dc77e23b73b9316d701c\"",
+  "etag": "W/\"2b7af1df0223e3d3c7a3735b52da9fafb4d53ce58449b5692fb41e10dfe779d5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -253,6 +253,36 @@
       ]
     },
     {
+      "key": "https://github.com/ollama/ollama-python",
+      "name": "ollama",
+      "url": "https://github.com/ollama/ollama-python",
+      "description": "Python client for Ollama, which downloads and runs open-weight LLMs locally.",
+      "section": [
+        "Projects",
+        "AI and Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/abetlen/llama-cpp-python",
+      "name": "llama-cpp-python",
+      "url": "https://github.com/abetlen/llama-cpp-python",
+      "description": "Python bindings for llama.cpp, for running GGUF models locally.",
+      "section": [
+        "Projects",
+        "AI and Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/ml-explore/mlx-lm",
+      "name": "mlx-lm",
+      "url": "https://github.com/ml-explore/mlx-lm",
+      "description": "Run and fine-tune large language models on Apple Silicon with MLX.",
+      "section": [
+        "Projects",
+        "AI and Agents"
+      ]
+    },
+    {
       "key": "https://github.com/vllm-project/vllm",
       "name": "vllm",
       "url": "https://github.com/vllm-project/vllm",
@@ -267,16 +297,6 @@
       "name": "sglang",
       "url": "https://github.com/sgl-project/sglang",
       "description": "A high-performance serving framework for large language models and multimodal models.",
-      "section": [
-        "Projects",
-        "AI and Agents"
-      ]
-    },
-    {
-      "key": "https://github.com/ml-explore/mlx-lm",
-      "name": "mlx-lm",
-      "url": "https://github.com/ml-explore/mlx-lm",
-      "description": "Run and fine-tune large language models on Apple Silicon with MLX.",
       "section": [
         "Projects",
         "AI and Agents"
@@ -463,6 +483,16 @@
       ]
     },
     {
+      "key": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+      "name": "imbalanced-learn",
+      "url": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+      "description": "Resampling techniques for datasets with imbalanced classes, compatible with scikit-learn.",
+      "section": [
+        "Projects",
+        "Machine Learning"
+      ]
+    },
+    {
       "key": "https://github.com/pgmpy/pgmpy",
       "name": "pgmpy",
       "url": "https://github.com/pgmpy/pgmpy",
@@ -553,6 +583,26 @@
       ]
     },
     {
+      "key": "https://github.com/optuna/optuna",
+      "name": "optuna",
+      "url": "https://github.com/optuna/optuna",
+      "description": "A hyperparameter optimization framework with define-by-run search spaces and pruning of unpromising trials.",
+      "section": [
+        "Projects",
+        "Machine Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/hyperopt/hyperopt",
+      "name": "hyperopt",
+      "url": "https://github.com/hyperopt/hyperopt",
+      "description": "Distributed asynchronous hyperparameter optimization with Tree-structured Parzen Estimators.",
+      "section": [
+        "Projects",
+        "Machine Learning"
+      ]
+    },
+    {
       "key": "https://github.com/nltk/nltk",
       "name": "nltk",
       "url": "https://github.com/nltk/nltk",
@@ -607,6 +657,16 @@
       "name": "pypinyin",
       "url": "https://github.com/mozillazg/python-pinyin",
       "description": "Convert Chinese hanzi (漢字) to pinyin (拼音).",
+      "section": [
+        "Projects",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/BYVoid/OpenCC",
+      "name": "OpenCC",
+      "url": "https://github.com/BYVoid/OpenCC",
+      "description": "Conversion between Traditional and Simplified Chinese, with regional variants and phrase-level rules.",
       "section": [
         "Projects",
         "Natural Language Processing"
@@ -1343,10 +1403,10 @@
       ]
     },
     {
-      "key": "https://github.com/browser-use/jev-ultrafast",
-      "name": "jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "description": "A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.",
+      "key": "https://github.com/D4Vinci/Scrapling",
+      "name": "scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "An adaptive scraping framework whose selectors relocate elements after page changes, with stealth fetchers and spiders.",
       "section": [
         "Projects",
         "Web Scraping"
@@ -1543,6 +1603,16 @@
       ]
     },
     {
+      "key": "https://github.com/pgvector/pgvector-python",
+      "name": "pgvector",
+      "url": "https://github.com/pgvector/pgvector-python",
+      "description": "pgvector support for Python, adding vector types and similarity search to psycopg, asyncpg, SQLAlchemy, and Django.",
+      "section": [
+        "Projects",
+        "Database Drivers"
+      ]
+    },
+    {
       "key": "https://github.com/dhamaniasad/awesome-postgres",
       "name": "awesome-postgres",
       "url": "https://github.com/dhamaniasad/awesome-postgres",
@@ -1557,6 +1627,16 @@
       "name": "sqlite3",
       "url": "https://docs.python.org/3/library/sqlite3.html",
       "description": "(Python standard library) SQLite interface compliant with DB-API 2.0.",
+      "section": [
+        "Projects",
+        "Database Drivers"
+      ]
+    },
+    {
+      "key": "https://github.com/rogerbinns/apsw",
+      "name": "apsw",
+      "url": "https://github.com/rogerbinns/apsw",
+      "description": "Another Python SQLite Wrapper, exposing the complete SQLite C API.",
       "section": [
         "Projects",
         "Database Drivers"
@@ -1743,6 +1823,16 @@
       ]
     },
     {
+      "key": "https://github.com/sqlalchemy/dogpile.cache",
+      "name": "dogpile.cache",
+      "url": "https://github.com/sqlalchemy/dogpile.cache",
+      "description": "A caching API for Redis, Memcached, and other backends, with coordinated value regeneration.",
+      "section": [
+        "Projects",
+        "Caching"
+      ]
+    },
+    {
       "key": "https://github.com/karpetrosyan/hishel",
       "name": "hishel",
       "url": "https://github.com/karpetrosyan/hishel",
@@ -1753,20 +1843,20 @@
       ]
     },
     {
-      "key": "https://github.com/Suor/django-cacheops",
-      "name": "django-cacheops",
-      "url": "https://github.com/Suor/django-cacheops",
-      "description": "A slick ORM cache with automatic granular event-driven invalidation.",
+      "key": "https://github.com/jazzband/django-redis",
+      "name": "django-redis",
+      "url": "https://github.com/jazzband/django-redis",
+      "description": "Full-featured Redis cache backend for Django.",
       "section": [
         "Projects",
         "Caching"
       ]
     },
     {
-      "key": "https://github.com/sqlalchemy/dogpile.cache",
-      "name": "dogpile.cache",
-      "url": "https://github.com/sqlalchemy/dogpile.cache",
-      "description": "dogpile.cache is a next generation replacement for Beaker made by the same authors.",
+      "key": "https://github.com/Suor/django-cacheops",
+      "name": "django-cacheops",
+      "url": "https://github.com/Suor/django-cacheops",
+      "description": "A slick ORM cache with automatic granular event-driven invalidation.",
       "section": [
         "Projects",
         "Caching"
@@ -1813,6 +1903,16 @@
       ]
     },
     {
+      "key": "https://github.com/facebookresearch/faiss",
+      "name": "faiss-cpu",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "section": [
+        "Projects",
+        "Search"
+      ]
+    },
+    {
       "key": "https://github.com/msgpack/msgpack-python",
       "name": "msgpack",
       "url": "https://github.com/msgpack/msgpack-python",
@@ -1847,6 +1947,26 @@
       "name": "msgspec",
       "url": "https://github.com/msgspec/msgspec",
       "description": "A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.",
+      "section": [
+        "Projects",
+        "Serialization"
+      ]
+    },
+    {
+      "key": "https://github.com/cloudpipe/cloudpickle",
+      "name": "cloudpickle",
+      "url": "https://github.com/cloudpipe/cloudpickle",
+      "description": "Extends pickle to functions, lambdas, and interactively defined classes, for shipping code to remote workers.",
+      "section": [
+        "Projects",
+        "Serialization"
+      ]
+    },
+    {
+      "key": "https://github.com/uqfoundation/dill",
+      "name": "dill",
+      "url": "https://github.com/uqfoundation/dill",
+      "description": "Extends pickle to serialize almost any Python object, including closures and whole interpreter sessions.",
       "section": [
         "Projects",
         "Serialization"
@@ -2046,7 +2166,7 @@
       "key": "https://github.com/SciTools/cartopy",
       "name": "cartopy",
       "url": "https://github.com/SciTools/cartopy",
-      "description": "A cartographic python library with matplotlib support.",
+      "description": "A cartographic Python library with matplotlib support.",
       "section": [
         "Projects",
         "Data Visualization"
@@ -2556,7 +2676,17 @@
       "key": "https://github.com/python-rope/rope",
       "name": "rope",
       "url": "https://github.com/python-rope/rope",
-      "description": "Rope is a python refactoring library.",
+      "description": "Rope is a Python refactoring library.",
+      "section": [
+        "Projects",
+        "Code Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/ast-grep/ast-grep",
+      "name": "ast-grep-cli",
+      "url": "https://github.com/ast-grep/ast-grep",
+      "description": "A CLI tool for structural code search, linting, and rewriting based on syntax trees.",
       "section": [
         "Projects",
         "Code Analysis"
@@ -2897,6 +3027,16 @@
       "name": "django-debug-toolbar",
       "url": "https://github.com/django-commons/django-debug-toolbar",
       "description": "Display various debug information for Django.",
+      "section": [
+        "Projects",
+        "Debugging Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jazzband/django-silk",
+      "name": "django-silk",
+      "url": "https://github.com/jazzband/django-silk",
+      "description": "Live profiling and inspection of HTTP requests and database queries for Django.",
       "section": [
         "Projects",
         "Debugging Tools"
@@ -3756,7 +3896,7 @@
       "key": "https://github.com/tomschimansky/customtkinter",
       "name": "customtkinter",
       "url": "https://github.com/tomschimansky/customtkinter",
-      "description": "A modern and customizable python UI-library based on Tkinter.",
+      "description": "A modern and customizable Python UI-library based on Tkinter.",
       "section": [
         "Projects",
         "GUI Development"
@@ -4023,6 +4163,16 @@
       ]
     },
     {
+      "key": "https://github.com/JessicaTegner/pypandoc",
+      "name": "pypandoc",
+      "url": "https://github.com/JessicaTegner/pypandoc",
+      "description": "A thin wrapper for pandoc, the universal document converter.",
+      "section": [
+        "Projects",
+        "File Format Processing"
+      ]
+    },
+    {
       "key": "https://github.com/docling-project/docling",
       "name": "docling",
       "url": "https://github.com/docling-project/docling",
@@ -4173,16 +4323,6 @@
       ]
     },
     {
-      "key": "https://docs.python.org/3/library/mimetypes.html",
-      "name": "mimetypes",
-      "url": "https://docs.python.org/3/library/mimetypes.html",
-      "description": "(Python standard library) Map filenames to MIME types.",
-      "section": [
-        "Projects",
-        "File Manipulation"
-      ]
-    },
-    {
       "key": "https://docs.python.org/3/library/pathlib.html",
       "name": "pathlib",
       "url": "https://docs.python.org/3/library/pathlib.html",
@@ -4196,7 +4336,7 @@
       "key": "https://github.com/samuelcolvin/watchfiles",
       "name": "watchfiles",
       "url": "https://github.com/samuelcolvin/watchfiles",
-      "description": "Simple, modern and fast file watching and code reload in python.",
+      "description": "Simple, modern and fast file watching and code reload in Python.",
       "section": [
         "Projects",
         "File Manipulation"
@@ -4213,10 +4353,30 @@
       ]
     },
     {
+      "key": "https://docs.python.org/3/library/mimetypes.html",
+      "name": "mimetypes",
+      "url": "https://docs.python.org/3/library/mimetypes.html",
+      "description": "(Python standard library) Map filenames to MIME types.",
+      "section": [
+        "Projects",
+        "File Manipulation"
+      ]
+    },
+    {
       "key": "https://github.com/ahupp/python-magic",
       "name": "python-magic",
       "url": "https://github.com/ahupp/python-magic",
       "description": "A Python interface to the libmagic file type identification library.",
+      "section": [
+        "Projects",
+        "File Manipulation"
+      ]
+    },
+    {
+      "key": "https://github.com/google/magika",
+      "name": "magika",
+      "url": "https://github.com/google/magika",
+      "description": "Detects file content types with a deep-learning model.",
       "section": [
         "Projects",
         "File Manipulation"
@@ -4753,6 +4913,16 @@
       ]
     },
     {
+      "key": "https://github.com/jdx/mise",
+      "name": "mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "A polyglot tool version manager that installs Python versions and reads .python-version files.",
+      "section": [
+        "Projects",
+        "Environment Management"
+      ]
+    },
+    {
       "key": "https://github.com/pypa/pip",
       "name": "pip",
       "url": "https://github.com/pypa/pip",
@@ -4817,6 +4987,16 @@
       "name": "poetry-core",
       "url": "https://github.com/python-poetry/poetry-core",
       "description": "Poetry's PEP 517 build backend, usable without Poetry itself.",
+      "section": [
+        "Projects",
+        "Package Management"
+      ]
+    },
+    {
+      "key": "https://github.com/pypa/flit",
+      "name": "flit-core",
+      "url": "https://github.com/pypa/flit",
+      "description": "Minimal, dependency-free build backend for pure-Python packages.",
       "section": [
         "Projects",
         "Package Management"
@@ -4896,7 +5076,7 @@
       "key": "https://github.com/dashingsoft/pyarmor",
       "name": "pyarmor",
       "url": "https://github.com/dashingsoft/pyarmor",
-      "description": "A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
+      "description": "A tool used to obfuscate Python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
       "section": [
         "Projects",
         "Distribution"
@@ -5047,6 +5227,16 @@
       "name": "pip-audit",
       "url": "https://github.com/pypa/pip-audit",
       "description": "Audits Python environments and dependency trees for known vulnerabilities, using the Python Packaging Advisory Database or OSV.",
+      "section": [
+        "Projects",
+        "Supply Chain Security"
+      ]
+    },
+    {
+      "key": "https://github.com/betterleaks/betterleaks",
+      "name": "betterleaks",
+      "url": "https://github.com/betterleaks/betterleaks",
+      "description": "Finds leaked secrets in git history, directories, and files, from the original author of gitleaks.",
       "section": [
         "Projects",
         "Supply Chain Security"

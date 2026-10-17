@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"53f9aff3f14e01d7a9c0209aa2ef760da4d198dd177d7e4bb21a8fcd4141ae49\"",
+  "etag": "W/\"941f4c416abd3819d52785161913ac3960f3ca94fe8460ffd9ae1248c147749f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -198,6 +198,24 @@
       "name": "Synthetic Hospital",
       "url": "https://github.com/sparkcpark/synthetic_hospital",
       "description": "A Medical Benchmark & EHR Simulation Platform",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/huynhtanan/amazon-bestsellers-tracker",
+      "name": "Amazon Bestsellers Tracker",
+      "url": "https://github.com/huynhtanan/amazon-bestsellers-tracker",
+      "description": "Open-source Python + SQLite tracker that snapshots Amazon Best Sellers across 17 country stores daily, with example SQL diff queries for rank jumps and new entries.",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/huynhtanan/walmart-deals-tracker",
+      "name": "Walmart Deals Tracker",
+      "url": "https://github.com/huynhtanan/walmart-deals-tracker",
+      "description": "Open-source Python + SQLite watcher for Walmart Rollback-only deals, with example SQL queries for price drops and first-party vs marketplace filtering.",
       "section": [
         "Projects"
       ]
@@ -6877,6 +6895,26 @@
       "name": "USASI Catalog",
       "url": "https://huggingface.co/datasets/usasihq/usasi-catalog",
       "description": "150 U.S. AI organizations and 270 U.S.-led open models, software, datasets, and evaluation tools, with licenses, availability, maintainers, and release dates; each row links to a record page that cites a primary source for every statement. CSV, CC BY 4.0, loadable with the datasets library.",
+      "section": [
+        "Fun",
+        "Datasets"
+      ]
+    },
+    {
+      "key": "https://github.com/odebo/us-traffic-ticket-data",
+      "name": "US Traffic Ticket Courts and Payment Portals",
+      "url": "https://github.com/odebo/us-traffic-ticket-data",
+      "description": "Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest page (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON, CSV and JSONL; CC0; no login.",
+      "section": [
+        "Fun",
+        "Datasets"
+      ]
+    },
+    {
+      "key": "https://huggingface.co/datasets/desearch/ai-crawlers-robots-txt-study",
+      "name": "AI Crawler robots.txt Study",
+      "url": "https://huggingface.co/datasets/desearch/ai-crawlers-robots-txt-study",
+      "description": "robots.txt policies of the Tranco top 10,000 domains (October 2026), one row per domain with rank band and whether AI training, AI search and user-triggered crawlers are named or blocked. CSV, CC BY 4.0.",
       "section": [
         "Fun",
         "Datasets"
