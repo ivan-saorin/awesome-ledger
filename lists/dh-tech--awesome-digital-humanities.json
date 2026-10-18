@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c62bfdc88d4d94c0cc4c0a1dbfb7aebea8f5c39de7564774b015a26050ff3881\"",
+  "etag": "W/\"c5511593a7023f59e9e5a3406532fc36fc0d5fdb349bfb42900098e1c5ccfd47\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -431,6 +431,15 @@
       "name": "Giles Ecosystem",
       "url": "https://diging.atlassian.net/wiki/spaces/GECO/overview",
       "description": "A distributed system based on Apache Kafka that allows users to upload documents for text and image extraction. It automatically performs OCR on uploaded images and extracts images and embedded texts from pdf files. The system can be easily scaled to accommodate higher workloads.",
+      "section": [
+        "Document Management and Processing"
+      ]
+    },
+    {
+      "key": "https://huggingface.co/abhishekjha1008",
+      "name": "Historical Danish HTR",
+      "url": "https://huggingface.co/abhishekjha1008",
+      "description": "Open handwritten text recognition tools for historical Danish and Nordic documents: domain-adapted line segmenters (YOLO + kraken), a 160,000-line synthetic training set, and a live demo, on the Hugging Face Hub.",
       "section": [
         "Document Management and Processing"
       ]

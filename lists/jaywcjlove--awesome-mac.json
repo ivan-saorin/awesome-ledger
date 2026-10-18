@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"58d142636dedda1f3709687975b4da8774d5b7c23488e44fd2e5be61947d665c\"",
+  "etag": "W/\"83183faa5996a4a278c9eedd3ac08955f3110e12bfbbae1bd2f64307aa8f8b9c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -498,6 +498,16 @@
       "name": "Scratch",
       "url": "https://www.ericli.io/scratch",
       "description": "Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support.",
+      "section": [
+        "Reading and Writing Tools",
+        "Markdown Tools Awesome List"
+      ]
+    },
+    {
+      "key": "https://textus.catvinci.com",
+      "name": "Textus",
+      "url": "https://textus.catvinci.com",
+      "description": "WYSIWYG Markdown editor with math, tables, Mermaid and an optional AI writing assistant that works with cloud or local models.",
       "section": [
         "Reading and Writing Tools",
         "Markdown Tools Awesome List"
@@ -5115,9 +5125,9 @@
       ]
     },
     {
-      "key": "https://github.com/siddharthvaddem/openscreen",
+      "key": "https://github.com/getopenscreen/openscreen",
       "name": "OpenScreen",
-      "url": "https://github.com/siddharthvaddem/openscreen",
+      "url": "https://github.com/getopenscreen/openscreen",
       "description": "Open-source tool for creating polished screen demos and walkthrough videos.",
       "section": [
         "Design and Product",
@@ -6003,6 +6013,15 @@
       "name": "mu",
       "url": "https://github.com/qybaihe/mu",
       "description": "Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for.",
+      "section": [
+        "AI Tools"
+      ]
+    },
+    {
+      "key": "https://tutuo.ai/en/octuo",
+      "name": "Octuo",
+      "url": "https://www.tutuo.ai/en/octuo/",
+      "description": "Personal assistant for work across AI, tools and specialist services that coordinates connected, authorized tools and accounts, tracks progress and gathers results around your goal.",
       "section": [
         "AI Tools"
       ]
@@ -7075,6 +7094,15 @@
       "name": "Natron",
       "url": "https://natrongithub.github.io/",
       "description": "Open-source node-based compositing software.",
+      "section": [
+        "Audio and Video Tools"
+      ]
+    },
+    {
+      "key": "https://notchmuse.com",
+      "name": "NotchMuse",
+      "url": "https://notchmuse.com/",
+      "description": "Open-source synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the menu bar, beside the notch, or above the Dock.",
       "section": [
         "Audio and Video Tools"
       ]
@@ -9378,10 +9406,30 @@
       ]
     },
     {
+      "key": "https://dimble.fif7y.com",
+      "name": "Dimble",
+      "url": "https://dimble.fif7y.com",
+      "description": "Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do.",
+      "section": [
+        "Utilities",
+        "Menu Bar Tools"
+      ]
+    },
+    {
       "key": "https://github.com/Mortennn/Dozer",
       "name": "Dozer",
       "url": "https://github.com/Mortennn/Dozer",
       "description": "Hide MacOS menubar items.",
+      "section": [
+        "Utilities",
+        "Menu Bar Tools"
+      ]
+    },
+    {
+      "key": "https://dynamicmenubar.com",
+      "name": "Dynamic Menu Bar",
+      "url": "https://dynamicmenubar.com",
+      "description": "Changes the color and shape of the macOS menu bar with live screen-matched colors, gradients, a music visualizer and per-app profiles.",
       "section": [
         "Utilities",
         "Menu Bar Tools"
@@ -9782,16 +9830,6 @@
       "name": "Pandan",
       "url": "https://sindresorhus.com/pandan",
       "description": "Time awareness in your menu bar.",
-      "section": [
-        "Utilities",
-        "Menu Bar Tools"
-      ]
-    },
-    {
-      "key": "https://pelmet.fif7y.com",
-      "name": "Pelmet",
-      "url": "https://pelmet.fif7y.com",
-      "description": "Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do.",
       "section": [
         "Utilities",
         "Menu Bar Tools"
@@ -10668,10 +10706,30 @@
       ]
     },
     {
+      "key": "https://github.com/anzal1/panoply",
+      "name": "Panoply",
+      "url": "https://github.com/anzal1/panoply",
+      "description": "Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map.",
+      "section": [
+        "Utilities",
+        "General Tools"
+      ]
+    },
+    {
       "key": "https://kagerou.glass/phosphene",
       "name": "Phosphene",
       "url": "https://kagerou.glass/phosphene/",
       "description": "Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.",
+      "section": [
+        "Utilities",
+        "General Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/davidullo/magicwall",
+      "name": "MagicWall",
+      "url": "https://github.com/davidullo/magicwall",
+      "description": "Set local videos as desktop wallpapers.",
       "section": [
         "Utilities",
         "General Tools"
@@ -11942,6 +12000,16 @@
       "name": "MakeItHome",
       "url": "https://github.com/Geckos-Ink/MakeItHome",
       "description": "Pointer-driven launcher for screen-edge quick actions and app switching.",
+      "section": [
+        "Utilities",
+        "Window Management"
+      ]
+    },
+    {
+      "key": "https://github.com/Zingzy/mFix",
+      "name": "mFix",
+      "url": "https://github.com/Zingzy/mFix",
+      "description": "Open-source window manager with keyboard and drag snapping, snap layouts, a Cmd+Tab window switcher with live previews, and Dock window previews.",
       "section": [
         "Utilities",
         "Window Management"

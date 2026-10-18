@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d0302dbbe8fe17ee646184a8e6d124bd91167b84cc10d711b3ea6cc4931fb413\"",
+  "etag": "W/\"ce243898e709cb8bdf74a172adf04d714d49b7a17cfe4511d6e4516eb1f8f13e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -868,6 +868,16 @@
       "name": "oaswrap/fiberopenapi",
       "url": "https://github.com/oaswrap/spec/tree/main/adapter/fiberopenapi",
       "description": "Fiber adapter for OpenAPI 3.x specification generation with automatic route documentation.",
+      "section": [
+        "⚙️ Middlewares",
+        "🌱 Third Party"
+      ]
+    },
+    {
+      "key": "https://github.com/Guard-Core/fiber-guard",
+      "name": "Guard-Core/fiber-guard",
+      "url": "https://github.com/Guard-Core/fiber-guard",
+      "description": "Security middleware for Fiber with IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.",
       "section": [
         "⚙️ Middlewares",
         "🌱 Third Party"

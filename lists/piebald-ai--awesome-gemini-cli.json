@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6996bc6670acc8d6e0697cb793f324ca3e0de0842837a2d06be67d0dca4f9b02\"",
+  "etag": "W/\"52541a55252bee15083e2bf0865a7f4210e4228bab96b699ea274b2ded0484c6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -868,6 +868,15 @@
       ]
     },
     {
+      "key": "https://github.com/KuudoAI/skills",
+      "name": "Kuudo Skills",
+      "url": "https://github.com/KuudoAI/skills",
+      "description": "Gemini CLI extension with 22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability, built for Kuudo's hosted Amazon Ads and SP-API MCP servers. Price, budget, listing, and shipment writes are previewed and wait for your approval. Install with gemini extensions install https://github.com/KuudoAI/skills. PolyForm Shield 1.0.0 (source-available).",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1376,6 +1385,24 @@
       "name": "agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
       "description": "Fast, configurable statusline for Antigravity CLI (agy), the successor to Gemini CLI, with real-time 5h/7d Gemini quota meters, pace markers, context usage, and interactive TUI editor. Zero dependencies, MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/tojacob03/agentvcr",
+      "name": "agentvcr",
+      "url": "https://github.com/tojacob03/agentvcr",
+      "description": "Turns a Gemini CLI chat from ~/.gemini/tmp/*/chats (the JSONL format with rewinds and patches, or the older JSON files) into a self-contained HTML replay with a scrubbable timeline, diffs and terminal output, with API keys and other secrets masked locally first. Share it as a link through a secret gist on your own GitHub, embed it, export a Markdown transcript for a pull request, or have its GitHub Action comment the replay on agent PRs. Also reads Claude Code, Codex, Cursor and OpenCode. MIT, no dependencies. Run: npx agentvcr-cli.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/safetycard/safetycard",
+      "name": "SafetyCard",
+      "url": "https://github.com/safetycard/safetycard",
+      "description": "Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. Install with npx skills add safetycard/safetycard --agent gemini-cli.",
       "section": [
         "Development Tools & Utilities"
       ]

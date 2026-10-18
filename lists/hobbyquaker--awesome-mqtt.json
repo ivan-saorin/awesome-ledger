@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5f3ef27f5857582dc935363daa9d715230a3bf194c773a839a5307e9b794cf88\"",
+  "etag": "W/\"0298e50fbf5b7feddf15b390650118072999ffc57a132feb6906dc416e2af3e3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -610,6 +610,15 @@
       "name": "mockd",
       "url": "https://github.com/getmockd/mockd",
       "description": "Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/SaaSy-Solutions/mockforge",
+      "name": "MockForge",
+      "url": "https://github.com/SaaSy-Solutions/mockforge",
+      "description": "Open-source multi-protocol mock server written in Rust with a built-in MQTT 3.1.1/5.0 broker for testing, alongside HTTP, gRPC, GraphQL, WebSocket, Kafka and AMQP mocks.",
       "section": [
         "Tools"
       ]

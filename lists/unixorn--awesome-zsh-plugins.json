@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"51a54042be13f7d63d9fa2bf1f27518ed241c50473cf48fd5395811d29b0bf09\"",
+  "etag": "W/\"7ff6211a3b1daf5bd341c27d7726e7b1fdacc2d686d1eed531659af909149430\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -792,6 +792,15 @@
       "name": "agent-history",
       "url": "https://github.com/aaronbronow/agent-history",
       "description": "ZSH shortcut to resume recent AI coding sessions in the terminal.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/asibin/zsh-ai-cli-generator",
+      "name": "ai-cli",
+      "url": "https://github.com/asibin/zsh-ai-cli-generator",
+      "description": "Describe what you want in plain English and get a shell command back, ready to edit or run. Claude writes the command, or a model you run yourself through Ollama, LM Studio or any OpenAI-compatible server; nothing runs until you press Enter. Type a request and press Ctrl-O, or run ai <request>.",
       "section": [
         "Plugins"
       ]
@@ -8046,6 +8055,15 @@
       "name": "rose-pine-man",
       "url": "https://github.com/const-void/rose-pine-man",
       "description": "Colorizes man pages.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/hoolies/RTFM",
+      "name": "rtfm",
+      "url": "https://github.com/hoolies/RTFM",
+      "description": "Puts the manual under your thumb. Hit Tab, fuzzy-filter what you need, read the description, insert the token, without leaving the line, and without guessing.",
       "section": [
         "Plugins"
       ]
