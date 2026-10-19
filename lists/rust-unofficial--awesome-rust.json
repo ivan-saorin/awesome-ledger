@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5acf85f18237008cfce66783ce98f9708f4e0fee253b3a74b2501ae6a59682e3\"",
+  "etag": "W/\"b6639f9dd116e662e4fe52dd69fb079ee48bd4d6df9088f03e966914b9708c13\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -197,6 +197,15 @@
       "name": "google/mdbook-i18n-helpers",
       "url": "https://github.com/google/mdbook-i18n-helpers",
       "description": "[mdbook-i18n-helpers] - Internationalization and rendering extensions for mdbook.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/Graphicle-AI/graphicle",
+      "name": "Graphicle-AI/graphicle",
+      "url": "https://github.com/Graphicle-AI/graphicle",
+      "description": "A Rust port of Graphify that adds project memory: code graph, docs, decisions and past agent sessions for coding agents (Claude Code, Codex, Cursor, any MCP client) in one local binary with a single SQLite file",
       "section": [
         "Applications"
       ]
@@ -1576,6 +1585,26 @@
       "name": "GreptimeDB",
       "url": "https://github.com/grepTimeTeam/greptimedb/",
       "description": "An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/HasteHealth/HasteHealth",
+      "name": "HasteHealth/HasteHealth",
+      "url": "https://github.com/HasteHealth/HasteHealth",
+      "description": "High-performance FHIR R4 clinical data repository (healthcare data server) built on Postgres",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/HeliosDatabase/HeliosDB-Nano",
+      "name": "HeliosDatabase/HeliosDB-Nano",
+      "url": "https://github.com/HeliosDatabase/HeliosDB-Nano",
+      "description": "[heliosdb-nano] - Embedded database with PostgreSQL and MySQL wire protocols, git-like branching, time-travel queries and HNSW vector search",
       "section": [
         "Applications",
         "Database"
@@ -10125,6 +10154,17 @@
       "name": "bigduu/Bamboo-agent",
       "url": "https://github.com/bigduu/Bamboo-agent",
       "description": "[bamboo-agent] - Local-first AI agent harness & runtime — persistent memory, built-in tools, skills, MCP, sub-agents, workflows and schedules behind one HTTP + WebSocket API. Embeddable as a crate or runnable as a server.",
+      "section": [
+        "Libraries",
+        "Artificial Intelligence",
+        "OpenAI"
+      ]
+    },
+    {
+      "key": "https://github.com/bigfish1913/pi-rust",
+      "name": "bigfish1913/pi-rust",
+      "url": "https://github.com/bigfish1913/pi-rust",
+      "description": "[rpi-agent] - Embeddable coding-agent runtime and terminal agent with composable providers, tools, durable sessions, and a native plugin ABI.",
       "section": [
         "Libraries",
         "Artificial Intelligence",

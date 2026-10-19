@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"770fe50e2ca16cd63a147261a4785a4ac431d5e647991d95668961c2f9c6173d\"",
+  "etag": "W/\"5783094fb53f57513412c7a51cc3403a3be8fb074fd4809563f864ee4e3a62ef\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -429,7 +429,7 @@
       "url": "https://github.com/netresearch/claude-code-marketplace",
       "description": "by Netresearch - Skills for assessing and enhancing software projects to meet enterprise-grade standards for security, quality, and automation. Strong collection covering a range of development frameworks, enterprise-readiness, security, GitHub release management, branding, code review - really useful and well curated.",
       "section": [
-        "Open Source Software"
+        "Open Source Contribution & Maintenance"
       ]
     },
     {
@@ -438,7 +438,7 @@
       "url": "https://github.com/costajohnt/oss-autopilot",
       "description": "by John Costa - End-to-end open source contribution manager. Discovers contributable issues across GitHub, tracks PRs across multiple repos, diagnoses CI failures, and drafts maintainer responses. Great collection of skills and agents for GitHub contributors, plus a sleek dashboard, standalone CLI and MCP server.",
       "section": [
-        "Open Source Software"
+        "Open Source Contribution & Maintenance"
       ]
     },
     {
@@ -817,6 +817,15 @@
       "description": "by LiveNL - Shows each Claude Code session's state in the tmux tab bar, per window: an animated spinner while it works, amber when it waits on input, red on a permission request, green when done. Event-driven via hooks with no polling; catches unreported transitions (Esc, permission grants, stop-hook continuations) with transcript watchers. 260+ test assertions run in CI.",
       "section": [
         "Status Lines"
+      ]
+    },
+    {
+      "key": "https://github.com/NahumLitvin/prismantis",
+      "name": "prismantis",
+      "url": "https://github.com/NahumLitvin/prismantis",
+      "description": "by Nahum Litvin - Colorful, themeable Claude Code replies: tables, code, diagrams, charts and tool rows in over a dozen themes. Enhances mod development experience.",
+      "section": [
+        "Mods"
       ]
     },
     {
@@ -1791,6 +1800,15 @@
       "name": "CC Harness",
       "url": "https://github.com/lookfree/cc-harness",
       "description": "by lookfree - Desktop workbench that reads Claude Code session files locally and renders the subagent and workflow topology as a live graph, with per-node latency, token cost, and nesting depth. Token spend is broken down by source (base session, skills, subagents, MCP) and can be traced from a cost bucket to the exact message that produced it.",
+      "section": [
+        "Observability & Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/rezored/cubicle-crew",
+      "name": "Cubicle Crew",
+      "url": "https://github.com/rezored/cubicle-crew",
+      "description": "by rezored - A pixel-art office for Claude Code agents, including a desktop widget and browser app, with tokens, a shop and a lounge. Friday is Hawaiian shirt day.",
       "section": [
         "Observability & Monitoring"
       ]

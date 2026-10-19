@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"52541a55252bee15083e2bf0865a7f4210e4228bab96b699ea274b2ded0484c6\"",
+  "etag": "W/\"82af98e2afb3c3b16e65a4b2abedb5470257e6c74c42c6e3701e03744de22ab0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -877,6 +877,24 @@
       ]
     },
     {
+      "key": "https://github.com/kenryu42/gemini-safety-net",
+      "name": "Gemini Safety Net",
+      "url": "https://github.com/kenryu42/gemini-safety-net",
+      "description": "Gemini CLI extension that runs cc-safety-net as a BeforeTool hook. It blocks destructive Git and filesystem commands, and reads of secrets such as SSH keys and .env files, before Gemini runs the tool call. It parses the command, so wrapped forms such as bash -c are also checked. It is not a sandbox. MIT. Install with gemini extensions install https://github.com/kenryu42/gemini-safety-net.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/eli-alvarado/us-watchlist-alerts",
+      "name": "US Watchlist Alerts",
+      "url": "https://github.com/eli-alvarado/us-watchlist-alerts",
+      "description": "Agent Skills (SKILL.md) for a US stock watchlist: NYSE-aware, de-duplicated price alerts (levels, % moves, gaps, 52-week highs/lows, MA crosses, RSI, earnings) and morning/close briefs. Stdlib Python, no API key, never places trades. MIT. Install with npx skills add eli-alvarado/us-watchlist-alerts -y -a gemini-cli.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1403,6 +1421,24 @@
       "name": "SafetyCard",
       "url": "https://github.com/safetycard/safetycard",
       "description": "Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. Install with npx skills add safetycard/safetycard --agent gemini-cli.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/ssanaullahrais/Chat-Vault",
+      "name": "ChatVault",
+      "url": "https://github.com/ssanaullahrais/Chat-Vault",
+      "description": "Windows app that reads, searches and backs up your Gemini CLI chats across accounts, and continues any chat in Gemini CLI through a handoff file that carries the whole conversation.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/scs0209/laya-guard",
+      "name": "laya-guard",
+      "url": "https://github.com/scs0209/laya-guard",
+      "description": "Local guardrail with a BeforeTool hook for Gemini CLI (laya-guard install gemini-cli) that judges each shell command before it runs, using regex rules, protected paths, and a small on-device model. Blocked commands are denied; ones marked for review pass with a note. Also hooks into Claude Code, Codex, Cursor, and other agents. MIT.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -1970,15 +2006,6 @@
       "name": "BulkPublish",
       "url": "https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server",
       "description": "Draft, schedule, cross-post and analyze social media posts on 15 platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more) from Gemini CLI. Hosted Streamable HTTP with OAuth sign-in, or local stdio via npx -y @bulkpublish/mcp-server with an API key; free plan available. MIT. Add with: gemini mcp add --transport http bulkpublish https://mcp.bulkpublish.com/mcp.",
-      "section": [
-        "MCP Servers"
-      ]
-    },
-    {
-      "key": "https://docs.datacircle.dev/mcp-server",
-      "name": "Datacircle",
-      "url": "https://docs.datacircle.dev/mcp-server?utm_source=awesome-gemini-cli&utm_medium=referral",
-      "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Remote Streamable HTTP with OAuth sign-in or an API key; the server is closed source. Add with: gemini mcp add --transport http datacircle https://api.datacircle.dev/mcp.",
       "section": [
         "MCP Servers"
       ]

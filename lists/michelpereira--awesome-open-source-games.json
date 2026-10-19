@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3141caa42b3fc293ea21d082988fb8988368cf5446ba77c1c894bcd510061770\"",
+  "etag": "W/\"730137e2d41a3c928917285555cc8e02be564c8d352b0ef3ba882745aa29353a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -78,6 +78,16 @@
       "name": "Lichess",
       "url": "https://github.com/lichess-org/lila",
       "description": "Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.",
+      "section": [
+        "Browser-Based",
+        "Boardgame"
+      ]
+    },
+    {
+      "key": "https://github.com/SikamikanikoBG/patzer",
+      "name": "Patzer",
+      "url": "https://github.com/SikamikanikoBG/patzer",
+      "description": "Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.",
       "section": [
         "Browser-Based",
         "Boardgame"
