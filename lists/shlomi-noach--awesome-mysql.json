@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"eca1e88fac0386bf518d0b42c1066060632141e458b201221b21d9d7a0d3f0c0\"",
+  "etag": "W/\"0da8ef1d4ff3da30a3001bb6ad59a9b278e574beb90b3a478a2d37724aa2c734\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -199,6 +199,15 @@
       "description": "(archived) - A port of the popular TPCC benchmark for MySQL.",
       "section": [
         "Benchmarking"
+      ]
+    },
+    {
+      "key": "https://github.com/dbtrail/dbtrail",
+      "name": "dbtrail",
+      "url": "https://github.com/dbtrail/dbtrail",
+      "description": "Analytical replica of MySQL: keeps tables as Parquet files fed from the binlog, queried with DuckDB",
+      "section": [
+        "Binlog-Replication"
       ]
     },
     {

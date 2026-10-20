@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"730137e2d41a3c928917285555cc8e02be564c8d352b0ef3ba882745aa29353a\"",
+  "etag": "W/\"4816381622b7cffcf073ecf2e5421dbb196abc01e0aadba7101c01d2aad1d7ca\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -108,6 +108,16 @@
       "name": "Pip",
       "url": "https://github.com/playpip/pip-web",
       "description": "Single-player Texas Hold'em against AI opponents with distinct playing styles. Play money only. Runs in the browser, installs as a PWA and works offline. Built with Next.js and TypeScript.",
+      "section": [
+        "Browser-Based",
+        "Boardgame"
+      ]
+    },
+    {
+      "key": "https://github.com/playhex/playhex",
+      "name": "PlayHex",
+      "url": "https://github.com/playhex/playhex",
+      "description": "Online Hex board game with real-time and correspondence play, AI opponents, rated games, puzzles and game analysis. Built with TypeScript and Vue.",
       "section": [
         "Browser-Based",
         "Boardgame"

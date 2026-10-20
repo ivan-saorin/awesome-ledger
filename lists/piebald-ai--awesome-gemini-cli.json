@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"82af98e2afb3c3b16e65a4b2abedb5470257e6c74c42c6e3701e03744de22ab0\"",
+  "etag": "W/\"718a1445dd4e26f08a687d917832ad85d2996e5199e4903d3f40be11a94bd313\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1439,6 +1439,15 @@
       "name": "laya-guard",
       "url": "https://github.com/scs0209/laya-guard",
       "description": "Local guardrail with a BeforeTool hook for Gemini CLI (laya-guard install gemini-cli) that judges each shell command before it runs, using regex rules, protected paths, and a small on-device model. Blocked commands are denied; ones marked for review pass with a note. Also hooks into Claude Code, Codex, Cursor, and other agents. MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/krishansubudhi/ratchet",
+      "name": "ratchet",
+      "url": "https://github.com/krishansubudhi/ratchet",
+      "description": "Code-size budget CLI (pip install ratchet-size): ratchet check refuses changes that grow source or test line counts past a ceiling, and only ratchet grant raises it. For Gemini CLI it is wired through a GEMINI.md instruction snippet (no hook); a CI check or git pre-commit hook enforces it.",
       "section": [
         "Development Tools & Utilities"
       ]

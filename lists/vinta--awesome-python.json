@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2b7af1df0223e3d3c7a3735b52da9fafb4d53ce58449b5692fb41e10dfe779d5\"",
+  "etag": "W/\"4e0b1b40548b9dece1ef9bc54fca509bf7ef662e32fdb4b0e62601de690321b0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -316,7 +316,7 @@
       "key": "https://github.com/huggingface/diffusers",
       "name": "diffusers",
       "url": "https://github.com/huggingface/diffusers",
-      "description": "A library that provides pre-trained diffusion models for generating and editing images, audio, and video.",
+      "description": "Pre-trained diffusion models for generating and editing images, audio, and video.",
       "section": [
         "Projects",
         "AI and Agents"
@@ -426,7 +426,7 @@
       "key": "https://github.com/jax-ml/jax",
       "name": "jax",
       "url": "https://github.com/jax-ml/jax",
-      "description": "A library for high-performance numerical computing with automatic differentiation and JIT compilation.",
+      "description": "A library for high-performance numerical computing with autodiff and JIT compilation.",
       "section": [
         "Projects",
         "Deep Learning"
@@ -486,7 +486,7 @@
       "key": "https://github.com/scikit-learn-contrib/imbalanced-learn",
       "name": "imbalanced-learn",
       "url": "https://github.com/scikit-learn-contrib/imbalanced-learn",
-      "description": "Resampling techniques for datasets with imbalanced classes, compatible with scikit-learn.",
+      "description": "Resampling techniques for imbalanced datasets, compatible with scikit-learn.",
       "section": [
         "Projects",
         "Machine Learning"
@@ -666,7 +666,7 @@
       "key": "https://github.com/BYVoid/OpenCC",
       "name": "OpenCC",
       "url": "https://github.com/BYVoid/OpenCC",
-      "description": "Conversion between Traditional and Simplified Chinese, with regional variants and phrase-level rules.",
+      "description": "Traditional/Simplified Chinese conversion with regional variants and phrase-level rules.",
       "section": [
         "Projects",
         "Natural Language Processing"
@@ -986,7 +986,7 @@
       "key": "https://github.com/spec-first/connexion",
       "name": "connexion",
       "url": "https://github.com/spec-first/connexion",
-      "description": "A spec-first framework that automatically handles requests based on your OpenAPI specification.",
+      "description": "A spec-first framework that handles requests based on your OpenAPI specification.",
       "section": [
         "Projects",
         "Web APIs"
@@ -1016,7 +1016,7 @@
       "key": "https://github.com/emmett-framework/granian",
       "name": "granian",
       "url": "https://github.com/emmett-framework/granian",
-      "description": "A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.",
+      "description": "A Rust HTTP server for Python apps built on Hyper and Tokio, supporting WSGI/ASGI/RSGI.",
       "section": [
         "Projects",
         "Web Servers"
@@ -1116,7 +1116,7 @@
       "key": "https://github.com/evansd/whitenoise",
       "name": "whitenoise",
       "url": "https://github.com/evansd/whitenoise",
-      "description": "Radically simplified static file serving for WSGI applications, with compression and caching headers.",
+      "description": "Simplified static file serving for WSGI apps, with compression and caching headers.",
       "section": [
         "Projects",
         "Web Asset Management"
@@ -1206,7 +1206,7 @@
       "key": "https://github.com/dfunckt/django-rules",
       "name": "django-rules",
       "url": "https://github.com/dfunckt/django-rules",
-      "description": "A tiny but powerful app providing object-level permissions to Django, without requiring a database.",
+      "description": "A tiny but powerful app for object-level permissions in Django, without a database.",
       "section": [
         "Projects",
         "Authentication"
@@ -1776,7 +1776,7 @@
       "key": "https://github.com/chroma-core/chroma",
       "name": "chromadb",
       "url": "https://github.com/chroma-core/chroma",
-      "description": "An open-source embedding database for building AI applications with embeddings and semantic search.",
+      "description": "An open-source embedding database for building AI applications with semantic search.",
       "section": [
         "Projects",
         "Database"
@@ -1826,7 +1826,7 @@
       "key": "https://github.com/sqlalchemy/dogpile.cache",
       "name": "dogpile.cache",
       "url": "https://github.com/sqlalchemy/dogpile.cache",
-      "description": "A caching API for Redis, Memcached, and other backends, with coordinated value regeneration.",
+      "description": "A caching API for Redis, Memcached, and others, with coordinated value regeneration.",
       "section": [
         "Projects",
         "Caching"
@@ -1946,7 +1946,7 @@
       "key": "https://github.com/msgspec/msgspec",
       "name": "msgspec",
       "url": "https://github.com/msgspec/msgspec",
-      "description": "A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.",
+      "description": "A fast serialization and validation library supporting JSON, MessagePack, YAML, and TOML.",
       "section": [
         "Projects",
         "Serialization"
@@ -1966,7 +1966,7 @@
       "key": "https://github.com/uqfoundation/dill",
       "name": "dill",
       "url": "https://github.com/uqfoundation/dill",
-      "description": "Extends pickle to serialize almost any Python object, including closures and whole interpreter sessions.",
+      "description": "Extends pickle to serialize almost any object, including closures and interpreter sessions.",
       "section": [
         "Projects",
         "Serialization"
@@ -2046,7 +2046,7 @@
       "key": "https://github.com/dgunning/edgartools",
       "name": "edgartools",
       "url": "https://github.com/dgunning/edgartools",
-      "description": "Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.",
+      "description": "Downloads SEC EDGAR filings and XBRL financial statements as structured data.",
       "section": [
         "Projects",
         "Data Ingestion / ETL"
@@ -2176,7 +2176,7 @@
       "key": "https://github.com/Graphify-Labs/graphify",
       "name": "graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.",
+      "description": "Turns code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.",
       "section": [
         "Projects",
         "Data Visualization"
@@ -2436,7 +2436,7 @@
       "key": "https://github.com/PennyLaneAI/pennylane",
       "name": "pennylane",
       "url": "https://github.com/PennyLaneAI/pennylane",
-      "description": "A cross-platform library for quantum computing, quantum machine learning, and quantum chemistry.",
+      "description": "A cross-platform library for quantum computing, quantum ML, and quantum chemistry.",
       "section": [
         "Projects",
         "Quantum Computing"
@@ -2846,7 +2846,7 @@
       "key": "https://github.com/schemathesis/schemathesis",
       "name": "schemathesis",
       "url": "https://github.com/schemathesis/schemathesis",
-      "description": "A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.",
+      "description": "Automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.",
       "section": [
         "Projects",
         "Testing"
@@ -2996,7 +2996,7 @@
       "key": "https://github.com/bloomberg/memray",
       "name": "memray",
       "url": "https://github.com/bloomberg/memray",
-      "description": "A memory profiler that tracks allocations in Python code, native extensions, and the interpreter itself.",
+      "description": "Tracks memory allocations in Python code, native extensions, and the interpreter itself.",
       "section": [
         "Projects",
         "Debugging Tools"
@@ -3456,7 +3456,7 @@
       "key": "https://github.com/ag2ai/faststream",
       "name": "faststream",
       "url": "https://github.com/ag2ai/faststream",
-      "description": "A framework for building asynchronous services over Apache Kafka, RabbitMQ, NATS, MQTT and Redis.",
+      "description": "A framework for building async services over Kafka, RabbitMQ, NATS, MQTT, and Redis.",
       "section": [
         "Projects",
         "Messaging"
@@ -3756,7 +3756,7 @@
       "key": "https://github.com/yt-dlp/yt-dlp",
       "name": "yt-dlp",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "description": "A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.",
+      "description": "A command-line video downloader for YouTube and other sites, a fork of youtube-dl.",
       "section": [
         "Projects",
         "CLI Tools"
@@ -3836,7 +3836,7 @@
       "key": "https://github.com/kivy/kivy",
       "name": "Kivy",
       "url": "https://github.com/kivy/kivy",
-      "description": "An open-source framework for cross-platform GUI apps on desktop, mobile, and embedded platforms.",
+      "description": "An open-source cross-platform GUI framework for desktop, mobile, and embedded devices.",
       "section": [
         "Projects",
         "GUI Development"
@@ -4236,7 +4236,7 @@
       "key": "https://github.com/pymupdf/PyMuPDF",
       "name": "pymupdf",
       "url": "https://github.com/pymupdf/PyMuPDF",
-      "description": "A fast library for extracting, rendering, and editing PDF and other document formats, built on MuPDF.",
+      "description": "A fast MuPDF-based library for extracting, rendering, and editing PDFs and other documents.",
       "section": [
         "Projects",
         "File Format Processing"
@@ -4816,7 +4816,7 @@
       "key": "https://docs.python.org/3/library/concurrent.futures.html",
       "name": "concurrent.futures",
       "url": "https://docs.python.org/3/library/concurrent.futures.html",
-      "description": "(Python standard library) A high-level interface for asynchronously executing callables.",
+      "description": "(Python standard library) High-level asynchronous execution of callables.",
       "section": [
         "Projects",
         "Asynchronous Programming"

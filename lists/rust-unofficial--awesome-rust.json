@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b6639f9dd116e662e4fe52dd69fb079ee48bd4d6df9088f03e966914b9708c13\"",
+  "etag": "W/\"1b45a091a771157ea43a86d3384d4444e2c7f6f953b15eb40c19977701116083\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -611,6 +611,15 @@
       "name": "temps",
       "url": "https://github.com/gotempsh/temps",
       "description": "A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/terraphim/terraphim-ai",
+      "name": "terraphim/terraphim-ai",
+      "url": "https://github.com/terraphim/terraphim-ai",
+      "description": "[terraphim-grep] - Local-first knowledge-graph search engine and privacy-preserving AI assistant: deterministic Aho-Corasick retrieval over role-based thesauri, native MCP server, agent session memory",
       "section": [
         "Applications"
       ]
@@ -1765,6 +1774,16 @@
       "name": "ParityDB",
       "url": "https://github.com/paritytech/parity-db",
       "description": "Fast and reliable database, optimised for read operation",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/PgCache/pgcache",
+      "name": "PgCache/pgcache",
+      "url": "https://github.com/PgCache/pgcache",
+      "description": "A wire-compatible PostgreSQL caching proxy for repeated queries, kept fresh from the logical replication stream.",
       "section": [
         "Applications",
         "Database"
@@ -15475,10 +15494,10 @@
       ]
     },
     {
-      "key": "https://github.com/longbridge/gpui-component",
-      "name": "longbridge/gpui-component",
-      "url": "https://github.com/longbridge/gpui-component",
-      "description": "[gpui-component] - UI components for building fantastic desktop applications using GPUI.",
+      "key": "https://github.com/longbridge/gpui-kit",
+      "name": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "[gpui-component] - UI components for desktop applications using GPUI.",
       "section": [
         "Libraries",
         "GUI"

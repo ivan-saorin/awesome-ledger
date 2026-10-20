@@ -1,8 +1,18 @@
 {
-  "etag": "W/\"86cba76dba4da205b9709cf96caa4d64d11c1e1c931862fdeecac143ac4e670d\"",
+  "etag": "W/\"0a6979b162220756cfc73c4faaf58eb7f234daae80ba8a8b4b0586b465a7c785\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
+    {
+      "key": "https://api-spector.dev",
+      "name": "API Spector",
+      "url": "https://api-spector.dev",
+      "description": "Open-source API clien, mock server and contract testing tool. Zero telemetry.",
+      "section": [
+        "Software",
+        "API Testing"
+      ]
+    },
     {
       "key": "https://github.com/usebruno/bruno",
       "name": "Bruno",
@@ -134,6 +144,16 @@
       ]
     },
     {
+      "key": "https://github.com/openhook-dev/openhook-inbox",
+      "name": "Openhook",
+      "url": "https://github.com/openhook-dev/openhook-inbox",
+      "description": "Open-source webhook inbox for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.",
+      "section": [
+        "Software",
+        "API Testing"
+      ]
+    },
+    {
       "key": "https://spiderhash.io",
       "name": "Spiderhash",
       "url": "https://spiderhash.io/",
@@ -168,6 +188,16 @@
       "name": "funapi",
       "url": "https://funapi.dev",
       "description": "A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.",
+      "section": [
+        "Software",
+        "API Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/fclairamb/solidping",
+      "name": "SolidPing",
+      "url": "https://github.com/fclairamb/solidping",
+      "description": "Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.",
       "section": [
         "Software",
         "API Testing"
@@ -344,6 +374,16 @@
       ]
     },
     {
+      "key": "https://github.com/sunxiuguo/fanout-check",
+      "name": "fanout-check",
+      "url": "https://github.com/sunxiuguo/fanout-check",
+      "description": "Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
       "key": "https://beeceptor.com",
       "name": "Beeceptor",
       "url": "https://beeceptor.com/",
@@ -384,6 +424,16 @@
       ]
     },
     {
+      "key": "https://github.com/SaaSy-Solutions/mockforge",
+      "name": "MockForge",
+      "url": "https://github.com/SaaSy-Solutions/mockforge",
+      "description": "Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.",
+      "section": [
+        "Software",
+        "Service Virtualization"
+      ]
+    },
+    {
       "key": "https://github.com/mock-server/mockserver-monorepo",
       "name": "MockServer",
       "url": "https://github.com/mock-server/mockserver-monorepo",
@@ -418,6 +468,16 @@
       "name": "Twinbay",
       "url": "https://twinbay.ai",
       "description": "Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.",
+      "section": [
+        "Software",
+        "Service Virtualization"
+      ]
+    },
+    {
+      "key": "https://nickgeorgeai.com/fieldtwin",
+      "name": "fieldtwin",
+      "url": "https://nickgeorgeai.com/fieldtwin",
+      "description": "Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.",
       "section": [
         "Software",
         "Service Virtualization"
@@ -524,10 +584,30 @@
       ]
     },
     {
+      "key": "https://curlshot.com",
+      "name": "CurlShot",
+      "url": "https://curlshot.com",
+      "description": "Screenshot API for capturing baseline and comparison images of web pages in CI as PNG, JPEG, WebP or PDF, with full-page and CSS-selector element capture, device presets and ad/cookie-banner blocking. Free plan available.",
+      "section": [
+        "Software",
+        "Visual Testing"
+      ]
+    },
+    {
       "key": "https://github.com/TestChimp/ai-wright",
       "name": "ai-wright",
       "url": "https://github.com/TestChimp/ai-wright",
       "description": "Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab",
+      "name": "App Crash Lab",
+      "url": "https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab",
+      "description": "MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -578,6 +658,16 @@
       "name": "DevAssure",
       "url": "https://app.devassure.io",
       "description": "Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/gitemre/device-hub-pro",
+      "name": "Device Hub Pro",
+      "url": "https://github.com/gitemre/device-hub-pro",
+      "description": "Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -674,6 +764,16 @@
       ]
     },
     {
+      "key": "https://github.com/UbaidBinWaris/proxy_browser",
+      "name": "Proxy QA Browser",
+      "url": "https://github.com/UbaidBinWaris/proxy_browser",
+      "description": "Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://testmuai.com",
       "name": "TestMu AI (formerly LambdaTest)",
       "url": "https://www.testmuai.com",
@@ -754,6 +854,16 @@
       ]
     },
     {
+      "key": "https://github.com/AishwaryShrivastav/vibe-testing",
+      "name": "vibe-testing",
+      "url": "https://github.com/AishwaryShrivastav/vibe-testing",
+      "description": "Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://vibeview.io",
       "name": "VibeView",
       "url": "https://vibeview.io/",
@@ -788,6 +898,16 @@
       "name": "assay",
       "url": "https://github.com/awss1i/assay",
       "description": "Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://deviceschanger.org",
+      "name": "Device Changer",
+      "url": "https://deviceschanger.org",
+      "description": "Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -868,6 +988,16 @@
       "name": "8½ Minute Mail",
       "url": "https://8m30mail.com/",
       "description": "Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://tempmailhub.net",
+      "name": "TempMail Hub",
+      "url": "https://tempmailhub.net/",
+      "description": "Free disposable inbox for manual or scripted signup and email-verification testing, with a selectable lifetime from 10 minutes to 7 days and no account required.",
       "section": [
         "Software",
         "Test Data Management"
@@ -994,16 +1124,6 @@
       ]
     },
     {
-      "key": "https://launchstock.app/tools/test-data-generator",
-      "name": "LaunchStock Test Data Generator",
-      "url": "https://launchstock.app/tools/test-data-generator",
-      "description": "Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.",
-      "section": [
-        "Software",
-        "Test Data Management"
-      ]
-    },
-    {
       "key": "https://github.com/vinceblock99/postal-code-formats",
       "name": "postal-code-formats",
       "url": "https://github.com/vinceblock99/postal-code-formats",
@@ -1014,10 +1134,30 @@
       ]
     },
     {
+      "key": "https://byterivet.com/test-files",
+      "name": "ByteRivet Sample Files",
+      "url": "https://byterivet.com/test-files/",
+      "description": "Free browser-based generator for exact-size dummy files from 1 KB to 2 GB in 22 formats (PDF, PNG, JPG, DOCX, XLSX, CSV, JSON, ZIP, MP4, WAV and more) for upload-limit and file-handling tests. Files are built locally, no upload or signup.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
       "key": "https://stanzaapi.com/datasets",
       "name": "StanzaAPI Test Data",
       "url": "https://stanzaapi.com/datasets",
       "description": "Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://formfillerapp.com/tools",
+      "name": "FormFiller test data tools",
+      "url": "https://formfillerapp.com/tools/",
+      "description": "Free browser-based generators for fake addresses, identities, IBANs, test card numbers and bulk CSV/JSON/SQL data in 22 locales.",
       "section": [
         "Software",
         "Test Data Management"
@@ -1084,6 +1224,16 @@
       ]
     },
     {
+      "key": "https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe",
+      "name": "Keploy API Test Recorder",
+      "url": "https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe",
+      "description": "Chrome extension that records API calls from your browser session and turns them into API tests.",
+      "section": [
+        "Software",
+        "Browser Extensions & Utilities"
+      ]
+    },
+    {
       "key": "https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod",
       "name": "ProxySwitcher",
       "url": "https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod",
@@ -1104,6 +1254,16 @@
       ]
     },
     {
+      "key": "https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki",
+      "name": "Spoof Me",
+      "url": "https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki",
+      "description": "Test how a site behaves for users in other browsers, OSes, languages, timezones and screen sizes by switching the whole browser identity. Also available for Firefox.",
+      "section": [
+        "Software",
+        "Browser Extensions & Utilities"
+      ]
+    },
+    {
       "key": "https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp",
       "name": "TabQA",
       "url": "https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp",
@@ -1114,10 +1274,30 @@
       ]
     },
     {
+      "key": "https://feaefe371424d0725b266468856c9101.ctonew.app",
+      "name": "AuditReady",
+      "url": "https://feaefe371424d0725b266468856c9101.ctonew.app/",
+      "description": "Runs 12 deterministic HTML checks on a page against WCAG 2.2 and returns the matching criterion and a suggested fix for each finding, then turns them into a printable report an agency can hand to its client. Free instant scan; the full report is a one-off $29.",
+      "section": [
+        "Software",
+        "Accessibility & Usability Testing"
+      ]
+    },
+    {
       "key": "https://altreus.github.io/colourblind",
       "name": "Colour Blindness Simulator",
       "url": "https://altreus.github.io/colourblind/",
       "description": "Simulate different types of color blindness.",
+      "section": [
+        "Software",
+        "Accessibility & Usability Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/ateymoori/oh-my-android",
+      "name": "Oh My Android",
+      "url": "https://github.com/ateymoori/oh-my-android",
+      "description": "Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.",
       "section": [
         "Software",
         "Accessibility & Usability Testing"
@@ -1228,6 +1408,16 @@
       "name": "Locust Kubernetes Operator",
       "url": "https://github.com/AbdelrhmanHamouda/locust-k8s-operator",
       "description": "Run distributed Locust load tests on Kubernetes with a LocustTest CRD.",
+      "section": [
+        "Software",
+        "Performance & Load Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/vpshostreview/vhr-vps-benchmark",
+      "name": "vhr-bench",
+      "url": "https://github.com/vpshostreview/vhr-vps-benchmark",
+      "description": "One-minute Linux server benchmark of CPU, memory and 4k random disk IOPS using sysbench and fio.",
       "section": [
         "Software",
         "Performance & Load Testing"
@@ -1374,6 +1564,16 @@
       ]
     },
     {
+      "key": "https://github.com/emirmrkaljevic/behave",
+      "name": "behave",
+      "url": "https://github.com/emirmrkaljevic/behave",
+      "description": "Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.",
+      "section": [
+        "Software",
+        "Test Automation Frameworks"
+      ]
+    },
+    {
       "key": "https://github.com/MathewSachin/Captura",
       "name": "Captura",
       "url": "https://github.com/MathewSachin/Captura",
@@ -1431,6 +1631,16 @@
       "section": [
         "Software",
         "A/B Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/xianyu-sheng/SmartBench",
+      "name": "SmartBench",
+      "url": "https://github.com/xianyu-sheng/SmartBench",
+      "description": "Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.",
+      "section": [
+        "Software",
+        "Static Analysis"
       ]
     },
     {
@@ -1663,6 +1873,15 @@
       "name": "Software Testing Weekly",
       "url": "https://softwaretestingweekly.com/",
       "description": "A curated round-up of the best software testing news and tools published every Friday.",
+      "section": [
+        "Newsletters"
+      ]
+    },
+    {
+      "key": "https://rolegig.com/qa-testing",
+      "name": "RoleGig QA & Testing",
+      "url": "https://rolegig.com/qa-testing/",
+      "description": "Weekly list of QA, test automation and SDET jobs in India, the US, Canada, Europe, Australia and the Gulf.",
       "section": [
         "Newsletters"
       ]
