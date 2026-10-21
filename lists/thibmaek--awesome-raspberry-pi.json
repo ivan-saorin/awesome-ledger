@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7d70bde3de31b96a65e51ef239326ef409b80fb83a1623eafc4a25c018ed7859\"",
+  "etag": "W/\"de9e12523171f52253129ac88eceac37adc058898020eb27e6ab18125b9ae735\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -778,6 +778,15 @@
       ]
     },
     {
+      "key": "https://edgellm-bench.vercel.app",
+      "name": "EdgeLLM Bench",
+      "url": "https://edgellm-bench.vercel.app",
+      "description": "Leaderboard of local LLM speeds (tokens/sec) on Raspberry Pi 5, 4 and CM4 compared with Jetson and RK3588 boards, each result linked to its source.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://embedible.io",
       "name": "Embedible",
       "url": "https://embedible.io/",
@@ -1543,10 +1552,28 @@
       ]
     },
     {
+      "key": "https://orbit-os.org",
+      "name": "Orbit OS",
+      "url": "https://www.orbit-os.org/",
+      "description": "Android-like platform installed on top of Raspberry Pi OS: signed apps from an app store, atomic OTA updates, and Go, Python and Java SDKs to control GPIO, I²C, UART and the camera, with a VS Code extension (Orbit Studio) to run code live on the Pi and deploy in one click. Supports Raspberry Pi 3, 4, 5 and Zero 2 W.",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
       "key": "https://github.com/mame82/P4wnP1",
       "name": "P4wnP1",
       "url": "https://github.com/mame82/P4wnP1",
       "description": "P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor).",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/msalsas/philosopher",
+      "name": "Philosopher",
+      "url": "https://github.com/msalsas/philosopher",
+      "description": "A conversational-AI plush toy (Raspberry Pi + local LLM) that recognizes faces, reads emotions, remembers people, and talks with configurable personalities (100% local).",
       "section": [
         "Projects"
       ]

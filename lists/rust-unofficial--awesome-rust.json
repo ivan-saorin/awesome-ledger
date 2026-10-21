@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1b45a091a771157ea43a86d3384d4444e2c7f6f953b15eb40c19977701116083\"",
+  "etag": "W/\"b89a2565932e350c9c9bd23318fe2cf21928b9ed26537d5fccaae131d59559ad\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -17,6 +17,15 @@
       "name": "alacritty",
       "url": "https://github.com/alacritty/alacritty",
       "description": "A cross-platform, GPU enhanced terminal emulator",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/alexandrosnt/Reach",
+      "name": "alexandrosnt/Reach",
+      "url": "https://github.com/alexandrosnt/Reach",
+      "description": "Cross-platform SSH client for desktop and Android with SFTP, port forwarding, RDP, VNC and database tools, built with Tauri",
       "section": [
         "Applications"
       ]
@@ -80,6 +89,15 @@
       "name": "cloudflare/boringtun",
       "url": "https://github.com/cloudflare/boringtun",
       "description": "A Userspace WireGuard VPN Implementation",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/datavzrd/datavzrd",
+      "name": "datavzrd/datavzrd",
+      "url": "https://github.com/datavzrd/datavzrd",
+      "description": "[datavzrd] - Create interactive HTML reports from CSV, TSV, JSON or Parquet tables with a simple YAML configuration",
       "section": [
         "Applications"
       ]
@@ -2990,6 +3008,16 @@
       ]
     },
     {
+      "key": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+      "name": "Hugo-Dz/spritefusion-sprite-normals",
+      "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+      "description": "A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).",
+      "section": [
+        "Applications",
+        "Image processing"
+      ]
+    },
+    {
       "key": "https://github.com/imager-io/imager",
       "name": "Imager",
       "url": "https://github.com/imager-io/imager",
@@ -4614,6 +4642,16 @@
       "name": "anylinuxfs-gui",
       "url": "https://github.com/fenio/anylinuxfs-gui",
       "description": "GUI application for anylinuxfs",
+      "section": [
+        "Applications",
+        "System tools"
+      ]
+    },
+    {
+      "key": "https://github.com/AppachiTech/suvadu",
+      "name": "AppachiTech/suvadu",
+      "url": "https://github.com/AppachiTech/suvadu",
+      "description": "[suvadu] - Zsh and Bash history in a local SQLite database with exit codes, directories and the commands AI coding agents run, plus a read-only MCP server",
       "section": [
         "Applications",
         "System tools"
@@ -12194,6 +12232,16 @@
       ]
     },
     {
+      "key": "https://github.com/po0uyan/memsafe",
+      "name": "po0uyan/memsafe",
+      "url": "https://github.com/po0uyan/memsafe",
+      "description": "[memsafe] - Locked, sealed, zero-on-drop memory for secrets.",
+      "section": [
+        "Libraries",
+        "Cryptography"
+      ]
+    },
+    {
       "key": "https://github.com/racum/rust-djangohashers",
       "name": "racum/rust-djangohashers",
       "url": "https://github.com/racum/rust-djangohashers",
@@ -12418,6 +12466,16 @@
       "name": "logisky/LogiSheets",
       "url": "https://github.com/logisky/LogiSheets",
       "description": "[logisheets-rs] - A new, modern spreadsheet engine that drives real products.",
+      "section": [
+        "Libraries",
+        "Data processing"
+      ]
+    },
+    {
+      "key": "https://github.com/marcomq/mq-bridge",
+      "name": "marcomq/mq-bridge",
+      "url": "https://github.com/marcomq/mq-bridge",
+      "description": "[mq-bridge] - Async ETL and messaging library: config-driven routes move data between brokers (Kafka, NATS, AMQP, MQTT), databases incl. Postgres/MongoDB CDC, Parquet on S3/GCS/Azure, files and HTTP/gRPC, with retry, DLQ and deduplication middleware",
       "section": [
         "Libraries",
         "Data processing"

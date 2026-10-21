@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7ff6211a3b1daf5bd341c27d7726e7b1fdacc2d686d1eed531659af909149430\"",
+  "etag": "W/\"d08760e76809248f6385739107f27d8ce68127fe248989f52abf3c235ce4faab\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8721,6 +8721,15 @@
       "name": "spack",
       "url": "https://github.com/Game4Move78/zsh-spack",
       "description": "Includes some useful aliases and functions for loading/unloading Spack-generated modules. As it makes use of the module command it is much more efficient than spack load.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ericlikedis/spotify-now",
+      "name": "spotify-now",
+      "url": "https://github.com/ericlikedis/spotify-now",
+      "description": "Shows the track Spotify is playing in your prompt, in a green box with animated equalizer bars. Works on macOS and Linux.",
       "section": [
         "Plugins"
       ]
@@ -22911,6 +22920,16 @@
       "name": "smucd",
       "url": "https://github.com/pro555161rblxs/smucd",
       "description": "Fuzzy typo-tolerant cd replacement with interactive selection UI.",
+      "section": [
+        "Other Resources",
+        "ZSH Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/AppachiTech/suvadu",
+      "name": "suvadu",
+      "url": "https://github.com/AppachiTech/suvadu",
+      "description": "Shell history in local SQLite with directory, exit code and AI agent commands, with a ZSH widget for Ctrl+R and Up-arrow recall.",
       "section": [
         "Other Resources",
         "ZSH Tools"

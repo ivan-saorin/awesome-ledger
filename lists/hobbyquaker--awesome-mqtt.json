@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0298e50fbf5b7feddf15b390650118072999ffc57a132feb6906dc416e2af3e3\"",
+  "etag": "W/\"41ca16858a9568d3a4340dbcc174eeb9129cd0e5584c6a0dd09375466438f0cc\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -349,6 +349,15 @@
       "name": "TrailMQ",
       "url": "https://github.com/RainerGewalt/TrailMQ",
       "description": "Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.",
+      "section": [
+        "Brokers"
+      ]
+    },
+    {
+      "key": "https://velamq.com",
+      "name": "VelaMQ",
+      "url": "https://www.velamq.com/",
+      "description": "Rust-based MQTT broker with clustering, a web console, authentication, topic ACLs, and a SQL rule engine.",
       "section": [
         "Brokers"
       ]
@@ -727,6 +736,15 @@
       "name": "mqtt_recorder",
       "url": "https://github.com/rpdswtk/mqtt_recorder",
       "description": "Simple cli tool for recording and replaying MQTT messages.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ToRexZ/mqtt-scope",
+      "name": "MQTT Scope",
+      "url": "https://github.com/ToRexZ/mqtt-scope",
+      "description": "Desktop MQTT client for Linux, Windows and macOS with a live topic tree, a large-message inspector with diff, and live plots of any JSON field. Website.",
       "section": [
         "Tools"
       ]

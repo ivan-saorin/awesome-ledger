@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"06eeea9391cdf8a0865caa6d95a437656ae7ba1a540cd28f6b187326b46172e0\"",
+  "etag": "W/\"a6f00b4750dff8a1807e69edbc88080275661945107b76de89bcba8cec54d481\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2002,6 +2002,15 @@
       ]
     },
     {
+      "key": "https://github.com/threedaymonk/htmlbeautifier",
+      "name": "htmlbeautifier",
+      "url": "https://github.com/threedaymonk/htmlbeautifier",
+      "description": "A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
       "key": "https://rails-bestpractices.com",
       "name": "rails_best_practices",
       "url": "https://rails-bestpractices.com",
@@ -2204,6 +2213,15 @@
       "name": "lockbud",
       "url": "https://github.com/BurtonQin/lockbud",
       "description": "Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://pm.inf.ethz.ch/research/prusti.html",
+      "name": "Prusti",
+      "url": "https://www.pm.inf.ethz.ch/research/prusti.html",
+      "description": "A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.",
       "section": [
         "Programming Languages"
       ]
@@ -4400,15 +4418,6 @@
       "name": "markdownlint",
       "url": "https://github.com/DavidAnson/markdownlint",
       "description": "Node.js -based style checker and lint tool for Markdown/CommonMark files.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://mdformat.rtfd.io",
-      "name": "mdformat",
-      "url": "https://mdformat.rtfd.io",
-      "description": "CommonMark compliant Markdown formatter",
       "section": [
         "Other"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"718a1445dd4e26f08a687d917832ad85d2996e5199e4903d3f40be11a94bd313\"",
+  "etag": "W/\"2539fa14cfcf0cacdaa026a625412de9ec86057146bdc09b0ed9d6b664416827\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2150,6 +2150,15 @@
       "name": "AltoRank",
       "url": "https://altorank.co/docs/mcp/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Open-source SEO content software with a hosted MCP server: check whether search engines and AI crawlers can read a site, research keywords, read Google Search Console, and write sourced drafts into a person's review queue. No approve or publish tool. AGPL-3.0 and self-hostable (source). Remote Streamable HTTP with OAuth sign-in. Add with gemini mcp add --transport http altorank https://app.altorank.co/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://docs.firecrawl.dev/quickstarts/gemini-cli",
+      "name": "Firecrawl",
+      "url": "https://docs.firecrawl.dev/quickstarts/gemini-cli?utm_source=awesome-gemini-cli&utm_medium=integration",
+      "description": "Official Firecrawl MCP server for web search, page scraping to markdown or JSON, and site crawling. The hosted server works keyless (rate limited) with search, scrape and parse; add an API key for crawl, map and the rest. The open-source server is MIT (source). Add with: gemini mcp add --transport http firecrawl https://mcp.firecrawl.dev/v2/mcp.",
       "section": [
         "MCP Servers"
       ]
