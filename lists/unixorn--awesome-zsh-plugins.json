@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d08760e76809248f6385739107f27d8ce68127fe248989f52abf3c235ce4faab\"",
+  "etag": "W/\"4be830cf2e2abc247075753c41af60c429dc618359076d52118c7b85e61f610e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -408,6 +408,16 @@
       ]
     },
     {
+      "key": "https://commandlinepoweruser.com",
+      "name": "commandlinepoweruser.com",
+      "url": "https://commandlinepoweruser.com/",
+      "description": "Wes Bos' videos introducing ZSH and oh-my-zsh.",
+      "section": [
+        "Tutorials",
+        "Generic ZSH"
+      ]
+    },
+    {
       "key": "https://github.com/gustavohellwig/gh-zsh",
       "name": "GH",
       "url": "https://github.com/gustavohellwig/gh-zsh",
@@ -422,16 +432,6 @@
       "name": "How To Make an Awesome Custom Shell with ZSH",
       "url": "https://linuxstans.com/how-to-make-an-awesome-custom-shell-with-zsh/",
       "description": "A beginner-friendly tutorial on how to install and configure a ZSH shell.",
-      "section": [
-        "Tutorials",
-        "Generic ZSH"
-      ]
-    },
-    {
-      "key": "https://commandlinepoweruser.com",
-      "name": "commandlinepoweruser.com",
-      "url": "https://commandlinepoweruser.com/",
-      "description": "Wes Bos' videos introducing ZSH and oh-my-zsh.",
       "section": [
         "Tutorials",
         "Generic ZSH"
@@ -498,20 +498,20 @@
       ]
     },
     {
-      "key": "https://strcat.de/zsh",
-      "name": "ZSH tips by Christian Schneider",
-      "url": "http://strcat.de/zsh/#tipps",
-      "description": "An exhaustive list of ZSH tips by Christian Schneider.",
+      "key": "https://github.com/Easy-Cloud-in/zsh-setup",
+      "name": "ZSH Setup by Easy-Cloud-in",
+      "url": "https://github.com/Easy-Cloud-in/zsh-setup",
+      "description": "A powerful Zsh environment setup with Oh My Posh themes, essential plugins, and advanced search capabilities. This repository provides scripts to automatically configure your terminal with modern features and aesthetics. Requires a Debian or Ubuntu based system.",
       "section": [
         "Tutorials",
         "Generic ZSH"
       ]
     },
     {
-      "key": "https://github.com/Easy-Cloud-in/zsh-setup",
-      "name": "ZSH Setup by Easy-Cloud-in",
-      "url": "https://github.com/Easy-Cloud-in/zsh-setup",
-      "description": "A powerful Zsh environment setup with Oh My Posh themes, essential plugins, and advanced search capabilities. This repository provides scripts to automatically configure your terminal with modern features and aesthetics. Requires a Debian or Ubuntu based system.",
+      "key": "https://strcat.de/zsh",
+      "name": "ZSH tips by Christian Schneider",
+      "url": "http://strcat.de/zsh/#tipps",
+      "description": "An exhaustive list of ZSH tips by Christian Schneider.",
       "section": [
         "Tutorials",
         "Generic ZSH"
@@ -22906,9 +22906,9 @@
       ]
     },
     {
-      "key": "https://github.com/iterative/shtab",
+      "key": "https://github.com/tqdm/shtab",
       "name": "shtab",
-      "url": "https://github.com/iterative/shtab",
+      "url": "https://github.com/tqdm/shtab",
       "description": "Automatically generate shell tab completion scripts for Python CLI apps, supports zsh, bash and tcsh.",
       "section": [
         "Other Resources",

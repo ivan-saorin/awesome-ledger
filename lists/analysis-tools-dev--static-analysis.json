@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a6f00b4750dff8a1807e69edbc88080275661945107b76de89bcba8cec54d481\"",
+  "etag": "W/\"f1aced4ea796a946df2a6194240bbfe0575924e94f893fea78157e7961d33c50\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1241,15 +1241,6 @@
       "name": "composer-dependency-analyser",
       "url": "https://github.com/shipmonk-rnd/composer-dependency-analyser",
       "description": "Fast detection of composer dependency issues.",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
-      "key": "https://github.com/mihaeu/dephpend",
-      "name": "dephpend",
-      "url": "https://github.com/mihaeu/dephpend",
-      "description": "Dependency analysis tool.",
       "section": [
         "Programming Languages"
       ]
@@ -4247,6 +4238,15 @@
       "name": "PullRequest",
       "url": "https://www.hackerone.com/product/code",
       "description": "copyright: — Code review as a service with built-in static analysis. Increase velocity and reduce technical debt through quality code review by expert engineers backed by best-in-class automation.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://mustachecase.github.io",
+      "name": "zanadir",
+      "url": "https://mustachecase.github.io/",
+      "description": "Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.",
       "section": [
         "Other"
       ]
