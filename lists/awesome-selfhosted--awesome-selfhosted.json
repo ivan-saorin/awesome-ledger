@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"20112253bb70b59895ce698949a4c3a9c38fa28ed8bebd45e553331926b993c3\"",
+  "etag": "W/\"e09e5a92250f2edf9dbab02322daf16dc61bfb663883785c9c475429d3fd259f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -868,6 +868,16 @@
       "name": "Cal.diy",
       "url": "https://cal.diy/",
       "description": "Online appointment scheduling system. (Source Code) MIT Nodejs",
+      "section": [
+        "Software",
+        "Booking and Scheduling"
+      ]
+    },
+    {
+      "key": "https://tickets.chobble.com",
+      "name": "Chobble Tickets",
+      "url": "https://tickets.chobble.com",
+      "description": "Event ticketing with QR check-in and encrypted attendee records. The complete product is AGPL-3.0 with no open core and no branding requirement, and it runs as an edge script without an always-on server (alternative to Eventbrite). (Demo, Source Code) AGPL-3.0 Deno/Docker",
       "section": [
         "Software",
         "Booking and Scheduling"
@@ -6618,6 +6628,16 @@
       "name": "Octoprint",
       "url": "https://octoprint.org/",
       "description": "Snappy web interface for controlling consumer 3D printers. (Source Code) AGPL-3.0 Docker/Python",
+      "section": [
+        "Software",
+        "Manufacturing"
+      ]
+    },
+    {
+      "key": "https://orkyo.com",
+      "name": "Orkyo Community",
+      "url": "https://orkyo.com",
+      "description": "Production scheduling for manufacturing teams — one plan for the machines, people, and tools that run your jobs. (Demo, Source Code) AGPL-3.0 C#/Docker",
       "section": [
         "Software",
         "Manufacturing"

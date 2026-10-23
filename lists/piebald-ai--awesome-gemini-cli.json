@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1fc123e63f7c96e07395a9ece252c6950848b8f8477197a2a8875b2857dca8d2\"",
+  "etag": "W/\"4f1102a1934c0c61b8fa01b51210cc13aa11543967bafea66d76d62872088638\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -98,6 +98,15 @@
       "name": "Bellows",
       "url": "https://bellowsai.app?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Desktop workspace that runs Gemini CLI over ACP alongside Claude and Codex, with diffs, permission prompts, team rules, a hash-linked audit trail and live session sharing. Windows, macOS and Linux.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/Alekla0126/alchemist-coder",
+      "name": "Alchemist Coder",
+      "url": "https://github.com/Alekla0126/alchemist-coder",
+      "description": "Open-source desktop app for Windows, macOS and Linux that indexes your Gemini CLI chats, together with Claude Code, Codex and Grok Build sessions, into one local, read-only full-text search. Running Gemini CLI over ACP inside the app is planned for its upcoming Pro edition; the free edition runs Claude Code and Codex on local models.",
       "section": [
         "Interfaces"
       ]
@@ -404,6 +413,24 @@
       "name": "AutoHarness",
       "url": "https://github.com/D-Shey/autoharness",
       "description": "Makes Gemini CLI (and Claude Code, Codex, Qwen Code) prepare before it builds: splits the task into areas of know-how, finds or writes a skill for each, checks the result against the original, and lets a fresh critic judge it. MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Get-Concord-AI/concord-mcp",
+      "name": "Concord MCP",
+      "url": "https://github.com/Get-Concord-AI/concord-mcp",
+      "description": "Local-first shared work-state MCP server (npx -y @concord-ai/concord-mcp) that lets coding agents coordinate on one repo through presence, file claims, messaging, handoffs and review packets. Works with Gemini CLI alongside Claude Code, Codex, Cursor and other agents. TypeScript, stdio, MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/wjgoarxiv/litgravity",
+      "name": "LitGravity",
+      "url": "https://github.com/wjgoarxiv/litgravity",
+      "description": "Adds lit to the Antigravity CLI (agy) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -2186,6 +2213,24 @@
       "name": "deed.page",
       "url": "https://deed.page/docs?ref=skill-awesome-gemini-cli",
       "description": "Static hosting for agents with a remote MCP server that lets Gemini CLI publish an HTML file or static folder to a permanent public https://<slug>.deed.page URL and update it with the token it gets back. No account or API key for publishing; the companion Agent Skill is MIT (source). Remote Streamable HTTP. Add with gemini mcp add --transport http deed-page https://deed.page/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://withppl.com/agents",
+      "name": "ppl",
+      "url": "https://withppl.com/agents?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Personal CRM for humans with AI agents, with a hosted remote MCP server (OAuth) at https://withppl.com/mcp: Gemini CLI can look up contacts, log interactions, keep notes and set reminders about the people in your life. Free beta up to 1,000 contacts at https://withppl.com/register.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/fitzyracing1/Super",
+      "name": "Super",
+      "url": "https://github.com/fitzyracing1/Super",
+      "description": "Permission-gated superuser (sysadmin) MCP server that lets Gemini CLI check system status, disks and processes, run shell commands and read GitHub, behind a dangerous-command denylist, human approval gates, optional Cisco AI Defense and Duo authorization, and an append-only audit log. Python, local stdio; pip install superuser, then add the superuser command to your Gemini CLI MCP server config.",
       "section": [
         "MCP Servers"
       ]
