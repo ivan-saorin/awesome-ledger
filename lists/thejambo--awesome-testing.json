@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2d9c8b800c3bcba78a790e9c6fb7ef1c351031247352b4f9e3c9abe499b246c9\"",
+  "etag": "W/\"c84d9baa96a0f00b6d956f5efaaf1488dac148838c1fde743d2ff477b16a8b33\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -668,6 +668,16 @@
       "name": "cloudf.one",
       "url": "https://www.cloudf.one",
       "description": "Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://mcp.contextqa.com/docs",
+      "name": "ContextQA MCP",
+      "url": "https://mcp.contextqa.com/docs",
+      "description": "Hosted MCP server for creating and running end-to-end tests and investigating failures, with OAuth browser sign-in.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -1478,6 +1488,16 @@
       "name": "vhr-bench",
       "url": "https://github.com/vpshostreview/vhr-vps-benchmark",
       "description": "One-minute Linux server benchmark of CPU, memory and 4k random disk IOPS using sysbench and fio.",
+      "section": [
+        "Software",
+        "Performance & Load Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/600me/check-proxy-tax",
+      "name": "check-proxy-tax",
+      "url": "https://github.com/600me/check-proxy-tax",
+      "description": "Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.",
       "section": [
         "Software",
         "Performance & Load Testing"

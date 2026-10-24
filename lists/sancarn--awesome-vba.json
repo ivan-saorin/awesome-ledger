@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"26c3fa650a88ca64ad13f76c2ee9114c5820f89d4da0e47655c3c514b470146d\"",
+  "etag": "W/\"a9a2067df695bc8b15286e55a4e28d8bf81fb3b100dab88620d2f1358dad7ffe\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -26,6 +26,15 @@
       "name": "Hidennotare",
       "url": "https://github.com/RelaxTools/Hidennotare",
       "description": "A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.",
+      "section": [
+        "Library Collections"
+      ]
+    },
+    {
+      "key": "https://github.com/WilliamSmithEdward/ROneCOne",
+      "name": "ROneCOne",
+      "url": "https://github.com/WilliamSmithEdward/ROneCOne",
+      "description": "A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.",
       "section": [
         "Library Collections"
       ]
@@ -149,10 +158,32 @@
       ]
     },
     {
+      "key": "https://github.com/KallunWillock/ChibiArc",
+      "name": "ChibiArc",
+      "url": "https://github.com/KallunWillock/ChibiArc",
+      "description": "Read and write ZIP, 7-Zip, TAR, CAB, and ISO via built-in archiveint.dll (64-bit, Windows 10+).",
+      "section": [
+        "Libraries",
+        "Data Formats",
+        "ZIP"
+      ]
+    },
+    {
       "key": "https://github.com/PerditionC/vbaPDF",
       "name": "vbaPDF",
       "url": "https://github.com/PerditionC/vbaPDF",
       "description": "VBA code for simple modification of PDF files (read in, combine, write out).",
+      "section": [
+        "Libraries",
+        "Data Formats",
+        "PDF"
+      ]
+    },
+    {
+      "key": "https://github.com/KallunWillock/ChibiPDF",
+      "name": "ChibiPDF",
+      "url": "https://github.com/KallunWillock/ChibiPDF",
+      "description": "Dependency-free PDF text extraction, OCR, and page rendering for Windows 10+.",
       "section": [
         "Libraries",
         "Data Formats",
@@ -251,6 +282,16 @@
       "name": "VBA Float",
       "url": "https://github.com/ws-garcia/VBA-float",
       "description": "An utility to perform computations over big integers and rational numbers with thousands digits.",
+      "section": [
+        "Libraries",
+        "Math libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/personalityson/VBANN",
+      "name": "VBANN",
+      "url": "https://github.com/personalityson/VBANN",
+      "description": "A machine learning framework for training neural networks inside an Excel workbook, with an optional OpenBLAS speedup.",
       "section": [
         "Libraries",
         "Math libraries"
@@ -517,6 +558,16 @@
       ]
     },
     {
+      "key": "https://github.com/KallunWillock/vbaImageSearch",
+      "name": "vbaImageSearch",
+      "url": "https://github.com/KallunWillock/vbaImageSearch",
+      "description": "Find a bitmap on screen or inside another image, with optional colour tolerance.",
+      "section": [
+        "Libraries",
+        "Image tools"
+      ]
+    },
+    {
       "key": "https://github.com/cristianbuse/VBA-MemoryTools",
       "name": "VBA-MemoryTools",
       "url": "https://github.com/cristianbuse/VBA-MemoryTools",
@@ -557,6 +608,16 @@
       ]
     },
     {
+      "key": "https://github.com/KieuManh366377/X64Bridge-Call-64-bit-DLL-from-VB6-VBA-32-bit-using-WOW64-Segment-Trick",
+      "name": "X64Bridge",
+      "url": "https://github.com/KieuManh366377/X64Bridge-Call-64-bit-DLL-from-VB6-VBA-32-bit-using-WOW64-Segment-Trick",
+      "description": "Call 64-bit DLLs from 32-bit VB6/VBA on 64-bit Windows using the WOW64 segment trick.",
+      "section": [
+        "Libraries",
+        "Low level tools"
+      ]
+    },
+    {
       "key": "https://github.com/Greedquest/vbInvoke",
       "name": "vbInvoke",
       "url": "https://github.com/Greedquest/vbInvoke",
@@ -587,6 +648,16 @@
       ]
     },
     {
+      "key": "https://github.com/Eschamali/TaskbarExtensionsVBA",
+      "name": "TaskbarExtensionsVBA",
+      "url": "https://github.com/Eschamali/TaskbarExtensionsVBA",
+      "description": "Pure VBA control of Windows taskbar progress, overlay icons, jump lists, and thumbnail buttons. No external DLL. Thumbnail clicks need 64-bit Office.",
+      "section": [
+        "Libraries",
+        "Low level tools"
+      ]
+    },
+    {
       "key": "https://github.com/wqweto/sha256",
       "name": "SHA256",
       "url": "https://github.com/wqweto/sha256",
@@ -601,6 +672,16 @@
       "name": "vba-regex",
       "url": "https://github.com/sihlfall/vba-regex",
       "description": "A native regex expression parser and runtime engine.",
+      "section": [
+        "Libraries",
+        "Parsers / Interpreters"
+      ]
+    },
+    {
+      "key": "https://github.com/SanbiVN/VbaPcre2/releases",
+      "name": "VbaPcre2",
+      "url": "https://github.com/SanbiVN/VbaPcre2/releases",
+      "description": "PCRE2 regular-expression wrapper for 32- and 64-bit VBA, with a separate DLL for Win32 and Win64.",
       "section": [
         "Libraries",
         "Parsers / Interpreters"
@@ -891,10 +972,10 @@
       ]
     },
     {
-      "key": "https://spreadsheet1.com/office-excel-ribbon-imagemso-icons-gallery-page-01.html",
-      "name": "Office MSO Icons",
-      "url": "http://www.spreadsheet1.com/office-excel-ribbon-imagemso-icons-gallery-page-01.html",
-      "description": "Ribbon icons can often use one of the 1500 (3 pages on this site) MSO icons wich pre-exist in Office applications.",
+      "key": "https://oig.decimalturn.dev",
+      "name": "Office Icons Gallery",
+      "url": "https://oig.decimalturn.dev/",
+      "description": "Searchable gallery of Microsoft Office icons for building ribbon interfaces.",
       "section": [
         "Examples",
         "UI Ribbon"
@@ -998,6 +1079,16 @@
       "section": [
         "Examples",
         "AddIns"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/vba/comments/1wmrczg/excel_i_built_a_120_fps_space_shooter_in_pure_vba",
+      "name": "Space Shooter",
+      "url": "https://www.reddit.com/r/vba/comments/1wmrczg/excel_i_built_a_120_fps_space_shooter_in_pure_vba/",
+      "description": "A 120 FPS 2D space shooter in pure VBA and WinAPI GDI. Also check out the video.",
+      "section": [
+        "Examples",
+        "Games / Fun projects"
       ]
     },
     {
@@ -1517,7 +1608,7 @@
       "key": "https://youtube.com/c/Excelmacromastery",
       "name": "Excel Macro Mastery",
       "url": "https://www.youtube.com/c/Excelmacromastery",
-      "description": "Paul Kelly (MVP) - excelmacromastery.com.",
+      "description": "Paul Kelly (MVP) - excelmacromastery.com. Also see his Articles and Courses.",
       "section": [
         "Resources",
         "YouTube"

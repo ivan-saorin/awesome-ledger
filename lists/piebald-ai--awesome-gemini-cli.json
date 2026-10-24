@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4f1102a1934c0c61b8fa01b51210cc13aa11543967bafea66d76d62872088638\"",
+  "etag": "W/\"1d3a71eff96c5f0945e15a559f22a42ca6beba5ae4aa8b21aef9b81c44f545fa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -926,6 +926,15 @@
       "name": "US Watchlist Alerts",
       "url": "https://github.com/eli-alvarado/us-watchlist-alerts",
       "description": "Agent Skills (SKILL.md) for a US stock watchlist: NYSE-aware, de-duplicated price alerts (levels, % moves, gaps, 52-week highs/lows, MA crosses, RSI, earnings) and morning/close briefs. Stdlib Python, no API key, never places trades. MIT. Install with npx skills add eli-alvarado/us-watchlist-alerts -y -a gemini-cli.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/exmergo/dex",
+      "name": "Dex",
+      "url": "https://github.com/exmergo/dex",
+      "description": "Gemini CLI extension with three Agent Skills for analytics engineering: explore a warehouse or DuckDB file read-only (profiles, PII flags, verified joins), author dbt models and semantic layers as reviewable diffs, and detect schema drift. Install with gemini extensions install https://github.com/exmergo/dex; needs uv.",
       "section": [
         "Commands & Extensions"
       ]
@@ -2231,6 +2240,24 @@
       "name": "Super",
       "url": "https://github.com/fitzyracing1/Super",
       "description": "Permission-gated superuser (sysadmin) MCP server that lets Gemini CLI check system status, disks and processes, run shell commands and read GitHub, behind a dangerous-command denylist, human approval gates, optional Cisco AI Defense and Duo authorization, and an append-only audit log. Python, local stdio; pip install superuser, then add the superuser command to your Gemini CLI MCP server config.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://cooperemail.com/docs/mcp",
+      "name": "Cooper Email",
+      "url": "https://cooperemail.com/docs/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Email inboxes for agents with a hosted Streamable HTTP MCP server at https://cooperemail.com/mcp (OAuth or API key): Gemini CLI gets its own username@cooperemail.com address to send, read, and reply to mail and wait for replies or sign-up codes. The free plan includes 5 inboxes.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/blockvectra/mcp",
+      "name": "BlockVectra",
+      "url": "https://github.com/blockvectra/mcp",
+      "description": "MCP server for Robinhood Chain and multiple EVM networks. Connect over remote Streamable HTTP to discover chains and read docs without a key; RPC access follows each chain's policy, while Data API and account tools need an API key. Install: gemini extensions install https://github.com/blockvectra/mcp --ref main.",
       "section": [
         "MCP Servers"
       ]

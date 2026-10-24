@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6d9b8bbd61f870f7a7a451e6bc6b5258f99c89fe0ae12c9de55b6a42a7b2b871\"",
+  "etag": "W/\"4d136ede8c884b8d202eddc14f58fd28fc354ef5ad9dfc6a9d181bf5ee5a339f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -329,6 +329,16 @@
       "name": "ansible-relayor",
       "url": "https://github.com/nusenu/ansible-relayor",
       "description": "This is an Ansible role for tor relay operators.",
+      "section": [
+        "Applications",
+        "Other applications"
+      ]
+    },
+    {
+      "key": "https://astermail.org/tor",
+      "name": "Aster Mail",
+      "url": "https://astermail.org/tor/",
+      "description": "End-to-end encrypted email service with official onion addresses for its website and web app.",
       "section": [
         "Applications",
         "Other applications"

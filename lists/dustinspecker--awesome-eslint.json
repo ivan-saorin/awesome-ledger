@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"13382eeb1aa6e5502d6f62ff584b7f1e026910fd985a3a4e422bd9bb6bbf9030\"",
+  "etag": "W/\"bd20bcf83bc8ed7d375ae287fa7488ae8fbadd3d15120fcbb74b8aeac1ce3518\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -265,6 +265,16 @@
       "description": "JavaScript happiness style linter ❤️.",
       "section": [
         "Preconfigured Configs with ESLint Set up"
+      ]
+    },
+    {
+      "key": "https://github.com/a11yfred/neighbor",
+      "name": "@a11yfred/eslint-plugin-neighbor",
+      "url": "https://github.com/a11yfred/neighbor",
+      "description": "Enforces accessibility, inclusive language, and markup best practices.",
+      "section": [
+        "Plugins",
+        "Code Quality"
       ]
     },
     {
@@ -675,6 +685,26 @@
       "section": [
         "Plugins",
         "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/Sloppy0726/eslint-plugin-i18n-leak",
+      "name": "I18n Leak",
+      "url": "https://github.com/Sloppy0726/eslint-plugin-i18n-leak",
+      "description": "Finds i18n bugs with no string literal to scan: form constraints whose validation message the browser renders in its own locale, and raw error.message text reaching the user.",
+      "section": [
+        "Plugins",
+        "Internationalization"
+      ]
+    },
+    {
+      "key": "https://github.com/edvardchen/eslint-plugin-i18next",
+      "name": "i18next",
+      "url": "https://github.com/edvardchen/eslint-plugin-i18next",
+      "description": "Finds untranslated string literals in source, with markupOnly and jsx-only modes to narrow the scan.",
+      "section": [
+        "Plugins",
+        "Internationalization"
       ]
     },
     {
@@ -1238,10 +1268,30 @@
       ]
     },
     {
+      "key": "https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next",
+      "name": "import-next",
+      "url": "https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next",
+      "description": "Drop-in replacement for eslint-plugin-import with a rewritten cycle detector and no config changes required.",
+      "section": [
+        "Plugins",
+        "Practices and Specific ES Features"
+      ]
+    },
+    {
       "key": "https://github.com/un-ts/eslint-plugin-import-x",
       "name": "import-x",
       "url": "https://github.com/un-ts/eslint-plugin-import-x",
       "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of eslint-plugin-import, but which breaks backwards compatibility.",
+      "section": [
+        "Plugins",
+        "Practices and Specific ES Features"
+      ]
+    },
+    {
+      "key": "https://github.com/nayounsang/eslint-plugin-import-boundary",
+      "name": "import-boundary",
+      "url": "https://github.com/nayounsang/eslint-plugin-import-boundary",
+      "description": "Enforces import boundaries from directory nesting: only a parent may import a direct child's public entry (index), with rootFiles / sharedFiles escapes.",
       "section": [
         "Plugins",
         "Practices and Specific ES Features"
@@ -1428,6 +1478,16 @@
       ]
     },
     {
+      "key": "https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer",
+      "name": "eslint-plugin-intlayer",
+      "url": "https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer",
+      "description": "ESLint plugin for i18n purpose.",
+      "section": [
+        "Plugins",
+        "Practices and Specific ES Features"
+      ]
+    },
+    {
       "key": "https://github.com/amilajack/eslint-plugin-dom",
       "name": "DOM",
       "url": "https://github.com/amilajack/eslint-plugin-dom",
@@ -1498,10 +1558,30 @@
       ]
     },
     {
+      "key": "https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding",
+      "name": "secure-coding",
+      "url": "https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding",
+      "description": "Security rules with CWE and OWASP Top 10 metadata, and machine-readable fix guidance in each message.",
+      "section": [
+        "Plugins",
+        "Security"
+      ]
+    },
+    {
       "key": "https://github.com/nodesecurity/eslint-plugin-security",
       "name": "Security",
       "url": "https://github.com/nodesecurity/eslint-plugin-security",
       "description": "ESLint rules for Node Security.",
+      "section": [
+        "Plugins",
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/alokraj68/eslint-plugin-typeorm-enterprise",
+      "name": "typeorm-enterprise",
+      "url": "https://github.com/alokraj68/eslint-plugin-typeorm-enterprise",
+      "description": "TypeORM security and governance: SQL injection prevention, transaction safety, and multi-tenant query guards.",
       "section": [
         "Plugins",
         "Security"
@@ -2102,6 +2182,15 @@
       "name": "eslint-disable-autofix",
       "url": "https://github.com/MorevM/eslint-disable-autofix/",
       "description": "Utility to disable autofix for specific ESLint rules.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/hermes-labs-ai/quick-gate-js",
+      "name": "quick-gate-js",
+      "url": "https://github.com/hermes-labs-ai/quick-gate-js",
+      "description": "Deterministic CI quality gate that unifies ESLint, TypeScript, build, and Lighthouse checks into one fail-fast result, with bounded auto-repair and structured escalation evidence. npm: quick-gate.",
       "section": [
         "Tools"
       ]

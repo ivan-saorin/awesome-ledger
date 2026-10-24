@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"659aabe539542f319a44ced908c016128f22b5e97bd687ef06c0e61645d8334b\"",
+  "etag": "W/\"a20c594fdd2ce7594f98b09d15675b335de9a6eb979641d1370666fd8e689663\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -627,6 +627,16 @@
       "name": "Markup plugin",
       "url": "https://github.com/dereuromark/cakephp-markup",
       "description": "Allows to use PHP or JS based syntax highlighting.",
+      "section": [
+        "Plugins",
+        "Markup"
+      ]
+    },
+    {
+      "key": "https://github.com/markup-carve/cakephp-carve",
+      "name": "MarkupCarve/CakeCarve plugin",
+      "url": "https://github.com/markup-carve/cakephp-carve",
+      "description": "Renders and validates Carve markup, with a helper, .crv views, an ORM behavior and console commands.",
       "section": [
         "Plugins",
         "Markup"
@@ -1507,16 +1517,6 @@
       "name": "NetBeans",
       "url": "https://github.com/junichi11/cakephp3-netbeans",
       "description": "This package provides support for CakePHP in NetBeans 8.1+.",
-      "section": [
-        "Software",
-        "Development Environment"
-      ]
-    },
-    {
-      "key": "https://puppetlabs.com",
-      "name": "Puppet",
-      "url": "https://puppetlabs.com/",
-      "description": "A server automation framework and application.",
       "section": [
         "Software",
         "Development Environment"
