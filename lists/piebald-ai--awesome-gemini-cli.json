@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1d3a71eff96c5f0945e15a559f22a42ca6beba5ae4aa8b21aef9b81c44f545fa\"",
+  "etag": "W/\"1331f3c418a92a310370376a35f7c0327e1647988395dbd05d9c811092722304\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -107,6 +107,15 @@
       "name": "Alchemist Coder",
       "url": "https://github.com/Alekla0126/alchemist-coder",
       "description": "Open-source desktop app for Windows, macOS and Linux that indexes your Gemini CLI chats, together with Claude Code, Codex and Grok Build sessions, into one local, read-only full-text search. Running Gemini CLI over ACP inside the app is planned for its upcoming Pro edition; the free edition runs Claude Code and Codex on local models.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://swarmpane.com",
+      "name": "SwarmPane",
+      "url": "https://swarmpane.com/?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Desktop app for Mac, Windows and Linux that runs Gemini CLI (with a Gemini API key) side by side with Claude Code, Codex, Cursor Agent, Copilot, Devin and more, up to 16 at once in real terminals, with a git worktree per agent, undo for every agent step and account switching when a usage limit hits. Paid, with a 7-day trial for $1.",
       "section": [
         "Interfaces"
       ]
@@ -1498,6 +1507,15 @@
       ]
     },
     {
+      "key": "https://github.com/crocodile-labs/openmoat",
+      "name": "OpenMoat",
+      "url": "https://github.com/crocodile-labs/openmoat",
+      "description": "Local policy layer with a BeforeTool hook for Gemini CLI (openmoat init) that checks every shell command, file read and write, web request and MCP call against one policy before it runs, blocking what the policy denies. Adds an egress proxy, MCP server pinning and a hash-chained audit log, and the same policy covers Claude Code, Codex, Cursor and other agents. Rust, MIT OR Apache-2.0.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -2254,10 +2272,46 @@
       ]
     },
     {
+      "key": "https://codetrendy.com/mcp",
+      "name": "CodeTrendy",
+      "url": "https://codetrendy.com/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Search CodeTrendy, a curated directory of newly launched startups, SaaS tools and indie products, from Gemini CLI: keyword search with category and pricing filters, full listing profiles, alternatives to a named product, trending listings and the site of the day. 7 read-only tools. Remote Streamable HTTP, no API key, no account: gemini mcp add --transport http codetrendy https://codetrendy.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
       "key": "https://github.com/blockvectra/mcp",
       "name": "BlockVectra",
       "url": "https://github.com/blockvectra/mcp",
       "description": "MCP server for Robinhood Chain and multiple EVM networks. Connect over remote Streamable HTTP to discover chains and read docs without a key; RPC access follows each chain's policy, while Data API and account tools need an API key. Install: gemini extensions install https://github.com/blockvectra/mcp --ref main.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://mediapronet.com/mcp",
+      "name": "MEDIAPRONET",
+      "url": "https://mediapronet.com/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Search the MEDIAPRONET launch and discovery directory from Gemini CLI: keyword search over newly launched startups, SaaS tools and online products (category and pricing filters), full listing profiles, alternatives to a named product, categories and what is trending. 7 read-only tools. Remote Streamable HTTP, no API key, no account. Works with any MCP client including Gemini CLI: gemini mcp add --transport http mediapronet https://mediapronet.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Thanatos9404/llmslim",
+      "name": "LLMSlim",
+      "url": "https://github.com/Thanatos9404/llmslim",
+      "description": "Long-term memory for Gemini CLI and other MCP clients over a local stdio MCP server. Five tools (remember, recall, list_memories, forget, fit_context): messages are stored word for word in local SQLite or your own Postgres, and recall returns the stored messages that answer a question within a token budget, with no LLM call inside. MIT. Install: pip install \"llmslim[mcp]\", then gemini mcp add --scope user llmslim llmslim mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/LeulAria/Aria-Icons",
+      "name": "Aria Icons",
+      "url": "https://github.com/LeulAria/Aria-Icons",
+      "description": "MCP server with 12 tools for searching ~1.4M open-source SVG icons and adding them as SVG or React/Vue/Svelte/Solid components; remote endpoint needs no auth. Add with gemini mcp add --transport http aria-icons https://icons.leularia.com/api/mcp.",
       "section": [
         "MCP Servers"
       ]

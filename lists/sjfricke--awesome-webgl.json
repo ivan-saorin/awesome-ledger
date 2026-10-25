@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"85eb49b0d7557e564fd32f155ab857006ae58af4115101a57907e2d6f0fc384c\"",
+  "etag": "W/\"cb96791303259c676e5d2e03c0d871b401dcfa36b1cd206087388b38bef66470\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -38,6 +38,16 @@
       "name": "First steps in WebGL",
       "url": "https://dev.to/aralroca/first-steps-in-webgl-385c",
       "description": "Learn what WebGL is and how it works by drawing a triangle.",
+      "section": [
+        "WebGL",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://digitalgarden.si/blog/houdini-gltf-threejs-optimization",
+      "name": "Houdini to Three.js: Testing glTF Compression and Instancing",
+      "url": "https://digitalgarden.si/blog/houdini-gltf-threejs-optimization/",
+      "description": "Case study of geometry, texture compression and instancing with WebGPU and WebGL2 checks.",
       "section": [
         "WebGL",
         "Articles"
@@ -394,6 +404,16 @@
       ]
     },
     {
+      "key": "https://fast3d.org/en",
+      "name": "Fast3D",
+      "url": "https://www.fast3d.org/en",
+      "description": "Browser-based 3D toolbox: convert between GLB, GLTF, OBJ, STL, FBX and PLY, compress models and preview them in a full-featured viewer. Everything runs client-side.",
+      "section": [
+        "WebGL",
+        "Tools/Debugging"
+      ]
+    },
+    {
       "key": "https://github.com/KhronosGroup/WebGLDeveloperTools",
       "name": "Khronos Dev Tools",
       "url": "https://github.com/KhronosGroup/WebGLDeveloperTools",
@@ -468,6 +488,16 @@
       "name": "Web Tracing Framework",
       "url": "http://google.github.io/tracing-framework/index.html",
       "description": "Set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.",
+      "section": [
+        "WebGL",
+        "Tools/Debugging"
+      ]
+    },
+    {
+      "key": "https://github.com/userzz1145141919810-rgb/web-3d-viewer",
+      "name": "Web3D Viewer",
+      "url": "https://github.com/userzz1145141919810-rgb/web-3d-viewer",
+      "description": "Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.",
       "section": [
         "WebGL",
         "Tools/Debugging"
@@ -620,6 +650,16 @@
       ]
     },
     {
+      "key": "https://tutorialsearch.io/browse/web-development/webgl-graphics",
+      "name": "TutorialSearch",
+      "url": "https://tutorialsearch.io/browse/web-development/webgl-graphics",
+      "description": "Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.",
+      "section": [
+        "WebGL",
+        "Tutorials"
+      ]
+    },
+    {
       "key": "https://webglacademy.com",
       "name": "WebGL Academy",
       "url": "http://www.webglacademy.com/",
@@ -644,6 +684,16 @@
       "name": "WebGL Workshop",
       "url": "http://webgl-workshop.com/",
       "description": "Interactive workshop to get you up and running with WebGL.",
+      "section": [
+        "WebGL",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://infinitecanvas.cc",
+      "name": "A tutorial on infinite canvas with WebGL",
+      "url": "https://infinitecanvas.cc",
+      "description": "A hands-on tutorial for building a GPU-accelerated infinite canvas in the browser, with first-class WebGL support (and WebGPU) via a unified graphics API—covering ECS, SDF-based 2D primitives, GPU text, and tile-based rendering, by @xiaoiver.",
       "section": [
         "WebGL",
         "Tutorials"
@@ -724,6 +774,16 @@
       "name": "WebGL 2 New Features",
       "url": "http://www.realtimerendering.com/blog/webgl-2-new-features/",
       "description": "Blog post about whats new and cool in WebGl 2.",
+      "section": [
+        "WebGL 2",
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib",
+      "name": "Zero Bytes of Geometry: A Metal Lattice Sphere-Traced in a 14.9 KB Page",
+      "url": "https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib",
+      "description": "Ray marching a signed distance field in raw WebGL 2, with an analytic environment in place of an HDR file and resolution adapted against the display refresh period.",
       "section": [
         "WebGL 2",
         "Articles"
@@ -971,6 +1031,28 @@
       ]
     },
     {
+      "key": "https://github.com/alemart/speedy-vision",
+      "name": "Speedy Vision",
+      "url": "https://github.com/alemart/speedy-vision",
+      "description": "GPU-accelerated Computer Vision library for JavaScript.",
+      "section": [
+        "Libraries",
+        "Compute (GPGPU)",
+        "Computer Vision"
+      ]
+    },
+    {
+      "key": "https://github.com/azakhary/nixie-fx",
+      "name": "NixieFX",
+      "url": "https://github.com/azakhary/nixie-fx",
+      "description": "Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.",
+      "section": [
+        "Libraries",
+        "Compute (GPGPU)",
+        "Particles"
+      ]
+    },
+    {
       "key": "https://github.com/vaneenige/phenomenon",
       "name": "Phenomenon",
       "url": "https://github.com/vaneenige/phenomenon",
@@ -1002,10 +1084,30 @@
       ]
     },
     {
+      "key": "https://github.com/swamoth/globedots",
+      "name": "Globedots",
+      "url": "https://github.com/swamoth/globedots",
+      "description": "Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.",
+      "section": [
+        "Libraries",
+        "Maps and Visualizations"
+      ]
+    },
+    {
       "key": "https://luma.gl",
       "name": "Luma.gl",
       "url": "https://luma.gl/",
       "description": "WebGL2 powered framework for GPU-powered data visualization and computation.",
+      "section": [
+        "Libraries",
+        "Maps and Visualizations"
+      ]
+    },
+    {
+      "key": "https://github.com/tang-tc/leaflet-webgl-markers",
+      "name": "leaflet-webgl-markers",
+      "url": "https://github.com/tang-tc/leaflet-webgl-markers",
+      "description": "Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.",
       "section": [
         "Libraries",
         "Maps and Visualizations"
@@ -1022,10 +1124,30 @@
       ]
     },
     {
+      "key": "https://github.com/bonguynvan/tradecanvas",
+      "name": "TradeCanvas",
+      "url": "https://github.com/bonguynvan/tradecanvas",
+      "description": "Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.",
+      "section": [
+        "Libraries",
+        "Maps and Visualizations"
+      ]
+    },
+    {
       "key": "https://xeokit.io",
       "name": "xeokit",
       "url": "https://xeokit.io/",
       "description": "Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.",
+      "section": [
+        "Libraries",
+        "Maps and Visualizations"
+      ]
+    },
+    {
+      "key": "https://github.com/yz4git/next-gen",
+      "name": "WorldSeed",
+      "url": "https://github.com/yz4git/next-gen",
+      "description": "Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.",
       "section": [
         "Libraries",
         "Maps and Visualizations"
@@ -1112,10 +1234,50 @@
       ]
     },
     {
+      "key": "https://github.com/alemart/encantar-js",
+      "name": "encantar.js",
+      "url": "https://github.com/alemart/encantar-js",
+      "description": "GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.",
+      "section": [
+        "Libraries",
+        "WebAR"
+      ]
+    },
+    {
+      "key": "https://github.com/caleblemos/dither-flow",
+      "name": "dither-flow",
+      "url": "https://github.com/caleblemos/dither-flow",
+      "description": "Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.",
+      "section": [
+        "Libraries",
+        "WebGL 2"
+      ]
+    },
+    {
       "key": "https://tsherif.github.io/picogl.js",
       "name": "PicoGL.js",
       "url": "https://tsherif.github.io/picogl.js/",
       "description": "Minimal WebGL 2-only rendering library.",
+      "section": [
+        "Libraries",
+        "WebGL 2"
+      ]
+    },
+    {
+      "key": "https://github.com/humanbydefinition/textmode.js",
+      "name": "textmode.js",
+      "url": "https://github.com/humanbydefinition/textmode.js",
+      "description": "Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.",
+      "section": [
+        "Libraries",
+        "WebGL 2"
+      ]
+    },
+    {
+      "key": "https://github.com/vysmodev/vysmo",
+      "name": "Vysmo Transitions",
+      "url": "https://github.com/vysmodev/vysmo",
+      "description": "Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.",
       "section": [
         "Libraries",
         "WebGL 2"
@@ -1232,6 +1394,16 @@
       ]
     },
     {
+      "key": "https://github.com/hoainho/img2threejs",
+      "name": "img2threejs",
+      "url": "https://github.com/hoainho/img2threejs",
+      "description": "Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.",
+      "section": [
+        "Libraries",
+        "Others"
+      ]
+    },
+    {
       "key": "https://github.com/evanw/lightgl.js",
       "name": "Lightgl.js",
       "url": "https://github.com/evanw/lightgl.js",
@@ -1336,6 +1508,16 @@
       "name": "Whitestorm.js",
       "url": "https://whs.io/",
       "description": "Framework for developing 3D web apps with physics.",
+      "section": [
+        "Libraries",
+        "Others"
+      ]
+    },
+    {
+      "key": "https://zephyr3d.org",
+      "name": "zephyr3d",
+      "url": "https://zephyr3d.org/",
+      "description": "A TypeScript-based 3D rendering engine with WebGPU/WebGL support.",
       "section": [
         "Libraries",
         "Others"

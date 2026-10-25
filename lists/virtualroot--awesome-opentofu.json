@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b432e83928738443296287ec0f0375dc4077b7741237629ef614f98495317b37\"",
+  "etag": "W/\"12f7edec50c13f0b818201c9781a4f9912a9d694333fae9e91e289a4fa3537b2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -297,6 +297,16 @@
       ]
     },
     {
+      "key": "https://gitlab.com/TECHNOFAB/tofunix",
+      "name": "tofunix",
+      "url": "https://gitlab.com/TECHNOFAB/tofunix",
+      "description": "Nix flake library and CLI for defining and applying OpenTofu infrastructure as type-safe Nix expressions.",
+      "section": [
+        "Tools",
+        "Wrappers"
+      ]
+    },
+    {
       "key": "https://runatlantis.io",
       "name": "Atlantis",
       "url": "https://www.runatlantis.io/",
@@ -501,6 +511,26 @@
       "name": "digger",
       "url": "https://github.com/diggerhq/digger",
       "description": "Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.",
+      "section": [
+        "Tools",
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://semaphoreui.com",
+      "name": "Semaphore UI",
+      "url": "https://semaphoreui.com/",
+      "description": "Self-hosted web UI and API for scheduling and running Ansible, Terraform/OpenTofu and other DevOps automation tasks.",
+      "section": [
+        "Tools",
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/stackorder/stackorder",
+      "name": "Stackorder",
+      "url": "https://github.com/stackorder/stackorder",
+      "description": "Open-source OpenTofu and Terraform orchestrator on GitHub Actions that resolves cross-stack dependencies and applies changes in waves.",
       "section": [
         "Tools",
         "Platforms"

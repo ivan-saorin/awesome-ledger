@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0d652e378aef0900e465ae46947171492f999451d034a0fc726ad09ecc58679e\"",
+  "etag": "W/\"89bff22764c1ea0adc45ca678014a08e4023236063d9e3cd670d184e809798e3\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -166,6 +166,15 @@
       ]
     },
     {
+      "key": "https://chinesecheck.com",
+      "name": "ChineseCheck",
+      "url": "https://chinesecheck.com",
+      "description": "Verify a Chinese supplier before paying: look up the company by English name, Chinese name or Unified Social Credit Code and read its registration record in English for free; paid reports add court enforcement, litigation and penalty records.",
+      "section": [
+        "Software and Tools"
+      ]
+    },
+    {
       "key": "https://datahawk.co",
       "name": "DataHawk",
       "url": "https://www.datahawk.co/",
@@ -286,7 +295,7 @@
       "key": "https://listimo.ai/en",
       "name": "Listimo",
       "url": "https://listimo.ai/en/",
-      "description": "AI listing checker (score 0-100) and generator for Amazon titles, bullet points, A+ content, listing images and video from one product photo. Free daily check without signup; credits instead of a subscription.",
+      "description": "AI listing checker (score 0-100) and generator for Amazon titles, bullet points, A+ content, listing images and video from one product photo. First check free without signup; credits instead of a subscription.",
       "section": [
         "Software and Tools"
       ]
@@ -332,6 +341,24 @@
       "name": "Prisync",
       "url": "https://prisync.com/",
       "description": "Price monitoring & tracking SaaS with dynamic pricing and automatching engine.",
+      "section": [
+        "Software and Tools"
+      ]
+    },
+    {
+      "key": "https://docs.scrapeunblocker.com/plugins/amazon",
+      "name": "ScrapeUnblocker",
+      "url": "https://docs.scrapeunblocker.com/plugins/amazon",
+      "description": "Web scraping API with Amazon endpoints that return JSON: product pages (price, list price, availability, rating, seller, images), search results with sponsored and Prime flags, Best Sellers and other ranked lists, and review data with the star histogram, across Amazon's regional marketplaces. Also available as an MCP server.",
+      "section": [
+        "Software and Tools"
+      ]
+    },
+    {
+      "key": "https://refvid.com",
+      "name": "RefVid",
+      "url": "https://refvid.com",
+      "description": "AI product video generator that keeps label, logo and packaging consistent across clips, from 1-5 photos or an Amazon product link. Free credits on sign-up.",
       "section": [
         "Software and Tools"
       ]
@@ -454,10 +481,37 @@
       ]
     },
     {
+      "key": "https://utlista.com",
+      "name": "Utlista",
+      "url": "https://www.utlista.com",
+      "description": "Localises an existing product catalogue into Amazon listings for seven EU marketplaces (de, fr, it, es, nl, pl, se). Writes title, five bullets, description and backend search terms per destination marketplace rather than translating them, and validates every field against Amazon's limits before export, including search terms counted in bytes. Produces a flat file per marketplace; it does not upload to Amazon. Free for ten products.",
+      "section": [
+        "Software and Tools"
+      ]
+    },
+    {
       "key": "https://vendlen.com",
       "name": "Vendlen",
       "url": "https://vendlen.com",
       "description": "Amazon Ads analytics and automation for sellers on the US marketplace. Each recommendation shows the evidence, period and scope behind it; automation rules run inside limits you set and can be previewed before they change anything. 14-day free trial.",
+      "section": [
+        "Software and Tools"
+      ]
+    },
+    {
+      "key": "https://vendooly.com/en",
+      "name": "Vendooly",
+      "url": "https://vendooly.com/en/",
+      "description": "MCP connector that brings Seller Central and Amazon Ads into ChatGPT and Claude through the official Amazon APIs. The AI prepares each change with a before/after preview and it runs only after your approval. 14-day free trial.",
+      "section": [
+        "Software and Tools"
+      ]
+    },
+    {
+      "key": "https://apify.com/vncntlabs/keyword-ideas",
+      "name": "VNCNT Labs Keyword Research",
+      "url": "https://apify.com/vncntlabs/keyword-ideas",
+      "description": "Reverse ASIN (the Amazon keywords any ASIN ranks for) and keyword ideas from a seed via Amazon related searches and Google autocomplete, with search volume, CPC, difficulty and a USPTO trademark flag. Runs on Apify, pay per result from $0.002 per keyword, no subscription.",
       "section": [
         "Software and Tools"
       ]

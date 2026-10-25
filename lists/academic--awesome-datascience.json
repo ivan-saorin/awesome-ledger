@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1545b6882ba0d82a0db8090792d1d15f08a63be6fc350e6edc3a2f8bc03e8a11\"",
+  "etag": "W/\"0d0b3ce73627103c956f706c217e53cc7858e30d82a6ecea5bf50ec5d471879c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -128,6 +128,16 @@
       "name": "YYLO Ledger",
       "url": "https://github.com/yylo-dev/yylo-ledger",
       "description": "Command-line task and workflow ledger for coding-agent projects: stores the Kanban board and task state as hash-chained Markdown inside the repository, tracks receipts and archives, and drives typed merge and release flows across agent worktrees. MIT licensed.",
+      "section": [
+        "Agents",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/exmergo/dex",
+      "name": "Dex",
+      "url": "https://github.com/exmergo/dex",
+      "description": "Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.",
       "section": [
         "Agents",
         "Tools"
