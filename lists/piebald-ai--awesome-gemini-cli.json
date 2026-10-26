@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1331f3c418a92a310370376a35f7c0327e1647988395dbd05d9c811092722304\"",
+  "etag": "W/\"521e401e4d7b8cf1089f7a21037ab078b49da20cc717578e658e0a1eec388953\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2312,6 +2312,15 @@
       "name": "Aria Icons",
       "url": "https://github.com/LeulAria/Aria-Icons",
       "description": "MCP server with 12 tools for searching ~1.4M open-source SVG icons and adding them as SVG or React/Vue/Svelte/Solid components; remote endpoint needs no auth. Add with gemini mcp add --transport http aria-icons https://icons.leularia.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://sitepatent.com/mcp",
+      "name": "SitePatent",
+      "url": "https://sitepatent.com/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Search SitePatent, a screened discovery platform for newly launched startups, tools and online products, from Gemini CLI: keyword search with category and pricing filters, full listing profiles, alternatives to a named product, categories and trending listings. 7 read-only tools. Remote Streamable HTTP, no API key, no account: gemini mcp add --transport http sitepatent https://sitepatent.com/api/mcp.",
       "section": [
         "MCP Servers"
       ]

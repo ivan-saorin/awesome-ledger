@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c51ff3ec513b6fa04d854b21fc611a351e27e99f82f132e259041d30917a6cd7\"",
+  "etag": "W/\"8441a033b3494c9f6608beefff015cb8ecc83e7225810934736003adc13a1e28\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4978,16 +4978,6 @@
       "name": "Bootify.io",
       "url": "https://bootify.io",
       "description": "Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.",
-      "section": [
-        "Development Utilities",
-        "Generators and Scaffolding"
-      ]
-    },
-    {
-      "key": "https://github.com/nathangtg/jangular-cli",
-      "name": "jangular-cli",
-      "url": "https://github.com/nathangtg/jangular-cli",
-      "description": "A Spring Boot + Angular starter kit with JWT auth, Flyway migrations, route protection, and CLI setup.",
       "section": [
         "Development Utilities",
         "Generators and Scaffolding"
@@ -10054,10 +10044,10 @@
       ]
     },
     {
-      "key": "https://github.com/guiexperttable/ge-table",
+      "key": "https://github.com/guiexperttable/mono/tree/main/packages/angular-table",
       "name": "GuiExpert Table",
-      "url": "https://github.com/guiexperttable/ge-table",
-      "description": "Framework-agnostic table library designed to seamlessly integrate with major frameworks, including Angular (see Angular 22 example).",
+      "url": "https://github.com/guiexperttable/mono/tree/main/packages/angular-table",
+      "description": "Framework-agnostic table library featuring seamless, built-in Angular integration alongside support for other major frameworks.",
       "section": [
         "Third Party Components",
         "Data Grids"
@@ -11618,6 +11608,16 @@
       "name": "ngx-editor-rtl-ltr-edition",
       "url": "https://github.com/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition",
       "description": "A text editor built on ProseMirror featuring native RTL/LTR support, Persian/Arabic fonts and locales, advanced tables, and media embeds.",
+      "section": [
+        "Third Party Components",
+        "Editors"
+      ]
+    },
+    {
+      "key": "https://github.com/Khatri-Sanjay/ngx-editra",
+      "name": "ngx-editra",
+      "url": "https://github.com/Khatri-Sanjay/ngx-editra",
+      "description": "A CKEditor-inspired rich text editor for Angular, featuring a customizable toolbar, tables, images, formatting, and extensible plugins.",
       "section": [
         "Third Party Components",
         "Editors"

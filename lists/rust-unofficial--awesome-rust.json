@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"aafe73d9ee7d43660cfeaa91f3debfd076b9dd43537a556d44d66c6b4a3c9218\"",
+  "etag": "W/\"07211226f63a17d5e1a1c685d9654058eba8580db38f04adc12e5821ecf3e8eb\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2878,6 +2878,16 @@
       ]
     },
     {
+      "key": "https://github.com/jangtrinh/design-os-studio",
+      "name": "jangtrinh/design-os-studio",
+      "url": "https://github.com/jangtrinh/design-os-studio",
+      "description": "GPU-accelerated interface design studio that opens and saves .fig files locally and exposes the open file to coding agents through an MCP server.",
+      "section": [
+        "Applications",
+        "Graphics"
+      ]
+    },
+    {
       "key": "https://github.com/KaminariOS/rustracer",
       "name": "KaminariOS/rustracer",
       "url": "https://github.com/KaminariOS/rustracer",
@@ -3192,6 +3202,16 @@
       "name": "cocoindex",
       "url": "https://github.com/cocoindex-io/cocoindex",
       "description": "ETL framework to build fresh context for AI agents, with incremental processing",
+      "section": [
+        "Applications",
+        "MLOps"
+      ]
+    },
+    {
+      "key": "https://github.com/respanai/respan-gateway",
+      "name": "respanai/respan-gateway",
+      "url": "https://github.com/respanai/respan-gateway",
+      "description": "[respan-gateway] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI.",
       "section": [
         "Applications",
         "MLOps"
@@ -6975,6 +6995,16 @@
       "section": [
         "Applications",
         "Web"
+      ]
+    },
+    {
+      "key": "https://github.com/biandratti/huginn-proxy",
+      "name": "biandratti/huginn-proxy",
+      "url": "https://github.com/biandratti/huginn-proxy",
+      "description": "Reverse proxy that forwards open-standard fingerprints (JA4 TLS, Akamai HTTP/2, and p0f TCP via an XDP/TC eBPF program) to backends as headers",
+      "section": [
+        "Applications",
+        "Web Servers"
       ]
     },
     {
