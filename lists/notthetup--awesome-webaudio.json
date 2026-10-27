@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3560ff1645c61f8684a25b18f68025c1c55a9a53387c0a759c71ed8f8c27de4e\"",
+  "etag": "W/\"40f4b10ffe9af7ad61cda816d214ead0b855da5c7827e5461e5b15499b8e01be\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -58,6 +58,16 @@
       "name": "React Native Audio API",
       "url": "https://github.com/software-mansion-labs/react-native-audio-api",
       "description": "Web Audio API implementation for native apps based on react-native.",
+      "section": [
+        "Packages",
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://soundworks.dev",
+      "name": "Soundworks",
+      "url": "https://soundworks.dev/",
+      "description": "Open-source creative coding framework for distributed applications based on Web technologies.",
       "section": [
         "Packages",
         "Frameworks"
@@ -274,6 +284,26 @@
       ]
     },
     {
+      "key": "https://github.com/reactivepixels/eko-web",
+      "name": "eko-web",
+      "url": "https://github.com/reactivepixels/eko-web",
+      "description": "Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.",
+      "section": [
+        "Packages",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/darkdarkcocoa/bardkit",
+      "name": "Bardkit",
+      "url": "https://github.com/darkdarkcocoa/bardkit",
+      "description": "A sample-free plucked-string instrument for multiplayer games, with a four-voice pool and per-listener distance gain.",
+      "section": [
+        "Packages",
+        "Libraries"
+      ]
+    },
+    {
       "key": "https://github.com/google/audion",
       "name": "Audion",
       "url": "https://github.com/google/audion",
@@ -298,6 +328,16 @@
       "name": "Web Audio Studio",
       "url": "https://app.webaudio.studio",
       "description": "A real-time visualizer for Web Audio API graphs generated from code.",
+      "section": [
+        "Packages",
+        "Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/aribradshaw/audio-browser-lab",
+      "name": "Audio Browser Lab",
+      "url": "https://github.com/aribradshaw/audio-browser-lab",
+      "description": "Reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence.",
       "section": [
         "Packages",
         "Utilities"
@@ -644,6 +684,86 @@
       ]
     },
     {
+      "key": "https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html",
+      "name": "Database Inside a Song",
+      "url": "https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html",
+      "description": "Splits a stereo WAV, reconstructs its side channel, and visualizes the 18 kHz and 20 kHz carriers holding a byte-exact SQLite database.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://tonecrafted.com",
+      "name": "Tonecrafted Progressions",
+      "url": "https://tonecrafted.com",
+      "description": "Free browser chord-progression player and ear-training tool for guitarists, no signup.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://keykalimba.netlify.app",
+      "name": "Key Kalimba",
+      "url": "https://keykalimba.netlify.app/",
+      "description": "Github - Interactive 17-key Kalimba trainer, falling notes visualizer, and real-time tuner with pitch detection.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://melody-mate-khaki.vercel.app",
+      "name": "Melody Mate",
+      "url": "https://melody-mate-khaki.vercel.app/",
+      "description": "In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and Web Audio API.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/zengm32343/ocarina-simulator",
+      "name": "Ocarina Simulator",
+      "url": "https://github.com/zengm32343/ocarina-simulator",
+      "description": "A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. Live demo.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://klaviero.com",
+      "name": "Klaviero",
+      "url": "https://klaviero.com/",
+      "description": "Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://psoup.art/machine",
+      "name": "psoup noise machine",
+      "url": "https://psoup.art/machine/?utm_source=awesomewebaudio",
+      "description": "Free generative noise machine in the browser: brown, pink and white noise computed live with the Web Audio API, tuned by the moon and the day's earthquakes.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://hexenwerkzeug.com/tools/seance",
+      "name": "seance",
+      "url": "https://hexenwerkzeug.com/tools/seance",
+      "description": "Sample workbench on the Web Audio API: spectrogram, drum stem separation, hit-based slicing and BS.1770-4 loudness, all in the browser.",
+      "section": [
+        "Packages",
+        "Apps"
+      ]
+    },
+    {
       "key": "https://github.com/mmckegg/web-audio-school",
       "name": "WebAudio School",
       "url": "https://github.com/mmckegg/web-audio-school",
@@ -718,6 +838,16 @@
       "name": "audio-katas",
       "url": "https://github.com/survivejs/audio-katas",
       "description": "A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.",
+      "section": [
+        "Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://runjs.app/blog/music-theory-for-programmers",
+      "name": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "description": "Music theory derived from scratch in JavaScript, with runnable Web Audio examples.",
       "section": [
         "Resources",
         "Tutorials"

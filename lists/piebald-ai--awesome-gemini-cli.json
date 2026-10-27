@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"521e401e4d7b8cf1089f7a21037ab078b49da20cc717578e658e0a1eec388953\"",
+  "etag": "W/\"676e67c5eeb961809cbfa658c7f0497ee7b1ad585075aa2eb504759194334498\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2321,6 +2321,24 @@
       "name": "SitePatent",
       "url": "https://sitepatent.com/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Search SitePatent, a screened discovery platform for newly launched startups, tools and online products, from Gemini CLI: keyword search with category and pricing filters, full listing profiles, alternatives to a named product, categories and trending listings. 7 read-only tools. Remote Streamable HTTP, no API key, no account: gemini mcp add --transport http sitepatent https://sitepatent.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/DarkWorldCoder/market-mirror",
+      "name": "MarketMirror",
+      "url": "https://github.com/DarkWorldCoder/market-mirror",
+      "description": "Gemini CLI extension and MCP server that tests ads, prices, emails and sales pitches on simulated buyers and writes a go / iterate / no-go report. Install with gemini extensions install https://github.com/DarkWorldCoder/market-mirror.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/kochetkov-ma/brewpage-openapi",
+      "name": "BrewPage",
+      "url": "https://github.com/kochetkov-ma/brewpage-openapi",
+      "description": "MCP server for brewpage.app, free hosting with no account: Gemini CLI publishes HTML, Markdown, files, multi-file static sites, JSON and key-value data and gets a shareable link back (20 tools). Connect to the remote endpoint https://brewpage.app/mcp (no auth) or install the extension with gemini extensions install https://github.com/kochetkov-ma/brewpage-openapi. Content expires after 15 days by default (up to 30).",
       "section": [
         "MCP Servers"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f0c2f87790b6f81259bc6de209493547b1a8edf6778a552e3103dabb6de82b0e\"",
+  "etag": "W/\"febcfef5aa430c0e252c66e2faac90964dc2e2c9f8bb8bc40f1c7f2215b45496\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -539,6 +539,24 @@
       "name": "Riegl",
       "url": "https://www.riegl.com/",
       "description": "Riegl is a manufacturer of 3D laser scanning systems, based in Austria.",
+      "section": [
+        "Manufacturers"
+      ]
+    },
+    {
+      "key": "https://github.com/erdilrf-afk/erdi-lrf-specs",
+      "name": "Specification dataset",
+      "url": "https://github.com/erdilrf-afk/erdi-lrf-specs",
+      "description": "",
+      "section": [
+        "Manufacturers"
+      ]
+    },
+    {
+      "key": "https://specs.erdilrf.com",
+      "name": "ERDI",
+      "url": "https://specs.erdilrf.com/",
+      "description": "Laser rangefinder module and single-point LIDAR manufacturer (905 / 940 / 1535 nm, 9 m to 23 km), headquartered in Chengdu, China. Publishes an open specification dataset where every range figure keeps the verbatim test condition it was measured under.",
       "section": [
         "Manufacturers"
       ]
@@ -2606,6 +2624,15 @@
       "name": "Which SLAM Algorithm Should I Choose?",
       "url": "https://www.slambotics.org/blog/which-slam-to-choose",
       "description": "Slambotics - Choosing the Right SLAM Algorithm",
+      "section": [
+        "Others"
+      ]
+    },
+    {
+      "key": "https://lidar-kit.com",
+      "name": "LidarKit",
+      "url": "https://lidar-kit.com/",
+      "description": "Browser-based viewer and converter for LAS, LAZ, COPC and E57 that decodes files locally with WebAssembly (nothing is uploaded), with ground classification and DEM/orthophoto export.",
       "section": [
         "Others"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e6ca3b5d2c0155edffc2323e6dd64bd8485a3e54d48aebfb2c3a19f060dd4712\"",
+  "etag": "W/\"8dc84fe2ed49173d052237edce7f4028337189a76c8fd40df48642cf95c2889f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1530,15 +1530,6 @@
       "name": "aws-vault-profiles",
       "url": "https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles",
       "description": "Plugin that integrates usage of aws-vault with the $AWS_PROFILE environment variable.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
-      "key": "https://github.com/apachler/zsh-aws",
-      "name": "aws",
-      "url": "https://github.com/apachler/zsh-aws",
-      "description": "Forked from the original oh-my-zsh aws. Includes completions for awscli and a few utilities for managing AWS profiles and displaying them in your prompt.",
       "section": [
         "Plugins"
       ]
@@ -16451,7 +16442,7 @@
       "key": "https://github.com/gugulen0k/gugulenok",
       "name": "gugulenok",
       "url": "https://github.com/gugulen0k/gugulenok/",
-      "description": "Has both a dark and a light mode. Includes decorators for git status, time and current directory.",
+      "description": "Minimal two-sided prompt that takes its colors from your terminal colorscheme. Shows the current directory on the left and the git branch with a dirty marker on the right.",
       "section": [
         "Themes"
       ]
