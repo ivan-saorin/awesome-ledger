@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"dfd502679a659b430bc2befabd3dedda0d49fe302c1e221b2c00df0ec964b99b\"",
+  "etag": "W/\"b2e9cd9fa48fa8c14ef7a45bd7da19cc0345c822cc8616212fcd9b4fc79680de\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -571,7 +571,8 @@
       "url": "https://www.youtube.com/watch?v=1XtJ5FAOjPk",
       "description": "A video introduction to Backstage by Spotify.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Videos"
       ]
     },
     {
@@ -580,7 +581,28 @@
       "url": "https://www.youtube.com/watch?v=lLLw3tcBwWw",
       "description": "Learn how to create a plugin for Backstage.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL8iP9yIjU0Q0eZv3LncHLG3g5itFec995&v=93M6jStFEf4",
+      "name": "BackstageCon 2026 Amsterdam playlist",
+      "url": "https://www.youtube.com/watch?v=93M6jStFEf4&list=PL8iP9yIjU0Q0eZv3LncHLG3g5itFec995",
+      "description": "Recorded talks from the Amsterdam conference.",
+      "section": [
+        "Articles and Presentations",
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?list=PL8iP9yIjU0Q33vpSaBlAvIhgDb-9smXUU&v=vcMzVi92n-w",
+      "name": "BackstageCon 2025 Atlanta playlist",
+      "url": "https://www.youtube.com/watch?v=vcMzVi92n-w&list=PL8iP9yIjU0Q33vpSaBlAvIhgDb-9smXUU",
+      "description": "Recorded talks from the Atlanta conference.",
+      "section": [
+        "Articles and Presentations",
+        "Videos"
       ]
     },
     {
@@ -589,16 +611,8 @@
       "url": "https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/",
       "description": "A blog post by Spotify on their experience with Backstage.",
       "section": [
-        "Articles and Presentations"
-      ]
-    },
-    {
-      "key": "https://backstage.io/docs/releases/v1.54.0",
-      "name": "Backstage v1.54.0 Release Notes",
-      "url": "https://backstage.io/docs/releases/v1.54.0/",
-      "description": "Latest stable minor release with platform updates and bug fixes (v1.54.6 latest patch).",
-      "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -607,7 +621,8 @@
       "url": "https://backstage.io/blog/2025/12/30/backstage-wrapped-2025",
       "description": "Annual retrospective on Backstage growth, platform maturity, and highlights.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -616,7 +631,8 @@
       "url": "https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta",
       "description": "Recap of recent platform updates and community demos from Atlanta.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -625,7 +641,68 @@
       "url": "https://backstage.io/blog/2026/04/20/backstagecon-kubecon-26-amsterdam",
       "description": "Schedule, CFP, and maintainer sessions for the Amsterdam event.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
+      ]
+    },
+    {
+      "key": "https://drodil.medium.com/backstage-in-production-becomes-a-platform-operating-system-f1ecd0b6fb7b",
+      "name": "Backstage in Production Becomes a Platform Operating System",
+      "url": "https://drodil.medium.com/backstage-in-production-becomes-a-platform-operating-system-f1ecd0b6fb7b",
+      "description": "What changes when your portal grows into the primary interface for onboarding, templates, and permissions.",
+      "section": [
+        "Articles and Presentations",
+        "Blog Posts"
+      ]
+    },
+    {
+      "key": "https://drodil.medium.com/backstage-meets-ai-the-mcp-integration-ba3c67e41e05",
+      "name": "Backstage Meets AI: The MCP Integration",
+      "url": "https://drodil.medium.com/backstage-meets-ai-the-mcp-integration-ba3c67e41e05",
+      "description": "Expose the catalog and scaffolder actions to AI clients through MCP tools.",
+      "section": [
+        "Articles and Presentations",
+        "Blog Posts"
+      ]
+    },
+    {
+      "key": "https://drodil.medium.com/backstage-techdocs-turning-documentation-from-obligation-to-culture-38464c53c266",
+      "name": "Backstage TechDocs: Turning Documentation from Obligation to Culture",
+      "url": "https://drodil.medium.com/backstage-techdocs-turning-documentation-from-obligation-to-culture-38464c53c266",
+      "description": "Making TechDocs a maintained and trusted part of the developer experience.",
+      "section": [
+        "Articles and Presentations",
+        "Blog Posts"
+      ]
+    },
+    {
+      "key": "https://drodil.medium.com/avoiding-pitfalls-with-backstage-catalog-209118cebaf2",
+      "name": "Avoiding Pitfalls with Backstage Catalog",
+      "url": "https://drodil.medium.com/avoiding-pitfalls-with-backstage-catalog-209118cebaf2",
+      "description": "Common catalog modeling mistakes and how to avoid them.",
+      "section": [
+        "Articles and Presentations",
+        "Blog Posts"
+      ]
+    },
+    {
+      "key": "https://drodil.medium.com/backstage-does-not-need-more-plugins-it-needs-better-gardens-3f9dfdc0d131",
+      "name": "Backstage Does Not Need More Plugins, It Needs Better Gardens",
+      "url": "https://drodil.medium.com/backstage-does-not-need-more-plugins-it-needs-better-gardens-3f9dfdc0d131",
+      "description": "Why a few well-maintained integrations beat a large plugin count.",
+      "section": [
+        "Articles and Presentations",
+        "Blog Posts"
+      ]
+    },
+    {
+      "key": "https://backstage.io/docs/releases/v1.54.0",
+      "name": "Backstage v1.54.0 Release Notes",
+      "url": "https://backstage.io/docs/releases/v1.54.0/",
+      "description": "Latest stable minor release with platform updates and bug fixes (v1.54.6 latest patch).",
+      "section": [
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -634,7 +711,8 @@
       "url": "https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/",
       "description": "Independent security audit results, findings, and remediation summary.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -643,7 +721,8 @@
       "url": "https://backstage.io/blog/2024/02/28/security-notice/",
       "description": "Scaffolder path traversal fix and recommended upgrades.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -652,7 +731,8 @@
       "url": "https://backstage.io/docs/releases/v1.40.0",
       "description": "Actions Registry services and MCP server integration notes.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -661,7 +741,8 @@
       "url": "https://backstage.io/api/stable/modules/_backstage_plugin-mcp-actions-backend.html",
       "description": "Expose Backstage actions as MCP tools for AI clients.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {
@@ -670,7 +751,8 @@
       "url": "https://github.com/backstage/backstage/labels/RFC",
       "description": "Track active proposals and community feedback.",
       "section": [
-        "Articles and Presentations"
+        "Articles and Presentations",
+        "Blog Posts"
       ]
     },
     {

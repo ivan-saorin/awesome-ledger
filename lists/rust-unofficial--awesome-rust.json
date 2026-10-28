@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"74e3e457c1df1ce2e8fd2344b547d5480a85313d9eddf769b42999409b740918\"",
+  "etag": "W/\"00d05990339442ae4d619d1a7418b8f0f488b8be1a673043fd524c667ff5f231\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -942,6 +942,16 @@
       "name": "termusic",
       "url": "https://github.com/tramhao/termusic",
       "description": "Music Player TUI written",
+      "section": [
+        "Applications",
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/tsirysndr/music-player",
+      "name": "tsirysndr/music-player",
+      "url": "https://github.com/tsirysndr/music-player",
+      "description": "Music player with Rockbox-powered audio playback, multiple interfaces, and streaming support",
       "section": [
         "Applications",
         "Audio and Music"
@@ -3028,6 +3038,16 @@
       ]
     },
     {
+      "key": "https://github.com/heydeer/pngdeer",
+      "name": "heydeer/pngdeer",
+      "url": "https://github.com/heydeer/pngdeer",
+      "description": "A lossy PNG compressor with automatic perceptual quality selection, available as a Rust CLI and WebAssembly app.",
+      "section": [
+        "Applications",
+        "Image processing"
+      ]
+    },
+    {
       "key": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
       "name": "Hugo-Dz/spritefusion-sprite-normals",
       "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
@@ -3672,6 +3692,16 @@
       "name": "CookCLI",
       "url": "https://github.com/cooklang/CookCLI",
       "description": "Command-line recipe manager with web server, shopping lists, and meal planning capabilities.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/emanuele-em/kanzo",
+      "name": "emanuele-em/kanzo",
+      "url": "https://github.com/emanuele-em/kanzo",
+      "description": "[kanzo] - Self-hosted kanban board for humans and coding agents: a web board and an MCP server in one binary, with data in a local SQLite folder",
       "section": [
         "Applications",
         "Productivity"
@@ -10056,6 +10086,17 @@
       ]
     },
     {
+      "key": "https://github.com/infosave2007/cmf",
+      "name": "infosave2007/cmf",
+      "url": "https://github.com/infosave2007/cmf",
+      "description": "[cortiq-engine] - Single-file quantized LLM format (CMF) and inference runtime with no ML framework underneath: CPU, GPU via Vulkan/DX12/Metal, OpenAI-compatible server.",
+      "section": [
+        "Libraries",
+        "Artificial Intelligence",
+        "Machine learning"
+      ]
+    },
+    {
       "key": "https://github.com/katanemo/plano",
       "name": "katanemo/plano",
       "url": "https://github.com/katanemo/plano",
@@ -11762,6 +11803,16 @@
       ]
     },
     {
+      "key": "https://github.com/structured-world/structured-zstd",
+      "name": "structured-world/structured-zstd",
+      "url": "https://github.com/structured-world/structured-zstd",
+      "description": "[structured-zstd] - Pure-Rust Zstandard compression and decompression",
+      "section": [
+        "Libraries",
+        "Compression"
+      ]
+    },
+    {
       "key": "https://github.com/alphaville/optimization-engine",
       "name": "alphaville/optimization-engine",
       "url": "https://github.com/alphaville/optimization-engine",
@@ -11906,6 +11957,16 @@
       "name": "ml-rust/numr",
       "url": "https://github.com/ml-rust/numr",
       "description": "[numr] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration.",
+      "section": [
+        "Libraries",
+        "Computation"
+      ]
+    },
+    {
+      "key": "https://github.com/oximo-rs/oximo",
+      "name": "oximo-rs/oximo",
+      "url": "https://github.com/oximo-rs/oximo",
+      "description": "[oximo] - Algebraic modeling library for linear, nonlinear, and mixed-integer optimization with multiple solver backends",
       "section": [
         "Libraries",
         "Computation"
@@ -12206,6 +12267,16 @@
       "name": "debris/tiny-keccak",
       "url": "https://github.com/debris/tiny-keccak",
       "description": "Keccak family (SHA3)",
+      "section": [
+        "Libraries",
+        "Cryptography"
+      ]
+    },
+    {
+      "key": "https://github.com/probityai/agent-evidence/tree/main/crates/dsse",
+      "name": "dsse",
+      "url": "https://github.com/probityai/agent-evidence/tree/main/crates/dsse",
+      "description": "[dsse] - DSSE (Dead Simple Signing Envelope) envelopes with PAE pre-authentication encoding: construction, signing and threshold verification, as used by in-toto and Sigstore attestations.",
       "section": [
         "Libraries",
         "Cryptography"
@@ -14276,6 +14347,16 @@
       "name": "importcjj/rust-ajson",
       "url": "https://github.com/importcjj/rust-ajson",
       "description": "[ajson] - Get JSON values quickly",
+      "section": [
+        "Libraries",
+        "Encoding"
+      ]
+    },
+    {
+      "key": "https://github.com/probityai/agent-evidence/tree/main/crates/jcs-admit",
+      "name": "jcs-admit",
+      "url": "https://github.com/probityai/agent-evidence/tree/main/crates/jcs-admit",
+      "description": "[jcs-admit] - Refuses JSON that canonicalizes ambiguously (duplicate members, unsafe integers, excess nesting) before RFC 8785 canonicalization, for bytes that will be signed or hashed.",
       "section": [
         "Libraries",
         "Encoding"

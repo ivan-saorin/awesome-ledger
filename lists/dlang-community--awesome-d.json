@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"022f6e5f34879cc428b95d20580f7544a11c06fc112cbc5393f4a304a7490d16\"",
+  "etag": "W/\"4255cffbb81d83a4501be1989150a39ab7813eb6ff0b591449e6d47d4cd53a06\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1629,6 +1629,15 @@
       "name": "Veb",
       "url": "https://codeberg.org/ddn/veb",
       "description": "Minimal, tabbed web browser written in D using giD (GTK4, libadwaita, WebKitGTK 6).",
+      "section": [
+        "GUI Applications"
+      ]
+    },
+    {
+      "key": "https://hackerscad.com",
+      "name": "hackerscad",
+      "url": "https://hackerscad.com",
+      "description": "Parametric CAD where the model is code. Written in D, it uses a small subset of D itself as its scripting language.",
       "section": [
         "GUI Applications"
       ]

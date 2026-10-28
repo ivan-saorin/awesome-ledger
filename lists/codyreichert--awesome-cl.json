@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0b0cb5c9cc342b95edf4ee503d6799f135d3208b2f9fb135e36065d76069d88f\"",
+  "etag": "W/\"94823f1448b9a41de7ef817240c35dd77e471023de87b55bedf2fbc0aa190472\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -6489,6 +6489,15 @@
       "name": "unix-in-lisp",
       "url": "https://github.com/PuellaeMagicae/unix-in-lisp",
       "description": "Mount Unix system into Common Lisp image.",
+      "section": [
+        "Shells, shells interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/lambda-symbolics/cclsh",
+      "name": "cclsh",
+      "url": "https://github.com/lambda-symbolics/cclsh",
+      "description": "A system shell running inside Common Lisp. Ordinary Unix commands and Common Lisp forms share one live image, so the boundary between shell use and Lisp is small and explicit. ISC license.",
       "section": [
         "Shells, shells interfaces"
       ]

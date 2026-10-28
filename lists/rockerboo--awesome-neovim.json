@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a0778dfe87f84b97f3dc24672f2543505ab749568dffaf769697f994a4ead31f\"",
+  "etag": "W/\"e83a5d328fa3382c9d767097c836e630d9051d84b17096344e67b2623d9a736c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -12397,6 +12397,16 @@
       "name": "salorak/libtmux.nvim",
       "url": "https://github.com/salorak/libtmux.nvim",
       "description": "Thin wrapper for using the tmux API.",
+      "section": [
+        "Split and Window",
+        "Tmux"
+      ]
+    },
+    {
+      "key": "https://github.com/minhyeoky/tmux-oil.nvim",
+      "name": "minhyeoky/tmux-oil.nvim",
+      "url": "https://github.com/minhyeoky/tmux-oil.nvim",
+      "description": "Edit tmux sessions and windows as lines in a buffer, like oil.nvim.",
       "section": [
         "Split and Window",
         "Tmux"

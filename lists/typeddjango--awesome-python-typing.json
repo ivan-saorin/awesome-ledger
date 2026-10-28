@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d33a723ee3a28eaf2a1d3365d3545bf3d796c1d091e714527f3d132a036bbd5a\"",
+  "etag": "W/\"7cba185daae4f58a1b4872e0f5ef72db27b6970e70be2e8febcb525acbcb5db5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -115,15 +115,15 @@
       "key": "https://github.com/beartype/beartype",
       "name": "beartype",
       "url": "https://github.com/beartype/beartype",
-      "description": "Unbearably fast O(1) runtime type-checking in pure Python.",
+      "description": "Unbearably fast $O(1)$ runtime type-checking in pure Python.",
       "section": [
         "Dynamic type checkers"
       ]
     },
     {
-      "key": "https://github.com/samuelcolvin/pydantic",
+      "key": "https://github.com/pydantic/pydantic",
       "name": "pydantic",
-      "url": "https://github.com/samuelcolvin/pydantic",
+      "url": "https://github.com/pydantic/pydantic",
       "description": "Data parsing using Python type hinting. Supports dataclasses.",
       "section": [
         "Dynamic type checkers"
@@ -187,7 +187,7 @@
       "key": "https://github.com/connor-makowski/type_enforced",
       "name": "type_enforced",
       "url": "https://github.com/connor-makowski/type_enforced",
-      "description": "Fast runtime type enforcement for annotations with no dependencies. Includes fast O(1) and full O(n) operations.",
+      "description": "Fast runtime type enforcement for annotations with no dependencies. Includes fast $O(1)$ and full $O(n)$ operations.",
       "section": [
         "Dynamic type checkers"
       ]
@@ -202,9 +202,9 @@
       ]
     },
     {
-      "key": "https://vemel.github.io/boto3_stubs_docs",
+      "key": "https://github.com/youtype/types-boto3",
       "name": "boto3-stubs",
-      "url": "https://vemel.github.io/boto3_stubs_docs/",
+      "url": "https://github.com/youtype/types-boto3",
       "description": "Stubs for boto3.",
       "section": [
         "Stub packages"
@@ -328,9 +328,9 @@
       ]
     },
     {
-      "key": "https://vemel.github.io/types_aiobotocore_docs",
+      "key": "https://github.com/youtype/types_aiobotocore_docs",
       "name": "types-aiobotocore",
-      "url": "https://vemel.github.io/types_aiobotocore_docs/",
+      "url": "https://github.com/youtype/types_aiobotocore_docs",
       "description": "Stubs for aiobotocore.",
       "section": [
         "Stub packages"
@@ -343,6 +343,24 @@
       "description": "Collection of library stubs, with static types.",
       "section": [
         "Stub packages"
+      ]
+    },
+    {
+      "key": "https://github.com/annotated-types/annotated-types",
+      "name": "annotated-types",
+      "url": "https://github.com/annotated-types/annotated-types",
+      "description": "Reusable constraint types to use with typing.Annotated.",
+      "section": [
+        "Additional types"
+      ]
+    },
+    {
+      "key": "https://github.com/fastapi/annotated-doc",
+      "name": "annotated-doc",
+      "url": "https://github.com/fastapi/annotated-doc",
+      "description": "Document parameters, class attributes, return types, and variables inline, with typing.Annotated.",
+      "section": [
+        "Additional types"
       ]
     },
     {
@@ -395,15 +413,6 @@
       "name": "safetywrap",
       "url": "https://github.com/mplanchard/safetywrap",
       "description": "Fully typesafe, Rust-like Result and Option types.",
-      "section": [
-        "Additional types"
-      ]
-    },
-    {
-      "key": "https://github.com/contains-io/typet",
-      "name": "typet",
-      "url": "https://github.com/contains-io/typet",
-      "description": "Length-bounded types, dynamic object validation.",
       "section": [
         "Additional types"
       ]

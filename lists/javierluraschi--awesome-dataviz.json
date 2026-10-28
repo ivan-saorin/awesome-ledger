@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"13d7a1e70c9c3fc0c87283c2919b9549e9f0845a310e990e54a96c818fa49ddf\"",
+  "etag": "W/\"261c7f2b60d0343a7a3663487f38515ee91eba15b7cd965d559d1010e6a90553\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1947,6 +1947,15 @@
       ]
     },
     {
+      "key": "https://github.com/lightly-ai/lightly-studio",
+      "name": "LightlyStudio",
+      "url": "https://github.com/lightly-ai/lightly-studio",
+      "description": "Interactive embedding plot and sample grid to explore image and video datasets, with annotation overlays.",
+      "section": [
+        "Machine Learning tools"
+      ]
+    },
+    {
       "key": "https://github.com/PAIR-code/lit",
       "name": "LIT",
       "url": "https://github.com/PAIR-code/lit",
@@ -2127,318 +2136,13 @@
       ]
     },
     {
-      "key": "https://altair-viz.github.io",
-      "name": "altair",
-      "url": "https://altair-viz.github.io/",
-      "description": "Declarative statistical visualizations, based on Vega-Lite.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://bokeh.org",
-      "name": "bokeh",
-      "url": "https://bokeh.org/",
-      "description": "Interactive Web Plotting for Python.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/bqplot/bqplot",
-      "name": "bqplot",
-      "url": "https://github.com/bqplot/bqplot",
-      "description": "Plotting library for IPython/Jupyter notebooks.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/SciTools/cartopy",
-      "name": "Cartopy",
-      "url": "https://github.com/SciTools/cartopy",
-      "description": "Cartographic projections and geospatial data plotting with matplotlib.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/spotify/chartify",
-      "name": "Chartify",
-      "url": "https://github.com/spotify/chartify",
-      "description": "Bokeh wrapper that makes it easy for data scientists to create charts.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/man-group/dtale",
-      "name": "D-Tale",
-      "url": "https://github.com/man-group/dtale",
-      "description": "Web-based visual explorer for pandas DataFrames with charts, summaries and correlations.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/plotly/dash",
-      "name": "Dash",
-      "url": "https://github.com/plotly/dash",
-      "description": "Framework for building data apps and dashboards in Python, built on Plotly.js and React.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/holoviz/datashader",
-      "name": "Datashader",
-      "url": "https://github.com/holoviz/datashader",
-      "description": "Renders very large datasets into accurate images by rasterizing them.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/tehmaze/diagram",
-      "name": "diagram",
-      "url": "https://github.com/tehmaze/diagram",
-      "description": "Text mode diagrams using UTF-8 characters",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/fastplotlib/fastplotlib",
-      "name": "fastplotlib",
-      "url": "https://github.com/fastplotlib/fastplotlib",
-      "description": "GPU-accelerated plotting library built on WGPU and pygfx for fast interactive visualization.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/python-visualization/folium",
-      "name": "folium",
-      "url": "https://github.com/python-visualization/folium",
-      "description": "Builds interactive Leaflet.js maps from Python data.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/yhat/ggpy",
-      "name": "ggplot",
-      "url": "https://github.com/yhat/ggpy",
-      "description": "plotting system based on R's ggplot2.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/glumpy/glumpy",
-      "name": "glumpy",
-      "url": "https://github.com/glumpy/glumpy",
-      "description": "OpenGL scientific visualizations library.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://holoviews.org",
-      "name": "holoviews",
-      "url": "https://holoviews.org/",
-      "description": "Complex and declarative visualizations from annotated data.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/holoviz/hvplot",
-      "name": "hvPlot",
-      "url": "https://github.com/holoviz/hvplot",
-      "description": "High-level plotting API for pandas, xarray, Dask, NetworkX and other data structures, built on HoloViews.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/nicohlr/ipychart",
-      "name": "ipychart",
-      "url": "https://github.com/nicohlr/ipychart",
-      "description": "The power of Chart.js in Jupyter Notebook.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/jupyter-widgets/ipyleaflet",
-      "name": "ipyleaflet",
-      "url": "https://github.com/jupyter-widgets/ipyleaflet",
-      "description": "Interactive Leaflet maps in Jupyter notebooks, built on ipywidgets.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/opengeos/leafmap",
-      "name": "leafmap",
-      "url": "https://github.com/opengeos/leafmap",
-      "description": "Interactive mapping and geospatial analysis in Jupyter with multiple mapping backends.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/JetBrains/lets-plot",
-      "name": "Lets-Plot",
-      "url": "https://github.com/JetBrains/lets-plot",
-      "description": "Grammar of graphics plotting library for Python and Kotlin, by JetBrains.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/microsoft/lida",
-      "name": "LIDA",
-      "url": "https://github.com/microsoft/lida",
-      "description": "Generates visualizations and infographics from data with large language models, from Microsoft.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/louisnw01/lightweight-charts-python",
-      "name": "lightweight-charts-python",
-      "url": "https://github.com/louisnw01/lightweight-charts-python",
-      "description": "Python interface to TradingView's Lightweight Charts for financial charts.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/developmentseed/lonboard",
-      "name": "Lonboard",
-      "url": "https://github.com/developmentseed/lonboard",
-      "description": "Fast, interactive geospatial data visualization in Jupyter, built on deck.gl and GeoArrow.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
       "key": "https://matplotlib.org",
       "name": "matplotlib",
       "url": "https://matplotlib.org/",
       "description": "2D plotting library.",
       "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://docs.enthought.com/mayavi/mayavi",
-      "name": "mayavi",
-      "url": "https://docs.enthought.com/mayavi/mayavi/",
-      "description": "interactive scientific data visualization and 3D plotting in Python.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/ResidentMario/missingno",
-      "name": "missingno",
-      "url": "https://github.com/ResidentMario/missingno",
-      "description": "provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/mpld3/mpld3",
-      "name": "mpld3",
-      "url": "https://github.com/mpld3/mpld3",
-      "description": "Renders matplotlib figures as interactive D3.js graphics in the browser.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/matplotlib/mplfinance",
-      "name": "mplfinance",
-      "url": "https://github.com/matplotlib/mplfinance",
-      "description": "Financial market data visualization (candlestick, OHLC, volume) using matplotlib.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/napari/napari",
-      "name": "napari",
-      "url": "https://github.com/napari/napari",
-      "description": "Fast, interactive viewer for multi-dimensional images in Python.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/holoviz/panel",
-      "name": "Panel",
-      "url": "https://github.com/holoviz/panel",
-      "description": "Data exploration and web app framework for Python that works with many plotting libraries.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/piccolomo/plotext",
-      "name": "Plotext",
-      "url": "https://github.com/piccolomo/plotext",
-      "description": "Plots data directly in the terminal with a matplotlib-like syntax.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://plotly.com/python",
-      "name": "plotly",
-      "url": "https://plotly.com/python/",
-      "description": "Interactive web based visualization built on top of plotly.js",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/has2k1/plotnine",
-      "name": "plotnine",
-      "url": "https://github.com/has2k1/plotnine",
-      "description": "Grammar of graphics for Python, based on R's ggplot2.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/heremaps/pptk",
-      "name": "pptk",
-      "url": "https://github.com/heremaps/pptk",
-      "description": "Visualize and work with 2D/3D pointclouds",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/marceloprates/prettymaps",
-      "name": "prettymaps",
-      "url": "https://github.com/marceloprates/prettymaps",
-      "description": "Draws stylized maps from OpenStreetMap data, using osmnx and matplotlib.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/pyecharts/pyecharts",
-      "name": "pyecharts",
-      "url": "https://github.com/pyecharts/pyecharts",
-      "description": "Python binding for Echarts library.",
-      "section": [
-        "Python tools"
+        "Python tools",
+        "Core plotting libraries"
       ]
     },
     {
@@ -2447,79 +2151,8 @@
       "url": "https://github.com/Kozea/pygal",
       "description": "SVG charting library for Python with many chart types and interactive output.",
       "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/GenericMappingTools/pygmt",
-      "name": "PyGMT",
-      "url": "https://github.com/GenericMappingTools/pygmt",
-      "description": "Python interface to the Generic Mapping Tools (GMT) for maps and figures in the geosciences.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/Kanaries/pygwalker",
-      "name": "PyGWalker",
-      "url": "https://github.com/Kanaries/pygwalker",
-      "description": "Turns dataframes into a drag-and-drop visual analysis UI in Jupyter, based on Graphic Walker.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://pyqtgraph.org",
-      "name": "PyQtGraph",
-      "url": "https://www.pyqtgraph.org/",
-      "description": "Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/pyvista/pyvista",
-      "name": "PyVista",
-      "url": "https://github.com/pyvista/pyvista",
-      "description": "3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/Technion-Kishony-lab/quibbler",
-      "name": "Quibbler",
-      "url": "https://github.com/Technion-Kishony-lab/quibbler",
-      "description": "Your data and anything you plot is effortlessly live and interactive.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/rerun-io/rerun",
-      "name": "Rerun",
-      "url": "https://github.com/rerun-io/rerun",
-      "description": "An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/JasonKessler/scattertext",
-      "name": "scattertext",
-      "url": "https://github.com/JasonKessler/scattertext",
-      "description": "Interactive scatterplot visualizations of how language differs between groups of documents.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/garrettj403/SciencePlots",
-      "name": "SciencePlots",
-      "url": "https://github.com/garrettj403/SciencePlots",
-      "description": "Matplotlib styles for scientific figures and journal publications.",
-      "section": [
-        "Python tools"
+        "Python tools",
+        "Core plotting libraries"
       ]
     },
     {
@@ -2528,70 +2161,8 @@
       "url": "https://seaborn.pydata.org/",
       "description": "A library for making attractive and informative statistical graphics.",
       "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/posit-dev/py-shiny",
-      "name": "Shiny for Python",
-      "url": "https://github.com/posit-dev/py-shiny",
-      "description": "Python version of the Shiny reactive framework for interactive data apps.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/streamlit/streamlit",
-      "name": "Streamlit",
-      "url": "https://github.com/streamlit/streamlit",
-      "description": "Framework for turning Python scripts into interactive data apps.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/fbdesignpro/sweetviz",
-      "name": "Sweetviz",
-      "url": "https://github.com/fbdesignpro/sweetviz",
-      "description": "Generates self-contained HTML reports that visualize and compare datasets for exploratory analysis.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/landoskape/syd",
-      "name": "syd",
-      "url": "https://github.com/landoskape/syd",
-      "description": "A package for making GUIs around matplotlib figures easy, fast, and streamlined.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/Avaiga/taipy",
-      "name": "Taipy",
-      "url": "https://github.com/Avaiga/taipy",
-      "description": "Python framework for building data and AI web applications with interactive charts and dashboards.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/mkaz/termgraph",
-      "name": "termgraph",
-      "url": "https://github.com/mkaz/termgraph",
-      "description": "Draws bar charts, histograms and other basic graphs in the terminal, as a CLI or Python library.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/stemkoski/three.py",
-      "name": "three.py",
-      "url": "https://github.com/stemkoski/three.py/",
-      "description": "Easy to use 3D library based on PyOpenGL. Inspired by Three.js.",
-      "section": [
-        "Python tools"
+        "Python tools",
+        "Core plotting libraries"
       ]
     },
     {
@@ -2600,25 +2171,8 @@
       "url": "https://toyplot.readthedocs.io/en/stable/",
       "description": "The kid-sized plotting toolkit for Python with grownup-sized goals.",
       "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/olavolav/uniplot",
-      "name": "uniplot",
-      "url": "https://github.com/olavolav/uniplot",
-      "description": "Lightweight plotting to the terminal. 4x resolution via Unicode.",
-      "section": [
-        "Python tools"
-      ]
-    },
-    {
-      "key": "https://github.com/marcomusy/vedo",
-      "name": "vedo",
-      "url": "https://github.com/marcomusy/vedo",
-      "description": "Library for scientific analysis and visualization of 3D objects based on VTK.",
-      "section": [
-        "Python tools"
+        "Python tools",
+        "Core plotting libraries"
       ]
     },
     {
@@ -2627,25 +2181,218 @@
       "url": "https://veusz.github.io/",
       "description": "Python multiplatform GUI plotting tool and graphing library",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Core plotting libraries"
       ]
     },
     {
-      "key": "https://github.com/viser-project/viser",
-      "name": "viser",
-      "url": "https://github.com/viser-project/viser",
-      "description": "Web-based 3D visualization library for computer vision and robotics, with GUI building blocks.",
+      "key": "https://github.com/mpld3/mpld3",
+      "name": "mpld3",
+      "url": "https://github.com/mpld3/mpld3",
+      "description": "Renders matplotlib figures as interactive D3.js graphics in the browser.",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Matplotlib extensions"
       ]
     },
     {
-      "key": "https://vispy.org",
-      "name": "VisPy",
-      "url": "https://vispy.org/",
-      "description": "High-performance scientific visualization based on OpenGL.",
+      "key": "https://github.com/Technion-Kishony-lab/quibbler",
+      "name": "Quibbler",
+      "url": "https://github.com/Technion-Kishony-lab/quibbler",
+      "description": "Your data and anything you plot is effortlessly live and interactive.",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Matplotlib extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/garrettj403/SciencePlots",
+      "name": "SciencePlots",
+      "url": "https://github.com/garrettj403/SciencePlots",
+      "description": "Matplotlib styles for scientific figures and journal publications.",
+      "section": [
+        "Python tools",
+        "Matplotlib extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/landoskape/syd",
+      "name": "syd",
+      "url": "https://github.com/landoskape/syd",
+      "description": "A package for making GUIs around matplotlib figures easy, fast, and streamlined.",
+      "section": [
+        "Python tools",
+        "Matplotlib extensions"
+      ]
+    },
+    {
+      "key": "https://altair-viz.github.io",
+      "name": "altair",
+      "url": "https://altair-viz.github.io/",
+      "description": "Declarative statistical visualizations, based on Vega-Lite.",
+      "section": [
+        "Python tools",
+        "Grammar of graphics and declarative"
+      ]
+    },
+    {
+      "key": "https://github.com/yhat/ggpy",
+      "name": "ggplot",
+      "url": "https://github.com/yhat/ggpy",
+      "description": "plotting system based on R's ggplot2.",
+      "section": [
+        "Python tools",
+        "Grammar of graphics and declarative"
+      ]
+    },
+    {
+      "key": "https://holoviews.org",
+      "name": "holoviews",
+      "url": "https://holoviews.org/",
+      "description": "Complex and declarative visualizations from annotated data.",
+      "section": [
+        "Python tools",
+        "Grammar of graphics and declarative"
+      ]
+    },
+    {
+      "key": "https://github.com/holoviz/hvplot",
+      "name": "hvPlot",
+      "url": "https://github.com/holoviz/hvplot",
+      "description": "High-level plotting API for pandas, xarray, Dask, NetworkX and other data structures, built on HoloViews.",
+      "section": [
+        "Python tools",
+        "Grammar of graphics and declarative"
+      ]
+    },
+    {
+      "key": "https://github.com/JetBrains/lets-plot",
+      "name": "Lets-Plot",
+      "url": "https://github.com/JetBrains/lets-plot",
+      "description": "Grammar of graphics plotting library for Python and Kotlin, by JetBrains.",
+      "section": [
+        "Python tools",
+        "Grammar of graphics and declarative"
+      ]
+    },
+    {
+      "key": "https://github.com/has2k1/plotnine",
+      "name": "plotnine",
+      "url": "https://github.com/has2k1/plotnine",
+      "description": "Grammar of graphics for Python, based on R's ggplot2.",
+      "section": [
+        "Python tools",
+        "Grammar of graphics and declarative"
+      ]
+    },
+    {
+      "key": "https://bokeh.org",
+      "name": "bokeh",
+      "url": "https://bokeh.org/",
+      "description": "Interactive Web Plotting for Python.",
+      "section": [
+        "Python tools",
+        "Interactive web charts"
+      ]
+    },
+    {
+      "key": "https://github.com/bqplot/bqplot",
+      "name": "bqplot",
+      "url": "https://github.com/bqplot/bqplot",
+      "description": "Plotting library for IPython/Jupyter notebooks.",
+      "section": [
+        "Python tools",
+        "Interactive web charts"
+      ]
+    },
+    {
+      "key": "https://github.com/spotify/chartify",
+      "name": "Chartify",
+      "url": "https://github.com/spotify/chartify",
+      "description": "Bokeh wrapper that makes it easy for data scientists to create charts.",
+      "section": [
+        "Python tools",
+        "Interactive web charts"
+      ]
+    },
+    {
+      "key": "https://github.com/nicohlr/ipychart",
+      "name": "ipychart",
+      "url": "https://github.com/nicohlr/ipychart",
+      "description": "The power of Chart.js in Jupyter Notebook.",
+      "section": [
+        "Python tools",
+        "Interactive web charts"
+      ]
+    },
+    {
+      "key": "https://plotly.com/python",
+      "name": "plotly",
+      "url": "https://plotly.com/python/",
+      "description": "Interactive web based visualization built on top of plotly.js",
+      "section": [
+        "Python tools",
+        "Interactive web charts"
+      ]
+    },
+    {
+      "key": "https://github.com/pyecharts/pyecharts",
+      "name": "pyecharts",
+      "url": "https://github.com/pyecharts/pyecharts",
+      "description": "Python binding for Echarts library.",
+      "section": [
+        "Python tools",
+        "Interactive web charts"
+      ]
+    },
+    {
+      "key": "https://github.com/plotly/dash",
+      "name": "Dash",
+      "url": "https://github.com/plotly/dash",
+      "description": "Framework for building data apps and dashboards in Python, built on Plotly.js and React.",
+      "section": [
+        "Python tools",
+        "Dashboards and data apps"
+      ]
+    },
+    {
+      "key": "https://github.com/holoviz/panel",
+      "name": "Panel",
+      "url": "https://github.com/holoviz/panel",
+      "description": "Data exploration and web app framework for Python that works with many plotting libraries.",
+      "section": [
+        "Python tools",
+        "Dashboards and data apps"
+      ]
+    },
+    {
+      "key": "https://github.com/posit-dev/py-shiny",
+      "name": "Shiny for Python",
+      "url": "https://github.com/posit-dev/py-shiny",
+      "description": "Python version of the Shiny reactive framework for interactive data apps.",
+      "section": [
+        "Python tools",
+        "Dashboards and data apps"
+      ]
+    },
+    {
+      "key": "https://github.com/streamlit/streamlit",
+      "name": "Streamlit",
+      "url": "https://github.com/streamlit/streamlit",
+      "description": "Framework for turning Python scripts into interactive data apps.",
+      "section": [
+        "Python tools",
+        "Dashboards and data apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Avaiga/taipy",
+      "name": "Taipy",
+      "url": "https://github.com/Avaiga/taipy",
+      "description": "Python framework for building data and AI web applications with interactive charts and dashboards.",
+      "section": [
+        "Python tools",
+        "Dashboards and data apps"
       ]
     },
     {
@@ -2654,7 +2401,8 @@
       "url": "https://github.com/mckinsey/vizro",
       "description": "Low-code toolkit from McKinsey for building data visualization apps and dashboards, built on Dash.",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Dashboards and data apps"
       ]
     },
     {
@@ -2663,25 +2411,58 @@
       "url": "https://github.com/voila-dashboards/voila",
       "description": "Turns Jupyter notebooks into standalone interactive web applications.",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Dashboards and data apps"
       ]
     },
     {
-      "key": "https://vtk.org",
-      "name": "vtk",
-      "url": "https://www.vtk.org/",
-      "description": "3D computer graphics, image processing, and visualization that includes a Python interface.",
+      "key": "https://github.com/man-group/dtale",
+      "name": "D-Tale",
+      "url": "https://github.com/man-group/dtale",
+      "description": "Web-based visual explorer for pandas DataFrames with charts, summaries and correlations.",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Exploratory data analysis and profiling"
       ]
     },
     {
-      "key": "https://github.com/amueller/word_cloud",
-      "name": "WordCloud",
-      "url": "https://github.com/amueller/word_cloud",
-      "description": "Word cloud generator for Python.",
+      "key": "https://github.com/microsoft/lida",
+      "name": "LIDA",
+      "url": "https://github.com/microsoft/lida",
+      "description": "Generates visualizations and infographics from data with large language models, from Microsoft.",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Exploratory data analysis and profiling"
+      ]
+    },
+    {
+      "key": "https://github.com/ResidentMario/missingno",
+      "name": "missingno",
+      "url": "https://github.com/ResidentMario/missingno",
+      "description": "provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.",
+      "section": [
+        "Python tools",
+        "Exploratory data analysis and profiling"
+      ]
+    },
+    {
+      "key": "https://github.com/Kanaries/pygwalker",
+      "name": "PyGWalker",
+      "url": "https://github.com/Kanaries/pygwalker",
+      "description": "Turns dataframes into a drag-and-drop visual analysis UI in Jupyter, based on Graphic Walker.",
+      "section": [
+        "Python tools",
+        "Exploratory data analysis and profiling"
+      ]
+    },
+    {
+      "key": "https://github.com/fbdesignpro/sweetviz",
+      "name": "Sweetviz",
+      "url": "https://github.com/fbdesignpro/sweetviz",
+      "description": "Generates self-contained HTML reports that visualize and compare datasets for exploratory analysis.",
+      "section": [
+        "Python tools",
+        "Exploratory data analysis and profiling"
       ]
     },
     {
@@ -2690,7 +2471,148 @@
       "url": "https://github.com/Data-Centric-AI-Community/fg-data-profiling",
       "description": "Generates statistical analytic reports with visualization for quick data analysis (formerly pandas-profiling).",
       "section": [
-        "Python tools"
+        "Python tools",
+        "Exploratory data analysis and profiling"
+      ]
+    },
+    {
+      "key": "https://github.com/SciTools/cartopy",
+      "name": "Cartopy",
+      "url": "https://github.com/SciTools/cartopy",
+      "description": "Cartographic projections and geospatial data plotting with matplotlib.",
+      "section": [
+        "Python tools",
+        "Maps and geospatial"
+      ]
+    },
+    {
+      "key": "https://github.com/python-visualization/folium",
+      "name": "folium",
+      "url": "https://github.com/python-visualization/folium",
+      "description": "Builds interactive Leaflet.js maps from Python data.",
+      "section": [
+        "Python tools",
+        "Maps and geospatial"
+      ]
+    },
+    {
+      "key": "https://github.com/jupyter-widgets/ipyleaflet",
+      "name": "ipyleaflet",
+      "url": "https://github.com/jupyter-widgets/ipyleaflet",
+      "description": "Interactive Leaflet maps in Jupyter notebooks, built on ipywidgets.",
+      "section": [
+        "Python tools",
+        "Maps and geospatial"
+      ]
+    },
+    {
+      "key": "https://github.com/opengeos/leafmap",
+      "name": "leafmap",
+      "url": "https://github.com/opengeos/leafmap",
+      "description": "Interactive mapping and geospatial analysis in Jupyter with multiple mapping backends.",
+      "section": [
+        "Python tools",
+        "Maps and geospatial"
+      ]
+    },
+    {
+      "key": "https://github.com/developmentseed/lonboard",
+      "name": "Lonboard",
+      "url": "https://github.com/developmentseed/lonboard",
+      "description": "Fast, interactive geospatial data visualization in Jupyter, built on deck.gl and GeoArrow.",
+      "section": [
+        "Python tools",
+        "Maps and geospatial"
+      ]
+    },
+    {
+      "key": "https://github.com/marceloprates/prettymaps",
+      "name": "prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "description": "Draws stylized maps from OpenStreetMap data, using osmnx and matplotlib.",
+      "section": [
+        "Python tools",
+        "Maps and geospatial"
+      ]
+    },
+    {
+      "key": "https://github.com/GenericMappingTools/pygmt",
+      "name": "PyGMT",
+      "url": "https://github.com/GenericMappingTools/pygmt",
+      "description": "Python interface to the Generic Mapping Tools (GMT) for maps and figures in the geosciences.",
+      "section": [
+        "Python tools",
+        "Maps and geospatial"
+      ]
+    },
+    {
+      "key": "https://docs.enthought.com/mayavi/mayavi",
+      "name": "mayavi",
+      "url": "https://docs.enthought.com/mayavi/mayavi/",
+      "description": "interactive scientific data visualization and 3D plotting in Python.",
+      "section": [
+        "Python tools",
+        "3D and scientific visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/napari/napari",
+      "name": "napari",
+      "url": "https://github.com/napari/napari",
+      "description": "Fast, interactive viewer for multi-dimensional images in Python.",
+      "section": [
+        "Python tools",
+        "3D and scientific visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/heremaps/pptk",
+      "name": "pptk",
+      "url": "https://github.com/heremaps/pptk",
+      "description": "Visualize and work with 2D/3D pointclouds",
+      "section": [
+        "Python tools",
+        "3D and scientific visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/pyvista/pyvista",
+      "name": "PyVista",
+      "url": "https://github.com/pyvista/pyvista",
+      "description": "3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)",
+      "section": [
+        "Python tools",
+        "3D and scientific visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/stemkoski/three.py",
+      "name": "three.py",
+      "url": "https://github.com/stemkoski/three.py/",
+      "description": "Easy to use 3D library based on PyOpenGL. Inspired by Three.js.",
+      "section": [
+        "Python tools",
+        "3D and scientific visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/marcomusy/vedo",
+      "name": "vedo",
+      "url": "https://github.com/marcomusy/vedo",
+      "description": "Library for scientific analysis and visualization of 3D objects based on VTK.",
+      "section": [
+        "Python tools",
+        "3D and scientific visualization"
+      ]
+    },
+    {
+      "key": "https://vtk.org",
+      "name": "vtk",
+      "url": "https://www.vtk.org/",
+      "description": "3D computer graphics, image processing, and visualization that includes a Python interface.",
+      "section": [
+        "Python tools",
+        "3D and scientific visualization"
       ]
     },
     {
@@ -2699,7 +2621,158 @@
       "url": "https://github.com/yt-project/yt",
       "description": "Toolkit for analysis and visualization of volumetric data.",
       "section": [
-        "Python tools"
+        "Python tools",
+        "3D and scientific visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/holoviz/datashader",
+      "name": "Datashader",
+      "url": "https://github.com/holoviz/datashader",
+      "description": "Renders very large datasets into accurate images by rasterizing them.",
+      "section": [
+        "Python tools",
+        "High-performance and GPU"
+      ]
+    },
+    {
+      "key": "https://github.com/fastplotlib/fastplotlib",
+      "name": "fastplotlib",
+      "url": "https://github.com/fastplotlib/fastplotlib",
+      "description": "GPU-accelerated plotting library built on WGPU and pygfx for fast interactive visualization.",
+      "section": [
+        "Python tools",
+        "High-performance and GPU"
+      ]
+    },
+    {
+      "key": "https://github.com/glumpy/glumpy",
+      "name": "glumpy",
+      "url": "https://github.com/glumpy/glumpy",
+      "description": "OpenGL scientific visualizations library.",
+      "section": [
+        "Python tools",
+        "High-performance and GPU"
+      ]
+    },
+    {
+      "key": "https://pyqtgraph.org",
+      "name": "PyQtGraph",
+      "url": "https://www.pyqtgraph.org/",
+      "description": "Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.",
+      "section": [
+        "Python tools",
+        "High-performance and GPU"
+      ]
+    },
+    {
+      "key": "https://vispy.org",
+      "name": "VisPy",
+      "url": "https://vispy.org/",
+      "description": "High-performance scientific visualization based on OpenGL.",
+      "section": [
+        "Python tools",
+        "High-performance and GPU"
+      ]
+    },
+    {
+      "key": "https://github.com/rerun-io/rerun",
+      "name": "Rerun",
+      "url": "https://github.com/rerun-io/rerun",
+      "description": "An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.",
+      "section": [
+        "Python tools",
+        "Robotics and computer vision"
+      ]
+    },
+    {
+      "key": "https://github.com/viser-project/viser",
+      "name": "viser",
+      "url": "https://github.com/viser-project/viser",
+      "description": "Web-based 3D visualization library for computer vision and robotics, with GUI building blocks.",
+      "section": [
+        "Python tools",
+        "Robotics and computer vision"
+      ]
+    },
+    {
+      "key": "https://github.com/louisnw01/lightweight-charts-python",
+      "name": "lightweight-charts-python",
+      "url": "https://github.com/louisnw01/lightweight-charts-python",
+      "description": "Python interface to TradingView's Lightweight Charts for financial charts.",
+      "section": [
+        "Python tools",
+        "Finance and trading"
+      ]
+    },
+    {
+      "key": "https://github.com/matplotlib/mplfinance",
+      "name": "mplfinance",
+      "url": "https://github.com/matplotlib/mplfinance",
+      "description": "Financial market data visualization (candlestick, OHLC, volume) using matplotlib.",
+      "section": [
+        "Python tools",
+        "Finance and trading"
+      ]
+    },
+    {
+      "key": "https://github.com/tehmaze/diagram",
+      "name": "diagram",
+      "url": "https://github.com/tehmaze/diagram",
+      "description": "Text mode diagrams using UTF-8 characters",
+      "section": [
+        "Python tools",
+        "Terminal plotting"
+      ]
+    },
+    {
+      "key": "https://github.com/piccolomo/plotext",
+      "name": "Plotext",
+      "url": "https://github.com/piccolomo/plotext",
+      "description": "Plots data directly in the terminal with a matplotlib-like syntax.",
+      "section": [
+        "Python tools",
+        "Terminal plotting"
+      ]
+    },
+    {
+      "key": "https://github.com/mkaz/termgraph",
+      "name": "termgraph",
+      "url": "https://github.com/mkaz/termgraph",
+      "description": "Draws bar charts, histograms and other basic graphs in the terminal, as a CLI or Python library.",
+      "section": [
+        "Python tools",
+        "Terminal plotting"
+      ]
+    },
+    {
+      "key": "https://github.com/olavolav/uniplot",
+      "name": "uniplot",
+      "url": "https://github.com/olavolav/uniplot",
+      "description": "Lightweight plotting to the terminal. 4x resolution via Unicode.",
+      "section": [
+        "Python tools",
+        "Terminal plotting"
+      ]
+    },
+    {
+      "key": "https://github.com/JasonKessler/scattertext",
+      "name": "scattertext",
+      "url": "https://github.com/JasonKessler/scattertext",
+      "description": "Interactive scatterplot visualizations of how language differs between groups of documents.",
+      "section": [
+        "Python tools",
+        "Text visualization"
+      ]
+    },
+    {
+      "key": "https://github.com/amueller/word_cloud",
+      "name": "WordCloud",
+      "url": "https://github.com/amueller/word_cloud",
+      "description": "Word cloud generator for Python.",
+      "section": [
+        "Python tools",
+        "Text visualization"
       ]
     },
     {
@@ -3099,6 +3172,15 @@
       ]
     },
     {
+      "key": "https://github.com/obsidianmd/pele",
+      "name": "Pele",
+      "url": "https://github.com/obsidianmd/pele",
+      "description": "Small, dependency-free renderer that turns Mermaid diagrams into SVG, from Obsidian.",
+      "section": [
+        "Markup-based tools"
+      ]
+    },
+    {
       "key": "https://github.com/penrose/penrose",
       "name": "Penrose",
       "url": "https://github.com/penrose/penrose",
@@ -3193,6 +3275,15 @@
       "name": "Data Formulator",
       "url": "https://github.com/microsoft/data-formulator",
       "description": "AI-assisted tool for transforming data and creating visualizations, from Microsoft Research.",
+      "section": [
+        "Other tools"
+      ]
+    },
+    {
+      "key": "https://github.com/datavzrd/datavzrd",
+      "name": "Datavzrd",
+      "url": "https://github.com/datavzrd/datavzrd",
+      "description": "Turns CSV, TSV, JSON or Parquet tables into interactive, self-contained HTML reports, configured with a short YAML file.",
       "section": [
         "Other tools"
       ]

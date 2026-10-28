@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"bf26dfd5c5bd38b35ea8b25e5fe4e0c9b9d9d02e733051e8ff9ddbd606ca24b4\"",
+  "etag": "W/\"c613d45e151c219fba005845fc7b5a81f17201abeb550032bd518bcad8f6c645\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -504,6 +504,16 @@
       "name": "Machine Learning 101",
       "url": "https://machinelearning101.com",
       "description": "Free browser-based platform that teaches core machine learning algorithms through hands-on, interactive visualizations with no setup.",
+      "section": [
+        "Training Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate",
+      "name": "AgentFEM Simulation-to-Surrogate Mini-Lab",
+      "url": "https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate/",
+      "description": "Compare raw and physics-informed features in a NumPy regression exercise using ten finite-element cases and a held-out split.",
       "section": [
         "Training Resources",
         "Tutorials"

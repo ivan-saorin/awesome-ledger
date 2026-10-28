@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"41ca16858a9568d3a4340dbcc174eeb9129cd0e5584c6a0dd09375466438f0cc\"",
+  "etag": "W/\"cb0f3386094042fb4de6f202e23278f1c723f8403cb20fcdf22dc4d8a0273145\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -327,6 +327,15 @@
       ]
     },
     {
+      "key": "https://github.com/straum-io/straum",
+      "name": "Straum",
+      "url": "https://github.com/straum-io/straum",
+      "description": "Experimental clustered MQTT 3.1.1 and 5 broker that acknowledges a publish only after a majority of its nodes has committed it.",
+      "section": [
+        "Brokers"
+      ]
+    },
+    {
       "key": "https://zhen.org/categories/surgemq",
       "name": "SurgeMQ",
       "url": "https://zhen.org/categories/surgemq/",
@@ -448,6 +457,15 @@
       "name": "CloudAMQP",
       "url": "https://www.cloudamqp.com/docs/mqtt.html",
       "description": "Hosted AMQP brokers with MQTT support.",
+      "section": [
+        "Cloud"
+      ]
+    },
+    {
+      "key": "https://connectmq.com",
+      "name": "ConnectMQ",
+      "url": "https://connectmq.com/",
+      "description": "Managed MQTT broker with MQTT 3.1.1 and 5.0, TLS, WebSockets and per-topic access control, no servers to run.",
       "section": [
         "Cloud"
       ]
@@ -930,6 +948,15 @@
       ]
     },
     {
+      "key": "https://github.com/unipsycho/topicbench",
+      "name": "TopicBench",
+      "url": "https://github.com/unipsycho/topicbench",
+      "description": "Free open-source multi-broker MQTT explorer and monitor desktop client, written in Rust.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/menudoproblema/Wireshark-MQTT",
       "name": "Wireshark-MQTT",
       "url": "https://github.com/menudoproblema/Wireshark-MQTT",
@@ -1007,6 +1034,16 @@
       "name": "mosquitto-clients",
       "url": "https://mosquitto.org/download/",
       "description": "mosquitto_pub and mosquitto_sub CLI clients for most operating systems and libmosquitto for integration.",
+      "section": [
+        "Clients",
+        "Multi-Platform"
+      ]
+    },
+    {
+      "key": "https://testmqtt.com",
+      "name": "TestMQTT",
+      "url": "https://testmqtt.com/",
+      "description": "Free browser-based MQTT client for testing any broker over WebSockets: connect, subscribe, publish and debug topics with no install or sign-up.",
       "section": [
         "Clients",
         "Multi-Platform"

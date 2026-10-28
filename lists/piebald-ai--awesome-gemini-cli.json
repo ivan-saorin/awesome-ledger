@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"676e67c5eeb961809cbfa658c7f0497ee7b1ad585075aa2eb504759194334498\"",
+  "etag": "W/\"80442ab957d95d19537da6ec62f0269de0096487086f96e14aca9189cb8af91c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -944,6 +944,15 @@
       "name": "Dex",
       "url": "https://github.com/exmergo/dex",
       "description": "Gemini CLI extension with three Agent Skills for analytics engineering: explore a warehouse or DuckDB file read-only (profiles, PII flags, verified joins), author dbt models and semantic layers as reviewable diffs, and detect schema drift. Install with gemini extensions install https://github.com/exmergo/dex; needs uv.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/uiverify/uiverify",
+      "name": "UI Verify",
+      "url": "https://github.com/uiverify/uiverify",
+      "description": "Visual testing for coding agents: your agent sees every UI change it makes, so visual bugs never reach production. Gemini CLI extension with 9 Agent Skills (set up visual regression tests for Storybook, Playwright and Vitest, keep captures deterministic, triage a build's changes) and the hosted UI Verify MCP server (15 tools) that shows the agent each change as a before and after against the baseline and lets it accept the intended ones. OAuth login in the browser, no API key in config. Skills are MIT; the service is hosted, free for 10,000 snapshots a month and 50,000 for open-source projects. Install with gemini extensions install https://github.com/uiverify/uiverify, then run /mcp auth uiverify.",
       "section": [
         "Commands & Extensions"
       ]
@@ -2339,6 +2348,33 @@
       "name": "BrewPage",
       "url": "https://github.com/kochetkov-ma/brewpage-openapi",
       "description": "MCP server for brewpage.app, free hosting with no account: Gemini CLI publishes HTML, Markdown, files, multi-file static sites, JSON and key-value data and gets a shareable link back (20 tools). Connect to the remote endpoint https://brewpage.app/mcp (no auth) or install the extension with gemini extensions install https://github.com/kochetkov-ma/brewpage-openapi. Content expires after 15 days by default (up to 30).",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/modelsalt/model-salt",
+      "name": "Model Salt",
+      "url": "https://github.com/modelsalt/model-salt",
+      "description": "MCP server that gives the model randomness from outside it, so one prompt gives different pictures, stories, names and designs that still do what you asked. One tool, model_salt; add it with npx -y model-salt setup gemini. MIT.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/landedjobs/landed-mcp",
+      "name": "Landed MCP",
+      "url": "https://github.com/landedjobs/landed-mcp",
+      "description": "Hosted MCP server for job search in Gemini CLI: rank AI and tech jobs against a role brief, read application forms, and fetch interview prep. No key needed.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://neverapply.co/features/mcp",
+      "name": "NeverApply",
+      "url": "https://neverapply.co/features/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Hosted job-search MCP server for Gemini CLI: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval. Remote Streamable HTTP with OAuth sign-in, no API key; free plan available. Add with: gemini mcp add --transport http neverapply https://neverapply.co/mcp.",
       "section": [
         "MCP Servers"
       ]
