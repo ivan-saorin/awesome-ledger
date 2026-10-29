@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cb0f3386094042fb4de6f202e23278f1c723f8403cb20fcdf22dc4d8a0273145\"",
+  "etag": "W/\"ef24e8ca15149e420d5b5d6c1149917628f5babfce741f817dd2bbdc4017826e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2455,6 +2455,16 @@
       "name": "mqtt-dmx-sequencer",
       "url": "https://github.com/hobbyquaker/mqtt-dmx-sequencer",
       "description": "Headless counterpart to MQTT DMX Controller - use scenes and sequences exported from the MQTT DMX Controller and control them via MQTT.",
+      "section": [
+        "Interfaces",
+        "Lighting"
+      ]
+    },
+    {
+      "key": "https://github.com/boesec/nanoleaf2mqtt",
+      "name": "nanoleaf2mqtt",
+      "url": "https://github.com/boesec/nanoleaf2mqtt",
+      "description": "Interface between Nanoleaf light panels and MQTT.",
       "section": [
         "Interfaces",
         "Lighting"

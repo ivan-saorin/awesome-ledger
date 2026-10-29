@@ -1,6 +1,1104 @@
 {
-  "etag": "W/\"d6b52c98caa20d221dce46c84e246d730fa278bc954f291aa594dfd54b2d0789\"",
-  "readme_path": "readme.md",
+  "etag": "W/\"569e09849574d2ce48242c59f3acbbba9f9d35cba968017279db1549bfedaae1\"",
+  "readme_path": "README.md",
   "misses": 0,
-  "entries": []
+  "entries": [
+    {
+      "key": "https://khanacademy.org/computing/computer-science/algorithms",
+      "name": "Algorithms",
+      "url": "https://www.khanacademy.org/computing/computer-science/algorithms",
+      "description": "Khan Academy / Free unit co-written with Thomas Cormen; articles and JavaScript challenges on sorting, recursion and graphs.",
+      "section": [
+        "Courses",
+        "Introductory"
+      ]
+    },
+    {
+      "key": "https://geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms",
+      "name": "DSA Tutorial",
+      "url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "description": "Geeks for Geeks / Free roadmap of articles and practice problems from arrays and sorting to graphs, DP and segment trees.",
+      "section": [
+        "Courses",
+        "Introductory"
+      ]
+    },
+    {
+      "key": "https://inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C",
+      "name": "Algorithm course for smart programming",
+      "url": "https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C",
+      "description": "Korean / Inflearn / Free 55-lecture course by Prof. Oheum Kwon on recursion, sorting, trees, hashing, graphs and DP.",
+      "section": [
+        "Courses",
+        "Introductory"
+      ]
+    },
+    {
+      "key": "https://classcentral.com/subject/algorithms-and-data-structures",
+      "name": "Algorithms and Data Structures",
+      "url": "https://www.classcentral.com/subject/algorithms-and-data-structures",
+      "description": "Class Central / Searchable catalog of hundreds of free and paid online courses on the subject, with reviews.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://edx.org/learn/algorithms/iitbombay-algorithms",
+      "name": "Algorithms",
+      "url": "https://www.edx.org/learn/algorithms/iitbombay-algorithms",
+      "description": "edX(IITBombay) / Six-week course on sorting, order statistics, string, geometric and graph algorithms; free to audit.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://udacity.com/course/intro-to-algorithms--cs215",
+      "name": "Intro to Algorithms",
+      "url": "https://www.udacity.com/course/intro-to-algorithms--cs215",
+      "description": "Udacity / Free self-paced course by Michael Littman that teaches graph algorithms and growth rates through social-network analysis.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020",
+      "name": "Introduction to Algorithms, 2020",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "description": "MIT OCW / Undergraduate 6.006 by Demaine, Ku and Solomon; lecture videos, notes, problem sets and exams with solutions.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015",
+      "name": "Design and Analysis of Algorithms, 2015",
+      "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+      "description": "MIT OCW / Undergraduate 6.046J on divide and conquer, DP, randomization and complexity; videos, notes and exams.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011",
+      "name": "Introduction to Algorithms, 2011",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/",
+      "description": "MIT OCW / Earlier run of 6.006 by Demaine and Devadas; lecture and recitation videos, notes, Python assignments and exams.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://erikdemaine.org/classes",
+      "name": "Classes and Teaching by Erik Demaine",
+      "url": "https://erikdemaine.org/classes/",
+      "description": "MIT(Lecture notes) / Index of Erik Demaine's courses such as 6.006, 6.046 and 6.851, with lecture videos and notes.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://people.eecs.berkeley.edu/~jrs/170",
+      "name": "Efficient Algorithms and Intractable Problems, 2001",
+      "url": "https://people.eecs.berkeley.edu/~jrs/170/",
+      "description": "UC Berkeley(Lecture notes) / CS 170 by Demmel and Shewchuk; notes and homework on graphs, DP, network flow and NP-completeness.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://people.eecs.berkeley.edu/~jrs/61b",
+      "name": "Data Structures, 2014",
+      "url": "https://people.eecs.berkeley.edu/~jrs/61b/",
+      "description": "UC Berkeley(Lecture notes) / CS 61B by Jonathan Shewchuk; Java-based notes, videos, labs and projects on core data structures.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://coursera.org/learn/algorithms-part1",
+      "name": "Algorithms, Part I",
+      "url": "https://www.coursera.org/learn/algorithms-part1",
+      "description": "Coursera(Princeton University) / Sedgewick and Wayne's free Java course on sorting, searching and elementary data structures.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://coursera.org/learn/algorithms-part2",
+      "name": "Algorithms, Part II",
+      "url": "https://www.coursera.org/learn/algorithms-part2",
+      "description": "Coursera(Princeton University) / Sedgewick and Wayne's free Java course on graph and string algorithms, compression and intractability.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://usaco.guide",
+      "name": "USACO Guide",
+      "url": "https://usaco.guide",
+      "description": "Free structured curriculum for competitive programming, from Bronze to Platinum.",
+      "section": [
+        "Courses",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://pll.harvard.edu/course/data-structures-and-algorithms",
+      "name": "Data Structures and Algorithms",
+      "url": "https://pll.harvard.edu/course/data-structures-and-algorithms",
+      "description": "Paid Content. / Harvard University / Extension School course by Michael Mitzenmacher on graph, approximation and randomized algorithms.",
+      "section": [
+        "Courses",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://coursera.org/specializations/algorithms",
+      "name": "Algorithms Specialization",
+      "url": "https://www.coursera.org/specializations/algorithms",
+      "description": "Paid Content. / Coursera(Stanford University) / Tim Roughgarden's four-course series on divide and conquer, graphs, greedy, DP and NP-completeness.",
+      "section": [
+        "Courses",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://hackerrank.com/domains/algorithms",
+      "name": "HackerRank",
+      "url": "https://www.hackerrank.com/domains/algorithms",
+      "description": "Algorithm practice track with problems grouped by topic, from warmup to dynamic programming.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://app.codility.com/programmers",
+      "name": "Codility",
+      "url": "https://app.codility.com/programmers",
+      "description": "Free lessons with practice tasks on time complexity, prefix sums, sorting and more.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://topcoder.com",
+      "name": "Topcoder",
+      "url": "https://www.topcoder.com",
+      "description": "Long-running Single Round Matches (SRMs) with a problem archive and editorials.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://codewars.com",
+      "name": "Codewars",
+      "url": "https://www.codewars.com",
+      "description": "Community-made kata for practicing in over 55 programming languages.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://codechef.com",
+      "name": "CodeChef",
+      "url": "https://www.codechef.com",
+      "description": "Practice problems and regular rated contests.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://codeforces.com",
+      "name": "Codeforces",
+      "url": "https://codeforces.com",
+      "description": "English, Russian / Rated rounds about once a week plus Educational rounds, a large problem archive and community blogs.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://atcoder.jp",
+      "name": "AtCoder",
+      "url": "https://atcoder.jp",
+      "description": "English, Japanese / Weekly Beginner Contests plus Regular, Grand and Heuristic contests, run by AtCoder Inc. in Japan.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://onlinejudge.org",
+      "name": "UVa Online Judge",
+      "url": "https://onlinejudge.org",
+      "description": "Classic problem archive with the uHunt progress tracker and the ICPC Live Archive.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://icpc.kattis.com",
+      "name": "ICPC Problem Archive",
+      "url": "https://icpc.kattis.com",
+      "description": "Kattis / Problems from recent ICPC World Finals, grouped by difficulty and judged on Kattis.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://csacademy.com",
+      "name": "CS Academy",
+      "url": "https://csacademy.com",
+      "description": "English, Russian, Arabic / Timed rounds with dynamic scoring plus built-in tools such as a graph editor and geometry tool.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://cses.fi/problemset",
+      "name": "CSES Problem Set",
+      "url": "https://cses.fi/problemset/",
+      "description": "Problem collection grouped by topic, from introductory problems to advanced techniques.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://coderbyte.com",
+      "name": "Coderbyte",
+      "url": "https://coderbyte.com",
+      "description": "Coding challenges with video solutions; now primarily a candidate assessment platform.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://hackerearth.com",
+      "name": "HackerEarth",
+      "url": "https://www.hackerearth.com",
+      "description": "Practice section for basic programming, data structures, algorithms and math, alongside hiring assessments.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://infoarena.ro",
+      "name": "Infoarena",
+      "url": "https://www.infoarena.ro",
+      "description": "Romanian / Community judge with main, educational, monthly and ACM archives, contests and ratings.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://open.kattis.com",
+      "name": "Kattis",
+      "url": "https://open.kattis.com",
+      "description": "Problem archive with thousands of problems and difficulty scores.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://learneroo.com/subjects/8",
+      "name": "Learneroo Algorithms Tutorials",
+      "url": "https://www.learneroo.com/subjects/8",
+      "description": "Tutorials that teach algorithms and data structures by solving challenges.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://leetcode.com/problemset",
+      "name": "LeetCode",
+      "url": "https://leetcode.com/problemset/",
+      "description": "English, Chinese / Interview-style problem bank tagged by topic and difficulty, with weekly and biweekly contests.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://rosalind.info/problems/locations",
+      "name": "Rosalind",
+      "url": "https://rosalind.info/problems/locations/",
+      "description": "Bioinformatics and programming problems, starting with a Python Village for beginners.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://snakify.org",
+      "name": "Snakify",
+      "url": "https://snakify.org",
+      "description": "Python 3 course for beginners with over 100 exercises.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://spoj.com",
+      "name": "Sphere Online Judge (SPOJ)",
+      "url": "https://www.spoj.com",
+      "description": "Large archive of classical problems with support for many programming languages.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://judge.beecrowd.com",
+      "name": "beecrowd",
+      "url": "https://judge.beecrowd.com",
+      "description": "English, Spanish, Brazilian Portuguese / Large problem archive with contests, formerly URI Online Judge.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://poj.org",
+      "name": "PKU JudgeOnline",
+      "url": "http://poj.org",
+      "description": "English, Chinese / Peking University judge with a large archive drawn from regional contests, plus monthly contests.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://onlinejudge.u-aizu.ac.jp",
+      "name": "Aizu Online Judge",
+      "url": "https://onlinejudge.u-aizu.ac.jp",
+      "description": "English, Japanese / Free judge run by the University of Aizu with over 2,000 problems from ICPC, JOI, PCK and introductory courses.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://projecteuler.net",
+      "name": "Project Euler",
+      "url": "https://projecteuler.net",
+      "description": "Mathematical problems that need both insight and programming to solve.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://adventofcode.com",
+      "name": "Advent of Code",
+      "url": "https://adventofcode.com",
+      "description": "Annual December puzzle calendar with a new problem each day.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://euler.synap.co.kr",
+      "name": "Project Euler @kr",
+      "url": "https://euler.synap.co.kr",
+      "description": "Korean / Translation of the Project Euler problems.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://acmicpc.net",
+      "name": "Baekjoon",
+      "url": "https://www.acmicpc.net",
+      "description": "Korean / The most widely used Korean online judge.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://solved.ac",
+      "name": "solved.ac",
+      "url": "https://solved.ac",
+      "description": "Korean / Difficulty tiers and problem recommendations for Baekjoon.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://algospot.com",
+      "name": "Algospot",
+      "url": "https://algospot.com",
+      "description": "Korean / Online judge and community run by the author of Algorithmic Problem Solving Strategies.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://jungol.co.kr",
+      "name": "JUNGOL",
+      "url": "https://jungol.co.kr",
+      "description": "Korean / Online judge for Korea Olympiad in Informatics preparation.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://koistudy.net",
+      "name": "Koistudy",
+      "url": "https://koistudy.net",
+      "description": "Korean / Online judge with problem sets sorted by algorithm and tier, plus contests.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://codeup.kr",
+      "name": "CodeUp",
+      "url": "https://codeup.kr",
+      "description": "Korean / Online judge aimed at programming beginners.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://codingdojang.com",
+      "name": "Codingdojang",
+      "url": "https://codingdojang.com",
+      "description": "Korean / Problem-solving practice site for sharpening coding skills.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://school.programmers.co.kr/learn/challenges",
+      "name": "Programmers",
+      "url": "https://school.programmers.co.kr/learn/challenges",
+      "description": "Korean / Coding test practice problems for job preparation.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://codeground.org",
+      "name": "Codeground",
+      "url": "https://www.codeground.org",
+      "description": "English, Korean / Samsung-run platform with practice problems, user-created OpenRound contests and the SCPC collegiate contest.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://swexpertacademy.com",
+      "name": "SW Expert Academy",
+      "url": "https://swexpertacademy.com",
+      "description": "Korean / Samsung's learning platform with problems and courses for software skills.",
+      "section": [
+        "Competitive programming"
+      ]
+    },
+    {
+      "key": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+      "name": "Algorithm Visualizer",
+      "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+      "description": "Interactive platform that visualizes algorithms from code.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://workshape.github.io/visual-graph-algorithms",
+      "name": "A Visual Guide to Graph Traversal Algorithms",
+      "url": "https://workshape.github.io/visual-graph-algorithms/",
+      "description": "Interactive DFS and BFS explanations by Workshape.io.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://visualgo.net",
+      "name": "VisuAlgo",
+      "url": "https://visualgo.net",
+      "description": "English, Chinese, Indonesian / Animated visualizations of 24 data structure and algorithm modules with quizzes, by Steven Halim of NUS.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://bost.ocks.org/mike/algorithms",
+      "name": "Algorithms Visualization",
+      "url": "https://bost.ocks.org/mike/algorithms/",
+      "description": "Mike Bostock's essay on visualizing sampling, shuffling, sorting and maze generation.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://cs.usfca.edu/~galles/visualization/Algorithms.html",
+      "name": "Data Structure Visualizations",
+      "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+      "description": "Interactive animations by David Galles, University of San Francisco.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://toptal.com/developers/sorting-algorithms",
+      "name": "Sorting Algorithms Animations",
+      "url": "https://www.toptal.com/developers/sorting-algorithms",
+      "description": "Side-by-side animations comparing sorting algorithms, hosted by Toptal.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://qiao.github.io/PathFinding.js/visual",
+      "name": "Path Finding",
+      "url": "https://qiao.github.io/PathFinding.js/visual/",
+      "description": "Interactive grid demo of A*, Dijkstra, BFS, Jump Point Search and other pathfinding algorithms.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://redblobgames.com/pathfinding/a-star/introduction.html",
+      "name": "Introduction to the A* Algorithm",
+      "url": "https://www.redblobgames.com/pathfinding/a-star/introduction.html",
+      "description": "Red Blob Games / Interactive tutorial by Amit Patel that builds A* up from breadth-first search, Dijkstra and greedy best-first.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://pythontutor.com",
+      "name": "Python Tutor",
+      "url": "https://pythontutor.com",
+      "description": "Step-by-step visual execution of Python, JavaScript, C, C++ and Java code.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://thimbleby.net/algorithms",
+      "name": "Algorithm Wiki by Will Thimbleby",
+      "url": "https://thimbleby.net/algorithms/",
+      "description": "Interactive wiki whose visualisations run from real JavaScript implementations.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://playground.tensorflow.org",
+      "name": "TensorFlow Playground",
+      "url": "http://playground.tensorflow.org",
+      "description": "Browser demo for tinkering with a small neural network.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://github.com/enjalot/algovis",
+      "name": "Algovis",
+      "url": "https://github.com/enjalot/algovis",
+      "description": "Curated list by enjalot of algorithm-visualization projects and tools such as Tailspin, Vamonos and Tangle.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://rosulek.github.io/vamonos",
+      "name": "Vamonos",
+      "url": "http://rosulek.github.io/vamonos",
+      "description": "JavaScript Programming Language / Oregon State library for browser visualizations of array and graph algorithms with breakpoints and step-back.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://panthema.net/2013/sound-of-sorting",
+      "name": "The Sound of Sorting",
+      "url": "https://panthema.net/2013/sound-of-sorting/",
+      "description": "C ++ Programming Language / Timo Bingmann's demo that draws and plays a tone for each comparison across dozens of sorting algorithms.",
+      "section": [
+        "Visualizations"
+      ]
+    },
+    {
+      "key": "https://interviewcake.com",
+      "name": "Interview Cake",
+      "url": "https://www.interviewcake.com",
+      "description": "Practice programming interview questions with worked solutions.",
+      "section": [
+        "Interviews"
+      ]
+    },
+    {
+      "key": "https://interviewbit.com",
+      "name": "InterviewBit",
+      "url": "https://www.interviewbit.com",
+      "description": "Practice coding interview questions organised by topic.",
+      "section": [
+        "Interviews"
+      ]
+    },
+    {
+      "key": "https://neetcode.io",
+      "name": "NeetCode",
+      "url": "https://neetcode.io",
+      "description": "Curated problem roadmap with video explanations.",
+      "section": [
+        "Interviews"
+      ]
+    },
+    {
+      "key": "https://github.com/kdn251/interviews",
+      "name": "Software Engineering technical interviews",
+      "url": "https://github.com/kdn251/interviews",
+      "description": "Study guide covering data structures, algorithms, runtime analysis, video lectures and interview books.",
+      "section": [
+        "Interviews"
+      ]
+    },
+    {
+      "key": "https://techinterviewhandbook.org",
+      "name": "Tech Interview Handbook",
+      "url": "https://www.techinterviewhandbook.org",
+      "description": "Free curated interview preparation materials, including the Blind 75 and Grind 75 question lists.",
+      "section": [
+        "Interviews"
+      ]
+    },
+    {
+      "key": "https://github.com/jwasham/coding-interview-university",
+      "name": "Coding Interview University",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "Multi-month computer science study plan for becoming a software engineer.",
+      "section": [
+        "Interviews"
+      ]
+    },
+    {
+      "key": "https://github.com/donnemartin/interactive-coding-challenges",
+      "name": "Interactive Python coding interview challenges",
+      "url": "https://github.com/donnemartin/interactive-coding-challenges",
+      "description": "Over 120 algorithm and data structure challenges in Jupyter notebooks, with solutions and Anki flashcards.",
+      "section": [
+        "Interviews"
+      ]
+    },
+    {
+      "key": "https://ted.com/talks/kevin_slavin_how_algorithms_shape_our_world",
+      "name": "How algorithms shape our world",
+      "url": "https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world",
+      "description": "Kevin Slavin / 2011 TED talk on how trading, espionage and recommendation algorithms shape everyday life.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "name": "Algorithms",
+      "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "description": "Abdul Bari / 84 beginner lectures from complexity analysis through divide and conquer, greedy and dynamic programming.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PL01A89F4E9E5F3ADE",
+      "name": "Algorithms",
+      "url": "https://www.youtube.com/playlist?list=PL01A89F4E9E5F3ADE",
+      "description": "Oresoft LWC / About 100 short beginner videos by Omkar Deshpande on asymptotic notation, sorting, searching and GATE problems.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLD9781AC5EBC9FA16",
+      "name": "Computer Sc - Programming and Data Structure",
+      "url": "https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16",
+      "description": "Nptelhrd / 32 IIT Kharagpur lectures by P.P. Chakraborty on C programming, recursion, linked lists, trees and graphs.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY",
+      "name": "Introduction to Algorithms, 2020",
+      "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY",
+      "description": "MIT 6.006 / 32 undergraduate lectures and problem sessions by Demaine, Ku and Solomon on sorting, trees, graphs and DP.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp",
+      "name": "Design and Analysis of Algorithms, 2015",
+      "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp",
+      "description": "MIT 6.046J / 34 advanced lectures and recitations by Demaine, Devadas and Lynch on randomization, flows and NP-completeness.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+      "name": "Introduction to Algorithms, 2011",
+      "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+      "description": "MIT 6.006 / 47 lectures and recitations by Devadas and Demaine on sorting, hashing, graph search, shortest paths and DP.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/es2T6KY45cA",
+      "name": "Merge Sort vs Quick Sort",
+      "url": "https://youtu.be/es2T6KY45cA",
+      "description": "Animated comparison by udiprod.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtu.be/kPRA0W1kECg",
+      "name": "15 Sorting Algorithms in 6 Minutes",
+      "url": "https://youtu.be/kPRA0W1kECg",
+      "description": "Timo Bingmann / Six-minute video that visualizes and sonifies 15 sorting algorithms, from quicksort and merge sort to bogo sort.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/user/AlgoRythmics/videos",
+      "name": "AlgoRythmics",
+      "url": "https://www.youtube.com/user/AlgoRythmics/videos",
+      "description": "Sapientia University / 14 videos in which folk dancers act out sorting and searching algorithms such as bubble, quick and merge sort.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://github.com/liuxinyu95/AlgoXY",
+      "name": "Elementary Algorithms",
+      "url": "https://github.com/liuxinyu95/AlgoXY",
+      "description": "Free book of functional algorithms and data structures with 120 exercises, in English and Chinese.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html",
+      "name": "Data Structures and Algorithms",
+      "url": "https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html",
+      "description": "The Basic Toolbox by Mehlhorn and Sanders, with chapter PDFs available for download.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://jeffe.cs.illinois.edu/teaching/algorithms",
+      "name": "Algorithms by Jeff Erickson",
+      "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/",
+      "description": "Free textbook and lecture notes from the University of Illinois.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://cses.fi/book/book.pdf",
+      "name": "Competitive Programmer's Handbook",
+      "url": "https://cses.fi/book/book.pdf",
+      "description": "Free / Antti Laaksonen / About 300 pages introducing competitive programming, from sorting and DP to graphs, number theory and geometry.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://opendatastructures.org",
+      "name": "Open Data Structures",
+      "url": "https://opendatastructures.org",
+      "description": "Free / Pat Morin's open textbook on lists, hash tables, search trees, heaps and graphs in Java, C++ and pseudocode editions.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://hello-algo.com/en",
+      "name": "Hello Algo",
+      "url": "https://www.hello-algo.com/en/",
+      "description": "Free / English, Chinese, Japanese and more / Beginner tutorial by krahets with animated illustrations and runnable code in 14 languages.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://crackingthecodinginterview.com",
+      "name": "Cracking the Coding Interview",
+      "url": "https://www.crackingthecodinginterview.com",
+      "description": "Gayle Laakmann McDowell's interview preparation book with 189 questions; solutions on GitHub, author on Quora.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://pearson.com/en-us/subject-catalog/p/Kleinberg-Algorithm-Design/P200000003259",
+      "name": "Algorithm Design",
+      "url": "https://www.pearson.com/en-us/subject-catalog/p/Kleinberg-Algorithm-Design/P200000003259",
+      "description": "Textbook by Jon Kleinberg and Éva Tardos, published by Pearson.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://algs4.cs.princeton.edu/home",
+      "name": "Algorithms",
+      "url": "https://algs4.cs.princeton.edu/home/",
+      "description": "Fourth edition by Robert Sedgewick and Kevin Wayne, with the book site's code and exercises.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://mitpress.mit.edu/9780262046305/introduction-to-algorithms",
+      "name": "Introduction to Algorithms",
+      "url": "https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/",
+      "description": "Fourth edition of the CLRS textbook by Cormen, Leiserson, Rivest and Stein.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://manning.com/books/grokking-algorithms",
+      "name": "Grokking Algorithms",
+      "url": "https://www.manning.com/books/grokking-algorithms",
+      "description": "Illustrated, beginner-friendly guide by Aditya Bhargava, published by Manning.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://book.algospot.com",
+      "name": "Algorithmic Problem Solving Strategies",
+      "url": "https://book.algospot.com",
+      "description": "Korean / Textbook by Jongman Koo that teaches algorithm design through contest problems.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://cp-algorithms.com",
+      "name": "Algorithms for Competitive Programming",
+      "url": "https://cp-algorithms.com",
+      "description": "English translation of the e-maxx algorithm articles.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://bigocheatsheet.com",
+      "name": "Big-O Cheat Sheet",
+      "url": "https://www.bigocheatsheet.com",
+      "description": "Time and space complexities of common data structure operations and sorting algorithms, by Eric Rowell.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://stoimen.com/category/algorithms",
+      "name": "stoimen's web log",
+      "url": "http://www.stoimen.com/category/algorithms",
+      "description": "Blog series on classic algorithms and data structures.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners",
+      "name": "What are the best and efficient ways to learn algorithms for beginners?",
+      "url": "https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners",
+      "description": "Quora / Community answers recommending fundamentals first, textbook study and steady practice on online judges.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://quora.com/What-are-the-best-books-on-algorithms-and-data-structures",
+      "name": "What are the best books on algorithms and data structures?",
+      "url": "https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures",
+      "description": "Quora / Community answers that mostly point to CLRS, with Sedgewick, Skiena and Manber as alternatives.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://d2.naver.com/news/4850628",
+      "name": "NEXTERS algorithm study notes",
+      "url": "https://d2.naver.com/news/4850628",
+      "description": "Korean / Study notes from the NEXTERS club, published on NAVER D2.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://icpc.global",
+      "name": "ICPC",
+      "url": "https://icpc.global",
+      "description": "The International Collegiate Programming Contest, the oldest and largest team programming competition for university students.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://ioinformatics.org",
+      "name": "IOI",
+      "url": "https://ioinformatics.org",
+      "description": "The International Olympiad in Informatics, the annual algorithmic competition for secondary school students.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://facebook.com/codingcompetitions/hacker-cup",
+      "name": "Meta Hacker Cup",
+      "url": "https://www.facebook.com/codingcompetitions/hacker-cup",
+      "description": "Meta's annual open programming competition.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://atcoder.jp/contests",
+      "name": "AtCoder Contests",
+      "url": "https://atcoder.jp/contests/",
+      "description": "Weekly rated contests for beginners to experts.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://codeforces.com/contests",
+      "name": "Codeforces Contests",
+      "url": "https://codeforces.com/contests",
+      "description": "Frequent rated rounds, the most active contest platform.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://github.com/google/coding-competitions-archive",
+      "name": "Google Coding Competitions Archive",
+      "url": "https://github.com/google/coding-competitions-archive",
+      "description": "Official archive of problems and solutions from Code Jam, Kick Start and Hash Code, which ended in 2023.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://summerofcode.withgoogle.com",
+      "name": "Google Summer of Code",
+      "url": "https://summerofcode.withgoogle.com",
+      "description": "Annual program that pairs students with open source organizations for a paid summer coding project.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://koi.or.kr",
+      "name": "KOI",
+      "url": "https://koi.or.kr",
+      "description": "Korean / Korea Olympiad in Informatics / Annual contest for elementary to high school students with an online first round and a second round for its medalists.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://ucpc.me",
+      "name": "UCPC",
+      "url": "https://ucpc.me",
+      "description": "Korean / Union of Collegiate Programming Contest clubs / Annual three-person team contest with an online qualifier and an on-site final.",
+      "section": [
+        "Competitions"
+      ]
+    },
+    {
+      "key": "https://github.com/TheAlgorithms",
+      "name": "The Algorithms",
+      "url": "https://github.com/TheAlgorithms",
+      "description": "Open-source implementations of algorithms in every major language.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://youtube.com/user/MIT/playlists",
+      "name": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/user/MIT/playlists",
+      "description": "YouTube playlists of full MIT course lectures.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/academic/awesome-datascience",
+      "name": "Awesome Data Science",
+      "url": "https://github.com/academic/awesome-datascience",
+      "description": "Curated list of data science learning resources.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/josephmisiti/awesome-machine-learning",
+      "name": "Awesome Machine Learning",
+      "url": "https://github.com/josephmisiti/awesome-machine-learning",
+      "description": "Curated list of machine learning frameworks, libraries and software by language.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://rosettacode.org/wiki/Rosetta_Code",
+      "name": "Rosetta Code",
+      "url": "https://rosettacode.org/wiki/Rosetta_Code",
+      "description": "Solutions to the same tasks in as many programming languages as possible, for comparing how languages differ.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://code.org",
+      "name": "Code.org",
+      "url": "https://code.org",
+      "description": "Nonprofit with a free K-12 computer science curriculum and the Hour of Code campaign.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://checkio.org",
+      "name": "CheckiO",
+      "url": "https://checkio.org",
+      "description": "Online game for Python and JavaScript coders.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/hustoj/hustoj-neo",
+      "name": "HUST Online Judge System",
+      "url": "https://github.com/hustoj/hustoj-neo",
+      "description": "PHP (Laravel) rewrite of the HUST judge that sends submissions to separate judge servers over RabbitMQ.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C",
+      "name": "Tech stack for Baekjoon online judge",
+      "url": "https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/",
+      "description": "Korean / Startlink's write-up of how the Baekjoon judge was built and which technologies it runs on.",
+      "section": [
+        "Miscellaneous"
+      ]
+    }
+  ]
 }

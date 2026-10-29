@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"375b4ee8e3cc2f9a1f213e4d14ce9bc200e8f5e1abbf53d10aadbffe3842bd1d\"",
+  "etag": "W/\"4e10ad733de9b6fbf2ef8c5a9f022f26361b0c2ea2a56e855c8a181f8e1924ee\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -121,9 +121,9 @@
       ]
     },
     {
-      "key": "https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp",
+      "key": "https://frontegg.com",
       "name": "FrontEgg",
-      "url": "https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp",
+      "url": "https://frontegg.com/",
       "description": "A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.",
       "section": [
         "OpenID Providers (OP)"
@@ -448,9 +448,9 @@
       ]
     },
     {
-      "key": "https://github.com/IdentityModel/IdentityModel.OidcClient",
-      "name": "IdentityModel.OidcClient",
-      "url": "https://github.com/IdentityModel/IdentityModel.OidcClient",
+      "key": "https://github.com/DuendeSoftware/foss",
+      "name": "Duende.IdentityModel.OidcClient",
+      "url": "https://github.com/DuendeSoftware/foss",
       "description": "C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.",
       "section": [
         "Relying Parties (RP) Libraries",
@@ -548,9 +548,9 @@
       ]
     },
     {
-      "key": "https://github.com/panva/node-openid-client",
+      "key": "https://github.com/panva/openid-client",
       "name": "openid-client",
-      "url": "https://github.com/panva/node-openid-client",
+      "url": "https://github.com/panva/openid-client",
       "description": "OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.",
       "section": [
         "Relying Parties (RP) Libraries",
@@ -745,9 +745,9 @@
       ]
     },
     {
-      "key": "https://docs.konghq.com/hub/kong-inc/openid-connect",
+      "key": "https://developer.konghq.com/plugins/openid-connect",
       "name": "Kong OpenID Connect",
-      "url": "https://docs.konghq.com/hub/kong-inc/openid-connect/",
+      "url": "https://developer.konghq.com/plugins/openid-connect/",
       "description": "OpenID Connect Relying Party plugin for the Kong API Gateway.",
       "section": [
         "Relying Parties (RP) Software Plugins"
@@ -1352,21 +1352,76 @@
       ]
     },
     {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-client-id-metadata-document-02",
-      "name": "OAuth Client ID Metadata Document",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-client-id-metadata-document-02",
-      "description": "Mechanism through which an OAuth client can identify itself to authorization servers, without prior dynamic client registration or other existing registration.",
-      "section": [
-        "Resources",
-        "Specifications",
-        "Draft"
-      ]
-    },
-    {
       "key": "https://datatracker.ietf.org/doc/html/rfc7592",
       "name": "OAuth 2.0 Dynamic Client Registration Management Protocol",
       "url": "https://datatracker.ietf.org/doc/html/rfc7592",
       "description": "Endpoints for management of OAuth 2.0 dynamic client registrations.",
+      "section": [
+        "Resources",
+        "Specifications",
+        "Published"
+      ]
+    },
+    {
+      "key": "https://openid.net/specs/openid-federation-1_0.html",
+      "name": "OpenID Connect Federation 1.0",
+      "url": "https://openid.net/specs/openid-federation-1_0.html",
+      "description": "Specifications for putting in place bilateral federations between organizations.",
+      "section": [
+        "Resources",
+        "Specifications",
+        "Published"
+      ]
+    },
+    {
+      "key": "https://openid.net/specs/authorization-api-1_0.html",
+      "name": "OpenID AuthZEN Authorization API 1.0",
+      "url": "https://openid.net/specs/authorization-api-1_0.html",
+      "description": "Standardized API for requesting access decisions from an authorization service in order to ease integration between services.",
+      "section": [
+        "Resources",
+        "Specifications",
+        "Published"
+      ]
+    },
+    {
+      "key": "https://openid.net/specs/openid-sharedsignals-framework-1_0.html",
+      "name": "OpenID Shared Signals Framework Specification 1.0",
+      "url": "https://openid.net/specs/openid-sharedsignals-framework-1_0.html",
+      "description": "Shared Signals Framework (SSF) enables sharing of signals and events between cooperating peers that enables multiple applications such as Risk Incident Sharing and Coordination (RISC) and the Continuous Access Evaluation Profile (CAEP).",
+      "section": [
+        "Resources",
+        "Specifications",
+        "Published"
+      ]
+    },
+    {
+      "key": "https://datatracker.ietf.org/doc/html/rfc10017",
+      "name": "OAuth 2.0 for Browser-Based Applications",
+      "url": "https://datatracker.ietf.org/doc/html/rfc10017",
+      "description": "Security and usability best practice for OAuth usage in Browser-based apps.",
+      "section": [
+        "Resources",
+        "Specifications",
+        "Published"
+      ]
+    },
+    {
+      "key": "https://datatracker.ietf.org/doc/html/rfc9901",
+      "name": "Selective Disclosure for JWTs (SD-JWT)",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9901",
+      "description": "Specification for selective disclosure of JWT elements.",
+      "section": [
+        "Resources",
+        "Specifications",
+        "Published"
+      ]
+    },
+    {
+      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-client-id-metadata-document-02",
+      "name": "OAuth Client ID Metadata Document",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-client-id-metadata-document-02",
+      "description": "Mechanism through which an OAuth client can identify itself to authorization servers, without prior dynamic client registration or other existing registration.",
       "section": [
         "Resources",
         "Specifications",
@@ -1385,28 +1440,6 @@
       ]
     },
     {
-      "key": "https://openid.net/specs/openid-federation-1_0.html",
-      "name": "OpenID Connect Federation 1.0",
-      "url": "https://openid.net/specs/openid-federation-1_0.html",
-      "description": "Draft specifications for putting in place bilateral federations between to organizations.",
-      "section": [
-        "Resources",
-        "Specifications",
-        "Draft"
-      ]
-    },
-    {
-      "key": "https://openid.net/specs/authorization-api-1_0-01.html",
-      "name": "OpenID AuthZEN",
-      "url": "https://openid.net/specs/authorization-api-1_0-01.html",
-      "description": "Standardized API for requesting access decisions from an authorization service in order to ease integration between services.",
-      "section": [
-        "Resources",
-        "Specifications",
-        "Draft"
-      ]
-    },
-    {
       "key": "https://openid.net/specs/openid-financial-api-ciba.html",
       "name": "Financial-grade API: Client Initiated Backchannel Authentication Profile",
       "url": "https://openid.net/specs/openid-financial-api-ciba.html",
@@ -1418,31 +1451,9 @@
       ]
     },
     {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps",
-      "name": "OAuth 2.0 for Browser-Based Apps",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps",
-      "description": "Security and usability best practice for OAuth usage in Browser-based apps.",
-      "section": [
-        "Resources",
-        "Specifications",
-        "Draft"
-      ]
-    },
-    {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt",
-      "name": "Selective Disclosure for JWTs (SD-JWT)",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt",
-      "description": "Specification for selective disclosure of JWT elements.",
-      "section": [
-        "Resources",
-        "Specifications",
-        "Draft"
-      ]
-    },
-    {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-13",
+      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1",
       "name": "OAuth 2.1",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-13",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1",
       "description": "Consolidation of OAuth 2.0 specifications into a single document, removing deprecated features and clarifying best practices.",
       "section": [
         "Resources",
@@ -1462,9 +1473,9 @@
       ]
     },
     {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07",
+      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth",
       "name": "OAuth 2.0 Attestation-Based Client Authentication",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth",
       "description": "Extension to OAuth 2.0 enabling public clients to authenticate using key-bound attestations.",
       "section": [
         "Resources",
@@ -1473,20 +1484,9 @@
       ]
     },
     {
-      "key": "https://openid.net/specs/openid-sharedsignals-framework-1_0-ID3.html",
-      "name": "OpenID Shared Signals Framework Specification 1.0",
-      "url": "https://openid.net/specs/openid-sharedsignals-framework-1_0-ID3.html",
-      "description": "Shared Signals Framework (SSF) enables sharing of signals and events between cooperating peers that enables multiple applications such as Risk Incident Sharing and Coordination (RISC) and the Continuous Access Evaluation Profile (CAEP).",
-      "section": [
-        "Resources",
-        "Specifications",
-        "Draft"
-      ]
-    },
-    {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant-03.html",
+      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant",
       "name": "Cross-App Access (XAA), formally known as the \"Identity Assertion Authorization Grant\"",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant-03.html",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant",
       "description": "Enables AI agents and apps to securely access and act across multiple services with user consent using standardized and fine-grained OAuth permissions.",
       "section": [
         "Resources",
@@ -1495,9 +1495,9 @@
       ]
     },
     {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-11",
+      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining",
       "name": "OAuth Identity and Authorization Chaining Across Domains",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-11",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining",
       "description": "Preserves user identity, authorization context, and call-chain history across multiple services and trust domains using OAuth token exchange and JWT-based assertions.",
       "section": [
         "Resources",
@@ -1506,9 +1506,9 @@
       ]
     },
     {
-      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps-04.html",
+      "key": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps",
       "name": "OAuth 2.0 for First-Party Applications",
-      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps-04.html",
+      "url": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps",
       "description": "Defines the Authorization Challenge Endpoint to enable native applications to obtain user authorization through native user interfaces.",
       "section": [
         "Resources",
@@ -1562,16 +1562,6 @@
       "name": "Aaron Parecki",
       "url": "https://aaronparecki.com/articles",
       "description": "OAuth WG Member blog posts about OAuth 2.0.",
-      "section": [
-        "Resources",
-        "Websites"
-      ]
-    },
-    {
-      "key": "https://alexbilbie.github.io/tag/oauth",
-      "name": "Alex Bilbie",
-      "url": "https://alexbilbie.github.io/tag/oauth/",
-      "description": "Blog posts about OAuth 2.0 topic.",
       "section": [
         "Resources",
         "Websites"

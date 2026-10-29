@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f1aced4ea796a946df2a6194240bbfe0575924e94f893fea78157e7961d33c50\"",
+  "etag": "W/\"3b6386a6cd80ad9a89a129fe01fbeb737ee886834b66c6579906ae843263f090\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2479,15 +2479,6 @@
       ]
     },
     {
-      "key": "https://github.com/whyboris/TypeScript-Call-Graph",
-      "name": "TypeScript Call Graph",
-      "url": "https://github.com/whyboris/TypeScript-Call-Graph",
-      "description": "CLI to generate an interactive graph of functions and calls from your TypeScript files",
-      "section": [
-        "Programming Languages"
-      ]
-    },
-    {
       "key": "https://github.com/typescript-eslint/typescript-eslint",
       "name": "TypeScript ESLint",
       "url": "https://github.com/typescript-eslint/typescript-eslint",
@@ -2992,15 +2983,6 @@
       ]
     },
     {
-      "key": "https://kaleidawave.github.io/posts/introducing-ezno",
-      "name": "ezno",
-      "url": "https://kaleidawave.github.io/posts/introducing-ezno/",
-      "description": "A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance. Ezno's type checker is built from scratch. The checker is fully compatible with TypeScript type annotations and can work without any type annotations at all.",
-      "section": [
-        "Multiple languages"
-      ]
-    },
-    {
       "key": "https://fallow.tools",
       "name": "Fallow",
       "url": "https://fallow.tools",
@@ -3023,6 +3005,15 @@
       "name": "Fortify",
       "url": "https://www.opentext.com/products/static-application-security-testing",
       "description": "copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://github.com/lambdasec/frame",
+      "name": "Frame",
+      "url": "https://github.com/lambdasec/frame",
+      "description": "Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.",
       "section": [
         "Multiple languages"
       ]
