@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"80442ab957d95d19537da6ec62f0269de0096487086f96e14aca9189cb8af91c\"",
+  "etag": "W/\"b463efab29694be779ffc90ccdec2285b0287b8b5399da6b4259250c14794c15\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -440,6 +440,24 @@
       "name": "LitGravity",
       "url": "https://github.com/wjgoarxiv/litgravity",
       "description": "Adds lit to the Antigravity CLI (agy) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://trymao.dev",
+      "name": "MAO",
+      "url": "https://trymao.dev/",
+      "description": "Native desktop canvas for macOS, Windows and Linux that runs Gemini CLI (0.41 or later) as a built-in agent alongside Claude Code, Codex, Grok, OpenCode, Antigravity and shell agents, each as a real terminal node on its own login. Wired agents hand each other tasks through the mao CLI, an Orchestrator agent can recruit and direct the others, and each layer is a git worktree whose diff you review and land from the canvas. Closed source; US$20 one-time, 7-day free trial.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/AixleHQ/flow",
+      "name": "Aixle Flow",
+      "url": "https://github.com/AixleHQ/flow",
+      "description": "Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -953,6 +971,15 @@
       "name": "UI Verify",
       "url": "https://github.com/uiverify/uiverify",
       "description": "Visual testing for coding agents: your agent sees every UI change it makes, so visual bugs never reach production. Gemini CLI extension with 9 Agent Skills (set up visual regression tests for Storybook, Playwright and Vitest, keep captures deterministic, triage a build's changes) and the hosted UI Verify MCP server (15 tools) that shows the agent each change as a before and after against the baseline and lets it accept the intended ones. OAuth login in the browser, no API key in config. Skills are MIT; the service is hosted, free for 10,000 snapshots a month and 50,000 for open-source projects. Install with gemini extensions install https://github.com/uiverify/uiverify, then run /mcp auth uiverify.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/budna-marketplace/recommerce",
+      "name": "Recommerce",
+      "url": "https://github.com/budna-marketplace/recommerce",
+      "description": "Agent Skills (SKILL.md) for second-hand purchases: compare listings, assemble kits, inspect items, plan collection, weigh keep vs. repair vs. replace, and recheck before committing. Read-only, no API key, never contacts sellers or buys. MIT. Install with npx skills add budna-marketplace/recommerce -y -a gemini-cli.",
       "section": [
         "Commands & Extensions"
       ]
@@ -1525,6 +1552,33 @@
       ]
     },
     {
+      "key": "https://github.com/DomitorAI/scarwise",
+      "name": "Scarwise",
+      "url": "https://github.com/DomitorAI/scarwise",
+      "description": "Gemini CLI hooks (BeforeTool/AfterTool) that learn from failed tool calls by themselves and stop a known mistake before it runs; what one agent learns protects your other agents (Claude Code, Codex, Cursor, OpenCode and more).",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/ajnart/self-host",
+      "name": "self-host",
+      "url": "https://github.com/ajnart/self-host",
+      "description": "Lets your agent install self-hosted apps on your own hardware and set them up (admin accounts, API keys, apps connected to each other), asking before each step.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/777genius/agent-notifications",
+      "name": "Agent Notifications",
+      "url": "https://github.com/777genius/agent-notifications",
+      "description": "Cross-platform desktop notifications and optional webhooks for Gemini CLI turn completion and tool permission requests. Also supports Claude Code, Codex CLI, OpenCode, Cursor CLI, and Qoder.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -1673,6 +1727,15 @@
       "name": "Exam Cram Coach",
       "url": "https://github.com/ZeKaiNie/universal-examprep-skill",
       "description": "Agent Skill for exam prep that runs in Gemini CLI and other agents (npx skills add ZeKaiNie/universal-examprep-skill). Teaches from a student's own lecture slides, notes and past papers with file and page citations, crops figures from the PDFs, quizzes only from their homework and past papers, and keeps progress across sessions. English and Chinese.",
+      "section": [
+        "Education & Study Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/GAURAV-1313/codecall",
+      "name": "codecall",
+      "url": "https://github.com/GAURAV-1313/codecall",
+      "description": "Agent Skill that runs in Gemini CLI and other agents (npx skills add GAURAV-1313/codecall). Quizzes you on the code your agent just wrote, traces one request flow file by file, or plants one bug for a debugging-interview drill and restores it with Git. No API key.",
       "section": [
         "Education & Study Tools"
       ]
@@ -2375,6 +2438,69 @@
       "name": "NeverApply",
       "url": "https://neverapply.co/features/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Hosted job-search MCP server for Gemini CLI: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval. Remote Streamable HTTP with OAuth sign-in, no API key; free plan available. Add with: gemini mcp add --transport http neverapply https://neverapply.co/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://carbonforge.dev/docs/p/guides/mcp-anonymous-access",
+      "name": "Carbon Forge",
+      "url": "https://carbonforge.dev/docs/p/guides/mcp-anonymous-access?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Hosted MCP server for source control and a shared record: Gemini CLI can read and write code, files and prose in one record on the server, open a lane instead of cloning, and land a change as one all-or-nothing changeset. Remote Streamable HTTP at https://carbonforge.dev/api/mcp; public workspaces read without a token, writing needs a bearer token.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://terastudio.co/ai-assistants",
+      "name": "Tera Studio",
+      "url": "https://terastudio.co/ai-assistants/",
+      "description": "Hosted MCP server for singers over remote Streamable HTTP, no key or sign-in: find_song_key looks up a well-known song's key, tempo and typical vocal range by title, and the other tools return links to free browser tools that find a song file's key and BPM or move it up to 6 semitones. Add with gemini mcp add --transport http tera-studio https://terastudio.co/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/mybolide/mcp-probe-kit",
+      "name": "MCP Probe Kit",
+      "url": "https://github.com/mybolide/mcp-probe-kit",
+      "description": "Diagnostics and self-test toolkit for MCP servers: enumerates every tool, resource and prompt, exercises them, and reports health, latency and schema drift between runs. Read-only against the target server, so you can point it at any server you connect Gemini CLI to and see what it actually exposes. MIT, npx -y mcp-probe-kit, official MCP Registry io.github.mybolide/mcp-probe-kit.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/mybolide/coding-tools-mcp",
+      "name": "Coding Tools MCP",
+      "url": "https://github.com/mybolide/coding-tools-mcp",
+      "description": "Desktop MCP workspace for coding agents: file edits, command execution, Git status and resumable history sessions behind one local stdio interface, so Gemini CLI gets project scaffolding and code search without four separate servers. Apache-2.0, official MCP Registry io.github.mybolide/coding-tools-mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/budna-marketplace/mcp",
+      "name": "Budna MCP",
+      "url": "https://github.com/budna-marketplace/mcp",
+      "description": "Read-only MCP server for Budna, a Swedish second-hand marketplace: search and inspect public listings, categories, filters, seller profiles, and bid and rating summaries from Gemini CLI. 11 tools, interactive listing cards in MCP Apps clients. Local stdio, no API key, no account. MIT. Run with npx --yes @budna-marketplace/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://bankbridge.money",
+      "name": "BankBridge",
+      "url": "https://bankbridge.money/?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Hosted MCP server that lets Gemini CLI answer questions about your own US bank, credit card and investment accounts: spending by category or merchant, recurring charges, monthly cashflow, holdings. 12 read-only tools, data fetched live on each call; it can't move money. Remote Streamable HTTP with OAuth sign-in. Paid, $5/mo per connected bank. Install: gemini extensions install https://github.com/bankbridge-money/bankbridge-plugin, then /mcp auth bankbridge.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/baccaraaa/tavero",
+      "name": "Tavero",
+      "url": "https://github.com/baccaraaa/tavero",
+      "description": "MCP server and CLI that finds UI inconsistencies (spacing, colors, typography, component drift) in running React apps and gives coding agents fixes with file/line references. Works with Gemini CLI as an MCP server. Run: npx -y tavero mcp. Free, MIT.",
       "section": [
         "MCP Servers"
       ]

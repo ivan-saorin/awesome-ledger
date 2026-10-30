@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ef24e8ca15149e420d5b5d6c1149917628f5babfce741f817dd2bbdc4017826e\"",
+  "etag": "W/\"ddae82884a3d513374ebc05193da99b1c289ee29da9a2675ccd2e8fcbebb4aaa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2195,6 +2195,16 @@
       "name": "mcsMQTT",
       "url": "https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3",
       "description": "Plug-in for HS3 (HomeSeer).",
+      "section": [
+        "Interfaces",
+        "Smart Home Hardware Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/hobbyquaker/mqtt2matter",
+      "name": "mqtt2matter",
+      "url": "https://github.com/hobbyquaker/mqtt2matter",
+      "description": "Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...",
       "section": [
         "Interfaces",
         "Smart Home Hardware Interfaces"

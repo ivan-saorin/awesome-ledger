@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"468973bed6e7a8c2fd98a67a143a72429053425754f29ba4e22d5ab36292ab37\"",
+  "etag": "W/\"a94f93b727b9746d7b976e5838f203f7169b53849217e271dc63caceadc2a154\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -478,6 +478,16 @@
       "name": "MockServer",
       "url": "https://github.com/mock-server/mockserver-monorepo",
       "description": "Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.",
+      "section": [
+        "Software",
+        "Service Virtualization"
+      ]
+    },
+    {
+      "key": "https://npmjs.com/package/s3-test-server",
+      "name": "s3-test-server",
+      "url": "https://www.npmjs.com/package/s3-test-server",
+      "description": "S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).",
       "section": [
         "Software",
         "Service Virtualization"
