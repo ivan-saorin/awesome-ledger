@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — static-analysis</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/analysis-tools-dev-static-analysis/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Fri, 30 Oct 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>tern — via static-analysis</title>
+<link>https://ternjs.github.io/</link>
+<guid isPermaLink="false">https://ternjs.github.io/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>A JavaScript code analyzer for deep, cross-editor language support.</description>
+</item>
+<item>
+<title>SonarQube for IDE — via static-analysis</title>
+<link>https://www.sonarsource.com/products/sonarqube/ide/</link>
+<guid isPermaLink="false">https://www.sonarsource.com/products/sonarqube/ide/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse, to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker. More than a linter, it also delivers rich contextual guidance to help developers understand why there is an issue, assess the risk, and educate them on how to fix it.</description>
+</item>
+<item>
+<title>IDA Free — via static-analysis</title>
+<link>https://hex-rays.com/ida-free</link>
+<guid isPermaLink="false">https://hex-rays.com/ida-free#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>copyright: — Binary code analysis tool.</description>
+</item>
+<item>
+<title>CodeQue — via static-analysis</title>
+<link>https://github.com/codeque-co/codeque</link>
+<guid isPermaLink="false">https://github.com/codeque-co/codeque#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Ecosystem for structural matching JavaScript and TypeScript code. Offers search tool that understands code structure. Available as CLI tool and Visual Studio Code extension. It helps to search code faster and more accurately making you workflow more effective. Soon it will offer ESLint plugin to create your own rules in minutes to help with assuring codebase quality.</description>
+</item>
+<item>
+<title>Frame — via static-analysis</title>
+<link>https://github.com/lambdasec/frame</link>
+<guid isPermaLink="false">https://github.com/lambdasec/frame#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.</description>
+</item>
+<item>
+<title>zanadir — via static-analysis</title>
+<link>https://mustachecase.github.io/</link>
+<guid isPermaLink="false">https://mustachecase.github.io/#2026-10-22</guid>
+<pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
+<description>Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.</description>
+</item>
+<item>
+<title>htmlbeautifier — via static-analysis</title>
+<link>https://github.com/threedaymonk/htmlbeautifier</link>
+<guid isPermaLink="false">https://github.com/threedaymonk/htmlbeautifier#2026-10-21</guid>
+<pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate>
+<description>A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.</description>
+</item>
+<item>
+<title>Prusti — via static-analysis</title>
+<link>https://www.pm.inf.ethz.ch/research/prusti.html</link>
+<guid isPermaLink="false">https://www.pm.inf.ethz.ch/research/prusti.html#2026-10-21</guid>
+<pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate>
+<description>A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.</description>
+</item>
+<item>
+<title>GitStats — via static-analysis</title>
+<link>https://github.com/shenxianpeng/gitstats</link>
+<guid isPermaLink="false">https://github.com/shenxianpeng/gitstats#2026-10-17</guid>
+<pubDate>Sat, 17 Oct 2026 06:00:00 +0000</pubDate>
+<description>Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.</description>
+</item>
+<item>
+<title>phploc — via static-analysis</title>
+<link>https://github.com/sebastianbergmann/phploc</link>
+<guid isPermaLink="false">https://github.com/sebastianbergmann/phploc#2026-10-16</guid>
+<pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+<description>A tool for quickly measuring the size and analyzing the structure of a PHP project.</description>
+</item>
+<item>
+<title>compose-lint — via static-analysis</title>
+<link>https://tmatens.github.io/compose-lint/</link>
+<guid isPermaLink="false">https://tmatens.github.io/compose-lint/#2026-10-16</guid>
+<pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+<description>Security linter for Docker Compose files. Checks compose.yaml against 27 rules taken from the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark: mounted Docker socket, privileged mode, missing no-new-privileges, extra capabilities, writable root filesystem, ports bound to all interfaces, credentials in environment variables, unpinned images. Each finding says how to fix it and which runtime error the fix can cause. JSON and SARIF output, a GitHub Action, and a dry-run auto-fix.</description>
+</item>
+<item>
+<title>Kimün — via static-analysis</title>
+<link>https://kimun.tools/en/</link>
+<guid isPermaLink="false">https://kimun.tools/en/#2026-10-14</guid>
+<pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
+<description>Code health metrics from the terminal. Grades a project from A++ to F-- on cognitive complexity, duplication, indentation, Halstead effort and file size, and lists the files to look at first. Separate commands report cyclomatic and cognitive complexity per function, duplicates, code smells and the Maintainability Index. From git history it finds hotspots, code ownership and temporal coupling, and measures which files a diff reaches. A CI gate fails when a changed file gets worse.</description>
+</item>
+<item>
+<title>ember-template-lint — via static-analysis</title>
+<link>https://github.com/ember-template-lint/ember-template-lint</link>
+<guid isPermaLink="false">https://github.com/ember-template-lint/ember-template-lint#2026-10-10</guid>
+<pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
+<description>Linter for Ember or Handlebars templates.</description>
+</item>
+<item>
+<title>Kin — via static-analysis</title>
+<link>https://kinlab.ai</link>
+<guid isPermaLink="false">https://kinlab.ai#2026-10-10</guid>
+<pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
+<description>A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.</description>
+</item>
+<item>
+<title>bashate — via static-analysis</title>
+<link>https://github.com/openstack/bashate</link>
+<guid isPermaLink="false">https://github.com/openstack/bashate#2026-10-09</guid>
+<pubDate>Fri, 9 Oct 2026 06:00:00 +0000</pubDate>
+<description>Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.</description>
+</item>
+<item>
+<title>LintLang — via static-analysis</title>
+<link>https://lintlang.ai/</link>
+<guid isPermaLink="false">https://lintlang.ai/#2026-09-19</guid>
+<pubDate>Sat, 19 Sep 2026 06:00:00 +0000</pubDate>
+<description>Static linter for natural-language instructions that control AI agents. Detects ambiguous tool descriptions, missing limits, conflicting directives, and schema gaps in local files and CI without model or network calls.</description>
+</item>
+<item>
+<title>skillsaw — via static-analysis</title>
+<link>https://skillsaw.org/</link>
+<guid isPermaLink="false">https://skillsaw.org/#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.</description>
+</item>
+<item>
+<title>ktfmt — via static-analysis</title>
+<link>https://kotlin.github.io/ktfmt/</link>
+<guid isPermaLink="false">https://kotlin.github.io/ktfmt/#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions. A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.</description>
+</item>
+<item>
+<title>dylint — via static-analysis</title>
+<link>https://blog.trailofbits.com/2021/11/09/write-rust-lints-without-forking-clippy/</link>
+<guid isPermaLink="false">https://blog.trailofbits.com/2021/11/09/write-rust-lints-without-forking-clippy/#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>A tool for running Rust lints from dynamic libraries. Dylint makes it easy for developers to maintain their own personal lint collections.</description>
+</item>
+<item>
+<title>cookstyle — via static-analysis</title>
+<link>https://docs.chef.io/workstation/cookstyle/</link>
+<guid isPermaLink="false">https://docs.chef.io/workstation/cookstyle/#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks.</description>
+</item>
+<item>
+<title>WAP — via static-analysis</title>
+<link>https://awap.sourceforge.net/</link>
+<guid isPermaLink="false">https://awap.sourceforge.net/#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives by combining static analysis and data mining.</description>
+</item>
+<item>
+<title>StaticReviewer — via static-analysis</title>
+<link>https://securityreviewer.net/kb/products</link>
+<guid isPermaLink="false">https://securityreviewer.net/kb/products#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>copyright: — Static Reviewer executes code checks according to the most relevant Secure Coding Standards, OWASP, CWE, CVE, CVSS, MISRA, CERT, for 40+ programming languages, using 1000+ built-in validation rules for Security, Deadcode &amp; Best Practices Available a module for Software Composition Analysis (SCA) to find vulnerabilities in open source and third party libraries.</description>
+</item>
+<item>
+<title>OpenTaint — via static-analysis</title>
+<link>https://opentaint.org</link>
+<guid isPermaLink="false">https://opentaint.org#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>Open-source taint analysis engine for Java and Kotlin applications, formerly Seqra. Tracks data flow across function boundaries to find security vulnerabilities, with Spring support, YAML rules, and CI integrations.</description>
+</item>
+<item>
+<title>Neurolint-CLI — via static-analysis</title>
+<link>https://github.com/Alcatecablee/Neurolint-CLI#readme</link>
+<guid isPermaLink="false">https://github.com/Alcatecablee/Neurolint-CLI#readme#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>Deterministic code transformation tool using AST parsing and rule-based transformations. Automatically fixes 50+ issues including accessibility violations, hydration errors, React 19/Next.js 16 migrations, and configuration updates. Features 5-step fail-safe orchestration to ensure zero breaking changes. Specialized for React, Next.js, and TypeScript projects.</description>
+</item>
+<item>
+<title>Fortify — via static-analysis</title>
+<link>https://www.opentext.com/products/static-application-security-testing</link>
+<guid isPermaLink="false">https://www.opentext.com/products/static-application-security-testing#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.</description>
+</item>
+<item>
+<title>DepWarden — via static-analysis</title>
+<link>https://depwarden.in</link>
+<guid isPermaLink="false">https://depwarden.in#2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+<description>copyright: — Free, anonymous SCA + SAST scanner. SCA: scans npm, PyPI, Maven, Go, Cargo, Ruby, NuGet dependencies for CVEs (OSV/KEV/EPSS), typosquats and supply-chain risk. SAST: pattern + taint analysis for 15 languages, 300+ rules. No account, no source upload. Available as a web tool, zero-install CLI and GitHub Action.</description>
+</item>
+<item>
+<title>pyflakes — via static-analysis</title>
+<link>https://pypi.org/project/pyflakes</link>
+<guid isPermaLink="false">https://pypi.org/project/pyflakes#2026-09-10</guid>
+<pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+<description>Check Python source files for errors.</description>
+</item>
+<item>
+<title>lint — via static-analysis</title>
+<link>https://github.com/passsy/dart-lint</link>
+<guid isPermaLink="false">https://github.com/passsy/dart-lint#2026-09-10</guid>
+<pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+<description>An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter</description>
+</item>
+<item>
+<title>scythe — via static-analysis</title>
+<link>https://github.com/Goldziher/scythe</link>
+<guid isPermaLink="false">https://github.com/Goldziher/scythe#2026-08-31</guid>
+<pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+<description>Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.</description>
+</item>
+<item>
+<title>radon — via static-analysis</title>
+<link>https://github.com/rubik/radon</link>
+<guid isPermaLink="false">https://github.com/rubik/radon#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>.</description>
+</item>
+<item>
+<title>pyre-check — via static-analysis</title>
+<link>https://pyre-check.org</link>
+<guid isPermaLink="false">https://pyre-check.org#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>A fast, scalable type checker for large Python codebases. Pyre-check has been superseded by Pyrefly, its next iteration.</description>
+</item>
+<item>
+<title>jscpd — via static-analysis</title>
+<link>https://jscpd.dev</link>
+<guid isPermaLink="false">https://jscpd.dev#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>Copy/paste detector for programming source code. Finds duplicated blocks in 200+ file formats — JavaScript, TypeScript, Python, Java, C#, C/C++, Go, Rust, PHP, Ruby and more — using token-based detection. Supports configurable thresholds and ignore patterns, git blame integration, and reporters for console, HTML, JSON, Markdown, SARIF and badges. Runs via CLI, in CI pipelines, or as a library; bundled by MegaLinter and Codacy.</description>
+</item>
+<item>
+<title>TencentCodeAnalysis — via static-analysis</title>
+<link>https://tca.tencent.com/</link>
+<guid isPermaLink="false">https://tca.tencent.com/#2026-08-30</guid>
+<pubDate>Sun, 30 Aug 2026 06:00:00 +0000</pubDate>
+<description>Tencent Cloud Code Analysis (TCA for short, code-named CodeDog inside the company early) is a comprehensive platform for code analysis and issue tracking. TCA consist of three components, server, web and client. It integrates of a number of self-developed tools, and also supports dynamic integration of code analysis tools in various programming languages.</description>
+</item>
+<item>
+<title>zizmor — via static-analysis</title>
+<link>https://zizmor.sh</link>
+<guid isPermaLink="false">https://zizmor.sh#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.</description>
+</item>
+<item>
+<title>yapf — via static-analysis</title>
+<link>https://github.com/google/yapf</link>
+<guid isPermaLink="false">https://github.com/google/yapf#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>A formatter for Python files created by Google YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.</description>
+</item>
+<item>
+<title>xenon — via static-analysis</title>
+<link>https://xenon.readthedocs.io</link>
+<guid isPermaLink="false">https://xenon.readthedocs.io#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Monitor code complexity using radon.</description>
+</item>
+<item>
+<title>write-good — via static-analysis</title>
+<link>https://github.com/btford/write-good</link>
+<guid isPermaLink="false">https://github.com/btford/write-good#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>A linter with a focus on eliminating &quot;weasel words&quot;.</description>
+</item>
+<item>
+<title>weave — via static-analysis</title>
+<link>https://github.com/Ataraxy-Labs/weave</link>
+<guid isPermaLink="false">https://github.com/Ataraxy-Labs/weave#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Entity-level semantic merge driver for git. Resolves false conflicts that line-based merge produces when independent changes touch the same file. Parses functions and classes via tree-sitter, matches by name, and merges at the entity level. Benchmarked at 100% clean merges vs git's 48% on a 31-scenario suite.</description>
+</item>
+<item>
+<title>warnalyzer — via static-analysis</title>
+<link>https://github.com/est31/warnalyzer</link>
+<guid isPermaLink="false">https://github.com/est31/warnalyzer#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Show unused code from multi-crate Rust projects</description>
+</item>
+<item>
+<title>vint — via static-analysis</title>
+<link>https://github.com/Kuniwak/vint</link>
+<guid isPermaLink="false">https://github.com/Kuniwak/vint#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Fast and Highly Extensible Vim script Language Lint implemented by Python.</description>
+</item>
+<item>
+<title>verible-linter-action — via static-analysis</title>
+<link>https://github.com/chipsalliance/verible-linter-action</link>
+<guid isPermaLink="false">https://github.com/chipsalliance/verible-linter-action#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines of code in Pull Requests automatically.</description>
+</item>
+<item>
+<title>vastlint — via static-analysis</title>
+<link>https://vastlint.org</link>
+<guid isPermaLink="false">https://vastlint.org#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>copyright: — Validator and linter for VAST XML ad tags. Checks wrappers and inline tags against the IAB VAST 2.0-4.3 specification and can auto-fix deterministic issues.</description>
+</item>
+<item>
+<title>trentclaw — via static-analysis</title>
+<link>https://trent.ai/</link>
+<guid isPermaLink="false">https://trent.ai/#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.</description>
+</item>
+<item>
+<title>thailint — via static-analysis</title>
+<link>https://thai-lint.readthedocs.io/</link>
+<guid isPermaLink="false">https://thai-lint.readthedocs.io/#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Multi-language linter targeting anti-patterns that appear disproportionately in AI-generated code: duplicated blocks across files, excessive nesting, magic numbers, Single Responsibility violations, and linter suppressions added without justification. Covers Python, TypeScript, JavaScript and Rust from one configuration, ships a pre-commit hook per rule, and emits text, JSON or SARIF for CI.</description>
+</item>
+<item>
+<title>stc — via static-analysis</title>
+<link>https://stc.dudy.dev</link>
+<guid isPermaLink="false">https://stc.dudy.dev#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Speedy TypeScript type checker written in Rust</description>
+</item>
+<item>
+<title>standard — via static-analysis</title>
+<link>http://standardjs.com</link>
+<guid isPermaLink="false">http://standardjs.com#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>An npm module that checks for Javascript Styleguide issues.</description>
+</item>
+<item>
+<title>squirrelscan — via static-analysis</title>
+<link>https://squirrelscan.com</link>
+<guid isPermaLink="false">https://squirrelscan.com#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>squirrelscan is a website QA tool built for coding agents such as Claude Code and Cursor. Its squirrel CLI crawls a live site and runs 260+ audit rules across SEO, performance, security, accessibility, structured data and agent experience, then returns exact source-mapped fixes. Runs from the terminal, CI, the cloud, or over MCP.</description>
+</item>
+<item>
+<title>sqlcheck — via static-analysis</title>
+<link>https://github.com/jarulraj/sqlcheck</link>
+<guid isPermaLink="false">https://github.com/jarulraj/sqlcheck#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Automatically identify anti-patterns in SQL queries.</description>
+</item>
+<item>
+<title>sleek — via static-analysis</title>
+<link>https://github.com/nrempel/sleek</link>
+<guid isPermaLink="false">https://github.com/nrempel/sleek#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.</description>
+</item>
+<item>
+<title>shisho — via static-analysis</title>
+<link>https://github.com/flatt-security/shisho</link>
+<guid isPermaLink="false">https://github.com/flatt-security/shisho#2026-08-29</guid>
+<pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+<description>A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.</description>
+</item>
+</channel>
+</rss>

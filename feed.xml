@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Sat, 31 Oct 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>utm — via awesome-zsh-plugins</title>
+<link>https://github.com/zsh-contrib/zsh-utm</link>
+<guid isPermaLink="false">https://github.com/zsh-contrib/zsh-utm#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Adds a single utm command on top of utmctl, the command line tool that ships with UTM, with tab completion for subcommands, virtual machine names and snapshot names, and a --wait that utmctl does not have.</description>
+</item>
+<item>
+<title>tmux-inside — via awesome-zsh-plugins</title>
+<link>https://github.com/hgarfer/ohmyzsh-tmux-inside</link>
+<guid isPermaLink="false">https://github.com/hgarfer/ohmyzsh-tmux-inside#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A drop-in replacement for the oh-my-zsh tmux plugin that makes the tmux aliases work from inside a tmux session: instead of trying to nest a session (which tmux refuses), they switch to the target session, creating it detached in the current directory if needed.</description>
+</item>
+<item>
+<title>tf-exclude — via awesome-terraform</title>
+<link>https://github.com/eurafaeldecarvalho/tf-exclude</link>
+<guid isPermaLink="false">https://github.com/eurafaeldecarvalho/tf-exclude#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Runs terraform plan/apply/destroy on every resource except the ones you name, plus their dependents, by computing the -target list from the plan and dependency graph.</description>
+</item>
+<item>
+<title>tapflow — via awesome-mac</title>
+<link>https://tapflow.dev</link>
+<guid isPermaLink="false">https://tapflow.dev#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns.</description>
+</item>
+<item>
+<title>tab-start — via awesome-zsh-plugins</title>
+<link>https://github.com/arnodirlam/tab-start</link>
+<guid isPermaLink="false">https://github.com/arnodirlam/tab-start#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>adds starter entries to ZSH completion when you press TAB at a blank prompt. Uses fzf-tab to render those entries and provides grouping, fuzzy search, and selection.</description>
+</item>
+<item>
+<title>strata — via awesome-angular</title>
+<link>https://github.com/Andersseen/strata</link>
+<guid isPermaLink="false">https://github.com/Andersseen/strata#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Server Components and structured server APIs for Angular and Analog.</description>
+</item>
+<item>
+<title>sf-shortcuts — via awesome-zsh-plugins</title>
+<link>https://github.com/hggaguilera/sf-shortcuts</link>
+<guid isPermaLink="false">https://github.com/hggaguilera/sf-shortcuts#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Short, predictable commands for the Salesforce CLI (sf), with tab completion for Apex classes, components (aura/lightning) and orgs.</description>
+</item>
+<item>
+<title>rsalianto/tradoor — via awesome-rust</title>
+<link>https://github.com/rsalianto/tradoor</link>
+<guid isPermaLink="false">https://github.com/rsalianto/tradoor#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Crypto trading terminal in the browser: candlestick, TPO and footprint charts, DOM, liquidations and a trading journal, drawn by a Rust engine in WebAssembly</description>
+</item>
+<item>
+<title>recall — via awesome-gemini-cli</title>
+<link>https://github.com/fainir/recall</link>
+<guid isPermaLink="false">https://github.com/fainir/recall#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>MCP server that reads and writes Claude Code's per-project auto memory (Markdown files with [[wiki-links]]), so Gemini CLI, Codex and Cursor share the same memories. memory_recall follows links within a token budget; optional read-only mode. Zero dependencies, local only. MIT. Install with gemini extensions install https://github.com/fainir/recall (serves the memory of the folder you start Gemini in) or run npx -y @fainir/recall.</description>
+</item>
+<item>
+<title>pkgscan.dev — via free-for-dev</title>
+<link>https://pkgscan.dev</link>
+<guid isPermaLink="false">https://pkgscan.dev#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.</description>
+</item>
+<item>
+<title>frugal — via awesome-gemini-cli</title>
+<link>https://github.com/fainir/frugal</link>
+<guid isPermaLink="false">https://github.com/fainir/frugal#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension and Agent Skill: before anything is bought, subscribed to or upgraded, Gemini checks free tiers, the right plan and billing period, startup, student, open-source and nonprofit programs, verified promo codes and cheaper alternatives, then reports the best options with sources. Never pays by itself. MIT. Install with gemini extensions install https://github.com/fainir/frugal.</description>
+</item>
+<item>
+<title>curl-edit — via awesome-zsh-plugins</title>
+<link>https://github.com/AndrewHany/zsh-curl-edit</link>
+<guid isPermaLink="false">https://github.com/AndrewHany/zsh-curl-edit#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Automatically open pasted cURL commands in an editor before executing them.</description>
+</item>
+<item>
+<title>clickswave/crossfyre-toolchain — via awesome-rust</title>
+<link>https://github.com/clickswave/crossfyre-toolchain</link>
+<guid isPermaLink="false">https://github.com/clickswave/crossfyre-toolchain#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Recon and vulnerability scanning engines for subdomains, ports, content discovery, fingerprinting and nuclei-compatible templates</description>
+</item>
+<item>
+<title>claude-sandbox — via awesome-zsh-plugins</title>
+<link>https://github.com/LordMauldascha/claude-sandbox</link>
+<guid isPermaLink="false">https://github.com/LordMauldascha/claude-sandbox#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Points CLAUDE_CONFIG_DIR at a throwaway directory, so everything Claude Code reads and writes (settings, plugins, skills, history, credentials) stays inside that sandbox. Leave it, delete it, and your real setup is exactly as you left it.</description>
+</item>
+<item>
+<title>aws-login — via awesome-zsh-plugins</title>
+<link>https://github.com/mithredate/zsh-aws-login</link>
+<guid isPermaLink="false">https://github.com/mithredate/zsh-aws-login#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Provides an aws-login command that starts an AWS session that only the current terminal and its child processes can use.</description>
+</item>
+<item>
+<title>XHProf — via awesome-php</title>
+<link>https://github.com/longxinH/xhprof</link>
+<guid isPermaLink="false">https://github.com/longxinH/xhprof#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A profiling tool originally developed by Facebook.</description>
+</item>
+<item>
+<title>Vauta — via awesome-mac</title>
+<link>https://vauta.vercel.app/</link>
+<guid isPermaLink="false">https://vauta.vercel.app/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source meeting notes app that transcribes any call on device, tells speakers apart and writes cited minutes with Apple Intelligence or your own local model server.</description>
+</item>
+<item>
+<title>Uptick — via awesome-mac</title>
+<link>https://chengffei.github.io/uptick/</link>
+<guid isPermaLink="false">https://chengffei.github.io/uptick/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source app updater that finds updates from the App Store, Sparkle, Electron feeds and Homebrew, and verifies each download before installing.</description>
+</item>
+<item>
+<title>Swamp Converter — via awesome-mac</title>
+<link>https://github.com/aansonsa/swamp-converter</link>
+<guid isPermaLink="false">https://github.com/aansonsa/swamp-converter#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.</description>
+</item>
+<item>
+<title>SparkleBIOS — via awesome-zsh-plugins</title>
+<link>https://github.com/reactivepixels/sparklebios</link>
+<guid isPermaLink="false">https://github.com/reactivepixels/sparklebios#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Draws a retro 1995 PC BIOS boot screen with real system facts and cached health checks when a new ZSH session starts.</description>
+</item>
+<item>
+<title>Show Desktop — via awesome-mac</title>
+<link>https://stanczykwyatt.github.io/show-desktop/</link>
+<guid isPermaLink="false">https://stanczykwyatt.github.io/show-desktop/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar app that hides every window with one click or a shortcut, then brings them all back exactly as they were.</description>
+</item>
+<item>
+<title>Safelight — via awesome-mac</title>
+<link>https://github.com/mopfaff/Safelight</link>
+<guid isPermaLink="false">https://github.com/mopfaff/Safelight#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source menu bar app that schedules the color filter, brightness, and Light/Dark appearance, fading the screen to deep red at night.</description>
+</item>
+<item>
+<title>SQL Formatter — via awesome-php</title>
+<link>https://github.com/doctrine/sql-formatter</link>
+<guid isPermaLink="false">https://github.com/doctrine/sql-formatter#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A library for formatting SQL statements.</description>
+</item>
+<item>
+<title>Rebind — via awesome-mac</title>
+<link>https://rebind.moduix.dev</link>
+<guid isPermaLink="false">https://rebind.moduix.dev#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source tool for remapping keys, mouse buttons and trackpad gestures to shortcuts and system actions.</description>
+</item>
+<item>
+<title>Random IMEI Generator — via awesome-testing</title>
+<link>https://onlineminitools.com/random-imei-generator</link>
+<guid isPermaLink="false">https://onlineminitools.com/random-imei-generator#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.</description>
+</item>
+<item>
+<title>REA (Reverse Engineer Anything) — via awesome-generative-ai</title>
+<link>https://rea.tools/</link>
+<guid isPermaLink="false">https://rea.tools/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. #opensource</description>
+</item>
+<item>
+<title>RAVE LIVE — via awesome-mac</title>
+<link>https://github.com/jedbrnth-eng/rave-live</link>
+<guid isPermaLink="false">https://github.com/jedbrnth-eng/rave-live#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets.</description>
+</item>
+<item>
+<title>Pulse — via awesome-mac</title>
+<link>https://github.com/emgeorrk/pulse</link>
+<guid isPermaLink="false">https://github.com/emgeorrk/pulse#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.</description>
+</item>
+<item>
+<title>Phalcon — via awesome-php</title>
+<link>https://phalcon.io/</link>
+<guid isPermaLink="false">https://phalcon.io/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A framework implemented as a C extension.</description>
+</item>
+<item>
+<title>Pangram — via awesome-generative-ai</title>
+<link>https://www.pangram.com/</link>
+<guid isPermaLink="false">https://www.pangram.com/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Detects AI-generated and AI-assisted text through a web interface, browser extension, and API.</description>
+</item>
+<item>
+<title>Pagerfanta — via awesome-php</title>
+<link>https://github.com/BabDev/Pagerfanta</link>
+<guid isPermaLink="false">https://github.com/BabDev/Pagerfanta#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A pagination library.</description>
+</item>
+<item>
+<title>PHP Dotenv — via awesome-php</title>
+<link>https://github.com/phpdotenv/phpdotenv</link>
+<guid isPermaLink="false">https://github.com/phpdotenv/phpdotenv#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Parse and load environment variables from .env files.</description>
+</item>
+<item>
+<title>Mudroom — via awesome-mac</title>
+<link>https://github.com/Kernel-Hunter/mudroom</link>
+<guid isPermaLink="false">https://github.com/Kernel-Hunter/mudroom#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request.</description>
+</item>
+<item>
+<title>Moodle — via awesome-php</title>
+<link>https://github.com/moodle/moodle</link>
+<guid isPermaLink="false">https://github.com/moodle/moodle#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>An open-source learning platform.</description>
+</item>
+<item>
+<title>Matcha — via awesome-mac</title>
+<link>https://github.com/jakeantelis/Matcha</link>
+<guid isPermaLink="false">https://github.com/jakeantelis/Matcha#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.</description>
+</item>
+<item>
+<title>Lychee — via awesome-php</title>
+<link>https://github.com/LycheeOrg/Lychee</link>
+<guid isPermaLink="false">https://github.com/LycheeOrg/Lychee#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>An easy to use and great looking photo-management-system.</description>
+</item>
+<item>
+<title>Lucid — via awesome-mac</title>
+<link>https://lucid-wallpaper.vercel.app</link>
+<guid isPermaLink="false">https://lucid-wallpaper.vercel.app#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Live 4K wallpapers with moving space, nature and ocean loops on every display, plus Apple Aerials.</description>
+</item>
+<item>
+<title>Laravel Homestead — via awesome-php</title>
+<link>https://laravel.com/framework/docs/master/homestead</link>
+<guid isPermaLink="false">https://laravel.com/framework/docs/master/homestead#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A local development environment for Laravel.</description>
+</item>
+<item>
+<title>Ironheights — via awesome-gemini-cli</title>
+<link>https://github.com/Frank-Masciopinto/ironheights</link>
+<guid isPermaLink="false">https://github.com/Frank-Masciopinto/ironheights#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Offline security scanner that protects any AI bot's skills: scans any skill folder with a SKILL.md (including Gemini CLI skills in ~/.gemini/skills/) for prompt injection, credential theft, and other risky patterns before you install it, with findings tagged by OWASP LLM Top 10 and OpenCRE ID. Reads files as data, never runs them, no telemetry. Run npx ironheights scan ./path/to/skill. Apache-2.0.</description>
+</item>
+<item>
+<title>HHVM — via awesome-php</title>
+<link>https://github.com/meta/hhvm</link>
+<guid isPermaLink="false">https://github.com/meta/hhvm#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A Virtual Machine, Runtime and JIT for PHP by Facebook.</description>
+</item>
+<item>
+<title>Glass — via awesome-mac</title>
+<link>https://glassdesk.dev</link>
+<guid isPermaLink="false">https://glassdesk.dev#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.</description>
+</item>
+<item>
+<title>GetYouTubeTranscript — via awesome-gemini-cli</title>
+<link>https://github.com/tubeagentkit/youtube-mcp</link>
+<guid isPermaLink="false">https://github.com/tubeagentkit/youtube-mcp#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>YouTube transcripts and data for Gemini CLI: fetch a video's transcript (pick the language, optional timestamps), search YouTube, browse a channel's videos, playlists and posts, search inside a channel, list a playlist, find related videos, and read a channel banner or estimated dislikes. 13 tools. Hosted Streamable HTTP; tool calls need an API key from the dashboard (1 credit per call, 100 credits on sign-up, paid plans from $5/month). MIT. Add with: gemini mcp add --transport http --header &quot;Authorization: Bearer &lt;API_KEY&gt;&quot; getyoutubetranscript https://getyoutubetranscript.com/api/mcp.</description>
+</item>
+<item>
+<title>GameDevTool — via magictools</title>
+<link>https://gamedevtool.com/roblox</link>
+<guid isPermaLink="false">https://gamedevtool.com/roblox#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free Roblox monetization calculators for the 30% Marketplace Fee, DevEx cash-out value, UGC creator share and game pass pricing.</description>
+</item>
+<item>
+<title>Flickbar — via awesome-mac</title>
+<link>https://flickbar.github.io/</link>
+<guid isPermaLink="false">https://flickbar.github.io/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source window manager driven by trackpad gestures on window title bars.</description>
+</item>
+<item>
+<title>Featureflip — via free-for-dev</title>
+<link>https://featureflip.io/</link>
+<guid isPermaLink="false">https://featureflip.io/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Featureflip is a full featured feature flag platform that removes its own dead flags by submitting its own pull requests. Free plan includes 10 flags, 2 environments, 1 project, 3 users, and no usage caps.</description>
+</item>
+<item>
+<title>DESIGN:OS — via awesome-gemini-cli</title>
+<link>https://github.com/jangtrinh/design-os</link>
+<guid isPermaLink="false">https://github.com/jangtrinh/design-os#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free design CLI and skill pack for Gemini CLI, Claude Code and Codex. Describe a UI in plain words and get web, Figma and SwiftUI output checked by deterministic taste gates; installs with npx @easestart/design-os init. Source-available (PolyForm Shield).</description>
+</item>
+<item>
+<title>Cron Expression — via awesome-php</title>
+<link>https://github.com/dragonmantank/cron-expression</link>
+<guid isPermaLink="false">https://github.com/dragonmantank/cron-expression#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>A library to calculate cron run dates.</description>
+</item>
+<item>
+<title>Crisp UI Free — via magictools</title>
+<link>https://anipixels.itch.io/crisp-ui-free</link>
+<guid isPermaLink="false">https://anipixels.itch.io/crisp-ui-free#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.</description>
+</item>
+<item>
+<title>Crisp Icons Free — via magictools</title>
+<link>https://anipixels.itch.io/crisp-icons-free</link>
+<guid isPermaLink="false">https://anipixels.itch.io/crisp-icons-free#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>42 rounded game UI icons in white and dark, as 64 px PNG and SVG; royalty-free for commercial use, no credit required. Drawn procedurally by code written with an AI assistant, no image generators.</description>
+</item>
+<item>
+<title>ContainerDesk — via awesome-mac</title>
+<link>https://github.com/MacHatter1/ContainerDesk</link>
+<guid isPermaLink="false">https://github.com/MacHatter1/ContainerDesk#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Native SwiftUI workspace for Apple's container runtime, with live resource monitoring and an integrated terminal.</description>
+</item>
+<item>
+<title>Burrow — via awesome-mac</title>
+<link>https://github.com/khan-umirzakoff/Mole-GUI</link>
+<guid isPermaLink="false">https://github.com/khan-umirzakoff/Mole-GUI#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole's safety checks.</description>
+</item>
+<item>
+<title>Bedrock Launcher — via awesome-mac</title>
+<link>https://github.com/pragyaangaur/Minecraft-Bedrock-macOS</link>
+<guid isPermaLink="false">https://github.com/pragyaangaur/Minecraft-Bedrock-macOS#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.</description>
+</item>
+<item>
+<title>Apolo — via awesome-mac</title>
+<link>https://apolo.webcafeina.com/en/</link>
+<guid isPermaLink="false">https://apolo.webcafeina.com/en/#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source image optimizer that compresses and converts to WebP, AVIF, JPEG XL, JPEG and PNG, showing the loss and its SSIMULACRA 2 score before saving.</description>
+</item>
+<item>
+<title>AerialSwap — via awesome-mac</title>
+<link>https://github.com/mxpalm/AerialSwap</link>
+<guid isPermaLink="false">https://github.com/mxpalm/AerialSwap#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Turn any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings.</description>
+</item>
+<item>
+<title>AI Meter — via awesome-mac</title>
+<link>https://github.com/getguruhat/ai-meter</link>
+<guid isPermaLink="false">https://github.com/getguruhat/ai-meter#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Shows your remaining Claude Code or Codex usage and reset time in the menu bar.</description>
+</item>
+<item>
+<title>Çentik — via open-source-mac-os-apps</title>
+<link>https://github.com/YusufEmreYazici/Centik</link>
+<guid isPermaLink="false">https://github.com/YusufEmreYazici/Centik#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.Languages: SwiftWebsite: https://github.com/YusufEmreYazici/Centik</description>
+</item>
+<item>
+<title>zhixuli0406/DuDuClaw — via awesome-rust</title>
+<link>https://github.com/zhixuli0406/DuDuClaw</link>
+<guid isPermaLink="false">https://github.com/zhixuli0406/DuDuClaw#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Self-hosted platform that runs AI coding CLIs (Claude Code, Codex, Antigravity) as AI employees on LINE, Telegram, Discord, Slack and 7 more chat apps, with result review, cost logging, local memory and a standalone MCP memory server</description>
+</item>
+<item>
+<title>writui — via open-source-mac-os-apps</title>
+<link>https://github.com/aakashns/writui</link>
+<guid isPermaLink="false">https://github.com/aakashns/writui#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>A terminal Markdown writing app with a local encrypted vault, automatic saving, and named versions.Languages: RustWebsite: https://writui.com</description>
+</item>
+<item>
+<title>tern — via open-source-mac-os-apps</title>
+<link>https://github.com/your-moon/tern</link>
+<guid isPermaLink="false">https://github.com/your-moon/tern#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Native SSH client written in Rust on GPUI, with saved hosts, a command picker, SFTP browser, split panes, port forwards and encrypted sync.Languages: RustWebsite: https://tern.carrot-soft.tech</description>
+</item>
+<item>
+<title>tern — via static-analysis</title>
+<link>https://ternjs.github.io/</link>
+<guid isPermaLink="false">https://ternjs.github.io/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>A JavaScript code analyzer for deep, cross-editor language support.</description>
+</item>
+<item>
+<title>sunerpy/voltip — via awesome-rust</title>
+<link>https://github.com/sunerpy/voltip</link>
+<guid isPermaLink="false">https://github.com/sunerpy/voltip#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Push-to-talk dictation for Windows, macOS, Linux and Android with on-device speech recognition (Qwen3-ASR, SenseVoice) or cloud providers, built with Tauri</description>
+</item>
+<item>
+<title>self-host — via awesome-gemini-cli</title>
+<link>https://github.com/ajnart/self-host</link>
+<guid isPermaLink="false">https://github.com/ajnart/self-host#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Lets your agent install self-hosted apps on your own hardware and set them up (admin accounts, API keys, apps connected to each other), asking before each step.</description>
+</item>
+<item>
+<title>sammaji/markdown-preview.nvim — via awesome-neovim</title>
+<link>https://github.com/sammaji/markdown-preview.nvim</link>
+<guid isPermaLink="false">https://github.com/sammaji/markdown-preview.nvim#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling.</description>
+</item>
+<item>
+<title>s3-test-server — via awesome-testing</title>
+<link>https://www.npmjs.com/package/s3-test-server</link>
+<guid isPermaLink="false">https://www.npmjs.com/package/s3-test-server#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).</description>
+</item>
+<item>
+<title>mqtt2matter — via awesome-mqtt</title>
+<link>https://github.com/hobbyquaker/mqtt2matter</link>
+<guid isPermaLink="false">https://github.com/hobbyquaker/mqtt2matter#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...</description>
+</item>
+<item>
+<title>mcpock — via open-source-mac-os-apps</title>
+<link>https://github.com/aka-kika/mcpock</link>
+<guid isPermaLink="false">https://github.com/aka-kika/mcpock#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar app that checks every MCP server your AI agents use and shows which are broken, slow, waiting for a sign-in, or set up differently.Languages: SwiftWebsite: https://mcpock.com</description>
+</item>
+<item>
+<title>logbrew-sdk — via awesome-rails</title>
+<link>https://github.com/LogBrewCo/sdk/tree/main/ruby/logbrew-ruby</link>
+<guid isPermaLink="false">https://github.com/LogBrewCo/sdk/tree/main/ruby/logbrew-ruby#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>A gem to capture Rails errors, request traces, and ActiveJob failures and send them to LogBrew. :red_circle:</description>
+</item>
+<item>
+<title>littleguys — via open-source-mac-os-apps</title>
+<link>https://github.com/herval/littleguys</link>
+<guid isPermaLink="false">https://github.com/herval/littleguys#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>WhatsApp-style app for talking to your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent).Languages: Rust TypeScriptWebsite: https://www.littleguys.dev</description>
+</item>
+<item>
+<title>heritage-themes/heritage-themes.nvim — via awesome-neovim</title>
+<link>https://github.com/heritage-themes/heritage-themes.nvim</link>
+<guid isPermaLink="false">https://github.com/heritage-themes/heritage-themes.nvim#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>[TS][LSP][L/D][Lua] A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for lualine.nvim and gitsigns.nvim.</description>
+</item>
+<item>
+<title>ghostty-designer — via open-source-mac-os-apps</title>
+<link>https://github.com/reemus-dev/ghostty-designer</link>
+<guid isPermaLink="false">https://github.com/reemus-dev/ghostty-designer#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals.Languages: Rust TypeScript</description>
+</item>
+<item>
+<title>dobsontom/dbt-ft.nvim — via awesome-neovim</title>
+<link>https://github.com/dobsontom/dbt-ft.nvim</link>
+<guid isPermaLink="false">https://github.com/dobsontom/dbt-ft.nvim#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Jinja-aware filetype for dbt models, with Tree-sitter support for highlighting, folding, and indentation.</description>
+</item>
+<item>
+<title>codecall — via awesome-gemini-cli</title>
+<link>https://github.com/GAURAV-1313/codecall</link>
+<guid isPermaLink="false">https://github.com/GAURAV-1313/codecall#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Agent Skill that runs in Gemini CLI and other agents (npx skills add GAURAV-1313/codecall). Quizzes you on the code your agent just wrote, traces one request flow file by file, or plants one bug for a debugging-interview drill and restores it with Git. No API key.</description>
+</item>
+<item>
+<title>akou — via open-source-mac-os-apps</title>
+<link>https://github.com/GeiserX/akou</link>
+<guid isPermaLink="false">https://github.com/GeiserX/akou#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP.Languages: TypeScript RustWebsite: https://geiserx.github.io/akou/</description>
+</item>
+<item>
+<title>WolfClip — via open-source-mac-os-apps</title>
+<link>https://github.com/RakushkaTOP/wolfclip</link>
+<guid isPermaLink="false">https://github.com/RakushkaTOP/wolfclip#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in.Languages: SwiftWebsite: https://rakushkatop.github.io/wolfclip/</description>
+</item>
+<item>
+<title>VoxiGen — via magictools</title>
+<link>https://voxigen.io/en/studio</link>
+<guid isPermaLink="false">https://voxigen.io/en/studio#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Voxel editor for building game models and levels in the browser or on desktop, with game-ready export.</description>
+</item>
+<item>
+<title>Volt — via open-source-mac-os-apps</title>
+<link>https://github.com/LeulAria/VOLT</link>
+<guid isPermaLink="false">https://github.com/LeulAria/VOLT#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source AI code editor built on VS Code (Code - OSS) that runs Claude Code, Codex, OpenCode and Kimi over ACP, with hunk-level keep/undo of agent edits.Languages: TypeScriptWebsite: https://getvolt.dev</description>
+</item>
+<item>
+<title>Vauta — via open-source-mac-os-apps</title>
+<link>https://github.com/MaquinaTech/Vauta</link>
+<guid isPermaLink="false">https://github.com/MaquinaTech/Vauta#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.Languages: SwiftWebsite: https://vauta.vercel.app/</description>
+</item>
+<item>
+<title>VaelMail — via free-for-dev</title>
+<link>https://vaelmail.com</link>
+<guid isPermaLink="false">https://vaelmail.com#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Privacy-first webmail with deterministic 16-digit account keys and zero phone verification. Free tier includes 50 MB receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw aliases with no credit card required.</description>
+</item>
+<item>
+<title>UMST — via open-source-mac-os-apps</title>
+<link>https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool</link>
+<guid isPermaLink="false">https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Desktop calendar widget that shows Google, iCloud and Outlook calendars, Apple Reminders, Canvas, Blackboard, Moodle and other LMS deadlines, and Todoist, Asana and Trello tasks, with menu bar quick add.Languages: Swift</description>
+</item>
+<item>
+<title>UMST — via awesome-mac</title>
+<link>https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/</link>
+<guid isPermaLink="false">https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add.</description>
+</item>
+<item>
+<title>Trends MCP — via awesome-amazon-seller</title>
+<link>https://www.trendsmcp.ai</link>
+<guid isPermaLink="false">https://www.trendsmcp.ai#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>MCP server and REST API with trend data from Amazon, Google Search, Google Shopping, TikTok, YouTube and other sources, for demand research in an AI assistant. Free plan with 100 requests a month. GitHub</description>
+</item>
+<item>
+<title>TranslateMyImage — via awesome-amazon-seller</title>
+<link>https://translatemyimage.com/amazon-image-translator</link>
+<guid isPermaLink="false">https://translatemyimage.com/amazon-image-translator#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Translates the text inside product images, infographics, A+ modules and size charts into other languages, and keeps the original layout. Works from the final JPG or PNG files. Three free test images.</description>
+</item>
+<item>
+<title>TokenTracker — via open-source-mac-os-apps</title>
+<link>https://github.com/xiufengsun/TokenTracker</link>
+<guid isPermaLink="false">https://github.com/xiufengsun/TokenTracker#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Local-first menu bar app and CLI that tracks AI token usage and estimated cost across Claude Code, Codex, Cursor, Gemini, Copilot and more without reading prompts.Languages: Swift TypeScriptWebsite: https://www.tokentracker.cc</description>
+</item>
+<item>
+<title>Threecolts Seller 365 — via awesome-amazon-seller</title>
+<link>https://www.threecolts.com/seller-365</link>
+<guid isPermaLink="false">https://www.threecolts.com/seller-365#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>One subscription for ten Amazon seller tools: sourcing, listing, repricing, feedback requests and profit tracking. Includes the former FeedbackWhiz.</description>
+</item>
+<item>
+<title>Tera Studio — via awesome-gemini-cli</title>
+<link>https://terastudio.co/ai-assistants/</link>
+<guid isPermaLink="false">https://terastudio.co/ai-assistants/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Hosted MCP server for singers over remote Streamable HTTP, no key or sign-in: find_song_key looks up a well-known song's key, tempo and typical vocal range by title, and the other tools return links to free browser tools that find a song file's key and BPM or move it up to 6 semitones. Add with gemini mcp add --transport http tera-studio https://terastudio.co/mcp.</description>
+</item>
+<item>
+<title>Tavero — via awesome-gemini-cli</title>
+<link>https://github.com/baccaraaa/tavero</link>
+<guid isPermaLink="false">https://github.com/baccaraaa/tavero#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>MCP server and CLI that finds UI inconsistencies (spacing, colors, typography, component drift) in running React apps and gives coding agents fixes with file/line references. Works with Gemini CLI as an MCP server. Run: npx -y tavero mcp. Free, MIT.</description>
+</item>
+<item>
+<title>TICS — via open-source-mac-os-apps</title>
+<link>https://github.com/yestoall/tics</link>
+<guid isPermaLink="false">https://github.com/yestoall/tics#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar app that plays mechanical keyboard sounds as you type, and mouse sounds as you click, drag and scroll.Languages: SwiftWebsite: https://www.yestoall.com/tics/en</description>
+</item>
+<item>
+<title>Swapjutsu — via open-source-mac-os-apps</title>
+<link>https://github.com/jutsuhq/swapjutsu-seedance-character-swap</link>
+<guid isPermaLink="false">https://github.com/jutsuhq/swapjutsu-seedance-character-swap#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Character swap for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon.Languages: SwiftWebsite: https://jutsustudio.com/swapjutsu/</description>
+</item>
+<item>
+<title>StableBar — via open-source-mac-os-apps</title>
+<link>https://github.com/Seb-GRAF/StableBar</link>
+<guid isPermaLink="false">https://github.com/Seb-GRAF/StableBar#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.Languages: SwiftWebsite: https://stablebar.app</description>
+</item>
+<item>
+<title>Splat — via awesome-mac</title>
+<link>https://github.com/sventmueller/splat</link>
+<guid isPermaLink="false">https://github.com/sventmueller/splat#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Native macOS Markdown editor in Rust where both the source and the live preview are editable.</description>
+</item>
+<item>
+<title>SonarQube for IDE — via static-analysis</title>
+<link>https://www.sonarsource.com/products/sonarqube/ide/</link>
+<guid isPermaLink="false">https://www.sonarsource.com/products/sonarqube/ide/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse, to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker. More than a linter, it also delivers rich contextual guidance to help developers understand why there is an issue, assess the risk, and educate them on how to fix it.</description>
+</item>
+<item>
+<title>Siliconed — via open-source-mac-os-apps</title>
+<link>https://github.com/gwenn-ha-dev/Siliconed</link>
+<guid isPermaLink="false">https://github.com/gwenn-ha-dev/Siliconed#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.Languages: SwiftWebsite: https://gwenn-ha-dev.github.io/Siliconed/</description>
+</item>
+<item>
+<title>Show Desktop — via open-source-mac-os-apps</title>
+<link>https://github.com/stanczykwyatt/show-desktop</link>
+<guid isPermaLink="false">https://github.com/stanczykwyatt/show-desktop#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Hides every window with one click or a shortcut to show the Desktop, then brings them all back exactly as they were.Languages: SwiftWebsite: https://stanczykwyatt.github.io/show-desktop/</description>
+</item>
+<item>
+<title>Shandian — via awesome-mac</title>
+<link>https://github.com/chenmozhe008/shandian-download</link>
+<guid isPermaLink="false">https://github.com/chenmozhe008/shandian-download#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Native download manager that handles magnet links, torrents, HTTP files and videos from YouTube, Bilibili, Douyin and Xiaohongshu in one window, with browser download takeover and stream-while-downloading (Chinese UI).</description>
+</item>
+<item>
+<title>Scarwise — via awesome-gemini-cli</title>
+<link>https://github.com/DomitorAI/scarwise</link>
+<guid isPermaLink="false">https://github.com/DomitorAI/scarwise#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI hooks (BeforeTool/AfterTool) that learn from failed tool calls by themselves and stop a known mistake before it runs; what one agent learns protects your other agents (Claude Code, Codex, Cursor, OpenCode and more).</description>
+</item>
+<item>
+<title>SATF — via awesome-mac</title>
+<link>https://github.com/tran-minh-khoi/SATF</link>
+<guid isPermaLink="false">https://github.com/tran-minh-khoi/SATF#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Shake a file while dragging it to convert, merge into a PDF, zip, or extract it from a radial menu under your cursor.</description>
+</item>
+<item>
+<title>Recommerce — via awesome-gemini-cli</title>
+<link>https://github.com/budna-marketplace/recommerce</link>
+<guid isPermaLink="false">https://github.com/budna-marketplace/recommerce#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Agent Skills (SKILL.md) for second-hand purchases: compare listings, assemble kits, inspect items, plan collection, weigh keep vs. repair vs. replace, and recheck before committing. Read-only, no API key, never contacts sellers or buys. MIT. Install with npx skills add budna-marketplace/recommerce -y -a gemini-cli.</description>
+</item>
+<item>
+<title>QuietSpeech — via open-source-mac-os-apps</title>
+<link>https://github.com/harshtomar6/quietspeech</link>
+<guid isPermaLink="false">https://github.com/harshtomar6/quietspeech#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).Languages: SwiftWebsite: https://quietspeech.app/</description>
+</item>
+<item>
+<title>Qingo — via awesome-mac</title>
+<link>https://github.com/chenmozhe008/qingo</link>
+<guid isPermaLink="false">https://github.com/chenmozhe008/qingo#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Cache cleaner that recognizes 60+ video, design and AI tools (CapCut, DaVinci Resolve, Adobe apps, Cursor, Claude Code and more), clears only caches that rebuild automatically, and moves them to the Trash with undo, leaving projects and conversations untouched (Chinese UI).</description>
+</item>
+<item>
+<title>Pullo — via open-source-mac-os-apps</title>
+<link>https://github.com/jordan-cod/pullo</link>
+<guid isPermaLink="false">https://github.com/jordan-cod/pullo#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Your GitHub pull requests and Actions runs in the MacBook notch, with alerts when CI fails, a PR is approved or a review is requested.Languages: SwiftWebsite: https://pullo.jrdan.dev</description>
+</item>
+<item>
+<title>PullBull — via open-source-mac-os-apps</title>
+<link>https://github.com/rustycamper/pullbull</link>
+<guid isPermaLink="false">https://github.com/rustycamper/pullbull#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>GitHub pull requests, issues and Projects boards in the menu bar.Languages: Swift</description>
+</item>
+<item>
+<title>Posato — via open-source-mac-os-apps</title>
+<link>https://github.com/dees91/posato</link>
+<guid isPermaLink="false">https://github.com/dees91/posato#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Blocks the websites and apps you choose for a timed pause, now or on a schedule, with optional end-to-end encrypted sync to iPhone through iCloud.Languages: kotlin SwiftWebsite: https://posato.app</description>
+</item>
+<item>
+<title>Pixtamer — via open-source-mac-os-apps</title>
+<link>https://github.com/heysidhant/pixtamer</link>
+<guid isPermaLink="false">https://github.com/heysidhant/pixtamer#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Batch convert, compress, resize and rename images into web-ready JPEG, PNG, WebP and AVIF, with responsive widths and presets.Languages: SwiftWebsite: https://sidhantsinha.com/apps/pixtamer</description>
+</item>
+<item>
+<title>PixVibe — via awesome-amazon-seller</title>
+<link>https://pixvibe.ai/tools/remove-background</link>
+<guid isPermaLink="false">https://pixvibe.ai/tools/remove-background#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Browser-based background remover that exports product photos on a white or transparent background, with tools to compress, resize and crop images. Free for single images, with no account.</description>
+</item>
+<item>
+<title>Perpetua — via awesome-amazon-seller</title>
+<link>https://perpetua.io/blog/</link>
+<guid isPermaLink="false">https://perpetua.io/blog/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Marketplace advertising strategy and Amazon PPC guides. Formerly the Sellics blog.</description>
+</item>
+<item>
+<title>Perpetua — via awesome-amazon-seller</title>
+<link>https://perpetua.io/</link>
+<guid isPermaLink="false">https://perpetua.io/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Advertising software and managed services for Amazon, Instacart and other marketplaces, plus Amazon DSP and Google Ads. Formerly Sellics.</description>
+</item>
+<item>
+<title>ParrotFlow — via open-source-mac-os-apps</title>
+<link>https://github.com/znat/parrotflow</link>
+<guid isPermaLink="false">https://github.com/znat/parrotflow#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.Languages: Swift PythonWebsite: https://parrotflow.io/</description>
+</item>
+<item>
+<title>Open Contexts — via awesome-mac</title>
+<link>https://opencontexts.app/</link>
+<guid isPermaLink="false">https://opencontexts.app/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source window switcher with a persistent app bar and saved window groups.</description>
+</item>
+<item>
+<title>OS-intent — via open-source-mac-os-apps</title>
+<link>https://github.com/vdk888/os-intent</link>
+<guid isPermaLink="false">https://github.com/vdk888/os-intent#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Learns how you work and puts your likely next action one key away, with every outward action behind a confirm panel.Languages: Swift Python</description>
+</item>
+<item>
+<title>OLIV — via open-source-mac-os-apps</title>
+<link>https://github.com/chayapats/oliv</link>
+<guid isPermaLink="false">https://github.com/chayapats/oliv#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script.Languages: Swift RustWebsite: https://chayapats.github.io/oliv/</description>
+</item>
+<item>
+<title>Multica — via awesome-generative-ai</title>
+<link>https://multica.ai/</link>
+<guid isPermaLink="false">https://multica.ai/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>A self-hostable workspace for assigning tasks to AI coding agents and tracking their progress alongside human teammates.</description>
+</item>
+<item>
+<title>Monny — via awesome-mac</title>
+<link>https://monny.moduix.dev</link>
+<guid isPermaLink="false">https://monny.moduix.dev#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source menu bar system monitor with process lookup and a battery charge limit.</description>
+</item>
+<item>
+<title>Mac Monitor — via awesome-mac</title>
+<link>https://github.com/Ahmadjondev/MacMonitor</link>
+<guid isPermaLink="false">https://github.com/Ahmadjondev/MacMonitor#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure.</description>
+</item>
+<item>
+<title>MCP Probe Kit — via awesome-gemini-cli</title>
+<link>https://github.com/mybolide/mcp-probe-kit</link>
+<guid isPermaLink="false">https://github.com/mybolide/mcp-probe-kit#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Diagnostics and self-test toolkit for MCP servers: enumerates every tool, resource and prompt, exercises them, and reports health, latency and schema drift between runs. Read-only against the target server, so you can point it at any server you connect Gemini CLI to and see what it actually exposes. MIT, npx -y mcp-probe-kit, official MCP Registry io.github.mybolide/mcp-probe-kit.</description>
+</item>
+<item>
+<title>MAO — via awesome-gemini-cli</title>
+<link>https://trymao.dev/</link>
+<guid isPermaLink="false">https://trymao.dev/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Native desktop canvas for macOS, Windows and Linux that runs Gemini CLI (0.41 or later) as a built-in agent alongside Claude Code, Codex, Grok, OpenCode, Antigravity and shell agents, each as a real terminal node on its own login. Wired agents hand each other tasks through the mao CLI, an Orchestrator agent can recruit and direct the others, and each layer is a git worktree whose diff you review and land from the canvas. Closed source; US$20 one-time, 7-day free trial.</description>
+</item>
+<item>
+<title>Lumilo — via open-source-mac-os-apps</title>
+<link>https://github.com/kotuke/lumilo</link>
+<guid isPermaLink="false">https://github.com/kotuke/lumilo#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.Languages: GoWebsite: https://github.com/kotuke/lumilo</description>
+</item>
+<item>
+<title>Ludo Toolbox — via magictools</title>
+<link>https://ludo.ai/developers/toolbox</link>
+<guid isPermaLink="false">https://ludo.ai/developers/toolbox#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free, open-source (MIT) command-line tools that run offline: slice and join spritesheets, find a sprite's feet pivot and box/capsule colliders, check loops, recolor to Lospec palettes, cut tilesets, and export to Godot, Unity, Phaser and TexturePacker. Plain JSON output for scripts and coding agents.</description>
+</item>
+<item>
+<title>Local Transcriber — via open-source-mac-os-apps</title>
+<link>https://github.com/teconomix/local-transcriber</link>
+<guid isPermaLink="false">https://github.com/teconomix/local-transcriber#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar app that records meetings and calls and transcribes them locally with Whisper and pyannote speaker recognition, with dictation into any app.Languages: Swift PythonWebsite: https://transcriber.teconomix.net</description>
+</item>
+<item>
+<title>Jutsu Studio — via open-source-mac-os-apps</title>
+<link>https://github.com/jutsuhq/jutsu-studio</link>
+<guid isPermaLink="false">https://github.com/jutsuhq/jutsu-studio#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.Languages: SwiftWebsite: https://jutsustudio.com/</description>
+</item>
+<item>
+<title>JackMate — via open-source-mac-os-apps</title>
+<link>https://github.com/zinc75/JackMate</link>
+<guid isPermaLink="false">https://github.com/zinc75/JackMate#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>JackMate is a native macOS app to start, configure and patch the JACK audio server, with a visual patchbay, saved studios and a menu bar mode.Languages: SwiftWebsite: https://jackmate.app</description>
+</item>
+<item>
+<title>JUMP — via open-source-mac-os-apps</title>
+<link>https://github.com/alvaldes/jump</link>
+<guid isPermaLink="false">https://github.com/alvaldes/jump#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Keyboard-driven navigation that labels every clickable element so you can click, scroll and search any app without the mouse.Languages: SwiftWebsite: https://alvaldes.github.io/jump/</description>
+</item>
+<item>
+<title>JUMP — via awesome-mac</title>
+<link>https://alvaldes.github.io/jump/</link>
+<guid isPermaLink="false">https://alvaldes.github.io/jump/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source tool that labels every clickable element so you can click, scroll and search any app from the keyboard.</description>
+</item>
+<item>
+<title>Inventory Optimizer — via awesome-amazon-seller</title>
+<link>https://inventoryoptimizer.ai/</link>
+<guid isPermaLink="false">https://inventoryoptimizer.ai/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Demand forecasting and restock planning for Amazon FBA, AWD and FBM, Shopify and QuickBooks. Formerly ForecastRx.</description>
+</item>
+<item>
+<title>IDA Free — via static-analysis</title>
+<link>https://hex-rays.com/ida-free</link>
+<guid isPermaLink="false">https://hex-rays.com/ida-free#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>copyright: — Binary code analysis tool.</description>
+</item>
+<item>
+<title>HideNotch — via open-source-mac-os-apps</title>
+<link>https://github.com/niklasravnsborg/HideNotch</link>
+<guid isPermaLink="false">https://github.com/niklasravnsborg/HideNotch#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners.Languages: SwiftWebsite: https://hidenotch.app</description>
+</item>
+<item>
+<title>Ghbdtn — via open-source-mac-os-apps</title>
+<link>https://github.com/skriptoff/Ghbdtn</link>
+<guid isPermaLink="false">https://github.com/skriptoff/Ghbdtn#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Menu bar app that fixes text typed in the wrong keyboard layout (English/Russian) with an Option+Command tap: converts the selection or the last word and switches the layout.Languages: Swift</description>
+</item>
+<item>
+<title>Fbaleaks — via awesome-amazon-seller</title>
+<link>https://fbaleaks.com</link>
+<guid isPermaLink="false">https://fbaleaks.com#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Audits FBA inventory and reimbursement reports in the browser. Finds lost or damaged units that Amazon did not reimburse, sorts SKUs to keep, reprice or remove, and drafts appeal letters. Free tools and a one-time paid audit.</description>
+</item>
+<item>
+<title>FanPilot — via open-source-mac-os-apps</title>
+<link>https://github.com/zyvren/FanPilot</link>
+<guid isPermaLink="false">https://github.com/zyvren/FanPilot#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Fan control and temperature monitor for Apple Silicon Macs, with Auto Boost rules, custom curves, a fail-safe helper and a CLI.Languages: Swift</description>
+</item>
+<item>
+<title>DeepClone — via awesome-php</title>
+<link>https://github.com/symfony/php-ext-deepclone</link>
+<guid isPermaLink="false">https://github.com/symfony/php-ext-deepclone#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>A PHP extension to export serializable values as plain arrays and reconstruct them.</description>
+</item>
+<item>
+<title>CorpusIQ — via awesome-amazon-seller</title>
+<link>https://www.corpusiq.io</link>
+<guid isPermaLink="false">https://www.corpusiq.io#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Connects ChatGPT, Claude and Perplexity read-only to Amazon Seller, Shopify, GA4, QuickBooks and 40+ other systems, and answers questions about the business with the source of each number. From $29.95 a month, with a 30-day free trial.</description>
+</item>
+<item>
+<title>Copy 2FA — via open-source-mac-os-apps</title>
+<link>https://github.com/stanczykwyatt/copy-2fa</link>
+<guid isPermaLink="false">https://github.com/stanczykwyatt/copy-2fa#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes.Languages: SwiftWebsite: https://stanczykwyatt.github.io/copy-2fa/</description>
+</item>
+<item>
+<title>Content Factory — via open-source-mac-os-apps</title>
+<link>https://github.com/jutsuhq/content-factory</link>
+<guid isPermaLink="false">https://github.com/jutsuhq/content-factory#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Faceless video generator for TikTok, YouTube Shorts and Reels: a script becomes a vertical video with AI frames, voiceover and subtitles.Languages: Python TypeScript RustWebsite: https://jutsustudio.com/content-factory/</description>
+</item>
+<item>
+<title>Coding Tools MCP — via awesome-gemini-cli</title>
+<link>https://github.com/mybolide/coding-tools-mcp</link>
+<guid isPermaLink="false">https://github.com/mybolide/coding-tools-mcp#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Desktop MCP workspace for coding agents: file edits, command execution, Git status and resumable history sessions behind one local stdio interface, so Gemini CLI gets project scaffolding and code search without four separate servers. Apache-2.0, official MCP Registry io.github.mybolide/coding-tools-mcp.</description>
+</item>
+<item>
+<title>CodeQue — via static-analysis</title>
+<link>https://github.com/codeque-co/codeque</link>
+<guid isPermaLink="false">https://github.com/codeque-co/codeque#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Ecosystem for structural matching JavaScript and TypeScript code. Offers search tool that understands code structure. Available as CLI tool and Visual Studio Code extension. It helps to search code faster and more accurately making you workflow more effective. Soon it will offer ESLint plugin to create your own rules in minutes to help with assuring codebase quality.</description>
+</item>
+<item>
+<title>Clipivo — via awesome-mac</title>
+<link>https://clipivo.jishnumahanta.in</link>
+<guid isPermaLink="false">https://clipivo.jishnumahanta.in#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Local-first native clipboard manager that keeps your clipboard history searchable, organized, and private.</description>
+</item>
+<item>
+<title>ChannelX — via awesome-amazon-seller</title>
+<link>https://channelx.world/</link>
+<guid isPermaLink="false">https://channelx.world/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>News, articles and events for businesses that sell on online marketplaces. Formerly Tamebay.</description>
+</item>
+<item>
+<title>Cellar — via open-source-mac-os-apps</title>
+<link>https://github.com/tuhage/Cellar</link>
+<guid isPermaLink="false">https://github.com/tuhage/Cellar#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Homebrew manager for formulae, casks, and services that previews what brew will change before it runs.Languages: SwiftWebsite: https://github.com/tuhage/Cellar</description>
+</item>
+<item>
+<title>Carbon Forge — via awesome-gemini-cli</title>
+<link>https://carbonforge.dev/docs/p/guides/mcp-anonymous-access?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://carbonforge.dev/docs/p/guides/mcp-anonymous-access?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Hosted MCP server for source control and a shared record: Gemini CLI can read and write code, files and prose in one record on the server, open a lane instead of cloning, and land a change as one all-or-nothing changeset. Remote Streamable HTTP at https://carbonforge.dev/api/mcp; public workspaces read without a token, writing needs a bearer token.</description>
+</item>
+<item>
+<title>BulkBarcode Generator — via awesome-amazon-seller</title>
+<link>https://bulkbarcode-generator.com</link>
+<guid isPermaLink="false">https://bulkbarcode-generator.com#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Makes FNSKU, UPC, EAN-13, Code 128 and QR labels in bulk from an Excel or CSV file, and exports print-ready PDF rolls for thermal printers. Runs in the browser. Free plan.</description>
+</item>
+<item>
+<title>Budna MCP — via awesome-gemini-cli</title>
+<link>https://github.com/budna-marketplace/mcp</link>
+<guid isPermaLink="false">https://github.com/budna-marketplace/mcp#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Read-only MCP server for Budna, a Swedish second-hand marketplace: search and inspect public listings, categories, filters, seller profiles, and bid and rating summaries from Gemini CLI. 11 tools, interactive listing cards in MCP Apps clients. Local stdio, no API key, no account. MIT. Run with npx --yes @budna-marketplace/mcp.</description>
+</item>
+<item>
+<title>Blazor Welcomes Open-Source Contributions from Infragistics — via awesome-blazor</title>
+<link>https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>October 27, 2026 - Microsoft is pleased to welcome Infragistics as an active contributor to Blazor! Infragistics has made more than 50 of its Blazor controls free and open source, and its engineers are contributing directly to the framework. Their work includes new Blazor analyzers for .NET 11 and tooling to help you get started with their components.</description>
+</item>
+<item>
+<title>BankBridge — via awesome-gemini-cli</title>
+<link>https://bankbridge.money/?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://bankbridge.money/?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Hosted MCP server that lets Gemini CLI answer questions about your own US bank, credit card and investment accounts: spending by category or merchant, recurring charges, monthly cashflow, holdings. 12 read-only tools, data fetched live on each call; it can't move money. Remote Streamable HTTP with OAuth sign-in. Paid, $5/mo per connected bank. Install: gemini extensions install https://github.com/bankbridge-money/bankbridge-plugin, then /mcp auth bankbridge.</description>
+</item>
+<item>
+<title>Awesome Agentic Commerce — via awesome-amazon-seller</title>
+<link>https://github.com/MentionNetwork/awesome-agentic-commerce</link>
+<guid isPermaLink="false">https://github.com/MentionNetwork/awesome-agentic-commerce#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Curated list of agentic commerce resources: protocols (ACP, UCP, MCP), agent-readiness tools, and guides to make products visible to AI shopping agents.</description>
+</item>
+<item>
+<title>Anki Miner — via open-source-mac-os-apps</title>
+<link>https://github.com/0xzerolight/anki_miner</link>
+<guid isPermaLink="false">https://github.com/0xzerolight/anki_miner#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages.Languages: Python</description>
+</item>
+<item>
+<title>AngularLynx — via awesome-angular</title>
+<link>https://github.com/Blotch-Smart-Frames/AngularLynx</link>
+<guid isPermaLink="false">https://github.com/Blotch-Smart-Frames/AngularLynx#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Renders Angular components to native iOS, Android, and Web UI via the Lynx runtime by ByteDance.</description>
+</item>
+<item>
+<title>Amical — via awesome-mac</title>
+<link>https://amical.ai</link>
+<guid isPermaLink="false">https://amical.ai#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source AI dictation and note-taking app that types into any app and formats the text for the app you are in, using local Whisper or Parakeet models.</description>
+</item>
+<item>
+<title>Aman Check — via open-source-mac-os-apps</title>
+<link>https://github.com/MidZai/aman_check</link>
+<guid isPermaLink="false">https://github.com/MidZai/aman_check#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.Languages: SwiftWebsite: https://midzai.github.io/aman_check/</description>
+</item>
+<item>
+<title>Alchemist Coder — via open-source-mac-os-apps</title>
+<link>https://github.com/Alekla0126/alchemist-coder</link>
+<guid isPermaLink="false">https://github.com/Alekla0126/alchemist-coder#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Desktop app for Claude Code and Codex that shows every agent and subagent live, searches your coding-agent history and runs agents on local models.Languages: TypeScriptWebsite: https://coder.alekla.com</description>
+</item>
+<item>
+<title>Aixle Flow — via awesome-gemini-cli</title>
+<link>https://github.com/AixleHQ/flow</link>
+<guid isPermaLink="false">https://github.com/AixleHQ/flow#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.</description>
+</item>
+<item>
+<title>Agent Notifications — via awesome-gemini-cli</title>
+<link>https://github.com/777genius/agent-notifications</link>
+<guid isPermaLink="false">https://github.com/777genius/agent-notifications#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Cross-platform desktop notifications and optional webhooks for Gemini CLI turn completion and tool permission requests. Also supports Claude Code, Codex CLI, OpenCode, Cursor CLI, and Qoder.</description>
+</item>
+<item>
+<title>AURA Switcher — via open-source-mac-os-apps</title>
+<link>https://github.com/klbk/aura-switcher-app</link>
+<guid isPermaLink="false">https://github.com/klbk/aura-switcher-app#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.Languages: SwiftWebsite: https://klbk.github.io/aura-switcher/</description>
+</item>
+<item>
+<title>vibe-testing — via awesome-testing</title>
+<link>https://github.com/AishwaryShrivastav/vibe-testing</link>
+<guid isPermaLink="false">https://github.com/AishwaryShrivastav/vibe-testing#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.</description>
+</item>
+<item>
+<title>telegym — via awesome-testing</title>
+<link>https://github.com/kolomiichenko/telegym</link>
+<guid isPermaLink="false">https://github.com/kolomiichenko/telegym#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Load testing for Telegram bots: a drop-in Bot API mock plus a k6 extension that drives virtual users.</description>
+</item>
+<item>
+<title>stoimen's web log — via awesome-algorithms-education</title>
+<link>http://www.stoimen.com/category/algorithms</link>
+<guid isPermaLink="false">http://www.stoimen.com/category/algorithms#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Blog series on classic algorithms and data structures.</description>
+</item>
+<item>
+<title>solved.ac — via awesome-algorithms-education</title>
+<link>https://solved.ac</link>
+<guid isPermaLink="false">https://solved.ac#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Korean / Difficulty tiers and problem recommendations for Baekjoon.</description>
+</item>
+<item>
+<title>qarunbook — via awesome-testing</title>
+<link>https://qarunbook.com</link>
+<guid isPermaLink="false">https://qarunbook.com#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free shared test runbook where testers record a pass or fail per platform with screenshots, and an issue marked fixed sends the check back for a retest.</description>
+</item>
+<item>
+<title>postal-code-formats — via awesome-testing</title>
+<link>https://github.com/vinceblock99/postal-code-formats</link>
+<guid isPermaLink="false">https://github.com/vinceblock99/postal-code-formats#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.</description>
+</item>
+<item>
+<title>openid-client — via awesome-openid-connect</title>
+<link>https://github.com/panva/openid-client</link>
+<guid isPermaLink="false">https://github.com/panva/openid-client#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.</description>
+</item>
+<item>
+<title>nanoleaf2mqtt — via awesome-mqtt</title>
+<link>https://github.com/boesec/nanoleaf2mqtt</link>
+<guid isPermaLink="false">https://github.com/boesec/nanoleaf2mqtt#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Interface between Nanoleaf light panels and MQTT.</description>
+</item>
+<item>
+<title>mailsocket — via awesome-testing</title>
+<link>https://mailsocket.app</link>
+<guid isPermaLink="false">https://mailsocket.app#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Inbox API that waits for an email OTP or magic link and returns it as JSON, with Python and TypeScript SDKs and an MCP server.</description>
+</item>
+<item>
+<title>learn-angular — via awesome-angular</title>
+<link>https://github.com/TheLearningHubOrg/learn-angular</link>
+<guid isPermaLink="false">https://github.com/TheLearningHubOrg/learn-angular#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>An exhaustive, production-grade masterclass from absolute zero to staff-level Angular platform architecture.</description>
+</item>
+<item>
+<title>k6 — via awesome-testing</title>
+<link>https://github.com/grafana/k6</link>
+<guid isPermaLink="false">https://github.com/grafana/k6#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.</description>
+</item>
+<item>
+<title>junit-collision-check — via awesome-testing</title>
+<link>https://github.com/sunxiuguo/junit-collision-check</link>
+<guid isPermaLink="false">https://github.com/sunxiuguo/junit-collision-check#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.</description>
+</item>
+<item>
+<title>ipavlin98/traydex — via awesome-rust</title>
+<link>https://github.com/ipavlin98/traydex</link>
+<guid isPermaLink="false">https://github.com/ipavlin98/traydex#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Native drag-and-drop shelf for Windows built with GPUI: keep files, images, text and links at hand, or drop them on tiles to zip, convert, OCR and upload</description>
+</item>
+<item>
+<title>ghostty-designer — via awesome-mac</title>
+<link>https://github.com/reemus-dev/ghostty-designer</link>
+<guid isPermaLink="false">https://github.com/reemus-dev/ghostty-designer#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Live-preview editor for Ghostty themes, fonts and UI settings.</description>
+</item>
+<item>
+<title>gamjagoon/earlgrey.nvim — via awesome-neovim</title>
+<link>https://github.com/gamjagoon/earlgrey.nvim</link>
+<guid isPermaLink="false">https://github.com/gamjagoon/earlgrey.nvim#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.</description>
+</item>
+<item>
+<title>flight-recorder — via awesome-testing</title>
+<link>https://github.com/xag/flight-recorder</link>
+<guid isPermaLink="false">https://github.com/xag/flight-recorder#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.</description>
+</item>
+<item>
+<title>fieldtwin — via awesome-testing</title>
+<link>https://nickgeorgeai.com/fieldtwin</link>
+<guid isPermaLink="false">https://nickgeorgeai.com/fieldtwin#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.</description>
+</item>
+<item>
+<title>fanout-check — via awesome-testing</title>
+<link>https://github.com/sunxiuguo/fanout-check</link>
+<guid isPermaLink="false">https://github.com/sunxiuguo/fanout-check#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.</description>
+</item>
+<item>
+<title>cloudf.one — via awesome-testing</title>
+<link>https://www.cloudf.one</link>
+<guid isPermaLink="false">https://www.cloudf.one#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.</description>
+</item>
+<item>
+<title>cloneproof — via awesome-testing</title>
+<link>https://github.com/pcjansen09-max/cloneproof</link>
+<guid isPermaLink="false">https://github.com/pcjansen09-max/cloneproof#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Scores how closely a website clone matches the original (pixels, layout, style, scroll motion) with Playwright and lists the exact differences.</description>
+</item>
+<item>
+<title>check-proxy-tax — via awesome-testing</title>
+<link>https://github.com/600me/check-proxy-tax</link>
+<guid isPermaLink="false">https://github.com/600me/check-proxy-tax#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.</description>
+</item>
+<item>
+<title>blastproof — via awesome-testing</title>
+<link>https://blastproof.dev</link>
+<guid isPermaLink="false">https://blastproof.dev#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.</description>
+</item>
+<item>
+<title>behave — via awesome-testing</title>
+<link>https://github.com/emirmrkaljevic/behave</link>
+<guid isPermaLink="false">https://github.com/emirmrkaljevic/behave#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.</description>
+</item>
+<item>
+<title>beecrowd — via awesome-algorithms-education</title>
+<link>https://judge.beecrowd.com</link>
+<guid isPermaLink="false">https://judge.beecrowd.com#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>English, Spanish, Brazilian Portuguese / Large problem archive with contests, formerly URI Online Judge.</description>
+</item>
+<item>
+<title>assay — via awesome-testing</title>
+<link>https://github.com/awss1i/assay</link>
+<guid isPermaLink="false">https://github.com/awss1i/assay#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.</description>
+</item>
+<item>
+<title>aiexpect — via awesome-testing</title>
+<link>https://github.com/dmsehgal/aiexpect</link>
+<guid isPermaLink="false">https://github.com/dmsehgal/aiexpect#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.</description>
+</item>
+<item>
+<title>ai-wright — via awesome-testing</title>
+<link>https://github.com/TestChimp/ai-wright</link>
+<guid isPermaLink="false">https://github.com/TestChimp/ai-wright#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.</description>
+</item>
+<item>
+<title>What are the best books on algorithms and data structures? — via awesome-algorithms-education</title>
+<link>https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures</link>
+<guid isPermaLink="false">https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Quora / Community answers that mostly point to CLRS, with Sedgewick, Skiena and Manber as alternatives.</description>
+</item>
+<item>
+<title>What are the best and efficient ways to learn algorithms for beginners? — via awesome-algorithms-education</title>
+<link>https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners</link>
+<guid isPermaLink="false">https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Quora / Community answers recommending fundamentals first, textbook study and steady practice on online judges.</description>
+</item>
+<item>
+<title>VisuAlgo — via awesome-algorithms-education</title>
+<link>https://visualgo.net</link>
+<guid isPermaLink="false">https://visualgo.net#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>English, Chinese, Indonesian / Animated visualizations of 24 data structure and algorithm modules with quizzes, by Steven Halim of NUS.</description>
+</item>
+<item>
+<title>VibeView — via awesome-testing</title>
+<link>https://vibeview.io/</link>
+<guid isPermaLink="false">https://vibeview.io/#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Run &amp; test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be ran cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.</description>
+</item>
+<item>
+<title>VeriSpec — via awesome-testing</title>
+<link>https://github.com/godikemahesh/verispec</link>
+<guid isPermaLink="false">https://github.com/godikemahesh/verispec#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.</description>
+</item>
+<item>
+<title>Vamonos — via awesome-algorithms-education</title>
+<link>http://rosulek.github.io/vamonos</link>
+<guid isPermaLink="false">http://rosulek.github.io/vamonos#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>JavaScript Programming Language / Oregon State library for browser visualizations of array and graph algorithms with breakpoints and step-back.</description>
+</item>
+<item>
+<title>UserNote — via free-for-dev</title>
+<link>https://getusernote.com/</link>
+<guid isPermaLink="false">https://getusernote.com/#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>A user feedback tool to capture most wanted features, free supports up to 50 feature ideas and unlimited votes.</description>
+</item>
+<item>
+<title>UVa Online Judge — via awesome-algorithms-education</title>
+<link>https://onlinejudge.org</link>
+<guid isPermaLink="false">https://onlinejudge.org#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Classic problem archive with the uHunt progress tracker and the ICPC Live Archive.</description>
+</item>
+<item>
+<title>USACO Guide — via awesome-algorithms-education</title>
+<link>https://usaco.guide</link>
+<guid isPermaLink="false">https://usaco.guide#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free structured curriculum for competitive programming, from Bronze to Platinum.</description>
+</item>
+<item>
+<title>UCPC — via awesome-algorithms-education</title>
+<link>https://ucpc.me</link>
+<guid isPermaLink="false">https://ucpc.me#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Korean / Union of Collegiate Programming Contest clubs / Annual three-person team contest with an online qualifier and an on-site final.</description>
+</item>
+<item>
+<title>Twinbay — via awesome-testing</title>
+<link>https://twinbay.ai</link>
+<guid isPermaLink="false">https://twinbay.ai#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.</description>
+</item>
+<item>
+<title>Topcoder — via awesome-algorithms-education</title>
+<link>https://www.topcoder.com</link>
+<guid isPermaLink="false">https://www.topcoder.com#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Long-running Single Round Matches (SRMs) with a problem archive and editorials.</description>
+</item>
+<item>
+<title>The Sound of Sorting — via awesome-algorithms-education</title>
+<link>https://panthema.net/2013/sound-of-sorting/</link>
+<guid isPermaLink="false">https://panthema.net/2013/sound-of-sorting/#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>C ++ Programming Language / Timo Bingmann's demo that draws and plays a tone for each comparison across dozens of sorting algorithms.</description>
+</item>
+<item>
+<title>The Algorithms — via awesome-algorithms-education</title>
+<link>https://github.com/TheAlgorithms</link>
+<guid isPermaLink="false">https://github.com/TheAlgorithms#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source implementations of algorithms in every major language.</description>
+</item>
+<item>
+<title>TensorFlow Playground — via awesome-algorithms-education</title>
+<link>http://playground.tensorflow.org</link>
+<guid isPermaLink="false">http://playground.tensorflow.org#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Browser demo for tinkering with a small neural network.</description>
+</item>
+<item>
+<title>TempMail Hub — via awesome-testing</title>
+<link>https://tempmailhub.net/</link>
+<guid isPermaLink="false">https://tempmailhub.net/#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free disposable inbox for manual or scripted signup and email-verification testing, with a selectable lifetime from 10 minutes to 7 days and no account required.</description>
+</item>
+<item>
+<title>Tech stack for Baekjoon online judge — via awesome-algorithms-education</title>
+<link>https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/</link>
+<guid isPermaLink="false">https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Korean / Startlink's write-up of how the Baekjoon judge was built and which technologies it runs on.</description>
+</item>
+<item>
+<title>Tech Interview Handbook — via awesome-algorithms-education</title>
+<link>https://www.techinterviewhandbook.org</link>
+<guid isPermaLink="false">https://www.techinterviewhandbook.org#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free curated interview preparation materials, including the Blind 75 and Grind 75 question lists.</description>
+</item>
+<item>
+<title>Tabularis MongoDB plugin — via awesome-mongodb</title>
+<link>https://github.com/TabularisDB/tabularis-mongodb-plugin</link>
+<guid isPermaLink="false">https://github.com/TabularisDB/tabularis-mongodb-plugin#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>MongoDB support for the Tabularis desktop client, including collection browsing, document queries and aggregation pipelines</description>
+</item>
+<item>
+<title>TabQA — via awesome-testing</title>
+<link>https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp</link>
+<guid isPermaLink="false">https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Connect, mirror, and control Android devices directly in Chrome via WebUSB without ADB; capture logs, inspect network requests, and record bug reproduction video buffers.</description>
+</item>
+<item>
+<title>StudioTwin — via magictools</title>
+<link>https://www.studiotwin.ai/mcp/?utm_source=magictools&amp;utm_medium=directory</link>
+<guid isPermaLink="false">https://www.studiotwin.ai/mcp/?utm_source=magictools&amp;utm_medium=directory#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.</description>
+</item>
+<item>
+<title>StanzaAPI Test Data — via awesome-testing</title>
+<link>https://stanzaapi.com/datasets</link>
+<guid isPermaLink="false">https://stanzaapi.com/datasets#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.</description>
+</item>
+</channel>
+</rss>
