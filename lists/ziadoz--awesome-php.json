@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"702f0a795144f036c734b3ca65220634dd7c2ec630e5be3224674cf98157c99b\"",
+  "etag": "W/\"9e5126d59281d4effcccdb06e6f3c2641f9822ca9e08c03c978b3876b0597cc7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -78,16 +78,6 @@
       "name": "Phive",
       "url": "https://phar.io/",
       "description": "A PHAR manager.",
-      "section": [
-        "Table of Contents",
-        "Dependency Management"
-      ]
-    },
-    {
-      "key": "https://github.com/FriendsOfPHP/pickle",
-      "name": "Pickle",
-      "url": "https://github.com/FriendsOfPHP/pickle",
-      "description": "A PHP extension installer.",
       "section": [
         "Table of Contents",
         "Dependency Management"
@@ -244,9 +234,9 @@
       ]
     },
     {
-      "key": "https://phalcon.io/en-us",
+      "key": "https://phalcon.io",
       "name": "Phalcon",
-      "url": "https://phalcon.io/en-us",
+      "url": "https://phalcon.io/",
       "description": "A framework implemented as a C extension.",
       "section": [
         "Table of Contents",
@@ -424,9 +414,9 @@
       ]
     },
     {
-      "key": "https://moodle.org",
+      "key": "https://github.com/moodle/moodle",
       "name": "Moodle",
-      "url": "https://moodle.org/",
+      "url": "https://github.com/moodle/moodle",
       "description": "An open-source learning platform.",
       "section": [
         "Table of Contents",
@@ -1088,16 +1078,6 @@
       "name": "PHPMailer",
       "url": "https://github.com/PHPMailer/PHPMailer",
       "description": "Another mailer solution.",
-      "section": [
-        "Table of Contents",
-        "Email"
-      ]
-    },
-    {
-      "key": "https://github.com/Stampie/Stampie",
-      "name": "Stampie",
-      "url": "https://github.com/Stampie/Stampie",
-      "description": "A library for email services such as SendGrid, PostMark, MailGun and MailChimp.",
       "section": [
         "Table of Contents",
         "Email"
@@ -2384,9 +2364,9 @@
       ]
     },
     {
-      "key": "https://github.com/phacility/xhprof",
+      "key": "https://github.com/longxinH/xhprof",
       "name": "XHProf",
-      "url": "https://github.com/phacility/xhprof",
+      "url": "https://github.com/longxinH/xhprof",
       "description": "A profiling tool originally developed by Facebook.",
       "section": [
         "Table of Contents",
@@ -2718,16 +2698,6 @@
       "name": "Amp",
       "url": "https://github.com/amphp/amp",
       "description": "An event-driven non-blocking I/O library.",
-      "section": [
-        "Table of Contents",
-        "Event"
-      ]
-    },
-    {
-      "key": "https://github.com/broadway/broadway",
-      "name": "Broadway",
-      "url": "https://github.com/broadway/broadway",
-      "description": "An event source and CQRS library.",
       "section": [
         "Table of Contents",
         "Event"
@@ -3404,9 +3374,9 @@
       ]
     },
     {
-      "key": "https://github.com/mtdowling/cron-expression",
+      "key": "https://github.com/dragonmantank/cron-expression",
       "name": "Cron Expression",
-      "url": "https://github.com/mtdowling/cron-expression",
+      "url": "https://github.com/dragonmantank/cron-expression",
       "description": "A library to calculate cron run dates.",
       "section": [
         "Table of Contents",
@@ -3834,9 +3804,9 @@
       ]
     },
     {
-      "key": "https://github.com/jdorn/sql-formatter",
+      "key": "https://github.com/doctrine/sql-formatter",
       "name": "SQL Formatter",
-      "url": "https://github.com/jdorn/sql-formatter/",
+      "url": "https://github.com/doctrine/sql-formatter",
       "description": "A library for formatting SQL statements.",
       "section": [
         "Table of Contents",
@@ -4434,9 +4404,9 @@
       ]
     },
     {
-      "key": "https://github.com/vlucas/phpdotenv",
+      "key": "https://github.com/phpdotenv/phpdotenv",
       "name": "PHP Dotenv",
-      "url": "https://github.com/vlucas/phpdotenv",
+      "url": "https://github.com/phpdotenv/phpdotenv",
       "description": "Parse and load environment variables from .env files.",
       "section": [
         "Table of Contents",
@@ -4694,9 +4664,9 @@
       ]
     },
     {
-      "key": "https://github.com/whiteoctober/Pagerfanta",
+      "key": "https://github.com/BabDev/Pagerfanta",
       "name": "Pagerfanta",
-      "url": "https://github.com/whiteoctober/Pagerfanta",
+      "url": "https://github.com/BabDev/Pagerfanta",
       "description": "A pagination library.",
       "section": [
         "Table of Contents",
@@ -4815,16 +4785,16 @@
     {
       "key": "https://lando.dev",
       "name": "Lando",
-      "url": "https://lando.dev/",
+      "url": "https://www.lando.dev/",
       "description": "Push-button development environments.",
       "section": [
         "Development Environment"
       ]
     },
     {
-      "key": "https://laravel.com/docs/master/homestead",
+      "key": "https://laravel.com/framework/docs/master/homestead",
       "name": "Laravel Homestead",
-      "url": "https://laravel.com/docs/master/homestead",
+      "url": "https://laravel.com/framework/docs/master/homestead",
       "description": "A local development environment for Laravel.",
       "section": [
         "Development Environment"
@@ -4903,9 +4873,9 @@
       ]
     },
     {
-      "key": "https://github.com/facebook/hhvm",
+      "key": "https://github.com/meta/hhvm",
       "name": "HHVM",
-      "url": "https://github.com/facebook/hhvm",
+      "url": "https://github.com/meta/hhvm",
       "description": "A Virtual Machine, Runtime and JIT for PHP by Facebook.",
       "section": [
         "Virtual Machines"
@@ -4993,9 +4963,9 @@
       ]
     },
     {
-      "key": "https://github.com/electerious/Lychee",
+      "key": "https://github.com/LycheeOrg/Lychee",
       "name": "Lychee",
-      "url": "https://github.com/electerious/Lychee",
+      "url": "https://github.com/LycheeOrg/Lychee",
       "description": "An easy to use and great looking photo-management-system.",
       "section": [
         "Web Applications"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8dc84fe2ed49173d052237edce7f4028337189a76c8fd40df48642cf95c2889f\"",
+  "etag": "W/\"3be9a7904808e6f021eba8630be7d9e4ad44caa0a245fbefb95fe60e7e005e50\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1481,6 +1481,15 @@
       ]
     },
     {
+      "key": "https://github.com/mithredate/zsh-aws-login",
+      "name": "aws-login",
+      "url": "https://github.com/mithredate/zsh-aws-login",
+      "description": "Provides an aws-login command that starts an AWS session that only the current terminal and its child processes can use.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/FreebirdRides/oh-my-zsh-aws-mfa",
       "name": "aws-mfa",
       "url": "https://github.com/FreebirdRides/oh-my-zsh-aws-mfa",
@@ -2147,6 +2156,15 @@
       ]
     },
     {
+      "key": "https://github.com/LordMauldascha/claude-sandbox",
+      "name": "claude-sandbox",
+      "url": "https://github.com/LordMauldascha/claude-sandbox",
+      "description": "Points CLAUDE_CONFIG_DIR at a throwaway directory, so everything Claude Code reads and writes (settings, plugins, skills, history, credentials) stays inside that sandbox. Leave it, delete it, and your real setup is exactly as you left it.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/myk-org/claude-shell",
       "name": "claude-shell",
       "url": "https://github.com/myk-org/claude-shell",
@@ -2547,6 +2565,15 @@
       "name": "ctrl-z",
       "url": "https://github.com/Zile995/zsh-ctrl-z",
       "description": "Enhances the default CTRL+Z behavior using fzf. It allows you to visually browse, resume, or terminate suspended background jobs directly from your terminal prompt.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/AndrewHany/zsh-curl-edit",
+      "name": "curl-edit",
+      "url": "https://github.com/AndrewHany/zsh-curl-edit",
+      "description": "Automatically open pasted cURL commands in an editor before executing them.",
       "section": [
         "Plugins"
       ]
@@ -8375,6 +8402,15 @@
       ]
     },
     {
+      "key": "https://github.com/hggaguilera/sf-shortcuts",
+      "name": "sf-shortcuts",
+      "url": "https://github.com/hggaguilera/sf-shortcuts",
+      "description": "Short, predictable commands for the Salesforce CLI (sf), with tab completion for Apex classes, components (aura/lightning) and orgs.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/ecmma/shelf",
       "name": "shelf",
       "url": "https://github.com/ecmma/shelf",
@@ -8717,6 +8753,15 @@
       ]
     },
     {
+      "key": "https://github.com/reactivepixels/sparklebios",
+      "name": "SparkleBIOS",
+      "url": "https://github.com/reactivepixels/sparklebios",
+      "description": "Draws a retro 1995 PC BIOS boot screen with real system facts and cached health checks when a new ZSH session starts.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/ericlikedis/spotify-now",
       "name": "spotify-now",
       "url": "https://github.com/ericlikedis/spotify-now",
@@ -9018,6 +9063,15 @@
       "name": "t32",
       "url": "https://github.com/chrissicool/zsh-t32",
       "description": "Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/arnodirlam/tab-start",
+      "name": "tab-start",
+      "url": "https://github.com/arnodirlam/tab-start",
+      "description": "adds starter entries to ZSH completion when you press TAB at a blank prompt. Uses fzf-tab to render those entries and provides grouping, fuzzy search, and selection.",
       "section": [
         "Plugins"
       ]
@@ -9383,6 +9437,15 @@
       ]
     },
     {
+      "key": "https://github.com/hgarfer/ohmyzsh-tmux-inside",
+      "name": "tmux-inside",
+      "url": "https://github.com/hgarfer/ohmyzsh-tmux-inside",
+      "description": "A drop-in replacement for the oh-my-zsh tmux plugin that makes the tmux aliases work from inside a tmux session: instead of trying to nest a session (which tmux refuses), they switch to the target session, creating it detached in the current directory if needed.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/sei40kr/zsh-tmux-rename",
       "name": "tmux-rename",
       "url": "https://github.com/sei40kr/zsh-tmux-rename",
@@ -9675,6 +9738,15 @@
       "name": "usb",
       "url": "https://github.com/NiziL/usb.plugin.zsh",
       "description": "A tiny plugin to quickly mount and unmount your USB drives.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/zsh-contrib/zsh-utm",
+      "name": "utm",
+      "url": "https://github.com/zsh-contrib/zsh-utm",
+      "description": "Adds a single utm command on top of utmctl, the command line tool that ships with UTM, with tab completion for subcommands, virtual machine names and snapshot names, and a --wait that utmctl does not have.",
       "section": [
         "Plugins"
       ]
@@ -21230,7 +21302,7 @@
       "key": "https://starship.rs",
       "name": "starship",
       "url": "https://starship.rs/",
-      "description": "Minimal, fast, extremely customizable.",
+      "description": "Minimal, fast, extremely customizable. See starship-studio for easier customization.",
       "section": [
         "Themes"
       ]

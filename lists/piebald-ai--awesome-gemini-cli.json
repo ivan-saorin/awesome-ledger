@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b463efab29694be779ffc90ccdec2285b0287b8b5399da6b4259250c14794c15\"",
+  "etag": "W/\"f1f71edbb1315ed1987015673794ebc49ba912de3bb25652483ee37e82b7cbce\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -985,6 +985,15 @@
       ]
     },
     {
+      "key": "https://github.com/fainir/frugal",
+      "name": "frugal",
+      "url": "https://github.com/fainir/frugal",
+      "description": "Gemini CLI extension and Agent Skill: before anything is bought, subscribed to or upgraded, Gemini checks free tiers, the right plan and billing period, startup, student, open-source and nonprofit programs, verified promo codes and cheaper alternatives, then reports the best options with sources. Never pays by itself. MIT. Install with gemini extensions install https://github.com/fainir/frugal.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1574,6 +1583,24 @@
       "name": "Agent Notifications",
       "url": "https://github.com/777genius/agent-notifications",
       "description": "Cross-platform desktop notifications and optional webhooks for Gemini CLI turn completion and tool permission requests. Also supports Claude Code, Codex CLI, OpenCode, Cursor CLI, and Qoder.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/jangtrinh/design-os",
+      "name": "DESIGN:OS",
+      "url": "https://github.com/jangtrinh/design-os",
+      "description": "Free design CLI and skill pack for Gemini CLI, Claude Code and Codex. Describe a UI in plain words and get web, Figma and SwiftUI output checked by deterministic taste gates; installs with npx @easestart/design-os init. Source-available (PolyForm Shield).",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Frank-Masciopinto/ironheights",
+      "name": "Ironheights",
+      "url": "https://github.com/Frank-Masciopinto/ironheights",
+      "description": "Offline security scanner that protects any AI bot's skills: scans any skill folder with a SKILL.md (including Gemini CLI skills in ~/.gemini/skills/) for prompt injection, credential theft, and other risky patterns before you install it, with findings tagged by OWASP LLM Top 10 and OpenCRE ID. Reads files as data, never runs them, no telemetry. Run npx ironheights scan ./path/to/skill. Apache-2.0.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -2501,6 +2528,24 @@
       "name": "Tavero",
       "url": "https://github.com/baccaraaa/tavero",
       "description": "MCP server and CLI that finds UI inconsistencies (spacing, colors, typography, component drift) in running React apps and gives coding agents fixes with file/line references. Works with Gemini CLI as an MCP server. Run: npx -y tavero mcp. Free, MIT.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/tubeagentkit/youtube-mcp",
+      "name": "GetYouTubeTranscript",
+      "url": "https://github.com/tubeagentkit/youtube-mcp",
+      "description": "YouTube transcripts and data for Gemini CLI: fetch a video's transcript (pick the language, optional timestamps), search YouTube, browse a channel's videos, playlists and posts, search inside a channel, list a playlist, find related videos, and read a channel banner or estimated dislikes. 13 tools. Hosted Streamable HTTP; tool calls need an API key from the dashboard (1 credit per call, 100 credits on sign-up, paid plans from $5/month). MIT. Add with: gemini mcp add --transport http --header \"Authorization: Bearer <API_KEY>\" getyoutubetranscript https://getyoutubetranscript.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/fainir/recall",
+      "name": "recall",
+      "url": "https://github.com/fainir/recall",
+      "description": "MCP server that reads and writes Claude Code's per-project auto memory (Markdown files with [[wiki-links]]), so Gemini CLI, Codex and Cursor share the same memories. memory_recall follows links within a token budget; optional read-only mode. Zero dependencies, local only. MIT. Install with gemini extensions install https://github.com/fainir/recall (serves the memory of the folder you start Gemini in) or run npx -y @fainir/recall.",
       "section": [
         "MCP Servers"
       ]

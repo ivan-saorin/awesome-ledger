@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e9abb1588a6857be8d30985aa0d741f0a4a4ba8f9f8bf8811b6ad5131d61154b\"",
+  "etag": "W/\"324235264775273370152eb20f386d0ee3a370f5f4bf5356b66dc94ccbba54e4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3335,6 +3335,15 @@
       "name": "terratag",
       "url": "https://github.com/env0/terratag",
       "description": "Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/eurafaeldecarvalho/tf-exclude",
+      "name": "tf-exclude",
+      "url": "https://github.com/eurafaeldecarvalho/tf-exclude",
+      "description": "Runs terraform plan/apply/destroy on every resource except the ones you name, plus their dependents, by computing the -target list from the plan and dependency graph.",
       "section": [
         "Tools"
       ]
