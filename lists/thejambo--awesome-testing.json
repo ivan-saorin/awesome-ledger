@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5a9293edce52f2871ee71d6d6f51ef64bb1d0dd1dc8634a98bd0fa42694ce444\"",
+  "etag": "W/\"f851da25202abd724aeae1d10b2cc54cfd7ac16a0baaf5c0c7b02506d99ecec2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -424,6 +424,16 @@
       ]
     },
     {
+      "key": "https://github.com/connabyss/bite",
+      "name": "Bite",
+      "url": "https://github.com/connabyss/bite",
+      "description": "Open-source CLI that checks whether recent \"fixed\" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
       "key": "https://beeceptor.com",
       "name": "Beeceptor",
       "url": "https://beeceptor.com/",
@@ -448,6 +458,16 @@
       "name": "fakecloud",
       "url": "https://github.com/faiscadev/fakecloud",
       "description": "Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.",
+      "section": [
+        "Software",
+        "Service Virtualization"
+      ]
+    },
+    {
+      "key": "https://github.com/nanmuyao-tools/ghostwire",
+      "name": "ghostwire",
+      "url": "https://github.com/nanmuyao-tools/ghostwire",
+      "description": "Open-source Linux tool that mocks ping, TCP connections, UDP errors and DNS per target address, with delay, jitter, loss and faults controllable live through an HTTP API; no proxy to point your program at, no root needed under exec.",
       "section": [
         "Software",
         "Service Virtualization"
@@ -1468,6 +1488,16 @@
       "name": "Oh My Android",
       "url": "https://github.com/ateymoori/oh-my-android",
       "description": "Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.",
+      "section": [
+        "Software",
+        "Accessibility & Usability Testing"
+      ]
+    },
+    {
+      "key": "https://persqo.com",
+      "name": "Persqo",
+      "url": "https://persqo.com",
+      "description": "Runs AI personas (different ages, devices and patience levels) through a live web app in a real browser and returns ranked issues with screenshots and severity, plus ready-to-paste fix prompts for your coding agent. 3 free test sessions, no card; paid plans from $59/month.",
       "section": [
         "Software",
         "Accessibility & Usability Testing"

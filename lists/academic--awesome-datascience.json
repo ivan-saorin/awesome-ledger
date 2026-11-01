@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c613d45e151c219fba005845fc7b5a81f17201abeb550032bd518bcad8f6c645\"",
+  "etag": "W/\"f7a4e6af46b04fffaf96868e3a4f636f1a2006c0bf703b2ea3f11055dbf74e3d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -24,10 +24,10 @@
       ]
     },
     {
-      "key": "https://github.com/OzorOwn/frostbyte-mcp",
-      "name": "Frostbyte MCP",
-      "url": "https://github.com/OzorOwn/frostbyte-mcp",
-      "description": "MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.",
+      "key": "https://github.com/exmergo/dex",
+      "name": "Dex",
+      "url": "https://github.com/exmergo/dex",
+      "description": "Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.",
       "section": [
         "Agents",
         "Tools"
@@ -74,9 +74,9 @@
       ]
     },
     {
-      "key": "https://github.com/future-agi/ai-evaluation",
+      "key": "https://github.com/future-agi/agent-learning-kit",
       "name": "ai-evaluation",
-      "url": "https://github.com/future-agi/ai-evaluation",
+      "url": "https://github.com/future-agi/agent-learning-kit",
       "description": "Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.",
       "section": [
         "Agents",
@@ -134,20 +134,10 @@
       ]
     },
     {
-      "key": "https://github.com/exmergo/dex",
-      "name": "Dex",
-      "url": "https://github.com/exmergo/dex",
-      "description": "Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.",
-      "section": [
-        "Agents",
-        "Tools"
-      ]
-    },
-    {
       "key": "https://bgpt.pro/mcp",
       "name": "BGPT MCP",
-      "url": "https://bgpt.pro/mcp",
-      "description": "MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. GitHub",
+      "url": "https://bgpt.pro/mcp/",
+      "description": "MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores.",
       "section": [
         "Agents",
         "Research & Knowledge Retrieval"
@@ -196,7 +186,7 @@
     {
       "key": "https://sim.ai",
       "name": "sim",
-      "url": "https://sim.ai",
+      "url": "https://www.sim.ai/",
       "description": "Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
       "section": [
         "Agents",
@@ -240,10 +230,40 @@
       ]
     },
     {
-      "key": "https://cloud.blobcity.com",
-      "name": "1000 Data Science Projects",
-      "url": "https://cloud.blobcity.com/#/ps/explore",
-      "description": "you can run on the browser with IPython.",
+      "key": "https://machinelearning101.com",
+      "name": "Machine Learning 101",
+      "url": "https://machinelearning101.com",
+      "description": "Free browser-based platform that teaches core machine learning algorithms through hands-on, interactive visualizations with no setup.",
+      "section": [
+        "Training Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/landedjobs/awesome-ai-engineer-interview",
+      "name": "AI Engineer Interview Prep",
+      "url": "https://github.com/landedjobs/awesome-ai-engineer-interview",
+      "description": "267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.",
+      "section": [
+        "Training Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://skillancy.in/tools/sql-compiler",
+      "name": "Skillancy SQL Compiler",
+      "url": "https://skillancy.in/tools/sql-compiler",
+      "description": "A browser-based PostgreSQL playground with a sample schema and interview-style practice queries.",
+      "section": [
+        "Training Resources",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://skillancy.in/tools/python-compiler",
+      "name": "Skillancy Python Compiler",
+      "url": "https://skillancy.in/tools/python-compiler",
+      "description": "A browser-based Python environment with NumPy and Pandas for data analysis practice.",
       "section": [
         "Training Resources",
         "Tutorials"
@@ -340,16 +360,6 @@
       ]
     },
     {
-      "key": "https://microprediction.com/python-1",
-      "name": "Realtime deployment",
-      "url": "https://www.microprediction.com/python-1",
-      "description": "Tutorial on Python time-series model deployment.",
-      "section": [
-        "Training Resources",
-        "Tutorials"
-      ]
-    },
-    {
       "key": "https://learntocodewith.me/posts/python-for-data-science",
       "name": "Python for Data Science: A Beginner’s Guide",
       "url": "https://learntocodewith.me/posts/python-for-data-science/",
@@ -370,19 +380,9 @@
       ]
     },
     {
-      "key": "https://github.com/landedjobs/awesome-ai-engineer-interview",
-      "name": "AI Engineer Interview Prep",
-      "url": "https://github.com/landedjobs/awesome-ai-engineer-interview",
-      "description": "267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.",
-      "section": [
-        "Training Resources",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://mlzoomcamp.com",
+      "key": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
       "name": "Understand and Know Machine Learning Engineering by Building Solid Projects",
-      "url": "https://mlzoomcamp.com/",
+      "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
       "description": "",
       "section": [
         "Training Resources",
@@ -410,9 +410,9 @@
       ]
     },
     {
-      "key": "https://alter-solutions.com/articles/java-data-science",
+      "key": "https://actdigital.com/en/insights/java-23-whats-new",
       "name": "Understand Data Science Course in Java",
-      "url": "https://www.alter-solutions.com/articles/java-data-science",
+      "url": "https://actdigital.com/en/insights/java-23-whats-new/",
       "description": "",
       "section": [
         "Training Resources",
@@ -442,28 +442,8 @@
     {
       "key": "https://datadriven.io",
       "name": "DataDriven - SQL, Python, and Data Modeling Interview Questions",
-      "url": "https://www.datadriven.io/",
+      "url": "https://datadriven.io/",
       "description": "",
-      "section": [
-        "Training Resources",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://skillancy.in/tools/sql-compiler",
-      "name": "Skillancy SQL Compiler",
-      "url": "https://skillancy.in/tools/sql-compiler",
-      "description": "A browser-based PostgreSQL playground with a sample schema and interview-style practice queries.",
-      "section": [
-        "Training Resources",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://skillancy.in/tools/python-compiler",
-      "name": "Skillancy Python Compiler",
-      "url": "https://skillancy.in/tools/python-compiler",
-      "description": "A browser-based Python environment with NumPy and Pandas for data analysis practice.",
       "section": [
         "Training Resources",
         "Tutorials"
@@ -500,16 +480,6 @@
       ]
     },
     {
-      "key": "https://machinelearning101.com",
-      "name": "Machine Learning 101",
-      "url": "https://machinelearning101.com",
-      "description": "Free browser-based platform that teaches core machine learning algorithms through hands-on, interactive visualizations with no setup.",
-      "section": [
-        "Training Resources",
-        "Tutorials"
-      ]
-    },
-    {
       "key": "https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate",
       "name": "AgentFEM Simulation-to-Surrogate Mini-Lab",
       "url": "https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate/",
@@ -517,6 +487,26 @@
       "section": [
         "Training Resources",
         "Tutorials"
+      ]
+    },
+    {
+      "key": "https://coddy.tech/landing/data-science",
+      "name": "Data Science Path by Coddy",
+      "url": "https://coddy.tech/landing/data-science",
+      "description": "Free interactive path from Python and SQL through statistics and machine learning with scikit-learn, with code written and run in the browser.",
+      "section": [
+        "Training Resources",
+        "Free Courses"
+      ]
+    },
+    {
+      "key": "https://coddy.tech/landing/data-analyst",
+      "name": "Data Analyst Path by Coddy",
+      "url": "https://coddy.tech/landing/data-analyst",
+      "description": "Free interactive path through Excel, SQL, Python, NumPy and Pandas, with code written and run in the browser.",
+      "section": [
+        "Training Resources",
+        "Free Courses"
       ]
     },
     {
@@ -550,9 +540,9 @@
       ]
     },
     {
-      "key": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope",
+      "key": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/resources/lecture-1-introduction-and-scope/index.html",
       "name": "Genetic Algorithms OCW Course",
-      "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/",
+      "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/resources/lecture-1-introduction-and-scope/index.html",
       "description": "",
       "section": [
         "Training Resources",
@@ -570,9 +560,9 @@
       ]
     },
     {
-      "key": "https://edx.org/course/convex-optimization",
+      "key": "https://edx.org/learn/engineering/stanford-university-convex-optimization",
       "name": "Convex Optimization",
-      "url": "https://www.edx.org/course/convex-optimization",
+      "url": "https://www.edx.org/learn/engineering/stanford-university-convex-optimization",
       "description": "Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)",
       "section": [
         "Training Resources",
@@ -600,40 +590,10 @@
       ]
     },
     {
-      "key": "https://coddy.tech/landing/data-science",
-      "name": "Data Science Path by Coddy",
-      "url": "https://coddy.tech/landing/data-science",
-      "description": "Free interactive path from Python and SQL through statistics and machine learning with scikit-learn, with code written and run in the browser.",
-      "section": [
-        "Training Resources",
-        "Free Courses"
-      ]
-    },
-    {
-      "key": "https://coddy.tech/landing/data-analyst",
-      "name": "Data Analyst Path by Coddy",
-      "url": "https://coddy.tech/landing/data-analyst",
-      "description": "Free interactive path through Excel, SQL, Python, NumPy and Pandas, with code written and run in the browser.",
-      "section": [
-        "Training Resources",
-        "Free Courses"
-      ]
-    },
-    {
-      "key": "https://arize.com/ml-observability-fundamentals",
+      "key": "https://arize.com/blog-course/machine-learning-observability-essentials",
       "name": "ML Observability Fundamentals",
-      "url": "https://arize.com/ml-observability-fundamentals/",
+      "url": "https://arize.com/blog-course/machine-learning-observability-essentials/",
       "description": "Learn how to monitor and root-cause production ML issues.",
-      "section": [
-        "Training Resources",
-        "Free Courses"
-      ]
-    },
-    {
-      "key": "https://wandb.courses/courses/effective-mlops-model-development",
-      "name": "Weights & Biases Effective MLOps: Model Development",
-      "url": "https://www.wandb.courses/courses/effective-mlops-model-development",
-      "description": "Free Course and Certification for building an end-to-end machine using W&B",
       "section": [
         "Training Resources",
         "Free Courses"
@@ -680,9 +640,9 @@
       ]
     },
     {
-      "key": "https://deeplearning.ai/short-courses/prompt-engineering-for-vision-models",
+      "key": "https://deeplearning.ai/courses/prompt-engineering-for-vision-models",
       "name": "Prompt Engineering for Vision Models",
-      "url": "https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/",
+      "url": "https://www.deeplearning.ai/courses/prompt-engineering-for-vision-models",
       "description": "Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.",
       "section": [
         "Training Resources",
@@ -690,9 +650,9 @@
       ]
     },
     {
-      "key": "https://skillsbuild.org/students/course-catalog/data-science",
+      "key": "https://skillsbuild.org/high-school",
       "name": "Data Science Course By IBM",
-      "url": "https://skillsbuild.org/students/course-catalog/data-science",
+      "url": "https://skillsbuild.org/high-school",
       "description": "Free resources and learn what data science is and how it’s used in different industries.",
       "section": [
         "Training Resources",
@@ -850,9 +810,9 @@
       ]
     },
     {
-      "key": "https://edx.org/course/statistical-thinking-for-data-science-and-analytic",
+      "key": "https://edx.org/school/columbiax",
       "name": "Statistical Thinking for Data Science and Analytics by Edx",
-      "url": "https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic",
+      "url": "https://www.edx.org/school/columbiax",
       "description": "",
       "section": [
         "Training Resources",
@@ -890,9 +850,9 @@
       ]
     },
     {
-      "key": "https://academy.microsoft.com/en-us/professional-program/tracks/data-science",
+      "key": "https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/1-introduction",
       "name": "Microsoft Professional Program for Data Science",
-      "url": "https://academy.microsoft.com/en-us/professional-program/tracks/data-science/",
+      "url": "https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/1-introduction",
       "description": "",
       "section": [
         "Training Resources",
@@ -990,9 +950,9 @@
       ]
     },
     {
-      "key": "https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020",
+      "key": "https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020",
       "name": "A 2020 Vision of Linear Algebra (G. Strang)",
-      "url": "https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/",
+      "url": "https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/",
       "description": "",
       "section": [
         "Training Resources",
@@ -1000,9 +960,9 @@
       ]
     },
     {
-      "key": "https://intellipaat.com/academy/course/python-for-data-science-free-training",
+      "key": "https://intellipaat.com/academy",
       "name": "Python for Data Science Foundation Course",
-      "url": "https://intellipaat.com/academy/course/python-for-data-science-free-training/",
+      "url": "https://intellipaat.com/academy/",
       "description": "",
       "section": [
         "Training Resources",
@@ -1020,9 +980,9 @@
       ]
     },
     {
-      "key": "https://coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+      "key": "https://coursera.org/learn/introduction-to-machine-learning-in-production",
       "name": "Machine Learning Engineering for Production (MLOps)",
-      "url": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+      "url": "https://www.coursera.org/learn/introduction-to-machine-learning-in-production",
       "description": "",
       "section": [
         "Training Resources",
@@ -1090,29 +1050,9 @@
       ]
     },
     {
-      "key": "https://codekidz.ai/lesson-intro/data-science-368dbf",
-      "name": "Data Science for Beginners - Learn with AI tutor",
-      "url": "https://codekidz.ai/lesson-intro/data-science-368dbf",
-      "description": "",
-      "section": [
-        "Training Resources",
-        "MOOC's"
-      ]
-    },
-    {
-      "key": "https://codekidz.ai/lesson-intro/machine-lear-36abfb",
-      "name": "Machine Learning for Beginners - Learn with AI tutor",
-      "url": "https://codekidz.ai/lesson-intro/machine-lear-36abfb",
-      "description": "",
-      "section": [
-        "Training Resources",
-        "MOOC's"
-      ]
-    },
-    {
-      "key": "https://mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science",
+      "key": "https://mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations",
       "name": "Introduction to Data Science",
-      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations",
       "description": "Getting Started with Python for Data Science",
       "section": [
         "Training Resources",
@@ -1120,9 +1060,9 @@
       ]
     },
     {
-      "key": "https://grow.google/data-analytics",
+      "key": "https://grow.google/intl/tr",
       "name": "Google Advanced Data Analytics Certificate",
-      "url": "https://grow.google/data-analytics/",
+      "url": "https://grow.google/intl/tr/",
       "description": "Professional courses in data analysis, statistics, and machine learning fundamentals.",
       "section": [
         "Training Resources",
@@ -1220,9 +1160,9 @@
       ]
     },
     {
-      "key": "https://datasciencedegree.wisconsin.edu",
+      "key": "https://uwex.wisconsin.edu/data-science",
       "name": "Data Science Degree @ Wisconsin",
-      "url": "https://datasciencedegree.wisconsin.edu/",
+      "url": "https://uwex.wisconsin.edu/data-science/",
       "description": "",
       "section": [
         "Training Resources",
@@ -1240,9 +1180,9 @@
       ]
     },
     {
-      "key": "https://bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree",
+      "key": "https://bu.edu/online/degrees-certificates/computer-information-systems/ms-computer-information-systems",
       "name": "MS in Computer Information Systems @ Boston University",
-      "url": "https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/",
+      "url": "https://www.bu.edu/online/degrees-certificates/computer-information-systems/ms-computer-information-systems/",
       "description": "",
       "section": [
         "Training Resources",
@@ -1260,9 +1200,9 @@
       ]
     },
     {
-      "key": "https://ischool.syr.edu/academics/applied-data-science-masters-degree",
+      "key": "https://ischool.syracuse.edu/academics/applied-data-science-masters-degree",
       "name": "MS in Applied Data Science @ Syracuse",
-      "url": "https://ischool.syr.edu/academics/applied-data-science-masters-degree/",
+      "url": "https://ischool.syracuse.edu/academics/applied-data-science-masters-degree/",
       "description": "",
       "section": [
         "Training Resources",
@@ -1811,9 +1751,9 @@
       ]
     },
     {
-      "key": "https://catboost.ai",
+      "key": "https://catboost.ai/docs/en",
       "name": "CatBoost",
-      "url": "https://catboost.ai/",
+      "url": "https://catboost.ai/docs/en/",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2127,9 +2067,9 @@
       ]
     },
     {
-      "key": "https://feature-engine.trainindata.com",
+      "key": "https://feature-engine.trainindata.com/en/latest",
       "name": "feature-engine",
-      "url": "https://feature-engine.trainindata.com/",
+      "url": "https://feature-engine.trainindata.com/en/latest/",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2137,9 +2077,9 @@
       ]
     },
     {
-      "key": "https://github.com/initial-d/me_fasttext",
+      "key": "https://github.com/initial-d/ngram-store",
       "name": "me_fasttext",
-      "url": "https://github.com/initial-d/me_fasttext",
+      "url": "https://github.com/initial-d/ngram-store",
       "description": "Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.",
       "section": [
         "The Data Science Toolbox",
@@ -2177,9 +2117,9 @@
       ]
     },
     {
-      "key": "https://github.com/rapidsai/cuml",
+      "key": "https://github.com/NVIDIA/cuml",
       "name": "cuML",
-      "url": "https://github.com/rapidsai/cuml",
+      "url": "https://github.com/NVIDIA/cuml",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2237,9 +2177,9 @@
       ]
     },
     {
-      "key": "https://github.com/danielhanchen/hyperlearn",
+      "key": "https://github.com/unslothai/hyperlearn",
       "name": "hyperlearn",
-      "url": "https://github.com/danielhanchen/hyperlearn",
+      "url": "https://github.com/unslothai/hyperlearn",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2309,7 +2249,7 @@
     {
       "key": "https://scikit-survival.readthedocs.io/en/stable",
       "name": "scikit-survival",
-      "url": "https://scikit-survival.readthedocs.io/en/stable",
+      "url": "https://scikit-survival.readthedocs.io/en/stable/",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2337,9 +2277,9 @@
       ]
     },
     {
-      "key": "https://github.com/microsoft/LightGBM",
+      "key": "https://github.com/lightgbm-org/LightGBM",
       "name": "LightGBM",
-      "url": "https://github.com/microsoft/LightGBM",
+      "url": "https://github.com/lightgbm-org/LightGBM",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2367,9 +2307,9 @@
       ]
     },
     {
-      "key": "https://github.com/google/jax",
+      "key": "https://github.com/jax-ml/jax",
       "name": "JAX",
-      "url": "https://github.com/google/jax",
+      "url": "https://github.com/jax-ml/jax",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2453,9 +2393,9 @@
       ]
     },
     {
-      "key": "https://github.com/pytorch/tnt",
+      "key": "https://github.com/meta-pytorch/tnt",
       "name": "PyTorchNet",
-      "url": "https://github.com/pytorch/tnt",
+      "url": "https://github.com/meta-pytorch/tnt",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2464,9 +2404,9 @@
       ]
     },
     {
-      "key": "https://github.com/GRAAL-Research/poutyne",
+      "key": "https://github.com/freud14/poutyne",
       "name": "PyToune",
-      "url": "https://github.com/GRAAL-Research/poutyne",
+      "url": "https://github.com/freud14/poutyne",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2541,9 +2481,9 @@
       ]
     },
     {
-      "key": "https://github.com/manujosephv/pytorch_tabular",
+      "key": "https://github.com/pytorch-tabular/pytorch_tabular",
       "name": "pytorch_tabular",
-      "url": "https://github.com/manujosephv/pytorch_tabular",
+      "url": "https://github.com/pytorch-tabular/pytorch_tabular",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2629,9 +2569,9 @@
       ]
     },
     {
-      "key": "https://github.com/deepmind/sonnet",
+      "key": "https://github.com/google-deepmind/sonnet",
       "name": "Sonnet",
-      "url": "https://github.com/deepmind/sonnet",
+      "url": "https://github.com/google-deepmind/sonnet",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2651,9 +2591,9 @@
       ]
     },
     {
-      "key": "https://github.com/deepmind/trfl",
+      "key": "https://github.com/google-deepmind/trfl",
       "name": "TRFL",
-      "url": "https://github.com/deepmind/trfl",
+      "url": "https://github.com/google-deepmind/trfl",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2695,9 +2635,9 @@
       ]
     },
     {
-      "key": "https://github.com/ROCmSoftwarePlatform/tensorflow-upstream",
+      "key": "https://github.com/ROCm/tensorflow-upstream",
       "name": "tensorflow-upstream",
-      "url": "https://github.com/ROCmSoftwarePlatform/tensorflow-upstream",
+      "url": "https://github.com/ROCm/tensorflow-upstream",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -2728,9 +2668,9 @@
       ]
     },
     {
-      "key": "https://github.com/bsautermeister/tensorlight",
+      "key": "https://github.com/b3nk4n/tensorlight",
       "name": "TensorLight",
-      "url": "https://github.com/bsautermeister/tensorlight",
+      "url": "https://github.com/b3nk4n/tensorlight",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -3091,17 +3031,6 @@
       ]
     },
     {
-      "key": "https://nvd3.org",
-      "name": "nvd3",
-      "url": "https://nvd3.org/",
-      "description": "",
-      "section": [
-        "The Data Science Toolbox",
-        "Deep Learning Packages",
-        "Visualization Tools"
-      ]
-    },
-    {
       "key": "https://github.com/lutzroeder/netron",
       "name": "Netron",
       "url": "https://github.com/lutzroeder/netron",
@@ -3124,9 +3053,9 @@
       ]
     },
     {
-      "key": "https://plot.ly",
+      "key": "https://plotly.com",
       "name": "plot.ly",
-      "url": "https://plot.ly/",
+      "url": "https://plotly.com/",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -3137,7 +3066,7 @@
     {
       "key": "https://rawgraphs.io",
       "name": "raw",
-      "url": "https://rawgraphs.io",
+      "url": "https://www.rawgraphs.io/",
       "description": "",
       "section": [
         "The Data Science Toolbox",
@@ -3223,28 +3152,6 @@
       ]
     },
     {
-      "key": "https://vis.stanford.edu/wrangler",
-      "name": "Wrangler",
-      "url": "https://vis.stanford.edu/wrangler/",
-      "description": "",
-      "section": [
-        "The Data Science Toolbox",
-        "Deep Learning Packages",
-        "Visualization Tools"
-      ]
-    },
-    {
-      "key": "https://r2d3.us/visual-intro-to-machine-learning-part-1",
-      "name": "r2d3",
-      "url": "https://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "description": "",
-      "section": [
-        "The Data Science Toolbox",
-        "Deep Learning Packages",
-        "Visualization Tools"
-      ]
-    },
-    {
       "key": "https://networkx.org",
       "name": "NetworkX",
       "url": "https://networkx.org/",
@@ -3315,17 +3222,6 @@
       "name": "Dash",
       "url": "https://plotly.com/dash/",
       "description": "",
-      "section": [
-        "The Data Science Toolbox",
-        "Deep Learning Packages",
-        "Visualization Tools"
-      ]
-    },
-    {
-      "key": "https://metareview-8c1.pages.dev",
-      "name": "MetaReview",
-      "url": "https://metareview-8c1.pages.dev/",
-      "description": "Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. github.com",
       "section": [
         "The Data Science Toolbox",
         "Deep Learning Packages",
@@ -3446,16 +3342,6 @@
       ]
     },
     {
-      "key": "https://thedatasciencehandbook.com",
-      "name": "The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists",
-      "url": "https://www.thedatasciencehandbook.com/",
-      "description": "",
-      "section": [
-        "Literature and Media",
-        "Books"
-      ]
-    },
-    {
       "key": "https://manning.com/books/think-like-a-data-scientist",
       "name": "Think Like a Data Scientist",
       "url": "https://www.manning.com/books/think-like-a-data-scientist",
@@ -3486,9 +3372,9 @@
       ]
     },
     {
-      "key": "https://amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8",
+      "key": "https://amazon.com/dp/B08TZ1MT3W",
       "name": "Everyday Data Science",
-      "url": "https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8",
+      "url": "https://www.amazon.com/dp/B08TZ1MT3W",
       "description": "& (cheaper PDF version)",
       "section": [
         "Literature and Media",
@@ -3556,9 +3442,9 @@
       ]
     },
     {
-      "key": "https://springer.com/gp/book/9783319950914",
+      "key": "https://link.springer.com/book/9783319950914",
       "name": "Data Science Thinking: The Next Scientific, Technological and Economic Revolution",
-      "url": "https://www.springer.com/gp/book/9783319950914",
+      "url": "https://link.springer.com/book/9783319950914",
       "description": "",
       "section": [
         "Literature and Media",
@@ -3566,9 +3452,9 @@
       ]
     },
     {
-      "key": "https://springer.com/gp/book/9783030118204",
+      "key": "https://link.springer.com/book/9783030118204",
       "name": "Applied Data Science: Lessons Learned for the Data-Driven Business",
-      "url": "https://www.springer.com/gp/book/9783030118204",
+      "url": "https://link.springer.com/book/9783030118204",
       "description": "",
       "section": [
         "Literature and Media",
@@ -3626,9 +3512,9 @@
       ]
     },
     {
-      "key": "https://intechopen.com/books/advances_in_evolutionary_algorithms",
+      "key": "https://intechopen.com/books/6119",
       "name": "Advances in Evolutionary Algorithms",
-      "url": "https://www.intechopen.com/books/advances_in_evolutionary_algorithms",
+      "url": "https://www.intechopen.com/books/6119",
       "description": "Free Download",
       "section": [
         "Literature and Media",
@@ -3636,9 +3522,9 @@
       ]
     },
     {
-      "key": "https://intechopen.com/books/genetic-programming-new-approaches-and-successful-applications",
+      "key": "https://intechopen.com/books/2733",
       "name": "Genetic Programming: New Approaches and Successful Applications",
-      "url": "https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications",
+      "url": "https://www.intechopen.com/books/2733",
       "description": "Free Download",
       "section": [
         "Literature and Media",
@@ -3646,19 +3532,9 @@
       ]
     },
     {
-      "key": "https://intechopen.com/books/evolutionary-algorithms",
+      "key": "https://intechopen.com/books/98",
       "name": "Evolutionary Algorithms",
-      "url": "https://www.intechopen.com/books/evolutionary-algorithms",
-      "description": "Free Download",
-      "section": [
-        "Literature and Media",
-        "Books"
-      ]
-    },
-    {
-      "key": "https://www0.cs.ucl.ac.uk/staff/W.Langdon/aigp3",
-      "name": "Advances in Genetic Programming, Vol. 3",
-      "url": "https://www0.cs.ucl.ac.uk/staff/W.Langdon/aigp3/",
+      "url": "https://www.intechopen.com/books/98",
       "description": "Free Download",
       "section": [
         "Literature and Media",
@@ -3668,7 +3544,7 @@
     {
       "key": "https://talkorigins.org/faqs/genalg/genalg.html",
       "name": "Genetic Algorithms and Evolutionary Computation",
-      "url": "https://www.talkorigins.org/faqs/genalg/genalg.html",
+      "url": "https://talkorigins.org/faqs/genalg/genalg.html",
       "description": "Free Download",
       "section": [
         "Literature and Media",
@@ -3750,16 +3626,6 @@
       "name": "Practical MLOps: How to Get Ready for Production Models",
       "url": "https://valohai.com/mlops-ebook/",
       "description": "",
-      "section": [
-        "Literature and Media",
-        "Books"
-      ]
-    },
-    {
-      "key": "https://manning.com/books/regression-a-friendly-guide",
-      "name": "Regression, a Friendly guide",
-      "url": "https://www.manning.com/books/regression-a-friendly-guide",
-      "description": "Early Access",
       "section": [
         "Literature and Media",
         "Books"
@@ -3886,16 +3752,6 @@
       ]
     },
     {
-      "key": "https://ai.stanford.edu/~nilsson/QAI/qai.pdf",
-      "name": "The Quest for Artificial Intelligence: A History of Ideas and Achievements",
-      "url": "https://ai.stanford.edu/~nilsson/QAI/qai.pdf",
-      "description": "Free Download",
-      "section": [
-        "Literature and Media",
-        "Books"
-      ]
-    },
-    {
       "key": "https://manning.com/books/graph-algorithms-for-data-science",
       "name": "Graph Algorithms for Data Science",
       "url": "https://www.manning.com/books/graph-algorithms-for-data-science",
@@ -3996,16 +3852,6 @@
       ]
     },
     {
-      "key": "https://manning.com/books/julia-for-data-science",
-      "name": "Julia for Data Science",
-      "url": "https://www.manning.com/books/julia-for-data-science",
-      "description": "Early Access",
-      "section": [
-        "Literature and Media",
-        "Books"
-      ]
-    },
-    {
       "key": "https://amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1",
       "name": "Machine Learning For Absolute Beginners",
       "url": "https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1",
@@ -4038,7 +3884,7 @@
     {
       "key": "https://sebastianraschka.com/books/ml-q-and-ai",
       "name": "Machine Learning Q and AI",
-      "url": "https://sebastianraschka.com/books/ml-q-and-ai",
+      "url": "https://sebastianraschka.com/books/ml-q-and-ai/",
       "description": "",
       "section": [
         "Literature and Media",
@@ -4160,19 +4006,9 @@
       ]
     },
     {
-      "key": "https://gecco-2019.sigevo.org/index.html/HomePage",
-      "name": "GECCO",
-      "url": "https://gecco-2019.sigevo.org/index.html/HomePage",
-      "description": "The Genetic and Evolutionary Computation Conference (GECCO)",
-      "section": [
-        "Literature and Media",
-        "Journals, Publications and Magazines"
-      ]
-    },
-    {
-      "key": "https://epjdatascience.springeropen.com",
+      "key": "https://link.springer.com/journal/13688",
       "name": "epjdatascience",
-      "url": "https://epjdatascience.springeropen.com/",
+      "url": "https://link.springer.com/journal/13688",
       "description": "",
       "section": [
         "Literature and Media",
@@ -4200,9 +4036,9 @@
       ]
     },
     {
-      "key": "https://journalofbigdata.springeropen.com",
+      "key": "https://link.springer.com/journal/40537",
       "name": "Journal of Big Data",
-      "url": "https://journalofbigdata.springeropen.com/",
+      "url": "https://link.springer.com/journal/40537",
       "description": "",
       "section": [
         "Literature and Media",
@@ -4224,16 +4060,6 @@
       "name": "Data Science Journal",
       "url": "https://www.jstage.jst.go.jp/browse/dsj",
       "description": "",
-      "section": [
-        "Literature and Media",
-        "Journals, Publications and Magazines"
-      ]
-    },
-    {
-      "key": "https://datatau.com/news",
-      "name": "datatau.com/news",
-      "url": "https://www.datatau.com/news",
-      "description": "Like Hacker News, but for data",
       "section": [
         "Literature and Media",
         "Journals, Publications and Magazines"
@@ -4272,7 +4098,7 @@
     {
       "key": "https://getmaxim.ai",
       "name": "Maxim AI",
-      "url": "https://getmaxim.ai",
+      "url": "https://www.getmaxim.ai/",
       "description": ". Tool for AI Agent Simulation, Evaluation & Observability.",
       "section": [
         "Literature and Media",
@@ -4330,9 +4156,9 @@
       ]
     },
     {
-      "key": "https://diamantai.substack.com",
+      "key": "https://newsletter.diamant-ai.com",
       "name": "DiamantAI",
-      "url": "https://diamantai.substack.com",
+      "url": "https://newsletter.diamant-ai.com/",
       "description": ". Practical AI engineering and generative AI explained simply: RAG, agents, and LLM application patterns for builders.",
       "section": [
         "Literature and Media",
@@ -4360,9 +4186,9 @@
       ]
     },
     {
-      "key": "https://wesmckinney.com/archives.html",
+      "key": "https://wesmckinney.com/archives",
       "name": "Wes McKinney",
-      "url": "https://wesmckinney.com/archives.html",
+      "url": "https://wesmckinney.com/archives",
       "description": "Wes McKinney Archives.",
       "section": [
         "Literature and Media",
@@ -4380,30 +4206,10 @@
       ]
     },
     {
-      "key": "https://gregreda.com",
-      "name": "Greg Reda",
-      "url": "https://www.gregreda.com/",
-      "description": "Greg Reda Personal Blog",
-      "section": [
-        "Literature and Media",
-        "Bloggers"
-      ]
-    },
-    {
       "key": "https://jvns.ca",
       "name": "Julia Evans",
       "url": "https://jvns.ca/",
       "description": "Recurse Center alumna",
-      "section": [
-        "Literature and Media",
-        "Bloggers"
-      ]
-    },
-    {
-      "key": "https://cse.unr.edu/~hkardes",
-      "name": "Hakan Kardas",
-      "url": "https://www.cse.unr.edu/~hkardes/",
-      "description": "Personal Web Page",
       "section": [
         "Literature and Media",
         "Bloggers"
@@ -4484,16 +4290,6 @@
       "name": "Clare Corthell",
       "url": "https://datasciencemasters.org/",
       "description": "The Open Source Data Science Masters",
-      "section": [
-        "Literature and Media",
-        "Bloggers"
-      ]
-    },
-    {
-      "key": "https://datawrangling.org",
-      "name": "Datawrangling",
-      "url": "https://www.datawrangling.org",
-      "description": "by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE",
       "section": [
         "Literature and Media",
         "Bloggers"
@@ -4640,16 +4436,6 @@
       ]
     },
     {
-      "key": "https://magnus-notitia.blogspot.com",
-      "name": "Tevfik Kosar",
-      "url": "https://magnus-notitia.blogspot.com/",
-      "description": "Magnus Notitia",
-      "section": [
-        "Literature and Media",
-        "Bloggers"
-      ]
-    },
-    {
       "key": "https://newdatascientist.blogspot.com",
       "name": "New Data Scientist",
       "url": "https://newdatascientist.blogspot.com/",
@@ -4662,7 +4448,7 @@
     {
       "key": "https://harvarddatascience.com",
       "name": "Harvard Data Science",
-      "url": "https://harvarddatascience.com/",
+      "url": "https://www.harvarddatascience.com/",
       "description": "Thoughts on Statistical Computing and Visualization",
       "section": [
         "Literature and Media",
@@ -4674,16 +4460,6 @@
       "name": "Data Science 101",
       "url": "https://ryanswanstrom.com/datascience101/",
       "description": "Learning To Be A Data Scientist",
-      "section": [
-        "Literature and Media",
-        "Bloggers"
-      ]
-    },
-    {
-      "key": "https://chioka.in/kaggle-competition-solutions",
-      "name": "Kaggle Past Solutions",
-      "url": "https://www.chioka.in/kaggle-competition-solutions/",
-      "description": "",
       "section": [
         "Literature and Media",
         "Bloggers"
@@ -4742,7 +4518,7 @@
     {
       "key": "https://tarrysingh.com",
       "name": "Digital transformation",
-      "url": "https://tarrysingh.com/",
+      "url": "https://www.tarrysingh.com/",
       "description": "",
       "section": [
         "Literature and Media",
@@ -4840,19 +4616,9 @@
       ]
     },
     {
-      "key": "https://blog.smola.org",
+      "key": "https://alex.smola.org/blog.html",
       "name": "Adventures in Data Land",
-      "url": "https://blog.smola.org",
-      "description": "",
-      "section": [
-        "Literature and Media",
-        "Bloggers"
-      ]
-    },
-    {
-      "key": "https://theblog.okcupid.com",
-      "name": "Dataclysm",
-      "url": "https://theblog.okcupid.com/",
+      "url": "https://alex.smola.org/blog.html",
       "description": "",
       "section": [
         "Literature and Media",
@@ -4890,9 +4656,9 @@
       ]
     },
     {
-      "key": "https://blog.dominodatalab.com",
+      "key": "https://domino.ai/blog",
       "name": "Dominodatalab",
-      "url": "https://blog.dominodatalab.com/",
+      "url": "https://domino.ai/blog",
       "description": "",
       "section": [
         "Literature and Media",
@@ -4982,7 +4748,7 @@
     {
       "key": "https://ruder.io",
       "name": "Sebastian's Blog",
-      "url": "https://ruder.io/#open",
+      "url": "https://www.ruder.io/#open",
       "description": "Blog for NLP and transfer learning!",
       "section": [
         "Literature and Media",
@@ -5014,16 +4780,6 @@
       "name": "Andrew Carr",
       "url": "https://andrewnc.github.io/blog/blog.html",
       "description": "Data Science with Esoteric programming languages",
-      "section": [
-        "Literature and Media",
-        "Bloggers"
-      ]
-    },
-    {
-      "key": "https://blog.floydhub.com/introduction-to-genetic-algorithms",
-      "name": "floydhub",
-      "url": "https://blog.floydhub.com/introduction-to-genetic-algorithms/",
-      "description": "Blog for Evolutionary Algorithms",
       "section": [
         "Literature and Media",
         "Bloggers"
@@ -5302,7 +5058,7 @@
     {
       "key": "https://chainofthought.show",
       "name": "Chain of Thought",
-      "url": "https://www.chainofthought.show/",
+      "url": "https://chainofthought.show/",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5370,9 +5126,9 @@
       ]
     },
     {
-      "key": "https://anchor.fm/datatalksclub",
+      "key": "https://creators.spotify.com/pod/profile/datatalksclub",
       "name": "DataTalks.Club",
-      "url": "https://anchor.fm/datatalksclub",
+      "url": "https://creators.spotify.com/pod/profile/datatalksclub/",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5380,9 +5136,9 @@
       ]
     },
     {
-      "key": "https://wandb.ai/fully-connected/gradient-descent",
+      "key": "https://forge.coreweave.com/forge-reports/gradient-descent",
       "name": "Gradient Descent",
-      "url": "https://wandb.ai/fully-connected/gradient-descent",
+      "url": "https://forge.coreweave.com/forge-reports/gradient-descent",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5413,16 +5169,6 @@
       "key": "https://lineardigressions.com",
       "name": "Linear Digressions",
       "url": "https://lineardigressions.com/",
-      "description": "",
-      "section": [
-        "Literature and Media",
-        "Podcasts"
-      ]
-    },
-    {
-      "key": "https://nssdeviations.com",
-      "name": "Not So Standard Deviations",
-      "url": "https://nssdeviations.com/",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5480,9 +5226,9 @@
       ]
     },
     {
-      "key": "https://fivethirtyeight.com/tag/whats-the-point",
+      "key": "https://abcnews.com/politics",
       "name": "What's The Point",
-      "url": "https://fivethirtyeight.com/tag/whats-the-point/",
+      "url": "https://abcnews.com/politics",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5710,9 +5456,9 @@
       ]
     },
     {
-      "key": "https://youtu.be/JYuQZii5o58",
+      "key": "https://youtube.com/watch?v=JYuQZii5o58",
       "name": "Ask Dr Chong: How to Lead in Data Science - Part 1",
-      "url": "https://youtu.be/JYuQZii5o58",
+      "url": "https://www.youtube.com/watch?v=JYuQZii5o58",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5720,9 +5466,9 @@
       ]
     },
     {
-      "key": "https://youtu.be/SzqIXV-O-ko",
+      "key": "https://youtube.com/watch?v=SzqIXV-O-ko",
       "name": "Ask Dr Chong: How to Lead in Data Science - Part 2",
-      "url": "https://youtu.be/SzqIXV-O-ko",
+      "url": "https://www.youtube.com/watch?v=SzqIXV-O-ko",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5730,9 +5476,9 @@
       ]
     },
     {
-      "key": "https://youtu.be/Ogwm7k_smTA",
+      "key": "https://youtube.com/watch?v=Ogwm7k_smTA",
       "name": "Ask Dr Chong: How to Lead in Data Science - Part 3",
-      "url": "https://youtu.be/Ogwm7k_smTA",
+      "url": "https://www.youtube.com/watch?v=Ogwm7k_smTA",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5740,9 +5486,9 @@
       ]
     },
     {
-      "key": "https://youtu.be/a9usjdzTxTU",
+      "key": "https://youtube.com/watch?v=a9usjdzTxTU",
       "name": "Ask Dr Chong: How to Lead in Data Science - Part 4",
-      "url": "https://youtu.be/a9usjdzTxTU",
+      "url": "https://www.youtube.com/watch?v=a9usjdzTxTU",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5750,9 +5496,9 @@
       ]
     },
     {
-      "key": "https://youtu.be/MYdQq-F3Ws0",
+      "key": "https://youtube.com/watch?v=MYdQq-F3Ws0",
       "name": "Ask Dr Chong: How to Lead in Data Science - Part 5",
-      "url": "https://youtu.be/MYdQq-F3Ws0",
+      "url": "https://www.youtube.com/watch?v=MYdQq-F3Ws0",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5760,9 +5506,9 @@
       ]
     },
     {
-      "key": "https://youtu.be/LOOt4OVC3hY",
+      "key": "https://youtube.com/watch?v=LOOt4OVC3hY",
       "name": "Ask Dr Chong: How to Lead in Data Science - Part 6",
-      "url": "https://youtu.be/LOOt4OVC3hY",
+      "url": "https://www.youtube.com/watch?v=LOOt4OVC3hY",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5820,9 +5566,9 @@
       ]
     },
     {
-      "key": "https://linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916",
+      "key": "https://linkedin.com/learning/introduction-to-data-science-2023/beginning-your-data-science-exploration?u=42458916",
       "name": "Introduction to Data Science - Linkedin",
-      "url": "https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916",
+      "url": "https://www.linkedin.com/learning/introduction-to-data-science-2023/beginning-your-data-science-exploration?u=42458916",
       "description": "",
       "section": [
         "Literature and Media",
@@ -5837,216 +5583,6 @@
       "section": [
         "Literature and Media",
         "YouTube Videos & Channels"
-      ]
-    },
-    {
-      "key": "https://facebook.com/data",
-      "name": "Data",
-      "url": "https://www.facebook.com/data",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/Bigdatascientist",
-      "name": "Big Data Scientist",
-      "url": "https://www.facebook.com/Bigdatascientist",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/datascienceday",
-      "name": "Data Science Day",
-      "url": "https://www.facebook.com/datascienceday/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/nycdatascience",
-      "name": "Data Science Academy",
-      "url": "https://www.facebook.com/nycdatascience",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/pages/Data-science/431299473579193",
-      "name": "Facebook Data Science Page",
-      "url": "https://www.facebook.com/pages/Data-science/431299473579193?ref=br_rs",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/pages/Data-Science-London/226174337471513",
-      "name": "Data Science London",
-      "url": "https://www.facebook.com/pages/Data-Science-London/226174337471513",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/DataScienceTechnologyCorporation",
-      "name": "Data Science Technology and Corporation",
-      "url": "https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/1394010454157077",
-      "name": "Data Science - Closed Group",
-      "url": "https://www.facebook.com/groups/1394010454157077/?ref=br_rs",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/centerdatasciences",
-      "name": "Center for Data Science",
-      "url": "https://www.facebook.com/centerdatasciences?ref=br_rs",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/bigdatahadoop",
-      "name": "Big data hadoop NOSQL Hive Hbase",
-      "url": "https://www.facebook.com/groups/bigdatahadoop/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/data.analytics",
-      "name": "Analytics, Data Mining, Predictive Modeling, Artificial Intelligence",
-      "url": "https://www.facebook.com/groups/data.analytics/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/434352233255448",
-      "name": "Big Data Analytics using R",
-      "url": "https://www.facebook.com/groups/434352233255448/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/rhadoop",
-      "name": "Big Data Analytics with R and Hadoop",
-      "url": "https://www.facebook.com/groups/rhadoop/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/bigdatalearnings",
-      "name": "Big Data Learnings",
-      "url": "https://www.facebook.com/groups/bigdatalearnings/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/bigdatastatistics",
-      "name": "Big Data, Data Science, Data Mining & Statistics",
-      "url": "https://www.facebook.com/groups/bigdatastatistics/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/BigDataExpert",
-      "name": "BigData/Hadoop Expert",
-      "url": "https://www.facebook.com/groups/BigDataExpert/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/machinelearningforum",
-      "name": "Data Mining / Machine Learning / AI",
-      "url": "https://www.facebook.com/groups/machinelearningforum/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/dataminingsocialnetworks",
-      "name": "Data Mining/Big Data - Social Network Ana",
-      "url": "https://www.facebook.com/groups/dataminingsocialnetworks/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/datasciencevademecum",
-      "name": "Vademecum of Practical Data Science",
-      "url": "https://www.facebook.com/datasciencevademecum",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/groups/veribilimiistanbul",
-      "name": "Veri Bilimi Istanbul",
-      "url": "https://www.facebook.com/groups/veribilimiistanbul/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
-      ]
-    },
-    {
-      "key": "https://facebook.com/theDataScienceBlog",
-      "name": "The Data Science Blog",
-      "url": "https://www.facebook.com/theDataScienceBlog/",
-      "description": "",
-      "section": [
-        "Socialize",
-        "Facebook Accounts"
       ]
     },
     {
@@ -6110,9 +5646,9 @@
       ]
     },
     {
-      "key": "https://datahack.analyticsvidhya.com",
+      "key": "https://analyticsvidhya.com/datahack",
       "name": "Analytics Vidhya",
-      "url": "https://datahack.analyticsvidhya.com/",
+      "url": "https://www.analyticsvidhya.com/datahack/",
       "description": "",
       "section": [
         "Socialize",
@@ -6130,6 +5666,16 @@
       ]
     },
     {
+      "key": "https://github.com/whatfontis/WhatFontIs-Bench",
+      "name": "WhatFontIs-Bench",
+      "url": "https://github.com/whatfontis/WhatFontIs-Bench",
+      "description": "Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.",
+      "section": [
+        "Fun",
+        "Datasets"
+      ]
+    },
+    {
       "key": "https://academictorrents.com",
       "name": "Academic Torrents",
       "url": "https://academictorrents.com/",
@@ -6140,9 +5686,9 @@
       ]
     },
     {
-      "key": "https://adsbexchange.com/data-samples",
+      "key": "https://adsbexchange.com/data-products",
       "name": "ADS-B Exchange",
-      "url": "https://www.adsbexchange.com/data-samples/",
+      "url": "https://www.adsbexchange.com/data-products/",
       "description": "Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.",
       "section": [
         "Fun",
@@ -6164,16 +5710,6 @@
       "name": "College ROI Dataset",
       "url": "https://github.com/thomasthinks/college-roi-data",
       "description": "Lifetime return-on-investment estimates for ~30K US bachelor's programs across 1,775 institutions, built from FREOPP, IPEDS, and BEA regional price data. 5 CSVs with data dictionary, CC BY 4.0, Zenodo DOI.",
-      "section": [
-        "Fun",
-        "Datasets"
-      ]
-    },
-    {
-      "key": "https://github.com/noahaust2/ai-displacement-tracker",
-      "name": "AI Displacement Tracker",
-      "url": "https://github.com/noahaust2/ai-displacement-tracker",
-      "description": "Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.",
       "section": [
         "Fun",
         "Datasets"
@@ -6230,9 +5766,9 @@
       ]
     },
     {
-      "key": "https://catalog.data.gov/dataset",
+      "key": "https://catalog.data.gov",
       "name": "data.gov",
-      "url": "https://catalog.data.gov/dataset",
+      "url": "https://catalog.data.gov/",
       "description": "The home of the U.S. Government's open data",
       "section": [
         "Fun",
@@ -6252,7 +5788,7 @@
     {
       "key": "https://enigma.com",
       "name": "enigma.com",
-      "url": "https://enigma.com/",
+      "url": "https://www.enigma.com/",
       "description": "Navigate the world of public data - Quickly search and analyze billions of public records published by governments, companies and organizations.",
       "section": [
         "Fun",
@@ -6270,9 +5806,9 @@
       ]
     },
     {
-      "key": "https://aws.amazon.com/datasets",
+      "key": "https://registry.opendata.aws",
       "name": "aws.amazon.com/datasets",
-      "url": "https://aws.amazon.com/datasets/",
+      "url": "https://registry.opendata.aws/",
       "description": "",
       "section": [
         "Fun",
@@ -6310,16 +5846,6 @@
       ]
     },
     {
-      "key": "https://congressionalstockbrain.com",
-      "name": "Congressional Stock Brain",
-      "url": "https://congressionalstockbrain.com",
-      "description": "Free AI-powered tool that scores U.S. congressional STOCK Act trade disclosures by significance. Machine-scored signals from 537 lawmakers's public trade filings.",
-      "section": [
-        "Fun",
-        "Datasets"
-      ]
-    },
-    {
       "key": "https://figshare.com",
       "name": "figshare.com",
       "url": "https://figshare.com/",
@@ -6332,7 +5858,7 @@
     {
       "key": "https://dev.maxmind.com/geoip",
       "name": "GeoLite Legacy Downloadable Databases",
-      "url": "https://dev.maxmind.com/geoip",
+      "url": "https://dev.maxmind.com/geoip/",
       "description": "",
       "section": [
         "Fun",
@@ -6380,9 +5906,9 @@
       ]
     },
     {
-      "key": "https://doi.org/10.5281/zenodo.20487070",
+      "key": "https://zenodo.org/records/20487070",
       "name": "US Truck-Involved Fatal Crashes (FARS) 2018-2024",
-      "url": "https://doi.org/10.5281/zenodo.20487070",
+      "url": "https://zenodo.org/records/20487070",
       "description": "Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive Vision Zero Report Card comparing 19 cities, reproducible Python pipeline on GitHub, and HuggingFace mirror. Permanent DOI, CC BY 4.0.",
       "section": [
         "Fun",
@@ -6422,7 +5948,7 @@
     {
       "key": "https://internationalgenome.org/data",
       "name": "A Deep Catalog of Human Genetic Variation",
-      "url": "https://www.internationalgenome.org/data",
+      "url": "https://www.internationalgenome.org/data/",
       "description": "",
       "section": [
         "Fun",
@@ -6440,9 +5966,9 @@
       ]
     },
     {
-      "key": "https://google.com/publicdata/directory",
+      "key": "https://datacommons.org",
       "name": "Google Public Data",
-      "url": "https://www.google.com/publicdata/directory",
+      "url": "https://datacommons.org/",
       "description": "",
       "section": [
         "Fun",
@@ -6462,7 +5988,7 @@
     {
       "key": "https://opendataphilly.org",
       "name": "Open Data Philly",
-      "url": "https://www.opendataphilly.org/",
+      "url": "https://opendataphilly.org/",
       "description": "Connecting people with data for Philadelphia",
       "section": [
         "Fun",
@@ -6480,9 +6006,9 @@
       ]
     },
     {
-      "key": "https://archive.ics.uci.edu/ml",
+      "key": "https://archive.ics.uci.edu",
       "name": "UC Irvine Machine Learning Repository",
-      "url": "https://archive.ics.uci.edu/ml/",
+      "url": "https://archive.ics.uci.edu/",
       "description": "contains data sets good for machine learning",
       "section": [
         "Fun",
@@ -6510,10 +6036,10 @@
       ]
     },
     {
-      "key": "https://climatedata.us",
-      "name": "ClimateData.us",
-      "url": "https://www.climatedata.us/",
-      "description": "(related: U.S. Climate Resilience Toolkit)",
+      "key": "https://toolkit.climate.gov",
+      "name": "U.S. Climate Resilience Toolkit",
+      "url": "https://toolkit.climate.gov/",
+      "description": "",
       "section": [
         "Fun",
         "Datasets"
@@ -6560,9 +6086,9 @@
       ]
     },
     {
-      "key": "https://data1850.nz",
+      "key": "https://nzier.org.nz/data-1850",
       "name": "New Zealand Institute of Economic Research – Data1850",
-      "url": "https://data1850.nz/",
+      "url": "https://www.nzier.org.nz/data-1850",
       "description": "",
       "section": [
         "Fun",
@@ -6600,9 +6126,9 @@
       ]
     },
     {
-      "key": "https://earthdata.nasa.gov/centers/sedac-daac",
+      "key": "https://earthdata.nasa.gov/data/catalog",
       "name": "NASA SocioEconomic Data and Applications Center - SEDAC",
-      "url": "https://earthdata.nasa.gov/centers/sedac-daac",
+      "url": "https://www.earthdata.nasa.gov/data/catalog",
       "description": "",
       "section": [
         "Fun",
@@ -6612,7 +6138,7 @@
     {
       "key": "https://gdeltproject.org",
       "name": "The GDELT Project",
-      "url": "https://www.gdeltproject.org/",
+      "url": "https://gdeltproject.org/",
       "description": "",
       "section": [
         "Fun",
@@ -6640,9 +6166,9 @@
       ]
     },
     {
-      "key": "https://datasf.org/opendata",
+      "key": "https://sf.gov/departments--city-administrator--datasf",
       "name": "San Fransisco Government Open Data",
-      "url": "https://datasf.org/opendata/",
+      "url": "https://www.sf.gov/departments--city-administrator--datasf",
       "description": "",
       "section": [
         "Fun",
@@ -6680,9 +6206,9 @@
       ]
     },
     {
-      "key": "https://ghtorrent.org",
+      "key": "https://github.com/ghtorrent/ghtorrent.org",
       "name": "GHTorrent",
-      "url": "https://ghtorrent.org/",
+      "url": "https://github.com/ghtorrent/ghtorrent.org",
       "description": "",
       "section": [
         "Fun",
@@ -6690,19 +6216,9 @@
       ]
     },
     {
-      "key": "https://msropendata.com",
+      "key": "https://microsoft.com/en-us/research/tools",
       "name": "Microsoft Research Open Data",
-      "url": "https://msropendata.com/",
-      "description": "",
-      "section": [
-        "Fun",
-        "Datasets"
-      ]
-    },
-    {
-      "key": "https://data.gov.in",
-      "name": "Open Government Data Platform India",
-      "url": "https://data.gov.in/",
+      "url": "https://www.microsoft.com/en-us/research/tools/",
       "description": "",
       "section": [
         "Fun",
@@ -6750,9 +6266,9 @@
       ]
     },
     {
-      "key": "https://cs.cmu.edu/~./enron",
+      "key": "https://cs.cmu.edu/~enron",
       "name": "Enron Email Dataset",
-      "url": "https://www.cs.cmu.edu/~./enron/",
+      "url": "https://www.cs.cmu.edu/~enron/",
       "description": "",
       "section": [
         "Fun",
@@ -6870,9 +6386,9 @@
       ]
     },
     {
-      "key": "https://movebank.org",
+      "key": "https://movebank.org/cms/movebank-main",
       "name": "Movebank",
-      "url": "https://www.movebank.org/",
+      "url": "https://www.movebank.org/cms/movebank-main",
       "description": "Free platform archiving 6B+ animal movement records from GPS and satellite telemetry. Open REST API, useful for spatiotemporal modeling and trajectory ML.",
       "section": [
         "Fun",
@@ -6944,16 +6460,6 @@
       "name": "US Provider Industry Payments",
       "url": "https://github.com/npiwho/us-provider-payments",
       "description": "1.65M US healthcare providers joined by NPI to the drug and device company payments reported to them in CMS Open Payments (2019-2025): total, payment count, largest payer and payment type, with state and specialty rollups. Gzipped CSV, no login, CC0, Zenodo DOI 10.5281/zenodo.23098004.",
-      "section": [
-        "Fun",
-        "Datasets"
-      ]
-    },
-    {
-      "key": "https://github.com/whatfontis/WhatFontIs-Bench",
-      "name": "WhatFontIs-Bench",
-      "url": "https://github.com/whatfontis/WhatFontIs-Bench",
-      "description": "Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.",
       "section": [
         "Fun",
         "Datasets"
@@ -7050,16 +6556,6 @@
       ]
     },
     {
-      "key": "https://davidlindelof.com/data-science-the-xkcd-edition",
-      "name": "Data Science: The XKCD Edition",
-      "url": "https://davidlindelof.com/data-science-the-xkcd-edition/",
-      "description": "",
-      "section": [
-        "Fun",
-        "Comics"
-      ]
-    },
-    {
       "key": "https://github.com/bayandin/awesome-awesomeness",
       "name": "awesome-awesomeness",
       "url": "https://github.com/bayandin/awesome-awesomeness",
@@ -7087,9 +6583,9 @@
       ]
     },
     {
-      "key": "https://github.com/javierluraschi/awesome-dataviz",
+      "key": "https://github.com/hal9ai/awesome-dataviz",
       "name": "awesome-dataviz",
-      "url": "https://github.com/javierluraschi/awesome-dataviz",
+      "url": "https://github.com/hal9ai/awesome-dataviz",
       "description": "",
       "section": [
         "Other Awesome Lists"
@@ -7222,9 +6718,9 @@
       ]
     },
     {
-      "key": "https://github.com/nerox8664/awesome-computer-vision-models",
+      "key": "https://github.com/gmalivenko/awesome-computer-vision-models",
       "name": "Awesome Computer Vision Models",
-      "url": "https://github.com/nerox8664/awesome-computer-vision-models",
+      "url": "https://github.com/gmalivenko/awesome-computer-vision-models",
       "description": "",
       "section": [
         "Other Awesome Lists"
@@ -7339,9 +6835,9 @@
       ]
     },
     {
-      "key": "https://techtarget.com/searchenterpriseai/definition/generative-AI",
+      "key": "https://techtarget.com/news/What-is-GenAI-Generative-AI-explained/834454",
       "name": "What is generative AI?",
-      "url": "https://www.techtarget.com/searchenterpriseai/definition/generative-AI",
+      "url": "https://www.techtarget.com/news/What-is-GenAI-Generative-AI-explained/834454/",
       "description": "",
       "section": [
         "Other Awesome Lists"
@@ -7456,9 +6952,9 @@
       ]
     },
     {
-      "key": "https://github.com/VascoSch92/awesome_python_math_packages",
+      "key": "https://github.com/VascoSch92/awesome-python-math-packages",
       "name": "Awesome Python Math Packages",
-      "url": "https://github.com/VascoSch92/awesome_python_math_packages",
+      "url": "https://github.com/VascoSch92/awesome-python-math-packages",
       "description": "A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.",
       "section": [
         "Other Awesome Lists"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"36ce3153a0a79febe7b4935c593563dda1bd448f613dc7c65ad51af9b5391eaf\"",
+  "etag": "W/\"1d13366b4c5fc971182ee725a5873572883f423647271c0bda5cb91d3902845e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1413,17 +1413,6 @@
       "name": "Next.js TypeScript and GraphQL Example",
       "url": "https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql",
       "description": "Type-protected GraphQL example on Next.js running graphql-codegen under the hood.",
-      "section": [
-        "Implementations",
-        "JavaScript/TypeScript",
-        "JavaScript Examples"
-      ]
-    },
-    {
-      "key": "https://stackblitz.com/fork/graphql",
-      "name": "GraphQL StackBlitz Starter",
-      "url": "https://stackblitz.com/fork/graphql",
-      "description": "Live, editable demo that starts in a browser in about two seconds.",
       "section": [
         "Implementations",
         "JavaScript/TypeScript",
@@ -4000,6 +3989,15 @@
       "name": "Weaviate",
       "url": "https://github.com/weaviate/weaviate",
       "description": "Open-source vector database combining vector search, structured filtering, and a GraphQL interface.",
+      "section": [
+        "Databases & Data Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/terminusdb/terminusdb",
+      "name": "TerminusDB",
+      "url": "https://github.com/terminusdb/terminusdb",
+      "description": "Open-source knowledge graph database with git-like version control and a built-in GraphQL API.",
       "section": [
         "Databases & Data Platforms"
       ]

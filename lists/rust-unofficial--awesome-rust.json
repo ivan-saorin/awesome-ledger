@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"43be3b7b02be5b3f3c1cb93ab35a8a6661a82994f42e5612bb859141abcd0b94\"",
+  "etag": "W/\"981c9a577294c5d51da54e4537a5b8b77068e64c368f356f0694aa317dda7c43\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2742,6 +2742,16 @@
       "name": "ozkriff/zemeroth",
       "url": "https://github.com/ozkriff/zemeroth",
       "description": "A small 2D turn-based hexagonal strategy game",
+      "section": [
+        "Applications",
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/RafaelGoulartB/Heronite",
+      "name": "RafaelGoulartB/Heronite",
+      "url": "https://github.com/RafaelGoulartB/Heronite",
+      "description": "A native game launcher for Linux and Windows built with GPUI: Steam, Epic Games, GOG, Amazon Games, emulators and more in one library, with play time stats and a console mode",
       "section": [
         "Applications",
         "Games"
@@ -6828,6 +6838,16 @@
       ]
     },
     {
+      "key": "https://github.com/mlm-games/Miniter",
+      "name": "mlm-games/Miniter",
+      "url": "https://github.com/mlm-games/Miniter",
+      "description": "Non-linear video editor (trim, join, masks, keyframes, export) for Linux, Android and web, with the backend crates being usable from crates.io",
+      "section": [
+        "Applications",
+        "Video"
+      ]
+    },
+    {
       "key": "https://github.com/open-subs/opensubs",
       "name": "open-subs/opensubs",
       "url": "https://github.com/open-subs/opensubs",
@@ -7529,15 +7549,6 @@
       "name": "FerrLabs/LFSX",
       "url": "https://github.com/FerrLabs/LFSX",
       "description": "[lfsx-server] - Self-hosted Git LFS server that deduplicates objects across repositories, compresses and optionally encrypts them at rest, supports file locking, and delegates permissions to GitHub, GitLab, Gitea or Forgejo",
-      "section": [
-        "Development tools"
-      ]
-    },
-    {
-      "key": "https://github.com/firelock-ai/kin",
-      "name": "firelock-ai/kin",
-      "url": "https://github.com/firelock-ai/kin",
-      "description": "A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.",
       "section": [
         "Development tools"
       ]
@@ -14863,6 +14874,16 @@
       ]
     },
     {
+      "key": "https://github.com/TA-Lib/ta-lib",
+      "name": "TA-Lib/ta-lib",
+      "url": "https://github.com/TA-Lib/ta-lib",
+      "description": "[ta-lib] - Technical analysis library in pure Rust: 200+ functions, including candlestick patterns, with batch and streaming APIs",
+      "section": [
+        "Libraries",
+        "Finance"
+      ]
+    },
+    {
       "key": "https://github.com/wickra-lib/wickra",
       "name": "wickra-lib/wickra",
       "url": "https://github.com/wickra-lib/wickra",
@@ -15807,6 +15828,16 @@
       "name": "makepad/makepad",
       "url": "https://github.com/makepad/makepad",
       "description": "[makepad-widgets] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.",
+      "section": [
+        "Libraries",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/mlm-games/repose",
+      "name": "mlm-games/repose",
+      "url": "https://github.com/mlm-games/repose",
+      "description": "[repose-core] - Jetpack Compose-style declarative UI for desktop, Android and web (wgpu-rendered, no WebView)",
       "section": [
         "Libraries",
         "GUI"

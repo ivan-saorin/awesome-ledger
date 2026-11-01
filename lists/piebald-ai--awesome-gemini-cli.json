@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f1f71edbb1315ed1987015673794ebc49ba912de3bb25652483ee37e82b7cbce\"",
+  "etag": "W/\"d6c37d22877c5934092011771bcd98e180128da151a193d23aa86e482716c396\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -116,6 +116,15 @@
       "name": "SwarmPane",
       "url": "https://swarmpane.com/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Desktop app for Mac, Windows and Linux that runs Gemini CLI (with a Gemini API key) side by side with Claude Code, Codex, Cursor Agent, Copilot, Devin and more, up to 16 at once in real terminals, with a git worktree per agent, undo for every agent step and account switching when a usage limit hits. Paid, with a 7-day trial for $1.",
+      "section": [
+        "Interfaces"
+      ]
+    },
+    {
+      "key": "https://github.com/Eslamasabry/opencode-mobile-next",
+      "name": "OpenCode Mobile",
+      "url": "https://github.com/Eslamasabry/opencode-mobile-next",
+      "description": "Independent, unofficial, open-source (MIT) Android app that runs Gemini CLI, with Claude Code, Codex, Qwen Code and other agents, on the phone itself in an Ubuntu environment it installs inside the app, or connects to an agent on your computer. Approve tool requests from a notification or widget, review diffs, preview the dev server. Made by its owner with substantial AI assistance.",
       "section": [
         "Interfaces"
       ]
@@ -832,10 +841,10 @@
       ]
     },
     {
-      "key": "https://github.com/firelock-ai/kin",
+      "key": "https://github.com/kinlab-ai/kin-plugin",
       "name": "Kin",
-      "url": "https://github.com/firelock-ai/kin",
-      "description": "Gemini CLI extension for Kin, a graph-native code repository for people and AI agents. Its MCP server lets Gemini look up callers, references and history from the same record you inspect with the kin CLI.",
+      "url": "https://github.com/kinlab-ai/kin-plugin",
+      "description": "Gemini CLI extension for Kin: use your accounts from Gemini CLI, even two of one service, each with its own rule per action (Allow, Ask me or Block), through Kin's hosted MCP server. Install: gemini extensions install https://github.com/kinlab-ai/kin-plugin.",
       "section": [
         "Commands & Extensions"
       ]
@@ -989,6 +998,15 @@
       "name": "frugal",
       "url": "https://github.com/fainir/frugal",
       "description": "Gemini CLI extension and Agent Skill: before anything is bought, subscribed to or upgraded, Gemini checks free tiers, the right plan and billing period, startup, student, open-source and nonprofit programs, verified promo codes and cheaper alternatives, then reports the best options with sources. Never pays by itself. MIT. Install with gemini extensions install https://github.com/fainir/frugal.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/mobbin/skills",
+      "name": "Mobbin",
+      "url": "https://github.com/mobbin/skills",
+      "description": "Gemini CLI extension that gives Gemini 600,000+ real app screens, flows and website sections from Mobbin as UI references, plus skills to search them and redesign a screen from patterns real apps ship, in your own design system. Remote MCP https://api.mobbin.com/mcp with OAuth sign-in (Pro, Team or Enterprise plan). Install: gemini extensions install https://github.com/mobbin/skills, then /mcp auth mobbin.",
       "section": [
         "Commands & Extensions"
       ]

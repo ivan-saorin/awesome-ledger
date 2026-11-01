@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3be9a7904808e6f021eba8630be7d9e4ad44caa0a245fbefb95fe60e7e005e50\"",
+  "etag": "W/\"4611820621139379cf2a141d59cfbc1ef4c9c8f81a9cc4dc91adc24b79d15719\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2066,15 +2066,6 @@
       ]
     },
     {
-      "key": "https://github.com/johncassol/cdh",
-      "name": "cdh",
-      "url": "https://github.com/johncassol/cdh",
-      "description": "Allows users to manage and navigate through a history of directories they have visited. It maintains a history file of directories and provides several commands to interact with this history.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
       "key": "https://github.com/joknarf/cdhist",
       "name": "cdhist",
       "url": "https://github.com/joknarf/cdhist",
@@ -2151,6 +2142,15 @@
       "name": "claude-code-shell",
       "url": "https://github.com/ArielTM/zsh-claude-code-shell",
       "description": "Translates natural language comments into shell commands using Claude Code.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/matheus-poli/zsh-claude-code",
+      "name": "claude-code",
+      "url": "https://github.com/matheus-poli/zsh-claude-code",
+      "description": "Adds ask and explain commands plus Ctrl+X (rewrite a natural-language request into a command, in place) and Alt+E (explain the typed command) widgets, built on the Claude Code CLI with tools and MCP servers disabled.",
       "section": [
         "Plugins"
       ]
