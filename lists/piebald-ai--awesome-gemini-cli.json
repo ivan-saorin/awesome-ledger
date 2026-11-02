@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d6c37d22877c5934092011771bcd98e180128da151a193d23aa86e482716c396\"",
+  "etag": "W/\"23fba1e1e2e6bcb17c8a84be8ac0f5feeb681e46ceabc6c1c800960adcd2d821\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1012,6 +1012,15 @@
       ]
     },
     {
+      "key": "https://github.com/cerredz/vidbyte-memory",
+      "name": "vidbyte-memory",
+      "url": "https://github.com/cerredz/vidbyte-memory",
+      "description": "Gemini CLI extension and GitHub template for correction-driven memory: corrections become facts Gemini loads, pytest tests where a check can be written, and git commits, and the installer adds an AfterAgent hook that sends Gemini back to work (up to 5 times in a row) while tests fail.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1624,6 +1633,15 @@
       ]
     },
     {
+      "key": "https://github.com/xufei547/railse-opc",
+      "name": "Railse",
+      "url": "https://github.com/xufei547/railse-opc",
+      "description": "Self-hosted approval inbox for Gemini CLI, Claude Code and Codex: hooks route every tool call through risk-based rules; for Gemini CLI that means deny rules plus phone notifications for questions and completion, with approvals from the phone for Claude Code and Codex.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -1781,6 +1799,15 @@
       "name": "codecall",
       "url": "https://github.com/GAURAV-1313/codecall",
       "description": "Agent Skill that runs in Gemini CLI and other agents (npx skills add GAURAV-1313/codecall). Quizzes you on the code your agent just wrote, traces one request flow file by file, or plants one bug for a debugging-interview drill and restores it with Git. No API key.",
+      "section": [
+        "Education & Study Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/georgesmomo/mock-interview",
+      "name": "mock-interview",
+      "url": "https://github.com/georgesmomo/mock-interview",
+      "description": "Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/mock-interview). Runs a realistic mock job interview for any role, with research on the job and real follow-up questions, then gives an honest score out of 10 and a written report.",
       "section": [
         "Education & Study Tools"
       ]
@@ -2564,6 +2591,15 @@
       "name": "recall",
       "url": "https://github.com/fainir/recall",
       "description": "MCP server that reads and writes Claude Code's per-project auto memory (Markdown files with [[wiki-links]]), so Gemini CLI, Codex and Cursor share the same memories. memory_recall follows links within a token budget; optional read-only mode. Zero dependencies, local only. MIT. Install with gemini extensions install https://github.com/fainir/recall (serves the memory of the folder you start Gemini in) or run npx -y @fainir/recall.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://jobspipe.dev/mcp-server",
+      "name": "JobsPipe",
+      "url": "https://jobspipe.dev/mcp-server?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Hosted MCP server and Gemini CLI extension for live job postings from 30+ ATS feeds and job boards in one normalized schema: search by role, place, date, salary, seniority, skills and visa stance, read a posting in full, and save searches as alerts. OAuth sign-in or API key, free plan. gemini extensions install https://github.com/jobspipe/mcp.",
       "section": [
         "MCP Servers"
       ]

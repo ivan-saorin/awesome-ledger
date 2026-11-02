@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4611820621139379cf2a141d59cfbc1ef4c9c8f81a9cc4dc91adc24b79d15719\"",
+  "etag": "W/\"c47340356054721f356aa548351f9b08ebbd4cbdbc170e5f0eef77cc5f9abf5e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -187,7 +187,7 @@
       "key": "https://github.com/tomershay100/master-oogway",
       "name": "master-oogway",
       "url": "https://github.com/tomershay100/master-oogway",
-      "description": "A complete zsh environment — dragon prompt theme, git aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone git repo",
+      "description": "A complete ZSH environment — dragon prompt theme, git aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone git repo.",
       "section": [
         "Setups",
         "oh-my-zsh"
@@ -3479,6 +3479,15 @@
       ]
     },
     {
+      "key": "https://github.com/whjvenyl/fasd",
+      "name": "fasd",
+      "url": "https://github.com/whjvenyl/fasd",
+      "description": "A command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/decayofmind/zsh-fast-alias-tips",
       "name": "fast-alias-tips",
       "url": "https://github.com/decayofmind/zsh-fast-alias-tips",
@@ -6164,7 +6173,7 @@
       "key": "https://github.com/oowekyala/mlir-zsh-plugin",
       "name": "mlir",
       "url": "https://github.com/oowekyala/mlir-zsh-plugin",
-      "description": "Adds goodies for MLIR developers including tab completion of mlir-opt and colorizing its output.",
+      "description": "Helpful for MLIR developers. Includes accurate ZSH option completion for mlir-opt and other frontends using MlirMain (iree-opt, etc), syntax highlighting of mlir-opt output in your terminal (requires pygments).",
       "section": [
         "Plugins"
       ]
@@ -22942,6 +22951,16 @@
       "name": "ohmyzsh-gui",
       "url": "https://github.com/a1024053774/ohmyzsh-gui",
       "description": "A desktop app for Oh My Zsh plugins, themes, and .zshrc. Every change is previewed, backed up, and syntax-checked with zsh -n before Apply. Supports macOS, Windows and Linux.",
+      "section": [
+        "Other Resources",
+        "ZSH Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ysb3996-blip/oops",
+      "name": "oops",
+      "url": "https://github.com/ysb3996-blip/oops",
+      "description": "Copies the last command and its output to the clipboard as a Markdown code block, with API keys and other secrets masked. Works in ZSH and bash. Installed as a Ruby gem (Ruby 3.3 or later).",
       "section": [
         "Other Resources",
         "ZSH Tools"

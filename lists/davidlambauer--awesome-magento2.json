@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b85cb1ad228a36ec28628bdaaf78b0a9e23f44620f8b4896247d749a994f4eeb\"",
+  "etag": "W/\"23c6b498d7d4aea7691e64726bcb9451564d5e91cc33e3a78d080fe179992287\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -67,6 +67,16 @@
       ]
     },
     {
+      "key": "https://meetmagento.asia",
+      "name": "Meet Magento Malaysia",
+      "url": "https://www.meetmagento.asia/",
+      "description": "🫡 - Meet Magento event series — Malaysia.",
+      "section": [
+        "Events: Meet the community",
+        "Meet Magento"
+      ]
+    },
+    {
       "key": "https://nl.meet-magento.com",
       "name": "Meet Magento Netherlands",
       "url": "https://nl.meet-magento.com/",
@@ -101,16 +111,6 @@
       "name": "Meet Magento UK",
       "url": "https://meet-magento.co.uk/",
       "description": "🫡 - Meet Magento event series — UK.",
-      "section": [
-        "Events: Meet the community",
-        "Meet Magento"
-      ]
-    },
-    {
-      "key": "https://meetmagento.asia",
-      "name": "Meet Magento Malaysia",
-      "url": "https://www.meetmagento.asia/",
-      "description": "Meet Magento event series — Malaysia.",
       "section": [
         "Events: Meet the community",
         "Meet Magento"
@@ -513,20 +513,20 @@
       ]
     },
     {
-      "key": "https://github.com/yireo/Yireo_Whoops",
-      "name": "Whoops Exceptions",
-      "url": "https://github.com/yireo/Yireo_Whoops",
-      "description": "🫡 - PHP Exceptions for Cool Kids in Magento 2.",
+      "key": "https://github.com/graycoreio/magento2-cors",
+      "name": "graycoreio/magento2-cors",
+      "url": "https://github.com/graycoreio/magento2-cors",
+      "description": "🫡 - Enables configurable CORS headers on the Magento GraphQL API.",
       "section": [
         "Open Source Extensions",
         "Development Utilities"
       ]
     },
     {
-      "key": "https://github.com/graycoreio/magento2-cors",
-      "name": "graycoreio/magento2-cors",
-      "url": "https://github.com/graycoreio/magento2-cors",
-      "description": "🫡 - Enables configurable CORS headers on the Magento GraphQL API.",
+      "key": "https://github.com/yireo/Yireo_Whoops",
+      "name": "Whoops Exceptions",
+      "url": "https://github.com/yireo/Yireo_Whoops",
+      "description": "🫡 - PHP Exceptions for Cool Kids in Magento 2.",
       "section": [
         "Open Source Extensions",
         "Development Utilities"
@@ -706,7 +706,17 @@
       "key": "https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE",
       "name": "de_DE",
       "url": "https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE",
-      "description": "🔥 - German Language Package.",
+      "description": "🔥 🫡 - German Language Package.",
+      "section": [
+        "Open Source Extensions",
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/hidonet/magento2-language-tr_tr",
+      "name": "tr_TR",
+      "url": "https://github.com/hidonet/magento2-language-tr_tr",
+      "description": "🫡 - Turkish Language Package.",
       "section": [
         "Open Source Extensions",
         "Localization"
@@ -753,16 +763,6 @@
       ]
     },
     {
-      "key": "https://github.com/mageplaza/magento-2-finnish-language-pack",
-      "name": "fi_FL",
-      "url": "https://github.com/mageplaza/magento-2-finnish-language-pack",
-      "description": "Finnish Language Package.",
-      "section": [
-        "Open Source Extensions",
-        "Localization"
-      ]
-    },
-    {
       "key": "https://marketplace.magento.com/inchoo-language-hr-hr.html",
       "name": "hr_HR",
       "url": "https://marketplace.magento.com/inchoo-language-hr-hr.html",
@@ -787,16 +787,6 @@
       "name": "fr_FR",
       "url": "https://github.com/Imaginaerum/magento2-language-fr-fr",
       "description": "French Language Package.",
-      "section": [
-        "Open Source Extensions",
-        "Localization"
-      ]
-    },
-    {
-      "key": "https://github.com/hidonet/magento2-language-tr_tr",
-      "name": "tr_TR",
-      "url": "https://github.com/hidonet/magento2-language-tr_tr",
-      "description": "Turkish Language Package.",
       "section": [
         "Open Source Extensions",
         "Localization"
@@ -867,6 +857,16 @@
       "name": "es_AR",
       "url": "https://github.com/SemExpert/Magento2-language-es_ar",
       "description": "Spanish (Argentina) Language Package.",
+      "section": [
+        "Open Source Extensions",
+        "Localization"
+      ]
+    },
+    {
+      "key": "https://github.com/mageplaza/magento-2-finnish-language-pack",
+      "name": "fi_FL",
+      "url": "https://github.com/mageplaza/magento-2-finnish-language-pack",
+      "description": "Finnish Language Package.",
       "section": [
         "Open Source Extensions",
         "Localization"

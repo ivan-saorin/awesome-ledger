@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"635b81e3f1760c392f3be5bfedc5e44b563f4cd674927668fc14d138dc5f01eb\"",
+  "etag": "W/\"ba21b2ac960ecb2fd447bfa8fa79de3cd6f3f625f9908e69581c31e68ecdb3a5\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -121,7 +121,7 @@
     {
       "key": "https://plane.watch",
       "name": "Plane.watch",
-      "url": "https://plane.watch",
+      "url": "https://www.plane.watch",
       "description": "A community hosted flight tracker.",
       "section": [
         "ADS-B Aggregators",
@@ -379,6 +379,26 @@
       ]
     },
     {
+      "key": "https://github.com/AndrewCTF/velocity",
+      "name": "AndrewCTF/velocity",
+      "url": "https://github.com/AndrewCTF/velocity",
+      "description": "A self-hosted flight and ship tracker on a 3D globe that records every position it sees so you can replay any moment, and folds in your own receiver's tar1090 or readsb feed.",
+      "section": [
+        "Software",
+        "Visualisation"
+      ]
+    },
+    {
+      "key": "https://github.com/blindp3w/readsbstats",
+      "name": "blindp3w/readsbstats",
+      "url": "https://github.com/blindp3w/readsbstats",
+      "description": "Self-hosted flight history and statistics web UI for readsb. Stores positions in SQLite with per-flight track maps, a flagged aircraft gallery, a watchlist, a Telegram bot and receiver metrics.",
+      "section": [
+        "Software",
+        "Visualisation"
+      ]
+    },
+    {
       "key": "https://github.com/d4rken/adsb-meta-tracker",
       "name": "d4rken/adsb-meta-tracker",
       "url": "https://github.com/d4rken/adsb-meta-tracker",
@@ -393,6 +413,16 @@
       "name": "AirPing",
       "url": "https://airping.app",
       "description": "An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker.",
+      "section": [
+        "Software",
+        "Apps"
+      ]
+    },
+    {
+      "key": "https://overhead1090.com",
+      "name": "Overhead 1090",
+      "url": "https://overhead1090.com",
+      "description": "Native iPhone, iPad and Apple TV client for PiAware/dump1090-compatible receivers with a live radar map, logbook, daily reports and notable-sighting alerts. Local-network only, paid app.",
       "section": [
         "Software",
         "Apps"

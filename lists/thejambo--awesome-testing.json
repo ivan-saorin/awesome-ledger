@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f851da25202abd724aeae1d10b2cc54cfd7ac16a0baaf5c0c7b02506d99ecec2\"",
+  "etag": "W/\"4d05a92072a8220a8c641a11df960ec442b338b2a2a1ff3919bad0117c3d19bd\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -884,6 +884,16 @@
       ]
     },
     {
+      "key": "https://github.com/saadbuilt/mendwright",
+      "name": "mendwright",
+      "url": "https://github.com/saadbuilt/mendwright",
+      "description": "Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://github.com/UbaidBinWaris/proxy_browser",
       "name": "Proxy QA Browser",
       "url": "https://github.com/UbaidBinWaris/proxy_browser",
@@ -1328,6 +1338,16 @@
       "name": "Random IMEI Generator",
       "url": "https://onlineminitools.com/random-imei-generator",
       "description": "Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.",
+      "section": [
+        "Software",
+        "Test Data Management"
+      ]
+    },
+    {
+      "key": "https://github.com/brumeorg/Brume",
+      "name": "Brume",
+      "url": "https://github.com/brumeorg/Brume",
+      "description": "Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.",
       "section": [
         "Software",
         "Test Data Management"

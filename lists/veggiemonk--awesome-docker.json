@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"25d06202ec7f93ecce7dbee7a51b023467e5a786f5e74f9835ccb5f5b8df4cd1\"",
+  "etag": "W/\"12646e9e249f85681c66fa7bb09dd0cb757cf2af56595f6ef7cc5d66749b8871\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -364,6 +364,16 @@
       "name": "melange",
       "url": "https://github.com/chainguard-dev/melange",
       "description": "Build apk packages from declarative YAML for use with apko.",
+      "section": [
+        "Building Images",
+        "Base Images"
+      ]
+    },
+    {
+      "key": "https://github.com/fabiocicerchia/nginx-lua",
+      "name": "nginx-lua",
+      "url": "https://github.com/fabiocicerchia/nginx-lua",
+      "description": "Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).",
       "section": [
         "Building Images",
         "Base Images"
@@ -1667,6 +1677,15 @@
       ]
     },
     {
+      "key": "https://groundcover.com",
+      "name": "groundcover",
+      "url": "https://www.groundcover.com/",
+      "description": "yen: Monitor Docker containers via an eBPF host sensor — logs, metrics, traces, and APM, deployed inside the user's own cloud (BYOC).",
+      "section": [
+        "Observability"
+      ]
+    },
+    {
       "key": "https://github.com/bytestrix/InfraCanvas",
       "name": "InfraCanvas",
       "url": "https://github.com/bytestrix/InfraCanvas",
@@ -1680,6 +1699,15 @@
       "name": "Maintenant",
       "url": "https://github.com/kolapsis/maintenant",
       "description": "Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA.",
+      "section": [
+        "Observability"
+      ]
+    },
+    {
+      "key": "https://github.com/tyshkovskii/metriclens",
+      "name": "metriclens",
+      "url": "https://github.com/tyshkovskii/metriclens",
+      "description": "Auto-discovers Prometheus metrics endpoints across Docker Compose services and visualizes them in a local web UI.",
       "section": [
         "Observability"
       ]
@@ -3071,6 +3099,15 @@
       "name": "Docker simplified in 55 seconds",
       "url": "https://www.youtube.com/watch?v=vP_4DlOH1G4",
       "description": "An animated high-level introduction to Docker. Think of it as a visual tl;dr that makes it easier to dive into more complex learning materials.",
+      "section": [
+        "Where to Start"
+      ]
+    },
+    {
+      "key": "https://devops-daily.com/games/docker-terminal-simulator",
+      "name": "Docker Terminal Simulator",
+      "url": "https://devops-daily.com/games/docker-terminal-simulator",
+      "description": "Guided Docker lessons in a simulated terminal in the browser. Free and open source, no signup.",
       "section": [
         "Where to Start"
       ]
