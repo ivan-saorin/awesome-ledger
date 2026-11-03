@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"723db885cd973d728e6aa8aa95fa6702bb0e3f85507fd82837b9963f91f0bb6e\"",
+  "etag": "W/\"f6aceaf4a84429d289d92934222287065b78886a29f072cd97d1188ac1ba108b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -740,6 +740,16 @@
       ]
     },
     {
+      "key": "https://packet.guru/blog/passive-os-fingerprinting",
+      "name": "Passive OS Fingerprinting: TCP Fingerprint, p0f and JA4T",
+      "url": "https://packet.guru/blog/passive-os-fingerprinting",
+      "description": "How the first TCP SYN gives away the operating system family, why a proxy shows up as a mismatch with the OS the browser reports, and how p0f and JA4T record the same packet. Written by packet.guru.",
+      "section": [
+        "Introduction",
+        "Fingerprint"
+      ]
+    },
+    {
       "key": "https://bettercrypto.org",
       "name": "Applied Crypto Hardening",
       "url": "https://bettercrypto.org/",
@@ -924,6 +934,16 @@
       "name": "Hardcoded secrets, unverified tokens, and other common JWT mistakes",
       "url": "https://semgrep.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/",
       "description": "Written by @ermil0v.",
+      "section": [
+        "Introduction",
+        "JWT"
+      ]
+    },
+    {
+      "key": "https://easinvy.com/notes/revoke-a-jwt",
+      "name": "How to revoke a JWT, from a system that does it",
+      "url": "https://easinvy.com/notes/revoke-a-jwt",
+      "description": "A per-user revocation cut-off from a production multi-tenant app: why it compares against auth_time rather than iat, the whole-seconds rounding bug it shipped with, and the routes that trusted the token. Written by Ridam Agrawal.",
       "section": [
         "Introduction",
         "JWT"
@@ -1524,6 +1544,16 @@
       "name": "AWS takeover through SSRF in JavaScript",
       "url": "https://10degres.net/aws-takeover-through-ssrf-in-javascript/",
       "description": "Written by Gwen.",
+      "section": [
+        "Tricks",
+        "SSRF"
+      ]
+    },
+    {
+      "key": "https://ransomleak.com/exercises/instance-metadata-abuse",
+      "name": "Instance Metadata Abuse",
+      "url": "https://ransomleak.com/exercises/instance-metadata-abuse/",
+      "description": "Shows how a server-side request forgery bug becomes cloud credential theft through the instance metadata service, and why requiring IMDSv2 session tokens with a response hop limit in the instance configuration closes the whole class of forging bugs rather than one code path, by RansomLeak.",
       "section": [
         "Tricks",
         "SSRF"
@@ -2429,6 +2459,26 @@
       ]
     },
     {
+      "key": "https://github.com/maverickaayush/ONUS",
+      "name": "ONUS",
+      "url": "https://github.com/maverickaayush/ONUS",
+      "description": "Web vulnerability assessment platform that orchestrates multiple scanners, applies deterministic CVSS v3.1 scoring, and provides AI-assisted vulnerability analysis and remediation guidance.",
+      "section": [
+        "Tools",
+        "Scanning"
+      ]
+    },
+    {
+      "key": "https://github.com/clickswave/crossfyre-toolchain",
+      "name": "Crossfyre Toolchain",
+      "url": "https://github.com/clickswave/crossfyre-toolchain",
+      "description": "Recon and vulnerability scanning engines in Rust for subdomains, ports, content discovery, fingerprinting, injection testing and nuclei-style templates, with one CLI and newline-delimited JSON output by @clickswave.",
+      "section": [
+        "Tools",
+        "Scanning"
+      ]
+    },
+    {
       "key": "https://portswigger.net/burp",
       "name": "Burp Suite",
       "url": "https://portswigger.net/burp/",
@@ -3042,6 +3092,16 @@
       "name": "CFR",
       "url": "https://www.benf.org/other/cfr/",
       "description": "Another java decompiler by @LeeAtBenf.",
+      "section": [
+        "Tools",
+        "Decompiler"
+      ]
+    },
+    {
+      "key": "https://github.com/pionxzh/wakaru",
+      "name": "Wakaru",
+      "url": "https://github.com/pionxzh/wakaru",
+      "description": "JavaScript decompiler that splits production bundles from webpack, esbuild, Browserify, and Metro into modules and turns minified and transpiled code back into readable JavaScript, without executing it, by @pionxzh.",
       "section": [
         "Tools",
         "Decompiler"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"23fba1e1e2e6bcb17c8a84be8ac0f5feeb681e46ceabc6c1c800960adcd2d821\"",
+  "etag": "W/\"9868d85f612941db9456fb2e0ea457b8a25ddfc9a23db37c8d204d3dab13ad4d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -467,6 +467,33 @@
       "name": "Aixle Flow",
       "url": "https://github.com/AixleHQ/flow",
       "description": "Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://joxo.ai",
+      "name": "Joxo",
+      "url": "https://joxo.ai?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Shared project for a team's coding agents. Start Gemini CLI with joxo gemini and it works from the same task board, decisions and handoffs as teammates' Claude Code, Codex or Cursor agents, and can ask a teammate's agent for help. Desktop app, iPhone app and a remote MCP server.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/requie/endostack",
+      "name": "EndoStack",
+      "url": "https://github.com/requie/endostack",
+      "description": "Security-first workflows for coding agents: 62 skills that threat-model changes, security-review diffs and verify results by running them. Works in Gemini CLI, Claude Code, Codex, Cursor and 11 other agents. MIT.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/preloop/preloop",
+      "name": "Preloop",
+      "url": "https://github.com/preloop/preloop",
+      "description": "Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Works with Gemini CLI, Claude Code, Codex CLI, Cursor, OpenCode and Copilot CLI. Apache-2.0.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -1016,6 +1043,15 @@
       "name": "vidbyte-memory",
       "url": "https://github.com/cerredz/vidbyte-memory",
       "description": "Gemini CLI extension and GitHub template for correction-driven memory: corrections become facts Gemini loads, pytest tests where a check can be written, and git commits, and the installer adds an AfterAgent hook that sends Gemini back to work (up to 5 times in a row) while tests fail.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Quinnod345/ponder",
+      "name": "Ponder",
+      "url": "https://github.com/Quinnod345/ponder",
+      "description": "Gemini CLI extension and Agent Skill for multi-pass deliberation and code review: grades every file or document across 6 dimensions, runs four adversarial perspectives (skeptic, builder, dreamer, empath), and blocks early stopping until coverage reaches 1.00 and churn converges below 0.02 across two consecutive passes. Zero runtime dependencies, MIT. Install with gemini extensions install https://github.com/Quinnod345/ponder or npx skills add Quinnod345/ponder -y -a gemini-cli.",
       "section": [
         "Commands & Extensions"
       ]
@@ -2600,6 +2636,15 @@
       "name": "JobsPipe",
       "url": "https://jobspipe.dev/mcp-server?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Hosted MCP server and Gemini CLI extension for live job postings from 30+ ATS feeds and job boards in one normalized schema: search by role, place, date, salary, seniority, skills and visa stance, read a posting in full, and save searches as alerts. OAuth sign-in or API key, free plan. gemini extensions install https://github.com/jobspipe/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/verma6uc/mach-gtm-mcp",
+      "name": "mach-gtm-mcp",
+      "url": "https://github.com/verma6uc/mach-gtm-mcp",
+      "description": "Open-source B2B outbound sales MCP server: build ICPs, research prospects with verified buying signals, score leads (0-100), draft cold emails and LinkedIn messages (1-3-1 framework), and generate multi-touch sequences. Human approval required before any message is sent. Works with Gemini CLI and any MCP client. Install: npx mach-gtm-mcp.",
       "section": [
         "MCP Servers"
       ]

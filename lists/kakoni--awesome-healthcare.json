@@ -1,12 +1,12 @@
 {
-  "etag": "W/\"35c5f51c4d033110aa3394486fa5192f0bda1fd006c5692ed1acc6f6ade72a2f\"",
+  "etag": "W/\"2d97d4d6d51f4ec697d1c4123ed3d3a66530a1a3e22660f9dfef6a4570b24a66\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
     {
-      "key": "https://akello.io",
+      "key": "https://github.com/akello-io/akello",
       "name": "Akello",
-      "url": "https://akello.io",
+      "url": "https://github.com/akello-io/akello",
       "description": "Integrated Mental Health Infrastructure",
       "section": [
         "Contents",
@@ -24,30 +24,40 @@
       ]
     },
     {
+      "key": "https://github.com/beda-software/fhir-emr",
+      "name": "Beda EMR",
+      "url": "https://github.com/beda-software/fhir-emr",
+      "description": "EMR built natively on FHIR.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
+      "key": "https://github.com/third-culture-software/bhima",
+      "name": "BHIMA",
+      "url": "https://github.com/third-culture-software/bhima",
+      "description": "Hospital information and accounting system for rural hospitals.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
+      "key": "https://github.com/ohcnetwork/care",
+      "name": "CARE",
+      "url": "https://github.com/ohcnetwork/care",
+      "description": "Digital public good for hospital administration and decentralized patient care.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
       "key": "https://cottagemed.org/p/26/Download-Cottage-Med",
       "name": "Cottage Med",
       "url": "https://cottagemed.org/p/26/Download-Cottage-Med",
       "description": "Electronic Medical Record software designed by physicians.",
-      "section": [
-        "Contents",
-        "EHR"
-      ]
-    },
-    {
-      "key": "https://gnuhealth.org",
-      "name": "GNU Health",
-      "url": "https://www.gnuhealth.org",
-      "description": "Electronic Medical Record, Hospital Management, and Health Information System.",
-      "section": [
-        "Contents",
-        "EHR"
-      ]
-    },
-    {
-      "key": "https://gnumed.de/documentation",
-      "name": "GNUmed",
-      "url": "https://www.gnumed.de/documentation/",
-      "description": "Electronic Medical Record software.",
       "section": [
         "Contents",
         "EHR"
@@ -84,10 +94,60 @@
       ]
     },
     {
+      "key": "https://github.com/FerroHEALTH/FerroEHR",
+      "name": "FerroEHR",
+      "url": "https://github.com/FerroHEALTH/FerroEHR",
+      "description": "openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
       "key": "https://freemedforms.com/fr/start",
       "name": "FreeMedForms EMR",
       "url": "https://freemedforms.com/fr/start",
       "description": "Electronic Medical Record software.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
+      "key": "https://github.com/gitehr/gitehr",
+      "name": "GitEHR",
+      "url": "https://github.com/gitehr/gitehr",
+      "description": "Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
+      "key": "https://gnuhealth.org",
+      "name": "GNU Health",
+      "url": "https://www.gnuhealth.org",
+      "description": "Electronic Health Record, Hospital Management, and Health Information System.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
+      "key": "https://gnumed.de/documentation",
+      "name": "GNUmed",
+      "url": "https://www.gnumed.de/documentation/",
+      "description": "Electronic Medical Record software.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
+      "key": "https://haste.health",
+      "name": "HasteHealth",
+      "url": "https://haste.health",
+      "description": "Scalable clinical data repository.",
       "section": [
         "Contents",
         "EHR"
@@ -124,10 +184,10 @@
       ]
     },
     {
-      "key": "https://medintux.org",
-      "name": "MedinTux",
-      "url": "https://medintux.org/",
-      "description": "French Medical Practice Management System.",
+      "key": "https://github.com/earthians/marley",
+      "name": "Marley",
+      "url": "https://github.com/earthians/marley",
+      "description": "Health information system built on the Frappe framework.",
       "section": [
         "Contents",
         "EHR"
@@ -154,10 +214,30 @@
       ]
     },
     {
+      "key": "https://github.com/informatici/openhospital",
+      "name": "Open Hospital",
+      "url": "https://github.com/informatici/openhospital",
+      "description": "Electronic Medical Record software for underprivileged rural hospitals.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
       "key": "https://github.com/jact/openclinic",
       "name": "OpenClinic",
       "url": "https://github.com/jact/openclinic",
       "description": "Medical Records System.",
+      "section": [
+        "Contents",
+        "EHR"
+      ]
+    },
+    {
+      "key": "https://github.com/IMS-MAXIMS/openMAXIMS",
+      "name": "openMAXIMS",
+      "url": "https://github.com/IMS-MAXIMS/openMAXIMS",
+      "description": "Full Patient Administration System designed for the NHS.",
       "section": [
         "Contents",
         "EHR"
@@ -178,26 +258,6 @@
       "name": "OpenEyes",
       "url": "https://openeyes.apperta.org",
       "description": "Electronic Medical Record application for ophthalmology.",
-      "section": [
-        "Contents",
-        "EHR"
-      ]
-    },
-    {
-      "key": "https://sourceforge.net/projects/openhospital",
-      "name": "Open Hospital",
-      "url": "https://sourceforge.net/projects/openhospital/",
-      "description": "Electronic Medical Record software for underprivileged rural hospitals.",
-      "section": [
-        "Contents",
-        "EHR"
-      ]
-    },
-    {
-      "key": "https://github.com/IMS-MAXIMS/openMAXIMS",
-      "name": "openMAXIMS",
-      "url": "https://github.com/IMS-MAXIMS/openMAXIMS",
-      "description": "Full Patient Administration System designed for the NHS.",
       "section": [
         "Contents",
         "EHR"
@@ -258,6 +318,16 @@
       "name": "OpenScribe",
       "url": "https://github.com/sammargolis/OpenScribe",
       "description": "Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.",
+      "section": [
+        "Contents",
+        "Scribe"
+      ]
+    },
+    {
+      "key": "https://github.com/bloodworks-io/phlox",
+      "name": "Phlox",
+      "url": "https://github.com/bloodworks-io/phlox",
+      "description": "Open source (MIT), self-hosted AI medical scribe with realtime note drafting, RAG, and MCP-extensible agents; runs as a desktop app or Docker image.",
       "section": [
         "Contents",
         "Scribe"
@@ -364,10 +434,20 @@
       ]
     },
     {
-      "key": "https://github.com/cornerstonejs/cornerstone",
-      "name": "Cornerstone",
-      "url": "https://github.com/cornerstonejs/cornerstone",
-      "description": "Open source project with a goal to deliver a complete web based medical imaging platform.",
+      "key": "https://github.com/cornerstonejs/cornerstone3D",
+      "name": "Cornerstone3D",
+      "url": "https://github.com/cornerstonejs/cornerstone3D",
+      "description": "JavaScript libraries for building web-based medical imaging platforms.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
+      "key": "https://github.com/rordenlab/dcm2niix",
+      "name": "dcm2niix",
+      "url": "https://github.com/rordenlab/dcm2niix",
+      "description": "DICOM to NIfTI converter.",
       "section": [
         "Contents",
         "Imaging"
@@ -444,9 +524,19 @@
       ]
     },
     {
-      "key": "https://horosproject.org",
+      "key": "https://github.com/ImagingDataCommons/highdicom",
+      "name": "highdicom",
+      "url": "https://github.com/ImagingDataCommons/highdicom",
+      "description": "High-level DICOM abstractions for Python, including segmentations, structured reports and annotations.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
+      "key": "https://github.com/horosproject/horos",
       "name": "Horos",
-      "url": "https://horosproject.org",
+      "url": "https://github.com/horosproject/horos",
       "description": "Medical image viewer.",
       "section": [
         "Contents",
@@ -514,6 +604,36 @@
       ]
     },
     {
+      "key": "https://github.com/loli/medpy",
+      "name": "MedPy",
+      "url": "https://github.com/loli/medpy",
+      "description": "Python library for medical image processing, supporting DICOM and NIfTI formats with tools for segmentation, filtering, and feature extraction.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
+      "key": "https://github.com/mercure-imaging/mercure",
+      "name": "mercure",
+      "url": "https://github.com/mercure-imaging/mercure",
+      "description": "DICOM orchestrator for routing and processing imaging studies.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
+      "key": "https://github.com/Project-MONAI/MONAILabel",
+      "name": "MONAI Label",
+      "url": "https://github.com/Project-MONAI/MONAILabel",
+      "description": "AI-assisted image labeling tool that works with 3D Slicer and OHIF.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
       "key": "https://github.com/OHIF/Viewers",
       "name": "OHIF",
       "url": "https://github.com/OHIF/Viewers",
@@ -574,6 +694,36 @@
       ]
     },
     {
+      "key": "https://github.com/pymedphys/pymedphys",
+      "name": "PyMedPhys",
+      "url": "https://github.com/pymedphys/pymedphys",
+      "description": "Community library for medical physics.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
+      "key": "https://github.com/qupath/qupath",
+      "name": "QuPath",
+      "url": "https://github.com/qupath/qupath",
+      "description": "Bioimage analysis and whole slide image analysis for digital pathology.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
+      "key": "https://github.com/SlicerDMRI/SlicerDMRI",
+      "name": "SlicerDMRI",
+      "url": "https://github.com/SlicerDMRI/SlicerDMRI",
+      "description": "Extension for 3D Slicer focused on diffusion MRI analysis and visualization, supporting neuroscience research.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
       "key": "https://github.com/ImagingDataCommons/slim",
       "name": "Slim",
       "url": "https://github.com/ImagingDataCommons/slim",
@@ -604,6 +754,26 @@
       ]
     },
     {
+      "key": "https://github.com/nroduit/Weasis",
+      "name": "Weasis",
+      "url": "https://github.com/nroduit/Weasis",
+      "description": "Standalone and web-based DICOM viewer.",
+      "section": [
+        "Contents",
+        "Imaging"
+      ]
+    },
+    {
+      "key": "https://github.com/martinezsalmeron/dentalpin",
+      "name": "DentalPin",
+      "url": "https://github.com/martinezsalmeron/dentalpin",
+      "description": "Dental practice management with an AI agent that runs real operations.",
+      "section": [
+        "Contents",
+        "Dental"
+      ]
+    },
+    {
       "key": "https://opendental.com",
       "name": "Open Dental",
       "url": "https://www.opendental.com",
@@ -621,6 +791,16 @@
       "section": [
         "Contents",
         "Dental"
+      ]
+    },
+    {
+      "key": "https://github.com/miso-lims/miso-lims",
+      "name": "MISO",
+      "url": "https://github.com/miso-lims/miso-lims",
+      "description": "Laboratory information management system for NGS sequencing centres.",
+      "section": [
+        "Contents",
+        "Laboratory"
       ]
     },
     {
@@ -668,6 +848,16 @@
       "name": "CareKit",
       "url": "https://github.com/carekit-apple/CareKit/",
       "description": "Open source software framework for creating apps that help people better understand and manage their health.",
+      "section": [
+        "Contents",
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://communityhealthtoolkit.org",
+      "name": "CHT",
+      "url": "https://communityhealthtoolkit.org/",
+      "description": "Community Health Toolkit - set of Open Source tools that support community healthcare",
       "section": [
         "Contents",
         "Frameworks"
@@ -744,6 +934,16 @@
       ]
     },
     {
+      "key": "https://github.com/hapifhir/hapi-fhir-jpaserver-starter",
+      "name": "HAPI FHIR JPA Server Starter",
+      "url": "https://github.com/hapifhir/hapi-fhir-jpaserver-starter",
+      "description": "Ready-to-deploy FHIR server built on HAPI FHIR.",
+      "section": [
+        "Contents",
+        "Frameworks"
+      ]
+    },
+    {
       "key": "https://inferno-framework.github.io",
       "name": "Inferno",
       "url": "https://inferno-framework.github.io",
@@ -784,9 +984,9 @@
       ]
     },
     {
-      "key": "https://opal.openhealthcare.org.uk",
+      "key": "https://github.com/openhealthcare/opal",
       "name": "Opal",
-      "url": "https://opal.openhealthcare.org.uk/",
+      "url": "https://github.com/openhealthcare/opal",
       "description": "Framework for building clinical applications.",
       "section": [
         "Contents",
@@ -808,6 +1008,16 @@
       "name": "Spark",
       "url": "https://github.com/FirelyTeam/spark",
       "description": "Public domain FHIR server developed in C#.",
+      "section": [
+        "Contents",
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/StanfordSpezi/Spezi",
+      "name": "Spezi",
+      "url": "https://github.com/StanfordSpezi/Spezi",
+      "description": "Stanford framework for building interoperable digital health apps on Apple platforms.",
       "section": [
         "Contents",
         "Frameworks"
@@ -874,6 +1084,16 @@
       ]
     },
     {
+      "key": "https://github.com/dcmjs-org/dcmjs",
+      "name": "dcmjs",
+      "url": "https://github.com/dcmjs-org/dcmjs",
+      "description": "JavaScript implementation of DICOM manipulation.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
       "key": "https://dicom.offis.de/dcmtk.php.en",
       "name": "DCMTK",
       "url": "https://dicom.offis.de/dcmtk.php.en",
@@ -884,10 +1104,30 @@
       ]
     },
     {
+      "key": "https://github.com/pydicom/deid",
+      "name": "deid",
+      "url": "https://github.com/pydicom/deid",
+      "description": "De-identification of DICOM images in Python.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
       "key": "https://github.com/suyashkumar/dicom",
       "name": "dicom",
       "url": "https://github.com/suyashkumar/dicom",
       "description": "High Performance DICOM Medical Image Parser in GoLang.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/Enet4/dicom-rs",
+      "name": "dicom-rs",
+      "url": "https://github.com/Enet4/dicom-rs",
+      "description": "Rust implementation of the DICOM standard.",
       "section": [
         "Contents",
         "Libraries"
@@ -964,6 +1204,26 @@
       ]
     },
     {
+      "key": "https://github.com/nazrulworld/fhir.resources",
+      "name": "fhir.resources",
+      "url": "https://github.com/nazrulworld/fhir.resources",
+      "description": "Pydantic-based FHIR resource models for Python.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/beda-software/fhir-py",
+      "name": "fhir-py",
+      "url": "https://github.com/beda-software/fhir-py",
+      "description": "Async and sync FHIR client for Python.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
       "key": "https://github.com/google/fhir",
       "name": "FHIR protocol buffers",
       "url": "https://github.com/google/fhir",
@@ -1014,6 +1274,16 @@
       ]
     },
     {
+      "key": "https://github.com/healthchainai/HealthChain",
+      "name": "HealthChain",
+      "url": "https://github.com/healthchainai/HealthChain",
+      "description": "Python SDK for building healthcare AI applications with FHIR tools and real-time EHR connectivity.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
       "key": "https://github.com/wardle/hermes",
       "name": "Hermes",
       "url": "https://github.com/wardle/hermes",
@@ -1034,9 +1304,9 @@
       ]
     },
     {
-      "key": "https://mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)",
+      "key": "https://mitk.org",
       "name": "MITK",
-      "url": "https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)",
+      "url": "https://www.mitk.org/",
       "description": "The Medical Imaging Interaction Toolkit.",
       "section": [
         "Contents",
@@ -1044,8 +1314,28 @@
       ]
     },
     {
+      "key": "https://github.com/nHapiNET/nHapi",
+      "name": "nHapi",
+      "url": "https://github.com/nHapiNET/nHapi",
+      "description": ".NET port of the HAPI HL7 v2 library.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/wardle/nhs-number",
+      "name": "nhs-number",
+      "url": "https://github.com/wardle/nhs-number",
+      "description": "A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
       "key": "https://github.com/uk-fci/nhs-number",
-      "name": "nhs-numbers",
+      "name": "nhs-number",
       "url": "https://github.com/uk-fci/nhs-number",
       "description": "Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.",
       "section": [
@@ -1078,6 +1368,16 @@
       "name": "php-fhir",
       "url": "https://github.com/dcarbone/php-fhir",
       "description": "Tools for creating PHP classes from the HL7 FHIR Specification.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/pydicom/pydicom",
+      "name": "Pydicom",
+      "url": "https://github.com/pydicom/pydicom",
+      "description": "Pure Python package for working with DICOM files, enabling reading, writing, and manipulation of medical imaging data.",
       "section": [
         "Contents",
         "Libraries"
@@ -1154,10 +1454,30 @@
       ]
     },
     {
+      "key": "https://github.com/pacharanero/sct",
+      "name": "sct",
+      "url": "https://github.com/pacharanero/sct",
+      "description": "File-based SNOMED-CT toolset built in Rust.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
       "key": "https://scanpy.readthedocs.io",
       "name": "Scanpy",
       "url": "https://scanpy.readthedocs.io/",
       "description": "Single-cell RNA-seq analysis library in Python.",
+      "section": [
+        "Contents",
+        "Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/smart-on-fhir/client-js",
+      "name": "SMART on FHIR JavaScript client",
+      "url": "https://github.com/smart-on-fhir/client-js",
+      "description": "JavaScript client for SMART on FHIR apps.",
       "section": [
         "Contents",
         "Libraries"
@@ -1174,10 +1494,60 @@
       ]
     },
     {
+      "key": "https://github.com/airwaylab-app/airwaylab",
+      "name": "AirwayLab",
+      "url": "https://github.com/airwaylab-app/airwaylab",
+      "description": "Browser-based airway analysis dashboard for PAP therapy users with flow limitation scoring, breathing pattern analysis, and oximetry metrics.",
+      "section": [
+        "Contents",
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/dimagi/commcare-hq",
+      "name": "CommCare HQ",
+      "url": "https://github.com/dimagi/commcare-hq",
+      "description": "Server for CommCare, a mobile data collection platform for frontline health workers.",
+      "section": [
+        "Contents",
+        "Applications"
+      ]
+    },
+    {
       "key": "https://github.com/intervention-engine/ie",
       "name": "Intervention Engine",
       "url": "https://github.com/intervention-engine/ie",
       "description": "Provides a web-application for data-driven team huddles.",
+      "section": [
+        "Contents",
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/Futsch1/medTimer",
+      "name": "MedTimer",
+      "url": "https://github.com/Futsch1/medTimer",
+      "description": "Medication reminder and tracking app for Android.",
+      "section": [
+        "Contents",
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/opensrp/fhircore",
+      "name": "OpenSRP FHIR Core",
+      "url": "https://github.com/opensrp/fhircore",
+      "description": "Offline-capable Android app for community health workers, built on the Android FHIR SDK.",
+      "section": [
+        "Contents",
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://growth.rcpch.ac.uk",
+      "name": "RCPCH Digital Growth Charts",
+      "url": "https://growth.rcpch.ac.uk",
+      "description": "Open source Digital Growth Charts platform with API, CLI, Python package, React chart components.",
       "section": [
         "Contents",
         "Applications"
@@ -1204,20 +1574,20 @@
       ]
     },
     {
-      "key": "https://github.com/fastenhealth/fasten-onprem",
-      "name": "Fasten Health",
-      "url": "https://github.com/fastenhealth/fasten-onprem",
-      "description": "open-source, self-hosted, personal/family electronic medical record aggregator",
+      "key": "https://github.com/SORMAS-Foundation/SORMAS-Project",
+      "name": "SORMAS",
+      "url": "https://github.com/SORMAS-Foundation/SORMAS-Project",
+      "description": "Surveillance, outbreak response management and analysis system.",
       "section": [
         "Contents",
-        "PHR"
+        "Applications"
       ]
     },
     {
-      "key": "https://github.com/tidepool-org",
-      "name": "Tidepool",
-      "url": "https://github.com/tidepool-org",
-      "description": "Data platform to reduce the burden of Type 1 Diabetes.",
+      "key": "https://github.com/nightscout/AndroidAPS",
+      "name": "AndroidAPS",
+      "url": "https://github.com/nightscout/AndroidAPS",
+      "description": "Open source automated insulin delivery system for Android.",
       "section": [
         "Contents",
         "PHR"
@@ -1234,6 +1604,66 @@
       ]
     },
     {
+      "key": "https://github.com/LoopKit/Loop",
+      "name": "Loop",
+      "url": "https://github.com/LoopKit/Loop",
+      "description": "Automated insulin delivery app for iOS.",
+      "section": [
+        "Contents",
+        "PHR"
+      ]
+    },
+    {
+      "key": "https://github.com/nightscout/cgm-remote-monitor",
+      "name": "Nightscout",
+      "url": "https://github.com/nightscout/cgm-remote-monitor",
+      "description": "Web monitor for continuous glucose monitor data.",
+      "section": [
+        "Contents",
+        "PHR"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenHealthForAll/open-health",
+      "name": "OpenHealth",
+      "url": "https://github.com/OpenHealthForAll/open-health",
+      "description": "Privacy-first AI health assistant that interprets personal health data (blood tests, checkups, family history, symptoms) with local LLM support via Ollama.",
+      "section": [
+        "Contents",
+        "PHR"
+      ]
+    },
+    {
+      "key": "https://github.com/tidepool-org",
+      "name": "Tidepool",
+      "url": "https://github.com/tidepool-org",
+      "description": "Data platform to reduce the burden of Type 1 Diabetes.",
+      "section": [
+        "Contents",
+        "PHR"
+      ]
+    },
+    {
+      "key": "https://github.com/nightscout/Trio",
+      "name": "Trio",
+      "url": "https://github.com/nightscout/Trio",
+      "description": "Automated insulin delivery system for iOS based on the OpenAPS algorithm.",
+      "section": [
+        "Contents",
+        "PHR"
+      ]
+    },
+    {
+      "key": "https://github.com/NightscoutFoundation/xDrip",
+      "name": "xDrip+",
+      "url": "https://github.com/NightscoutFoundation/xDrip",
+      "description": "Android app for collecting and displaying continuous glucose monitor data.",
+      "section": [
+        "Contents",
+        "PHR"
+      ]
+    },
+    {
       "key": "https://hcw-at-home.com",
       "name": "Healthcare worker at home",
       "url": "https://hcw-at-home.com",
@@ -1241,6 +1671,16 @@
       "section": [
         "Contents",
         "Telemedicine"
+      ]
+    },
+    {
+      "key": "https://github.com/pharmaverse/admiral",
+      "name": "admiral",
+      "url": "https://github.com/pharmaverse/admiral",
+      "description": "R package from pharmaverse for creating ADaM clinical trial datasets.",
+      "section": [
+        "Contents",
+        "Research"
       ]
     },
     {
@@ -1258,6 +1698,26 @@
       "name": "LabKey Server",
       "url": "https://www.labkey.com/products-services/labkey-server/",
       "description": "Platform for Translational Research.",
+      "section": [
+        "Contents",
+        "Research"
+      ]
+    },
+    {
+      "key": "https://github.com/reliatec-gmbh/LibreClinica",
+      "name": "LibreClinica",
+      "url": "https://github.com/reliatec-gmbh/LibreClinica",
+      "description": "Electronic data capture for clinical trials, community successor of OpenClinica.",
+      "section": [
+        "Contents",
+        "Research"
+      ]
+    },
+    {
+      "key": "https://github.com/OHDSI/Atlas",
+      "name": "OHDSI ATLAS",
+      "url": "https://github.com/OHDSI/Atlas",
+      "description": "Web tool for observational research on OMOP CDM data.",
       "section": [
         "Contents",
         "Research"
@@ -1284,6 +1744,26 @@
       ]
     },
     {
+      "key": "https://github.com/LinuxForHealth/hl7v2-fhir-converter",
+      "name": "LinuxForHealth HL7v2-FHIR Converter",
+      "url": "https://github.com/LinuxForHealth/hl7v2-fhir-converter",
+      "description": "Converts HL7 v2 messages to FHIR resources.",
+      "section": [
+        "Contents",
+        "Integration"
+      ]
+    },
+    {
+      "key": "https://github.com/SagaHealthcareIT/mirthsync",
+      "name": "mirthSync",
+      "url": "https://github.com/SagaHealthcareIT/mirthsync",
+      "description": "CLI for putting Mirth Connect and Open Integration Engine configuration under version control.",
+      "section": [
+        "Contents",
+        "Integration"
+      ]
+    },
+    {
       "key": "https://github.com/nextgenhealthcare/connect",
       "name": "NextGen Connect Integration Engine",
       "url": "https://github.com/nextgenhealthcare/connect",
@@ -1298,6 +1778,16 @@
       "name": "Open eHealth Integration Platform",
       "url": "https://github.com/oehf/ipf",
       "description": "An extension of the Apache Camel routing and mediation engine",
+      "section": [
+        "Contents",
+        "Integration"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenIntegrationEngine/engine",
+      "name": "Open Integration Engine",
+      "url": "https://github.com/OpenIntegrationEngine/engine",
+      "description": "Community open source fork of Mirth Connect.",
       "section": [
         "Contents",
         "Integration"
@@ -1384,6 +1874,16 @@
       ]
     },
     {
+      "key": "https://github.com/cBioPortal/cbioportal",
+      "name": "cBioPortal",
+      "url": "https://github.com/cBioPortal/cbioportal",
+      "description": "Platform for exploring and visualizing cancer genomics data.",
+      "section": [
+        "Contents",
+        "Bioinformatics"
+      ]
+    },
+    {
       "key": "https://github.com/cafferychen777/flashdeconv",
       "name": "FlashDeconv",
       "url": "https://github.com/cafferychen777/flashdeconv",
@@ -1398,6 +1898,46 @@
       "name": "Galaxy",
       "url": "https://galaxyproject.org/",
       "description": "Open web-based platform for data intensive biomedical research.",
+      "section": [
+        "Contents",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "key": "https://github.com/broadinstitute/gatk",
+      "name": "GATK",
+      "url": "https://github.com/broadinstitute/gatk",
+      "description": "Broad Institute toolkit for variant discovery in high-throughput sequencing data.",
+      "section": [
+        "Contents",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "key": "https://github.com/hail-is/hail",
+      "name": "Hail",
+      "url": "https://github.com/hail-is/hail",
+      "description": "Scalable genomic data analysis.",
+      "section": [
+        "Contents",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "key": "https://github.com/nf-core/sarek",
+      "name": "nf-core/sarek",
+      "url": "https://github.com/nf-core/sarek",
+      "description": "Pipeline to detect germline and somatic variants from sequencing data.",
+      "section": [
+        "Contents",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "key": "https://github.com/scikit-bio/scikit-bio",
+      "name": "scikit-bio",
+      "url": "https://github.com/scikit-bio/scikit-bio",
+      "description": "Python library for bioinformatics, providing tools for sequence analysis, microbiome studies, and statistical analysis of biological data.",
       "section": [
         "Contents",
         "Bioinformatics"
@@ -1434,16 +1974,6 @@
       ]
     },
     {
-      "key": "https://caisis.org",
-      "name": "Caisis",
-      "url": "http://www.caisis.org/",
-      "description": "Oncology research software with a Patient Data Management System.",
-      "section": [
-        "Contents",
-        "Data"
-      ]
-    },
-    {
       "key": "https://github.com/mitre/cedar",
       "name": "Cedar",
       "url": "https://github.com/mitre/cedar",
@@ -1458,6 +1988,16 @@
       "name": "cTAKES",
       "url": "https://ctakes.apache.org/",
       "description": "Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.",
+      "section": [
+        "Contents",
+        "Data"
+      ]
+    },
+    {
+      "key": "https://github.com/dhis2/dhis2-core",
+      "name": "DHIS2",
+      "url": "https://github.com/dhis2/dhis2-core",
+      "description": "Health information management platform used by national health systems.",
       "section": [
         "Contents",
         "Data"
@@ -1494,10 +2034,40 @@
       ]
     },
     {
+      "key": "https://github.com/medspacy/medspacy",
+      "name": "medspaCy",
+      "url": "https://github.com/medspacy/medspacy",
+      "description": "Library for clinical NLP with spaCy.",
+      "section": [
+        "Contents",
+        "Data"
+      ]
+    },
+    {
+      "key": "https://github.com/google/fhir-data-pipes",
+      "name": "OpenMRS FHIR Analytics",
+      "url": "https://github.com/google/fhir-data-pipes",
+      "description": "Pipeline tools for transforming OpenMRS data to FHIR-based analytics using Apache Beam.",
+      "section": [
+        "Contents",
+        "Data"
+      ]
+    },
+    {
       "key": "https://opensafely.org",
       "name": "OpenSAFELY",
       "url": "https://www.opensafely.org",
       "description": "Secure analytics platform for Electronic Health Records in the NHS.",
+      "section": [
+        "Contents",
+        "Data"
+      ]
+    },
+    {
+      "key": "https://github.com/aehrc/pathling",
+      "name": "Pathling",
+      "url": "https://github.com/aehrc/pathling",
+      "description": "FHIR and clinical terminology analytics on Apache Spark.",
       "section": [
         "Contents",
         "Data"
@@ -1514,10 +2084,30 @@
       ]
     },
     {
+      "key": "https://github.com/IHTSDO/snowstorm",
+      "name": "Snowstorm",
+      "url": "https://github.com/IHTSDO/snowstorm",
+      "description": "SNOMED International's SNOMED CT terminology server.",
+      "section": [
+        "Contents",
+        "Data"
+      ]
+    },
+    {
       "key": "https://github.com/synthetichealth/synthea",
       "name": "Synthea Patient Generator",
       "url": "https://github.com/synthetichealth/synthea",
       "description": "Synthetic patient generator that models the medical history of synthetic patients.",
+      "section": [
+        "Contents",
+        "Data"
+      ]
+    },
+    {
+      "key": "https://github.com/tuva-health/tuva-core",
+      "name": "Tuva",
+      "url": "https://github.com/tuva-health/tuva-core",
+      "description": "Open source data model, data marts and data quality tests for claims and clinical data.",
       "section": [
         "Contents",
         "Data"
@@ -1564,16 +2154,6 @@
       ]
     },
     {
-      "key": "https://healthcare.ai",
-      "name": "Healthcare.ai",
-      "url": "https://healthcare.ai",
-      "description": "Python and R tools for healthcare machine learning.",
-      "section": [
-        "Contents",
-        "Machine learning"
-      ]
-    },
-    {
       "key": "https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md",
       "name": "MedicalGPT",
       "url": "https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md",
@@ -1594,6 +2174,46 @@
       ]
     },
     {
+      "key": "https://github.com/MIC-DKFZ/nnUNet",
+      "name": "nnU-Net",
+      "url": "https://github.com/MIC-DKFZ/nnUNet",
+      "description": "Self-configuring deep learning framework for biomedical image segmentation.",
+      "section": [
+        "Contents",
+        "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/VectorInstitute/odyssey",
+      "name": "Odyssey",
+      "url": "https://github.com/VectorInstitute/odyssey",
+      "description": "Interpretable foundation model of the patient clinical timeline for event forecasting and time-to-event prediction.",
+      "section": [
+        "Contents",
+        "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/maziyarpanahi/openmed",
+      "name": "OpenMed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "Local clinical named-entity recognition and PHI de-identification models.",
+      "section": [
+        "Contents",
+        "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/Dana-Farber-AIOS/PathML",
+      "name": "PathML",
+      "url": "https://github.com/Dana-Farber-AIOS/PathML",
+      "description": "Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.",
+      "section": [
+        "Contents",
+        "Machine learning"
+      ]
+    },
+    {
       "key": "https://github.com/sunlabuiuc/PyHealth",
       "name": "PyHealth",
       "url": "https://github.com/sunlabuiuc/PyHealth",
@@ -1601,6 +2221,46 @@
       "section": [
         "Contents",
         "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/epic-open-source/seismometer",
+      "name": "seismometer",
+      "url": "https://github.com/epic-open-source/seismometer",
+      "description": "Epic's framework for evaluating AI models in healthcare.",
+      "section": [
+        "Contents",
+        "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/TorchIO-project/torchio",
+      "name": "TorchIO",
+      "url": "https://github.com/TorchIO-project/torchio",
+      "description": "Medical image preprocessing and augmentation for deep learning.",
+      "section": [
+        "Contents",
+        "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/wasserth/TotalSegmentator",
+      "name": "TotalSegmentator",
+      "url": "https://github.com/wasserth/TotalSegmentator",
+      "description": "Segmentation of more than 100 anatomical structures in CT and MR images.",
+      "section": [
+        "Contents",
+        "Machine learning"
+      ]
+    },
+    {
+      "key": "https://github.com/the-momentum/healthstack",
+      "name": "HealthStack",
+      "url": "https://github.com/the-momentum/healthstack",
+      "description": "Terraform modules for secure and compliant healthcare infrastructure on AWS.",
+      "section": [
+        "Contents",
+        "Compliance"
       ]
     },
     {

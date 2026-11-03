@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4d05a92072a8220a8c641a11df960ec442b338b2a2a1ff3919bad0117c3d19bd\"",
+  "etag": "W/\"1912f6c4d5f0190611e7300d8fcce42b14f51fdbe81ea7e9d45d630a466ec951\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -228,6 +228,16 @@
       "name": "OpenAPI Breaking Change Checker",
       "url": "https://martingruner.com/tools/openapi-breaking-change-checker",
       "description": "Free browser tool that compares two Swagger 2.0 or OpenAPI 3.0/3.1 descriptions (JSON or YAML) and sorts each change into likely breaking, review-needed or compatible; the files stay in the browser.",
+      "section": [
+        "Software",
+        "API Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/HarshalKudale/bifurc",
+      "name": "Bifurc",
+      "url": "https://github.com/HarshalKudale/bifurc",
+      "description": "Local-first API client, mock server and traffic proxy for macOS, Windows and Linux, with a CLI for CI.",
       "section": [
         "Software",
         "API Testing"
@@ -688,16 +698,6 @@
       "name": "ai-wright",
       "url": "https://github.com/TestChimp/ai-wright",
       "description": "Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.",
-      "section": [
-        "Software",
-        "UI & End-to-End Testing"
-      ]
-    },
-    {
-      "key": "https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab",
-      "name": "App Crash Lab",
-      "url": "https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab",
-      "description": "MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -1731,6 +1731,16 @@
       "section": [
         "Software",
         "Web3 & Blockchain Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/Blasword/bareenv",
+      "name": "bareenv",
+      "url": "https://github.com/Blasword/bareenv",
+      "description": "Runs a command once per environment combination (unset, empty, invalid) and reports the ones that break.",
+      "section": [
+        "Software",
+        "Test Automation Frameworks"
       ]
     },
     {

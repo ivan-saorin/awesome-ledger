@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c47340356054721f356aa548351f9b08ebbd4cbdbc170e5f0eef77cc5f9abf5e\"",
+  "etag": "W/\"3b4a57ad2971aa9efc8600e5c328bce3e88a7017b94b548acf2873aa5cad6790\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -6759,6 +6759,15 @@
       "name": "omz-themes-standalone",
       "url": "https://github.com/zshzoo/omz-themes-standalone",
       "description": "Gives you the oh-my-zsh themes without requiring everything else that comes with Oh-My-ZSH.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ysb3996-blip/oops",
+      "name": "oops",
+      "url": "https://github.com/ysb3996-blip/oops",
+      "description": "Copies the last command and its output to the clipboard as a Markdown code block, with API keys and other secrets masked. Needs Ruby 3.3 or later; no gem install.",
       "section": [
         "Plugins"
       ]
@@ -22951,16 +22960,6 @@
       "name": "ohmyzsh-gui",
       "url": "https://github.com/a1024053774/ohmyzsh-gui",
       "description": "A desktop app for Oh My Zsh plugins, themes, and .zshrc. Every change is previewed, backed up, and syntax-checked with zsh -n before Apply. Supports macOS, Windows and Linux.",
-      "section": [
-        "Other Resources",
-        "ZSH Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/ysb3996-blip/oops",
-      "name": "oops",
-      "url": "https://github.com/ysb3996-blip/oops",
-      "description": "Copies the last command and its output to the clipboard as a Markdown code block, with API keys and other secrets masked. Works in ZSH and bash. Installed as a Ruby gem (Ruby 3.3 or later).",
       "section": [
         "Other Resources",
         "ZSH Tools"
