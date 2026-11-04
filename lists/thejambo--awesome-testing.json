@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1912f6c4d5f0190611e7300d8fcce42b14f51fdbe81ea7e9d45d630a466ec951\"",
+  "etag": "W/\"85d0a4366d1797655b3e82a8430b41dc9a9aceb0ece9c02c6b37f971844080c1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -444,6 +444,16 @@
       ]
     },
     {
+      "key": "https://github.com/hamarshehmhmd/llmdrill",
+      "name": "llmdrill",
+      "url": "https://github.com/hamarshehmhmd/llmdrill",
+      "description": "Open-source CLI that runs your app behind a local fake of the Anthropic and OpenAI APIs, injects outages (529/503 overloads, 429 with retry-after, hangs, cut streams) and grades its retries, backoff, timeouts and failover.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
       "key": "https://beeceptor.com",
       "name": "Beeceptor",
       "url": "https://beeceptor.com/",
@@ -508,16 +518,6 @@
       "name": "MockServer",
       "url": "https://github.com/mock-server/mockserver-monorepo",
       "description": "Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.",
-      "section": [
-        "Software",
-        "Service Virtualization"
-      ]
-    },
-    {
-      "key": "https://npmjs.com/package/s3-test-server",
-      "name": "s3-test-server",
-      "url": "https://www.npmjs.com/package/s3-test-server",
-      "description": "S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).",
       "section": [
         "Software",
         "Service Virtualization"
@@ -844,6 +844,16 @@
       ]
     },
     {
+      "key": "https://github.com/genclass-dev/GenClass",
+      "name": "GenClass",
+      "url": "https://github.com/genclass-dev/GenClass",
+      "description": "Open-source browser library that reports race conditions in a web app while they happen (stale responses written over newer data, duplicate submits, failure storms) with a small on-device model. Its local MCP server re-runs a page with responses delivered in different orders to find races and replays one order to prove a fix.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://hyperbrowser.ai",
       "name": "Hyperbrowser",
       "url": "https://hyperbrowser.ai",
@@ -958,6 +968,16 @@
       "name": "qmax-mcp",
       "url": "https://github.com/Quality-Max/qmax-mcp",
       "description": "MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://replay.io",
+      "name": "Replay QA",
+      "url": "https://replay.io/",
+      "description": "Autonomous QA agent for web apps built on Replay's time-travel runtime recording and analysis. It explores an app from its URL, writes and runs Playwright tests, and delivers a root-cause analysis for each failure, backed by evidence from the recorded execution. Free tier, no credit card.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
@@ -1461,16 +1481,6 @@
       "section": [
         "Software",
         "Browser Extensions & Utilities"
-      ]
-    },
-    {
-      "key": "https://a11ykit.site",
-      "name": "A11yKit",
-      "url": "https://a11ykit.site",
-      "description": "15 free client-side web accessibility and WCAG 2.2 color contrast testing tools with zero code uploads.",
-      "section": [
-        "Software",
-        "Accessibility & Usability Testing"
       ]
     },
     {

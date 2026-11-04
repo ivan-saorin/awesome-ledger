@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"553c938bbd56be380ad3ef244658869a3092a7fa89def662a40b3d05bcd6a23a\"",
+  "etag": "W/\"51ba3836f1849343d46637a0d5674bac2008d7190905fba4664bf4e0f55c97f5\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -221,7 +221,7 @@
       "key": "https://github.com/rdagger/micropython-sgtl5000",
       "name": "micropython-sgtl5000",
       "url": "https://github.com/rdagger/micropython-sgtl5000",
-      "description": "Library for SGTL5000 Low Power Stereo Codec w/ Headphone Amp.",
+      "description": "Library for SGTL5000 low power stereo codec w/ headphone amp.",
       "section": [
         "Libraries",
         "Audio"
@@ -731,7 +731,7 @@
       "key": "https://github.com/gdassori/microotp",
       "name": "microotp",
       "url": "https://github.com/gdassori/microotp",
-      "description": "An ESP8266 MicroPython OTP Generator.",
+      "description": "An ESP8266 MicroPython OTP generator.",
       "section": [
         "Libraries",
         "Communications",
@@ -874,7 +874,7 @@
       "key": "https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal",
       "name": "Micropython-DNSServer-Captive-Portal",
       "url": "https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal",
-      "description": "MicroPython WiFi AP Captive Portal with DNS and Web Server.",
+      "description": "MicroPython WiFi AP captive portal with DNS and web server.",
       "section": [
         "Libraries",
         "Communications",
@@ -1091,17 +1091,6 @@
       ]
     },
     {
-      "key": "https://github.com/aleppax/SIM800L-micropython",
-      "name": "SIM800L-micropython",
-      "url": "https://github.com/aleppax/SIM800L-micropython",
-      "description": "MicroPython wrapper for common SIM800L AT commands.",
-      "section": [
-        "Libraries",
-        "Communications",
-        "GSM"
-      ]
-    },
-    {
       "key": "https://github.com/basanovase/sim7600",
       "name": "sim7600",
       "url": "https://github.com/basanovase/sim7600",
@@ -1259,7 +1248,7 @@
       "key": "https://github.com/agners/micropython-ha-mqtt-device",
       "name": "micropython-ha-mqtt-device",
       "url": "https://github.com/agners/micropython-ha-mqtt-device",
-      "description": "MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.",
+      "description": "MicroPython module which allows creating Entities for HomeAssistant using MQTT Discovery.",
       "section": [
         "Libraries",
         "Communications",
@@ -1380,7 +1369,7 @@
       "key": "https://github.com/gamefunc/micropython_espX_IR_Transceiver",
       "name": "micropython_espX_IR_Transceiver",
       "url": "https://github.com/gamefunc/micropython_espX_IR_Transceiver",
-      "description": "MicroPython ESP32 IR Transceiver.",
+      "description": "MicroPython ESP32 IR transceiver.",
       "section": [
         "Libraries",
         "Communications",
@@ -1699,7 +1688,7 @@
       "key": "https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266",
       "name": "micropython-thingspeak-mqtt-esp8266",
       "url": "https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266",
-      "description": "Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.",
+      "description": "Publish and subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.",
       "section": [
         "Libraries",
         "Communications",
@@ -1743,7 +1732,7 @@
       "key": "https://github.com/matbgn/mqtt_upython",
       "name": "mqtt_upython",
       "url": "https://github.com/matbgn/mqtt_upython",
-      "description": "MQTT Client using MicroPython on ESP8266.",
+      "description": "MQTT client using MicroPython on ESP8266.",
       "section": [
         "Libraries",
         "Communications",
@@ -1765,7 +1754,7 @@
       "key": "https://github.com/miketeachman/micropython-mqtt-thingspeak",
       "name": "micropython-mqtt-thingspeak",
       "url": "https://github.com/miketeachman/micropython-mqtt-thingspeak",
-      "description": "Publish and Subscribe to ThingSpeak using MQTT with MicroPython.",
+      "description": "Publish and subscribe to ThingSpeak using MQTT with MicroPython.",
       "section": [
         "Libraries",
         "Communications",
@@ -2139,7 +2128,7 @@
       "key": "https://github.com/matthias-bs/MicroPython-BresserWeatherSensorReceiver",
       "name": "MicroPython-BresserWeatherSensorReceiver",
       "url": "https://github.com/matthias-bs/MicroPython-BresserWeatherSensorReceiver",
-      "description": "Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver and Decoder.",
+      "description": "Bresser 5-in-1 / 6-in-1 / 7-in-1 868 MHz weather sensor radio receiver and decoder.",
       "section": [
         "Libraries",
         "Communications",
@@ -2206,6 +2195,17 @@
       "name": "micropython-mfrc522",
       "url": "https://github.com/wendlers/micropython-mfrc522",
       "description": "Driver for NXP MFRC522 RFID reader/writer.",
+      "section": [
+        "Libraries",
+        "Communications",
+        "RFID"
+      ]
+    },
+    {
+      "key": "https://github.com/HowManyOliversAreThere/micropython-uhf-module",
+      "name": "micropython-uhf-module",
+      "url": "https://github.com/HowManyOliversAreThere/micropython-uhf-module",
+      "description": "A MicroPython driver for the Tenhanyun TY928 UHF RFID embedded module.",
       "section": [
         "Libraries",
         "Communications",
@@ -2370,7 +2370,7 @@
       "key": "https://github.com/ekspla/micropython_rx-8035",
       "name": "micropython_rx-8035",
       "url": "https://github.com/ekspla/micropython_rx-8035",
-      "description": "A MicroPython Driver for Seiko Epson's RTC, RX-8035SA/LC.",
+      "description": "A MicroPython driver for Seiko Epson's RTC, RX-8035SA/LC.",
       "section": [
         "Libraries",
         "Communications",
@@ -2437,6 +2437,17 @@
       "name": "micropython-msgpack",
       "url": "https://github.com/peterhinch/micropython-msgpack",
       "description": "MessagePack serialisation library optimised for MicroPython.",
+      "section": [
+        "Libraries",
+        "Communications",
+        "Serialization"
+      ]
+    },
+    {
+      "key": "https://github.com/Tangerino/micropython-msgpackc",
+      "name": "micropython-msgpackc",
+      "url": "https://github.com/Tangerino/micropython-msgpackc",
+      "description": "Fast MessagePack in C, a drop-in replacement for umsgpack.",
       "section": [
         "Libraries",
         "Communications",
@@ -2513,7 +2524,7 @@
       "key": "https://github.com/jczic/XAsyncSockets",
       "name": "XAsyncSockets",
       "url": "https://github.com/jczic/XAsyncSockets",
-      "description": "XAsyncSockets is an efficient Python/MicroPython library of managed asynchronous sockets.",
+      "description": "An efficient Python/MicroPython library of managed asynchronous sockets.",
       "section": [
         "Libraries",
         "Communications",
@@ -2698,9 +2709,9 @@
     },
     {
       "key": "https://github.com/troublegum/micropyserver",
-      "name": "micropyserver",
+      "name": "MicroPyServer",
       "url": "https://github.com/troublegum/micropyserver",
-      "description": "MicroPyServer is a simple HTTP server for MicroPython projects.",
+      "description": "A simple HTTP server for MicroPython projects.",
       "section": [
         "Libraries",
         "Communications",
@@ -2909,7 +2920,7 @@
       "key": "https://github.com/Carglglz/mpy-wpa_supplicant",
       "name": "mpy-wpa_supplicant",
       "url": "https://github.com/Carglglz/mpy-wpa_supplicant",
-      "description": "MicroPython module to connect to the nearest known Wifi AP.",
+      "description": "MicroPython module to connect to the nearest known WiFi AP.",
       "section": [
         "Libraries",
         "Communications",
@@ -3379,6 +3390,17 @@
       ]
     },
     {
+      "key": "https://github.com/dmazzella/anx7625",
+      "name": "anx7625",
+      "url": "https://github.com/dmazzella/anx7625",
+      "description": "MicroPython porting of video primitives for Portenta H7 via USBC (to HDMI adapter).",
+      "section": [
+        "Libraries",
+        "Display",
+        "HDMI"
+      ]
+    },
+    {
       "key": "https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py",
       "name": "Grove_RGB_LCD",
       "url": "https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py",
@@ -3426,7 +3448,7 @@
       "key": "https://github.com/scitoast/pyboard-LCD-character-display",
       "name": "pyboard-LCD-character-display",
       "url": "https://github.com/scitoast/pyboard-LCD-character-display",
-      "description": "Pyboar driver for HDD44780-compatible 1602 LCDs.",
+      "description": "Pyboard driver for HDD44780-compatible 1602 LCDs.",
       "section": [
         "Libraries",
         "Display",
@@ -3588,6 +3610,17 @@
       ]
     },
     {
+      "key": "https://github.com/peter-l5/MicroPython-Sharp-Memory-Display",
+      "name": "MicroPython-Sharp-Memory-Display",
+      "url": "https://github.com/peter-l5/MicroPython-Sharp-Memory-Display",
+      "description": "MicroPython driver for SHARP memory LCD displays.",
+      "section": [
+        "Libraries",
+        "Display",
+        "LCD Graphic"
+      ]
+    },
+    {
       "key": "https://github.com/tuupola/micropython-ili934x",
       "name": "micropython-ili934x",
       "url": "https://github.com/tuupola/micropython-ili934x",
@@ -3679,7 +3712,7 @@
       "key": "https://github.com/jeffmer/micropython-ili9341",
       "name": "micropython-ili9341",
       "url": "https://github.com/jeffmer/micropython-ili9341",
-      "description": "MicroPython Driver for ILI9341 display.",
+      "description": "MicroPython driver for ILI9341 display.",
       "section": [
         "Libraries",
         "Display",
@@ -3811,7 +3844,7 @@
       "key": "https://github.com/russhughes/st7789s3_esp_lcd",
       "name": "st7789s3_esp_lcd",
       "url": "https://github.com/russhughes/st7789s3_esp_lcd",
-      "description": "Fast ESP_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.",
+      "description": "Fast ESP_LCD based MicroPython driver for the TTGO T-Display-S3 ST7789 display written in C.",
       "section": [
         "Libraries",
         "Display",
@@ -3877,7 +3910,7 @@
       "key": "https://github.com/tkurbad/mp-ili9341",
       "name": "mp-ili9341",
       "url": "https://github.com/tkurbad/mp-ili9341",
-      "description": "MicroPython Driver for ILI9341 TFT Display.",
+      "description": "MicroPython driver for ILI9341 TFT Display.",
       "section": [
         "Libraries",
         "Display",
@@ -4075,7 +4108,7 @@
       "key": "https://gitlab.com/robhamerling/micropython-tm1640",
       "name": "micropython-tm1640",
       "url": "https://gitlab.com/robhamerling/micropython-tm1640",
-      "description": "MicroPython Library for 16 digits 7-segment displays controlled by a TM1640.",
+      "description": "MicroPython library for 16 digits 7-segment displays controlled by a TM1640.",
       "section": [
         "Libraries",
         "Display",
@@ -4097,7 +4130,7 @@
       "key": "https://gitlab.com/robhamerling/micropython-tm1638spi",
       "name": "micropython-tm1638spi",
       "url": "https://gitlab.com/robhamerling/micropython-tm1638spi",
-      "description": "MicroPython Library for a popular board with 8 7-segment digits, 8 separate LEDs and 8 push buttons controlled by a TM1638.",
+      "description": "MicroPython library for a popular board with 8 7-segment digits, 8 separate LEDs and 8 push buttons controlled by a TM1638.",
       "section": [
         "Libraries",
         "Display",
@@ -4446,6 +4479,17 @@
       ]
     },
     {
+      "key": "https://github.com/ierolsen/coffee-edition-kit",
+      "name": "coffee-edition-kit",
+      "url": "https://github.com/ierolsen/coffee-edition-kit",
+      "description": "Pico W firmware that pulls print jobs from GitHub over HTTPS and streams them to a network printer over IPP, for a nightly newspaper.",
+      "section": [
+        "Libraries",
+        "Display",
+        "Printer"
+      ]
+    },
+    {
       "key": "https://github.com/ayoy/micropython-thermal-printer",
       "name": "micropython-thermal-printer",
       "url": "https://github.com/ayoy/micropython-thermal-printer",
@@ -4680,7 +4724,7 @@
       "key": "https://github.com/selfhostedhome/micropython-debounce-switch",
       "name": "micropython-debounce-switch",
       "url": "https://github.com/selfhostedhome/micropython-debounce-switch",
-      "description": "MicroPython Class for Debouncing Switches.",
+      "description": "MicroPython class for debouncing switches.",
       "section": [
         "Libraries",
         "IO",
@@ -4713,7 +4757,7 @@
       "key": "https://github.com/mcauser/micropython-mcp23017",
       "name": "micropython-mcp23017",
       "url": "https://github.com/mcauser/micropython-mcp23017",
-      "description": "MicroPython driver for MCP23017 16-bit I/O Expander.",
+      "description": "MicroPython driver for MCP23017 16-bit I/O expander.",
       "section": [
         "Libraries",
         "IO",
@@ -4724,7 +4768,7 @@
       "key": "https://github.com/mcauser/micropython-pcf8574",
       "name": "micropython-pcf8574",
       "url": "https://github.com/mcauser/micropython-pcf8574",
-      "description": "MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.",
+      "description": "MicroPython driver for PCF8574 8-Bit I2C I/O expander with interrupt.",
       "section": [
         "Libraries",
         "IO",
@@ -4735,7 +4779,7 @@
       "key": "https://github.com/mcauser/micropython-pcf8575",
       "name": "micropython-pcf8575",
       "url": "https://github.com/mcauser/micropython-pcf8575",
-      "description": "MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.",
+      "description": "MicroPython driver for PCF8575 16-Bit I2C I/O expander with interrupt.",
       "section": [
         "Libraries",
         "IO",
@@ -4768,7 +4812,7 @@
       "key": "https://github.com/octaprog7/mcp23017",
       "name": "mcp23017",
       "url": "https://github.com/octaprog7/mcp23017",
-      "description": "MicroPython module for MCP23017, 16-Bit I/O Expander with Serial Interface.",
+      "description": "MicroPython module for MCP23017, 16-Bit I/O Expander with serial interface.",
       "section": [
         "Libraries",
         "IO",
@@ -4779,7 +4823,7 @@
       "key": "https://github.com/rdagger/micropython-sx1509",
       "name": "micropython-sx1509",
       "url": "https://github.com/rdagger/micropython-sx1509",
-      "description": "MicroPython SX1509 I/O Expander Library.",
+      "description": "MicroPython SX1509 I/O expander library.",
       "section": [
         "Libraries",
         "IO",
@@ -4922,7 +4966,7 @@
       "key": "https://github.com/jposada202020/MicroPython_DS1841",
       "name": "MicroPython_DS1841",
       "url": "https://github.com/jposada202020/MicroPython_DS1841",
-      "description": "MicroPython Driver for the DS1841 Potentiometer.",
+      "description": "MicroPython driver for the DS1841 potentiometer.",
       "section": [
         "Libraries",
         "IO",
@@ -4933,7 +4977,7 @@
       "key": "https://github.com/jposada202020/MicroPython_DS3502",
       "name": "MicroPython_DS3502",
       "url": "https://github.com/jposada202020/MicroPython_DS3502",
-      "description": "MicroPython Driver for the DS3502 Potentiometer.",
+      "description": "MicroPython driver for the DS3502 potentiometer.",
       "section": [
         "Libraries",
         "IO",
@@ -5087,7 +5131,7 @@
       "key": "https://github.com/rdagger/micropython-quiic-twist",
       "name": "micropython-quiic-twist",
       "url": "https://github.com/rdagger/micropython-quiic-twist",
-      "description": "MicroPython Driver for Quiic Twist RGB Rotary Encoder.",
+      "description": "MicroPython driver for Quiic Twist RGB rotary encoder.",
       "section": [
         "Libraries",
         "IO",
@@ -5098,7 +5142,7 @@
       "key": "https://github.com/sgall17a/AS5600",
       "name": "AS5600",
       "url": "https://github.com/sgall17a/AS5600",
-      "description": "AS5600 MicroPython library for reading this magnetic sensor.",
+      "description": "MicroPython library for reading the magnetic sensor AS5600.",
       "section": [
         "Libraries",
         "IO",
@@ -5131,7 +5175,7 @@
       "key": "https://gitlab.com/olivierlenoir/MicroPython-SN74HCS264",
       "name": "MicroPython-SN74HCS264",
       "url": "https://gitlab.com/olivierlenoir/MicroPython-SN74HCS264",
-      "description": "MicroPython Driver for SN74HCS264 8-Bit Parallel-Out Serial Shift Registers With Schmitt-Trigger Inputs and Inverted Outputs.",
+      "description": "MicroPython driver for SN74HCS264 8-bit parallel-out serial shift registers with schmitt-trigger inputs and inverted outputs.",
       "section": [
         "Libraries",
         "IO",
@@ -5348,7 +5392,7 @@
       "key": "https://github.com/jonnor/micropython-npyfile",
       "name": "micropython-npyfile",
       "url": "https://github.com/jonnor/micropython-npyfile/",
-      "description": "Numpy .npy file support for MicroPython, supports read/write/streaming.",
+      "description": "NumPy .npy file support for MicroPython, supports read/write/streaming.",
       "section": [
         "Libraries",
         "Mathematics"
@@ -5422,7 +5466,7 @@
       "key": "https://github.com/jposada202020/MicroPython_PCA9685",
       "name": "MicroPython_PCA9685",
       "url": "https://github.com/jposada202020/MicroPython_PCA9685",
-      "description": "MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.",
+      "description": "MicroPython driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.",
       "section": [
         "Libraries",
         "Motion",
@@ -5444,7 +5488,7 @@
       "key": "https://github.com/octaprog7/pca9685",
       "name": "pca9685",
       "url": "https://github.com/octaprog7/pca9685",
-      "description": "MicroPython module for managing a 16-channel SHIM controller, PCA9685",
+      "description": "MicroPython module for managing a 16-channel SHIM controller, PCA9685.",
       "section": [
         "Libraries",
         "Motion",
@@ -5664,7 +5708,7 @@
       "key": "https://github.com/jposada202020/MicroPython_ADXL343",
       "name": "MicroPython_ADXL343",
       "url": "https://github.com/jposada202020/MicroPython_ADXL343",
-      "description": "MicroPython Driver for the Analog Devices ADXL343 Accelerometer.",
+      "description": "MicroPython driver for the Analog Devices ADXL343 accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5675,7 +5719,7 @@
       "key": "https://github.com/jposada202020/MicroPython_BMA220",
       "name": "MicroPython_BMA220",
       "url": "https://github.com/jposada202020/MicroPython_BMA220",
-      "description": "MicroPython Driver for the Bosch BMA220 Accelerometer.",
+      "description": "MicroPython driver for the Bosch BMA220 accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5686,7 +5730,7 @@
       "key": "https://github.com/jposada202020/MicroPython_BMA400",
       "name": "MicroPython_BMA400",
       "url": "https://github.com/jposada202020/MicroPython_BMA400",
-      "description": "MicroPython Driver for the Bosch BMA400 Accelerometer.",
+      "description": "MicroPython driver for the Bosch BMA400 accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5697,7 +5741,7 @@
       "key": "https://github.com/antirez/bma423-pure-mp",
       "name": "bma423-pure-mp",
       "url": "https://github.com/antirez/bma423-pure-mp",
-      "description": "MicroPython Driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩",
+      "description": "MicroPython driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩",
       "section": [
         "Libraries",
         "Sensors",
@@ -5708,7 +5752,7 @@
       "key": "https://github.com/jposada202020/MicroPython_LIS3DH",
       "name": "MicroPython_LIS3DH",
       "url": "https://github.com/jposada202020/MicroPython_LIS3DH",
-      "description": "MicroPython Driver for the LIS3DH 3-axis accelerometer.",
+      "description": "MicroPython driver for the LIS3DH 3-axis accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5719,7 +5763,7 @@
       "key": "https://github.com/jposada202020/MicroPython_KX132",
       "name": "MicroPython_KX132",
       "url": "https://github.com/jposada202020/MicroPython_KX132",
-      "description": "MicroPython Driver for the Kionix KX132 Accelerometer.",
+      "description": "MicroPython driver for the Kionix KX132 accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5730,7 +5774,7 @@
       "key": "https://github.com/jposada202020/MicroPython_H3LIS200DL",
       "name": "MicroPython_H3LIS200DL",
       "url": "https://github.com/jposada202020/MicroPython_H3LIS200DL",
-      "description": "MicroPython Driver for the ST H3LIS200DL Accelerometer.",
+      "description": "MicroPython driver for the ST H3LIS200DL accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5741,7 +5785,7 @@
       "key": "https://github.com/jposada202020/MicroPython_QMC5883L",
       "name": "MicroPython_QMC5883L",
       "url": "https://github.com/jposada202020/MicroPython_QMC5883L",
-      "description": "MicroPython Driver for the QMC5883L Accelerometer.",
+      "description": "MicroPython driver for the QMC5883L accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5752,7 +5796,7 @@
       "key": "https://github.com/jposada202020/Micropython_MC3479",
       "name": "Micropython_MC3479",
       "url": "https://github.com/jposada202020/Micropython_MC3479",
-      "description": "MicroPython Driver for the MC3479 Accelerometer.",
+      "description": "MicroPython driver for the MC3479 Accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5774,7 +5818,7 @@
       "key": "https://github.com/jposada202020/MicroPython_MMA8452Q",
       "name": "MicroPython_MMA8452Q",
       "url": "https://github.com/jposada202020/MicroPython_MMA8452Q",
-      "description": "MicroPython Driver for the NXP MMA8452Q Accelerometer.",
+      "description": "MicroPython driver for the NXP MMA8452Q Accelerometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5796,7 +5840,7 @@
       "key": "https://github.com/Ledbelly2142/CCS811",
       "name": "CCS811",
       "url": "https://github.com/Ledbelly2142/CCS811",
-      "description": "CCS811 Air Quality Sensor.",
+      "description": "Air Quality Sensor CCS811.",
       "section": [
         "Libraries",
         "Sensors",
@@ -5852,17 +5896,6 @@
       "name": "polly",
       "url": "https://github.com/g-sam/polly",
       "description": "SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.",
-      "section": [
-        "Libraries",
-        "Sensors",
-        "Air Quality"
-      ]
-    },
-    {
-      "key": "https://github.com/aleppax/micropython-SNGCJA5",
-      "name": "micropython-SNGCJA5",
-      "url": "https://github.com/aleppax/micropython-SNGCJA5",
-      "description": "MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6049,7 +6082,7 @@
       "key": "https://github.com/jposada202020/MicroPython_DPS310",
       "name": "MicroPython_DPS310",
       "url": "https://github.com/jposada202020/MicroPython_DPS310",
-      "description": "MicroPython Driver for the DPS310 Sensor. (Archived)",
+      "description": "MicroPython driver for the DPS310 Sensor. (Archived)",
       "section": [
         "Libraries",
         "Sensors",
@@ -6060,7 +6093,7 @@
       "key": "https://github.com/jposada202020/MicroPython_ICP10111",
       "name": "MicroPython_ICP10111",
       "url": "https://github.com/jposada202020/MicroPython_ICP10111",
-      "description": "MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor. (Archived)",
+      "description": "MicroPython driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor. (Archived)",
       "section": [
         "Libraries",
         "Sensors",
@@ -6082,7 +6115,7 @@
       "key": "https://github.com/jposada202020/MicroPython_MMR902",
       "name": "MicroPython_MMR902",
       "url": "https://github.com/jposada202020/MicroPython_MMR902",
-      "description": "MicroPython Driver for the Mitsumi MMR902 Micro Pressure Sensor. (Archived)",
+      "description": "MicroPython driver for the Mitsumi MMR902 Micro Pressure Sensor. (Archived)",
       "section": [
         "Libraries",
         "Sensors",
@@ -6104,7 +6137,7 @@
       "key": "https://github.com/jposada202020/MicroPython_MS5611",
       "name": "MicroPython_MS5611",
       "url": "https://github.com/jposada202020/MicroPython_MS5611",
-      "description": "MicroPython Driver for the TE MS5611 Pressure and Temperature Sensor. (Archived)",
+      "description": "MicroPython driver for the TE MS5611 Pressure and Temperature Sensor. (Archived)",
       "section": [
         "Libraries",
         "Sensors",
@@ -6291,7 +6324,7 @@
       "key": "https://github.com/jposada202020/MicroPython_ISL29125",
       "name": "MicroPython_ISL29125",
       "url": "https://github.com/jposada202020/MicroPython_ISL29125",
-      "description": "MicroPython Driver for the Intersil ISL29125 Color Sensor.",
+      "description": "MicroPython driver for the Intersil ISL29125 color sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6412,7 +6445,7 @@
       "key": "https://github.com/robert-hh/INA219",
       "name": "INA219",
       "url": "https://github.com/robert-hh/INA219",
-      "description": "INA219 MicroPython driver.",
+      "description": "MicroPython driver for INA219 current sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6478,7 +6511,7 @@
       "key": "https://github.com/basanovase/GP2Y0A21YK",
       "name": "GP2Y0A21YK",
       "url": "https://github.com/basanovase/GP2Y0A21YK",
-      "description": "GP2Y0A21YK MicroPython library.",
+      "description": "MicroPython library for interfacing with the GP2Y0A21YK IR distance sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6511,7 +6544,7 @@
       "key": "https://github.com/uceeatz/VL53L0X",
       "name": "VL53L0X",
       "url": "https://github.com/uceeatz/VL53L0X",
-      "description": "MicroPython Library for LiDAR Sensor VL53L0X.",
+      "description": "MicroPython library for LiDAR Sensor VL53L0X.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6731,7 +6764,7 @@
       "key": "https://github.com/whatnick/cs5490_micropython",
       "name": "cs5490_micropython",
       "url": "https://github.com/whatnick/cs5490_micropython",
-      "description": "MicroPython Driver for CS5490 Energy Monitor IC.",
+      "description": "MicroPython driver for CS5490 energy monitor IC.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6819,7 +6852,7 @@
       "key": "https://github.com/jposada202020/MicroPython_AGS02MA",
       "name": "MicroPython_AGS02MA",
       "url": "https://github.com/jposada202020/MicroPython_AGS02MA",
-      "description": "MicroPython Driver for the AGS02MA TVOC sensor.",
+      "description": "MicroPython driver for the AGS02MA TVOC sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6863,7 +6896,7 @@
       "key": "https://github.com/jposada202020/MicroPython_HTS221",
       "name": "MicroPython_HTS221",
       "url": "https://github.com/jposada202020/MicroPython_HTS221",
-      "description": "MicroPython Driver for the HTS221 Humidity Sensor.",
+      "description": "MicroPython driver for the HTS221 Humidity Sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -6907,7 +6940,7 @@
       "key": "https://github.com/PinkInk/upylib/tree/master/bh1750",
       "name": "bh1750",
       "url": "https://github.com/PinkInk/upylib/tree/master/bh1750",
-      "description": "BH1750 I2C digital light sensor driver.",
+      "description": "MicroPython driver for BH1750 I2C digital light sensor driver.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7028,7 +7061,7 @@
       "key": "https://github.com/HowManyOliversAreThere/hx711_mpy-driver",
       "name": "hx711_mpy-driver",
       "url": "https://github.com/HowManyOliversAreThere/hx711_mpy-driver",
-      "description": "MicroPython Driver for the HX711 weighing sensor.",
+      "description": "MicroPython driver for the HX711 weighing sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7072,7 +7105,7 @@
       "key": "https://github.com/jposada202020/MicroPython_LIS2MDL",
       "name": "MicroPython_LIS2MDL",
       "url": "https://github.com/jposada202020/MicroPython_LIS2MDL",
-      "description": "MicroPython Driver for the ST LIS2MDL Magnetometer sensor.",
+      "description": "MicroPython driver for the ST LIS2MDL magnetometer sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7083,7 +7116,7 @@
       "key": "https://github.com/jposada202020/MicroPython_LIS3MDL",
       "name": "MicroPython_LIS3MDL",
       "url": "https://github.com/jposada202020/MicroPython_LIS3MDL",
-      "description": "MicroPython Driver for the ST LIS3MDL magnetometer.",
+      "description": "MicroPython driver for the ST LIS3MDL magnetometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7094,7 +7127,7 @@
       "key": "https://github.com/jposada202020/MicroPython_MLX90393",
       "name": "MicroPython_MLX90393",
       "url": "https://github.com/jposada202020/MicroPython_MLX90393",
-      "description": "MicroPython Driver for the MLX90393 Magnetometer.",
+      "description": "MicroPython driver for the MLX90393 magnetometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7105,7 +7138,7 @@
       "key": "https://github.com/jposada202020/MicroPython_MMC5603",
       "name": "MicroPython_MMC5603",
       "url": "https://github.com/jposada202020/MicroPython_MMC5603",
-      "description": "MicroPython driver for the Memsic MMC5603 Magnetometer.",
+      "description": "MicroPython driver for the Memsic MMC5603 magnetometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7116,7 +7149,7 @@
       "key": "https://github.com/jposada202020/MicroPython_BMM150",
       "name": "MicroPython_BMM150",
       "url": "https://github.com/jposada202020/MicroPython_BMM150",
-      "description": "MicroPython Driver for the Bosch BMM150 Magnetometer.",
+      "description": "MicroPython driver for the Bosch BMM150 magnetometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7127,7 +7160,7 @@
       "key": "https://github.com/jposada202020/MicroPython_MMC5983",
       "name": "MicroPython_MMC5983",
       "url": "https://github.com/jposada202020/MicroPython_MMC5983",
-      "description": "MicroPython Library for the Memsic MMC5983 Magnetometer.",
+      "description": "MicroPython library for the Memsic MMC5983 magnetometer.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7358,7 +7391,7 @@
       "key": "https://github.com/jposada202020/MicroPython_BMI160",
       "name": "MicroPython_BMI160",
       "url": "https://github.com/jposada202020/MicroPython_BMI160",
-      "description": "ARCHIVED. MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.",
+      "description": "ARCHIVED. MicroPython driver for the Bosch BMI160 accelerometer/gyro sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7369,7 +7402,7 @@
       "key": "https://github.com/jposada202020/MicroPython_BMI270",
       "name": "MicroPython_BMI270",
       "url": "https://github.com/jposada202020/MicroPython_BMI270",
-      "description": "ARCHIVED. MicroPython Driver for the Bosch BMI270 Accelerometer/Gyro Sensor.",
+      "description": "ARCHIVED. MicroPython driver for the Bosch BMI270 accelerometer/gyro sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7380,7 +7413,7 @@
       "key": "https://github.com/jposada202020/MicroPython_ICG20660",
       "name": "MicroPython_ICG20660",
       "url": "https://github.com/jposada202020/MicroPython_ICG20660",
-      "description": "ARCHIVED. MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.",
+      "description": "ARCHIVED. MicroPython driver for the TDK ICG20660 accelerometer/gyro sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7391,7 +7424,7 @@
       "key": "https://github.com/jposada202020/MicroPython_ICM20948",
       "name": "MicroPython_ICM20948",
       "url": "https://github.com/jposada202020/MicroPython_ICM20948",
-      "description": "ARCHIVED. MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.",
+      "description": "ARCHIVED. MicroPython driver for the TDK ICM20948 accelerometer/gyro Sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7402,7 +7435,7 @@
       "key": "https://github.com/jposada202020/MicroPython_LSM6DSOX",
       "name": "MicroPython_LSM6DSOX",
       "url": "https://github.com/jposada202020/MicroPython_LSM6DSOX",
-      "description": "ARCHIVED. MicroPython Library for the ST LSM6DSOX accelerometer/gyro Sensor.",
+      "description": "ARCHIVED. MicroPython library for the ST LSM6DSOX accelerometer/gyro Sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7424,7 +7457,7 @@
       "key": "https://github.com/jposada202020/MicroPython_VCNL4010",
       "name": "MicroPython_VCNL4010",
       "url": "https://github.com/jposada202020/MicroPython_VCNL4010",
-      "description": "MicroPython Driver for the Vishay VCNL4010 Proximity and Ambient Light Sensor.",
+      "description": "MicroPython driver for the Vishay VCNL4010 proximity and ambient light sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7435,7 +7468,7 @@
       "key": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/apds9960.py",
       "name": "apds9960",
       "url": "https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/apds9960.py",
-      "description": "MicroPython Driver for the APDS9960, with simple gesture detection.",
+      "description": "MicroPython driver for the APDS9960, with simple gesture detection.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7468,7 +7501,7 @@
       "key": "https://github.com/robberwick/micropython-chirp",
       "name": "micropython-chirp",
       "url": "https://github.com/robberwick/micropython-chirp",
-      "description": "Driver for the Chirp Soil Moisture Sensor.",
+      "description": "Driver for the Chirp soil moisture sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7699,7 +7732,7 @@
       "key": "https://github.com/mcauser/deshipu-micropython-si7021",
       "name": "micropython-si7021",
       "url": "https://github.com/mcauser/deshipu-micropython-si7021",
-      "description": "SI7021 Temperature and humidity sensor, I2C interface.",
+      "description": "SI7021 temperature and humidity sensor, I2C interface.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7710,7 +7743,7 @@
       "key": "https://github.com/chrisbalmer/micropython-si7021",
       "name": "micropython-si7021",
       "url": "https://github.com/chrisbalmer/micropython-si7021",
-      "description": "SI7021 Temperature and humidity sensor, I2C interface.",
+      "description": "SI7021 temperature and humidity sensor, I2C interface.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7919,7 +7952,7 @@
       "key": "https://github.com/jposada202020/MicroPython_SHTC3",
       "name": "MicroPython_SHTC3",
       "url": "https://github.com/jposada202020/MicroPython_SHTC3",
-      "description": "MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.",
+      "description": "MicroPython driver for the Sensirion SHTC3 temperature and humidity sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7930,7 +7963,7 @@
       "key": "https://github.com/jposada202020/MicroPython_TMP117",
       "name": "MicroPython_TMP117",
       "url": "https://github.com/jposada202020/MicroPython_TMP117",
-      "description": "MicroPython Driver for the TMP117 Temperature Sensor.",
+      "description": "MicroPython driver for the TMP117 temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7941,7 +7974,7 @@
       "key": "https://github.com/jposada202020/MicroPython_SI7021",
       "name": "MicroPython_SI7021",
       "url": "https://github.com/jposada202020/MicroPython_SI7021",
-      "description": "MicroPython Library for the Temperature and Humidity SI7021 Sensor.",
+      "description": "MicroPython library for the temperature and humidity SI7021 sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7952,7 +7985,7 @@
       "key": "https://github.com/jposada202020/MicroPython_ADT7410",
       "name": "MicroPython_ADT7410",
       "url": "https://github.com/jposada202020/MicroPython_ADT7410",
-      "description": "MicroPython Driver for the Analog Devices ADT7410 Temperature Sensor.",
+      "description": "MicroPython driver for the Analog Devices ADT7410 temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7963,7 +7996,7 @@
       "key": "https://github.com/jposada202020/MicroPython_WSENTIDS",
       "name": "MicroPython_WSENTIDS",
       "url": "https://github.com/jposada202020/MicroPython_WSENTIDS",
-      "description": "MicroPython library for the WSEN WSEN-TIDS temperature Sensor.",
+      "description": "MicroPython library for the WSEN WSEN-TIDS temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7974,7 +8007,7 @@
       "key": "https://github.com/jposada202020/MicroPython_HS3003",
       "name": "MicroPython_HS3003",
       "url": "https://github.com/jposada202020/MicroPython_HS3003",
-      "description": "MicroPython Driver for the Renesas HS3003 Temperature and Humidity Sensor.",
+      "description": "MicroPython driver for the Renesas HS3003 temperature and humidity sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7985,7 +8018,7 @@
       "key": "https://github.com/jposada202020/MicroPython_STTS22H",
       "name": "MicroPython_STTS22H",
       "url": "https://github.com/jposada202020/MicroPython_STTS22H",
-      "description": "MicroPython Driver for the STTS22H Temperature Sensor.",
+      "description": "MicroPython driver for the STTS22H temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -7996,7 +8029,7 @@
       "key": "https://github.com/jposada202020/MicroPython_HTU21DF",
       "name": "MicroPython_HTU21DF",
       "url": "https://github.com/jposada202020/MicroPython_HTU21DF",
-      "description": "MicroPython HTU21D-F Temperature & Humidity driver.",
+      "description": "MicroPython HTU21D-F temperature & humidity driver.",
       "section": [
         "Libraries",
         "Sensors",
@@ -8007,7 +8040,7 @@
       "key": "https://github.com/jposada202020/MicroPython_SHT4X",
       "name": "MicroPython_SHT4X",
       "url": "https://github.com/jposada202020/MicroPython_SHT4X",
-      "description": "MicroPython Driver for the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.",
+      "description": "MicroPython driver for the Sensirion temperature and humidity SHT40 and SHT45 sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -8018,7 +8051,7 @@
       "key": "https://github.com/jposada202020/MicroPython_SHT20",
       "name": "MicroPython_SHT20",
       "url": "https://github.com/jposada202020/MicroPython_SHT20",
-      "description": "MicroPython Driver for the Sensirion SHT20 Temperature Sensor.",
+      "description": "MicroPython driver for the Sensirion SHT20 temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -8029,7 +8062,7 @@
       "key": "https://github.com/jposada202020/MicroPython_MCP9808",
       "name": "MicroPython_MCP9808",
       "url": "https://github.com/jposada202020/MicroPython_MCP9808",
-      "description": "MicroPython Driver for the Microchip MCP9808 Temperature Sensor.",
+      "description": "MicroPython driver for the Microchip MCP9808 temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -8040,7 +8073,7 @@
       "key": "https://github.com/jposada202020/MicroPython_HDC1080",
       "name": "MicroPython_HDC1080",
       "url": "https://github.com/jposada202020/MicroPython_HDC1080",
-      "description": "MicroPython driver for the TI HDC1080 Temperature and Humidity sensor.",
+      "description": "MicroPython driver for the TI HDC1080 temperature and humidity sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -8084,7 +8117,7 @@
       "key": "https://github.com/jposada202020/MicroPython_AS6212",
       "name": "MicroPython_AS6212",
       "url": "https://github.com/jposada202020/MicroPython_AS6212",
-      "description": "MicroPython Library for the ASM AS6212 Temperature Sensor.",
+      "description": "MicroPython library for the ASM AS6212 temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -8095,7 +8128,7 @@
       "key": "https://github.com/jposada202020/MicroPython_PCT2075",
       "name": "MicroPython_PCT2075",
       "url": "https://github.com/jposada202020/MicroPython_PCT2075",
-      "description": "MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor.",
+      "description": "MicroPython driver for the NXP Semiconductors PCT2075 temperature sensor.",
       "section": [
         "Libraries",
         "Sensors",
@@ -8321,7 +8354,18 @@
       "key": "https://github.com/dvrhax/uPyMySQL",
       "name": "uPyMySQL",
       "url": "https://github.com/dvrhax/uPyMySQL",
-      "description": "Pure MicroPython MySQL Client.",
+      "description": "Pure MicroPython MySQL client.",
+      "section": [
+        "Libraries",
+        "Storage",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/TimonW-Dev/ownSQL",
+      "name": "ownSQL",
+      "url": "https://github.com/TimonW-Dev/ownSQL",
+      "description": "A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x.",
       "section": [
         "Libraries",
         "Storage",
@@ -8595,7 +8639,7 @@
       "key": "https://github.com/jplattel/upymenu",
       "name": "upymenu",
       "url": "https://github.com/jplattel/upymenu",
-      "description": "MicroPython Menu for LCD Displays.",
+      "description": "MicroPython menu for LCD displays.",
       "section": [
         "Libraries",
         "User Interface"
@@ -8905,7 +8949,7 @@
       "key": "https://codeberg.org/scy/perthensis",
       "name": "perthensis",
       "url": "https://codeberg.org/scy/perthensis",
-      "description": "Perthensis: an asynchronous framework for MicroPython.",
+      "description": "An asynchronous framework for MicroPython.",
       "section": [
         "Frameworks"
       ]
@@ -8924,6 +8968,24 @@
       "name": "public-micropython-iot-platform",
       "url": "https://github.com/wolfen351/public-micropython-iot-platform",
       "description": "Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.",
+      "section": [
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/elixpo/oreo",
+      "name": "OreoOS",
+      "url": "https://github.com/elixpo/oreo",
+      "description": "Operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, on-device app store, OTA updates and native video playback.",
+      "section": [
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/1e0ng/openbricks",
+      "name": "openbricks",
+      "url": "https://github.com/1e0ng/openbricks",
+      "description": "Pybricks-style robotics firmware for ESP32: 1 kHz native drivebase control, serial bus servos, IMU gyro heading, line sensors, plus a MuJoCo simulator.",
       "section": [
         "Frameworks"
       ]
@@ -9064,7 +9126,7 @@
       "key": "https://micropython-usermod.readthedocs.io",
       "name": "micropython-usermod",
       "url": "https://micropython-usermod.readthedocs.io",
-      "description": "Online book about MicroPython external modules writen in C.",
+      "description": "Online book about MicroPython external modules written in C.",
       "section": [
         "Development",
         "Code Generation"
@@ -9084,7 +9146,7 @@
       "key": "https://github.com/tve/esp32-backtrace",
       "name": "esp32-backtrace",
       "url": "https://github.com/tve/esp32-backtrace",
-      "description": "ESP32 Exception Stack Backtrace Analyzer.",
+      "description": "ESP32 exception stack backtrace analyzer.",
       "section": [
         "Development",
         "Debugging"
@@ -9154,7 +9216,7 @@
       "key": "https://embedible.io",
       "name": "Embedible",
       "url": "https://embedible.io/",
-      "description": "an AI hardware copilot that helps you design, wire, and code MicroPython projects for ESP32 and Raspberry Pi Pico W.",
+      "description": "An AI hardware copilot that helps you design, wire, and code MicroPython projects for ESP32 and Raspberry Pi Pico W.",
       "section": [
         "Development",
         "IDEs"
@@ -9254,7 +9316,7 @@
       "key": "https://github.com/joewez/PyboardFileManager",
       "name": "Pyboard File Manager",
       "url": "https://github.com/joewez/PyboardFileManager",
-      "description": "Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.",
+      "description": "Windows GUI for Pyboard.py compatible devices.",
       "section": [
         "Development",
         "IDEs"
@@ -9265,16 +9327,6 @@
       "name": "uPIDE",
       "url": "https://github.com/harbaum/upide",
       "description": "µPIDE is a simple IDE for MicroPython.",
-      "section": [
-        "Development",
-        "IDEs"
-      ]
-    },
-    {
-      "key": "https://github.com/robert-hh/Micropython-Editor",
-      "name": "pye",
-      "url": "https://github.com/robert-hh/Micropython-Editor",
-      "description": "On device editor.",
       "section": [
         "Development",
         "IDEs"
@@ -9294,7 +9346,7 @@
       "key": "https://github.com/agners/scd30logger",
       "name": "scd30logger",
       "url": "https://github.com/agners/scd30logger",
-      "description": "Sensirion SCD30 based CO2, Humidity and Temperature Logger for MicroPython.",
+      "description": "Sensirion SCD30 based CO2, humidity and temperature logger for MicroPython.",
       "section": [
         "Development",
         "Logging"
@@ -9304,7 +9356,7 @@
       "key": "https://github.com/agners/sht15logger",
       "name": "sht15logger",
       "url": "https://github.com/agners/sht15logger",
-      "description": "MicroPython Temperature and Humidity Logger using Sensirion SHT15.",
+      "description": "MicroPython temperature and humidity logger using Sensirion SHT15.",
       "section": [
         "Development",
         "Logging"
@@ -9337,6 +9389,17 @@
       "name": "upy-shell",
       "url": "https://github.com/dhylands/upy-shell",
       "description": "A simple command line-based shell for MicroPython.",
+      "section": [
+        "Development",
+        "Shells",
+        "On Device"
+      ]
+    },
+    {
+      "key": "https://github.com/robert-hh/Micropython-Editor",
+      "name": "Micropython-Editor",
+      "url": "https://github.com/robert-hh/Micropython-Editor",
+      "description": "Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.",
       "section": [
         "Development",
         "Shells",
@@ -9457,7 +9520,7 @@
       "key": "https://github.com/BrianPugh/belay",
       "name": "belay",
       "url": "https://github.com/BrianPugh/belay",
-      "description": "Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.",
+      "description": "A Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.",
       "section": [
         "Development",
         "Tools"
@@ -9478,6 +9541,16 @@
       "name": "mcu_serial",
       "url": "https://github.com/gitcnd/mcu_serial",
       "description": "Command line serial emulator to connect to MicroPython boards.",
+      "section": [
+        "Development",
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/AstroQuestStudio/thonny-ai",
+      "name": "thonny-ai",
+      "url": "https://github.com/AstroQuestStudio/thonny-ai",
+      "description": "Thonny plugin and MCP server that lets AI assistants run code, monitor long-running programs and sync projects on MicroPython boards, visibly and with optional approval.",
       "section": [
         "Development",
         "Tools"

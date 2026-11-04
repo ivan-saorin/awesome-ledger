@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"569f2055c307da0916d0b7509a9c7bb849af3a19b6a289b281ff6443eca98604\"",
+  "etag": "W/\"15ad42eef3a82c97ff224789efa41abfd042aed95cdac0ef26a3c292f1e04209\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -430,7 +430,7 @@
       "key": "https://github.com/AnalyseDeCircuit/oxideterm",
       "name": "OxideTerm",
       "url": "https://github.com/AnalyseDeCircuit/oxideterm",
-      "description": "A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages.",
+      "description": "A GPU-rendered SSH client and terminal app for Windows, macOS, and Linux, built with Rust and GPUI. Supports local shells, SSH, Mosh, Telnet, serial connections, RDP and VNC. Includes SFTP, port forwarding, a built-in remote editor and an optional AI assistant. The interface is available in 11 languages.",
       "section": [
         "Applications"
       ]
@@ -3281,7 +3281,7 @@
       "key": "https://github.com/vayungodara/cliproxy-rs",
       "name": "vayungodara/cliproxy-rs",
       "url": "https://github.com/vayungodara/cliproxy-rs",
-      "description": "Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI.",
+      "description": "[cliproxy] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI.",
       "section": [
         "Applications",
         "MLOps"
@@ -3812,6 +3812,16 @@
       "name": "futuregene/future-os",
       "url": "https://github.com/futuregene/future-os",
       "description": "One AI agent everywhere: a single Rust gRPC backend drives a terminal UI, desktop app, mobile apps, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, and a loop control plane for 24h+ runs.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/gal064/muxflow",
+      "name": "gal064/muxflow",
+      "url": "https://github.com/gal064/muxflow",
+      "description": "Remote-first tmux IDE for coding agents (Claude Code, Codex, pi), with sessions that stay in tmux on local or SSH hosts, agent notifications on desktop and Android, screenshot paste over SSH, and files, Git and ports panels",
       "section": [
         "Applications",
         "Productivity"
@@ -5952,6 +5962,16 @@
       "name": "SoloMD",
       "url": "https://github.com/zhitongblog/solomd",
       "description": "A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.",
+      "section": [
+        "Applications",
+        "Text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/sventmueller/splat",
+      "name": "sventmueller/splat",
+      "url": "https://github.com/sventmueller/splat",
+      "description": "An ultrafast native Markdown editor for macOS on AppKit, no Electron. Edits in the preview leave untouched lines byte-for-byte identical, so Git diffs stay clean. LaTeX and Mermaid offline, 35 languages.",
       "section": [
         "Applications",
         "Text editors"
@@ -16458,6 +16478,16 @@
       "name": "candrew/netsim",
       "url": "https://github.com/canndrew/netsim",
       "description": "A library for network simulation and testing",
+      "section": [
+        "Libraries",
+        "Network programming"
+      ]
+    },
+    {
+      "key": "https://github.com/yanet-platform/netip",
+      "name": "yanet-platform/netip",
+      "url": "https://github.com/yanet-platform/netip",
+      "description": "[netip] - Fast IPv4/IPv6 network set operations supporting arbitrary masks, with zero dependencies and no allocator.",
       "section": [
         "Libraries",
         "Network programming"

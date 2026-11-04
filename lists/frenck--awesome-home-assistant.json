@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5afdf692cc5d8c4360dfd78d858c688025bf63f7bed421dc90861a93c02f7cab\"",
+  "etag": "W/\"ecf1972653ea1fa27a685a47d021c9ff388b30c65c1424bd0a7d673ae7d2a220\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1179,6 +1179,16 @@
       "name": "EcoFlow BLE",
       "url": "https://github.com/rabits/ha-ef-ble",
       "description": "Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (415★).",
+      "section": [
+        "Custom Integrations",
+        "🔵 Bluetooth & BLE"
+      ]
+    },
+    {
+      "key": "https://github.com/gbroeckling/padspanHA",
+      "name": "PadSpan HA",
+      "url": "https://github.com/gbroeckling/padspanHA",
+      "description": "Shows which room every phone, watch and tag is in, live, on a 3D floor plan, using the ESPHome Bluetooth proxies you already have (289★).",
       "section": [
         "Custom Integrations",
         "🔵 Bluetooth & BLE"
@@ -2948,6 +2958,15 @@
       "name": "Home Assistant Taskbar Menu",
       "url": "https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu",
       "description": "A client for Windows that can display Lovelace views, control entities and show persistent notifications (345★).",
+      "section": [
+        "Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Robertg761/HA-Desktop-Widget",
+      "name": "HA Desktop Widget",
+      "url": "https://github.com/Robertg761/HA-Desktop-Widget",
+      "description": "Desktop app and widget for Windows, macOS and Linux to control entities, watch cameras, view sensors and pin tiles to the desktop.",
       "section": [
         "Tools & Utilities"
       ]

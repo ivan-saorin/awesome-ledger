@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9868d85f612941db9456fb2e0ea457b8a25ddfc9a23db37c8d204d3dab13ad4d\"",
+  "etag": "W/\"23de4dc3a6b13498698cf122e0e6289a1e7808869fbbd8a3c85411ffba3a27c5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -494,6 +494,15 @@
       "name": "Preloop",
       "url": "https://github.com/preloop/preloop",
       "description": "Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Works with Gemini CLI, Claude Code, Codex CLI, Cursor, OpenCode and Copilot CLI. Apache-2.0.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://agentvera.dev/en",
+      "name": "AgentVera",
+      "url": "https://agentvera.dev/en/?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Desktop app for macOS, Windows and Linux that runs Gemini CLI side by side with Claude Code, Codex, Copilot, Cursor and 13 more coding agents per project, each in a real terminal using your own Gemini CLI install and login. A team kanban board hands cards to agents, and an MCP manager is built in. Closed source; free plan, Pro $9.99/month.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -1678,6 +1687,15 @@
       ]
     },
     {
+      "key": "https://github.com/skim-md/skim",
+      "name": "Skim",
+      "url": "https://github.com/skim-md/skim",
+      "description": "Browser extension that renders the Markdown plans and docs Gemini CLI writes, re-rendering live as the file changes. KaTeX, Mermaid, folder view.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
       "name": "SRT Subtitle Translator Validator",
       "url": "https://github.com/VjayC/SRT-Subtitle-Translator-Validator",
@@ -2645,6 +2663,33 @@
       "name": "mach-gtm-mcp",
       "url": "https://github.com/verma6uc/mach-gtm-mcp",
       "description": "Open-source B2B outbound sales MCP server: build ICPs, research prospects with verified buying signals, score leads (0-100), draft cold emails and LinkedIn messages (1-3-1 framework), and generate multi-touch sequences. Human approval required before any message is sent. Works with Gemini CLI and any MCP client. Install: npx mach-gtm-mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/keenableai/keenable-antigravity",
+      "name": "Keenable",
+      "url": "https://github.com/keenableai/keenable-antigravity",
+      "description": "Web search and page fetch as clean Markdown from Keenable, a search engine with its own crawler and index built for AI agents. Gemini CLI extension that adds Keenable's hosted MCP server (search_web_pages, fetch_page_content) and a web-lookup skill; keyless, no signup or API key (rate limited per IP). MIT. Install: gemini extensions install https://github.com/keenableai/keenable-antigravity.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/pth2002/repofit",
+      "name": "repofit",
+      "url": "https://github.com/pth2002/repofit",
+      "description": "MCP server and CLI that reads what local coding agents already keep (Gemini CLI chats and GEMINI.md, plus Codex, Claude Code, Cursor and others) and recommends GitHub projects for the tasks you repeat, each pick citing the session it came from. Also lists installed MCP servers and skills that no session ever called. Runs locally and uses the agent's own model, so no API key. MIT. Add with gemini mcp add repofit uvx repofit mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://alphaosint.com/sources/linkedin-company-api",
+      "name": "AlphaOSINT LinkedIn Company",
+      "url": "https://alphaosint.com/sources/linkedin-company-api/",
+      "description": "Remote MCP server for Gemini CLI that returns a company's LinkedIn page details (size, industry, locations, specialties) through https://mcp.apify.com/?tools=johnvc/linkedin-company-api.",
       "section": [
         "MCP Servers"
       ]
