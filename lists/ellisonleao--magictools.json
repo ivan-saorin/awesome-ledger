@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"48c4ce169a403909880f910b735d98b1d503adafacff01ff153267da0358a53b\"",
+  "etag": "W/\"ea73bdab39ba820a6cc4a34a64039ffaa7290bbe1387c648e1df184b37a979c9\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -78,6 +78,16 @@
       "name": "Games-Icons Set",
       "url": "https://game-icons.net/",
       "description": "free icons for your games.",
+      "section": [
+        "Graphics",
+        "Assets/Placeholders"
+      ]
+    },
+    {
+      "key": "https://gridwright.store",
+      "name": "Gridwright Studio",
+      "url": "https://gridwright.store/",
+      "description": "Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.",
       "section": [
         "Graphics",
         "Assets/Placeholders"
@@ -444,6 +454,16 @@
       ]
     },
     {
+      "key": "https://gameshipkit.com/tools/sprite-normal-map",
+      "name": "GameShipKit Sprite Normal Map",
+      "url": "https://gameshipkit.com/tools/sprite-normal-map/",
+      "description": "Generate normal maps from 2D sprites for lit 2D scenes.",
+      "section": [
+        "Graphics",
+        "Texture Tools"
+      ]
+    },
+    {
       "key": "https://tenebrislab.github.io/livenormal",
       "name": "Live Normal",
       "url": "https://tenebrislab.github.io/livenormal/",
@@ -514,10 +534,40 @@
       ]
     },
     {
+      "key": "https://gameshipkit.com/tools/character-rigging",
+      "name": "GameShipKit 2D Character Rigging",
+      "url": "https://gameshipkit.com/tools/character-rigging/",
+      "description": "Rig a 2D character in the browser and export idle, walk and attack animations as sprite sheets.",
+      "section": [
+        "Graphics",
+        "Character Generators"
+      ]
+    },
+    {
       "key": "https://pixelatto.com",
       "name": "AutoTileGen",
       "url": "https://pixelatto.com",
       "description": "AutoTileGen is an automatic tileset generator for 2D game terrains.",
+      "section": [
+        "Graphics",
+        "Tile/Level Editors"
+      ]
+    },
+    {
+      "key": "https://gameshipkit.com/tools/autotile-generator",
+      "name": "GameShipKit Autotile Generator",
+      "url": "https://gameshipkit.com/tools/autotile-generator/",
+      "description": "Make blob and RPG Maker style autotiles from two textures, with Godot 4 and Tiled tilesets.",
+      "section": [
+        "Graphics",
+        "Tile/Level Editors"
+      ]
+    },
+    {
+      "key": "https://gameshipkit.com/tools/map-generator",
+      "name": "GameShipKit Map Generator",
+      "url": "https://gameshipkit.com/tools/map-generator/",
+      "description": "Seeded dungeon, cave and island maps, exported as PNG, Tiled JSON and CSV.",
       "section": [
         "Graphics",
         "Tile/Level Editors"
@@ -868,6 +918,16 @@
       "name": "Pic2SVG",
       "url": "https://pic2svg.com/",
       "description": "Raster-to-vector tracing preview for inspecting flat artwork intended for game icons or UI. Free anonymous split preview and enlarged view; downloads require Pro. Images are processed on the server.",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
+      "key": "https://pic2vector.com",
+      "name": "Pic2Vector",
+      "url": "https://pic2vector.com/",
+      "description": "Free in-browser PNG/JPG/WebP to layered SVG tracer for game icons and UI art. Runs locally with WebAssembly (vtracer); no upload, no account, watermark-free export.",
       "section": [
         "Graphics",
         "Vector/Image Editor"
@@ -2938,6 +2998,16 @@
       "name": "WishlistForge Steam Description Scorer",
       "url": "https://wishlistforge.com/tools/steam-description",
       "description": "free in-browser scorer for Steam short descriptions. It checks length, hook, genre clarity, player fantasy and call to action, and suggests a rewrite. No account needed.",
+      "section": [
+        "Code",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://ziva.sh",
+      "name": "Ziva.sh",
+      "url": "https://ziva.sh/",
+      "description": "AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.",
       "section": [
         "Code",
         "AI"

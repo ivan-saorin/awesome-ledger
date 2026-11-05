@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ddae82884a3d513374ebc05193da99b1c289ee29da9a2675ccd2e8fcbebb4aaa\"",
+  "etag": "W/\"6e9fe28acd000d03efee12fe104da5bcfce15b67a5396d64899079f2800f3346\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -624,6 +624,15 @@
       ]
     },
     {
+      "key": "https://github.com/libredb/libredb-studio",
+      "name": "LibreDB Studio",
+      "url": "https://github.com/libredb/libredb-studio",
+      "description": "Open source web database IDE with a read-only MQTT 5.0 connection: browse a broker's live topic tree with retained messages and read topics, including Sparkplug B payloads.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/iotmertech/iot-data-generator",
       "name": "Mer-cli",
       "url": "https://github.com/iotmertech/iot-data-generator",
@@ -912,6 +921,15 @@
       ]
     },
     {
+      "key": "https://github.com/bluegrassiot/mqttprobe",
+      "name": "MQTTProbe",
+      "url": "https://github.com/bluegrassiot/mqttprobe",
+      "description": "Cross platform MQTT diagnostic client for IIoT with live topic browsing, payload decoding across multiple formats, charting, built in emulators, and advanced Sparkplug B integration.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/bapowell/python-mqtt-client-shell",
       "name": "Python MQTT Client Shell",
       "url": "https://github.com/bapowell/python-mqtt-client-shell",
@@ -952,6 +970,15 @@
       "name": "TopicBench",
       "url": "https://github.com/unipsycho/topicbench",
       "description": "Free open-source multi-broker MQTT explorer and monitor desktop client, written in Rust.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/RainerGewalt/trailtransfer",
+      "name": "TrailTransfer",
+      "url": "https://github.com/RainerGewalt/trailtransfer",
+      "description": "MQTT-controlled rclone worker for edge file transfers with a local policy and a hash-chained, independently verifiable evidence journal.",
       "section": [
         "Tools"
       ]

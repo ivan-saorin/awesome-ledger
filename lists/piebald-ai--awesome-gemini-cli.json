@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"23de4dc3a6b13498698cf122e0e6289a1e7808869fbbd8a3c85411ffba3a27c5\"",
+  "etag": "W/\"80141ced4258c207a2114342ea0392d077eb32334aac50c5613a1633596d5e5b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -503,6 +503,15 @@
       "name": "AgentVera",
       "url": "https://agentvera.dev/en/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Desktop app for macOS, Windows and Linux that runs Gemini CLI side by side with Claude Code, Codex, Copilot, Cursor and 13 more coding agents per project, each in a real terminal using your own Gemini CLI install and login. A team kanban board hands cards to agents, and an MCP manager is built in. Closed source; free plan, Pro $9.99/month.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/xseman/pando",
+      "name": "pando",
+      "url": "https://github.com/xseman/pando",
+      "description": "Terminal workspace that runs Gemini CLI side by side with Claude Code, Codex, OpenCode and shells, each session in its own git worktree, under a daemon that keeps them running when the TUI closes. Marks a Gemini session running or waiting for approval, reviews and commits its diff in the TUI, and has a CLI that blocks on session status.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -2690,6 +2699,15 @@
       "name": "AlphaOSINT LinkedIn Company",
       "url": "https://alphaosint.com/sources/linkedin-company-api/",
       "description": "Remote MCP server for Gemini CLI that returns a company's LinkedIn page details (size, industry, locations, specialties) through https://mcp.apify.com/?tools=johnvc/linkedin-company-api.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://candor.money",
+      "name": "Candor Finance",
+      "url": "https://candor.money/?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Personal finance for Gemini CLI from your own US bank, card, loan, and investment accounts: spending, cash flow, a budget, and goals with a target, a date, and a monthly amount, saved across sessions, plus a weekly review that tells Gemini what is worth talking through. Bank access is read-only and no tool moves money. Hosted MCP server with OAuth sign-in plus 10 agent skills; requires a Candor account. Install: gemini extensions install https://github.com/candorsystems/candor-finance, then /mcp auth candor.",
       "section": [
         "MCP Servers"
       ]

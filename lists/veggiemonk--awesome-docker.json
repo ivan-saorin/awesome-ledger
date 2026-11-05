@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"12646e9e249f85681c66fa7bb09dd0cb757cf2af56595f6ef7cc5d66749b8871\"",
+  "etag": "W/\"ec564c7192811ee1e7a0db6ecf61ffa72374497a563506af7cc2787fd9dbe4ce\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3176,6 +3176,15 @@
       ]
     },
     {
+      "key": "https://prepare.sh/course/docker-course",
+      "name": "prepare.sh Docker Course",
+      "url": "https://prepare.sh/course/docker-course",
+      "description": "yen: Learn Docker in nine hands-on chapters that each run in a live Linux VM in the browser, from a first container to multi-stage builds, registries, volumes, networking, and image CVE scanning.",
+      "section": [
+        "Where to Start"
+      ]
+    },
+    {
       "key": "https://github.com/RamiKrispin/vscode-python",
       "name": "Setting Python Development Environment with VScode and Docker",
       "url": "https://github.com/RamiKrispin/vscode-python",
@@ -3603,6 +3612,15 @@
       "name": "Lynis is an open source security auditing tool including Docker auditing",
       "url": "https://cisofy.com/lynis/",
       "description": "",
+      "section": [
+        "Security Articles"
+      ]
+    },
+    {
+      "key": "https://ransomleak.com/exercises/privileged-containers",
+      "name": "Privileged Containers Exercise",
+      "url": "https://ransomleak.com/exercises/privileged-containers/",
+      "description": "Escape a privileged Docker container to the host in the browser, then fix it with a non-root user, dropped capabilities, and a read-only rootfs.",
       "section": [
         "Security Articles"
       ]

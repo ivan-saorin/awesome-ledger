@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"31ccce83dca02dea6f18848709cbf3ba0b1ee8f6a541c06a8992ab34aaff5e1c\"",
+  "etag": "W/\"c09f1e9595681c4639dbb24c267f5b589cfdbb3c1b6f96f8dc49c0c5b882be30\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -566,6 +566,15 @@
       "name": "Ansible Template Playground",
       "url": "https://tech-playground.com/playgrounds/ansible-template/",
       "description": "Online playground for running, testing and sharing Ansible templates.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/anthonyGosme/speedrunner",
+      "name": "speedrunner",
+      "url": "https://github.com/anthonyGosme/speedrunner",
+      "description": "Cuts the start-up time of ansible, ansible-doc and other Ansible commands by serving them from a preloaded daemon, which helps scripts that call them many times.",
       "section": [
         "Tools"
       ]

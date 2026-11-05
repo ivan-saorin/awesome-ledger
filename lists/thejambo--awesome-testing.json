@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"85d0a4366d1797655b3e82a8430b41dc9a9aceb0ece9c02c6b37f971844080c1\"",
+  "etag": "W/\"e0daf7273265a1d81812f98490fd2fb5510a5809a2c48a0f516ba5b4c0b400e2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -448,6 +448,16 @@
       "name": "llmdrill",
       "url": "https://github.com/hamarshehmhmd/llmdrill",
       "description": "Open-source CLI that runs your app behind a local fake of the Anthropic and OpenAI APIs, injects outages (529/503 overloads, 429 with retry-after, hangs, cut streams) and grades its retries, backoff, timeouts and failover.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://evalship.com",
+      "name": "evalship",
+      "url": "https://evalship.com/",
+      "description": "GitHub App that finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and finds prompt and model changes that win beyond chance.",
       "section": [
         "Software",
         "AI & LLM Testing"
