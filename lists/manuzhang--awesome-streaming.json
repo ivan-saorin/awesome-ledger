@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6290af465867abd852e3da51bfe0fcc6d87805944baf3529b6e7ef213c103112\"",
+  "etag": "W/\"3d87b99cb541b11c71a10a8540f49d74e394a884dd3a171b2e2659b95c1bd9a7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -418,6 +418,16 @@
       "name": "Redpanda",
       "url": "https://github.com/redpanda-data/redpanda",
       "description": "Kafka API-compatible streaming data platform without ZooKeeper or a JVM.",
+      "section": [
+        "Table of Contents",
+        "Engines and Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/Indus-Stack/rekuiper",
+      "name": "rekuiper",
+      "url": "https://github.com/Indus-Stack/rekuiper",
+      "description": "Single-binary streaming SQL engine for filtering, aggregating, and routing MQTT and industrial telemetry on edge gateways.",
       "section": [
         "Table of Contents",
         "Engines and Platforms"
@@ -1028,6 +1038,16 @@
       "name": "inGestr",
       "url": "https://github.com/bruin-data/ingestr",
       "description": "Command-line application and Python SDK for copying data between databases, SaaS applications, and data warehouses.",
+      "section": [
+        "Table of Contents",
+        "Data Integration and Pipelines"
+      ]
+    },
+    {
+      "key": "https://github.com/marcomq/mq-bridge",
+      "name": "mq-bridge",
+      "url": "https://github.com/marcomq/mq-bridge",
+      "description": "Embeddable library and CLI for moving data between brokers, databases incl. CDC, object storage and HTTP, usable from Rust, Python and Node.js.",
       "section": [
         "Table of Contents",
         "Data Integration and Pipelines"

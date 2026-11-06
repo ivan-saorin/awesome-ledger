@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ea73bdab39ba820a6cc4a34a64039ffaa7290bbe1387c648e1df184b37a979c9\"",
+  "etag": "W/\"8e14b425e04347d5d873123caf7cc6f6ba10bf899b74a586a51110ff4dcc6450\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -444,6 +444,16 @@
       ]
     },
     {
+      "key": "https://ddstools.com",
+      "name": "DDS Tools",
+      "url": "https://ddstools.com/",
+      "description": "Fast DDS texture converter and viewer for game modders that runs in the browser. Converts PNG, JPG, TGA and WebP to BC1, BC3, BC5 or BC7 DDS and DDS back to PNG. Files are processed locally, without uploading to a server.",
+      "section": [
+        "Graphics",
+        "Texture Tools"
+      ]
+    },
+    {
       "key": "https://filterforge.com",
       "name": "FilterForge",
       "url": "https://www.filterforge.com/",
@@ -468,16 +478,6 @@
       "name": "Live Normal",
       "url": "https://tenebrislab.github.io/livenormal/",
       "description": "An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.",
-      "section": [
-        "Graphics",
-        "Texture Tools"
-      ]
-    },
-    {
-      "key": "https://stuyk.github.io/meshcoat",
-      "name": "MeshCoat",
-      "url": "https://stuyk.github.io/meshcoat",
-      "description": "Fast, offline desktop texture painter: load a 3D model and paint PBR materials directly onto the mesh, then export texture maps. Source",
       "section": [
         "Graphics",
         "Texture Tools"
@@ -624,6 +624,16 @@
       ]
     },
     {
+      "key": "https://simplepixelart.com/tilesets/editor",
+      "name": "SimplePixelArt Tileset Editor",
+      "url": "https://simplepixelart.com/tilesets/editor",
+      "description": "Draw auto-tile tilesets in the browser and export them as Godot TileSet (.tres) and Tiled (.tsx) files.",
+      "section": [
+        "Graphics",
+        "Tile/Level Editors"
+      ]
+    },
+    {
       "key": "https://spritefusion.com",
       "name": "Sprite Fusion",
       "url": "https://spritefusion.com/",
@@ -698,26 +708,6 @@
       "name": "LWF",
       "url": "https://gree.github.io/lwf/",
       "description": "Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.",
-      "section": [
-        "Graphics",
-        "Animation"
-      ]
-    },
-    {
-      "key": "https://stuyk.github.io/meshanimate",
-      "name": "MeshAnimate",
-      "url": "https://stuyk.github.io/meshanimate",
-      "description": "Pivot-style pose-to-pose animator for rigged Blender characters, with a simple timeline and onion-skin ghosts. Saves animations back into the .blend as normal Blender actions. Source",
-      "section": [
-        "Graphics",
-        "Animation"
-      ]
-    },
-    {
-      "key": "https://stuyk.github.io/meshrig",
-      "name": "MeshRig",
-      "url": "https://stuyk.github.io/meshrig",
-      "description": "Rig any mesh in a .blend in minutes: fit a starting skeleton, skin weights and IK. Writes a standard Blender armature that works anywhere a Blender rig does. Source",
       "section": [
         "Graphics",
         "Animation"
@@ -904,16 +894,6 @@
       ]
     },
     {
-      "key": "https://pixelpixi.github.io/spritewright/palette-extractor",
-      "name": "Palette Extractor",
-      "url": "https://pixelpixi.github.io/spritewright/palette-extractor/",
-      "description": "Extract the exact colour palette from any sprite or image in the browser and export it as GIMP/Aseprite .gpl, Lospec .hex, CSS, JSON or a PNG strip. Runs locally, nothing is uploaded. Source",
-      "section": [
-        "Graphics",
-        "Vector/Image Editor"
-      ]
-    },
-    {
       "key": "https://pic2svg.com",
       "name": "Pic2SVG",
       "url": "https://pic2svg.com/",
@@ -1024,6 +1004,16 @@
       ]
     },
     {
+      "key": "https://simplepixelart.com",
+      "name": "SimplePixelArt",
+      "url": "https://simplepixelart.com/",
+      "description": "Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
       "key": "https://spritefusion.com/pixel-snapper",
       "name": "Sprite Fusion Pixel Art Cleaner",
       "url": "https://www.spritefusion.com/pixel-snapper",
@@ -1128,16 +1118,6 @@
       "name": "Blender",
       "url": "https://www.blender.org/",
       "description": "The free software and open-source 3D grate of the world",
-      "section": [
-        "Graphics",
-        "Modeling"
-      ]
-    },
-    {
-      "key": "https://github.com/VBproDev/Canvascript",
-      "name": "Canvascript",
-      "url": "https://github.com/VBproDev/Canvascript",
-      "description": "A tool for creating HTML canvas graphics without writing code.",
       "section": [
         "Graphics",
         "Modeling"
@@ -2914,6 +2894,16 @@
       ]
     },
     {
+      "key": "https://quickmatch.si",
+      "name": "QuickMatch",
+      "url": "https://quickmatch.si",
+      "description": "Free comparison of AI tools for making games and AI agent skills for game dev. Prices, free tiers and commercial-use terms come from each vendor's own page with the date checked, plus a matcher that suggests tools from a few questions.",
+      "section": [
+        "Code",
+        "AI"
+      ]
+    },
+    {
       "key": "https://respawnstack.com",
       "name": "RespawnStack",
       "url": "https://respawnstack.com",
@@ -3288,16 +3278,6 @@
       "name": "Resemble",
       "url": "https://www.resemble.ai/",
       "description": "Resemble's voice cloning engine within Unity",
-      "section": [
-        "Audio",
-        "Music and Audio Editors"
-      ]
-    },
-    {
-      "key": "https://stuyk.github.io/slip-sound",
-      "name": "Slip Sound",
-      "url": "https://stuyk.github.io/slip-sound",
-      "description": "Fast, local desktop audio sample manager for searching and organizing large sound libraries. No accounts or file caps, with MCP support. Source",
       "section": [
         "Audio",
         "Music and Audio Editors"

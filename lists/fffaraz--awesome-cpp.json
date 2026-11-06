@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fe0eaec8f86efc1d466b3c8b5f2823f04c572c62ef183e5a5aa20c521675cf06\"",
+  "etag": "W/\"8bec911ff5dc5478d7fe3d6d5c6bc2451eb13e503a423f698a75fa0f71b0a872\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -814,6 +814,15 @@
       ]
     },
     {
+      "key": "https://github.com/libsndfile/libsamplerate",
+      "name": "libsamplerate",
+      "url": "https://github.com/libsndfile/libsamplerate",
+      "description": "An audio sample rate conversion library. [BSD-2-Clause]",
+      "section": [
+        "Audio"
+      ]
+    },
+    {
       "key": "https://github.com/erikd/libsndfile",
       "name": "libsndfile",
       "url": "https://github.com/erikd/libsndfile/",
@@ -1142,6 +1151,15 @@
       "name": "Argh!",
       "url": "https://github.com/adishavit/argh",
       "description": "A minimalist, frustration-free, header-only argument handler. [BSD]",
+      "section": [
+        "CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/mattn/ansicolor-w32.c",
+      "name": "ansicolor-w32.c",
+      "url": "https://github.com/mattn/ansicolor-w32.c",
+      "description": "ANSI escape sequence support for Windows console applications.",
       "section": [
         "CLI"
       ]
@@ -1529,6 +1547,15 @@
       "name": "libarchive",
       "url": "https://github.com/libarchive/libarchive",
       "description": "Multi-format archive and compression library. [New BSD] website",
+      "section": [
+        "Compression"
+      ]
+    },
+    {
+      "key": "https://github.com/nih-at/libzip",
+      "name": "libzip",
+      "url": "https://github.com/nih-at/libzip",
+      "description": "A C library for reading, creating, and modifying zip archives.",
       "section": [
         "Compression"
       ]
@@ -1961,6 +1988,15 @@
       "name": "libcds",
       "url": "https://github.com/khizmax/libcds",
       "description": "A C++ library of Concurrent Data Structures. [BSD]",
+      "section": [
+        "Concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/efficient/libcuckoo",
+      "name": "libcuckoo",
+      "url": "https://github.com/efficient/libcuckoo",
+      "description": "A high-performance, concurrent hash table.",
       "section": [
         "Concurrency"
       ]
@@ -3577,6 +3613,15 @@
       ]
     },
     {
+      "key": "https://github.com/yse/easy_profiler",
+      "name": "easy_profiler",
+      "url": "https://github.com/yse/easy_profiler",
+      "description": "Lightweight profiler library for C++. [MIT]",
+      "section": [
+        "Debug"
+      ]
+    },
+    {
       "key": "https://github.com/eranpeer/FakeIt",
       "name": "FakeIt",
       "url": "https://github.com/eranpeer/FakeIt",
@@ -3698,6 +3743,15 @@
       "name": "Nonius",
       "url": "https://github.com/libnonius/nonius",
       "description": "A C++ micro-benchmarking framework. [CC]",
+      "section": [
+        "Debug"
+      ]
+    },
+    {
+      "key": "https://github.com/google/orbit",
+      "name": "Orbit",
+      "url": "https://github.com/google/orbit",
+      "description": "C/C++ performance profiler. [BSD-2-Clause]",
       "section": [
         "Debug"
       ]
@@ -5917,6 +5971,15 @@
       ]
     },
     {
+      "key": "https://github.com/PlatformLab/NanoLog",
+      "name": "NanoLog",
+      "url": "https://github.com/PlatformLab/NanoLog",
+      "description": "An extremely performant nanosecond-scale logging system for C++.",
+      "section": [
+        "Logging"
+      ]
+    },
+    {
       "key": "https://github.com/ng-log/ng-log",
       "name": "ng-log",
       "url": "https://github.com/ng-log/ng-log",
@@ -6011,6 +6074,15 @@
       "name": "CCV",
       "url": "https://github.com/liuliu/ccv",
       "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]",
+      "section": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/intel/clDNN",
+      "name": "clDNN",
+      "url": "https://github.com/intel/clDNN",
+      "description": "Compute library for deep neural networks.",
       "section": [
         "Machine Learning"
       ]
@@ -6232,6 +6304,15 @@
       ]
     },
     {
+      "key": "https://github.com/ampl/mp",
+      "name": "ampl/mp",
+      "url": "https://github.com/ampl/mp",
+      "description": "An open-source library for mathematical programming.",
+      "section": [
+        "Math"
+      ]
+    },
+    {
       "key": "https://github.com/b-k/apophenia",
       "name": "Apophenia",
       "url": "https://github.com/b-k/apophenia",
@@ -6299,6 +6380,15 @@
       "name": "cml",
       "url": "https://github.com/demianmnave/CML",
       "description": "The configurable math library. [Boost]",
+      "section": [
+        "Math"
+      ]
+    },
+    {
+      "key": "https://github.com/drnikolaev/cvmlib",
+      "name": "cvmlib",
+      "url": "https://github.com/drnikolaev/cvmlib",
+      "description": "This C++ class library encapsulates concepts of vector and different matrices including square, band, symmetric and hermitian ones in Euclidean space of real and complex numbers. [Boost]",
       "section": [
         "Math"
       ]
@@ -6506,6 +6596,15 @@
       "name": "linmath.h",
       "url": "https://github.com/datenwolf/linmath.h",
       "description": "A lean linear math library, aimed at graphics programming. [WTFPL]",
+      "section": [
+        "Math"
+      ]
+    },
+    {
+      "key": "https://bellard.org/libbf",
+      "name": "libbf",
+      "url": "https://bellard.org/libbf/",
+      "description": "A C library for arbitrary-precision binary floating-point arithmetic.",
       "section": [
         "Math"
       ]
@@ -7726,6 +7825,15 @@
       ]
     },
     {
+      "key": "https://github.com/wkhtmltopdf/wkhtmltopdf",
+      "name": "wkhtmltopdf",
+      "url": "https://github.com/wkhtmltopdf/wkhtmltopdf",
+      "description": "Convert HTML to PDF using Qt WebKit. [LGPL-3.0]",
+      "section": [
+        "PDF"
+      ]
+    },
+    {
       "key": "https://xpdfreader.com",
       "name": "Xpdf",
       "url": "https://www.xpdfreader.com/",
@@ -7820,6 +7928,15 @@
       "name": "ofxBox2d",
       "url": "https://github.com/vanderlin/ofxBox2d",
       "description": "openFrameworks wrapper for Box2D. [BSD-like]",
+      "section": [
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://github.com/jacobwilliams/IAU_SOFA",
+      "name": "IAU SOFA",
+      "url": "https://github.com/jacobwilliams/IAU_SOFA",
+      "description": "Standards of Fundamental Astronomy (SOFA) algorithms and procedures implementing standard models used in fundamental astronomy. [SOFA]",
       "section": [
         "Physics"
       ]
@@ -8252,6 +8369,15 @@
       "name": "Ruckig",
       "url": "https://github.com/pantor/ruckig",
       "description": "Real-time motion generation for robots and machines. [MIT] website",
+      "section": [
+        "Robotics"
+      ]
+    },
+    {
+      "key": "https://github.com/strasdat/Sophus",
+      "name": "Sophus",
+      "url": "https://github.com/strasdat/Sophus",
+      "description": "C++ implementation of Lie groups using Eigen.",
       "section": [
         "Robotics"
       ]
@@ -8869,6 +8995,15 @@
       ]
     },
     {
+      "key": "https://github.com/signal11/hidapi",
+      "name": "hidapi",
+      "url": "https://github.com/signal11/hidapi",
+      "description": "A simple library for communicating with USB and Bluetooth HID devices.",
+      "section": [
+        "Serial Port"
+      ]
+    },
+    {
       "key": "https://github.com/crayzeewulf/libserial",
       "name": "Libserial",
       "url": "https://github.com/crayzeewulf/libserial",
@@ -9035,6 +9170,15 @@
       "name": "TinyVM",
       "url": "https://github.com/jakogut/tinyvm",
       "description": "A small, fast, lightweight virtual machine written in pure ANSI C. [MIT]",
+      "section": [
+        "Virtual Machines"
+      ]
+    },
+    {
+      "key": "https://github.com/andoma/vmir",
+      "name": "vmir",
+      "url": "https://github.com/andoma/vmir",
+      "description": "Virtual machine for a low-level intermediate representation. [MIT]",
       "section": [
         "Virtual Machines"
       ]
@@ -9490,6 +9634,15 @@
       ]
     },
     {
+      "key": "https://github.com/yhirose/cpp-peglib",
+      "name": "cpp-peglib",
+      "url": "https://github.com/yhirose/cpp-peglib",
+      "description": "A single-header PEG (Parsing Expression Grammars) library. [MIT]",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
       "key": "https://github.com/MarcDirven/cpp-lazy",
       "name": "cpp-lazy",
       "url": "https://github.com/MarcDirven/cpp-lazy",
@@ -9814,6 +9967,15 @@
       ]
     },
     {
+      "key": "https://github.com/brunocodutra/metal",
+      "name": "metal",
+      "url": "https://github.com/brunocodutra/metal",
+      "description": "Header-only C++14 template metaprogramming library. [MIT]",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
       "key": "https://github.com/google/minja",
       "name": "minja.hpp",
       "url": "https://github.com/google/minja",
@@ -9881,6 +10043,15 @@
       "name": "pprint",
       "url": "https://github.com/p-ranav/pprint",
       "description": "Pretty Printer for Modern C++. [MIT]",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/imageworks/pystring",
+      "name": "pystring",
+      "url": "https://github.com/imageworks/pystring",
+      "description": "C++ functions matching the interface and behavior of Python string methods. [BSD-3-Clause]",
       "section": [
         "Miscellaneous"
       ]
@@ -10124,6 +10295,24 @@
       "name": "tgbotxx",
       "url": "https://github.com/baderouaich/tgbotxx",
       "description": "Telegram Bot C++ Library. [MIT]",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/TheAlgorithms/C",
+      "name": "The Algorithms - C",
+      "url": "https://github.com/TheAlgorithms/C",
+      "description": "Algorithms and data structures implemented in C for education. [MIT]",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "name": "The Algorithms - C-Plus-Plus",
+      "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "description": "Algorithms and data structures implemented in C++ for education. [MIT]",
       "section": [
         "Miscellaneous"
       ]
