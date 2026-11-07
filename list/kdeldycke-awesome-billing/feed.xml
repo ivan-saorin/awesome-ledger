@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — awesome-billing</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/kdeldycke-awesome-billing/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Thu, 10 Sep 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>source — via awesome-billing</title>
+<link>https://news.ycombinator.com/item?id=49457878</link>
+<guid isPermaLink="false">https://news.ycombinator.com/item?id=49457878#2026-09-10</guid>
+<pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+<description>) - Mechanical Turk's rake was “20% (…) on the reward and bonus amount”, with a minimum fee of $0.01 per bonus payment, so a 7-cent bonus is billed one cent instead of 1.4: an effective 14.3% instead of 20%. The requester's round_payment() snaps every payout onto the 5-cent grid where that truncation always applies, and holds anything below 7 cents in the worker's wallet: “~$50 a day” saved. Rounding per transaction rather than per invoice hands the remainder to whoever picks the transaction amounts.</description>
+</item>
+<item>
+<title>Superman III — via awesome-billing</title>
+<link>https://en.wikipedia.org/wiki/Superman_III</link>
+<guid isPermaLink="false">https://en.wikipedia.org/wiki/Superman_III#2026-09-10</guid>
+<pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+<description>The 1983 film in which Gus Gorman, a laid-off clerk who retrains as a programmer, embezzles from his employer's payroll by skimming the fractions of a cent it rounds down.</description>
+</item>
+<item>
+<title>Blnk — via awesome-billing</title>
+<link>https://github.com/blnkfinance/blnk</link>
+<guid isPermaLink="false">https://github.com/blnkfinance/blnk#2026-09-10</guid>
+<pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+<description>💸 Apache-2.0 double-entry ledger exposed as a REST API, with Go, TypeScript, Python and Java SDKs. Inflight transactions hold a pending leg until it is committed or voided, and the reconciliation engine matches external statements against custom rules. Blnk Finance sells a managed cloud adding back-office reports, audit logs and team permissions on top, but the core ledger, reconciliation and identity features are fully functional in OSS.</description>
+</item>
+</channel>
+</rss>
