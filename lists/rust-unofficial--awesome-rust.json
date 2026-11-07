@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"746e0cb84c6755258c5fb6bf4ee6267c4d1c6b0d89cbbafc155c5a49e5ab2ce7\"",
+  "etag": "W/\"aca1fc79a64b4e8d56aa26c995600be7bdf6c78cc6e6778003b0fc84ea07c2a3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3175,6 +3175,16 @@
       "section": [
         "Applications",
         "Image processing"
+      ]
+    },
+    {
+      "key": "https://github.com/cerulion-inc/cerulion",
+      "name": "cerulion-inc/cerulion",
+      "url": "https://github.com/cerulion-inc/cerulion",
+      "description": "[cerulion_cli] - Robot runtime with zero-copy shared memory and a graph-aware scheduler. Records a run and re-executes supported native recordings against new code, with an exit code for CI.",
+      "section": [
+        "Applications",
+        "Industrial automation"
       ]
     },
     {
@@ -10798,6 +10808,16 @@
       "name": "TeaEntityLab/fpRust",
       "url": "https://github.com/TeaEntityLab/fpRust",
       "description": "Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust",
+      "section": [
+        "Libraries",
+        "Asynchronous"
+      ]
+    },
+    {
+      "key": "https://github.com/tellus-rs/tellus",
+      "name": "tellus-rs/tellus",
+      "url": "https://github.com/tellus-rs/tellus",
+      "description": "[tellus] - Actors for Rust with synchronous handlers, ordered death watch, supervision, event sourcing and clustering",
       "section": [
         "Libraries",
         "Asynchronous"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"bbd4f1546c8162d645873f04d2296ce9426634178d63d7eb1106e79aeb5007ab\"",
+  "etag": "W/\"6f6dddd9d11c5bb6fbe342fd86e37f40ec7e380decaa2e7114cd7cb5404361c6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1996,6 +1996,15 @@
       "name": "alessandropietrobelli/dotnet-tree.nvim",
       "url": "https://github.com/alessandropietrobelli/dotnet-tree.nvim",
       "description": "A .NET solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many dotnet actions.",
+      "section": [
+        "Programming Languages Support"
+      ]
+    },
+    {
+      "key": "https://github.com/alessandropietrobelli/dotnet-counters.nvim",
+      "name": "alessandropietrobelli/dotnet-counters.nvim",
+      "url": "https://github.com/alessandropietrobelli/dotnet-counters.nvim",
+      "description": "Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with nvim-dap debug sessions.",
       "section": [
         "Programming Languages Support"
       ]
@@ -13253,6 +13262,15 @@
       "name": "gamjagoon/earlgrey.nvim",
       "url": "https://github.com/gamjagoon/earlgrey.nvim",
       "description": "A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.",
+      "section": [
+        "Pre-made Configuration"
+      ]
+    },
+    {
+      "key": "https://github.com/LFSCamargo/nvim.setup",
+      "name": "LFSCamargo/nvim.setup",
+      "url": "https://github.com/LFSCamargo/nvim.setup",
+      "description": "Portable config with a file tree, editor tabs, and independent AI CLI chats in one window.",
       "section": [
         "Pre-made Configuration"
       ]

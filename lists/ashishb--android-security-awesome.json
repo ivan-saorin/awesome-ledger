@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"98e1cd2eeaaa2c71e7e7e7bc2b2e32009e64b67f11015285a7e73e0e5122f023\"",
+  "etag": "W/\"300a05bf4b09af6ba6b296fe587f95c769feb2d81d7485cc277182375d8f7ecd\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -678,6 +678,16 @@
       "name": "Ostorlab",
       "url": "https://ostorlab.co",
       "description": "Ostorlab free version scans apps in Android Play Store, iOS App Store, and Huawei AppGallery",
+      "section": [
+        "Tools",
+        "App Vulnerability Scanners"
+      ]
+    },
+    {
+      "key": "https://github.com/anasfik/FlutterGuard",
+      "name": "FlutterGuard",
+      "url": "https://github.com/anasfik/FlutterGuard",
+      "description": "Offline on-device scanner for released Flutter APKs: manifest policy, libraries, endpoints, exposed strings and dependency clues, with local reports.",
       "section": [
         "Tools",
         "App Vulnerability Scanners"
@@ -1918,6 +1928,16 @@
       "name": "WPAForge",
       "url": "https://github.com/wlmosv-png/wpaforge",
       "description": "Wi-Fi audit tool for rooted Android that builds candidates from the target SSID and hints and verifies each one against a real association; includes WPS PIN and split-halving attacks, LAN recon and offline .cap/.hc22000 checks.",
+      "section": [
+        "Tools",
+        "Misc Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/Inforaam/MobShield-Android",
+      "name": "MobShield",
+      "url": "https://github.com/Inforaam/MobShield-Android",
+      "description": "Modular, open-source RASP library for Android with weighted, tunable threat scoring for root, hooking frameworks (Frida, Xposed), debuggers, emulators and app tampering. Detect-only by default; no telemetry.",
       "section": [
         "Tools",
         "Misc Tools"

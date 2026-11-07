@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"718a5022f42f20e3916b6935090fd682e5edba1e949dbe80811007c8c495e038\"",
+  "etag": "W/\"f74b38a2ab22c4dc52e7fd67dcf13184d5610bbd39ef899ef53ad6470cec5597\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1079,6 +1079,24 @@
       "name": "Log10x",
       "url": "https://github.com/log-10x/log10x-plugin",
       "description": "Gemini CLI extension that installs the log10x MCP server (MIT, local stdio). It ranks log patterns by volume and cost and plans an action for the excess over each cap: compact on Splunk and self-managed Elasticsearch, tier down or offload to S3 on other platforms. No log data reaches log10x. Install with gemini extensions install https://github.com/log-10x/log10x-plugin.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/JayPokale/Chisle",
+      "name": "Chisle",
+      "url": "https://github.com/JayPokale/Chisle",
+      "description": "Gemini CLI extension whose GEMINI.md makes answers shorter without dropping decisive facts: no filler or hedging, the smallest code that works (reuse, stdlib and installed dependencies before new code), and reading less (grep before opening files, sliced reads). Benchmarks with raw transcripts are in the repo. npx chisle mcp wrap also trims oversized MCP tool output in Gemini CLI. Install with gemini extensions install https://github.com/JayPokale/Chisle. MIT.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/hermoso-ai/hermoso",
+      "name": "Hermoso",
+      "url": "https://github.com/hermoso-ai/hermoso",
+      "description": "Gemini CLI extension for marketing: research competitors' ads in the Meta, Google and LinkedIn ad libraries, generate image, video and UGC avatar ads, post and schedule to your own social channels, and manage Meta Ads, Google Ads and TikTok Ads campaigns, through skills that drive the hermoso CLI. Install: gemini extensions install https://github.com/hermoso-ai/hermoso.",
       "section": [
         "Commands & Extensions"
       ]
@@ -2680,7 +2698,7 @@
       "key": "https://github.com/verma6uc/mach-gtm-mcp",
       "name": "mach-gtm-mcp",
       "url": "https://github.com/verma6uc/mach-gtm-mcp",
-      "description": "Open-source B2B outbound sales MCP server: build ICPs, research prospects with verified buying signals, score leads (0-100), draft cold emails and LinkedIn messages (1-3-1 framework), and generate multi-touch sequences. Human approval required before any message is sent. Works with Gemini CLI and any MCP client. Install: npx mach-gtm-mcp.",
+      "description": "Open-source MCP server with five outbound sales helpers for B2B teams: build an ICP, draft a cold email or LinkedIn message from a buying signal you provide, get a prospect research checklist, score a lead 0-100 against your ICP, and lay out a multi-touch sequence. Template-based; it looks nothing up and sends nothing. Works with Gemini CLI and any MCP client. Install: npx -y github:verma6uc/mach-gtm-mcp.",
       "section": [
         "MCP Servers"
       ]
@@ -2717,6 +2735,15 @@
       "name": "Candor Finance",
       "url": "https://candor.money/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Personal finance for Gemini CLI from your own US bank, card, loan, and investment accounts: spending, cash flow, a budget, and goals with a target, a date, and a monthly amount, saved across sessions, plus a weekly review that tells Gemini what is worth talking through. Bank access is read-only and no tool moves money. Hosted MCP server with OAuth sign-in plus 10 agent skills; requires a Candor account. Install: gemini extensions install https://github.com/candorsystems/candor-finance, then /mcp auth candor.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Sequenzy/mcp",
+      "name": "Sequenzy",
+      "url": "https://github.com/Sequenzy/mcp",
+      "description": "Hosted MCP server for Sequenzy, an email marketing platform for SaaS and ecommerce: manage subscribers, lists, tags and segments, build campaigns, sequences and templates, send transactional email, run A/B tests and read delivery stats from Gemini CLI. About 420 tools, each annotated read-only or destructive. Remote Streamable HTTP with OAuth sign-in (an API key also works); free plan with 2,500 emails/month. MIT. Install: gemini extensions install https://github.com/Sequenzy/mcp, then /mcp auth sequenzy. Local stdio alternative: npx -y @sequenzy/mcp with SEQUENZY_API_KEY.",
       "section": [
         "MCP Servers"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e0daf7273265a1d81812f98490fd2fb5510a5809a2c48a0f516ba5b4c0b400e2\"",
+  "etag": "W/\"28c79bbed40f6235cb5aff5ec4fdf7b463cff2da4ae48bd324d7d562a4e8c33c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -434,16 +434,6 @@
       ]
     },
     {
-      "key": "https://github.com/connabyss/bite",
-      "name": "Bite",
-      "url": "https://github.com/connabyss/bite",
-      "description": "Open-source CLI that checks whether recent \"fixed\" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.",
-      "section": [
-        "Software",
-        "AI & LLM Testing"
-      ]
-    },
-    {
       "key": "https://github.com/hamarshehmhmd/llmdrill",
       "name": "llmdrill",
       "url": "https://github.com/hamarshehmhmd/llmdrill",
@@ -458,6 +448,16 @@
       "name": "evalship",
       "url": "https://evalship.com/",
       "description": "GitHub App that finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and finds prompt and model changes that win beyond chance.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/YusefSyed/scopehaven-oss",
+      "name": "ScopeHaven",
+      "url": "https://github.com/YusefSyed/scopehaven-oss",
+      "description": "Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether \"done\" matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.",
       "section": [
         "Software",
         "AI & LLM Testing"
@@ -1778,6 +1778,16 @@
       "name": "Jumpstarter",
       "url": "https://github.com/jumpstarter-dev/jumpstarter",
       "description": "Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.",
+      "section": [
+        "Software",
+        "Test Automation Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/cerulion-inc/cerulion",
+      "name": "Cerulion",
+      "url": "https://github.com/cerulion-inc/cerulion",
+      "description": "Open-source robot runtime that records each run and re-executes supported native recordings against new code, exiting 1 with the name of the topic that changed, so a recorded robot run becomes a CI regression test.",
       "section": [
         "Software",
         "Test Automation Frameworks"
