@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"28c79bbed40f6235cb5aff5ec4fdf7b463cff2da4ae48bd324d7d562a4e8c33c\"",
+  "etag": "W/\"3034f66513d402f45aa5d1b7d6045ea8f93244365069d58bf07d3ddbe7fb8026\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -288,6 +288,16 @@
       "name": "Darkmoon",
       "url": "https://github.com/ASCIT31/Dark-Moon",
       "description": "Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.",
+      "section": [
+        "Software",
+        "Security Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/StephanSchmidt/appfuzz",
+      "name": "appfuzz",
+      "url": "https://github.com/StephanSchmidt/appfuzz",
+      "description": "Fuzzes WebAssembly apps against a simulated backend and reports crashes, injection, n+1 queries and data leaks, with an exit code for CI.",
       "section": [
         "Software",
         "Security Testing"
@@ -708,6 +718,16 @@
       "name": "ai-wright",
       "url": "https://github.com/TestChimp/ai-wright",
       "description": "Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://analyticsproof.com",
+      "name": "AnalyticsProof",
+      "url": "https://analyticsproof.com",
+      "description": "Regression tests for analytics tracking: replays recorded website journeys and reports which step lost a dataLayer event or GA4 parameter. Has a free plan.",
       "section": [
         "Software",
         "UI & End-to-End Testing"
