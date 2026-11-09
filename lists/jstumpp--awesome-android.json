@@ -1,31 +1,13 @@
 {
-  "etag": "W/\"6fb4858f7113cea4fc92978d577ee70d35157804d79b09e2153a5689cb4ad34f\"",
+  "etag": "W/\"06a26ecdf983bf0f3bf92fa234dbbf34ed643039c071ba0d0f836119955b6927\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
     {
-      "key": "https://andyroid.net",
-      "name": "AndY",
-      "url": "https://andyroid.net",
-      "description": "",
-      "section": [
-        "Emulators"
-      ]
-    },
-    {
-      "key": "https://archon-runtime.github.io",
-      "name": "ARChon",
-      "url": "https://archon-runtime.github.io",
-      "description": "",
-      "section": [
-        "Emulators"
-      ]
-    },
-    {
-      "key": "https://bluestacks.com",
-      "name": "BlueStacks",
-      "url": "https://www.bluestacks.com",
-      "description": "",
+      "key": "https://developer.android.com/studio/run/emulator",
+      "name": "Android Emulator",
+      "url": "https://developer.android.com/studio/run/emulator",
+      "description": "Official Android emulator integrated into Android Studio.",
       "section": [
         "Emulators"
       ]
@@ -34,58 +16,39 @@
       "key": "https://genymotion.com",
       "name": "Genymotion",
       "url": "https://www.genymotion.com",
-      "description": "",
+      "description": "Fast Android emulator for app testing and development. Commercial",
       "section": [
         "Emulators"
       ]
     },
     {
-      "key": "https://bignox.com",
-      "name": "nox",
-      "url": "https://www.bignox.com",
-      "description": "",
+      "key": "https://developer.android.com/compose",
+      "name": "Jetpack Compose",
+      "url": "https://developer.android.com/compose",
+      "description": "Modern toolkit for building native Android UI with declarative Kotlin APIs and Material 3 support.",
       "section": [
-        "Emulators"
+        "Libraries",
+        "Jetpack Compose"
       ]
     },
     {
-      "key": "https://github.com/ddanny/achartengine",
-      "name": "AChartEngine",
-      "url": "https://github.com/ddanny/achartengine",
-      "description": "Charting Engine.",
+      "key": "https://github.com/slackhq/circuit",
+      "name": "Circuit",
+      "url": "https://github.com/slackhq/circuit",
+      "description": "Modern architecture framework for building Android apps with Compose.",
       "section": [
         "Libraries",
-        "Charts"
+        "Architecture"
       ]
     },
     {
-      "key": "https://github.com/blackfizz/EazeGraph",
-      "name": "EazeGraph",
-      "url": "https://github.com/blackfizz/EazeGraph",
-      "description": "Chart and graph library.",
+      "key": "https://github.com/arkivanov/Decompose",
+      "name": "Decompose",
+      "url": "https://github.com/arkivanov/Decompose",
+      "description": "Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components.",
       "section": [
         "Libraries",
-        "Charts"
-      ]
-    },
-    {
-      "key": "https://github.com/diogobernardino/WilliamChart",
-      "name": "WilliamChart",
-      "url": "https://github.com/diogobernardino/WilliamChart",
-      "description": "Chart library with good motion capabilities.",
-      "section": [
-        "Libraries",
-        "Charts"
-      ]
-    },
-    {
-      "key": "https://github.com/lecho/hellocharts-android",
-      "name": "HelloCharts",
-      "url": "https://github.com/lecho/hellocharts-android",
-      "description": "Chart and graph library with support for scaling, scrolling and animations.",
-      "section": [
-        "Libraries",
-        "Charts"
+        "Architecture"
       ]
     },
     {
@@ -99,43 +62,13 @@
       ]
     },
     {
-      "key": "https://github.com/imaNNeoFighT/ArcChartView",
-      "name": "ArcChartView",
-      "url": "https://github.com/imaNNeoFighT/ArcChartView",
-      "description": "Draw Creative Statistic Arc Charts.",
+      "key": "https://github.com/patrykandpatrick/vico",
+      "name": "Vico",
+      "url": "https://github.com/patrykandpatrick/vico",
+      "description": "Modern chart library with support for both Jetpack Compose and Android Views.",
       "section": [
         "Libraries",
         "Charts"
-      ]
-    },
-    {
-      "key": "https://github.com/AnyChart/AnyChart-Android",
-      "name": "AnyChart",
-      "url": "https://github.com/AnyChart/AnyChart-Android",
-      "description": "Data visualization library, Interactive charts.",
-      "section": [
-        "Libraries",
-        "Charts"
-      ]
-    },
-    {
-      "key": "https://cloudrail.com",
-      "name": "CloudRail",
-      "url": "https://cloudrail.com",
-      "description": "Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.",
-      "section": [
-        "Libraries",
-        "Cloud Services"
-      ]
-    },
-    {
-      "key": "https://github.com/anvil-ui/anvil",
-      "name": "Anvil",
-      "url": "https://github.com/anvil-ui/anvil",
-      "description": "A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.",
-      "section": [
-        "Libraries",
-        "Data binding"
       ]
     },
     {
@@ -149,6 +82,16 @@
       ]
     },
     {
+      "key": "https://developer.android.com/training/dependency-injection/hilt-android",
+      "name": "Hilt",
+      "url": "https://developer.android.com/training/dependency-injection/hilt-android",
+      "description": "Official dependency injection library built on top of Dagger for Android.",
+      "section": [
+        "Libraries",
+        "Dependency Injection"
+      ]
+    },
+    {
       "key": "https://github.com/google/dagger",
       "name": "Dagger 2",
       "url": "https://github.com/google/dagger",
@@ -159,69 +102,19 @@
       ]
     },
     {
-      "key": "https://jakewharton.github.io/butterknife",
-      "name": "Butter Knife",
-      "url": "http://jakewharton.github.io/butterknife/",
-      "description": "View \"injection\" library for Android.",
+      "key": "https://insert-koin.io",
+      "name": "Koin",
+      "url": "https://insert-koin.io/",
+      "description": "Lightweight dependency injection framework for Kotlin.",
       "section": [
         "Libraries",
         "Dependency Injection"
       ]
     },
     {
-      "key": "https://github.com/MarcinMoskala/ActivityStarter",
-      "name": "ActivityStarter",
-      "url": "https://github.com/MarcinMoskala/ActivityStarter",
-      "description": "Android Library that provide simpler way to start the Activities with multiple arguments.",
-      "section": [
-        "Libraries",
-        "Dependency Injection"
-      ]
-    },
-    {
-      "key": "https://github.com/androidannotations/androidannotations",
-      "name": "AndroidAnnotations",
-      "url": "https://github.com/androidannotations/androidannotations",
-      "description": "Java annotations with dependency injection at compile time.",
-      "section": [
-        "Libraries",
-        "Dependency Injection"
-      ]
-    },
-    {
-      "key": "https://github.com/stephanenicolas/toothpick",
-      "name": "Toothpick",
-      "url": "https://github.com/stephanenicolas/toothpick",
-      "description": "A scope tree based Dependency Injection (DI) library for Java.",
-      "section": [
-        "Libraries",
-        "Dependency Injection"
-      ]
-    },
-    {
-      "key": "https://github.com/josesamuel/remoter",
-      "name": "Remoter",
-      "url": "https://github.com/josesamuel/remoter",
-      "description": "An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.",
-      "section": [
-        "Libraries",
-        "Android Services"
-      ]
-    },
-    {
-      "key": "https://github.com/josesamuel/serviceconnector",
-      "name": "Service Connector",
-      "url": "https://github.com/josesamuel/serviceconnector",
-      "description": "Bind Android services and callbacks to fields and methods.",
-      "section": [
-        "Libraries",
-        "Android Services"
-      ]
-    },
-    {
-      "key": "https://libgdx.badlogicgames.com",
+      "key": "https://libgdx.com",
       "name": "Libgdx",
-      "url": "https://libgdx.badlogicgames.com/",
+      "url": "https://libgdx.com/",
       "description": "Cross-platform game engine and SDK. Open Source",
       "section": [
         "Libraries",
@@ -229,300 +122,70 @@
       ]
     },
     {
-      "key": "https://vuforia.com",
+      "key": "https://github.com/godotengine/godot",
+      "name": "Godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Cross-platform 2/3D game engine with an IDE and under MIT license.",
+      "section": [
+        "Libraries",
+        "Game Development"
+      ]
+    },
+    {
+      "key": "https://ptc.com/en/products/vuforia",
       "name": "Vuforia",
-      "url": "https://www.vuforia.com/",
-      "description": "Augmented Reality library.",
+      "url": "https://www.ptc.com/en/products/vuforia",
+      "description": "Augmented Reality library. Commercial",
       "section": [
         "Libraries",
         "Game Development"
       ]
     },
     {
-      "key": "https://unity3d.com/unity/features/multiplatform",
+      "key": "https://unity.com/features/multiplatform",
       "name": "Unity",
-      "url": "https://unity3d.com/unity/features/multiplatform",
-      "description": "Cross-platform game creation system.",
+      "url": "https://unity.com/features/multiplatform",
+      "description": "Cross-platform game creation system. Commercial",
       "section": [
         "Libraries",
         "Game Development"
       ]
     },
     {
-      "key": "https://github.com/Rajawali/Rajawali",
-      "name": "Rajawali",
-      "url": "https://github.com/Rajawali/Rajawali",
-      "description": "Android OpenGL ES 2.0/3.0 Engine",
-      "section": [
-        "Libraries",
-        "Game Development"
-      ]
-    },
-    {
-      "key": "https://cocos2d-x.org",
-      "name": "Cocos2d-x",
-      "url": "https://cocos2d-x.org/",
-      "description": "Cross-platform 2d game framework.",
-      "section": [
-        "Libraries",
-        "Game Development"
-      ]
-    },
-    {
-      "key": "https://github.com/lfkdsk/JustWeEngine",
-      "name": "JustWeEngine",
-      "url": "https://github.com/lfkdsk/JustWeEngine",
-      "description": "An easy open source Android Native Game FrameWork.",
-      "section": [
-        "Libraries",
-        "Game Development"
-      ]
-    },
-    {
-      "key": "https://github.com/signalapp/libsignal-protocol-java",
-      "name": "libsignal-protocol-java",
-      "url": "https://github.com/signalapp/libsignal-protocol-java",
-      "description": "A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.",
+      "key": "https://github.com/tink-crypto/tink-java",
+      "name": "Google Tink",
+      "url": "https://github.com/tink-crypto/tink-java",
+      "description": "Multi-language cross-platform cryptography library providing secure APIs for common cryptographic tasks.",
       "section": [
         "Libraries",
         "Security"
       ]
     },
     {
-      "key": "https://github.com/cossacklabs/themis",
-      "name": "Themis",
-      "url": "https://github.com/cossacklabs/themis",
-      "description": "Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.",
+      "key": "https://github.com/material-components/material-components-android",
+      "name": "Material Components for Android",
+      "url": "https://github.com/material-components/material-components-android",
+      "description": "Modular and customizable Material Design UI components for Android.",
       "section": [
         "Libraries",
-        "Security"
+        "GUI"
       ]
     },
     {
-      "key": "https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout",
+      "key": "https://developer.android.com/guide/navigation",
+      "name": "Navigation",
+      "url": "https://developer.android.com/guide/navigation",
+      "description": "Framework for building in-app navigation with type-safe argument passing.",
+      "section": [
+        "Libraries",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://developer.android.com/reference/androidx/swiperefreshlayout/widget/SwipeRefreshLayout",
       "name": "Pull to refresh",
-      "url": "https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout",
-      "description": "A swipe refresh layout is available in the v4 support library.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/gabrielemariotti/cardslib",
-      "name": "Cardslib",
-      "url": "https://github.com/gabrielemariotti/cardslib",
-      "description": "Android Library to build a UI Card.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/etsy/AndroidStaggeredGrid",
-      "name": "AndroidStaggeredGrid",
-      "url": "https://github.com/etsy/AndroidStaggeredGrid",
-      "description": "Grid view which supports multiple columns with rows of varying sizes.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/square/flow",
-      "name": "Flow",
-      "url": "https://github.com/square/flow",
-      "description": "Library that helps with describing an app as a collection of moderately independent screens.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/ISchwarz23/SortableTableView",
-      "name": "SortableTableView",
-      "url": "https://github.com/ISchwarz23/SortableTableView",
-      "description": "An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/zhanghai/MaterialProgressBar",
-      "name": "MaterialProgressBar",
-      "url": "https://github.com/zhanghai/MaterialProgressBar",
-      "description": "Material design ProgressBar with consistent appearance.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
-      "name": "AndroidFillableLoaders",
-      "url": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
-      "description": "Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/dkharrat/NexusDialog",
-      "name": "NexusDialog",
-      "url": "https://github.com/dkharrat/NexusDialog",
-      "description": "Allows you to easily and quickly create forms in Android with little code.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/prashantsolanki3/Snap-RecyclerView-Utils",
-      "name": "Snap RecyclerView Utils",
-      "url": "https://github.com/prashantsolanki3/Snap-RecyclerView-Utils",
-      "description": "Populate Single or multiple Layout RecyclerView without creating an Adapter.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/TakuSemba/MultiSnapRecyclerView",
-      "name": "MultiSnapRecyclerView",
-      "url": "https://github.com/TakuSemba/MultiSnapRecyclerView",
-      "description": "Android library for multiple snapping of RecyclerView",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/michelelacorte/SwipeableCard",
-      "name": "SwipeableCard",
-      "url": "https://github.com/michelelacorte/SwipeableCard",
-      "description": "Implementation of swipe card like StreetView!!",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/michelelacorte/ElasticProgressBar",
-      "name": "ElasticProgressBar",
-      "url": "https://github.com/michelelacorte/ElasticProgressBar",
-      "description": "Beautiful loading bar.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/kunall17/EntryScreenManager",
-      "name": "EntryScreenManager",
-      "url": "https://github.com/kunall17/EntryScreenManager",
-      "description": "Intro/Entry/Walkthrough/Starting Screens.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/meNESS/EasyIntro",
-      "name": "EasyIntro",
-      "url": "https://github.com/meNESS/EasyIntro",
-      "description": "The flexible, easy to use, all in one app intro library for your Android project.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/BlackBoxVision/material-calendar-view",
-      "name": "Material-Calendar-View",
-      "url": "https://github.com/BlackBoxVision/material-calendar-view",
-      "description": "Material Design Calendar compatible with API 8+",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/CleverPumpkin/CrunchyCalendar",
-      "name": "CrunchyCalendar",
-      "url": "https://github.com/CleverPumpkin/CrunchyCalendar",
-      "description": "A material calendar widget with infinite scrolling, date range selection and color customization.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/vovaksenov99/OverscrollableScrollView",
-      "name": "SmoothOverscrollableScrollView",
-      "url": "https://github.com/vovaksenov99/OverscrollableScrollView",
-      "description": "Small custom view with smooth overscroll. You can add header with scale background",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/luizgrp/SectionedRecyclerViewAdapter",
-      "name": "SectionedRecyclerViewAdapter",
-      "url": "https://github.com/luizgrp/SectionedRecyclerViewAdapter",
-      "description": "An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/woxblom/DragListView",
-      "name": "DragListView",
-      "url": "https://github.com/woxblom/DragListView",
-      "description": "Drag and drop to reorder items in a list, grid or board.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/LeonardoCardoso/Animated-Expanding-ListView",
-      "name": "Animated Expanding ListView",
-      "url": "https://github.com/LeonardoCardoso/Animated-Expanding-ListView",
-      "description": "Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/yadav-rahul/TastyToast",
-      "name": "TastyToast",
-      "url": "https://github.com/yadav-rahul/TastyToast",
-      "description": "Toasts with icons and color.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/bhargavms/DotLoader",
-      "name": "DotLoader",
-      "url": "https://github.com/bhargavms/DotLoader",
-      "description": "A customizable loading animation with Dots.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/bhargavms/PodSLider",
-      "name": "PodSlider",
-      "url": "https://github.com/bhargavms/PodSLider",
-      "description": "A customizable slider widget adhering to material design specs.",
+      "url": "https://developer.android.com/reference/androidx/swiperefreshlayout/widget/SwipeRefreshLayout",
+      "description": "A swipe refresh layout is available in AndroidX.",
       "section": [
         "Libraries",
         "GUI"
@@ -539,251 +202,13 @@
       ]
     },
     {
-      "key": "https://github.com/mreram/ShowCaseView",
-      "name": "ShowCaseView",
-      "url": "https://github.com/mreram/ShowCaseView",
-      "description": "The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a attractive and flat overlay.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/TangoAgency/material-intro-screen",
-      "name": "MaterialIntroScreen",
-      "url": "https://github.com/TangoAgency/material-intro-screen",
-      "description": "Material Intro Screen implementation with easily extensible API.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/UFreedom/FloatingView",
-      "name": "FloatingView",
-      "url": "https://github.com/UFreedom/FloatingView",
-      "description": "FloatingView can make the target view floating above the anchor view with cool animation.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/alxrm/animated-clock-icon",
-      "name": "Timecon",
-      "url": "https://github.com/alxrm/animated-clock-icon",
-      "description": "Easy-to-use animated clock icon",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/alxrm/audiowave-progressbar",
-      "name": "Audiogram",
-      "url": "https://github.com/alxrm/audiowave-progressbar",
-      "description": "Lightweight audiowave progressbar",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/txusballesteros/bubbles-for-android",
-      "name": "Bubbles for Android",
-      "url": "https://github.com/txusballesteros/bubbles-for-android",
-      "description": "Facebook like chat bubble library",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/facebook/litho",
-      "name": "Litho (By Facebook)",
-      "url": "https://github.com/facebook/litho",
+      "key": "https://github.com/meta/litho",
+      "name": "Litho (By Meta)",
+      "url": "https://github.com/meta/litho",
       "description": "A declarative framework for building efficient UIs on Android.",
       "section": [
         "Libraries",
         "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/DevAhamed/MultiViewAdapter",
-      "name": "MultiViewAdapter",
-      "url": "https://github.com/DevAhamed/MultiViewAdapter",
-      "description": "Recyclerview Adapter library to create composable view holders.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/loregr/LGSnackbar",
-      "name": "LGSnackbar",
-      "url": "https://github.com/loregr/LGSnackbar",
-      "description": "An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/team-supercharge/ShimmerLayout",
-      "name": "ShimmerLayout",
-      "url": "https://github.com/team-supercharge/ShimmerLayout",
-      "description": "Memory efficient shimmering effect for Android applications.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/emre1512/CircleProgressBar",
-      "name": "CircleProgressBar",
-      "url": "https://github.com/emre1512/CircleProgressBar",
-      "description": "A simple library for creating circular progressbars for Android.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/smalam119/Easy-Signature-Android",
-      "name": "Easy-Signature-Android",
-      "url": "https://github.com/smalam119/Easy-Signature-Android",
-      "description": "An simple ui library that provides a plugable signature view.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/aritraroy/Flashbar",
-      "name": "Flashbar",
-      "url": "https://github.com/aritraroy/Flashbar",
-      "description": "A highly customizable, powerful and easy-to-use alerting library for Android.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/andhikayuana/YuanaItemSettingView",
-      "name": "YuanaItemSettingView",
-      "url": "https://github.com/andhikayuana/YuanaItemSettingView",
-      "description": "Customizable Item Setting View for Android.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/bakhtiyork/gradients",
-      "name": "Gradients",
-      "url": "https://github.com/bakhtiyork/gradients",
-      "description": "A curated collection of splendid gradients.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/ironSource/OneAdapter",
-      "name": "OneAdapter",
-      "url": "https://github.com/ironSource/OneAdapter",
-      "description": "RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
-      "key": "https://github.com/NoNews/NoPaginate",
-      "name": "NoPaginate",
-      "url": "https://github.com/NoNews/NoPaginate",
-      "description": "Simple Android pagination library",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Paginate"
-      ]
-    },
-    {
-      "key": "https://actionbarsherlock.com",
-      "name": "ActionBarSherlock",
-      "url": "http://actionbarsherlock.com",
-      "description": "ActionBar for older Android versions.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "ActionBar"
-      ]
-    },
-    {
-      "key": "https://github.com/ManuelPeinado/FadingActionBar",
-      "name": "FadingActionBar",
-      "url": "https://github.com/ManuelPeinado/FadingActionBar",
-      "description": "Fading action bar effect that can be seen in the new Play Music app.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "ActionBar"
-      ]
-    },
-    {
-      "key": "https://github.com/jfeinstein10/SlidingMenu",
-      "name": "SlidingMenu",
-      "url": "https://github.com/jfeinstein10/SlidingMenu",
-      "description": "Library to create applications with slide-in menus.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Navigation"
-      ]
-    },
-    {
-      "key": "https://github.com/Cleveroad/slidingtutorial-android",
-      "name": "SlidingTutorial",
-      "url": "https://github.com/Cleveroad/slidingtutorial-android",
-      "description": "Simple library that helps to create awesome sliding android app tutorials.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Navigation"
-      ]
-    },
-    {
-      "key": "https://github.com/astuetz/PagerSlidingTabStrip",
-      "name": "PagerSlidingTabStrip",
-      "url": "https://github.com/astuetz/PagerSlidingTabStrip",
-      "description": "An interactive indicator to navigate between the different pages of a ViewPager.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Navigation"
-      ]
-    },
-    {
-      "key": "https://github.com/JakeWharton/ViewPagerIndicator",
-      "name": "Page View indicator",
-      "url": "https://github.com/JakeWharton/ViewPagerIndicator",
-      "description": "Support for horizontally scrolling ViewPager.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Navigation"
-      ]
-    },
-    {
-      "key": "https://github.com/nshmura/RecyclerTabLayout",
-      "name": "RecyclerTabLayout",
-      "url": "https://github.com/nshmura/RecyclerTabLayout",
-      "description": "An efficient TabLayout library implemented with RecyclerView.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Navigation"
       ]
     },
     {
@@ -793,52 +218,27 @@
       "description": "Simple take on a material design navigation drawer.",
       "section": [
         "Libraries",
-        "GUI",
-        "Navigation"
+        "GUI"
       ]
     },
     {
-      "key": "https://github.com/BaristaVentures/android-debug-artist",
-      "name": "Debug-Artist",
-      "url": "https://github.com/BaristaVentures/android-debug-artist",
-      "description": "Debug menu to enable leakcanary, scalpel and others easy.",
+      "key": "https://github.com/AppIntro/AppIntro",
+      "name": "AppIntro",
+      "url": "https://github.com/AppIntro/AppIntro",
+      "description": "Library for creating beautiful intro slides for your app.",
       "section": [
         "Libraries",
-        "GUI",
-        "Navigation"
+        "GUI"
       ]
     },
     {
-      "key": "https://github.com/andremion/Floating-Navigation-View",
-      "name": "Floating-Navigation-View",
-      "url": "https://github.com/andremion/Floating-Navigation-View",
-      "description": "A simple Floating Action Button that shows an anchored Navigation View.",
+      "key": "https://github.com/airbnb/lottie-android",
+      "name": "Lottie",
+      "url": "https://github.com/airbnb/lottie-android",
+      "description": "Library for rendering After Effects animations natively on Android.",
       "section": [
         "Libraries",
-        "GUI",
-        "Navigation"
-      ]
-    },
-    {
-      "key": "https://github.com/abdullahalhakimi/SmoothMotion",
-      "name": "SmoothMotion",
-      "url": "https://github.com/abdullahalhakimi/SmoothMotion",
-      "description": "Kotlin library for simplifying animations and transitions in Jetpack Compose.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Animations"
-      ]
-    },
-    {
-      "key": "https://github.com/facebook/rebound",
-      "name": "Rebound",
-      "url": "https://github.com/facebook/rebound",
-      "description": "Rebound is a Java library that models spring dynamics.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Animations"
+        "GUI"
       ]
     },
     {
@@ -848,195 +248,17 @@
       "description": "Cute view animation collection.",
       "section": [
         "Libraries",
-        "GUI",
-        "Animations"
-      ]
-    },
-    {
-      "key": "https://github.com/kaichunlin/android-transition",
-      "name": "Android-Transition",
-      "url": "https://github.com/kaichunlin/android-transition",
-      "description": "Allows the easy creation of view transitions that react to user inputs.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Animations"
-      ]
-    },
-    {
-      "key": "https://github.com/dtx12/AndroidAnimationsActions",
-      "name": "Android-View-Actions",
-      "url": "https://github.com/dtx12/AndroidAnimationsActions",
-      "description": "Makes creating complex animations for views easy.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Animations"
-      ]
-    },
-    {
-      "key": "https://github.com/mdg-iitr/Swipper",
-      "name": "Swipper",
-      "url": "https://github.com/mdg-iitr/Swipper",
-      "description": "Android library for swipeable gestures to control volume , brightness and seek .",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Animations"
-      ]
-    },
-    {
-      "key": "https://github.com/TakuSemba/Spotlight",
-      "name": "Spotlight",
-      "url": "https://github.com/TakuSemba/Spotlight",
-      "description": "Android Library that lights items for tutorials or walk-throughs etc...",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Animations"
-      ]
-    },
-    {
-      "key": "https://github.com/developer-shivam/crescento",
-      "name": "Crescento",
-      "url": "https://github.com/developer-shivam/crescento",
-      "description": "Explore new style in material design by adding curve below image view.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Images"
-      ]
-    },
-    {
-      "key": "https://github.com/jdamcd/android-crop",
-      "name": "android-crop",
-      "url": "https://github.com/jdamcd/android-crop",
-      "description": "Library project for cropping images.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Images"
-      ]
-    },
-    {
-      "key": "https://github.com/Pkmmte/CircularImageView",
-      "name": "CircularImageView",
-      "url": "https://github.com/Pkmmte/CircularImageView",
-      "description": "Custom view for circular images while maintaining the best draw performance.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Images"
-      ]
-    },
-    {
-      "key": "https://github.com/ragnraok/android-image-filter",
-      "name": "Android-Image-Filter",
-      "url": "https://github.com/ragnraok/android-image-filter",
-      "description": "Library project for applying image filters easily.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Images"
+        "GUI"
       ]
     },
     {
       "key": "https://github.com/zetbaitsu/Compressor",
       "name": "Compressor",
       "url": "https://github.com/zetbaitsu/Compressor",
-      "description": "Compressor is a lightweight and powerful android image compression library.",
+      "description": "Lightweight and powerful Android image compression library.",
       "section": [
         "Libraries",
-        "GUI",
-        "Images"
-      ]
-    },
-    {
-      "key": "https://github.com/siyamed/android-shape-imageview",
-      "name": "ShapeImageView",
-      "url": "https://github.com/siyamed/android-shape-imageview",
-      "description": "Library to display images in different shapes.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Images"
-      ]
-    },
-    {
-      "key": "https://github.com/hardik-trivedi/FloatingLabel",
-      "name": "FloatingLabel",
-      "url": "https://github.com/hardik-trivedi/FloatingLabel",
-      "description": "FloatingLabel Allows you to create a blow kind of EditText. Doesn't have Gradle or Maven Support.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Inputs"
-      ]
-    },
-    {
-      "key": "https://github.com/rengwuxian/MaterialEditText",
-      "name": "MaterialEditText",
-      "url": "https://github.com/rengwuxian/MaterialEditText",
-      "description": "Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Inputs"
-      ]
-    },
-    {
-      "key": "https://github.com/googlearchive/android-EmojiCompat",
-      "name": "EmojiCompat",
-      "url": "https://github.com/googlearchive/android-EmojiCompat",
-      "description": "Adds emoticons to your app",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Inputs"
-      ]
-    },
-    {
-      "key": "https://github.com/mancj/MaterialSearchBar",
-      "name": "MaterialSearchBar",
-      "url": "https://github.com/mancj/MaterialSearchBar",
-      "description": "Material Design Search Bar for Android",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Inputs"
-      ]
-    },
-    {
-      "key": "https://github.com/RedMadRobot/input-mask-android",
-      "name": "InputMask",
-      "url": "https://github.com/RedMadRobot/input-mask-android",
-      "description": "Pattern-based user input formatter, parser and validator.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Inputs"
-      ]
-    },
-    {
-      "key": "https://github.com/jesusmartinoza/Sweet-Password",
-      "name": "SweetPassword",
-      "url": "https://github.com/jesusmartinoza/Sweet-Password",
-      "description": "Password EditText that allows to custom toggle button",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Inputs"
-      ]
-    },
-    {
-      "key": "https://github.com/algolia/voice-overlay-android",
-      "name": "VoiceOverlay",
-      "url": "https://github.com/algolia/voice-overlay-android",
-      "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Inputs"
+        "GUI"
       ]
     },
     {
@@ -1046,30 +268,7 @@
       "description": "Three Material Dots Indicators styles for View Pagers.",
       "section": [
         "Libraries",
-        "GUI",
-        "View Pagers"
-      ]
-    },
-    {
-      "key": "https://github.com/square/picasso",
-      "name": "Picasso",
-      "url": "https://github.com/square/picasso",
-      "description": "A powerful image downloading and caching library for Android.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Loading Images"
-      ]
-    },
-    {
-      "key": "https://github.com/nostra13/Android-Universal-Image-Loader",
-      "name": "Universal Image Loader",
-      "url": "https://github.com/nostra13/Android-Universal-Image-Loader",
-      "description": "Asynchronous, out of the box loading and caching of images.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Loading Images"
+        "GUI"
       ]
     },
     {
@@ -1079,30 +278,17 @@
       "description": "An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.",
       "section": [
         "Libraries",
-        "GUI",
-        "Loading Images"
+        "GUI"
       ]
     },
     {
-      "key": "https://github.com/facebook/fresco",
+      "key": "https://github.com/meta/fresco",
       "name": "Fresco",
-      "url": "https://github.com/facebook/fresco",
+      "url": "https://github.com/meta/fresco",
       "description": "An Android library for managing images and the memory they use.",
       "section": [
         "Libraries",
-        "GUI",
-        "Loading Images"
-      ]
-    },
-    {
-      "key": "https://github.com/amitshekhariitbhu/GlideBitmapPool",
-      "name": "Glide Bitmap Pool",
-      "url": "https://github.com/amitshekhariitbhu/GlideBitmapPool",
-      "description": "Glide Bitmap Pool is a memory management library for reusing the bitmap memory.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Loading Images"
+        "GUI"
       ]
     },
     {
@@ -1112,103 +298,44 @@
       "description": "Image loading for Android backed by Kotlin Coroutines.",
       "section": [
         "Libraries",
-        "GUI",
-        "Loading Images"
+        "GUI"
       ]
     },
     {
-      "key": "https://github.com/alhazmy13/MediaPicker",
-      "name": "MediaPicker",
-      "url": "https://github.com/alhazmy13/MediaPicker",
-      "description": "Android Library that lets you to select multiple images, video or voice for Android",
+      "key": "https://github.com/androidx/media",
+      "name": "Media3 (ExoPlayer)",
+      "url": "https://github.com/androidx/media",
+      "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android.",
       "section": [
         "Libraries",
-        "GUI",
-        "Media Picker"
+        "GUI"
       ]
     },
     {
-      "key": "https://github.com/esafirm/android-image-picker",
-      "name": "Android Image Picker",
-      "url": "https://github.com/esafirm/android-image-picker",
-      "description": "A library that makes images and videos selection from gallery feels easy. It also support GIF and simple camera action",
+      "key": "https://developer.android.com/training/camerax",
+      "name": "CameraX",
+      "url": "https://developer.android.com/training/camerax",
+      "description": "Jetpack library that makes camera app development easier with consistent API across devices.",
       "section": [
         "Libraries",
-        "GUI",
-        "Media Picker"
+        "GUI"
       ]
     },
     {
-      "key": "https://github.com/Bilibili/ijkplayer",
-      "name": "ijkplayer",
-      "url": "https://github.com/Bilibili/ijkplayer",
-      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "key": "https://github.com/Kotlin/kotlinx.serialization",
+      "name": "kotlinx.serialization",
+      "url": "https://github.com/Kotlin/kotlinx.serialization",
+      "description": "Kotlin multiplatform serialization library with JSON support.",
       "section": [
         "Libraries",
-        "GUI",
-        "Video"
-      ]
-    },
-    {
-      "key": "https://github.com/google/ExoPlayer",
-      "name": "Exoplayer",
-      "url": "https://github.com/google/ExoPlayer",
-      "description": "ExoPlayer is an application level media player for Android, allow playing audio and video both locally and over the Internet. Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Video"
-      ]
-    },
-    {
-      "key": "https://github.com/MarcinMoskala/VideoPlayView",
-      "name": "VideoPlayView",
-      "url": "https://github.com/MarcinMoskala/VideoPlayView",
-      "description": "Custom Android view with video player, play/stop, loader and placeholder image.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Video"
-      ]
-    },
-    {
-      "key": "https://github.com/fabian7593/MagicalCamera",
-      "name": "MagicalCamera",
-      "url": "https://github.com/fabian7593/MagicalCamera",
-      "description": "Simple way to take or select photos of your gallery, with other features for manage pictures.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Camera"
-      ]
-    },
-    {
-      "key": "https://github.com/duanhong169/Camera",
-      "name": "Camera",
-      "url": "https://github.com/duanhong169/Camera",
-      "description": "Use Android camera to take pictures and videos, based on camera2 api.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Camera"
-      ]
-    },
-    {
-      "key": "https://github.com/WellingtonCosta/convalida",
-      "name": "Convalida",
-      "url": "https://github.com/WellingtonCosta/convalida",
-      "description": "A simple and annotation-based way to validate your input fields.",
-      "section": [
-        "Libraries",
-        "GUI",
-        "Field Validation"
+        "JSON"
       ]
     },
     {
       "key": "https://github.com/google/gson",
       "name": "Gson",
       "url": "https://github.com/google/gson",
-      "description": "Gson is a Java library used for serializing and deserializing Java objects from and into JSON.",
+      "description": "Java library used for serializing and deserializing Java objects from and into JSON.",
       "section": [
         "Libraries",
         "JSON"
@@ -1235,30 +362,20 @@
       ]
     },
     {
-      "key": "https://get.fabric.io",
-      "name": "Fabric Crashlytics",
-      "url": "https://get.fabric.io/",
-      "description": "Easy crash reporting solution.",
+      "key": "https://github.com/measure-sh/measure",
+      "name": "Measure",
+      "url": "https://github.com/measure-sh/measure/",
+      "description": "Open source tool to monitor crashes, ANRs, and performance of mobile apps. Can be self-hosted.",
       "section": [
         "Libraries",
         "Crash monitoring"
       ]
     },
     {
-      "key": "https://hockeyapp.net",
-      "name": "HockeyApp",
-      "url": "https://www.hockeyapp.net/",
-      "description": "Distribution, Crash Reports, Feedback and Analytics",
-      "section": [
-        "Libraries",
-        "Crash monitoring"
-      ]
-    },
-    {
-      "key": "https://mint.splunk.com",
-      "name": "Splunk MINT",
-      "url": "https://mint.splunk.com/",
-      "description": "Monitoring, Crash Reports, Real time data, Statistic.",
+      "key": "https://github.com/getsentry/sentry-java",
+      "name": "Sentry Android",
+      "url": "https://github.com/getsentry/sentry-java",
+      "description": "Open source error tracking with real-time crash reporting. Commercial (has free tier)",
       "section": [
         "Libraries",
         "Crash monitoring"
@@ -1268,127 +385,67 @@
       "key": "https://bugsnag.com",
       "name": "Bugsnag",
       "url": "https://www.bugsnag.com/",
-      "description": "Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.",
+      "description": "Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data. Commercial",
       "section": [
         "Libraries",
         "Crash monitoring"
       ]
     },
     {
-      "key": "https://github.com/alhazmy13/Catcho",
-      "name": "Catcho",
-      "url": "https://github.com/alhazmy13/Catcho",
-      "description": "No Force Close any more.",
+      "key": "https://firebase.google.com/products/crashlytics",
+      "name": "Firebase Crashlytics",
+      "url": "https://firebase.google.com/products/crashlytics",
+      "description": "Easy crash reporting solution. Commercial (has free tier)",
       "section": [
         "Libraries",
         "Crash monitoring"
       ]
     },
     {
-      "key": "https://apteligent.com",
-      "name": "Apteligent",
-      "url": "https://www.apteligent.com/",
-      "description": "Cross platform crash reporting/analytics solution. Supports NDK log.",
-      "section": [
-        "Libraries",
-        "Crash monitoring"
-      ]
-    },
-    {
-      "key": "https://instabug.com",
-      "name": "Instabug",
-      "url": "https://instabug.com/",
-      "description": "Bug reporting, Crash Reporting, In-app Feedback.",
-      "section": [
-        "Libraries",
-        "Crash monitoring"
-      ]
-    },
-    {
-      "key": "https://github.com/koush/ion",
-      "name": "Ion",
-      "url": "https://github.com/koush/ion",
-      "description": "Good networking library for android.",
+      "key": "https://github.com/lysine-dev/retrofit",
+      "name": "Retrofit",
+      "url": "https://github.com/lysine-dev/retrofit",
+      "description": "Turns your REST API into a Java interface (continued project).",
       "section": [
         "Libraries",
         "Networking"
       ]
     },
     {
-      "key": "https://github.com/square/okhttp",
+      "key": "https://github.com/lysine-dev/okhttp",
       "name": "OkHttp",
-      "url": "https://github.com/square/okhttp",
-      "description": "An HTTP+SPDY client for Android and Java applications.",
+      "url": "https://github.com/lysine-dev/okhttp",
+      "description": "An HTTP+SPDY client for Android and Java applications (continued project).",
       "section": [
         "Libraries",
         "Networking"
       ]
     },
     {
-      "key": "https://github.com/stephanenicolas/robospice",
-      "name": "RoboSpice",
-      "url": "https://github.com/stephanenicolas/robospice",
-      "description": "Library that makes writing asynchronous network requests easy.",
+      "key": "https://github.com/ktorio/ktor",
+      "name": "Ktor Client",
+      "url": "https://github.com/ktorio/ktor",
+      "description": "Asynchronous HTTP client for Kotlin with multiplatform support.",
       "section": [
         "Libraries",
         "Networking"
       ]
     },
     {
-      "key": "https://github.com/anton46/IceNet",
-      "name": "IceNet",
-      "url": "https://github.com/anton46/IceNet",
-      "description": "Fast, Simple and Easy Networking for Android",
+      "key": "https://github.com/apollographql/apollo-kotlin",
+      "name": "Apollo Kotlin",
+      "url": "https://github.com/apollographql/apollo-kotlin",
+      "description": "Strongly-typed GraphQL client for Kotlin and Java.",
       "section": [
         "Libraries",
         "Networking"
       ]
     },
     {
-      "key": "https://developer.android.com/training/volley",
+      "key": "https://google.github.io/volley",
       "name": "Android Volley",
-      "url": "https://developer.android.com/training/volley/",
+      "url": "https://google.github.io/volley/",
       "description": "Official Android HTTP library that makes networking for easier and faster.",
-      "section": [
-        "Libraries",
-        "Networking"
-      ]
-    },
-    {
-      "key": "https://github.com/AlexGilleran/IceSoap",
-      "name": "IceSoap",
-      "url": "https://github.com/AlexGilleran/IceSoap",
-      "description": "Easy, asynchronous, annotation-based SOAP for Android.",
-      "section": [
-        "Libraries",
-        "Networking"
-      ]
-    },
-    {
-      "key": "https://github.com/InstantWebP2P/node-android",
-      "name": "node-android",
-      "url": "https://github.com/InstantWebP2P/node-android",
-      "description": "Run Node.js on Android.",
-      "section": [
-        "Libraries",
-        "Networking"
-      ]
-    },
-    {
-      "key": "https://github.com/qiniu/happy-dns-android",
-      "name": "HappyDns",
-      "url": "https://github.com/qiniu/happy-dns-android",
-      "description": "A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.",
-      "section": [
-        "Libraries",
-        "Networking"
-      ]
-    },
-    {
-      "key": "https://github.com/andrzejchm/RESTMock",
-      "name": "RESTMock",
-      "url": "https://github.com/andrzejchm/RESTMock",
-      "description": "HTTP Web server for mocking API responses in Android Instrumentation tests.",
       "section": [
         "Libraries",
         "Networking"
@@ -1405,20 +462,30 @@
       ]
     },
     {
-      "key": "https://github.com/orhanobut/logger",
-      "name": "logger",
-      "url": "https://github.com/orhanobut/logger",
-      "description": "Simple, pretty and powerful logger for android",
+      "key": "https://github.com/JakeWharton/timber",
+      "name": "timber",
+      "url": "https://github.com/JakeWharton/timber",
+      "description": "A logger with a small, extensible API which provides utility on top of Android's normal Log class.",
       "section": [
         "Libraries",
         "Logger"
       ]
     },
     {
-      "key": "https://github.com/JakeWharton/timber",
-      "name": "timber",
-      "url": "https://github.com/JakeWharton/timber",
-      "description": "A logger with a small, extensible API which provides utility on top of Android's normal Log class.",
+      "key": "https://github.com/touchlab/Kermit",
+      "name": "Kermit",
+      "url": "https://github.com/touchlab/Kermit",
+      "description": "Kotlin Multiplatform logging library with support for multiple platforms.",
+      "section": [
+        "Libraries",
+        "Logger"
+      ]
+    },
+    {
+      "key": "https://github.com/orhanobut/logger",
+      "name": "logger",
+      "url": "https://github.com/orhanobut/logger",
+      "description": "Simple, pretty and powerful logger for Android.",
       "section": [
         "Libraries",
         "Logger"
@@ -1435,26 +502,6 @@
       ]
     },
     {
-      "key": "https://github.com/bugfender/BugfenderSDK-android-sample",
-      "name": "Bugfender",
-      "url": "https://github.com/bugfender/BugfenderSDK-android-sample",
-      "description": "Upload your logs and check them online, specially made for mobile",
-      "section": [
-        "Libraries",
-        "Logger"
-      ]
-    },
-    {
-      "key": "https://github.com/afiqiqmal/EzyLogger",
-      "name": "EzyLogger",
-      "url": "https://github.com/afiqiqmal/EzyLogger",
-      "description": "Simple Lightweight logger",
-      "section": [
-        "Libraries",
-        "Logger"
-      ]
-    },
-    {
       "key": "https://github.com/tony19/logback-android",
       "name": "Logback Android",
       "url": "https://github.com/tony19/logback-android",
@@ -1465,40 +512,50 @@
       ]
     },
     {
-      "key": "https://log.dog",
-      "name": "LogDog",
-      "url": "https://log.dog",
-      "description": "LogDog is a remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them.",
+      "key": "https://developer.android.com/training/data-storage/room",
+      "name": "Room",
+      "url": "https://developer.android.com/training/data-storage/room",
+      "description": "Official SQLite object mapping library with compile-time verification of SQL queries.",
       "section": [
         "Libraries",
-        "Logger"
+        "Database"
       ]
     },
     {
-      "key": "https://github.com/kaiwinter/android-remote-notifications",
-      "name": "android-remote-notifications",
-      "url": "https://github.com/kaiwinter/android-remote-notifications",
-      "description": "Pulls notifications from a remote JSON file and shows them in your app.",
+      "key": "https://github.com/sqldelight/sqldelight",
+      "name": "SQLDelight",
+      "url": "https://github.com/sqldelight/sqldelight",
+      "description": "Generates typesafe Kotlin APIs from SQL statements with Kotlin Multiplatform support.",
       "section": [
         "Libraries",
-        "Notifications"
+        "Database"
       ]
     },
     {
-      "key": "https://github.com/joaopedronardari/AndroidHeartBeatFixer",
-      "name": "Android HeartBeat Fixer",
-      "url": "https://github.com/joaopedronardari/AndroidHeartBeatFixer",
-      "description": "Way to set heartbeat interval and users receive PushNotifications from GCM.",
+      "key": "https://github.com/objectbox/objectbox-java",
+      "name": "ObjectBox",
+      "url": "https://github.com/objectbox/objectbox-java",
+      "description": "Simple but powerful object database, optimized for performance & mobile.",
       "section": [
         "Libraries",
-        "Notifications"
+        "Database"
       ]
     },
     {
-      "key": "https://bitbucket.org/littlerobots/cupboard",
-      "name": "Cupboard",
-      "url": "https://bitbucket.org/littlerobots/cupboard",
-      "description": "Access the sqlite easily via direct database access or through the ContentProvider framework.",
+      "key": "https://github.com/requery/requery",
+      "name": "requery",
+      "url": "https://github.com/requery/requery",
+      "description": "Compile time ORM and SQL query library for Java & Android.",
+      "section": [
+        "Libraries",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/agrosner/DBFlow",
+      "name": "DBFlow",
+      "url": "https://github.com/agrosner/DBFlow",
+      "description": "Fast and powerful ORM with compile-time annotation processing.",
       "section": [
         "Libraries",
         "Database"
@@ -1515,179 +572,30 @@
       ]
     },
     {
-      "key": "https://github.com/jgilfelt/android-sqlite-asset-helper",
-      "name": "SQLite Asset Helper",
-      "url": "https://github.com/jgilfelt/android-sqlite-asset-helper",
-      "description": "manage database creation and version management using an application's raw asset files.",
-      "section": [
-        "Libraries",
-        "Database"
-      ]
-    },
-    {
-      "key": "https://github.com/realm/realm-java",
-      "name": "Realm",
-      "url": "https://github.com/realm/realm-java",
-      "description": "The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.",
-      "section": [
-        "Libraries",
-        "Database"
-      ]
-    },
-    {
-      "key": "https://github.com/eggheadgames/android-realm-asset-helper",
-      "name": "Realm Asset Helper",
-      "url": "https://github.com/eggheadgames/android-realm-asset-helper",
-      "description": "Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.",
-      "section": [
-        "Libraries",
-        "Database"
-      ]
-    },
-    {
-      "key": "https://github.com/yaa110/RestorableSQLiteDatabase",
-      "name": "RestorableSQLiteDatabase",
-      "url": "https://github.com/yaa110/RestorableSQLiteDatabase",
-      "description": "A wrapper to replicate android's SQLiteDatabase with restoring capability.",
-      "section": [
-        "Libraries",
-        "Database"
-      ]
-    },
-    {
-      "key": "https://github.com/dizitart/nitrite-database",
+      "key": "https://github.com/nitrite/nitrite-java",
       "name": "Nitrite Database",
-      "url": "https://github.com/dizitart/nitrite-database",
-      "description": "A NoSQL embedded document store for Android with MongoDb like API.",
+      "url": "https://github.com/nitrite/nitrite-java",
+      "description": "A NoSQL embedded document store for Android with MongoDB like API.",
       "section": [
         "Libraries",
         "Database"
       ]
     },
     {
-      "key": "https://github.com/requery/requery",
-      "name": "requery",
-      "url": "https://github.com/requery/requery",
-      "description": "Compile time ORM and SQL query library for Java & Android.",
+      "key": "https://developer.android.com/training/testing/espresso",
+      "name": "Espresso",
+      "url": "https://developer.android.com/training/testing/espresso",
+      "description": "Official Android UI testing framework for writing reliable UI tests.",
       "section": [
         "Libraries",
-        "Database",
-        "ORM"
+        "Testing"
       ]
     },
     {
-      "key": "https://greenrobot.org/greendao",
-      "name": "GreenDAO",
-      "url": "http://greenrobot.org/greendao/",
-      "description": "Light & fast ORM solution.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://ormlite.com/sqlite_java_android_orm.shtml",
-      "name": "ORMLite",
-      "url": "http://ormlite.com/sqlite_java_android_orm.shtml",
-      "description": "Lightweight ORM Java package for JDBC and Android.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://activeandroid.com",
-      "name": "ActiveAndroid",
-      "url": "http://www.activeandroid.com",
-      "description": "Active record style ORM.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://satyan.github.io/sugar",
-      "name": "Sugar ORM",
-      "url": "http://satyan.github.io/sugar/",
-      "description": "Insanely easy way to work with Android Databases.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://github.com/agrosner/DBFlow",
-      "name": "DBFlow",
-      "url": "https://github.com/agrosner/DBFlow",
-      "description": "Fast and powerful ORM with compile-time annotation processing.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://github.com/dkharrat/NexusData",
-      "name": "NexusData",
-      "url": "https://github.com/dkharrat/NexusData",
-      "description": "Object graph and persistence framework for Android.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://github.com/Jearil/SimpleNoSQL",
-      "name": "SimpleNoSQL",
-      "url": "https://github.com/Jearil/SimpleNoSQL",
-      "description": "A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://github.com/xmartlabs/RxSimpleNoSQL",
-      "name": "RxSimpleNoSQL",
-      "url": "https://github.com/xmartlabs/RxSimpleNoSQL",
-      "description": "Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.",
-      "section": [
-        "Libraries",
-        "Database",
-        "ORM"
-      ]
-    },
-    {
-      "key": "https://square.github.io/retrofit",
-      "name": "Retrofit",
-      "url": "https://square.github.io/retrofit/",
-      "description": "Retrofit turns your REST API into a Java interface.",
-      "section": [
-        "Libraries",
-        "REST"
-      ]
-    },
-    {
-      "key": "https://github.com/spring-projects/spring-android",
-      "name": "Spring for Android - Rest Template",
-      "url": "https://github.com/spring-projects/spring-android",
-      "description": "A Rest Client for Android.",
-      "section": [
-        "Libraries",
-        "REST"
-      ]
-    },
-    {
-      "key": "https://github.com/robotiumtech/robotium",
-      "name": "Robotium",
-      "url": "https://github.com/robotiumtech/robotium",
-      "description": "Test automation framework for black-box UI tests.",
+      "key": "https://github.com/android/android-test",
+      "name": "AndroidX Test",
+      "url": "https://github.com/android/android-test",
+      "description": "Testing libraries for Android including JUnit rules and Espresso APIs.",
       "section": [
         "Libraries",
         "Testing"
@@ -1696,7 +604,7 @@
     {
       "key": "https://robolectric.org",
       "name": "Roboletric",
-      "url": "http://robolectric.org/",
+      "url": "https://robolectric.org/",
       "description": "Unit test framework to run tests inside the JVM on your workstation, not in the emulator.",
       "section": [
         "Libraries",
@@ -1704,30 +612,90 @@
       ]
     },
     {
-      "key": "https://github.com/square/assertj-android",
-      "name": "AssertJ Android",
-      "url": "https://github.com/square/assertj-android",
-      "description": "AssertJ assertions geared towards Android.",
+      "key": "https://github.com/mockk/mockk",
+      "name": "MockK",
+      "url": "https://github.com/mockk/mockk",
+      "description": "Mocking library for Kotlin with natural syntax and comprehensive DSL.",
       "section": [
         "Libraries",
         "Testing"
       ]
     },
     {
-      "key": "https://github.com/mauriciotogneri/green-coffee",
-      "name": "Green Coffee",
-      "url": "https://github.com/mauriciotogneri/green-coffee",
-      "description": "Run your Cucumber tests in your Android instrumentation tests.",
+      "key": "https://github.com/cashapp/turbine",
+      "name": "Turbine",
+      "url": "https://github.com/cashapp/turbine",
+      "description": "Testing library for Kotlin Flows with simple and expressive assertions.",
       "section": [
         "Libraries",
         "Testing"
       ]
     },
     {
-      "key": "https://tune.com",
-      "name": "MobileAppTracking",
-      "url": "https://www.tune.com/",
-      "description": "Tracking your marketing campaigns across multiple ad networks.",
+      "key": "https://github.com/kotest/kotest",
+      "name": "Kotest",
+      "url": "https://github.com/kotest/kotest",
+      "description": "Flexible and comprehensive testing framework for Kotlin with multiple testing styles.",
+      "section": [
+        "Libraries",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/mobile-dev-inc/maestro",
+      "name": "Maestro",
+      "url": "https://github.com/mobile-dev-inc/maestro",
+      "description": "Mobile UI testing framework for end-to-end testing with simple YAML-based syntax.",
+      "section": [
+        "Libraries",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/cashapp/paparazzi",
+      "name": "Paparazzi",
+      "url": "https://github.com/cashapp/paparazzi",
+      "description": "Render Android screens as images for snapshot testing without a device or emulator.",
+      "section": [
+        "Libraries",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/takahirom/roborazzi",
+      "name": "Roborazzi",
+      "url": "https://github.com/takahirom/roborazzi",
+      "description": "Screenshot testing library for Android using Robolectric.",
+      "section": [
+        "Libraries",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/ghost-in-the-droid/android-agent",
+      "name": "Ghost in the Droid",
+      "url": "https://github.com/ghost-in-the-droid/android-agent",
+      "description": "Python MCP server for AI agent control of Android and iOS devices via ADB and WebDriverAgent.",
+      "section": [
+        "Libraries",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/KnifeLemon/Droidline",
+      "name": "Droidline",
+      "url": "https://github.com/KnifeLemon/Droidline",
+      "description": "Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.",
+      "section": [
+        "Libraries",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://countly.com",
+      "name": "Countly",
+      "url": "https://countly.com/",
+      "description": "Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.",
       "section": [
         "Libraries",
         "Tracking"
@@ -1737,127 +705,37 @@
       "key": "https://mixpanel.com",
       "name": "Mixpanel",
       "url": "https://mixpanel.com/",
-      "description": "Analytics platform to analyze the users.",
+      "description": "Analytics platform to analyze the users. Commercial",
       "section": [
         "Libraries",
         "Tracking"
       ]
     },
     {
-      "key": "https://count.ly",
-      "name": "Countly",
-      "url": "https://count.ly",
-      "description": "Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.",
-      "section": [
-        "Libraries",
-        "Tracking"
-      ]
-    },
-    {
-      "key": "https://clevertap.com",
-      "name": "CleverTap",
-      "url": "https://clevertap.com",
-      "description": "Analytics platform and user-engagement platform with 1 million free events",
-      "section": [
-        "Libraries",
-        "Tracking"
-      ]
-    },
-    {
-      "key": "https://github.com/jd-alexander/Google-Directions-Android",
-      "name": "Google-Directions-Android",
-      "url": "https://github.com/jd-alexander/Google-Directions-Android",
-      "description": "Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.",
+      "key": "https://github.com/googlemaps/android-maps-utils",
+      "name": "android-maps-utils",
+      "url": "https://github.com/googlemaps/android-maps-utils",
+      "description": "Utility library for Google Maps Android API with features like marker clustering and heat maps.",
       "section": [
         "Libraries",
         "Maps"
       ]
     },
     {
-      "key": "https://github.com/mg6maciej/android-maps-extensions",
-      "name": "Android Maps Extensions",
-      "url": "https://github.com/mg6maciej/android-maps-extensions",
-      "description": "Extending capabilities of Google Maps Android API v2, adding marker clustering among other things",
+      "key": "https://github.com/googlemaps/android-maps-compose",
+      "name": "Maps Compose",
+      "url": "https://github.com/googlemaps/android-maps-compose",
+      "description": "Jetpack Compose components for Google Maps.",
       "section": [
         "Libraries",
         "Maps"
-      ]
-    },
-    {
-      "key": "https://github.com/pengrad/MapScaleView",
-      "name": "MapScaleView",
-      "url": "https://github.com/pengrad/MapScaleView",
-      "description": "Scale bar for Google Maps Android API",
-      "section": [
-        "Libraries",
-        "Maps"
-      ]
-    },
-    {
-      "key": "https://globus.software",
-      "name": "GLMap",
-      "url": "https://globus.software",
-      "description": "Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.",
-      "section": [
-        "Libraries",
-        "Maps"
-      ]
-    },
-    {
-      "key": "https://github.com/afiqiqmal/SharedChamber",
-      "name": "Conceal SharedPreferences",
-      "url": "https://github.com/afiqiqmal/SharedChamber",
-      "description": "Secured Preferences using Facebook Secure Encryption called Conceal.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://greenrobot.github.io/EventBus",
-      "name": "EventBus",
-      "url": "http://greenrobot.github.io/EventBus/",
-      "description": "EventBus is a library that simplifies communication between different parts of your application.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/square/otto",
-      "name": "Otto",
-      "url": "https://github.com/square/otto",
-      "description": "Event Bus for Android.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/badoo/android-weak-handler",
-      "name": "Weak handler",
-      "url": "https://github.com/badoo/android-weak-handler",
-      "description": "Memory safer implementation of android.os.Handler.",
-      "section": [
-        "Libraries",
-        "Utility"
       ]
     },
     {
       "key": "https://bytebuddy.net",
       "name": "Byte Buddy",
-      "url": "http://bytebuddy.net",
+      "url": "https://bytebuddy.net",
       "description": "Runtime code generation library with support for Android.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/prashantsolanki3/Secure-Pref-Manager",
-      "name": "Secure Preference Manager",
-      "url": "https://github.com/prashantsolanki3/Secure-Pref-Manager",
-      "description": "Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.",
       "section": [
         "Libraries",
         "Utility"
@@ -1874,120 +752,20 @@
       ]
     },
     {
-      "key": "https://github.com/coshx/drekkar",
-      "name": "Drekkar",
-      "url": "https://github.com/coshx/drekkar",
-      "description": "An Android event bus for WebView and JS.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/sh4hin/Androl4b",
-      "name": "Androl4b",
-      "url": "https://github.com/sh4hin/Androl4b",
-      "description": "A vm for assessing android applications.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/andrzejchm/DroidMVP",
-      "name": "DroidMVP",
-      "url": "https://github.com/andrzejchm/DroidMVP",
-      "description": "Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/nisrulz/easydeviceinfo",
-      "name": "EasyDeviceInfo",
-      "url": "https://github.com/nisrulz/easydeviceinfo",
-      "description": "Get device information in a super easy way.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/levibostian/Shutter-Android",
-      "name": "Shutter-Android",
-      "url": "https://github.com/levibostian/Shutter-Android",
-      "description": "Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/anderscheow/Validator",
-      "name": "Validator",
-      "url": "https://github.com/anderscheow/Validator",
-      "description": "An utilities class to validate text inside TextInputLayout.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/viniciusmo/keyboard-visibility-event-android",
-      "name": "Keyboard Visibility Event",
-      "url": "https://github.com/viniciusmo/keyboard-visibility-event-android/",
-      "description": "A DSL to handle soft keyboard visibility change event.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/yashovardhan99/timeit",
-      "name": "TimeIt",
-      "url": "https://github.com/yashovardhan99/timeit",
-      "description": "A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
-      "key": "https://github.com/oky2abbas/reactor",
-      "name": "Reactor",
-      "url": "https://github.com/oky2abbas/reactor",
-      "description": "Reactor is a fast and secure key-value library for Android.",
-      "section": [
-        "Libraries",
-        "Utility"
-      ]
-    },
-    {
       "key": "https://github.com/pedrovgs/Lynx",
       "name": "Linx",
       "url": "https://github.com/pedrovgs/Lynx",
-      "description": "Show logcat inside the device for debug builds",
+      "description": "Show logcat inside the device for debug builds.",
       "section": [
         "Libraries",
         "Debugging Tools"
       ]
     },
     {
-      "key": "https://github.com/JakeWharton/scalpel",
-      "name": "Scalpel",
-      "url": "https://github.com/JakeWharton/scalpel",
-      "description": "View the entire hierarchy in 3d in the phone.",
-      "section": [
-        "Libraries",
-        "Debugging Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/facebook/stetho",
-      "name": "Stetho",
-      "url": "https://github.com/facebook/stetho",
-      "description": "Debug hierarchy and network from chrome.",
+      "key": "https://github.com/ChuckerTeam/chucker",
+      "name": "Chucker",
+      "url": "https://github.com/ChuckerTeam/chucker",
+      "description": "An HTTP inspector for Android & OkHTTP (like Charles but on device).",
       "section": [
         "Libraries",
         "Debugging Tools"
@@ -1997,7 +775,7 @@
       "key": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
       "name": "Android Debug Database",
       "url": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
-      "description": "Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.",
+      "description": "Powerful library for debugging databases and shared preferences in Android applications.",
       "section": [
         "Libraries",
         "Debugging Tools"
@@ -2007,7 +785,7 @@
       "key": "https://github.com/mzlogin/awesome-adb/blob/master/README.en.md",
       "name": "Android Debug Bridge - ADB",
       "url": "https://github.com/mzlogin/awesome-adb/blob/master/README.en.md",
-      "description": "a command-line tool to assist in debugging Android-powered devices",
+      "description": "A command-line tool to assist in debugging Android-powered devices.",
       "section": [
         "Libraries",
         "Debugging Tools"
@@ -2017,7 +795,17 @@
       "key": "https://github.com/ashishb/adb-enhanced",
       "name": "ADB Enhanced",
       "url": "https://github.com/ashishb/adb-enhanced",
-      "description": "a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands",
+      "description": "A command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands.",
+      "section": [
+        "Libraries",
+        "Debugging Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/elliotgao2/handsets",
+      "name": "handsets",
+      "url": "https://github.com/elliotgao2/handsets",
+      "description": "Android control CLI that drives devices over ADB with no APK required.",
       "section": [
         "Libraries",
         "Debugging Tools"
@@ -2027,290 +815,187 @@
       "key": "https://github.com/JakeWharton/pidcat",
       "name": "Pidcat",
       "url": "https://github.com/JakeWharton/pidcat",
-      "description": "a colored command-line ADB wrapper that only shows log entries for a specific application package",
+      "description": "A colored command-line ADB wrapper that only shows log entries for a specific application package.",
       "section": [
         "Libraries",
         "Debugging Tools"
       ]
     },
     {
-      "key": "https://appspector.com",
-      "name": "AppSpector",
-      "url": "https://appspector.com",
-      "description": "Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.",
-      "section": [
-        "Libraries",
-        "Debugging Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/movisens/SmartGattLib",
-      "name": "SmartGattLib",
-      "url": "https://github.com/movisens/SmartGattLib",
-      "description": "Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).",
+      "key": "https://github.com/JuulLabs/kable",
+      "name": "Kable",
+      "url": "https://github.com/JuulLabs/kable",
+      "description": "Kotlin Asynchronous Bluetooth Low Energy library for Android and other platforms.",
       "section": [
         "Libraries",
         "Wireless"
       ]
     },
     {
-      "key": "https://github.com/AppLozic/Applozic-Android-SDK",
-      "name": "Applozic Android Chat SDK",
-      "url": "https://github.com/AppLozic/Applozic-Android-SDK",
-      "description": "Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.",
+      "key": "https://github.com/NordicSemiconductor/Android-BLE-Library",
+      "name": "Nordic Android-BLE-Library",
+      "url": "https://github.com/NordicSemiconductor/Android-BLE-Library",
+      "description": "Android BLE library from Nordic Semiconductor for reliable BLE communication.",
       "section": [
         "Libraries",
-        "Chat & Messaging"
+        "Wireless"
       ]
     },
     {
-      "key": "https://github.com/qiscus/qiscus-sdk-android",
-      "name": "Qiscus SDK",
-      "url": "https://github.com/qiscus/qiscus-sdk-android",
-      "description": "Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.",
-      "section": [
-        "Libraries",
-        "Chat & Messaging"
-      ]
-    },
-    {
-      "key": "https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK",
-      "name": "Kommunicate Live Chat SDK",
-      "url": "https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK",
-      "description": "Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.",
-      "section": [
-        "Libraries",
-        "Chat & Messaging"
-      ]
-    },
-    {
-      "key": "https://github.com/cometchat-go/android-chat-sdk-demo",
-      "name": "CometChat Voice, Video and Text Chat SDK with UI",
-      "url": "https://github.com/cometchat-go/android-chat-sdk-demo",
-      "description": "Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.",
-      "section": [
-        "Libraries",
-        "Chat & Messaging"
-      ]
-    },
-    {
-      "key": "https://cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin",
-      "name": "Build a one-on-one Android chat app using Kotlin",
-      "url": "https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/",
-      "description": "Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.",
-      "section": [
-        "Libraries",
-        "Chat & Messaging"
-      ]
-    },
-    {
-      "key": "https://getstream.io/tutorials/android-chat",
+      "key": "https://getstream.io/chat/sdk/android/tutorial/compose",
       "name": "Stream Chat",
-      "url": "https://getstream.io/tutorials/android-chat/",
-      "description": "Comprehensive SDK & Components for real-time chat, powered by Stream.",
+      "url": "https://getstream.io/chat/sdk/android/tutorial/compose/",
+      "description": "Comprehensive SDK & Components for real-time chat, powered by Stream. Commercial",
       "section": [
         "Libraries",
         "Chat & Messaging"
       ]
     },
     {
-      "key": "https://cometchat.com/tutorials/android-chat-push-notifications",
-      "name": "Add Push Notifications to Your Android Chat App Using Kotlin",
-      "url": "https://www.cometchat.com/tutorials/android-chat-push-notifications/",
-      "description": "Add push notifications in your Android chat apps in Kotlin with the help of CometChat Pro and Firebase Cloud Messaging (FCM).",
-      "section": [
-        "Libraries",
-        "Chat & Messaging"
-      ]
-    },
-    {
-      "key": "https://github.com/alhazmy13/MediaRecorderDialog",
-      "name": "MediaRecorderDialog",
-      "url": "https://github.com/alhazmy13/MediaRecorderDialog",
-      "description": "Custom Dialog to record audio, store it and play it in your phone.",
-      "section": [
-        "Libraries",
-        "Chat & Messaging",
-        "Custom Dialog"
-      ]
-    },
-    {
-      "key": "https://github.com/alhazmy13/HijriDatePicker",
-      "name": "HijriDatePicker",
-      "url": "https://github.com/alhazmy13/HijriDatePicker",
-      "description": "offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.",
-      "section": [
-        "Libraries",
-        "Chat & Messaging",
-        "Custom Dialog"
-      ]
-    },
-    {
-      "key": "https://github.com/emre1512/Noty",
-      "name": "Noty",
-      "url": "https://github.com/emre1512/Noty",
-      "description": "A simple library for creating animated alerts/dialogs/warnings.",
-      "section": [
-        "Libraries",
-        "Chat & Messaging",
-        "Custom Dialog"
-      ]
-    },
-    {
-      "key": "https://github.com/javiersantos/AppUpdater",
-      "name": "AppUpdater",
-      "url": "https://github.com/javiersantos/AppUpdater",
-      "description": "comprehensive and feature rich library, including support for checks at Amazon and FDroid.",
-      "section": [
-        "Libraries",
-        "Version Checking"
-      ]
-    },
-    {
-      "key": "https://github.com/btkelly/gandalf",
-      "name": "Gandalf",
-      "url": "https://github.com/btkelly/gandalf",
-      "description": "comprehensive features and a \"companion\" iOS solution.",
-      "section": [
-        "Libraries",
-        "Version Checking"
-      ]
-    },
-    {
-      "key": "https://github.com/eggheadgames/Siren",
-      "name": "Siren",
-      "url": "https://github.com/eggheadgames/Siren",
-      "description": "focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.",
-      "section": [
-        "Libraries",
-        "Version Checking"
-      ]
-    },
-    {
-      "key": "https://github.com/KeithYokoma/Fit",
-      "name": "Fit",
-      "url": "https://github.com/KeithYokoma/Fit",
-      "description": "version checking callback framework with no UI.",
-      "section": [
-        "Libraries",
-        "Version Checking"
-      ]
-    },
-    {
-      "key": "https://github.com/JakeWharton/ThreeTenABP",
-      "name": "ThreeTen Android Backport",
-      "url": "https://github.com/JakeWharton/ThreeTenABP",
-      "description": "An adaptation of the JSR-310 backport for Android.",
+      "key": "https://github.com/Kotlin/kotlinx-datetime",
+      "name": "kotlinx-datetime",
+      "url": "https://github.com/Kotlin/kotlinx-datetime",
+      "description": "A multiplatform Kotlin library for working with date and time.",
       "section": [
         "Libraries",
         "Date & Time"
-      ]
-    },
-    {
-      "key": "https://github.com/dlew/joda-time-android",
-      "name": "Joda-Time Android",
-      "url": "https://github.com/dlew/joda-time-android",
-      "description": "Joda-Time library with Android specialization.",
-      "section": [
-        "Libraries",
-        "Date & Time"
-      ]
-    },
-    {
-      "key": "https://github.com/instacart/truetime-android",
-      "name": "True Time",
-      "url": "https://github.com/instacart/truetime-android",
-      "description": "Android NTP time library. Get the true current time impervious to device clock time changes.",
-      "section": [
-        "Libraries",
-        "Date & Time"
-      ]
-    },
-    {
-      "key": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
-      "name": "Permission Dispatcher",
-      "url": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
-      "description": "Simple annotation-based API to handle runtime permissions.",
-      "section": [
-        "Libraries",
-        "Runtime Permissions"
-      ]
-    },
-    {
-      "key": "https://github.com/tbruyelle/RxPermissions",
-      "name": "RxPermissions",
-      "url": "https://github.com/tbruyelle/RxPermissions",
-      "description": "Android runtime permissions powered by RxJava.",
-      "section": [
-        "Libraries",
-        "Runtime Permissions"
-      ]
-    },
-    {
-      "key": "https://github.com/NoNews/NoPermission",
-      "name": "NoPermission",
-      "url": "https://github.com/NoNews/NoPermission",
-      "description": "Simple Android library for permissions request. Consists of only one class.",
-      "section": [
-        "Libraries",
-        "Runtime Permissions"
-      ]
-    },
-    {
-      "key": "https://github.com/Kishanjvaghela/Ask-Permission",
-      "name": "Ask-Permission",
-      "url": "https://github.com/Kishanjvaghela/Ask-Permission",
-      "description": "Simple RunTime permission manager.",
-      "section": [
-        "Libraries",
-        "Runtime Permissions"
-      ]
-    },
-    {
-      "key": "https://github.com/alhazmy13/Gota",
-      "name": "Gota",
-      "url": "https://github.com/alhazmy13/Gota",
-      "description": "Simplifying Android Permissions.",
-      "section": [
-        "Libraries",
-        "Runtime Permissions"
-      ]
-    },
-    {
-      "key": "https://github.com/googlesamples/easypermissions",
-      "name": "EasyPermissions",
-      "url": "https://github.com/googlesamples/easypermissions",
-      "description": "EasyPermissions is a wrapper library to simplify basic system permissions logic when targeting Android M or higher.",
-      "section": [
-        "Libraries",
-        "Runtime Permissions"
       ]
     },
     {
       "key": "https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android",
       "name": "Square In-App Payments for Android",
       "url": "https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android",
-      "description": "Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.",
+      "description": "Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout. Commercial",
       "section": [
         "Libraries",
         "Payments"
       ]
     },
     {
-      "key": "https://github.com/cashapp/licensee",
-      "name": "Licensee",
-      "url": "https://github.com/cashapp/licensee",
-      "description": "Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!",
+      "key": "https://developer.android.com/google/play/billing",
+      "name": "Google Play Billing",
+      "url": "https://developer.android.com/google/play/billing",
+      "description": "Official library for in-app purchases and subscriptions on Google Play.",
+      "section": [
+        "Libraries",
+        "Google Play"
+      ]
+    },
+    {
+      "key": "https://developer.android.com/guide/playcore/in-app-updates",
+      "name": "In-App Updates",
+      "url": "https://developer.android.com/guide/playcore/in-app-updates",
+      "description": "Keep your app up to date with flexible and immediate in-app update flows.",
+      "section": [
+        "Libraries",
+        "Google Play"
+      ]
+    },
+    {
+      "key": "https://developer.android.com/guide/playcore/in-app-review",
+      "name": "In-App Review",
+      "url": "https://developer.android.com/guide/playcore/in-app-review",
+      "description": "Prompt users to submit Play Store ratings and reviews without leaving your app.",
+      "section": [
+        "Libraries",
+        "Google Play"
+      ]
+    },
+    {
+      "key": "https://github.com/detekt/detekt",
+      "name": "Detekt",
+      "url": "https://github.com/detekt/detekt",
+      "description": "Static code analysis tool for Kotlin with over 200 built-in rules.",
+      "section": [
+        "Libraries",
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://github.com/ktlint/ktlint",
+      "name": "ktlint",
+      "url": "https://github.com/ktlint/ktlint",
+      "description": "Anti-bikeshedding Kotlin linter with built-in formatter.",
+      "section": [
+        "Libraries",
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://github.com/diffplug/spotless",
+      "name": "Spotless",
+      "url": "https://github.com/diffplug/spotless",
+      "description": "Code formatter that supports multiple languages and can enforce consistent formatting in builds.",
+      "section": [
+        "Libraries",
+        "Code Quality"
+      ]
+    },
+    {
+      "key": "https://developer.android.com/jetpack/androidx",
+      "name": "AndroidX",
+      "url": "https://developer.android.com/jetpack/androidx",
+      "description": "The modern Android development toolkit that replaces the Android Support Library, providing backward-compatible versions of Android framework APIs.",
       "section": [
         "Libraries",
         "Other"
       ]
     },
     {
-      "key": "https://developer.android.com/topic/libraries/support-library",
-      "name": "Android Support library",
-      "url": "https://developer.android.com/topic/libraries/support-library/",
-      "description": "The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.",
+      "key": "https://github.com/Kotlin/kotlinx.coroutines",
+      "name": "Kotlin Coroutines",
+      "url": "https://github.com/Kotlin/kotlinx.coroutines",
+      "description": "Library for asynchronous programming with coroutines and Flow for reactive streams.",
+      "section": [
+        "Libraries",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://developer.android.com/topic/libraries/architecture/workmanager",
+      "name": "WorkManager",
+      "url": "https://developer.android.com/topic/libraries/architecture/workmanager",
+      "description": "Schedule deferrable and guaranteed background work with a flexible API.",
+      "section": [
+        "Libraries",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://developer.android.com/topic/libraries/architecture/paging/v3-overview",
+      "name": "Paging",
+      "url": "https://developer.android.com/topic/libraries/architecture/paging/v3-overview",
+      "description": "Load and display pages of data from a larger dataset with efficient memory usage.",
+      "section": [
+        "Libraries",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://developer.android.com/topic/libraries/architecture/datastore",
+      "name": "DataStore",
+      "url": "https://developer.android.com/topic/libraries/architecture/datastore",
+      "description": "Modern data storage solution using Kotlin coroutines and Flow to replace SharedPreferences.",
+      "section": [
+        "Libraries",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/arrow-kt/arrow",
+      "name": "Arrow",
+      "url": "https://github.com/arrow-kt/arrow",
+      "description": "Functional companion to Kotlin's Standard Library with typed functional programming support.",
+      "section": [
+        "Libraries",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://github.com/google/ksp",
+      "name": "KSP",
+      "url": "https://github.com/google/ksp",
+      "description": "Kotlin Symbol Processing API for writing lightweight compiler plugins with better performance than kapt.",
       "section": [
         "Libraries",
         "Other"
@@ -2327,10 +1012,20 @@
       ]
     },
     {
-      "key": "https://github.com/square/tape",
-      "name": "Tape",
-      "url": "https://github.com/square/tape",
-      "description": "A lightning fast, transactional, file-based FIFO for Android and Java.",
+      "key": "https://developers.google.com/ml-kit",
+      "name": "ML Kit",
+      "url": "https://developers.google.com/ml-kit",
+      "description": "Mobile SDK for machine learning tasks like barcode scanning, text recognition, and face detection.",
+      "section": [
+        "Libraries",
+        "Other"
+      ]
+    },
+    {
+      "key": "https://developers.google.com/ml-kit/vision/barcode-scanning/code-scanner",
+      "name": "Google Code Scanner",
+      "url": "https://developers.google.com/ml-kit/vision/barcode-scanning/code-scanner",
+      "description": "High-quality barcode scanning without requiring app permissions using Google Play Services.",
       "section": [
         "Libraries",
         "Other"
@@ -2347,70 +1042,10 @@
       ]
     },
     {
-      "key": "https://github.com/damonkohler/sl4a",
-      "name": "Android Scripting",
-      "url": "https://github.com/damonkohler/sl4a",
-      "description": "Allows to run scripting languages on Android.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/yigit/android-priority-jobqueue",
-      "name": "Android Priority Job Queue",
-      "url": "https://github.com/yigit/android-priority-jobqueue",
-      "description": "Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/nspo/RateMeMaybe",
-      "name": "RateMeMaybe",
-      "url": "https://github.com/nspo/RateMeMaybe",
-      "description": "Asks the user if (s)he wants to open the Play Store to rate your application.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/fernandodev/easy-rating-dialog",
-      "name": "Easy Rating Dialog",
-      "url": "https://github.com/fernandodev/easy-rating-dialog",
-      "description": "Lib provides a simple way to display an alert dialog for rating app.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/zxing/zxing",
-      "name": "ZXing Android-Integration",
-      "url": "https://github.com/zxing/zxing",
-      "description": "Integration with Barcode Scanner via Intent.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/evant/gradle-retrolambda",
-      "name": "Gradle Retrolambda Plugin",
-      "url": "https://github.com/evant/gradle-retrolambda",
-      "description": "Java 8 Lambdas on Android!",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
       "key": "https://github.com/ReactiveX/RxJava",
       "name": "RxJava",
       "url": "https://github.com/ReactiveX/RxJava",
-      "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+      "description": "Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
       "section": [
         "Libraries",
         "Other"
@@ -2427,26 +1062,6 @@
       ]
     },
     {
-      "key": "https://github.com/JakeWharton/RxBinding",
-      "name": "RxBinding",
-      "url": "https://github.com/JakeWharton/RxBinding",
-      "description": "RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/percolate/caffeine",
-      "name": "Caffeine",
-      "url": "https://github.com/percolate/caffeine",
-      "description": "A collection of utility classes that help make Android development faster.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
       "key": "https://github.com/mikepenz/AboutLibraries",
       "name": "AboutLibraries",
       "url": "https://github.com/mikepenz/AboutLibraries",
@@ -2457,120 +1072,20 @@
       ]
     },
     {
-      "key": "https://github.com/HugoMatilla/AudioPlayerView",
-      "name": "AudioPlayerView",
-      "url": "https://github.com/HugoMatilla/AudioPlayerView",
-      "description": "A view that loads audio from an url and have basic playback tools.",
+      "key": "https://github.com/Splitties/refreshVersions",
+      "name": "refreshVersions",
+      "url": "https://github.com/Splitties/refreshVersions",
+      "description": "A Kotlin dsl to simplify dependencies management.",
       "section": [
         "Libraries",
         "Other"
       ]
     },
     {
-      "key": "https://github.com/Jintin/andle",
-      "name": "andle",
-      "url": "https://github.com/Jintin/andle",
-      "description": "command line tool help you sync dependencies, sdk or build tool version.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/workarounds/typography",
-      "name": "Typography",
-      "url": "https://github.com/workarounds/typography",
-      "description": "An Android library that makes it easy to use custom fonts in views.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/chrisjenx/Calligraphy",
-      "name": "Calligraphy",
-      "url": "https://github.com/chrisjenx/Calligraphy",
-      "description": "Custom fonts in Android an OK way.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/Jintin/transai",
-      "name": "transai",
-      "url": "https://github.com/Jintin/transai",
-      "description": "command line tool help you manage localization string files.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/LeonardoCardoso/Android-Link-Preview",
-      "name": "Android-Link-Preview",
-      "url": "https://github.com/LeonardoCardoso/Android-Link-Preview",
-      "description": "It makes a preview from an url, grabbing all the information such as title, relevant texts and images.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/nisrulz/sensey",
-      "name": "Sensey",
-      "url": "https://github.com/nisrulz/sensey",
-      "description": "Detecting gestures in a snap.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/kevalpatel2106/UserAwareVideoView",
-      "name": "UserAwareVideoView",
-      "url": "https://github.com/kevalpatel2106/UserAwareVideoView",
-      "description": "A customized video view that will automatically pause video is user is not looking at device screen!",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/google/flexbox-layout",
-      "name": "Flexbox Layout",
-      "url": "https://github.com/google/flexbox-layout",
-      "description": "FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/xresco/Android-Agile-Boiler-Plate",
-      "name": "Agile Boiler Plate",
-      "url": "https://github.com/xresco/Android-Agile-Boiler-Plate",
-      "description": "The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/jmfayard/buildSrcVersions",
-      "name": "Gradle buildSrcVersions",
-      "url": "https://github.com/jmfayard/buildSrcVersions",
-      "description": "A kotlin dsl to simplify dependencies management",
-      "section": [
-        "Libraries",
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/levibostian/Teller-Android",
-      "name": "Teller",
-      "url": "https://github.com/levibostian/Teller-Android/",
-      "description": "Teller facilitates the downloading, saving, and reading of the cached data of your app. Keep your user's data fresh and remove those annoying loading screens!",
+      "key": "https://github.com/cashapp/licensee",
+      "name": "Licensee",
+      "url": "https://github.com/cashapp/licensee",
+      "description": "Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!",
       "section": [
         "Libraries",
         "Other"
@@ -2595,28 +1110,10 @@
       ]
     },
     {
-      "key": "https://youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF",
-      "name": "Android Design in Action Video series",
-      "url": "https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF",
-      "description": "The video series by Android Design Team of Google.",
-      "section": [
-        "Resources"
-      ]
-    },
-    {
-      "key": "https://youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0",
-      "name": "Android DevBytes Video Series",
-      "url": "https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0",
-      "description": "It is the technical counterpart of Android Design in Action series.",
-      "section": [
-        "Resources"
-      ]
-    },
-    {
-      "key": "https://medium.com/google-developers/developing-for-android-introduction-5345b451567c",
-      "name": "Developing for Android",
-      "url": "https://medium.com/google-developers/developing-for-android-introduction-5345b451567c",
-      "description": "A series of articles from Googler Chet Hasae and others, answering most commonly asked question: \"What are some of the important rules to keep in mind when developing Android applications?\".",
+      "key": "https://apilevels.com",
+      "name": "Android API Levels",
+      "url": "https://apilevels.com/",
+      "description": "A quick reference table of Android versions with SDK & API levels, version codes, codenames, cumulative usage, and more.",
       "section": [
         "Resources"
       ]
@@ -2634,7 +1131,7 @@
       "key": "https://androidweekly.net",
       "name": "Android Weekly",
       "url": "https://androidweekly.net",
-      "description": "Newsletter with weekly information about android.",
+      "description": "Newsletter with weekly information about Android.",
       "section": [
         "Resources"
       ]
@@ -2642,17 +1139,8 @@
     {
       "key": "https://romannurik.github.io/AndroidAssetStudio",
       "name": "Android Asset Studio",
-      "url": "http://romannurik.github.io/AndroidAssetStudio/",
+      "url": "https://romannurik.github.io/AndroidAssetStudio/",
       "description": "Generator for icons and other assets.",
-      "section": [
-        "Resources"
-      ]
-    },
-    {
-      "key": "https://jgilfelt.github.io/android-actionbarstylegenerator",
-      "name": "Android Action Bar Style Generator",
-      "url": "http://jgilfelt.github.io/android-actionbarstylegenerator/",
-      "description": ".",
       "section": [
         "Resources"
       ]
@@ -2667,15 +1155,6 @@
       ]
     },
     {
-      "key": "https://androiduiux.com/free-design-resources",
-      "name": "Android UI design resources",
-      "url": "https://androiduiux.com/free-design-resources/",
-      "description": "Gives you wide variety of design resources form a Google Developer Expert in UI/UX.",
-      "section": [
-        "Resources"
-      ]
-    },
-    {
       "key": "https://pencil.evolus.vn",
       "name": "Pencil Project",
       "url": "https://pencil.evolus.vn/",
@@ -2685,28 +1164,10 @@
       ]
     },
     {
-      "key": "https://youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh",
-      "name": "How to Make Android Apps",
-      "url": "https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh",
-      "description": "Video tutorials by Derek Banas.",
-      "section": [
-        "Resources"
-      ]
-    },
-    {
-      "key": "https://github.com/vbauer/android-blogs",
-      "name": "android-blogs",
-      "url": "https://github.com/vbauer/android-blogs",
-      "description": "List with blogs about Android.",
-      "section": [
-        "Resources"
-      ]
-    },
-    {
       "key": "https://futurestud.io/tutorials/tag/android",
       "name": "Future Studio",
       "url": "https://futurestud.io/tutorials/tag/android",
-      "description": "Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.",
+      "description": "Extensive Android tutorials on Retrofit, Glide & Gson.",
       "section": [
         "Resources"
       ]
@@ -2716,15 +1177,6 @@
       "name": "Android Tips & Tricks",
       "url": "https://github.com/nisrulz/android-tips-tricks",
       "description": "Cheatsheet about tips and tricks for Android Development.",
-      "section": [
-        "Resources"
-      ]
-    },
-    {
-      "key": "https://github.com/Amejia481/Associate-Android-Developer-Certification",
-      "name": "Associate Android Developer Certification Materials",
-      "url": "https://github.com/Amejia481/Associate-Android-Developer-Certification",
-      "description": "A collection of materials for getting ready for the test.",
       "section": [
         "Resources"
       ]
@@ -2757,59 +1209,48 @@
       ]
     },
     {
-      "key": "https://blog.canopas.com/tagged/canopas-android-weekly",
+      "key": "https://canopas.com/tagged/canopas-android-weekly",
       "name": "Android Stack Weekly",
-      "url": "https://blog.canopas.com/tagged/canopas-android-weekly",
+      "url": "https://canopas.com/tagged/canopas-android-weekly",
       "description": "A weekly newsletter on new development and updates of Android universe.",
       "section": [
         "Resources"
       ]
     },
     {
+      "key": "https://roadmap.sh/android",
+      "name": "Roadmap.sh Android Roadmap",
+      "url": "https://roadmap.sh/android",
+      "description": "Community-created Android developer roadmap.",
+      "section": [
+        "Resources"
+      ]
+    },
+    {
+      "key": "https://github.com/android/nowinandroid",
+      "name": "Now in Android",
+      "url": "https://github.com/android/nowinandroid",
+      "description": "Official sample app demonstrating modern Android development best practices.",
+      "section": [
+        "Resources",
+        "Code examples"
+      ]
+    },
+    {
+      "key": "https://github.com/android/compose-samples",
+      "name": "Compose Samples",
+      "url": "https://github.com/android/compose-samples",
+      "description": "Official sample apps showcasing Jetpack Compose UI toolkit.",
+      "section": [
+        "Resources",
+        "Code examples"
+      ]
+    },
+    {
       "key": "https://github.com/android/architecture-samples",
       "name": "Android Architecture Blueprints",
       "url": "https://github.com/android/architecture-samples",
-      "description": "The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.",
-      "section": [
-        "Resources",
-        "Code examples"
-      ]
-    },
-    {
-      "key": "https://github.com/emedinaa/kotlin-mvvm",
-      "name": "Kotlin MVVM example",
-      "url": "https://github.com/emedinaa/kotlin-mvvm",
-      "description": "Example about MVVM (Model View ViewModel) Pattern.",
-      "section": [
-        "Resources",
-        "Code examples"
-      ]
-    },
-    {
-      "key": "https://github.com/OmiSoftNet/AndroidViperTemplate",
-      "name": "Kotlin VIPER example",
-      "url": "https://github.com/OmiSoftNet/AndroidViperTemplate",
-      "description": "Example about VIPER (View Interactor Presenter Entity Router) Pattern.",
-      "section": [
-        "Resources",
-        "Code examples"
-      ]
-    },
-    {
-      "key": "https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial",
-      "name": "Complete-Google-Map-API-Tutorial",
-      "url": "https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial",
-      "description": "Learn How to use Google Map API for Android from Basic to Advance with complete examples.",
-      "section": [
-        "Resources",
-        "Code examples"
-      ]
-    },
-    {
-      "key": "https://github.com/VMadalin/kotlin-sample-app",
-      "name": "Android Modular Architecture",
-      "url": "https://github.com/VMadalin/kotlin-sample-app",
-      "description": "Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.",
+      "description": "The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common Android problems.",
       "section": [
         "Resources",
         "Code examples"
@@ -2819,7 +1260,7 @@
       "key": "https://fragmentedpodcast.com",
       "name": "Fragmented",
       "url": "https://fragmentedpodcast.com/",
-      "description": "is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.",
+      "description": "Is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.",
       "section": [
         "Resources",
         "Podcasts"
@@ -2828,8 +1269,8 @@
     {
       "key": "https://androidbackstage.blogspot.com",
       "name": "Android Developers Backstage",
-      "url": "http://androidbackstage.blogspot.com/",
-      "description": "is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.",
+      "url": "https://androidbackstage.blogspot.com/",
+      "description": "Is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.",
       "section": [
         "Resources",
         "Podcasts"
@@ -2839,17 +1280,7 @@
       "key": "https://youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed",
       "name": "Android Dialogs",
       "url": "https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed",
-      "description": "is a video based podcast, where they have bite-sized conversations with people from the Android community.",
-      "section": [
-        "Resources",
-        "Podcasts"
-      ]
-    },
-    {
-      "key": "https://github.com/artem-zinnatullin/TheContext-Podcast",
-      "name": "The Context",
-      "url": "https://github.com/artem-zinnatullin/TheContext-Podcast",
-      "description": "a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!",
+      "description": "Is a video based podcast, where they have bite-sized conversations with people from the Android community.",
       "section": [
         "Resources",
         "Podcasts"
@@ -2869,30 +1300,10 @@
       "key": "https://androidauthority.com/podcast",
       "name": "Android Authority",
       "url": "https://www.androidauthority.com/podcast/",
-      "description": "is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.",
+      "description": "Is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.",
       "section": [
         "Resources",
         "Podcasts"
-      ]
-    },
-    {
-      "key": "https://androidcentral.com/podcast",
-      "name": "Android Central",
-      "url": "https://www.androidcentral.com/podcast",
-      "description": "is a weekly Android podcast hosted by the Android Central team.",
-      "section": [
-        "Resources",
-        "Podcasts"
-      ]
-    },
-    {
-      "key": "https://android-arsenal.com",
-      "name": "The Android Arsenal",
-      "url": "https://android-arsenal.com/",
-      "description": "Large list of android libraries",
-      "section": [
-        "Resources",
-        "More lists of libraries"
       ]
     },
     {
@@ -2926,53 +1337,43 @@
       ]
     },
     {
-      "key": "https://visualstudio.microsoft.com/xamarin",
-      "name": "Xamarin",
-      "url": "https://visualstudio.microsoft.com/xamarin/",
-      "description": "Framework to create native iOS, Android, Mac and Windows apps in C#.",
+      "key": "https://flutter.dev",
+      "name": "Flutter",
+      "url": "https://flutter.dev/",
+      "description": "Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.",
       "section": [
         "Development Alternatives",
-        "C#"
+        "Cross-Platform"
       ]
     },
     {
-      "key": "https://phonegap.com",
-      "name": "PhoneGap",
-      "url": "https://phonegap.com",
-      "description": "Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.",
+      "key": "https://github.com/react/react-native",
+      "name": "React Native",
+      "url": "https://github.com/react/react-native",
+      "description": "A framework for building native apps with React.",
       "section": [
         "Development Alternatives",
-        "HTML, CSS and Javascript"
+        "Cross-Platform"
       ]
     },
     {
-      "key": "https://appcelerator.com/mobile-app-development-products",
-      "name": "Titanium",
-      "url": "http://www.appcelerator.com/mobile-app-development-products/",
-      "description": "Open-source framework to create 'native' cross platform apps using JavaScript.",
+      "key": "https://github.com/dotnet/maui",
+      "name": ".NET MAUI",
+      "url": "https://github.com/dotnet/maui",
+      "description": ".NET Multi-platform App UI, the evolution of Xamarin.Forms, for building native cross-platform apps with .NET and C#.",
       "section": [
         "Development Alternatives",
-        "HTML, CSS and Javascript"
+        "Cross-Platform"
       ]
     },
     {
       "key": "https://nativescript.org",
       "name": "NativeScript",
-      "url": "https://www.nativescript.org/",
+      "url": "https://nativescript.org/",
       "description": "An open-source framework to build native iOS and Android apps with JavaScript from a single code base.",
       "section": [
         "Development Alternatives",
-        "HTML, CSS and Javascript"
-      ]
-    },
-    {
-      "key": "https://github.com/facebook/react-native",
-      "name": "React Native",
-      "url": "https://github.com/facebook/react-native",
-      "description": "A framework for building native apps with React by Facebook.",
-      "section": [
-        "Development Alternatives",
-        "HTML, CSS and Javascript"
+        "Cross-Platform"
       ]
     },
     {
@@ -2982,7 +1383,7 @@
       "description": "A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.",
       "section": [
         "Development Alternatives",
-        "HTML, CSS and Javascript"
+        "Cross-Platform"
       ]
     },
     {
@@ -2992,7 +1393,7 @@
       "description": "Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.",
       "section": [
         "Development Alternatives",
-        "HTML, CSS and Javascript"
+        "Cross-Platform"
       ]
     },
     {
@@ -3002,182 +1403,114 @@
       "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.",
       "section": [
         "Development Alternatives",
-        "HTML, CSS and Javascript"
+        "Cross-Platform"
       ]
     },
     {
-      "key": "https://coronalabs.com/product",
-      "name": "Corona SDK",
-      "url": "https://coronalabs.com/product/",
-      "description": "Framework to create native iOS and Android Apps (especially Games).",
+      "key": "https://github.com/coronalabs/corona",
+      "name": "Solar2D",
+      "url": "https://github.com/coronalabs/corona",
+      "description": "Cross-platform framework for creating 2D games and apps (formerly Corona SDK).",
       "section": [
         "Development Alternatives",
-        "Lua"
+        "Cross-Platform"
       ]
     },
     {
-      "key": "https://github.com/pocorall/scaloid",
-      "name": "Scaloid",
-      "url": "https://github.com/pocorall/scaloid",
-      "description": "Library for less painful Android development with Scala.",
+      "key": "https://github.com/beeware/toga",
+      "name": "BeeWare",
+      "url": "https://github.com/beeware/toga",
+      "description": "Write native Android apps in Python using Toga and Briefcase.",
       "section": [
         "Development Alternatives",
-        "Scala"
+        "Cross-Platform"
       ]
     },
     {
-      "key": "https://github.com/47deg/macroid",
-      "name": "Macroid",
-      "url": "https://github.com/47deg/macroid",
-      "description": "A modular functional UI language for Android.",
+      "key": "https://github.com/flet-dev/flet",
+      "name": "Flet",
+      "url": "https://github.com/flet-dev/flet",
+      "description": "Build Flutter apps using Python.",
       "section": [
         "Development Alternatives",
-        "Scala"
+        "Cross-Platform"
       ]
     },
     {
-      "key": "https://melix.github.io/blog/2014/06/grooid.html",
-      "name": "Groovy on Android",
-      "url": "http://melix.github.io/blog/2014/06/grooid.html",
-      "description": "Introduction to Groovy on Android.",
+      "key": "https://github.com/kivy/kivy",
+      "name": "Kivy",
+      "url": "https://github.com/kivy/kivy",
+      "description": "Open source Python framework for Android apps, packaged with Buildozer.",
       "section": [
         "Development Alternatives",
-        "Groovy"
+        "Cross-Platform"
       ]
     },
     {
-      "key": "https://github.com/groovy/groovy-android-gradle-plugin",
-      "name": "Groovy Language Support for Android",
-      "url": "https://github.com/groovy/groovy-android-gradle-plugin",
-      "description": "Gradle Plugin for Compiling Groovy for Android.",
+      "key": "https://github.com/JetBrains/compose-multiplatform",
+      "name": "Compose Multiplatform",
+      "url": "https://github.com/JetBrains/compose-multiplatform",
+      "description": "Jetpack Compose for iOS, Desktop, and Web built on Kotlin Multiplatform.",
       "section": [
         "Development Alternatives",
-        "Groovy"
+        "Kotlin Multiplatform"
       ]
     },
     {
-      "key": "https://github.com/Arasthel/SwissKnife",
-      "name": "SwissKnife",
-      "url": "https://github.com/Arasthel/SwissKnife",
-      "description": "A multi-purpose Groovy library containing view injection and threading for Android using annotations.",
+      "key": "https://github.com/Tencent-TDS/KuiklyUI",
+      "name": "KuiklyUI",
+      "url": "https://github.com/Tencent-TDS/KuiklyUI",
+      "description": "Kotlin Multiplatform UI framework supporting Android, iOS, and other platforms.",
       "section": [
         "Development Alternatives",
-        "Groovy"
+        "Kotlin Multiplatform"
       ]
     },
     {
-      "key": "https://github.com/Kotlin/anko",
-      "name": "Anko",
-      "url": "https://github.com/Kotlin/anko",
-      "description": "DSL for Android written in Kotlin by JetBrains.",
-      "section": [
-        "Development Alternatives",
-        "Kotlin"
-      ]
-    },
-    {
-      "key": "https://github.com/JakeWharton/kotterknife",
-      "name": "Kotterknife",
-      "url": "https://github.com/JakeWharton/kotterknife",
-      "description": "Android view injection written in Kotlin based on ButterKnife",
-      "section": [
-        "Development Alternatives",
-        "Kotlin"
-      ]
-    },
-    {
-      "key": "https://github.com/irontec/android-kotlin-samples",
-      "name": "Android Kotlin Samples",
-      "url": "https://github.com/irontec/android-kotlin-samples",
-      "description": "Some basic Android code samples written in Kotlin.",
-      "section": [
-        "Development Alternatives",
-        "Kotlin"
-      ]
-    },
-    {
-      "key": "https://github.com/igorwojda/kotlin-coding-puzzle",
-      "name": "Kotlin coding puzzles",
-      "url": "https://github.com/igorwojda/kotlin-coding-puzzle",
+      "key": "https://github.com/igorwojda/kotlin-coding-challenges",
+      "name": "Kotlin coding challenges",
+      "url": "https://github.com/igorwojda/kotlin-coding-challenges",
       "description": "Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.",
       "section": [
         "Development Alternatives",
-        "Kotlin"
+        "Kotlin Multiplatform"
       ]
     },
     {
-      "key": "https://github.com/pawegio/KAndroid",
-      "name": "KAndroid",
-      "url": "https://github.com/pawegio/KAndroid",
-      "description": "Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.",
+      "key": "https://developer.android.com/topic/performance/app-optimization/enable-app-optimization",
+      "name": "R8",
+      "url": "https://developer.android.com/topic/performance/app-optimization/enable-app-optimization",
+      "description": "Default code shrinker and optimizer for Android apps.",
       "section": [
-        "Development Alternatives",
-        "Kotlin"
+        "Build & Performance"
       ]
     },
     {
-      "key": "https://github.com/RxKotlin/Pocket",
-      "name": "RxKotlin/Pocket",
-      "url": "https://github.com/RxKotlin/Pocket",
-      "description": "This app help user to save links easily, and can export to Evernote as weekly.",
+      "key": "https://guardsquare.com/proguard",
+      "name": "ProGuard",
+      "url": "https://www.guardsquare.com/proguard",
+      "description": "Open-source Java bytecode optimizer and shrinker for Android apps.",
       "section": [
-        "Development Alternatives",
-        "Kotlin"
+        "Build & Performance"
       ]
     },
     {
-      "key": "https://github.com/patrickyin/clean-architecture-android-kotlin",
-      "name": "Android Clean Architecture - Kotlin",
-      "url": "https://github.com/patrickyin/clean-architecture-android-kotlin",
-      "description": "A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.",
+      "key": "https://playground.proguard.com",
+      "name": "ProGuard Playground",
+      "url": "https://playground.proguard.com/",
+      "description": "Interactive online tool for visualizing and testing ProGuard and R8 keep rules.",
       "section": [
-        "Development Alternatives",
-        "Kotlin"
+        "Build & Performance"
       ]
-    },
-    {
-      "key": "https://insert-koin.io",
-      "name": "Koin",
-      "url": "https://insert-koin.io/",
-      "description": "Lightweight dependency injection framework for Kotlin",
-      "section": [
-        "Development Alternatives",
-        "Kotlin"
-      ]
-    },
-    {
-      "key": "https://github.com/bodenberg/appdimens",
-      "name": "AppDimens",
-      "url": "https://github.com/bodenberg/appdimens",
-      "description": "Smart Responsive Dimensions for Any Screen (FX, DY, DP, SP, Logarithmic)",
-      "section": [
-        "Development Alternatives",
-        "Kotlin"
-      ]
-    },
-    {
-      "key": "https://flutter.dev",
-      "name": "Flutter",
-      "url": "https://flutter.dev/",
-      "description": "Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.",
-      "section": [
-        "Development Alternatives",
-        "Flutter"
-      ]
-    },
-    {
-      "key": "https://github.com/Juude/awesome-android-performance",
-      "name": "awesome-android-performance",
-      "url": "https://github.com/Juude/awesome-android-performance",
-      "description": "A list of awesome Android tutorials, videos and tools for performance optimization.",
-      "section": []
     },
     {
       "key": "https://github.com/didi/booster",
       "name": "Booster",
       "url": "https://github.com/didi/booster",
-      "description": "Booster is an optimization toolkit for Android applications.",
-      "section": []
+      "description": "An optimization toolkit for Android applications.",
+      "section": [
+        "Build & Performance"
+      ]
     }
   ]
 }

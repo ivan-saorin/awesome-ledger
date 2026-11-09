@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8b2d89bcff737bb49ae3944d2b57c8877ad027de842434297cfad7e7e31b8cb3\"",
+  "etag": "W/\"3a839fbe254129dc3e996b5adaceaae856adf8bc091776ffe34ba0a1a7d06af2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1111,6 +1111,15 @@
       ]
     },
     {
+      "key": "https://github.com/georgesmomo/tech-to-motion",
+      "name": "tech-to-motion",
+      "url": "https://github.com/georgesmomo/tech-to-motion",
+      "description": "Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/tech-to-motion). Turns a docker-compose, Kubernetes manifests, Terraform, a CI workflow or a postmortem into a motion-design explainer video with animated architecture diagrams and synthesised sound, rendered locally with HyperFrames.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1852,7 +1861,7 @@
       "key": "https://teamorouter.cn",
       "name": "TeamoRouter",
       "url": "https://teamorouter.cn?utm_source=awesome-gemini-cli&utm_medium=referral",
-      "description": "Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly. Free permanent DeepSeek tiers (V4 Pro 200 req/day, V4 Flash 50 req/day, 1M ctx).",
+      "description": "Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly.",
       "section": [
         "API Bridges & Proxies"
       ]
@@ -2114,6 +2123,15 @@
       "name": "AISO Tools MCP",
       "url": "https://aisotools.com/mcp?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Query a catalog of 1,636 AI tools from the CLI: keyword/category/pricing search, side-by-side comparison, and alternatives lookup, with a canonical citation URL on every result. Remote Streamable HTTP, no API key. Works with any MCP client including Gemini CLI: gemini mcp add --transport http aisotools https://aisotools.com/api/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://kaijuconverter.com/api/mcp",
+      "name": "KaijuConverter MCP",
+      "url": "https://kaijuconverter.com/api/mcp",
+      "description": "Remote Model Context Protocol server enabling AI agents to convert files and datasets across 100+ formats (documents, images, audio, video). Works with Gemini CLI: gemini mcp add --transport http kaiju https://kaijuconverter.com/api/mcp.",
       "section": [
         "MCP Servers"
       ]
@@ -2816,6 +2834,24 @@
       "name": "gemini-pro-mcp",
       "url": "https://github.com/Muzaqil555/gemini-pro-mcp",
       "description": "MCP server that brings a Google AI Pro subscription to Gemini CLI, Claude Code, Codex and the Antigravity CLI: Gemini through the Antigravity CLI on the plan's limits (no API bill), Deep Research, Google Flow videos of any length, Gemini Notebooks (Audio Overviews), AI Mode and Jules, plus Nano Banana images and Omni Flash video through the Gemini API. gemini-pro-mcp setup registers it with Gemini CLI and the other clients in one command, and doctor checks what works. MIT. Install: uvx --from git+https://github.com/Muzaqil555/gemini-pro-mcp gemini-pro-mcp setup.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/freeman14/shotboard-mcp",
+      "name": "Shotboard",
+      "url": "https://github.com/freeman14/shotboard-mcp",
+      "description": "Local MCP server built into Shotboard, a closed-source Mac app for marketing content, plus a Gemini CLI extension manifest. Lets Gemini CLI search Meta and TikTok ads, extract scripts from links, and generate images, video and audio with 100 media models while the app is open. Connect with gemini mcp add --transport http -s user --trust shotboard http://127.0.0.1:4317/mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://datacircle.dev",
+      "name": "Datacircle",
+      "url": "https://datacircle.dev",
+      "description": "Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.",
       "section": [
         "MCP Servers"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fbf8ac2a509feb0551fe779d90dee5a0f04b4c16dcada872468b46e227b0f689\"",
+  "etag": "W/\"cd46abc19a5176bbdc4114dfafbedc9773dfb34e53edf1309de87e54950aa5c1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4289,6 +4289,15 @@
       "name": "iago-lito/bufmarks.nvim",
       "url": "https://codeberg.org/iago-lito/bufmarks.nvim",
       "description": "Navigation method inspired from Harpoon, but indexing buffers with \"mark\"-like keys instead of an ordered list.",
+      "section": [
+        "Buffers"
+      ]
+    },
+    {
+      "key": "https://github.com/tiagovla/scope.nvim",
+      "name": "tiagovla/scope.nvim",
+      "url": "https://github.com/tiagovla/scope.nvim",
+      "description": "Scope buffers to individual tabs while keeping native buffer navigation commands.",
       "section": [
         "Buffers"
       ]
@@ -9370,6 +9379,15 @@
       "name": "mm4cN/nvim-conan",
       "url": "https://github.com/mm4cN/nvim-conan",
       "description": "Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.",
+      "section": [
+        "Dependency Management"
+      ]
+    },
+    {
+      "key": "https://github.com/alessandropietrobelli/nuget.nvim",
+      "name": "alessandropietrobelli/nuget.nvim",
+      "url": "https://github.com/alessandropietrobelli/nuget.nvim",
+      "description": "NuGet package manager for .NET solutions.",
       "section": [
         "Dependency Management"
       ]

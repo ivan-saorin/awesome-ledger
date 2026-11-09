@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"23c6b498d7d4aea7691e64726bcb9451564d5e91cc33e3a78d080fe179992287\"",
+  "etag": "W/\"18e3fb9c672727474338f9209a87e5684fd822b4996b498dbf4dc822eb2f8593\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -117,6 +117,16 @@
       ]
     },
     {
+      "key": "https://meetmagentobrasil.org",
+      "name": "Meet Magento Brazil",
+      "url": "https://meetmagentobrasil.org/",
+      "description": "Meet Magento event series — Brazil.",
+      "section": [
+        "Events: Meet the community",
+        "Meet Magento"
+      ]
+    },
+    {
       "key": "https://ro.meet-magento.com",
       "name": "Meet Magento Romania",
       "url": "https://ro.meet-magento.com/",
@@ -131,16 +141,6 @@
       "name": "Meet Magento Baltics",
       "url": "https://meetmagentobaltics.com/",
       "description": "Meet Magento event series — Baltics.",
-      "section": [
-        "Events: Meet the community",
-        "Meet Magento"
-      ]
-    },
-    {
-      "key": "https://meetmagentobrasil.org",
-      "name": "Meet Magento Brazil",
-      "url": "https://meetmagentobrasil.org/",
-      "description": "Meet Magento event series — Brazil.",
       "section": [
         "Events: Meet the community",
         "Meet Magento"
@@ -533,16 +533,6 @@
       ]
     },
     {
-      "key": "https://github.com/run-as-root/magento2-prometheus-exporter",
-      "name": "Magento 2 Prometheus Exporter",
-      "url": "https://github.com/run-as-root/magento2-prometheus-exporter",
-      "description": "🫡 - Prometheus Exporter for common Magento data.",
-      "section": [
-        "Open Source Extensions",
-        "Development Utilities"
-      ]
-    },
-    {
       "key": "https://github.com/yireo/Yireo_LokiComponents",
       "name": "Yireo LokiComponents",
       "url": "https://github.com/yireo/Yireo_LokiComponents",
@@ -597,6 +587,16 @@
       "name": "Cypress Testing Suite",
       "url": "https://github.com/elgentos/magento2-cypress-testing-suite/",
       "description": "A community-driven Cypress testing suite for Magento 2.",
+      "section": [
+        "Open Source Extensions",
+        "Development Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/run-as-root/magento2-prometheus-exporter",
+      "name": "Magento 2 Prometheus Exporter",
+      "url": "https://github.com/run-as-root/magento2-prometheus-exporter",
+      "description": "Prometheus Exporter for common Magento data.",
       "section": [
         "Open Source Extensions",
         "Development Utilities"
@@ -1103,16 +1103,6 @@
       ]
     },
     {
-      "key": "https://github.com/magenizr/Magenizr_ResetUiBookmarks",
-      "name": "Reset UI Bookmarks",
-      "url": "https://github.com/magenizr/Magenizr_ResetUiBookmarks",
-      "description": "🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).",
-      "section": [
-        "Open Source Extensions",
-        "Adminhtml / Backend"
-      ]
-    },
-    {
       "key": "https://github.com/magepal/magento2-gmail-smtp-app",
       "name": "Custom SMTP",
       "url": "https://github.com/magepal/magento2-gmail-smtp-app",
@@ -1187,6 +1177,16 @@
       "name": "Guest to Customer",
       "url": "https://github.com/magepal/magento2-guest-to-customer",
       "description": "Quickly and easily convert existing guest checkout customers to registered customers.",
+      "section": [
+        "Open Source Extensions",
+        "Adminhtml / Backend"
+      ]
+    },
+    {
+      "key": "https://github.com/magenizr/Magenizr_ResetUiBookmarks",
+      "name": "Reset UI Bookmarks",
+      "url": "https://github.com/magenizr/Magenizr_ResetUiBookmarks",
+      "description": "Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).",
       "section": [
         "Open Source Extensions",
         "Adminhtml / Backend"
@@ -1453,16 +1453,6 @@
       ]
     },
     {
-      "key": "https://classyllama.com/blog",
-      "name": "Classy Llama",
-      "url": "https://www.classyllama.com/blog",
-      "description": "🫡 - Magento agency blog.",
-      "section": [
-        "Blogs",
-        "Company Blogs"
-      ]
-    },
-    {
       "key": "https://firebearstudio.com/blog",
       "name": "FireBear Studio",
       "url": "https://firebearstudio.com/blog",
@@ -1487,6 +1477,16 @@
       "name": "M.academy",
       "url": "https://m.academy/blog/",
       "description": "🫡 - Blog from the M.academy team.",
+      "section": [
+        "Blogs",
+        "Company Blogs"
+      ]
+    },
+    {
+      "key": "https://classyllama.com/blog",
+      "name": "Classy Llama",
+      "url": "https://www.classyllama.com/blog",
+      "description": "Magento agency blog.",
       "section": [
         "Blogs",
         "Company Blogs"
@@ -1986,6 +1986,15 @@
       ]
     },
     {
+      "key": "https://amasty.com",
+      "name": "Sergej Derzap",
+      "url": "https://amasty.com",
+      "description": "Treasurer of the Magento Association; CEO and CPO of Amasty, one of the largest Magento 2 extension vendors; 18+ years in the ecosystem.",
+      "section": [
+        "Influencing People"
+      ]
+    },
+    {
       "key": "https://mage2.tv",
       "name": "Vinai Kopp",
       "url": "https://mage2.tv/",
@@ -2035,15 +2044,6 @@
       "name": "Noah Oken-Berg",
       "url": "https://www.abovethefray.com",
       "description": "Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.",
-      "section": [
-        "Influencing People"
-      ]
-    },
-    {
-      "key": "https://amasty.com",
-      "name": "Sergej Derzap",
-      "url": "https://amasty.com",
-      "description": "Treasurer of the Magento Association; CEO and CPO of Amasty, one of the largest Magento 2 extension vendors; 18+ years in the ecosystem.",
       "section": [
         "Influencing People"
       ]

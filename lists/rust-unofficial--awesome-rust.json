@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"aca1fc79a64b4e8d56aa26c995600be7bdf6c78cc6e6778003b0fc84ea07c2a3\"",
+  "etag": "W/\"f77915d3ac33b6750eb63b7c7a7054b07542a7bec39d32c0a86f9aa654eb7391\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1742,6 +1742,16 @@
       "name": "microsoft/pg_durable",
       "url": "https://github.com/microsoft/pg_durable",
       "description": "Durable execution inside PostgreSQL. Long-running, fault-tolerant SQL functions with automatic checkpointing, crash recovery, and parallel execution. Zero infrastructure - runs as a PostgreSQL extension built with pgrx and Rust.",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/ModernRelay/omnigraph",
+      "name": "ModernRelay/omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Typed property graph database that stores graphs on object storage (S3-compatible or local disk) in the Lance format, with Git-style branches and merges, schemas enforced on every write, and graph traversal, vector search and full-text search in one query.",
       "section": [
         "Applications",
         "Database"
@@ -3842,16 +3852,6 @@
       "name": "futuregene/future-os",
       "url": "https://github.com/futuregene/future-os",
       "description": "One AI agent everywhere: a single Rust gRPC backend drives a terminal UI, desktop app, mobile apps, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, and a loop control plane for 24h+ runs.",
-      "section": [
-        "Applications",
-        "Productivity"
-      ]
-    },
-    {
-      "key": "https://github.com/gal064/muxflow",
-      "name": "gal064/muxflow",
-      "url": "https://github.com/gal064/muxflow",
-      "description": "Remote-first tmux IDE for coding agents (Claude Code, Codex, pi), with sessions that stay in tmux on local or SSH hosts, agent notifications on desktop and Android, screenshot paste over SSH, and files, Git and ports panels",
       "section": [
         "Applications",
         "Productivity"
@@ -7192,16 +7192,6 @@
       "name": "Stoatchat",
       "url": "https://github.com/stoatchat/stoatchat",
       "description": "User-first chat platform built with modern web technologies.",
-      "section": [
-        "Applications",
-        "Web"
-      ]
-    },
-    {
-      "key": "https://github.com/emircanagac/voxpery",
-      "name": "Voxpery",
-      "url": "https://github.com/emircanagac/voxpery",
-      "description": "Open-source, self-hostable chat, voice, video, and screen-sharing platform built with Axum and Tauri.",
       "section": [
         "Applications",
         "Web"

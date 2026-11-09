@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"eefa8e6182abda2c129cf20c8940d06aa33bd933ea601ea174c80bdb995d732d\"",
+  "etag": "W/\"346c9c49a21ad9587a11b005938fcbfd610461078c7370a701b7a3761a947e16\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2601,6 +2601,15 @@
       "name": "cwebp",
       "url": "https://github.com/adi-li/zsh-cwebpb",
       "description": "Converts common image formats (JPG, PNG, GIF, BMP, TIFF) to WebP format using Google's cwebp tool in batch mode.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/8starlabs/cue",
+      "name": "Cue",
+      "url": "https://github.com/8starlabs/cue",
+      "description": "Adds IDE-style command, option, and path suggestions to ZSH in a native macOS popup.",
       "section": [
         "Plugins"
       ]
@@ -5850,6 +5859,15 @@
       "name": "listbox",
       "url": "https://github.com/gko/listbox",
       "description": "Listbox element for shell.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/hanssn/zsh-listview",
+      "name": "listview",
+      "url": "https://github.com/hanssn/zsh-listview",
+      "description": "Lightweight, zero-dependency ZSH plugin inspired by PowerShell's PSReadLine ListView. Displays real-time, non-intrusive unique history suggestions below your prompt as you type, navigatable using arrow keys.",
       "section": [
         "Plugins"
       ]
@@ -16748,7 +16766,7 @@
       "key": "https://github.com/Hietan/Hietan_ZshTheme",
       "name": "hietan",
       "url": "https://github.com/Hietan/Hietan_ZshTheme",
-      "description": "Includes decorators for current directory, date & time, git status and the exit value of the last command run. Requires a Nerd Font.",
+      "description": "Includes decorators for current directory, date & time, git status and the exit value of the last command run. Requires a Nerd Font. Includes configurable dark and light palettes for terminals with different backgrounds.",
       "section": [
         "Themes"
       ]
@@ -21551,15 +21569,6 @@
       ]
     },
     {
-      "key": "https://github.com/tulioribeiro/zsh-tcr-theme",
-      "name": "tcr",
-      "url": "https://github.com/tulioribeiro/zsh-tcr-theme",
-      "description": "Minimalist theme, shows decorators for current directory, git status information & nvm version.",
-      "section": [
-        "Themes"
-      ]
-    },
-    {
       "key": "https://github.com/Teajey/teajey-zsh-theme",
       "name": "teajay",
       "url": "https://github.com/Teajey/teajey-zsh-theme",
@@ -23027,6 +23036,16 @@
       "name": "shtab",
       "url": "https://github.com/tqdm/shtab",
       "description": "Automatically generate shell tab completion scripts for Python CLI apps, supports zsh, bash and tcsh.",
+      "section": [
+        "Other Resources",
+        "ZSH Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/ArkaKhorchidian/slowrc",
+      "name": "slowrc",
+      "url": "https://github.com/ArkaKhorchidian/slowrc",
+      "description": "Profiles your ZSH startup line by line, shows which lines of your .zshrc cost the most, and safely fixes the slow ones.",
       "section": [
         "Other Resources",
         "ZSH Tools"
