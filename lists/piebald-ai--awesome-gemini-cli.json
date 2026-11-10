@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3a839fbe254129dc3e996b5adaceaae856adf8bc091776ffe34ba0a1a7d06af2\"",
+  "etag": "W/\"baba5b27a81efc8f7155adfc465ef8231685f58b63fba554afcabd46162f9ca5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1042,7 +1042,7 @@
       "key": "https://github.com/budna-marketplace/recommerce",
       "name": "Recommerce",
       "url": "https://github.com/budna-marketplace/recommerce",
-      "description": "Agent Skills (SKILL.md) for second-hand purchases: compare listings, assemble kits, inspect items, plan collection, weigh keep vs. repair vs. replace, and recheck before committing. Read-only, no API key, never contacts sellers or buys. MIT. Install with npx skills add budna-marketplace/recommerce -y -a gemini-cli.",
+      "description": "Agent Skills (SKILL.md) for new and pre-owned purchases: compare listings, assemble kits, inspect items, plan collection, weigh keep vs. repair vs. replace, and recheck before committing. Read-only, no API key, never contacts sellers or buys. MIT. Install with npx skills add budna-marketplace/recommerce -y -a gemini-cli.",
       "section": [
         "Commands & Extensions"
       ]
@@ -1114,7 +1114,25 @@
       "key": "https://github.com/georgesmomo/tech-to-motion",
       "name": "tech-to-motion",
       "url": "https://github.com/georgesmomo/tech-to-motion",
-      "description": "Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/tech-to-motion). Turns a docker-compose, Kubernetes manifests, Terraform, a CI workflow or a postmortem into a motion-design explainer video with animated architecture diagrams and synthesised sound, rendered locally with HyperFrames.",
+      "description": "Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/tech-to-motion). Turns a docker-compose, Kubernetes manifests, Terraform, a CI workflow or a postmortem into a motion-design explainer video with animated architecture diagrams and synthesised sound, rendered locally with Hyper",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/georgesmomo/idea-to-motion",
+      "name": "idea-to-motion",
+      "url": "https://github.com/georgesmomo/idea-to-motion",
+      "description": "Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/idea-to-motion). Turns any idea into a motion-design video (MP4) with procedural music, synthesised sound effects and an optional local voice-over with captions; asks up to 3 questions only when the brief is incomplete. 14 styles, rendered locally with HyperFrames, no API key.Frames.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/publora-team/gemini-cli-publora",
+      "name": "Publora",
+      "url": "https://github.com/publora-team/gemini-cli-publora",
+      "description": "Gemini CLI extension that schedules and publishes social media posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram through the hosted Publora MCP server, with browser sign-in. Install: gemini extensions install https://github.com/publora-team/gemini-cli-publora.",
       "section": [
         "Commands & Extensions"
       ]
@@ -2689,7 +2707,7 @@
       "key": "https://github.com/budna-marketplace/mcp",
       "name": "Budna MCP",
       "url": "https://github.com/budna-marketplace/mcp",
-      "description": "Read-only MCP server for Budna, a Swedish second-hand marketplace: search and inspect public listings, categories, filters, seller profiles, and bid and rating summaries from Gemini CLI. 11 tools, interactive listing cards in MCP Apps clients. Local stdio, no API key, no account. MIT. Run with npx --yes @budna-marketplace/mcp.",
+      "description": "Read-only MCP server for Budna, a Swedish marketplace for new and pre-owned items: search and inspect public listings, categories, filters, seller profiles, and bid and rating summaries from Gemini CLI. 23 tools, interactive listing cards in MCP Apps clients. Local stdio, no API key, no account. MIT. Run with npx --yes @budna-marketplace/mcp.",
       "section": [
         "MCP Servers"
       ]

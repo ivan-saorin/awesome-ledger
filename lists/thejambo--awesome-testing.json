@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"246ff8260cf60dda829b16505fc931030d68d04d6fd708b70b784545c9c28f07\"",
+  "etag": "W/\"53399695950af132200c7727c2cc46130edf6a9224da0f1bb53135284c472411\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -478,6 +478,16 @@
       "name": "Beeceptor",
       "url": "https://beeceptor.com/",
       "description": "Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.",
+      "section": [
+        "Software",
+        "Service Virtualization"
+      ]
+    },
+    {
+      "key": "https://github.com/buggregator/server",
+      "name": "Buggregator",
+      "url": "https://github.com/buggregator/server",
+      "description": "Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.",
       "section": [
         "Software",
         "Service Virtualization"
@@ -1958,6 +1968,16 @@
       "name": "SmartBench",
       "url": "https://github.com/xianyu-sheng/SmartBench",
       "description": "Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.",
+      "section": [
+        "Software",
+        "Static Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/Huldoser/test-inventory",
+      "name": "test-inventory",
+      "url": "https://github.com/Huldoser/test-inventory",
+      "description": "Extract declared tests, states and skip reasons from JavaScript and TypeScript source without running the suite, and compare saved inventories between revisions.",
       "section": [
         "Software",
         "Static Analysis"

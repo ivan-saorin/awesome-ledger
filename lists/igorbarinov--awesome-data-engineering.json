@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"228926c7119250b83a96c7192cccb48e8934b04dc7ff252400fd2d10d25a9712\"",
+  "etag": "W/\"f4e2bc28b5b861da455b5bb41e10ff101941f5e4cec729a8e8196fd8d879ad30\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -103,9 +103,9 @@
       ]
     },
     {
-      "key": "https://docs.basho.com/riak/kv",
+      "key": "https://docs.riak.com/riak/kv/latest",
       "name": "Riak",
-      "url": "https://docs.basho.com/riak/kv/",
+      "url": "https://docs.riak.com/riak/kv/latest/",
       "description": "A distributed database designed to deliver maximum data availability by distributing data across multiple servers.",
       "section": [
         "Databases"
@@ -328,9 +328,9 @@
       ]
     },
     {
-      "key": "https://orientdb.com",
+      "key": "https://orientdb.dev",
       "name": "OrientDB",
-      "url": "https://orientdb.com",
+      "url": "https://orientdb.dev/",
       "description": "2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.",
       "section": [
         "Databases"
@@ -346,9 +346,9 @@
       ]
     },
     {
-      "key": "https://titan.thinkaurelius.com",
+      "key": "https://github.com/thinkaurelius/titan",
       "name": "Titan",
-      "url": "https://titan.thinkaurelius.com",
+      "url": "https://github.com/thinkaurelius/titan",
       "description": "A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.",
       "section": [
         "Databases"
@@ -602,6 +602,15 @@
       "name": "Manticore Search",
       "url": "https://github.com/manticoresoftware/manticoresearch",
       "description": "An open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+      "section": [
+        "Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/pixeltable/pixeltable",
+      "name": "Pixeltable",
+      "url": "https://github.com/pixeltable/pixeltable",
+      "description": "Declarative multimodal AI data engine providing versioned tables, computed columns, incremental transformation, and vector search.",
       "section": [
         "Databases"
       ]
@@ -1129,6 +1138,42 @@
       ]
     },
     {
+      "key": "https://github.com/renart-data/renart",
+      "name": "Renart",
+      "url": "https://github.com/renart-data/renart",
+      "description": "Local-first IDE for authoring and running SQL and Python data pipelines stored in Git.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/datazip-inc/olake",
+      "name": "OLake",
+      "url": "https://github.com/datazip-inc/olake",
+      "description": "Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/firecrawl/firecrawl",
+      "name": "Firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Open-source web data API that scrapes, crawls, maps, and searches the web and returns Markdown or structured JSON for data pipelines and LLM ingestion.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/marcomq/mq-bridge",
+      "name": "mq-bridge",
+      "url": "https://github.com/marcomq/mq-bridge",
+      "description": "Embeddable Rust engine and CLI that moves data between Kafka, NATS, RabbitMQ, MQTT, SQL databases, Postgres/MongoDB CDC and Parquet on S3/GCS/Azure, with bindings for Python and Node.js.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
       "key": "https://github.com/spotify/snakebite",
       "name": "Snakebite",
       "url": "https://github.com/spotify/snakebite",
@@ -1327,9 +1372,9 @@
       ]
     },
     {
-      "key": "https://wiki.apache.org/hadoop/SequenceFile",
+      "key": "https://cwiki.apache.org/confluence/display/HADOOP2/SequenceFile",
       "name": "SequenceFile",
-      "url": "https://wiki.apache.org/hadoop/SequenceFile",
+      "url": "https://cwiki.apache.org/confluence/display/HADOOP2/SequenceFile",
       "description": "A flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats.",
       "section": [
         "Serialization format"
@@ -1453,9 +1498,9 @@
       ]
     },
     {
-      "key": "https://cloud.spring.io/spring-cloud-dataflow",
+      "key": "https://dataflow.spring.io",
       "name": "Spring Cloud Dataflow",
-      "url": "https://cloud.spring.io/spring-cloud-dataflow/",
+      "url": "https://dataflow.spring.io/",
       "description": "Streaming and tasks execution between Spring Boot apps.",
       "section": [
         "Stream Processing"
@@ -1520,6 +1565,24 @@
       "name": "Pathway",
       "url": "https://github.com/pathwaycom/pathway",
       "description": "Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/timeplus-io/proton",
+      "name": "Timeplus Proton",
+      "url": "https://github.com/timeplus-io/proton",
+      "description": "Streaming SQL engine in a single C++ binary, powered by ClickHouse; a lightweight alternative to Flink and ksqlDB for streaming ETL, windowed aggregations, joins and materialized views over Kafka.",
+      "section": [
+        "Stream Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/saguiitay/CardinalityEstimation",
+      "name": "CardinalityEstimation",
+      "url": "https://github.com/saguiitay/CardinalityEstimation",
+      "description": "C# library using HyperLogLog for approximate distinct counting in data streams, with mergeable estimators and serialization.",
       "section": [
         "Stream Processing"
       ]
@@ -1804,9 +1867,9 @@
       ]
     },
     {
-      "key": "https://smoothiecharts.org",
+      "key": "https://github.com/joewalnes/smoothie",
       "name": "SmoothieCharts",
-      "url": "https://smoothiecharts.org",
+      "url": "https://github.com/joewalnes/smoothie",
       "description": "A JavaScript Charting Library for Streaming Data.",
       "section": [
         "Charts and Dashboards"
@@ -1876,6 +1939,15 @@
       ]
     },
     {
+      "key": "https://streamlit.io",
+      "name": "Streamlit",
+      "url": "https://streamlit.io/",
+      "description": "An open-source Python framework for building interactive data apps and dashboards with minimal code. Connects to any data source and supports real-time updates, caching, and one-click deployment.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
       "key": "https://seaborn.pydata.org",
       "name": "Seaborn",
       "url": "https://seaborn.pydata.org",
@@ -1925,6 +1997,15 @@
       "name": "FlexViz",
       "url": "https://github.com/flex-analytics/flexviz",
       "description": "Open-source Python library for interactive cross-filter dashboards on large datasets. Zoom, pan, and selection are answered by lazy Polars aggregations on a stateless server instead of sending rows to the browser.",
+      "section": [
+        "Charts and Dashboards"
+      ]
+    },
+    {
+      "key": "https://github.com/dekart-xyz/geosql",
+      "name": "GeoSQL",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "description": "Claude/Codex skill for cost-safe geospatial SQL on BigQuery and Snowflake.",
       "section": [
         "Charts and Dashboards"
       ]
@@ -1993,9 +2074,9 @@
       ]
     },
     {
-      "key": "https://cascading.org",
+      "key": "https://cascading.wensel.net",
       "name": "Cascading",
-      "url": "https://www.cascading.org/",
+      "url": "https://cascading.wensel.net/",
       "description": "Java based application development platform.",
       "section": [
         "Workflow"
@@ -2065,9 +2146,9 @@
       ]
     },
     {
-      "key": "https://dataform.co",
+      "key": "https://github.com/dataform-co/dataform",
       "name": "Dataform",
-      "url": "https://dataform.co/",
+      "url": "https://github.com/dataform-co/dataform",
       "description": "An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.",
       "section": [
         "Workflow"
@@ -2182,6 +2263,15 @@
       ]
     },
     {
+      "key": "https://github.com/ciaren-labs/Ciaren",
+      "name": "Ciaren",
+      "url": "https://github.com/ciaren-labs/Ciaren",
+      "description": "A local-first visual ETL and ML workflow builder with per-step previews, cron scheduling, and export to pandas or Polars code.",
+      "section": [
+        "Workflow"
+      ]
+    },
+    {
       "key": "https://github.com/treeverse/lakeFS",
       "name": "lakeFS",
       "url": "https://github.com/treeverse/lakeFS",
@@ -2276,15 +2366,6 @@
       "name": "Flocker",
       "url": "https://github.com/ClusterHQ/flocker",
       "description": "Easily manage Docker containers & their data.",
-      "section": [
-        "Docker"
-      ]
-    },
-    {
-      "key": "https://rancher.com/rancher-os",
-      "name": "Rancher",
-      "url": "https://rancher.com/rancher-os/",
-      "description": "RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers.",
       "section": [
         "Docker"
       ]
@@ -2492,10 +2573,10 @@
       ]
     },
     {
-      "key": "https://apify.com/jmendozapuche/latam-synth",
-      "name": "LatAm Synth",
-      "url": "https://apify.com/jmendozapuche/latam-synth",
-      "description": "Synthetic financial savings behavior generator for Latin America: users, savings goals, and transactions calibrated on 506K real records (2015–2024). Reproducible by seed, 100% synthetic.",
+      "key": "https://openchainbench.com",
+      "name": "OpenChainBench",
+      "url": "https://openchainbench.com",
+      "description": "Live dataset of crypto infrastructure benchmarks (RPC latency, oracle deviation, bridge fees, L1 finality, perp DEX metrics). Open methodology, CC BY 4.0, Zenodo DOI 10.5281/zenodo.20800312. Source.",
       "section": [
         "Datasets",
         "Data Dumps"
@@ -2562,6 +2643,26 @@
       ]
     },
     {
+      "key": "https://github.com/AndreaBozzo/dataprof",
+      "name": "dataprof",
+      "url": "https://github.com/AndreaBozzo/dataprof",
+      "description": "Data profiling and quality gates for CSV, JSON, Parquet, DataFrames and Arrow tables, with a Rust core and a Python API.",
+      "section": [
+        "Profiling",
+        "Data Profiler"
+      ]
+    },
+    {
+      "key": "https://github.com/exmergo/dex",
+      "name": "Dex",
+      "url": "https://github.com/exmergo/dex",
+      "description": "Agent-native warehouse profiling, join verification, and schema-drift detection with dbt transformation workflows.",
+      "section": [
+        "Profiling",
+        "Data Profiler"
+      ]
+    },
+    {
       "key": "https://schemacrawler.com",
       "name": "SchemaCrawler",
       "url": "https://www.schemacrawler.com/",
@@ -2598,10 +2699,10 @@
       ]
     },
     {
-      "key": "https://datakitchen.io",
-      "name": "DataKitchen",
-      "url": "https://datakitchen.io/",
-      "description": "Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.",
+      "key": "https://github.com/DataKitchen/dataops-testgen",
+      "name": "DataOps TestGen",
+      "url": "https://github.com/DataKitchen/dataops-testgen",
+      "description": "Open-source data quality tool that profiles tables, generates validation tests from the profiling results, and monitors freshness, volume, and schema from a web UI.",
       "section": [
         "Testing"
       ]
@@ -2706,6 +2807,15 @@
       ]
     },
     {
+      "key": "https://cli.datacontract.com",
+      "name": "Data Contract CLI",
+      "url": "https://cli.datacontract.com",
+      "description": "Tests data in Snowflake, Databricks, BigQuery, Kafka and other sources against data contracts in the Open Data Contract Standard (ODCS), and converts contracts to and from SQL DDL, dbt, Avro and JSON Schema.",
+      "section": [
+        "Testing"
+      ]
+    },
+    {
       "key": "https://reddit.com/r/dataengineering",
       "name": "/r/dataengineering",
       "url": "https://www.reddit.com/r/dataengineering/",
@@ -2736,9 +2846,9 @@
       ]
     },
     {
-      "key": "https://datacouncil.ai/about",
+      "key": "https://datacouncil.ai",
       "name": "Data Council",
-      "url": "https://www.datacouncil.ai/about",
+      "url": "https://www.datacouncil.ai/",
       "description": "The first technical conference that bridges the gap between data scientists, data engineers and data analysts.",
       "section": [
         "Community",

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"10bd2a4dae97ab4a8654a6b7eb1e60a8ac58210674b778cacb7757e4de70c422\"",
+  "etag": "W/\"c36c0c85dc628797b84287ea78147e3e918bdfefe7ece1d5e3e96d6f04d9d2d6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -244,6 +244,16 @@
       ]
     },
     {
+      "key": "https://design.inadram.studio/house-standard",
+      "name": "House standard",
+      "url": "https://design.inadram.studio/house-standard/",
+      "description": "Catalogue of 103 frontend interaction practices, each with a demo running live in the page that switches between the practice held and the practice broken, and an implementation brief written to be handed to a coding agent. Seventeen of them also ship as a read-only audit plugin.",
+      "section": [
+        "Design systems",
+        "More resources"
+      ]
+    },
+    {
       "key": "https://figma.com",
       "name": "Figma",
       "url": "https://www.figma.com/",
@@ -338,6 +348,16 @@
       "name": "Avocode",
       "url": "https://avocode.com/",
       "description": "Helps you share design files, discuss changes, and code websites, mobile apps, & newsletters faster.",
+      "section": [
+        "UI Design tools",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/thiagoxikota/figma-maxxing",
+      "name": "figma-maxxing",
+      "url": "https://github.com/thiagoxikota/figma-maxxing",
+      "description": "Agent skills for real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, handoff gate.",
       "section": [
         "UI Design tools",
         "Integrations"
@@ -903,6 +923,16 @@
       "name": "Testing library",
       "url": "https://testing-library.com/",
       "description": "Simple and complete testing utilities that encourage good testing practices.",
+      "section": [
+        "Testing",
+        "Unit & Regression test"
+      ]
+    },
+    {
+      "key": "https://github.com/jamalkamaladdin/pixelpact",
+      "name": "pixelpact",
+      "url": "https://github.com/jamalkamaladdin/pixelpact",
+      "description": "CLI and MCP server that extracts a visual contract (sizes, spacing, typography, states, animation, design tokens) from a live page or Figma frame, then checks an implementation against it and reports every value that drifted.",
       "section": [
         "Testing",
         "Unit & Regression test"
