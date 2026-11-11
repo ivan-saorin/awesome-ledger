@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"53a4e244e89269db695b8f76e5a36e7cf7b1adbd4960b410305ada74a36ab09f\"",
+  "etag": "W/\"bc4c1041dee30ad5794a4482bed5c1413f1c98330d34f434d01998e240f4104a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -468,6 +468,16 @@
       "name": "pagic",
       "url": "https://github.com/xcatliu/pagic",
       "description": "The easiest way to generate static html page from markdown, built with Deno.",
+      "section": [
+        "Modules",
+        "Static site generator"
+      ]
+    },
+    {
+      "key": "https://github.com/glastor-core/zerho",
+      "name": "zerho",
+      "url": "https://github.com/glastor-core/zerho",
+      "description": "High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.",
       "section": [
         "Modules",
         "Static site generator"
@@ -1004,6 +1014,16 @@
       ]
     },
     {
+      "key": "https://github.com/middleapi/orpc",
+      "name": "orpc",
+      "url": "https://github.com/middleapi/orpc",
+      "description": "End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.",
+      "section": [
+        "Modules",
+        "Web framework"
+      ]
+    },
+    {
       "key": "https://github.com/denyncrawford/dropper-deno",
       "name": "dropper",
       "url": "https://github.com/denyncrawford/dropper-deno",
@@ -1217,6 +1237,15 @@
       ]
     },
     {
+      "key": "https://github.com/glastor-core/medusa",
+      "name": "Medusa Edge API Gateway",
+      "url": "https://github.com/glastor-core/medusa",
+      "description": "Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.",
+      "section": [
+        "Showcases"
+      ]
+    },
+    {
       "key": "https://github.com/shopsavvy/deno-deploy-shopsavvy",
       "name": "ShopSavvy Deno Deploy",
       "url": "https://github.com/shopsavvy/deno-deploy-shopsavvy",
@@ -1410,6 +1439,15 @@
       "name": "make-deno-edition",
       "url": "https://github.com/bevry/make-deno-edition",
       "description": "Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/glastor-core/nemesis",
+      "name": "nemesis",
+      "url": "https://github.com/glastor-core/nemesis",
+      "description": "Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.",
       "section": [
         "Tools"
       ]

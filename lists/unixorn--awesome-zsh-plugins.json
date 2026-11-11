@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"346c9c49a21ad9587a11b005938fcbfd610461078c7370a701b7a3761a947e16\"",
+  "etag": "W/\"2f7cbc60336a02cd27ed427fda637caeaa8bcd0cecd4c2e25be38df82dd76828\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4743,6 +4743,15 @@
       "name": "guesswork",
       "url": "https://github.com/findmalek/guesswork",
       "description": "Fish-style history autosuggestions ranked by an AI model instead of prefix matching, so an abbreviation or a short description of what you want finds the right command out of your recent history.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/4h2u/auto.detach",
+      "name": "gui-detach",
+      "url": "https://github.com/4h2u/auto.detach",
+      "description": "Returns the prompt in interactive ZSH when a GUI app is launched on Linux, and leaves CLI tools in the foreground.",
       "section": [
         "Plugins"
       ]
@@ -10377,6 +10386,15 @@
       "name": "worktree",
       "url": "https://github.com/jspears/worktree",
       "description": "Adds functions that wrap git worktree.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/championswimmer/zsh-worktrunk-herdr",
+      "name": "worktrunk-herdr",
+      "url": "https://github.com/championswimmer/zsh-worktrunk-herdr",
+      "description": "glues Worktrunk (wt), AI coding agents (Claude Code, Codex, Pi) and herdr together.",
       "section": [
         "Plugins"
       ]

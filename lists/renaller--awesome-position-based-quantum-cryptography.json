@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f223296ca41545a7f8eaf32b131bd9b786d5edd0ac1075107a352e877ab5a136\"",
+  "etag": "W/\"56d7366ef61f50ee5884d9fc2706a31a142764d8266fe6fdaa3a20bbe1828486\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -139,10 +139,30 @@
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2406.20022",
-      "name": "Perfect cheating is impossible for single-qubit position verification (2024)",
-      "url": "https://arxiv.org/abs/2406.20022",
+      "key": "https://doi.org/10.1103/4pcn-d1yj",
+      "name": "Perfect cheating is impossible for single-qubit position verification (2026)",
+      "url": "https://doi.org/10.1103/4pcn-d1yj",
       "description": "Considers a generalisation where the input qubits are eigenstates of a $\\mathbb{C}^2$ projector chosen uniformly at random. Shows that no finite-dimensional resource state can perfectly attack this protocol.",
+      "section": [
+        "First Protocols",
+        "BB84 QPV and Generalisations"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.22331/q-2025-04-18-1712",
+      "name": "Lossy-and-Constrained Extended Non-Local Games with Applications to Quantum Cryptography (2025)",
+      "url": "https://doi.org/10.22331/q-2025-04-18-1712",
+      "description": "Improved analyis of the BB84 protocol under loss compared to \"Single-qubit loss-tolerant quantum position verification protocol secure against entangled attackers\" (2023) by the same authors, introduces SDP hierarchies to compute bounds on lossy-and-constrained extended non-local games",
+      "section": [
+        "First Protocols",
+        "BB84 QPV and Generalisations"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2611.09504",
+      "name": "Sharp error tolerance of the monogamy-of-entanglement game (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2611.09504",
+      "description": "Improved loss tolerance of f-measure in the random oracle model and in the plain model under parallel repetition, enabled by an improved analysis of the monogamy-of-entanglement game",
       "section": [
         "First Protocols",
         "BB84 QPV and Generalisations"
@@ -155,7 +175,7 @@
       "description": "Studies attacks on $f$-routing and introduces garden-hose complexity to connect attacks on $f$-routing to complexity theory. Provides many first results regarding that connection, for example that any $f \\in \\mathsf{L}$ (with pre-processing) can be attacked efficiently.",
       "section": [
         "First Protocols",
-        "$f$-routing"
+        "$f$-route"
       ]
     },
     {
@@ -165,7 +185,7 @@
       "description": "Shows a robust linear lower bound on the dimension of the attack resource state.",
       "section": [
         "First Protocols",
-        "$f$-routing"
+        "$f$-route"
       ]
     },
     {
@@ -175,7 +195,7 @@
       "description": "Provides a new attack on $f$-routing, connecting attacks to secret-sharing schemes and span programs, and showing that any $f \\in \\mathsf{Mod}_p\\mathsf{L}$ (with pre-processing), for $p$ prime, can be attacked efficiently.",
       "section": [
         "First Protocols",
-        "$f$-routing"
+        "$f$-route"
       ]
     },
     {
@@ -185,7 +205,7 @@
       "description": "Connects $f$-routing to topics in classical cryptography, in particular conditional disclosure of secrets. Shows a sub-exponential upper bound for attacks for any $f$ and finds an $f$ that is believed to be outside of $\\mathsf{P}$ (with pre-processing), but efficiently attacked.",
       "section": [
         "First Protocols",
-        "$f$-routing"
+        "$f$-route"
       ]
     },
     {
@@ -195,17 +215,27 @@
       "description": "Provides a lower bound in terms of the Schmidt-rank of the resource state for perfect attacks. Gives linear lower bounds for some concrete functions.",
       "section": [
         "First Protocols",
-        "$f$-routing"
+        "$f$-route"
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2402.18648",
-      "name": "Linear gate bounds against natural functions for position-verification (2024)",
-      "url": "https://arxiv.org/abs/2402.18648",
+      "key": "https://doi.org/10.22331/q-2025-01-21-1604",
+      "name": "Linear gate bounds against natural functions for position-verification (2025)",
+      "url": "https://doi.org/10.22331/q-2025-01-21-1604",
       "description": "Provides a robust linear lower bound on the number of quantum gates/measurements needed to attack the inner product function.",
       "section": [
         "First Protocols",
-        "$f$-routing"
+        "$f$-route"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.4230/LIPIcs.TQC.2025.2",
+      "name": "A quantum cloning game with applications to quantum position verification (2025)",
+      "url": "https://doi.org/10.4230/LIPIcs.TQC.2025.2",
+      "description": "Proves security of the $f$-route protocol in the random oracle model by analyzing a quantum cloning game.",
+      "section": [
+        "First Protocols",
+        "$f$-route"
       ]
     },
     {
@@ -215,27 +245,70 @@
       "description": "Considers QPV in higher dimensions carefully and shows unconditional security in the random oracle model.",
       "section": [
         "First Protocols",
-        "$f$-BB84 QPV"
+        "$f$-measure"
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2312.12614",
-      "name": "Making existing quantum position verification protocols secure against arbitrary transmission loss (2023)",
-      "url": "https://arxiv.org/abs/2312.12614",
+      "key": "https://doi.org/10.1103/szwj-s7r6",
+      "name": "Making existing quantum position verification protocols secure against arbitrary transmission loss (2025)",
+      "url": "https://doi.org/10.1103/szwj-s7r6",
       "description": "Introduces an extra commitment step into QPV and shows that for a class of protocols, involving $f$-BB84 QPV, this makes the transmission loss irrelevant for security. Argues $f$-BB84 is a practical QPV protocol.",
       "section": [
         "First Protocols",
-        "$f$-BB84 QPV"
+        "$f$-measure"
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2404.14261",
+      "key": "https://doi.org/10.1103/PhysRevA.110.062605",
       "name": "Continuous-variable quantum position verification secure against entangled attackers (2024)",
-      "url": "https://arxiv.org/abs/2404.14261",
+      "url": "https://doi.org/10.1103/PhysRevA.110.062605",
       "description": "Generalises $f$-BB84 QPV to continuous-variable inputs and shows analogous security statements as for finite-dimensional inputs.",
       "section": [
         "First Protocols",
-        "$f$-BB84 QPV"
+        "$f$-measure"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/abs/2608.16495",
+      "name": "Quantum gate lower bounds for loss-tolerant position verification",
+      "url": "https://arxiv.org/abs/2608.16495",
+      "description": "Proves nearly-linear quantum gate lower for $f$-measure, even when allowing the attacker to declare a transmission loss of up to 50%. Proof is analytic, improved analysis of the monogamy-of-entanglement game.",
+      "section": [
+        "First Protocols",
+        "$f$-measure"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2608.05775",
+      "name": "Robust logarithmic entanglement lower bound for $f$-routing (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2608.05775",
+      "description": "Proves robust logarithmic lower bound for $f$-route with the binary inner product function",
+      "section": [
+        "First Protocols",
+        "$f$-measure",
+        "Bounds for concrete functions"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2609.24291",
+      "name": "New lower bounds for CDS and $f$-routing (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.24291",
+      "description": "Gives linear lower bounds for perfect attacks for the inner product function.",
+      "section": [
+        "First Protocols",
+        "$f$-measure",
+        "Bounds for concrete functions"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2609.40278",
+      "name": "Computational Bounds for $f$-Routing (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.40278",
+      "description": "Proves unconditional resource lower bounds for concrete $f$ in the case of uniform attackers under computational assumptions",
+      "section": [
+        "First Protocols",
+        "$f$-measure",
+        "Bounds for concrete functions"
       ]
     },
     {
@@ -269,9 +342,9 @@
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2309.16655",
-      "name": "Monogamy of highly symmetric states (2023)",
-      "url": "https://arxiv.org/abs/2309.16655",
+      "key": "https://doi.org/10.1007/s00220-025-05483-3",
+      "name": "Monogamy of highly symmetric states (2025)",
+      "url": "https://doi.org/10.1007/s00220-025-05483-3",
       "description": "The results in this paper imply a $\\ln(2) \\approx 0.69$ upper bound on the success probability of unentangled attacks.",
       "section": [
         "First Protocols",
@@ -306,6 +379,63 @@
       "section": [
         "First Protocols",
         "Other protocols"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2601.16892",
+      "name": "Quantum Position Verification with Remote Untrusted Devices (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2601.16892",
+      "description": "Introduces and proves device-independent security of a Bell-test based QPV protocol which resembles $f$-measure, implements the protocol in an experiment",
+      "section": [
+        "First Protocols",
+        "Other protocols"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2610.06247",
+      "name": "High-Fidelity Remote Graph State Preparation for Blind Quantum Computation (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2610.06247",
+      "description": "Proposes a QPV protocol based on remote graph state preparation.",
+      "section": [
+        "First Protocols",
+        "Other protocols"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2609.23234",
+      "name": "Loss-Tolerant Quantum Position Verification for Metropolitan Area Networks (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.23234",
+      "description": "Introduces a QPV protocol that is fully loss-tolerant as long as all information travels at the speed of light and that has the prover prepare the quantum state. The protocol is secure in the random oracle model. It is demonstrated experimentally with off-the-shelf hardware.",
+      "section": [
+        "First Protocols",
+        "Other protocols"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.4230/LIPIcs.ITCS.2022.100",
+      "name": "Beating classical impossibility of position verification (2022)",
+      "url": "https://doi.org/10.4230/LIPIcs.ITCS.2022.100",
+      "description": "Constructs the first QPV protocol with only classical input and output information from the assumption that LWE is quantum-hard. Shows unconditional security in the random oracle model.",
+      "section": [
+        "Protocols without quantum communication"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.1038/s41467-026-70628-4",
+      "name": "On the equivalence between classically verifiable position verification and certified randomness (2026)",
+      "url": "https://doi.org/10.1038/s41467-026-70628-4",
+      "description": "Presents a compiler that converts any single-device certified randomness protocol to classically verifiable position verification protocol which is secure in the random oracle model.",
+      "section": [
+        "Protocols without quantum communication"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2609.38441",
+      "name": "Classical Verifier Position Verification from Non-Local Games (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.38441",
+      "description": "Provides a compiler that converts any complete-support non-local game with the required quantum advantage to a multi-prover classically verifiable position verification protocol.",
+      "section": [
+        "Protocols without quantum communication"
       ]
     },
     {
@@ -355,10 +485,10 @@
       ]
     },
     {
-      "key": "https://doi.org/10.4230/LIPIcs.ITCS.2022.100",
-      "name": "Beating classical impossibility of position verification (2022)",
-      "url": "https://doi.org/10.4230/LIPIcs.ITCS.2022.100",
-      "description": "Constructs a QPV protocol with only classical input and output information from the assumption that LWE is quantum-hard. Shows unconditional security in the random oracle model.",
+      "key": "https://doi.org/10.48550/arXiv.2609.39234",
+      "name": "Breaking the Bounded Entanglement Barrier for Quantum Position Verification (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.39234",
+      "description": "Introduces a model, in which the verifiers' messages are sent at a time drawn uniformly at random from a continuous time interval and proves security against LOCC adversaries. Also considers a model with discretized time where security depends on how accurately time can be measured",
       "section": [
         "Ways Around the Universal Attacks on QPV"
       ]
@@ -367,15 +497,24 @@
       "key": "https://doi.org/10.1007/s00220-022-04407-9",
       "name": "Geometry of Banach spaces: A new route towards position based cryptography (2021)",
       "url": "https://doi.org/10.1007/s00220-022-04407-9",
-      "description": "Provides a new protocol based on applying a phase unitary depending on the classical input information. Shows an exponential lower bound under a regularity assumption on the attack, and an exponential lower bound conditioned on an, as yet, unresolved Banach space geometry conjecture.",
+      "description": "Provides a new protocol based on applying a phase unitary depending on the classical input information. Shows an exponential lower bound (i.e., exponential in the quantum resources of the honest parties) under a regularity assumption on the attack, and an exponential lower bound conditioned on an, as yet, unresolved Banach space geometry conjecture.",
       "section": [
         "Conjectured Exponential Lower Bound"
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2506.03549",
-      "name": "Quantum Secure Key Exchange with Position-based Credentials (2025)",
-      "url": "https://arxiv.org/abs/2506.03549",
+      "key": "https://doi.org/10.48550/arXiv.2609.35592",
+      "name": "Exponential lower bounds for low-degree strategies in position-based quantum cryptography (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.35592",
+      "description": "Proposes a variant of the phase unitary protocol that needs less resources for the honest parties, proves exponential lower bounds (i.e., exponential in all resources of the honest parties) against low-degree strategies. As in the preceding paper, there is also an exponential lower bound conditioned on an unresolved Banach space geometry conjecture.",
+      "section": [
+        "Conjectured Exponential Lower Bound"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.1038/s41534-026-01325-9",
+      "name": "Efficient multi-basis quantum position verification secure against generalized adversaries (2026)",
+      "url": "https://doi.org/10.1038/s41534-026-01325-9",
       "description": "Improved analysis of how to use QPV to provide the authentication within QKD.",
       "section": [
         "Quantum Position-based Authentication"
@@ -409,9 +548,9 @@
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2311.00677",
+      "key": "https://doi.org/10.48550/arXiv.2208.04341",
       "name": "On the role of quantum communication and loss in attacks on quantum position verification (2022)",
-      "url": "https://arxiv.org/abs/2311.00677",
+      "url": "https://doi.org/10.48550/arXiv.2208.04341",
       "description": "Shows that any QPV protocol that can be broken unentangled with quantum communication, but is secure against classical communication attacks, can be transformed into one that is secure against quantum communication attacks. Also notes that if the signal loss is high enough any QPV protocol can be attacked efficiently by a trivial teleportation attack.",
       "section": [
         "Towards Understanding NLQC"
@@ -427,6 +566,15 @@
       ]
     },
     {
+      "key": "https://doi.org/10.1088/1367-2630/add87c",
+      "name": "Orthogonality Broadcasting and Quantum Position Verification (2025)",
+      "url": "https://doi.org/10.1088/1367-2630/add87c",
+      "description": "Studies the difference between unentangled quantum and classical attacks on state discrimination QPV protocols and proves several results on that, for example that there is a separable state ensemble that can be perfectly discriminated with quantum communication, but not without.",
+      "section": [
+        "Towards Understanding NLQC"
+      ]
+    },
+    {
       "key": "https://doi.org/10.1007/JHEP08(2024)152",
       "name": "Security of position-based quantum cryptography limits Hamiltonian simulation via holography (2024)",
       "url": "https://doi.org/10.1007/JHEP08(2024)152",
@@ -436,10 +584,28 @@
       ]
     },
     {
-      "key": "https://arxiv.org/abs/2505.23893",
-      "name": "A complexity theory for non-local quantum computation (2025)",
-      "url": "https://arxiv.org/abs/2505.23893",
-      "description": "Finds relations between a wide range of different NLQC tasks, including showing that $f$-routing and $f$-BB84 are equivalent, with a constant-overhead reduction between them.",
+      "key": "https://doi.org/10.22331/q-2026-07-01-2152",
+      "name": "A complexity theory for non-local quantum computation (2026)",
+      "url": "https://doi.org/10.22331/q-2026-07-01-2152",
+      "description": "Finds relations between a wide range of different NLQC tasks, including showing that $f$-route and $f$-measure are equivalent, with a constant-overhead reduction between them.",
+      "section": [
+        "Towards Understanding NLQC"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2606.26354",
+      "name": "Equivalence of non-local computation tasks beyond Clifford operations (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2606.26354",
+      "description": "Extends the equivalence between $f$-routing and $f$-measure (in the Hadamard basis) to $f$-measure with arbitrary bases, the controlled application of any Clifford unitary, and the controlled application of any unitary of the form $U=C_1 D C_0$ with $D$ an arbitrary diagonal unitary and $C_0$, $C_1$ Clifford circuits.",
+      "section": [
+        "Towards Understanding NLQC"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2609.40228",
+      "name": "Perfect non-local quantum computation is impossible(2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.40228",
+      "description": "Proves that perfect NLQC is impossible.",
       "section": [
         "Towards Understanding NLQC"
       ]
@@ -484,10 +650,89 @@
       ]
     },
     {
+      "key": "https://doi.org/10.48550/arXiv.2503.09544",
+      "name": "Quantum position verification in one shot: parallel repetition of the $f$-BB84 and $f$-routing protocols (2025)",
+      "url": "https://doi.org/10.48550/arXiv.2503.09544",
+      "description": "Proves security of $f$-route and $f$-measure under parallel repetition for random functions $f$.",
+      "section": [
+        "Towards Practicality",
+        "Security under parallel repetition"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2606.25037",
+      "name": "Arbitrarily Loss-Tolerant Quantum Position Verification in a Single Execution (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2606.25037",
+      "description": "Proves security of the $f$-measure protocol with commitment step (which is the version of the protocol that is fully loss tolerant) under parallel repetition.",
+      "section": [
+        "Towards Practicality",
+        "Security under parallel repetition"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.1109/INFOCOM55648.2025.11044770",
+      "name": "Enhancing Position Verification in Multi-Node Quantum Networks (2025)",
+      "url": "https://doi.org/10.1109/INFOCOM55648.2025.11044770",
+      "description": "Extension of QPV to 2D networks in a restricted attack model.",
+      "section": [
+        "Towards Practicality",
+        "QPV beyond one dimension"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.1007/978-3-032-35409-9_14",
+      "name": "Private Proofs of When and Where (2026)",
+      "url": "https://doi.org/10.1007/978-3-032-35409-9_14",
+      "description": "Introduces zero-knowledge position verification and constructs such protocols from secure position verification and post-quantum one-way functions.",
+      "section": [
+        "Towards Practicality",
+        "Additional Features"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2605.30732",
+      "name": "How To Track Qubits Through Space and Time (Or: Sailing in a Quantum Boat) (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2605.30732",
+      "description": "Introduces a stronger notions of position verification called quantum localization, which requires that there is a specified, unclonable state at the verified spacetime point-and that this state can be found nowhere else. Security of such schemes in proven in the classical oracle model.",
+      "section": [
+        "Towards Practicality",
+        "Additional Features"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2505.04776",
+      "name": "Secure quantum ranging (2025)",
+      "url": "https://doi.org/10.48550/arXiv.2505.04776",
+      "description": "Proposes a secure quantum ranging protocol that combines quantum ranging with quantum position verification.",
+      "section": [
+        "Towards Practicality",
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.48550/arXiv.2609.26448",
+      "name": "I Prove, Therefore I Am: Spatiotemporal Multi-Party Computation (2026)",
+      "url": "https://doi.org/10.48550/arXiv.2609.26448",
+      "description": "Uses prover’s ability to pass position verification as the definition of its physical presence at the asserted position.",
+      "section": [
+        "Towards Practicality",
+        "Applications"
+      ]
+    },
+    {
       "key": "https://doi.org/10.1088/2058-9565/adf2da",
       "name": "Towards experimental demonstration of quantum position verification using single photons (2025)",
       "url": "https://doi.org/10.1088/2058-9565/adf2da",
       "description": "A first demonstration experiment of QPV using the SWAP protocol, with single photons from a single semiconductor quantum dot in an optical microcavity.",
+      "section": [
+        "Experiments"
+      ]
+    },
+    {
+      "key": "https://doi.org/10.1038/s41567-026-03439-5",
+      "name": "Relativistic position verification with coherent states (2026)",
+      "url": "https://doi.org/10.1038/s41567-026-03439-5",
+      "description": "Experimental implementation of the $f$-measure protocol using phase-randomized weak coherent states",
       "section": [
         "Experiments"
       ]

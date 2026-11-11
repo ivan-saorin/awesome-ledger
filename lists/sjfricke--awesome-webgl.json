@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fa3d9874db9661092a1ca6ec875f7d8f220caaca14f719725986498e5abbffeb\"",
+  "etag": "W/\"ef6a0dad0444b0ceeed1519dd4fe392cffa0c3b09d5a50a74872e49d3b0a54e5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -488,6 +488,26 @@
       "name": "Web Tracing Framework",
       "url": "http://google.github.io/tracing-framework/index.html",
       "description": "Set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.",
+      "section": [
+        "WebGL",
+        "Tools/Debugging"
+      ]
+    },
+    {
+      "key": "https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor",
+      "name": "WebGL GLSL Editor",
+      "url": "https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor",
+      "description": "GLSL language support extension for Visual Studio Code.",
+      "section": [
+        "WebGL",
+        "Tools/Debugging"
+      ]
+    },
+    {
+      "key": "https://app.cinevva.com/tools/ktx2-compressor",
+      "name": "KTX2 Texture Compressor",
+      "url": "https://app.cinevva.com/tools/ktx2-compressor",
+      "description": "Browser tool to convert PNG, JPG, and WebP textures to KTX2 (Basis Universal, UASTC or ETC1S) to cut VRAM and load time. Runs locally, no upload.",
       "section": [
         "WebGL",
         "Tools/Debugging"
@@ -1418,6 +1438,16 @@
       "name": "Lightgl.js",
       "url": "https://github.com/evanw/lightgl.js",
       "description": "Lightweight and explict library to help prototype.",
+      "section": [
+        "Libraries",
+        "Others"
+      ]
+    },
+    {
+      "key": "https://github.com/novaframe-hq/novaframe-engine",
+      "name": "Novaframe Engine",
+      "url": "https://github.com/novaframe-hq/novaframe-engine",
+      "description": "Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.",
       "section": [
         "Libraries",
         "Others"

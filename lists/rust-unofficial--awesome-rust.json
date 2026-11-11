@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6c99a75881c75f2b2cbf3fdbbb62cdb0a402b7fbcec670d2631980463c742fc2\"",
+  "etag": "W/\"409b97b27beac7ecb6b7dc96816fa78430979faf762812b2315516a90286a27f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3038,6 +3038,16 @@
       ]
     },
     {
+      "key": "https://github.com/TobiasGrothmann/plottery",
+      "name": "TobiasGrothmann/plottery",
+      "url": "https://github.com/TobiasGrothmann/plottery",
+      "description": "[plottery_lib] - Generative art engine for pen plotters, with a desktop editor to tweak parameters live.",
+      "section": [
+        "Applications",
+        "Graphics"
+      ]
+    },
+    {
       "key": "https://crates.io/crates/valora",
       "name": "turnage/valora",
       "url": "https://crates.io/crates/valora",
@@ -3282,6 +3292,16 @@
       "name": "cocoindex",
       "url": "https://github.com/cocoindex-io/cocoindex",
       "description": "ETL framework to build fresh context for AI agents, with incremental processing",
+      "section": [
+        "Applications",
+        "MLOps"
+      ]
+    },
+    {
+      "key": "https://github.com/logicplanes/kaeso",
+      "name": "logicplanes/kaeso",
+      "url": "https://github.com/logicplanes/kaeso",
+      "description": "[kaeso-kpp] - Self-hosted AI gateway with OpenAI- and Anthropic-compatible APIs, SSO, budgets and request logs",
       "section": [
         "Applications",
         "MLOps"
@@ -7749,6 +7769,15 @@
       "name": "GitoxideLabs/gitoxide",
       "url": "https://github.com/GitoxideLabs/gitoxide",
       "description": "[gix] - Pure-Rust Git implementation with high-performance plumbing crates and CLI tools for clone, fetch, status, diff, commit, config, refs, and more.",
+      "section": [
+        "Development tools"
+      ]
+    },
+    {
+      "key": "https://github.com/gvcgo/version-manager",
+      "name": "gvcgo/version-manager",
+      "url": "https://github.com/gvcgo/version-manager",
+      "description": "A cross-platform SDK version manager with project-level version pinning and session isolation.",
       "section": [
         "Development tools"
       ]
@@ -15438,6 +15467,16 @@
       "name": "MapLibre/Martin",
       "url": "https://github.com/maplibre/martin",
       "description": "Map tile server with PostGIS, MBTiles, PMTiles, and sprites support.",
+      "section": [
+        "Libraries",
+        "Geospatial"
+      ]
+    },
+    {
+      "key": "https://github.com/open-geocode-rs/open-geocode",
+      "name": "open-geocode-rs/open-geocode",
+      "url": "https://github.com/open-geocode-rs/open-geocode",
+      "description": "[open-geocode] - Fast, lightweight, self-hosted geocoding in pure Rust.",
       "section": [
         "Libraries",
         "Geospatial"

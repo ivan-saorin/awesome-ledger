@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f4e2bc28b5b861da455b5bb41e10ff101941f5e4cec729a8e8196fd8d879ad30\"",
+  "etag": "W/\"5f4f2b11992303e2e43f005b07708b9caf72835924a151d7d0c68e98a474236d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -818,6 +818,15 @@
       "name": "dlt",
       "url": "https://www.dlthub.com",
       "description": "A fast&simple pipeline building library for Python data devs, runs in notebooks, cloud functions, airflow, etc.",
+      "section": [
+        "Data Ingestion"
+      ]
+    },
+    {
+      "key": "https://github.com/singhpratech/adbcbridge",
+      "name": "adbcBridge",
+      "url": "https://github.com/singhpratech/adbcbridge",
+      "description": "Driver for ADBC, Apache Arrow's database connectivity API, that sits on top of any ODBC driver, so databases with no native Arrow driver return columnar Arrow record batches and take bulk ingest.",
       "section": [
         "Data Ingestion"
       ]

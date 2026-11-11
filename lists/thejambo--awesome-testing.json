@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"53399695950af132200c7727c2cc46130edf6a9224da0f1bb53135284c472411\"",
+  "etag": "W/\"34c8a947a5a9d539be839a586e3f525ceb9be357735f83ca247974b91dd121d1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -474,6 +474,26 @@
       ]
     },
     {
+      "key": "https://github.com/connabyss/bite",
+      "name": "Bite",
+      "url": "https://github.com/connabyss/bite",
+      "description": "Open-source CLI that checks whether recent \"fixed\" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/dylanpulver/judge-check",
+      "name": "judge-check",
+      "url": "https://github.com/dylanpulver/judge-check",
+      "description": "Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
       "key": "https://beeceptor.com",
       "name": "Beeceptor",
       "url": "https://beeceptor.com/",
@@ -864,6 +884,16 @@
       ]
     },
     {
+      "key": "https://github.com/tester-army/e2e",
+      "name": "e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Open-source end-to-end testing framework for web and mobile apps, combining natural-language agent actions with locators and assertions.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://github.com/rubycdp/ferrum",
       "name": "Ferrum",
       "url": "https://github.com/rubycdp/ferrum",
@@ -1101,6 +1131,16 @@
       "section": [
         "Software",
         "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/xseman/coverage",
+      "name": "coverage",
+      "url": "https://github.com/xseman/coverage",
+      "description": "GitHub Action that compares LCOV and Go coverage reports against the base branch and posts per-file changes as a sticky PR comment.",
+      "section": [
+        "Software",
+        "Test Report Diagnostics"
       ]
     },
     {

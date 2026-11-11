@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c09f1e9595681c4639dbb24c267f5b589cfdbb3c1b6f96f8dc49c0c5b882be30\"",
+  "etag": "W/\"84ac515d493e1858b2db4e6a6fe7a375860943d752b730c08e9cfb662497e3d2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -296,6 +296,15 @@
       "name": "ansible-static-lint",
       "url": "https://github.com/arhuman/ansible-static-lint",
       "description": "Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/xorwow/ansible-vars",
+      "name": "ansible-vars",
+      "url": "https://github.com/xorwow/ansible-vars",
+      "description": "ansible-vault replacement that supports encrypting individual vault variables.",
       "section": [
         "Tools"
       ]
