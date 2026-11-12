@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"34c8a947a5a9d539be839a586e3f525ceb9be357735f83ca247974b91dd121d1\"",
+  "etag": "W/\"48a580a6a47e3ca512921692cc3396408b8dc16fb4c0bc8cc09787ace2072417\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -968,6 +968,16 @@
       "name": "mendwright",
       "url": "https://github.com/saadbuilt/mendwright",
       "description": "Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://momentic.ai",
+      "name": "Momentic",
+      "url": "https://momentic.ai",
+      "description": "End-to-end tests for web apps in Chromium and mobile apps on hosted iOS simulators and Android emulators, written as YAML that mixes preset steps with natural-language AI steps and run from a CLI locally or in CI. Includes Mo, an agent that explores a running app from a brief and reports findings with evidence.",
       "section": [
         "Software",
         "UI & End-to-End Testing"

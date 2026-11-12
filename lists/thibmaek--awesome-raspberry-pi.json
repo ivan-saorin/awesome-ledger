@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1c5295c47c6d43e966b19c50a88e16dda4b961b2837a1d040128b37a2c3162e5\"",
+  "etag": "W/\"9db0c32a645fb03d3fc0eccf17862ba5c456e535957648a5fa10b9f404ff5d9b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -796,6 +796,15 @@
       ]
     },
     {
+      "key": "https://github.com/tomrodinger/servomotor",
+      "name": "Gearotons M17",
+      "url": "https://github.com/tomrodinger/servomotor",
+      "description": "Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body, driven from a Pi with a Python library, several motors on one RS-485 bus.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/tschaffter/raspberry-pi-kernel-hardened",
       "name": "Hardened Kernel Builder for RPi",
       "url": "https://github.com/tschaffter/raspberry-pi-kernel-hardened",
@@ -1507,6 +1516,15 @@
       ]
     },
     {
+      "key": "https://github.com/JamesAwesome/led-ticker",
+      "name": "led-ticker",
+      "url": "https://github.com/JamesAwesome/led-ticker",
+      "description": "Raspberry Pi toolkit for driving large RGB LED matrix signs via a TOML config, with scrolling news, weather, crypto, sports and calendar feeds, animated transitions, and a plugin system.",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
       "key": "https://github.com/lomorage/homepage",
       "name": "Lomorage",
       "url": "https://github.com/lomorage/homepage",
@@ -1574,6 +1592,15 @@
       "name": "Multi-Datacenter Cassandra on 32 Raspberry Pi’s",
       "url": "http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster",
       "description": "Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/nekonihq/murmur",
+      "name": "Murmur",
+      "url": "https://github.com/nekonihq/murmur",
+      "description": "Turns your phone into a BLE-connected shell and AI agent for a headless Raspberry Pi, no network required on the Pi and bring your own LLM key.",
       "section": [
         "Projects"
       ]
@@ -1921,6 +1948,15 @@
       ]
     },
     {
+      "key": "https://github.com/mcgeezy/relaytv",
+      "name": "RelayTV",
+      "url": "https://github.com/mcgeezy/relaytv",
+      "description": "Turns a Raspberry Pi connected to a TV over HDMI into a local media endpoint with V4L2/HEVC hardware decoding, HDMI-CEC control, a mobile remote for Plex, Jellyfin, Emby and IPTV, and Home Assistant integration. Supports Raspberry Pi 4 and 5.",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
       "key": "https://github.com/SimonWaldherr/RGB-LED-Matrix",
       "name": "RGB-LED-Matrix",
       "url": "https://github.com/SimonWaldherr/RGB-LED-Matrix",
@@ -1961,6 +1997,15 @@
       "name": "RPI tempmon",
       "url": "https://github.com/gavinlyonsrepo/raspberrypi_tempmon",
       "description": "CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.",
+      "section": [
+        "Projects"
+      ]
+    },
+    {
+      "key": "https://github.com/elixpo/rv565",
+      "name": "RV565",
+      "url": "https://github.com/elixpo/rv565",
+      "description": "Video format and player for SPI displays: 24 FPS on a 320x240 ST7789 from a Raspberry Pi Pico 2, with the second core decoding.",
       "section": [
         "Projects"
       ]

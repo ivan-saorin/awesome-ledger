@@ -1,6 +1,6 @@
 {
-  "etag": "W/\"96780945099380ed9fdb48bd169e265577452deba332825175fc06627bc5a5e0\"",
-  "readme_path": "readme.md",
+  "etag": "W/\"305876b4149f16bd6b8d3d37eee0e5c2310255d0e721ddfc23a40d47d8397362\"",
+  "readme_path": "README.md",
   "misses": 0,
   "entries": [
     {
@@ -16,7 +16,7 @@
       "key": "https://bittwiddlegames.com/lambda-spellcrafting-academy",
       "name": "Lambda Spellcrafting Academy",
       "url": "https://www.bittwiddlegames.com/lambda-spellcrafting-academy/",
-      "description": "A visual programming / puzzle game where you build spells to solve puzzles. Covers introductory programming, as well as some data structures and algorithms. The language is inspired by Lisp, but the game focuses on programming fundamentals that apply to most languages.",
+      "description": "Visual programming / puzzle game where you build spells to solve puzzles. Covers introductory programming, as well as some data structures and algorithms. The language is inspired by Lisp, but the game focuses on programming fundamentals that apply to most languages.",
       "section": [
         "Language Independent"
       ]
@@ -25,7 +25,7 @@
       "key": "https://codingame.com/home",
       "name": "Codingame",
       "url": "https://www.codingame.com/home",
-      "description": "A platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.",
+      "description": "Platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.",
       "section": [
         "Language Independent"
       ]
@@ -52,7 +52,7 @@
       "key": "https://realtimebattle.sourceforge.net",
       "name": "RealTimeBattle",
       "url": "http://realtimebattle.sourceforge.net",
-      "description": "A programming game in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot.",
+      "description": "Programming game in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot.",
       "section": [
         "Language Independent"
       ]
@@ -76,19 +76,28 @@
       ]
     },
     {
+      "key": "https://codecityapp.com",
+      "name": "CodeCityApp",
+      "url": "https://codecityapp.com",
+      "description": "Build a city by completing coding quests gated by passing tests, with a built-in AI mentor for contextual help.",
+      "section": [
+        "Language Independent"
+      ]
+    },
+    {
+      "key": "https://github.com/robocode-dev/tank-royale",
+      "name": "Tank Royale",
+      "url": "https://github.com/robocode-dev/tank-royale",
+      "description": "Battle royale game built on Robocode where you program tanks in Java, Kotlin, C#, or Python to fight against other players' bots until only one remains.",
+      "section": [
+        "Language Independent"
+      ]
+    },
+    {
       "key": "https://github.com/turkishviking/Python-Robocode",
       "name": "Robocode",
       "url": "https://github.com/turkishviking/Python-Robocode",
       "description": "The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.",
-      "section": [
-        "Python"
-      ]
-    },
-    {
-      "key": "https://robotrumble.org",
-      "name": "Robot Rumble",
-      "url": "https://robotrumble.org/",
-      "description": "A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and JavaScript, and comes with a desktop-based command line tool.",
       "section": [
         "Python"
       ]
@@ -106,7 +115,7 @@
       "key": "https://programming-game.com",
       "name": "Programming Game",
       "url": "https://programming-game.com",
-      "description": "A realtime survival MMORPG played via websockets. There's a super simple in browser demo that showcases how to play.",
+      "description": "Realtime survival MMORPG played via websockets. There's a super simple in browser demo that showcases how to play.",
       "section": [
         "JavaScript"
       ]
@@ -160,7 +169,7 @@
       "key": "https://deepestworld.com",
       "name": "DeepestWorld",
       "url": "https://deepestworld.com/",
-      "description": "A browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world.",
+      "description": "Browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world.",
       "section": [
         "JavaScript"
       ]
@@ -169,18 +178,36 @@
       "key": "https://github.com/bitburner-official/bitburner-src",
       "name": "BitBurner",
       "url": "https://github.com/bitburner-official/bitburner-src",
-      "description": "A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.",
+      "description": "Programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.",
       "section": [
         "JavaScript"
       ]
     },
     {
-      "key": "https://robocode.sourceforge.io/robocode.dotnet",
-      "name": "Robocode",
-      "url": "http://robocode.sourceforge.io/robocode.dotnet",
-      "description": "The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.",
+      "key": "https://hackmud.com",
+      "name": "hackmud",
+      "url": "https://hackmud.com/",
+      "description": "Retro cyberpunk RPG where you play a digital persona in a chaotic, unpredictable, and often goofy abandoned internet.",
       "section": [
-        "C Sharp"
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://code4win.com",
+      "name": "Code4win",
+      "url": "https://code4win.com/",
+      "description": "Browser-based programming game platform where you write code, solve simulation puzzles, optimize your solutions, and compete for the top spot on the leaderboard.",
+      "section": [
+        "JavaScript"
+      ]
+    },
+    {
+      "key": "https://claude-ball.fly.dev",
+      "name": "claude-ball",
+      "url": "https://claude-ball.fly.dev",
+      "description": "You coach a 2D soccer team, but the tactics are your job, not the typing: you describe how the team should play in plain English and your AI coding agent writes the bot's brain in TypeScript (a CLAUDE.md keeps the agent to coding, never strategy). Matches are deterministic, and you submit your bot to a live ladder against built-in bots and everyone else's. Open source.",
+      "section": [
+        "JavaScript"
       ]
     },
     {
@@ -197,6 +224,15 @@
       "name": "Box-256",
       "url": "http://box-256.com",
       "description": "Write assembly code to match a shown graphic.",
+      "section": [
+        "Assembly"
+      ]
+    },
+    {
+      "key": "https://tomorrowcorporation.com/humanresourcemachine",
+      "name": "Human Resource Machine",
+      "url": "https://tomorrowcorporation.com/humanresourcemachine",
+      "description": "Puzzle game by Tomorrow Corporation where you program office workers with a small assembly-like language to move items from the inbox to the outbox.",
       "section": [
         "Assembly"
       ]
@@ -223,16 +259,7 @@
       "key": "https://generals.io",
       "name": "Generals IO",
       "url": "http://generals.io",
-      "description": "A fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
-      "key": "https://robodojo.club",
-      "name": "Robo Dojo",
-      "url": "http://robodojo.club",
-      "description": "You build robots that build, corrupt and destroy other robots in an attempt to eliminate all competitors.",
+      "description": "Fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.",
       "section": [
         "Miscellaneous"
       ]
@@ -241,7 +268,7 @@
       "key": "https://corewars.org",
       "name": "Corewars",
       "url": "http://www.corewars.org",
-      "description": "A game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.",
+      "description": "Game of warrior vs warrior, programmed by two opponents, and placed into a virtual 'ring' to fight to the death.",
       "section": [
         "Miscellaneous"
       ]
@@ -304,7 +331,7 @@
       "key": "https://flukeout.github.io",
       "name": "CSS Diner",
       "url": "http://flukeout.github.io",
-      "description": "A CSS item arrangement game, teaching the concepts and use of CSS selectors and layout. You modify CSS to arrange HTML elements representing plates and bento boxes on a dining table.",
+      "description": "CSS item arrangement game, teaching the concepts and use of CSS selectors and layout. You modify CSS to arrange HTML elements representing plates and bento boxes on a dining table.",
       "section": [
         "Miscellaneous"
       ]
@@ -337,19 +364,19 @@
       ]
     },
     {
-      "key": "https://mystery.knightlab.com",
-      "name": "SQL Murder Mystery",
-      "url": "https://mystery.knightlab.com/",
-      "description": "The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.",
+      "key": "https://learn.webterm.app",
+      "name": "WebTerm Learn",
+      "url": "https://learn.webterm.app",
+      "description": "Gamified courses for the Linux terminal, Git and Vim that run in a simulated terminal in the browser. Every lesson is a hex on a 3D adventure map, you type real commands, and the exercise checks the resulting state rather than the command you typed.",
       "section": [
         "Miscellaneous"
       ]
     },
     {
-      "key": "https://s3game-level1.s3-website.us-east-2.amazonaws.com",
-      "name": "S3 Game",
-      "url": "http://s3game-level1.s3-website.us-east-2.amazonaws.com/",
-      "description": "You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.",
+      "key": "https://mystery.knightlab.com",
+      "name": "SQL Murder Mystery",
+      "url": "https://mystery.knightlab.com/",
+      "description": "The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.",
       "section": [
         "Miscellaneous"
       ]
@@ -367,7 +394,7 @@
       "key": "https://ohmygit.org",
       "name": "Oh my Git",
       "url": "https://ohmygit.org/",
-      "description": "An open source game about learning Git!",
+      "description": "Open source game about learning Git!",
       "section": [
         "Miscellaneous"
       ]
@@ -377,6 +404,24 @@
       "name": "YouBrokeProd",
       "url": "https://youbrokeprod.com",
       "description": "Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://devops-daily.com/games",
+      "name": "DevOps Daily Games",
+      "url": "https://devops-daily.com/games",
+      "description": "Free browser simulators and terminal games for DevOps: run commands in Linux, Docker, Kubernetes, Terraform and SQL terminals, and work through load balancing, rate limiting, DNS and scaling scenarios.",
+      "section": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "key": "https://v5games.com",
+      "name": "V5 Games",
+      "url": "https://v5games.com",
+      "description": "Browser-based AI text adventure games and word games, including AI-generated interactive fiction playable directly in the browser.",
       "section": [
         "Miscellaneous"
       ]

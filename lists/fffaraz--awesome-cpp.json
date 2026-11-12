@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8bec911ff5dc5478d7fe3d6d5c6bc2451eb13e503a423f698a75fa0f71b0a872\"",
+  "etag": "W/\"5526ea567c938119ede267bcc62c2acf4cd0ab033184622f122a06d279195029\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1880,6 +1880,15 @@
       "name": "cuda-api-wrappers",
       "url": "https://github.com/eyalroz/cuda-api-wrappers",
       "description": "Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. [BSD]",
+      "section": [
+        "Concurrency"
+      ]
+    },
+    {
+      "key": "https://github.com/javier-cabezas/cuda4cpu",
+      "name": "cuda4cpu",
+      "url": "https://github.com/javier-cabezas/cuda4cpu",
+      "description": "Run CUDA and HIP programs on the CPU, unmodified, with GCC or Clang. [Apache2]",
       "section": [
         "Concurrency"
       ]

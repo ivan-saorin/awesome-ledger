@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"834764351a567274341b04bc864bcd4733626b36061425c3402f3a9e701bb111\"",
+  "etag": "W/\"c78524915c0eaae685699bef387deb0964bbe2b2477b63d854de2540ef9b5b66\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2168,7 +2168,17 @@
       "key": "https://github.com/alecthomas/kingpin",
       "name": "kingpin",
       "url": "https://github.com/alecthomas/kingpin",
-      "description": "Command line and flag parser supporting sub commands (superseded by kong; see below).",
+      "description": "Command line and flag parser supporting sub commands (superseded by kong).",
+      "section": [
+        "Command Line",
+        "Standard CLI"
+      ]
+    },
+    {
+      "key": "https://github.com/alecthomas/kong",
+      "name": "kong",
+      "url": "https://github.com/alecthomas/kong",
+      "description": "Command-line parser with support for arbitrarily complex command-line structures (successor to kingpin).",
       "section": [
         "Command Line",
         "Standard CLI"
@@ -2866,15 +2876,6 @@
       "name": "konfig",
       "url": "https://github.com/lalamove/konfig",
       "description": "Composable, observable and performant config handling for Go for the distributed processing era.",
-      "section": [
-        "Configuration"
-      ]
-    },
-    {
-      "key": "https://github.com/alecthomas/kong",
-      "name": "kong",
-      "url": "https://github.com/alecthomas/kong",
-      "description": "Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).",
       "section": [
         "Configuration"
       ]
@@ -3859,6 +3860,16 @@
       "name": "goset",
       "url": "https://github.com/zoumo/goset",
       "description": "A useful Set collection implementation for Go.",
+      "section": [
+        "Data Structures and Algorithms",
+        "Sets"
+      ]
+    },
+    {
+      "key": "https://github.com/kastolars/readyset",
+      "name": "readyset",
+      "url": "https://github.com/kastolars/readyset",
+      "description": "Generic sets, including sets of records identified by a key, with an opt-in thread-safe variant.",
       "section": [
         "Data Structures and Algorithms",
         "Sets"
@@ -7974,6 +7985,15 @@
       "name": "gdu",
       "url": "https://github.com/dundee/gdu",
       "description": "Disk usage analyzer with console interface.",
+      "section": [
+        "File Handling"
+      ]
+    },
+    {
+      "key": "https://github.com/abemedia/go-cabinet",
+      "name": "go-cabinet",
+      "url": "https://github.com/abemedia/go-cabinet",
+      "description": "Read, write and extract Microsoft Cabinet (.cab) files, with MSZIP and LZX compression and io/fs support.",
       "section": [
         "File Handling"
       ]
@@ -12402,6 +12422,15 @@
       "name": "broker",
       "url": "https://github.com/qvcloud/broker",
       "description": "Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.",
+      "section": [
+        "Messaging"
+      ]
+    },
+    {
+      "key": "https://github.com/korableg/bus",
+      "name": "bus",
+      "url": "https://github.com/korableg/bus",
+      "description": "Kafka event bus framework with protobuf-typed producer and consumer groups, retries, batch handlers and automatic offset commits.",
       "section": [
         "Messaging"
       ]
@@ -18959,6 +18988,16 @@
       "section": [
         "Testing",
         "Testing Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/sergiught/auth0-mock",
+      "name": "auth0-mock",
+      "url": "https://github.com/sergiught/auth0-mock",
+      "description": "Mock Auth0 server for tests and local development, with signed JWTs, OIDC login flows and the Management API.",
+      "section": [
+        "Testing",
+        "Mock"
       ]
     },
     {

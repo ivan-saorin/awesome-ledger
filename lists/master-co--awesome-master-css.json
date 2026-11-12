@@ -1,186 +1,384 @@
 {
-  "etag": "W/\"c0205348b22fb80292ff7edb87f14ed170b668c9ac81419450d8f4fbfc899528\"",
+  "etag": "W/\"57a79d74ba56c4a614fd9c9e551c16d0ffdb4257e51e333af695c2adc83b65ea\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
     {
+      "key": "https://css.master.co",
+      "name": "Website",
+      "url": "https://css.master.co",
+      "description": "Homepage and documentation.",
+      "section": [
+        "Official Resources"
+      ]
+    },
+    {
       "key": "https://github.com/master-co/css",
       "name": "Repository",
       "url": "https://github.com/master-co/css",
-      "description": "Master CSS repository.",
+      "description": "Source code of the language, compiler, integrations and tooling.",
       "section": [
-        "Useful Links"
+        "Official Resources"
       ]
     },
     {
-      "key": "https://docs.master.co/css",
-      "name": "Documentation",
-      "url": "https://docs.master.co/css",
-      "description": "Master CSS documentation.",
+      "key": "https://github.com/master-co/css/releases",
+      "name": "Releases",
+      "url": "https://github.com/master-co/css/releases",
+      "description": "Version history and release notes.",
       "section": [
-        "Useful Links"
+        "Official Resources"
       ]
     },
     {
-      "key": "https://github.com/master-co/css/tree/beta/packages/language-service",
-      "name": "Master CSS Language Service",
-      "url": "https://github.com/master-co/css/tree/beta/packages/language-service",
-      "description": "Provides code-completion and syntax highlighting for Visual Studio Code.",
+      "key": "https://npmjs.com/package/@master/css",
+      "name": "@master/css",
+      "url": "https://www.npmjs.com/package/@master/css",
+      "description": "The core package on npm.",
       "section": [
-        "IDE Extensions"
+        "Official Resources"
       ]
     },
     {
-      "key": "https://github.com/serkodev/master-styles-css-converter",
-      "name": "Master Styles CSS Converter",
-      "url": "https://github.com/serkodev/master-styles-css-converter",
-      "description": "Online convert CSS to Master styles.",
+      "key": "https://youtu.be/lQLEHN-AiBw",
+      "name": "Master CSS 2.0 Film",
+      "url": "https://youtu.be/lQLEHN-AiBw",
+      "description": "Launch film for Master CSS 2.0.",
+      "section": [
+        "Official Resources"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/introduction",
+      "name": "Introduction",
+      "url": "https://css.master.co/guide/introduction",
+      "description": "What Master CSS is and how it works.",
+      "section": [
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation",
+      "name": "Installation",
+      "url": "https://css.master.co/guide/installation",
+      "description": "Add Master CSS to a new or existing project.",
+      "section": [
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/syntax-tutorial",
+      "name": "Syntax Tutorial",
+      "url": "https://css.master.co/guide/syntax-tutorial",
+      "description": "Read and write Master CSS classes step by step.",
+      "section": [
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://css.master.co/reference",
+      "name": "Reference",
+      "url": "https://css.master.co/reference",
+      "description": "Every utility, token, directive and selector the preset supports.",
+      "section": [
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/migration",
+      "name": "Migration",
+      "url": "https://css.master.co/guide/migration",
+      "description": "Move from Tailwind CSS, Bootstrap, Sass, CSS-in-JS, Material UI, shadcn/ui or plain CSS one route at a time.",
+      "section": [
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://css.master.co/benchmarks",
+      "name": "Benchmarks",
+      "url": "https://css.master.co/benchmarks",
+      "description": "How much delivered CSS a page uses, generated CSS compared for the same UI, and build and runtime costs.",
+      "section": [
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://css.master.co/llms.txt",
+      "name": "llms.txt",
+      "url": "https://css.master.co/llms.txt",
+      "description": "The documentation as plain text for language models.",
+      "section": [
+        "Learning"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/astro",
+      "name": "Astro",
+      "url": "https://css.master.co/guide/installation/astro",
+      "description": "@master/css-astro integration.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/nextjs",
+      "name": "Next.js",
+      "url": "https://css.master.co/guide/installation/nextjs",
+      "description": "@master/css-next integration for the App Router, with pre-rendered and request-time pages.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/nuxtjs",
+      "name": "Nuxt",
+      "url": "https://css.master.co/guide/installation/nuxtjs",
+      "description": "@master/css-nuxt module with static, browser or Nitro response rendering.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/svelte",
+      "name": "SvelteKit",
+      "url": "https://css.master.co/guide/installation/svelte",
+      "description": "@master/css-svelte integration, installed with npx sv add @master/css-svelte-addon.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/vite",
+      "name": "Vite",
+      "url": "https://css.master.co/guide/installation/vite",
+      "description": "@master/css-vite plugin for Vite, React, Vue, React Router and TanStack Start.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/webpack",
+      "name": "Webpack",
+      "url": "https://css.master.co/guide/installation/webpack",
+      "description": "@master/css-webpack plugin for Webpack, Rspack and Rsbuild.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/angular",
+      "name": "Angular",
+      "url": "https://css.master.co/guide/installation/angular",
+      "description": "CLI-generated CSS, or the optional browser runtime.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/lit",
+      "name": "Lit",
+      "url": "https://css.master.co/guide/installation/lit",
+      "description": "Style shadow roots with static CSS or a runtime that follows the component lifecycle.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/storybook",
+      "name": "Storybook",
+      "url": "https://css.master.co/guide/installation/storybook",
+      "description": "Load application styles into the Storybook preview with the Vite builder.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/installation/server-rendered",
+      "name": "Server-Rendered Apps",
+      "url": "https://css.master.co/guide/installation/server-rendered",
+      "description": "Build with Vite and load the CSS from PHP, Laravel, Rails, WordPress, Shopify, ASP.NET Core, Blazor or Express templates.",
+      "section": [
+        "Framework Integrations"
+      ]
+    },
+    {
+      "key": "https://npmjs.com/package/@master/create-css",
+      "name": "create-css",
+      "url": "https://www.npmjs.com/package/@master/create-css",
+      "description": "Add Master CSS to an existing project with npm create @master/css.",
       "section": [
         "Tools"
       ]
     },
     {
-      "key": "https://sandbox.master.co",
-      "name": "Master Sandbox",
-      "url": "https://sandbox.master.co",
-      "description": "Master sandbox online editor.",
+      "key": "https://npmjs.com/package/@master/css-cli",
+      "name": "@master/css-cli",
+      "url": "https://www.npmjs.com/package/@master/css-cli",
+      "description": "Scan sources and generate static CSS from the command line.",
       "section": [
         "Tools"
       ]
     },
     {
-      "key": "https://github.com/master-co/css/tree/beta/packages/normal.css",
-      "name": "@master/normal.css",
-      "url": "https://github.com/master-co/css/tree/beta/packages/normal.css",
-      "description": "Normalize browser's styles.",
+      "key": "https://npmjs.com/package/@master/css-runtime",
+      "name": "@master/css-runtime",
+      "url": "https://www.npmjs.com/package/@master/css-runtime",
+      "description": "Generate CSS in the browser as classes appear.",
       "section": [
-        "Plugins"
+        "Tools"
       ]
     },
     {
-      "key": "https://github.com/master-co/css/tree/beta/packages/keyframes.css",
-      "name": "@master/keyframes.css",
-      "url": "https://github.com/master-co/css/tree/beta/packages/keyframes.css",
-      "description": "Simple and useful CSS keyframes.",
+      "key": "https://npmjs.com/package/@master/css-server",
+      "name": "@master/css-server",
+      "url": "https://www.npmjs.com/package/@master/css-server",
+      "description": "Render the CSS for server-generated HTML.",
       "section": [
-        "Plugins"
+        "Tools"
       ]
     },
     {
-      "key": "https://github.com/master-co/style-element.react",
-      "name": "@master/style-element.react",
-      "url": "https://github.com/master-co/style-element.react",
-      "description": "Quickly create styled React elements with conditional class names.",
+      "key": "https://css.master.co/guide/code-linting",
+      "name": "ESLint Plugin",
+      "url": "https://css.master.co/guide/code-linting",
+      "description": "Sort classes and report invalid, non-canonical or conflicting classes with @master/eslint-plugin-css.",
       "section": [
-        "Plugins"
+        "Tools"
       ]
     },
     {
-      "key": "https://github.com/master-co/literal",
-      "name": "@master/literal",
-      "url": "https://github.com/master-co/literal",
-      "description": "Conditionally construct class names and strings with template literals.",
+      "key": "https://marketplace.visualstudio.com/items?itemName=masterco.master-css-vscode",
+      "name": "Visual Studio Code",
+      "url": "https://marketplace.visualstudio.com/items?itemName=masterco.master-css-vscode",
+      "description": "Official extension with completion, hover previews, syntax highlighting, color tools and diagnostics.",
       "section": [
-        "Plugins"
+        "Editor Support"
+      ]
+    },
+    {
+      "key": "https://github.com/master-co/css/tree/main/packages/language-server",
+      "name": "Language Server",
+      "url": "https://github.com/master-co/css/tree/main/packages/language-server",
+      "description": "@master/css-language-server for editors that speak the Language Server Protocol.",
+      "section": [
+        "Editor Support"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/language-service",
+      "name": "Language Service Guide",
+      "url": "https://css.master.co/guide/language-service",
+      "description": "Set up and tune editor support for your project.",
+      "section": [
+        "Editor Support"
+      ]
+    },
+    {
+      "key": "https://css.master.co/guide/ai-coding",
+      "name": "AI Coding Guide",
+      "url": "https://css.master.co/guide/ai-coding",
+      "description": "Work with coding agents and verify what they change.",
+      "section": [
+        "AI Coding"
+      ]
+    },
+    {
+      "key": "https://github.com/master-co/css/tree/main/packages/mcp",
+      "name": "MCP Server",
+      "url": "https://github.com/master-co/css/tree/main/packages/mcp",
+      "description": "@master/css-mcp lets agents inspect classes, render CSS, lint, preview fixes and read design system contracts.",
+      "section": [
+        "AI Coding"
+      ]
+    },
+    {
+      "key": "https://github.com/master-co/css/tree/main/skills/master-css",
+      "name": "Agent Skill",
+      "url": "https://github.com/master-co/css/tree/main/skills/master-css",
+      "description": "Teach coding agents Master CSS with npx skills add master-co/css --skill master-css.",
+      "section": [
+        "AI Coding"
+      ]
+    },
+    {
+      "key": "https://github.com/master-co/css/tree/main/examples",
+      "name": "Starter Projects",
+      "url": "https://github.com/master-co/css/tree/main/examples",
+      "description": "Minimal setups for Angular, Astro, Laravel, Lit, Next.js, Nuxt, React, Svelte, Vite, Webpack, the CDN and more.",
+      "section": [
+        "Examples"
+      ]
+    },
+    {
+      "key": "https://master.co/blog/master-css-v2",
+      "name": "Master CSS 2.0",
+      "url": "https://master.co/blog/master-css-v2",
+      "description": "Expressive classes, CSS-defined tokens, and tools that understand your design system.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://master.co/blog/master-css-next",
+      "name": "Master CSS with Next.js: When to Use Progressive Rendering",
+      "url": "https://master.co/blog/master-css-next",
+      "description": "Pre-rendered HTML, later classes in the browser, and the boundary for dynamic SSR.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://master.co/blog/bootstrapping-master-css-with-vite",
+      "name": "Master CSS with Vite: Choose When to Generate CSS",
+      "url": "https://master.co/blog/bootstrapping-master-css-with-vite",
+      "description": "Follow one app through source scanning, emitted HTML and the connected DOM.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://github.com/master-co/styled",
+      "name": "Styled",
+      "url": "https://github.com/master-co/styled",
+      "description": "Create reusable styled elements in one line for React and Vue.",
+      "section": [
+        "Related Libraries"
       ]
     },
     {
       "key": "https://github.com/master-co/css/discussions",
-      "name": "Discussions",
+      "name": "GitHub Discussions",
       "url": "https://github.com/master-co/css/discussions",
-      "description": "Official place to discussion.",
+      "description": "Ask questions, discuss ideas and share your work. English and Chinese are welcome.",
       "section": [
         "Community"
       ]
     },
     {
-      "key": "https://discord.gg/sZNKpAAAw6",
-      "name": "Discord channel",
-      "url": "https://discord.gg/sZNKpAAAw6",
-      "description": "Channel to chat with Master community.",
+      "key": "https://github.com/master-co/css/issues",
+      "name": "GitHub Issues",
+      "url": "https://github.com/master-co/css/issues",
+      "description": "Report reproducible bugs.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://discord.com/invite/sZNKpAAAw6",
+      "name": "Discord",
+      "url": "https://discord.com/invite/sZNKpAAAw6",
+      "description": "Chat with the community.",
       "section": [
         "Community"
       ]
     },
     {
       "key": "https://twitter.com/mastercorg",
-      "name": "Official Twitter",
+      "name": "X",
       "url": "https://twitter.com/mastercorg",
-      "description": "Newly developed notifications about Master.",
+      "description": "News and announcements.",
       "section": [
         "Community"
-      ]
-    },
-    {
-      "key": "https://docs.master.co/css/setup",
-      "name": "Setup guide",
-      "url": "https://docs.master.co/css/setup",
-      "description": "",
-      "section": [
-        "Learning"
-      ]
-    },
-    {
-      "key": "https://docs.master.co/css/syntax-tutorial",
-      "name": "Syntax tutorial",
-      "url": "https://docs.master.co/css/syntax-tutorial",
-      "description": "Quick syntax guide for an enhanced and structured CSS syntax for class names.",
-      "section": [
-        "Learning"
-      ]
-    },
-    {
-      "key": "https://awilum.github.io/cheatsheets/mastercss",
-      "name": "Master CSS Cheat Sheet",
-      "url": "https://awilum.github.io/cheatsheets/mastercss",
-      "description": "Quickly search all syntax of Master CSS.",
-      "section": [
-        "Learning"
-      ]
-    },
-    {
-      "key": "https://codepen.io/aron-tw/pen/LYOGzdY",
-      "name": "Glassmorphism example",
-      "url": "https://codepen.io/aron-tw/pen/LYOGzdY",
-      "description": "HTML only glassmorphism components by Master CSS.",
-      "section": [
-        "Online Examples"
-      ]
-    },
-    {
-      "key": "https://codepen.io/aron-tw/pen/zYpyQyV",
-      "name": "Interactive switch toggle example",
-      "url": "https://codepen.io/aron-tw/pen/zYpyQyV",
-      "description": "A interactive switch toggle by Master CSS.",
-      "section": [
-        "Online Examples"
-      ]
-    },
-    {
-      "key": "https://docs.master.co/css/why-master-css",
-      "name": "Why Master CSS",
-      "url": "https://docs.master.co/css/why-master-css",
-      "description": "Offical concepts and principles about Master CSS.",
-      "section": [
-        "Articles"
-      ]
-    },
-    {
-      "key": "https://dev.to/aron/getting-started-with-a-whole-new-css-language-master-css-12l0",
-      "name": "Getting started with a whole new CSS language —— Master CSS",
-      "url": "https://dev.to/aron/getting-started-with-a-whole-new-css-language-master-css-12l0",
-      "description": "",
-      "section": [
-        "Articles"
-      ]
-    },
-    {
-      "key": "https://dev.to/aron/rapidly-create-reusable-react-components-59fd",
-      "name": "Rapidly create reusable React components in one line",
-      "url": "https://dev.to/aron/rapidly-create-reusable-react-components-59fd",
-      "description": "",
-      "section": [
-        "Articles"
       ]
     }
   ]

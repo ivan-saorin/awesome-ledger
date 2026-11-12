@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7578e0ceee68bead7265a4381a00e7e8600698ea1e34a1de1507d72e632580df\"",
+  "etag": "W/\"220bcc0258f881e7a9cab12487f4cd31fa951f2411ca5cee0c7a282cfefe5067\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -18,6 +18,16 @@
       "name": "c4",
       "url": "https://github.com/kenrick95/c4",
       "description": "Connect Four game where player is playing against an AI.",
+      "section": [
+        "Browser-Based",
+        "Boardgame"
+      ]
+    },
+    {
+      "key": "https://github.com/s87343472/daily-word-hunt",
+      "name": "Daily Word Hunt",
+      "url": "https://github.com/s87343472/daily-word-hunt",
+      "description": "Free browser daily word search (find-the-word). New puzzle every day, themed series, print packs.",
       "section": [
         "Browser-Based",
         "Boardgame"
@@ -57,16 +67,16 @@
       "key": "https://github.com/binarymax/kriegspiel",
       "name": "Kriegspiel",
       "url": "https://github.com/binarymax/kriegspiel",
-      "description": "The game of imperfect information, the Kriegspiel chess variant.",
+      "description": "Game of imperfect information, the Kriegspiel chess variant.",
       "section": [
         "Browser-Based",
         "Boardgame"
       ]
     },
     {
-      "key": "https://github.com/jonradoff/chessmata",
+      "key": "https://github.com/metavert-io/chessmata",
       "name": "Chessmata",
-      "url": "https://github.com/jonradoff/chessmata",
+      "url": "https://github.com/metavert-io/chessmata",
       "description": "Open-source multiplayer chess platform for humans and AI agents, with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board (Three.js), MCP server, and UCI-compatible CLI. Built with Go and React.",
       "section": [
         "Browser-Based",
@@ -131,6 +141,16 @@
       "section": [
         "Browser-Based",
         "Boardgame"
+      ]
+    },
+    {
+      "key": "https://github.com/zicojiao/trick-or-take",
+      "name": "Trick or Take",
+      "url": "https://github.com/zicojiao/trick-or-take",
+      "description": "Multiplayer Halloween party web game built with vanilla Canvas 2D, Agora RTC voice chat, and Cloudflare Workers edge.",
+      "section": [
+        "Browser-Based",
+        "Arcade"
       ]
     },
     {
@@ -217,7 +237,7 @@
       "key": "https://github.com/mjhasbach/ceros-snake",
       "name": "Ceros Snake",
       "url": "https://github.com/mjhasbach/ceros-snake",
-      "description": "A remake of the iconic 70's Snake game.",
+      "description": "Remake of the iconic 70's Snake game.",
       "section": [
         "Browser-Based",
         "Arcade"
@@ -337,7 +357,7 @@
       "key": "https://github.com/lutzroeder/digger",
       "name": "Digger",
       "url": "https://github.com/lutzroeder/digger",
-      "description": "The player is placed in an underground maze and can dig horizontal and vertical tunnels through it.",
+      "description": "Player is placed in an underground maze and can dig horizontal and vertical tunnels through it.",
       "section": [
         "Browser-Based",
         "Arcade"
@@ -437,7 +457,7 @@
       "key": "https://github.com/OmarShehata/I-Spy-A-Ghost",
       "name": "I Spy A Ghost",
       "url": "https://github.com/OmarShehata/I-Spy-A-Ghost",
-      "description": "An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC.",
+      "description": "Experimental p2p multiplayer game made in HTML5/Phaser using WebRTC.",
       "section": [
         "Browser-Based",
         "Arcade"
@@ -477,7 +497,7 @@
       "key": "https://github.com/ddionisio/game-off-2013",
       "name": "Mega Girl",
       "url": "https://github.com/ddionisio/game-off-2013",
-      "description": "The hyper-deluxed-super-mega software that beats back those malicious apps.",
+      "description": "Hyper-deluxed-super-mega software that beats back those malicious apps.",
       "section": [
         "Browser-Based",
         "Arcade"
@@ -698,6 +718,16 @@
       "name": "WPilot",
       "url": "https://github.com/jfd/wpilot",
       "description": "Browser-based remake of the famous XPilot game, built with Node.js and HTML5.",
+      "section": [
+        "Browser-Based",
+        "Arcade"
+      ]
+    },
+    {
+      "key": "https://github.com/abusofianid/game-wave-rider-nusantara",
+      "name": "Wave Rider Nusantara",
+      "url": "https://github.com/abusofianid/game-wave-rider-nusantara",
+      "description": "Arcade game inspired by Indonesian culture, featuring the legendary character Gatot Kaca and traditional Batik patterns. Built with React and JavaScript.",
       "section": [
         "Browser-Based",
         "Arcade"
@@ -934,6 +964,16 @@
       ]
     },
     {
+      "key": "https://github.com/PixelGuys/Cubyz",
+      "name": "Cubyz",
+      "url": "https://github.com/PixelGuys/Cubyz",
+      "description": "Open voxel simulation game in active development with building, crafting and survival mechanics. Licensed under GPL3.",
+      "section": [
+        "Browser-Based",
+        "Sandbox"
+      ]
+    },
+    {
       "key": "https://github.com/R74nCom/sandboxels",
       "name": "Sandboxels",
       "url": "https://github.com/R74nCom/sandboxels",
@@ -977,7 +1017,7 @@
       "key": "https://github.com/binarymax/anagramica",
       "name": "Anagramica",
       "url": "https://github.com/binarymax/anagramica",
-      "description": "A word game and API for anagrams.",
+      "description": "Word game and API for anagrams.",
       "section": [
         "Browser-Based",
         "Puzzle"
@@ -1057,7 +1097,7 @@
       "key": "https://github.com/mvasilkov/glitch2016",
       "name": "Couch 2048",
       "url": "https://github.com/mvasilkov/glitch2016",
-      "description": "A physics-based puzzle, loosely related to the original 2048 game.",
+      "description": "Physics-based puzzle, loosely related to the original 2048 game.",
       "section": [
         "Browser-Based",
         "Puzzle"
@@ -1067,7 +1107,7 @@
       "key": "https://github.com/sharkdp/cube-composer",
       "name": "cube-composer",
       "url": "https://github.com/sharkdp/cube-composer",
-      "description": "A puzzle game inspired by functional programming.",
+      "description": "Puzzle game inspired by functional programming.",
       "section": [
         "Browser-Based",
         "Puzzle"
@@ -1197,7 +1237,7 @@
       "key": "https://github.com/abejfehr/parity",
       "name": "Parity",
       "url": "https://github.com/abejfehr/parity",
-      "description": "A numbers puzzle game.",
+      "description": "Numbers puzzle game.",
       "section": [
         "Browser-Based",
         "Puzzle"
@@ -1207,7 +1247,7 @@
       "key": "https://github.com/Zolmeister/pond",
       "name": "Pond",
       "url": "https://github.com/Zolmeister/pond",
-      "description": "The Pound is about relaxing and exploring a beautiful world.",
+      "description": "Pound is about relaxing and exploring a beautiful world.",
       "section": [
         "Browser-Based",
         "Puzzle"
@@ -1247,7 +1287,7 @@
       "key": "https://github.com/binarymax/shape",
       "name": "Shape Experiment",
       "url": "https://github.com/binarymax/shape",
-      "description": "The shape recognition reflex game.",
+      "description": "Shape recognition reflex game.",
       "section": [
         "Browser-Based",
         "Puzzle"
@@ -1267,7 +1307,7 @@
       "key": "https://github.com/baruchel/sudoku-js",
       "name": "Sudoku JavaScript",
       "url": "https://github.com/baruchel/sudoku-js",
-      "description": "A Sudoku puzzle game with a clean design and mobile devices in mind.",
+      "description": "Sudoku puzzle game with a clean design and mobile devices in mind.",
       "section": [
         "Browser-Based",
         "Puzzle"
@@ -1354,10 +1394,30 @@
       ]
     },
     {
+      "key": "https://github.com/JezKirkpatrick/WorldChase",
+      "name": "World Chase",
+      "url": "https://github.com/JezKirkpatrick/WorldChase",
+      "description": "Competitive weekly geography game. Decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels, 25 new challenges every week.",
+      "section": [
+        "Browser-Based",
+        "Geography"
+      ]
+    },
+    {
+      "key": "https://github.com/JezKirkpatrick/kids-world-chase",
+      "name": "Kids World Chase",
+      "url": "https://github.com/JezKirkpatrick/kids-world-chase",
+      "description": "Weekly geography adventure for children aged 8-13. Solve riddles, explore real locations via Google Street View.",
+      "section": [
+        "Browser-Based",
+        "Geography"
+      ]
+    },
+    {
       "key": "https://github.com/dominikwilkowski/beast",
       "name": "Beast",
       "url": "https://github.com/dominikwilkowski/beast",
-      "description": "An homage to the 1984 ASCII game \"BEAST\" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.",
+      "description": "Homage to the 1984 ASCII game \"BEAST\" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.",
       "section": [
         "Browser-Based",
         "Others"
@@ -1407,7 +1467,7 @@
       "key": "https://github.com/TomWHall/Descensus2",
       "name": "Descensus 2",
       "url": "https://github.com/TomWHall/Descensus2",
-      "description": "A TypeScript 2D physics game.",
+      "description": "TypeScript 2D physics game.",
       "section": [
         "Browser-Based",
         "Others"
@@ -1517,7 +1577,7 @@
       "key": "https://github.com/openfw-game/OpenLiberty",
       "name": "OpenLiberty",
       "url": "https://github.com/openfw-game/OpenLiberty",
-      "description": "An open-source reimplementation of Grand Theft Auto III on the Godot Engine.",
+      "description": "Open-source reimplementation of Grand Theft Auto III on the Godot Engine.",
       "section": [
         "Native",
         "Action"
@@ -1567,7 +1627,7 @@
       "key": "https://github.com/SimonLarsen/duckmarines",
       "name": "Duckmarines",
       "url": "https://github.com/SimonLarsen/duckmarines",
-      "description": "A ChuChu Rocket remake for PC.",
+      "description": "ChuChu Rocket remake for PC.",
       "section": [
         "Native",
         "Arcade"
@@ -1777,7 +1837,7 @@
       "key": "https://github.com/GlPortal/glPortal",
       "name": "GlPortal",
       "url": "https://github.com/GlPortal/glPortal",
-      "description": "A modern 3D game and engine with portals written in C++.",
+      "description": "Modern 3D game and engine with portals written in C++.",
       "section": [
         "Native",
         "FPS"
@@ -1787,7 +1847,7 @@
       "key": "https://github.com/ioquake/ioq3",
       "name": "Ioquake3",
       "url": "https://github.com/ioquake/ioq3",
-      "description": "The free software FPS engine that can be used to play Quake 3, or make your own game.",
+      "description": "Free software FPS engine that can be used to play Quake 3, or make your own game.",
       "section": [
         "Native",
         "FPS"
@@ -1867,7 +1927,7 @@
       "key": "https://github.com/xonotic/xonotic",
       "name": "Xonotic",
       "url": "https://github.com/xonotic/xonotic",
-      "description": "An addictive arena-style first person shooter with crisp movement and a wide array of weapons.",
+      "description": "Addictive arena-style first person shooter with crisp movement and a wide array of weapons.",
       "section": [
         "Native",
         "FPS"
@@ -1887,7 +1947,7 @@
       "key": "https://github.com/Meridian59/Meridian59",
       "name": "Meridian 59",
       "url": "https://github.com/Meridian59/Meridian59",
-      "description": "The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.",
+      "description": "First 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.",
       "section": [
         "Native",
         "MMORPG"
@@ -1917,7 +1977,7 @@
       "key": "https://github.com/veloren/veloren",
       "name": "Veloren",
       "url": "https://github.com/veloren/veloren",
-      "description": "An action-adventure role-playing game set in a vast fantasy world.",
+      "description": "Action-adventure role-playing game set in a vast fantasy world.",
       "section": [
         "Native",
         "MMORPG"
@@ -2037,7 +2097,7 @@
       "key": "https://github.com/00-Evan/shattered-pixel-dungeon",
       "name": "Shattered Pixel Dungeon",
       "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
-      "description": "An open source game based on the source code of Pixel Dungeon by Watabou.",
+      "description": "Open source game based on the source code of Pixel Dungeon by Watabou.",
       "section": [
         "Native",
         "RPG"
@@ -2167,7 +2227,7 @@
       "key": "https://github.com/amiruqdah/mario-party",
       "name": "HFT Mario Party",
       "url": "https://github.com/amiruqdah/mario-party",
-      "description": "A remixed local multiplayer reimagining of the original Mario Bros.",
+      "description": "Remixed local multiplayer reimagining of the original Mario Bros.",
       "section": [
         "Native",
         "Platform"
@@ -2197,7 +2257,7 @@
       "key": "https://github.com/Secretchronicles/TSC",
       "name": "The Secret Chronicles of Dr. M.",
       "url": "https://github.com/Secretchronicles/TSC",
-      "description": "A 2D platform game in classic style.",
+      "description": "2D platform game in classic style.",
       "section": [
         "Native",
         "Platform"
@@ -2257,7 +2317,7 @@
       "key": "https://github.com/segrax/DrCreep",
       "name": "Castles of Dr. Creep",
       "url": "https://github.com/segrax/DrCreep",
-      "description": "The Castles of Dr. Creep.",
+      "description": "Board game based on the classic PC adventure.",
       "section": [
         "Native",
         "Puzzle/card/board"
@@ -2447,7 +2507,7 @@
       "key": "https://github.com/manicdigger/manicdigger",
       "name": "Manic Digger",
       "url": "https://github.com/manicdigger/manicdigger",
-      "description": "A multiplayer block-building voxel game, Minecraft clone.",
+      "description": "Multiplayer block-building voxel game, Minecraft clone.",
       "section": [
         "Native",
         "Sandbox"
@@ -2467,7 +2527,7 @@
       "key": "https://github.com/itsapi/pycraft",
       "name": "Pycraft",
       "url": "https://github.com/itsapi/pycraft",
-      "description": "A Minecraft-inspired game for the terminal.",
+      "description": "Minecraft-inspired game for the terminal.",
       "section": [
         "Native",
         "Sandbox"
@@ -2497,7 +2557,7 @@
       "key": "https://github.com/rwf93/Starbound",
       "name": "Starbound",
       "url": "https://github.com/rwf93/Starbound",
-      "description": "A 2D sandbox adventure game where players explore a vast procedurally generated universe.",
+      "description": "2D sandbox adventure game where players explore a vast procedurally generated universe.",
       "section": [
         "Native",
         "Sandbox"
@@ -2577,7 +2637,7 @@
       "key": "https://github.com/colobot/colobot",
       "name": "Colobot",
       "url": "https://github.com/colobot/colobot",
-      "description": "A real-time strategy game with programmable bots.",
+      "description": "Real-time strategy game with programmable bots.",
       "section": [
         "Native",
         "Strategy"
@@ -2617,7 +2677,7 @@
       "key": "https://github.com/hedgewars/hw",
       "name": "Hedgewars",
       "url": "https://github.com/hedgewars/hw",
-      "description": "A turn based strategy, artillery, action and comedy game.",
+      "description": "Turn based strategy, artillery, action and comedy game.",
       "section": [
         "Native",
         "Strategy"
@@ -3187,7 +3247,7 @@
       "key": "https://github.com/jmfieldman/Light-Jockey",
       "name": "Light Jockey",
       "url": "https://github.com/jmfieldman/Light-Jockey",
-      "description": "iOS Auditorium-like game.",
+      "description": "IOS Auditorium-like game.",
       "section": [
         "Mobile Games",
         "iOS"
@@ -3207,7 +3267,7 @@
       "key": "https://github.com/cl7/Sakura-Fly",
       "name": "Sakura Fly",
       "url": "https://github.com/cl7/Sakura-Fly",
-      "description": "iOS action game developed using SpriteKit. Available free on the App Store.",
+      "description": "IOS action game developed using SpriteKit. Available free on the App Store.",
       "section": [
         "Mobile Games",
         "iOS"
@@ -3217,7 +3277,7 @@
       "key": "https://github.com/id-Software/Wolf3D-iOS",
       "name": "Wolfenstein 3D",
       "url": "https://github.com/id-Software/Wolf3D-iOS",
-      "description": "iOS Source Release.",
+      "description": "IOS Source Release.",
       "section": [
         "Mobile Games",
         "iOS"
@@ -3416,7 +3476,7 @@
       "key": "https://github.com/ChilliWorks/ChilliSource",
       "name": "Chilli Works",
       "url": "https://github.com/ChilliWorks/ChilliSource",
-      "description": "An open source, cross-platform game engine designed for indie developers.",
+      "description": "Open source, cross-platform game engine designed for indie developers.",
       "section": [
         "Frameworks/Engines/Libraries"
       ]
@@ -3434,7 +3494,7 @@
       "key": "https://github.com/dfabulich/choicescript",
       "name": "ChoiceScript",
       "url": "https://github.com/dfabulich/choicescript",
-      "description": "A language/engine for developing text-based multiple-choice interactive novels.",
+      "description": "Language/engine for developing text-based multiple-choice interactive novels.",
       "section": [
         "Frameworks/Engines/Libraries"
       ]
@@ -3632,7 +3692,7 @@
       "key": "https://github.com/ikemen-engine/Ikemen-GO",
       "name": "Ikemen GO",
       "url": "https://github.com/ikemen-engine/Ikemen-GO/",
-      "description": "An open-source fighting game engine that supports MUGEN resources. Written in Go.",
+      "description": "Open-source fighting game engine that supports MUGEN resources. Written in Go.",
       "section": [
         "Frameworks/Engines/Libraries"
       ]
@@ -3740,7 +3800,7 @@
       "key": "https://github.com/ppy/osu-framework",
       "name": "osu-framework",
       "url": "https://github.com/ppy/osu-framework",
-      "description": "A game framework written with osu! in mind.",
+      "description": "Game framework written with osu! in mind.",
       "section": [
         "Frameworks/Engines/Libraries"
       ]
@@ -3830,7 +3890,7 @@
       "key": "https://github.com/renpy/renpy",
       "name": "Ren'py",
       "url": "https://github.com/renpy/renpy",
-      "description": "A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.",
+      "description": "Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.",
       "section": [
         "Frameworks/Engines/Libraries"
       ]
@@ -3848,7 +3908,7 @@
       "key": "https://github.com/solarus-games/solarus",
       "name": "Solarus",
       "url": "https://github.com/solarus-games/solarus",
-      "description": "An Action-RPG game engine written in C++.",
+      "description": "Action-RPG game engine written in C++.",
       "section": [
         "Frameworks/Engines/Libraries"
       ]
@@ -3947,7 +4007,7 @@
       "key": "https://github.com/BSVogler/WurfelEngineSDK",
       "name": "Wurfel Engine",
       "url": "https://github.com/BSVogler/WurfelEngineSDK",
-      "description": "An isometric game engine for games with an open world made of blocks or voxels.",
+      "description": "Isometric game engine for games with an open world made of blocks or voxels.",
       "section": [
         "Frameworks/Engines/Libraries"
       ]
@@ -4001,7 +4061,7 @@
       "key": "https://github.com/greenheartgames/greenworks",
       "name": "Greenworks",
       "url": "https://github.com/greenheartgames/greenworks",
-      "description": "A Node.js addon allowing you to integrate HTML5 game with Steamworks.",
+      "description": "Node.js addon allowing you to integrate HTML5 game with Steamworks.",
       "section": [
         "Maps/Hacks/Plugins/Utilities/All of the Things™"
       ]
@@ -4028,7 +4088,7 @@
       "key": "https://github.com/itchio/itch",
       "name": "Itch",
       "url": "https://github.com/itchio/itch",
-      "description": "An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.",
+      "description": "Electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.",
       "section": [
         "Maps/Hacks/Plugins/Utilities/All of the Things™"
       ]
@@ -4100,7 +4160,7 @@
       "key": "https://github.com/Mudlet/Mudlet",
       "name": "Mudlet",
       "url": "https://github.com/Mudlet/Mudlet",
-      "description": "A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.",
+      "description": "Cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.",
       "section": [
         "Maps/Hacks/Plugins/Utilities/All of the Things™"
       ]

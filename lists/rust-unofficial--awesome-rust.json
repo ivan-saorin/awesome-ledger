@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"409b97b27beac7ecb6b7dc96816fa78430979faf762812b2315516a90286a27f\"",
+  "etag": "W/\"47d8514b95c1812fd1fd4b3cda14d7a9360c807ff93ddf2e599acb7a2ebf4f91\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3442,6 +3442,16 @@
       "name": "Scaphandre",
       "url": "https://github.com/hubblo-org/scaphandre",
       "description": "A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).",
+      "section": [
+        "Applications",
+        "Observability"
+      ]
+    },
+    {
+      "key": "https://github.com/uptimepage/uptimepage",
+      "name": "uptimepage/uptimepage",
+      "url": "https://github.com/uptimepage/uptimepage",
+      "description": "Uptime monitoring with public status pages and automatic incidents, with a REST API and a Terraform provider.",
       "section": [
         "Applications",
         "Observability"
@@ -16527,6 +16537,16 @@
       "name": "hyperium/tonic",
       "url": "https://github.com/hyperium/tonic",
       "description": "A native gRPC client & server implementation with async/await support",
+      "section": [
+        "Libraries",
+        "Network programming"
+      ]
+    },
+    {
+      "key": "https://github.com/pygrpc/pygrpc-native",
+      "name": "pygrpc/pygrpc-native",
+      "url": "https://github.com/pygrpc/pygrpc-native",
+      "description": "Drop-in grpcio server for Python that runs HTTP/2 and gRPC in Rust, outside the GIL",
       "section": [
         "Libraries",
         "Network programming"

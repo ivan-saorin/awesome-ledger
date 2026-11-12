@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6a4db6081372759309c8ebf6f7ab07c2bb6dd23d4240f3f29592f485eeb0158d\"",
+  "etag": "W/\"eee0816a04fe18d62da1ce4201647fe4463b243f36211ce713dab5d248474cf3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -365,6 +365,26 @@
       "name": "gatling-wait",
       "url": "https://github.com/Amerousful/gatling-wait",
       "description": "Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.",
+      "section": [
+        "Tools",
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/i-nahornyi/gatling-dummy-sampler",
+      "name": "gatling-dummy-sampler",
+      "url": "https://github.com/i-nahornyi/gatling-dummy-sampler",
+      "description": "Gatling implementation of Dummy Sampler, a plugin for simulating realistic actions without making actual requests.",
+      "section": [
+        "Tools",
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/i-nahornyi/gatling-playwright-plugin",
+      "name": "gatling-playwright-plugin",
+      "url": "https://github.com/i-nahornyi/gatling-playwright-plugin",
+      "description": "A simple Gatling plugin for UI performance testing using Playwright.",
       "section": [
         "Tools",
         "Plugins"

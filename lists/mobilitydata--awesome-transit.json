@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6383d0c10a0ae79ced895103262e0d3ac750f6e4f79c774375055a344c90337a\"",
+  "etag": "W/\"07ae5bb837ad9878512e7310d2a1c0e97ff51296bb8f931aa3cc1c25932c8d7b\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -892,6 +892,17 @@
       ]
     },
     {
+      "key": "https://gtfsexpress.com",
+      "name": "GTFS Express",
+      "url": "https://gtfsexpress.com",
+      "description": "Browser app to validate, fix and re-export GTFS feeds end to end. Validate with MobilityData's canonical validator, then fix findings in place: edit every table (point edits in the UI, bulk edits via a SQL console or a natural-language AI), reshape route geometry on a map with Shape Studio (OSRM snap-to-road), and have the AI repair assistant draft a fix, preview the rows it changes, apply it transactionally and re-validate. Full Schedule spec plus Fares v1/v2 and GTFS-Flex, feed-to-feed diff, 8 languages. Open source, AGPL-3.0: source.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Data Collection and Maintenance Tools"
+      ]
+    },
+    {
       "key": "https://github.com/WRI-Cities/static-GTFS-manager",
       "name": "static-GTFS-manager",
       "url": "https://github.com/WRI-Cities/static-GTFS-manager",
@@ -1083,17 +1094,6 @@
       "name": "Uttu",
       "url": "https://github.com/entur/uttu",
       "description": "Back-end for Nplan, a simple timetable editor.",
-      "section": [
-        "Producing Data",
-        "GTFS",
-        "GTFS Data Collection and Maintenance Tools"
-      ]
-    },
-    {
-      "key": "https://gtfsexpress.com",
-      "name": "GTFS Express",
-      "url": "https://gtfsexpress.com",
-      "description": "Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via MobilityData's gtfs-validator.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -1968,6 +1968,17 @@
       ]
     },
     {
+      "key": "https://viz.rt.gtfs.zone",
+      "name": "GTFS Zone RT Visualizer",
+      "url": "https://viz.rt.gtfs.zone",
+      "description": "Static web application to analyze GTFS Realtime feeds. No login needed, fast, and transparent to the specification. Open-source (AGPL-3.0) on GitHub.",
+      "section": [
+        "Producing Data",
+        "GTFS Realtime",
+        "GTFS Realtime Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus",
       "name": "GTFS Data Pipeline for TfNSW Bus Datasets",
       "url": "https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus",
@@ -2814,6 +2825,16 @@
       "name": "TripGo API",
       "url": "https://developer.tripgo.com",
       "description": "REST API for multi-modal journey planning and real-time data by SkedGo.",
+      "section": [
+        "Sharing Data",
+        "Proprietary (non-standard) vendor APIs"
+      ]
+    },
+    {
+      "key": "https://infranode.dev",
+      "name": "InfraNode",
+      "url": "https://infranode.dev",
+      "description": "Keyless REST (and MCP) API for 84+ German cities. Includes public-transport stops and live departures with real-time delays (DELFI/GTFS, HVV, VGN), alongside weather, air quality, traffic and roadworks. No API key.",
       "section": [
         "Sharing Data",
         "Proprietary (non-standard) vendor APIs"
@@ -4395,26 +4416,6 @@
       ]
     },
     {
-      "key": "https://ridewithvia.com/solutions/remix",
-      "name": "Remix by Via",
-      "url": "https://ridewithvia.com/solutions/remix",
-      "description": "A webapp that lets transit agencies easily plan routes.",
-      "section": [
-        "Using Data",
-        "Agency Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/data-creative/next-train-api",
-      "name": "Next Train API",
-      "url": "https://github.com/data-creative/next-train-api",
-      "description": "Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.",
-      "section": [
-        "Using Data",
-        "Agency Tools"
-      ]
-    },
-    {
       "key": "https://github.com/actransitorg/ACTransit.RestroomFinder",
       "name": "AC Transit RestroomFinder",
       "url": "https://github.com/actransitorg/ACTransit.RestroomFinder",
@@ -4445,6 +4446,26 @@
       ]
     },
     {
+      "key": "https://gtfsx.com/editor",
+      "name": "GTFS·X",
+      "url": "https://www.gtfsx.com/editor",
+      "description": "Fast, free, web-based GTFS editor. GNU licensed (GitHub).",
+      "section": [
+        "Using Data",
+        "Agency Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/data-creative/next-train-api",
+      "name": "Next Train API",
+      "url": "https://github.com/data-creative/next-train-api",
+      "description": "Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.",
+      "section": [
+        "Using Data",
+        "Agency Tools"
+      ]
+    },
+    {
       "key": "https://ptvgroup.com/en/products/ptv-lines",
       "name": "PTV Lines",
       "url": "https://www.ptvgroup.com/en/products/ptv-lines",
@@ -4465,6 +4486,26 @@
       ]
     },
     {
+      "key": "https://ridewithvia.com/solutions/remix",
+      "name": "Remix by Via",
+      "url": "https://ridewithvia.com/solutions/remix",
+      "description": "A webapp that lets transit agencies easily plan routes.",
+      "section": [
+        "Using Data",
+        "Agency Tools"
+      ]
+    },
+    {
+      "key": "https://docs.ridesheet.org",
+      "name": "RideSheet",
+      "url": "https://docs.ridesheet.org",
+      "description": "A simple, spreadsheet-based tool for small demand-responsive transportation (DRT) services.",
+      "section": [
+        "Using Data",
+        "Agency Tools"
+      ]
+    },
+    {
       "key": "https://metrotransitmn.shinyapps.io/route-trends",
       "name": "webapp",
       "url": "https://metrotransitmn.shinyapps.io/route-trends/",
@@ -4479,16 +4520,6 @@
       "name": "TBEST",
       "url": "https://tbest.org/",
       "description": "TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.",
-      "section": [
-        "Using Data",
-        "Agency Tools"
-      ]
-    },
-    {
-      "key": "https://docs.ridesheet.org",
-      "name": "RideSheet",
-      "url": "https://docs.ridesheet.org",
-      "description": "A simple, spreadsheet-based tool for small demand-responsive transportation (DRT) services.",
       "section": [
         "Using Data",
         "Agency Tools"

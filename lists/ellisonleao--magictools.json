@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1658e08f9afca5800afc5e7f34d8d07467d71c0e2abedca98706f8eefd60e77a\"",
+  "etag": "W/\"fd685693c72344ad5fa11b1442e38e5dbdd47bc2968c4dc3f406b24a07c34219\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -504,6 +504,16 @@
       ]
     },
     {
+      "key": "https://normalmapbench.com",
+      "name": "Normal Map Bench",
+      "url": "https://normalmapbench.com/",
+      "description": "Generate tangent-space normal maps for game textures from height images in the browser, with a live lighting preview and OpenGL or DirectX PNG export.",
+      "section": [
+        "Graphics",
+        "Texture Tools"
+      ]
+    },
+    {
       "key": "https://pixeldreamerstudio.itch.io/pd-sigil-forge",
       "name": "PD Sigil Forge",
       "url": "https://pixeldreamerstudio.itch.io/pd-sigil-forge",
@@ -958,6 +968,16 @@
       "name": "Pixanima",
       "url": "https://pixanima.app",
       "description": "Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
+      "key": "https://pixelarthive.com/pixel-art-upscaler",
+      "name": "PixelArtHive Sprite Upscaler",
+      "url": "https://pixelarthive.com/pixel-art-upscaler",
+      "description": "Resize sprites for 2D games at whole-number scales without blur. Runs in the browser without uploading the sprite.",
       "section": [
         "Graphics",
         "Vector/Image Editor"
@@ -2848,6 +2868,16 @@
       "name": "3D-Agent",
       "url": "https://3d-agent.com/blender-ai",
       "description": "AI agent for game-ready 3D assets in Blender: models with clean quad topology and UVs, materials, rigs and animation from plain-language prompts, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio for scripts, assets and playtests, and builds FiveM / GTA V scenes.",
+      "section": [
+        "Code",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/Justin-sky/ai-art-engine",
+      "name": "AI Art Engine",
+      "url": "https://github.com/Justin-sky/ai-art-engine",
+      "description": "Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.",
       "section": [
         "Code",
         "AI"

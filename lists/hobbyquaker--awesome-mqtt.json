@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6e9fe28acd000d03efee12fe104da5bcfce15b67a5396d64899079f2800f3346\"",
+  "etag": "W/\"e4176acedae77456dd8d6b8eed09af1aa42489e33abd929f3d641d5cdd2996c8\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -507,6 +507,15 @@
       ]
     },
     {
+      "key": "https://devicechain.io",
+      "name": "DeviceChain",
+      "url": "https://devicechain.io",
+      "description": "Apache-2.0, multi-tenant IoT platform for Kubernetes with a built-in MQTT 3.1.1 broker (TLS, QoS 0/1, per-device credentials or client certificates), plus Sparkplug B, LwM2M and HTTP ingest, rules, alarms, commands and dashboards.",
+      "section": [
+        "Platforms"
+      ]
+    },
+    {
       "key": "https://iotellect.com",
       "name": "Iotellect",
       "url": "https://iotellect.com/",
@@ -727,6 +736,15 @@
       "name": "mqtt-forget",
       "url": "https://github.com/hobbyquaker/mqtt-forget",
       "description": "Command line tool to remove retained MQTT topics by wildcard.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/kgvicente/mqtt-gateway",
+      "name": "MQTT Gateway",
+      "url": "https://github.com/kgvicente/mqtt-gateway",
+      "description": "Multi-broker HTTP authentication and topic permissions gateway (Mosquitto, EMQX, VerneMQ) with real-time UI and zero database.",
       "section": [
         "Tools"
       ]
@@ -1478,6 +1496,16 @@
       "name": "deskmate",
       "url": "https://github.com/rbaron/deskmate",
       "description": "A hackable & portable MQTT-powered mini dashboard and control center.",
+      "section": [
+        "Interfaces",
+        "Makers"
+      ]
+    },
+    {
+      "key": "https://github.com/ErdiTech/erdi-lrf-raspberry-pi-python",
+      "name": "erdi-lrf-raspberry-pi-python",
+      "url": "https://github.com/ErdiTech/erdi-lrf-raspberry-pi-python",
+      "description": "Raspberry Pi Python tool that reads a UART laser rangefinder / distance sensor module and publishes the distance to an MQTT broker.",
       "section": [
         "Interfaces",
         "Makers"

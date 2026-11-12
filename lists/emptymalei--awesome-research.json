@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9043e3c331dd5aaea5d06c1533c79fd8909a30c82b01f3c8418f0be284050af0\"",
+  "etag": "W/\"5a9f7583f6f7ff7075068e2ea840adce3de3020a923bdb1455819287f3b95b89\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -332,6 +332,16 @@
       ]
     },
     {
+      "key": "https://scientificfigure.com",
+      "name": "Scientific Figure",
+      "url": "https://scientificfigure.com/",
+      "description": "AI tool that draws scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF; exports SVG and PPTX at journal column widths.",
+      "section": [
+        "Cloud Services",
+        "Plotting and Charting Online"
+      ]
+    },
+    {
       "key": "https://datadryad.org",
       "name": "DRYAD",
       "url": "http://datadryad.org/",
@@ -479,6 +489,17 @@
       "name": "Voidly Censorship Index",
       "url": "https://voidly.ai/data",
       "description": "(Lookup, API): Open dataset of global internet censorship — 19.6M live OONI samples, 1.6M historical records across 119+ countries, 5,356 citable incidents with 16,822 evidence items. CC BY 4.0, REST/MCP API, HuggingFace parquet exports.",
+      "section": [
+        "Cloud Services",
+        "Datasets",
+        "Social Sciences"
+      ]
+    },
+    {
+      "key": "https://twtdata.com/twitter-trends",
+      "name": "twtData X Trends Archive",
+      "url": "https://twtdata.com/twitter-trends/",
+      "description": "(Lookup): X (Twitter) trending topics by country and city, with a page for each past day; the largest countries are recorded hourly.",
       "section": [
         "Cloud Services",
         "Datasets",
@@ -686,6 +707,16 @@
       ]
     },
     {
+      "key": "https://getarticlo.com",
+      "name": "Articlo",
+      "url": "https://getarticlo.com/",
+      "description": "Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.",
+      "section": [
+        "Publishing and Sharing",
+        "Writing"
+      ]
+    },
+    {
       "key": "https://readthedocs.org",
       "name": "ReadtheDocs",
       "url": "http://readthedocs.org/",
@@ -863,6 +894,27 @@
       "section": [
         "Note Taking",
         "Notebooks for Researchers"
+      ]
+    },
+    {
+      "key": "https://glasp.co",
+      "name": "Glasp",
+      "url": "https://glasp.co",
+      "description": "Web and YouTube highlighter with AI summaries and notes, plus Kindle highlights import. Browser extensions, iOS and Android apps, and an MCP server; export to Notion, Obsidian and Zotero.",
+      "section": [
+        "Note Taking",
+        "Notebooks for Researchers"
+      ]
+    },
+    {
+      "key": "https://metaory.github.io/markon",
+      "name": "markon",
+      "url": "https://metaory.github.io/markon/",
+      "description": "(Cloud, Local PWA): Minimal distraction-free live Markdown editor.",
+      "section": [
+        "Note Taking",
+        "Editors",
+        "Markdown"
       ]
     },
     {
@@ -1130,6 +1182,17 @@
       ]
     },
     {
+      "key": "https://manulyx.com",
+      "name": "Manulyx",
+      "url": "https://manulyx.com/",
+      "description": "(Cloud): Online LaTeX editor for writing and revising papers with co-authors: real-time co-editing, track changes, publisher templates, submission stages, response-to-reviewers letters and marked manuscripts. Free plan available.",
+      "section": [
+        "Note Taking",
+        "Editors",
+        "LaTeX"
+      ]
+    },
+    {
       "key": "https://github.com/overleaf/overleaf",
       "name": "Overleaf Source Code",
       "url": "https://github.com/overleaf/overleaf",
@@ -1200,6 +1263,17 @@
       "name": "TeXWorks",
       "url": "https://www.tug.org/texworks/",
       "description": "No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.",
+      "section": [
+        "Note Taking",
+        "Editors",
+        "LaTeX"
+      ]
+    },
+    {
+      "key": "https://oleafly.com",
+      "name": "Oleafly",
+      "url": "https://oleafly.com",
+      "description": "Open-source desktop editor for LaTeX, Typst and Markdown with a built-in LaTeX engine, live PDF preview and Zotero citations. Runs offline on macOS, Windows and Linux.",
       "section": [
         "Note Taking",
         "Editors",
@@ -1749,6 +1823,16 @@
       ]
     },
     {
+      "key": "https://neovim.io",
+      "name": "neovim",
+      "url": "https://neovim.io/",
+      "description": "(Free,Cross-platform,Plugins): Vim-fork focused on extensibility and usability.",
+      "section": [
+        "Programming",
+        "Code Editors"
+      ]
+    },
+    {
       "key": "https://wolfram.com/mathematica",
       "name": "Mathematica",
       "url": "http://www.wolfram.com/mathematica/",
@@ -2039,6 +2123,16 @@
       ]
     },
     {
+      "key": "https://journalcompass.com",
+      "name": "JournalCompass",
+      "url": "https://journalcompass.com",
+      "description": "Free bilingual journal finder: CAS zones, impact factors, review times, APC/OA status and an AI journal matcher.",
+      "section": [
+        "Academic",
+        "Investigate Papers"
+      ]
+    },
+    {
       "key": "https://zenodo.org",
       "name": "Zenodo",
       "url": "https://zenodo.org/",
@@ -2159,6 +2253,16 @@
       ]
     },
     {
+      "key": "https://github.com/wedo911/citeguard",
+      "name": "citeguard",
+      "url": "https://github.com/wedo911/citeguard",
+      "description": "Checks a .bib/.ris bibliography (or a single DOI) for cited papers that have been retracted, corrected, or flagged with an expression of concern, via Crossref and the Retraction Watch records it carries. Python library/CLI, MCP server, and GitHub Action; no API key. pip install citeguard-cli",
+      "section": [
+        "Academic",
+        "Bibliography"
+      ]
+    },
+    {
       "key": "https://github.com/jkitchin/org-ref",
       "name": "org-ref",
       "url": "https://github.com/jkitchin/org-ref",
@@ -2179,6 +2283,16 @@
       ]
     },
     {
+      "key": "https://github.com/the-aurora-lab/reference-verifier",
+      "name": "Reference Verifier",
+      "url": "https://github.com/the-aurora-lab/reference-verifier",
+      "description": "Checks that every reference in a .bib file or LaTeX paper exists in Crossref, OpenAlex, DBLP, arXiv or PubMed, and flags invented papers and wrong DOIs. Open source (MIT).",
+      "section": [
+        "Academic",
+        "Bibliography"
+      ]
+    },
+    {
       "key": "https://collections.plos.org/ten-simple-rules",
       "name": "Ten Simple Rules by PLoS One",
       "url": "http://collections.plos.org/ten-simple-rules",
@@ -2193,6 +2307,16 @@
       "name": "Academic Resources and Grey Literature List",
       "url": "https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature",
       "description": "of the Awesome Open-Source Intelligence List for search engines to search for papers.",
+      "section": [
+        "Academic",
+        "Tips for Researchers"
+      ]
+    },
+    {
+      "key": "https://profscout.com",
+      "name": "ProfScout",
+      "url": "https://profscout.com",
+      "description": "Finds professors most likely to reply to research cold emails, ranked by reply-fit. Freemium.",
       "section": [
         "Academic",
         "Tips for Researchers"
@@ -2859,6 +2983,16 @@
       "name": "Unpay Wall",
       "url": "http://unpaywall.org/",
       "description": "legally download research papers for free.",
+      "section": [
+        "MISC",
+        "More"
+      ]
+    },
+    {
+      "key": "https://tools.mindutil.com/en",
+      "name": "ToolStack",
+      "url": "https://tools.mindutil.com/en",
+      "description": "a free toolbox of 122 browser-based utilities (text, JSON, image, PDF, unit conversion, color) that run entirely client-side, with no signup and no file uploads.",
       "section": [
         "MISC",
         "More"

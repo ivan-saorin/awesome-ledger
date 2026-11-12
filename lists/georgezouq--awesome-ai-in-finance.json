@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"40601aa46c1f829135ee83dc8752a4e7f1466536976f7d649acbe853b9e5bc41\"",
+  "etag": "W/\"246fa6ee937e9a1f57ca45fd9b79116f53ac0ee713281d7815eed8ce080669eb\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -17,6 +17,15 @@
       "name": "TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "Multi-Agents LLM Financial Trading Framework.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/kingabzpro/FastTrade-AI",
+      "name": "FastTrade AI",
+      "url": "https://github.com/kingabzpro/FastTrade-AI",
+      "description": "Signal-only LLM market research workspace with deterministic risk checks, a budgeted batch API, and reproducible checksummed backtests. Never places orders.",
       "section": [
         "Agents"
       ]
@@ -94,10 +103,10 @@
       ]
     },
     {
-      "key": "https://github.com/YichengYang-Ethan/oracle3",
+      "key": "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent",
       "name": "oracle3",
-      "url": "https://github.com/YichengYang-Ethan/oracle3",
-      "description": "Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.",
+      "url": "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent",
+      "description": "Prediction-market trading engine and MCP server for Kalshi, Polymarket, and Solana, with fee-aware no-arbitrage checks across related contracts and live or paper execution.",
       "section": [
         "Agents"
       ]
@@ -143,6 +152,15 @@
       "name": "OpenCandle",
       "url": "https://github.com/Kahtaf/opencandle",
       "description": "Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://dxap.ai",
+      "name": "DXAP",
+      "url": "https://www.dxap.ai/",
+      "description": "Agentic trading harness on Hyperliquid by DX Research Group: write a strategy in plain language, an AI agent trades your own account inside limits a policy engine enforces, and every decision is logged.",
       "section": [
         "Agents"
       ]
@@ -364,10 +382,19 @@
       ]
     },
     {
+      "key": "https://github.com/Krexa-xyz/skills",
+      "name": "Krexa",
+      "url": "https://github.com/Krexa-xyz/skills",
+      "description": "Agent skill and remote MCP server for turning a trading idea, post or video into fixed rules, backtesting and paper-trading them free, and requesting a user-approved live trading agent on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
       "key": "https://github.com/atilaahmettaner/tradingview-mcp",
       "name": "atilaahmettaner/tradingview-mcp",
       "url": "https://github.com/atilaahmettaner/tradingview-mcp",
-      "description": "30+ tools for real-time TradingView market data, technical analysis, screeners, and backtesting across stocks, crypto, forex, and futures.",
+      "description": "MCP server with 39 tools for screeners, multi-timeframe technical analysis, walk-forward backtests, news and sentiment across stocks, crypto, forex, and futures.",
       "section": [
         "MCP Servers",
         "Market Data"
@@ -494,6 +521,16 @@
       ]
     },
     {
+      "key": "https://github.com/itulo/eu-nordic-open-data-mcp",
+      "name": "itulo/eu-nordic-open-data-mcp",
+      "url": "https://github.com/itulo/eu-nordic-open-data-mcp",
+      "description": "Open-source MCP server for official EU open data: ECB FX rates, policy rates and HICP inflation, EU consolidated sanctions screening, VIES VAT validation, and GLEIF LEI ownership chains. No API key for these tools; same tools also available as pay-per-use Apify actors.",
+      "section": [
+        "MCP Servers",
+        "Market Data"
+      ]
+    },
+    {
       "key": "https://github.com/alpacahq/alpaca-mcp-server",
       "name": "alpacahq/alpaca-mcp-server",
       "url": "https://github.com/alpacahq/alpaca-mcp-server",
@@ -614,6 +651,16 @@
       ]
     },
     {
+      "key": "https://github.com/firecrawl/firecrawl-mcp-server",
+      "name": "firecrawl/firecrawl-mcp-server",
+      "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+      "description": "Official Firecrawl MCP server for finance research agents: web search, scrape, and crawl, plus Alexandria providers for SEC EDGAR filings and FRED macro series. Alexandria requires an API key.",
+      "section": [
+        "MCP Servers",
+        "Research & Analysis"
+      ]
+    },
+    {
       "key": "https://radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf",
       "name": "The Theory of Speculation L. Bachelier, 1900",
       "url": "http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf",
@@ -708,6 +755,24 @@
       "name": "Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996",
       "description": "Propose an ensemble strategy that employs deep reinforcement schemes to learn a stock trading strategy by maximizing investment return.",
+      "section": [
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/abs/2604.26091",
+      "name": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital, 2026",
+      "url": "https://arxiv.org/abs/2604.26091",
+      "description": "21-day deployment of 3,505 user-funded LLM agents trading real ETH on Base, measuring how controls outside the model change agent behavior.",
+      "section": [
+        "Papers"
+      ]
+    },
+    {
+      "key": "https://arxiv.org/abs/2609.05663",
+      "name": "What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets, 2026",
+      "url": "https://arxiv.org/abs/2609.05663",
+      "description": "Six months of production behavior from two LLM trading fleets, DX Terminal Pro and DXAP, with paper artifacts and aggregate data on GitHub.",
       "section": [
         "Papers"
       ]
@@ -843,6 +908,15 @@
       "name": "ai-agent-playbook",
       "url": "https://github.com/Electricitysheep/ai-agent-playbook",
       "description": "Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.",
+      "section": [
+        "Courses & Books & Blogs"
+      ]
+    },
+    {
+      "key": "https://agentsfinance.io",
+      "name": "Agents Finance",
+      "url": "https://agentsfinance.io/",
+      "description": "Free bilingual (EN/ES) directory of real AI-agent use cases in accounting, FP&A, treasury and ERPs, with sources, evidence level and copyable prompts.",
       "section": [
         "Courses & Books & Blogs"
       ]
@@ -1028,6 +1102,16 @@
       ]
     },
     {
+      "key": "https://github.com/predixlab/predixlab-signals",
+      "name": "PredixLab Signals",
+      "url": "https://github.com/predixlab/predixlab-signals",
+      "description": "Python research pipeline for daily US equity signals (S&P 500 / Nasdaq-100): LightGBM with purged walk-forward validation, next-session backtests with per-side costs, and leakage tests. Daily data only; not live quotes.",
+      "section": [
+        "Strategies & Research",
+        "Time Series Data"
+      ]
+    },
+    {
       "key": "https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading",
       "name": "Deep-Reinforcement-Stock-Trading",
       "url": "https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading",
@@ -1082,6 +1166,16 @@
       "name": "skfolio",
       "url": "https://github.com/skfolio/skfolio",
       "description": "Python library for portfolio optimization built on top of scikit-learn.",
+      "section": [
+        "Strategies & Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "key": "https://github.com/FanBroWell/CAST",
+      "name": "CAST",
+      "url": "https://github.com/FanBroWell/CAST",
+      "description": "Cross-asset Kalman filtering with model predictive control for limiting portfolio drawdown (ICDM 2026).",
       "section": [
         "Strategies & Research",
         "Portfolio Management"
@@ -1608,6 +1702,16 @@
       ]
     },
     {
+      "key": "https://github.com/autorekt/autorekt",
+      "name": "autorekt",
+      "url": "https://github.com/autorekt/autorekt",
+      "description": "CLI and agent skill that give AI agents market data from free public sources: cross-asset prices, dollar liquidity, swap spreads, positioning, options gamma, China money markets and prediction-market odds, with the age of every value.",
+      "section": [
+        "Data Sources",
+        "Traditional Markets"
+      ]
+    },
+    {
       "key": "https://bitbank.nz",
       "name": "BitBank.nz",
       "url": "https://bitbank.nz",
@@ -1748,6 +1852,16 @@
       ]
     },
     {
+      "key": "https://tokensonar.com/data",
+      "name": "TokenSonar",
+      "url": "https://tokensonar.com/data/",
+      "description": "Institutional adoption scores (0-100) for cryptocurrencies built from spot-ETF assets, institutional partners, news and on-chain real-world-asset value; free JSON download with published methodology, updated twice daily.",
+      "section": [
+        "Data Sources",
+        "Crypto Currencies"
+      ]
+    },
+    {
       "key": "https://github.com/koala73/worldmonitor",
       "name": "WorldMonitor",
       "url": "https://github.com/koala73/worldmonitor",
@@ -1802,6 +1916,16 @@
       "name": "Live Tennis API",
       "url": "https://docs.livetennisapi.com",
       "description": "Tennis scores, win probabilities, and historical match results for prediction-market research via REST and WebSocket. History and advanced features require paid plans.",
+      "section": [
+        "Data Sources",
+        "Prediction Markets"
+      ]
+    },
+    {
+      "key": "https://resolvedmarkets.com",
+      "name": "Resolved Markets",
+      "url": "https://resolvedmarkets.com",
+      "description": "Historical Polymarket order book snapshots, trades and resolutions via REST, WebSocket and a hosted MCP server, plus Hyperliquid perp books. Free tier covers crypto markets.",
       "section": [
         "Data Sources",
         "Prediction Markets"
@@ -1970,6 +2094,15 @@
       ]
     },
     {
+      "key": "https://github.com/datayoga-io/tracemodel",
+      "name": "tracemodel",
+      "url": "https://github.com/datayoga-io/tracemodel",
+      "description": "Python library for financial models that AI agents fill from filings: every number has a source, formulas are traced, and checks catch totals that do not tie.",
+      "section": [
+        "Research Tools"
+      ]
+    },
+    {
       "key": "https://github.com/alexanderwanyoike/the0",
       "name": "the0",
       "url": "https://github.com/alexanderwanyoike/the0",
@@ -2054,6 +2187,16 @@
       "name": "lean",
       "url": "https://github.com/QuantConnect/Lean",
       "description": "Algorithmic trading engine built for easy strategy research, backtesting and live trading.",
+      "section": [
+        "Trading System",
+        "Traditional Market"
+      ]
+    },
+    {
+      "key": "https://github.com/Lumiwealth/lumibot",
+      "name": "lumibot",
+      "url": "https://github.com/Lumiwealth/lumibot",
+      "description": "Python framework for backtesting and live trading with the same strategy code, with a built-in AI agent runtime and 12 broker integrations across stocks, options, futures, forex, crypto and prediction markets.",
       "section": [
         "Trading System",
         "Traditional Market"
@@ -2316,6 +2459,16 @@
       "name": "TraderHarness",
       "url": "https://github.com/HephaestLab/TraderHarness",
       "description": "Contamination-resistant A-share backtesting environment for LLM trading agents, with point-in-time masking, entity/date anonymization, fingerprinted replay, and trajectory (SFT) export.",
+      "section": [
+        "Exchange API",
+        "GYM Environment"
+      ]
+    },
+    {
+      "key": "https://github.com/simoncoombes/tradefloor",
+      "name": "tradefloor",
+      "url": "https://github.com/simoncoombes/tradefloor",
+      "description": "Simulated stock markets with a limit order book per company and an economy underneath, for testing RL policies and LLM trading agents, with a Gymnasium environment and adapters for the OpenAI Agents SDK, PydanticAI and LangGraph.",
       "section": [
         "Exchange API",
         "GYM Environment"
