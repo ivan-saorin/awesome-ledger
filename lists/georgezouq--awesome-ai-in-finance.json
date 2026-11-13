@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"246fa6ee937e9a1f57ca45fd9b79116f53ac0ee713281d7815eed8ce080669eb\"",
+  "etag": "W/\"765bd7fb4d99befb5d3cf854447af2dfd9acba261988b21dc99205a99ee5189a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -161,6 +161,60 @@
       "name": "DXAP",
       "url": "https://www.dxap.ai/",
       "description": "Agentic trading harness on Hyperliquid by DX Research Group: write a strategy in plain language, an AI agent trades your own account inside limits a policy engine enforces, and every decision is logged.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/Quantum-Karate/seduma-trade-agent-demo",
+      "name": "seduma-trade-agent-demo",
+      "url": "https://github.com/Quantum-Karate/seduma-trade-agent-demo",
+      "description": "Practice-only loop that runs LLM trading-agent decisions through confirm-gated simulated fills.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/qrak/LLM_trader",
+      "name": "LLM_trader",
+      "url": "https://github.com/qrak/LLM_trader",
+      "description": "An LLM trading agent that reads a chart rendered from every closed candle, retrieves its own closed trades as memory, and publishes every prompt, decision and loss; paper trading with a ledger the repo can reproduce.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/BijectiveLabs/bitra",
+      "name": "TRA (bitra)",
+      "url": "https://github.com/BijectiveLabs/bitra",
+      "description": "Autonomous crypto trading system in which LLM agents only propose: deterministic rules compute every figure, price costs before any order, size from the operator's risk limit, keep exits at the exchange, and record every decision with a re-verifiable hash.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/shloksobti/alphafinch",
+      "name": "AlphaFinch",
+      "url": "https://github.com/shloksobti/alphafinch",
+      "description": "AlphaEvolve-style agent that invents and evolves trading strategies as code, then grades them on sealed holdouts and a pre-registered multi-market exam; no brokerage connection.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/lss680455-create/multi-agent-investment",
+      "name": "multi-agent-investment",
+      "url": "https://github.com/lss680455-create/multi-agent-investment",
+      "description": "Multi-agent equity research with three reasoning modes and deterministic signal fusion; decisions are reproducible from a pure-function core, with an offline demo that needs no API keys.",
+      "section": [
+        "Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/YizhiSong/FriesTrader",
+      "name": "FriesTrader",
+      "url": "https://github.com/YizhiSong/FriesTrader",
+      "description": "Claude Code template for automated live orders through Robinhood Agentic Trading MCP, with rule-based position sizing and trade limits. Requires an eligible Robinhood Agentic Trading account.",
       "section": [
         "Agents"
       ]
@@ -386,6 +440,15 @@
       "name": "Krexa",
       "url": "https://github.com/Krexa-xyz/skills",
       "description": "Agent skill and remote MCP server for turning a trading idea, post or video into fixed rules, backtesting and paper-trading them free, and requesting a user-approved live trading agent on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs.",
+      "section": [
+        "Skills"
+      ]
+    },
+    {
+      "key": "https://github.com/myc0576/SmartMoney-Cub",
+      "name": "SmartMoney-Cub",
+      "url": "https://github.com/myc0576/SmartMoney-Cub",
+      "description": "Read-only trading journal and review harness for agents: freezes point-in-time evidence packs, replays them deterministically, and grades rule candidates on a frozen 240-case finance benchmark. MIT.",
       "section": [
         "Skills"
       ]
@@ -661,6 +724,56 @@
       ]
     },
     {
+      "key": "https://github.com/Kernel-Hunter/kandle",
+      "name": "Kernel-Hunter/kandle",
+      "url": "https://github.com/Kernel-Hunter/kandle",
+      "description": "Open-source browser charting app with an MCP server: agents read the chart, draw levels, add indicators and alerts, and run strategy backtests on crypto, stocks and forex.",
+      "section": [
+        "MCP Servers",
+        "Research & Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/signal8ai/signal8-mcp",
+      "name": "signal8ai/signal8-mcp",
+      "url": "https://github.com/signal8ai/signal8-mcp",
+      "description": "Official Signal8 MCP server: small-cap dilution (warrants, ATMs, shelf registrations, convertibles, cash runway) with each figure cited to its SEC filing, plus insider and congressional trades, halts and reverse splits. Requires a Signal8 Pro API key.",
+      "section": [
+        "MCP Servers",
+        "Research & Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/Beltran12138/evidence-deflator",
+      "name": "Beltran12138/evidence-deflator",
+      "url": "https://github.com/Beltran12138/evidence-deflator",
+      "description": "Open-source MCP server and Python library that checks how much of an LLM trading backtest falls before the model's training cutoff and how many clean months a claimed Sharpe needs after selection; publishes an evidence-adjusted leaderboard of public AI trading competitions.",
+      "section": [
+        "MCP Servers",
+        "Research & Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/financial-reports/financial-reports-mcp-server",
+      "name": "financial-reports/financial-reports-mcp-server",
+      "url": "https://github.com/financial-reports/financial-reports-mcp-server",
+      "description": "Official FinancialFilings MCP server: annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, with XBRL financials and company identifiers. Free with a registered account (OAuth).",
+      "section": [
+        "MCP Servers",
+        "Research & Analysis"
+      ]
+    },
+    {
+      "key": "https://github.com/kburrus64-max/prop-firm-rules",
+      "name": "kburrus64-max/prop-firm-rules",
+      "url": "https://github.com/kburrus64-max/prop-firm-rules",
+      "description": "Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio or free hosted endpoint, no API key.",
+      "section": [
+        "MCP Servers",
+        "Research & Analysis"
+      ]
+    },
+    {
       "key": "https://radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf",
       "name": "The Theory of Speculation L. Bachelier, 1900",
       "url": "http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf",
@@ -917,6 +1030,15 @@
       "name": "Agents Finance",
       "url": "https://agentsfinance.io/",
       "description": "Free bilingual (EN/ES) directory of real AI-agent use cases in accounting, FP&A, treasury and ERPs, with sources, evidence level and copyable prompts.",
+      "section": [
+        "Courses & Books & Blogs"
+      ]
+    },
+    {
+      "key": "https://ecofinlearning.com",
+      "name": "EcoFinLearn",
+      "url": "https://ecofinlearning.com",
+      "description": "Free in-browser Python, pandas, scikit-learn and SQL lessons for finance and economics students, including return prediction with scikit-learn; runs on Pyodide and SQLite with no signup.",
       "section": [
         "Courses & Books & Blogs"
       ]
@@ -1712,6 +1834,16 @@
       ]
     },
     {
+      "key": "https://github.com/anshuman-pandey/us-bank-data",
+      "name": "US Bank Data",
+      "url": "https://github.com/anshuman-pandey/us-bank-data",
+      "description": "Open Python package for selected FDIC institution financial snapshots and multi-bank quarterly panels with explicit units and archived source evidence.",
+      "section": [
+        "Data Sources",
+        "Traditional Markets"
+      ]
+    },
+    {
       "key": "https://bitbank.nz",
       "name": "BitBank.nz",
       "url": "https://bitbank.nz",
@@ -2098,6 +2230,33 @@
       "name": "tracemodel",
       "url": "https://github.com/datayoga-io/tracemodel",
       "description": "Python library for financial models that AI agents fill from filings: every number has a source, formulas are traced, and checks catch totals that do not tie.",
+      "section": [
+        "Research Tools"
+      ]
+    },
+    {
+      "key": "https://stocktipsarena.com",
+      "name": "StockTipsArena",
+      "url": "https://stocktipsarena.com",
+      "description": "AI-extracted Indian equity (NSE) analyst recommendation tracker, SEBI registry directory, and stock screener auditing 27,000+ public calls against exchange OHLCV candles, with an open CC BY 4.0 benchmark dataset (GitHub) and MCP server (GitHub). Free tier available.",
+      "section": [
+        "Research Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/SpiliosDimakopoulos/fintwin",
+      "name": "FinTwin",
+      "url": "https://github.com/SpiliosDimakopoulos/fintwin",
+      "description": "Open source digital twin of 390+ public companies' finances built from SEC XBRL filings, with Monte Carlo stress tests, conformal forecast intervals and an out-of-sample backtest on 5,000+ SEC filers. Live dashboard and paper included.",
+      "section": [
+        "Research Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/lss680455-create/wallstreetype-research",
+      "name": "wallstreetype-research",
+      "url": "https://github.com/lss680455-create/wallstreetype-research",
+      "description": "Agent-agnostic equity-research pipeline that turns sell-side report methodology into runnable code: a dual-market data layer (US / A-share), institutional chart families, six layout templates, and Markdown-to-Word/PDF report production.",
       "section": [
         "Research Tools"
       ]

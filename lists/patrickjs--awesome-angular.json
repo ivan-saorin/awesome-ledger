@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"296f10e9f6f8b59194ac9c2003e4a6ea82c075803c9ebf3af2270c8051ab14c1\"",
+  "etag": "W/\"e7de13a2012f8febe94f2c61b549b9766865b6140a6ece81c71afd7156f484aa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1764,10 +1764,10 @@
       ]
     },
     {
-      "key": "https://certificates.dev/angular",
+      "key": "https://certificates.dev",
       "name": "Certificates.dev",
-      "url": "https://certificates.dev/angular",
-      "description": "Official Certification of Competence for Angular developers.",
+      "url": "https://certificates.dev",
+      "description": "Proctored Angular certification exams developed with Google Developer Experts. (Free Mid-Level prep weekend: Nov 14–15, 2026)",
       "section": [
         "Learning Resources",
         "Certification Programs"
@@ -4174,16 +4174,6 @@
       ]
     },
     {
-      "key": "https://github.com/Progressive-Insurance/oculr-ngx",
-      "name": "oculr-ngx",
-      "url": "https://github.com/Progressive-Insurance/oculr-ngx",
-      "description": "An analytics library that makes collecting data in an Angular app simple.",
-      "section": [
-        "Development Utilities",
-        "Analytics"
-      ]
-    },
-    {
       "key": "https://github.com/plausible/analytics",
       "name": "plausible",
       "url": "https://github.com/plausible/analytics",
@@ -6014,6 +6004,16 @@
       ]
     },
     {
+      "key": "https://github.com/okzgn/dx-bind-js",
+      "name": "dx-bind-js",
+      "url": "https://github.com/okzgn/dx-bind-js",
+      "description": "A lightweight, framework-agnostic, zero-dependency utility designed to simplify dynamic dependency injection and property binding.",
+      "section": [
+        "Development Utilities",
+        "Runtime"
+      ]
+    },
+    {
       "key": "https://github.com/zvenigora/ng-eval",
       "name": "ng-eval",
       "url": "https://github.com/zvenigora/ng-eval",
@@ -6524,20 +6524,20 @@
       ]
     },
     {
-      "key": "https://github.com/Fl0r14n/ngx-oauth",
-      "name": "ngx-oauth",
-      "url": "https://github.com/Fl0r14n/ngx-oauth",
-      "description": "Zoneless, signal-based OAuth 2.1 library for Angular 22.",
+      "key": "https://github.com/JonnyHeavey/ngx-webauthn",
+      "name": "ngx-webauthn",
+      "url": "https://github.com/JonnyHeavey/ngx-webauthn",
+      "description": "An Angular library offering a type-safe, streamlined abstraction of the native WebAuthn API, with built-in support for standard types and optional presets for common use cases.",
       "section": [
         "Security and Authentication",
         "Authentication"
       ]
     },
     {
-      "key": "https://github.com/JonnyHeavey/ngx-webauthn",
-      "name": "ngx-webauthn",
-      "url": "https://github.com/JonnyHeavey/ngx-webauthn",
-      "description": "An Angular library offering a type-safe, streamlined abstraction of the native WebAuthn API, with built-in support for standard types and optional presets for common use cases.",
+      "key": "https://github.com/Fl0r14n/oidcraft",
+      "name": "oidcraft",
+      "url": "https://github.com/Fl0r14n/oidcraft",
+      "description": "A TypeScript OpenID Provider and client suite featuring @oidcraft/angular for OIDC sign-in against oidcraft or any standard provider.",
       "section": [
         "Security and Authentication",
         "Authentication"
@@ -9974,6 +9974,16 @@
       ]
     },
     {
+      "key": "https://github.com/revolist/gantt",
+      "name": "RevoGrid Gantt",
+      "url": "https://github.com/revolist/gantt",
+      "description": "Gantt charts for project tasks, dependencies, and timelines. Commercial, with a 30-day trial. Docs.",
+      "section": [
+        "Third Party Components",
+        "Charts"
+      ]
+    },
+    {
       "key": "https://github.com/stevermeister/ngx-cookie-service",
       "name": "ngx-cookie-service",
       "url": "https://github.com/stevermeister/ngx-cookie-service",
@@ -10508,6 +10518,16 @@
       "name": "virtua",
       "url": "https://github.com/inokawa/virtua",
       "description": "A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.",
+      "section": [
+        "Third Party Components",
+        "Data Grids"
+      ]
+    },
+    {
+      "key": "https://github.com/BlockSurvey/bs-grid",
+      "name": "ngx-bs-grid",
+      "url": "https://github.com/BlockSurvey/bs-grid",
+      "description": "A zero-dependency MIT-licensed Angular data grid.",
       "section": [
         "Third Party Components",
         "Data Grids"
@@ -11738,6 +11758,16 @@
       "name": "Sqwig",
       "url": "https://sqwig.com/",
       "description": "Rich text editor with spellcheck built in.",
+      "section": [
+        "Third Party Components",
+        "Editors"
+      ]
+    },
+    {
+      "key": "https://github.com/MRydex/angular-mrydex-editor",
+      "name": "angular-mrydex-editor",
+      "url": "https://github.com/MRydex/angular-mrydex-editor",
+      "description": "Generic, plugin-driven rich text editor built on Tiptap for Angular 21.2+.",
       "section": [
         "Third Party Components",
         "Editors"
@@ -13928,6 +13958,16 @@
       "name": "fold.js",
       "url": "https://github.com/christophe77/fold.js",
       "description": "An open-source JavaScript library that makes web apps work properly on foldable phones.",
+      "section": [
+        "Third Party Components",
+        "Layout"
+      ]
+    },
+    {
+      "key": "https://github.com/revolist/kanban",
+      "name": "RevoGrid Kanban",
+      "url": "https://github.com/revolist/kanban",
+      "description": "Kanban boards for organizing work into columns and moving cards between them. Commercial, with a 30-day trial. Docs.",
       "section": [
         "Third Party Components",
         "Layout"
@@ -17608,6 +17648,26 @@
       "name": "LiberaUI",
       "url": "https://github.com/gioelevalori/liberaui",
       "description": "Accessible, zoneless-ready Angular components with a live Theme Studio that exports theme CSS and Angular code. Documentation.",
+      "section": [
+        "Third Party Components",
+        "UI Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/InomjonIsmaylov/kometa-ui-kit",
+      "name": "Kometa UI",
+      "url": "https://github.com/InomjonIsmaylov/kometa-ui-kit",
+      "description": "Angular 22 UI kit of standalone, OnPush, signal-input components themed by CSS custom properties, light and dark, with no third-party UI dependency.",
+      "section": [
+        "Third Party Components",
+        "UI Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/revolist/revo-ui",
+      "name": "Revo UI",
+      "url": "https://github.com/revolist/revo-ui",
+      "description": "MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. Docs.",
       "section": [
         "Third Party Components",
         "UI Libraries"

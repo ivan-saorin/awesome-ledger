@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e35571a4f3e09cf67d17bf28ea0adf189d362cceb28f25a3fedd0900533d8137\"",
+  "etag": "W/\"6a5f7210a972e4de512ce47bb02ac7db756865b5010b3d5ffb3fd00efd6967ad\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1438,6 +1438,16 @@
       "name": "vsql",
       "url": "https://github.com/lydiandy/vsql",
       "description": "A sql query builder for V.",
+      "section": [
+        "Libraries",
+        "Database clients"
+      ]
+    },
+    {
+      "key": "https://github.com/elliotchance/vsql",
+      "name": "vsql",
+      "url": "https://github.com/elliotchance/vsql",
+      "description": "Single-file SQL database written in pure V, following the SQL standard, with a CLI, a PostgreSQL-compatible server and an ORM.",
       "section": [
         "Libraries",
         "Database clients"

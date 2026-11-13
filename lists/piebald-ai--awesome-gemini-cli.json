@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5fbb9ac62953c5bddc44149d5b3acd60dd8ba336e669989c9fd7537a3ffb266e\"",
+  "etag": "W/\"d58558917cdd815319bba4890189e9b0d23a1a3836707d4b6c9d44f996a14570\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1156,6 +1156,24 @@
       ]
     },
     {
+      "key": "https://github.com/dooly6276/claude-bulkhead",
+      "name": "bulkhead",
+      "url": "https://github.com/dooly6276/claude-bulkhead",
+      "description": "Gemini CLI extension for machines that run many agent sessions at once (several Gemini CLI, Claude Code or Codex sessions in separate worktrees of one app). A BeforeTool hook on run_shell_command blocks name-based kills of another session's processes, port collisions, git commands that would switch, stash or delete another session's worktree, whole-disk scans and long foreground sleeps, and holds heavy commands back when RAM runs low; each block tells the agent the safe command instead. No dependencies, MIT. Install with gemini extensions install https://github.com/dooly6276/claude-bulkhead.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Bugb-Technologies/bravos-plugins",
+      "name": "Bravos",
+      "url": "https://github.com/Bugb-Technologies/bravos-plugins",
+      "description": "Gemini CLI extension (14 skills, the GuardLink MCP server and a GEMINI.md context file) for continuous threat modeling as code that proves the threats: built on GuardLink, it drives Gemini through the threat model, code graph, SAST and authorized pentests (cert-x-gen, against targets you own, loopback by default) that show which exposures are exploitable, then gates PRs and keeps a retest per fix. Runs locally; your code is not sent to Bugb (the licence check contacts account.bugb.io). Commercial; needs the bravos CLI (npm install -g @bugb-technologies/bravos, Node 20+) and a Bugb account. Install: gemini extensions install https://github.com/Bugb-Technologies/bravos-plugins.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1808,6 +1826,15 @@
       "name": "AI Access Auditor",
       "url": "https://github.com/dirmedmr-alt/ai-access-auditor",
       "description": "Desktop app (macOS, Windows, Linux) that lists what Gemini CLI and other coding agents are allowed to do (trusted folders, allowed tools, MCP servers, API keys left in logs) and revokes any of it with undo. Can add a Gemini CLI hook that asks before a tool runs. Local only, MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/aligndottech/align-cli",
+      "name": "Align CLI",
+      "url": "https://github.com/aligndottech/align-cli",
+      "description": "Local CLI and MCP server that gives Gemini CLI your team's decisions from Jira, Confluence, Linear, Notion, Slack, Teams, Zoom, GitHub, GitLab, git history and repo docs, and checks its changes against them (Gemini's hook reports after the edit lands). Also works with Claude Code, Codex and others. Free, runs locally, MIT.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -2897,6 +2924,60 @@
       "name": "Datacircle",
       "url": "https://datacircle.dev",
       "description": "Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/krutytskyi/kissmypost-gemini",
+      "name": "KissMyPost",
+      "url": "https://github.com/krutytskyi/kissmypost-gemini",
+      "description": "Reddit audience data for Gemini CLI over a remote MCP server: subreddit finder, best time to post, brand mentions.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/mrhy7176/cloudgpu-mcp",
+      "name": "CloudGPU MCP",
+      "url": "https://github.com/mrhy7176/cloudgpu-mcp",
+      "description": "MIT-licensed local (stdio) MCP server that lets Gemini CLI rent a GPU by the minute on CloudGPU, run a job, download the results and shut the machine down; the same key also works with an OpenAI-compatible API for open models. Needs a CloudGPU account with prepaid balance.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/Bugb-Technologies/guardlink",
+      "name": "GuardLink",
+      "url": "https://github.com/Bugb-Technologies/guardlink",
+      "description": "Continuous threat modeling as code for Gemini CLI: security annotations in source comments are the threat model, parsed deterministically and validated in CI, so it updates as the code changes. guardlink init --agent gemini adds its instructions to .gemini/GEMINI.md, and the MCP server lets Gemini read the threats, exposures and data flows behind a file, check its annotations, find untrusted-entry-to-sink paths with no control, and turn open exposures into cert-x-gen test templates so they can be proven. Local stdio. MIT. Install: npm install -g guardlink, then gemini mcp add guardlink guardlink mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://memgit.dev",
+      "name": "memgit",
+      "url": "https://memgit.dev/?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Versioned memory that Gemini CLI shares with Claude Code, Cursor and Codex: every change is a checkpoint with diff and rollback, and the store syncs end-to-end encrypted between machines. Install: pip install memgit or npx -y memgit-mcp.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/mustafaakmese/agentmart-plugins",
+      "name": "AgentMart",
+      "url": "https://github.com/mustafaakmese/agentmart-plugins",
+      "description": "Hosted MCP server and Gemini CLI extension: a shop of ready parts for coding agents, such as a webhook inbox, memory shared across sessions, schedules that fire after the session ends, uptime watch and a task queue. Searching the catalog is free and needs no sign-in; purchases are paid from a prepaid balance you top up, and the agent asks you before each one. Install: gemini extensions install https://github.com/mustafaakmese/agentmart-plugins, then /mcp auth agentmart.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://mcp.scrapingbee.com",
+      "name": "ScrapingBee",
+      "url": "https://mcp.scrapingbee.com/?utm_source=awesome-gemini-cli&utm_medium=referral#tools",
+      "description": "Hosted MCP server for the ScrapingBee web scraping API: Gemini CLI can fetch any page as HTML, text or a screenshot with JavaScript rendering and proxy rotation, extract fields described in plain English, and get JSON results from Google, Amazon, Walmart, YouTube, ChatGPT and Gemini. 18 tools; the server is closed source. Remote Streamable HTTP with a ScrapingBee API key; free trial of 1,000 credits, no card. Add with: gemini mcp add --transport http scrapingbee https://mcp.scrapingbee.com/mcp --header \"Authorization: Bearer $SCRAPINGBEE_API_KEY\".",
       "section": [
         "MCP Servers"
       ]

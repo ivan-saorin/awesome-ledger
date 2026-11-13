@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c78524915c0eaae685699bef387deb0964bbe2b2477b63d854de2540ef9b5b66\"",
+  "etag": "W/\"1d8561054e51cb6e1405f2a287404235943ce2fe1d75cc2ded2f5af257198c5d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -5750,6 +5750,16 @@
       "name": "cayley",
       "url": "https://github.com/google/cayley",
       "description": "Graph database with support for multiple backends.",
+      "section": [
+        "Database Drivers",
+        "Interfaces to Multiple Backends"
+      ]
+    },
+    {
+      "key": "https://github.com/dal-go/dalgo",
+      "name": "dalgo",
+      "url": "https://github.com/dal-go/dalgo",
+      "description": "Database abstraction layer with one API for records, queries and transactions across SQL and NoSQL backends, including Firestore, SQLite, filesystem and in-memory adapters.",
       "section": [
         "Database Drivers",
         "Interfaces to Multiple Backends"
@@ -26243,6 +26253,16 @@
       "name": "Packer",
       "url": "https://github.com/mitchellh/packer",
       "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "section": [
+        "Software Packages",
+        "DevOps Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/jwminton/pattyGraph",
+      "name": "pattyGraph",
+      "url": "https://github.com/jwminton/pattyGraph",
+      "description": "Real-time NGINX log analyzer with an interactive TUI and JSONL output.",
       "section": [
         "Software Packages",
         "DevOps Tools"

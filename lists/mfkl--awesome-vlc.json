@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ff4aa1ffcd13225919c2447e2baa65e7d1c2047fd0f1549c4f687fa303dea2bd\"",
+  "etag": "W/\"d013b8bba0281ad9d7d2f4f107061961822e12e65232b9d45cc9bc591eb41592\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -98,6 +98,15 @@
       "name": "vlc-mixer",
       "url": "https://github.com/lachie/vlc-mixer",
       "description": "Audio mixer VLC plugin written in Zig.",
+      "section": [
+        "VLC native plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ChrizzElabs/vlc-waveform",
+      "name": "vlc-waveform",
+      "url": "https://github.com/ChrizzElabs/vlc-waveform",
+      "description": "Full-file audio waveform visualization with click-to-seek for VLC on Windows.",
       "section": [
         "VLC native plugins"
       ]
