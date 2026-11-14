@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — awesome-testing</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/thejambo-awesome-testing/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Thu, 12 Nov 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>Momentic — via awesome-testing</title>
+<link>https://momentic.ai</link>
+<guid isPermaLink="false">https://momentic.ai#2026-11-12</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<description>End-to-end tests for web apps in Chromium and mobile apps on hosted iOS simulators and Android emulators, written as YAML that mixes preset steps with natural-language AI steps and run from a CLI locally or in CI. Includes Mo, an agent that explores a running app from a brief and reports findings with evidence.</description>
+</item>
+<item>
+<title>judge-check — via awesome-testing</title>
+<link>https://github.com/dylanpulver/judge-check</link>
+<guid isPermaLink="false">https://github.com/dylanpulver/judge-check#2026-11-11</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.</description>
+</item>
+<item>
+<title>e2e — via awesome-testing</title>
+<link>https://github.com/tester-army/e2e</link>
+<guid isPermaLink="false">https://github.com/tester-army/e2e#2026-11-11</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source end-to-end testing framework for web and mobile apps, combining natural-language agent actions with locators and assertions.</description>
+</item>
+<item>
+<title>coverage — via awesome-testing</title>
+<link>https://github.com/xseman/coverage</link>
+<guid isPermaLink="false">https://github.com/xseman/coverage#2026-11-11</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>GitHub Action that compares LCOV and Go coverage reports against the base branch and posts per-file changes as a sticky PR comment.</description>
+</item>
+<item>
+<title>Bite — via awesome-testing</title>
+<link>https://github.com/connabyss/bite</link>
+<guid isPermaLink="false">https://github.com/connabyss/bite#2026-11-11</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source CLI that checks whether recent &quot;fixed&quot; commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.</description>
+</item>
+<item>
+<title>test-inventory — via awesome-testing</title>
+<link>https://github.com/Huldoser/test-inventory</link>
+<guid isPermaLink="false">https://github.com/Huldoser/test-inventory#2026-11-10</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Extract declared tests, states and skip reasons from JavaScript and TypeScript source without running the suite, and compare saved inventories between revisions.</description>
+</item>
+<item>
+<title>Buggregator — via awesome-testing</title>
+<link>https://github.com/buggregator/server</link>
+<guid isPermaLink="false">https://github.com/buggregator/server#2026-11-10</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Local debugging server with a mock server (OpenAPI import), HTTP request capture and a fake SMTP server whose API waits for an email and extracts one-time codes.</description>
+</item>
+<item>
+<title>blastradius — via awesome-testing</title>
+<link>https://github.com/baokhang83/blastradius</link>
+<guid isPermaLink="false">https://github.com/baokhang83/blastradius#2026-11-09</guid>
+<pubDate>Mon, 9 Nov 2026 06:00:00 +0000</pubDate>
+<description>Test impact analysis for JVM projects (Maven, Gradle, JUnit 5) that runs only the tests affected by a change, using class dependencies recorded by a Java agent.</description>
+</item>
+<item>
+<title>appfuzz — via awesome-testing</title>
+<link>https://github.com/StephanSchmidt/appfuzz</link>
+<guid isPermaLink="false">https://github.com/StephanSchmidt/appfuzz#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Fuzzes WebAssembly apps against a simulated backend and reports crashes, injection, n+1 queries and data leaks, with an exit code for CI.</description>
+</item>
+<item>
+<title>AnalyticsProof — via awesome-testing</title>
+<link>https://analyticsproof.com</link>
+<guid isPermaLink="false">https://analyticsproof.com#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Regression tests for analytics tracking: replays recorded website journeys and reports which step lost a dataLayer event or GA4 parameter. Has a free plan.</description>
+</item>
+<item>
+<title>ScopeHaven — via awesome-testing</title>
+<link>https://github.com/YusefSyed/scopehaven-oss</link>
+<guid isPermaLink="false">https://github.com/YusefSyed/scopehaven-oss#2026-11-07</guid>
+<pubDate>Sat, 7 Nov 2026 06:00:00 +0000</pubDate>
+<description>Runs an AI agent's tasks against a local copy of your app, as different users, and checks whether &quot;done&quot; matches what the app's records show. Node CLI and GitHub Action, Apache-2.0.</description>
+</item>
+<item>
+<title>Cerulion — via awesome-testing</title>
+<link>https://github.com/cerulion-inc/cerulion</link>
+<guid isPermaLink="false">https://github.com/cerulion-inc/cerulion#2026-11-07</guid>
+<pubDate>Sat, 7 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source robot runtime that records each run and re-executes supported native recordings against new code, exiting 1 with the name of the topic that changed, so a recorded robot run becomes a CI regression test.</description>
+</item>
+<item>
+<title>evalship — via awesome-testing</title>
+<link>https://evalship.com/</link>
+<guid isPermaLink="false">https://evalship.com/#2026-11-05</guid>
+<pubDate>Thu, 5 Nov 2026 06:00:00 +0000</pubDate>
+<description>GitHub App that finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and finds prompt and model changes that win beyond chance.</description>
+</item>
+<item>
+<title>llmdrill — via awesome-testing</title>
+<link>https://github.com/hamarshehmhmd/llmdrill</link>
+<guid isPermaLink="false">https://github.com/hamarshehmhmd/llmdrill#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source CLI that runs your app behind a local fake of the Anthropic and OpenAI APIs, injects outages (529/503 overloads, 429 with retry-after, hangs, cut streams) and grades its retries, backoff, timeouts and failover.</description>
+</item>
+<item>
+<title>Replay QA — via awesome-testing</title>
+<link>https://replay.io/</link>
+<guid isPermaLink="false">https://replay.io/#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>Autonomous QA agent for web apps built on Replay's time-travel runtime recording and analysis. It explores an app from its URL, writes and runs Playwright tests, and delivers a root-cause analysis for each failure, backed by evidence from the recorded execution. Free tier, no credit card.</description>
+</item>
+<item>
+<title>GenClass — via awesome-testing</title>
+<link>https://github.com/genclass-dev/GenClass</link>
+<guid isPermaLink="false">https://github.com/genclass-dev/GenClass#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source browser library that reports race conditions in a web app while they happen (stale responses written over newer data, duplicate submits, failure storms) with a small on-device model. Its local MCP server re-runs a page with responses delivered in different orders to find races and replays one order to prove a fix.</description>
+</item>
+<item>
+<title>bareenv — via awesome-testing</title>
+<link>https://github.com/Blasword/bareenv</link>
+<guid isPermaLink="false">https://github.com/Blasword/bareenv#2026-11-03</guid>
+<pubDate>Tue, 3 Nov 2026 06:00:00 +0000</pubDate>
+<description>Runs a command once per environment combination (unset, empty, invalid) and reports the ones that break.</description>
+</item>
+<item>
+<title>Bifurc — via awesome-testing</title>
+<link>https://github.com/HarshalKudale/bifurc</link>
+<guid isPermaLink="false">https://github.com/HarshalKudale/bifurc#2026-11-03</guid>
+<pubDate>Tue, 3 Nov 2026 06:00:00 +0000</pubDate>
+<description>Local-first API client, mock server and traffic proxy for macOS, Windows and Linux, with a CLI for CI.</description>
+</item>
+<item>
+<title>mendwright — via awesome-testing</title>
+<link>https://github.com/saadbuilt/mendwright</link>
+<guid isPermaLink="false">https://github.com/saadbuilt/mendwright#2026-11-02</guid>
+<pubDate>Mon, 2 Nov 2026 06:00:00 +0000</pubDate>
+<description>Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.</description>
+</item>
+<item>
+<title>Brume — via awesome-testing</title>
+<link>https://github.com/brumeorg/Brume</link>
+<guid isPermaLink="false">https://github.com/brumeorg/Brume#2026-11-02</guid>
+<pubDate>Mon, 2 Nov 2026 06:00:00 +0000</pubDate>
+<description>Copies a subset of a PostgreSQL database to a test environment, pseudonymizing personal data and keeping foreign keys valid.</description>
+</item>
+<item>
+<title>ghostwire — via awesome-testing</title>
+<link>https://github.com/nanmuyao-tools/ghostwire</link>
+<guid isPermaLink="false">https://github.com/nanmuyao-tools/ghostwire#2026-11-01</guid>
+<pubDate>Sun, 1 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source Linux tool that mocks ping, TCP connections, UDP errors and DNS per target address, with delay, jitter, loss and faults controllable live through an HTTP API; no proxy to point your program at, no root needed under exec.</description>
+</item>
+<item>
+<title>Persqo — via awesome-testing</title>
+<link>https://persqo.com</link>
+<guid isPermaLink="false">https://persqo.com#2026-11-01</guid>
+<pubDate>Sun, 1 Nov 2026 06:00:00 +0000</pubDate>
+<description>Runs AI personas (different ages, devices and patience levels) through a live web app in a real browser and returns ranked issues with screenshots and severity, plus ready-to-paste fix prompts for your coding agent. 3 free test sessions, no card; paid plans from $59/month.</description>
+</item>
+<item>
+<title>Bite — via awesome-testing</title>
+<link>https://github.com/connabyss/bite</link>
+<guid isPermaLink="false">https://github.com/connabyss/bite#2026-11-01</guid>
+<pubDate>Sun, 1 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source CLI that checks whether recent &quot;fixed&quot; commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.</description>
+</item>
+<item>
+<title>Random IMEI Generator — via awesome-testing</title>
+<link>https://onlineminitools.com/random-imei-generator</link>
+<guid isPermaLink="false">https://onlineminitools.com/random-imei-generator#2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<description>Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.</description>
+</item>
+<item>
+<title>s3-test-server — via awesome-testing</title>
+<link>https://www.npmjs.com/package/s3-test-server</link>
+<guid isPermaLink="false">https://www.npmjs.com/package/s3-test-server#2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<description>S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).</description>
+</item>
+<item>
+<title>vibe-testing — via awesome-testing</title>
+<link>https://github.com/AishwaryShrivastav/vibe-testing</link>
+<guid isPermaLink="false">https://github.com/AishwaryShrivastav/vibe-testing#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.</description>
+</item>
+<item>
+<title>telegym — via awesome-testing</title>
+<link>https://github.com/kolomiichenko/telegym</link>
+<guid isPermaLink="false">https://github.com/kolomiichenko/telegym#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Load testing for Telegram bots: a drop-in Bot API mock plus a k6 extension that drives virtual users.</description>
+</item>
+<item>
+<title>qarunbook — via awesome-testing</title>
+<link>https://qarunbook.com</link>
+<guid isPermaLink="false">https://qarunbook.com#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free shared test runbook where testers record a pass or fail per platform with screenshots, and an issue marked fixed sends the check back for a retest.</description>
+</item>
+<item>
+<title>postal-code-formats — via awesome-testing</title>
+<link>https://github.com/vinceblock99/postal-code-formats</link>
+<guid isPermaLink="false">https://github.com/vinceblock99/postal-code-formats#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.</description>
+</item>
+<item>
+<title>mailsocket — via awesome-testing</title>
+<link>https://mailsocket.app</link>
+<guid isPermaLink="false">https://mailsocket.app#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Inbox API that waits for an email OTP or magic link and returns it as JSON, with Python and TypeScript SDKs and an MCP server.</description>
+</item>
+<item>
+<title>k6 — via awesome-testing</title>
+<link>https://github.com/grafana/k6</link>
+<guid isPermaLink="false">https://github.com/grafana/k6#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.</description>
+</item>
+<item>
+<title>junit-collision-check — via awesome-testing</title>
+<link>https://github.com/sunxiuguo/junit-collision-check</link>
+<guid isPermaLink="false">https://github.com/sunxiuguo/junit-collision-check#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.</description>
+</item>
+<item>
+<title>flight-recorder — via awesome-testing</title>
+<link>https://github.com/xag/flight-recorder</link>
+<guid isPermaLink="false">https://github.com/xag/flight-recorder#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.</description>
+</item>
+<item>
+<title>fieldtwin — via awesome-testing</title>
+<link>https://nickgeorgeai.com/fieldtwin</link>
+<guid isPermaLink="false">https://nickgeorgeai.com/fieldtwin#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.</description>
+</item>
+<item>
+<title>fanout-check — via awesome-testing</title>
+<link>https://github.com/sunxiuguo/fanout-check</link>
+<guid isPermaLink="false">https://github.com/sunxiuguo/fanout-check#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.</description>
+</item>
+<item>
+<title>cloudf.one — via awesome-testing</title>
+<link>https://www.cloudf.one</link>
+<guid isPermaLink="false">https://www.cloudf.one#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.</description>
+</item>
+<item>
+<title>cloneproof — via awesome-testing</title>
+<link>https://github.com/pcjansen09-max/cloneproof</link>
+<guid isPermaLink="false">https://github.com/pcjansen09-max/cloneproof#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Scores how closely a website clone matches the original (pixels, layout, style, scroll motion) with Playwright and lists the exact differences.</description>
+</item>
+<item>
+<title>check-proxy-tax — via awesome-testing</title>
+<link>https://github.com/600me/check-proxy-tax</link>
+<guid isPermaLink="false">https://github.com/600me/check-proxy-tax#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.</description>
+</item>
+<item>
+<title>blastproof — via awesome-testing</title>
+<link>https://blastproof.dev</link>
+<guid isPermaLink="false">https://blastproof.dev#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.</description>
+</item>
+<item>
+<title>behave — via awesome-testing</title>
+<link>https://github.com/emirmrkaljevic/behave</link>
+<guid isPermaLink="false">https://github.com/emirmrkaljevic/behave#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.</description>
+</item>
+<item>
+<title>assay — via awesome-testing</title>
+<link>https://github.com/awss1i/assay</link>
+<guid isPermaLink="false">https://github.com/awss1i/assay#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.</description>
+</item>
+<item>
+<title>aiexpect — via awesome-testing</title>
+<link>https://github.com/dmsehgal/aiexpect</link>
+<guid isPermaLink="false">https://github.com/dmsehgal/aiexpect#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.</description>
+</item>
+<item>
+<title>ai-wright — via awesome-testing</title>
+<link>https://github.com/TestChimp/ai-wright</link>
+<guid isPermaLink="false">https://github.com/TestChimp/ai-wright#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.</description>
+</item>
+<item>
+<title>VibeView — via awesome-testing</title>
+<link>https://vibeview.io/</link>
+<guid isPermaLink="false">https://vibeview.io/#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Run &amp; test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be ran cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.</description>
+</item>
+<item>
+<title>VeriSpec — via awesome-testing</title>
+<link>https://github.com/godikemahesh/verispec</link>
+<guid isPermaLink="false">https://github.com/godikemahesh/verispec#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.</description>
+</item>
+<item>
+<title>Twinbay — via awesome-testing</title>
+<link>https://twinbay.ai</link>
+<guid isPermaLink="false">https://twinbay.ai#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.</description>
+</item>
+<item>
+<title>TempMail Hub — via awesome-testing</title>
+<link>https://tempmailhub.net/</link>
+<guid isPermaLink="false">https://tempmailhub.net/#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free disposable inbox for manual or scripted signup and email-verification testing, with a selectable lifetime from 10 minutes to 7 days and no account required.</description>
+</item>
+<item>
+<title>TabQA — via awesome-testing</title>
+<link>https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp</link>
+<guid isPermaLink="false">https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Connect, mirror, and control Android devices directly in Chrome via WebUSB without ADB; capture logs, inspect network requests, and record bug reproduction video buffers.</description>
+</item>
+<item>
+<title>StanzaAPI Test Data — via awesome-testing</title>
+<link>https://stanzaapi.com/datasets</link>
+<guid isPermaLink="false">https://stanzaapi.com/datasets#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.</description>
+</item>
+<item>
+<title>Spoof Me — via awesome-testing</title>
+<link>https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki</link>
+<guid isPermaLink="false">https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki#2026-10-29</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<description>Test how a site behaves for users in other browsers, OSes, languages, timezones and screen sizes by switching the whole browser identity. Also available for Firefox.</description>
+</item>
+</channel>
+</rss>

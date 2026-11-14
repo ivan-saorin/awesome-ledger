@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Awesome Ledger — awesome-gemini-cli</title>
+<link>https://ivan-saorin.github.io/awesome-ledger/list/piebald-ai-awesome-gemini-cli/</link>
+<description>New entries across the GitHub awesome ecosystem, diffed nightly.</description>
+<lastBuildDate>Sat, 14 Nov 2026 06:00:00 +0000</lastBuildDate>
+<item>
+<title>Wavegrain — via awesome-gemini-cli</title>
+<link>https://github.com/wavegrain/wavegrain-mcp</link>
+<guid isPermaLink="false">https://github.com/wavegrain/wavegrain-mcp#2026-11-14</guid>
+<pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+<description>Curated slideshows and carousels for your brand on autopilot, from Gemini CLI: plan posts for a brand, make TikTok slideshows and Instagram carousels, change slide text, put posts on the Wavegrain Calendar and export them; Wavegrain schedules and posts them for you. Remote MCP server with OAuth sign-in; requires a Wavegrain account. Remote endpoint: https://wavegrain.com/api/mcp. Install: gemini extensions install https://github.com/wavegrain/wavegrain-mcp, then /mcp auth wavegrain.</description>
+</item>
+<item>
+<title>ScanMalware — via awesome-gemini-cli</title>
+<link>https://github.com/scanmalware/scanmalware-plugin</link>
+<guid isPermaLink="false">https://github.com/scanmalware/scanmalware-plugin#2026-11-14</guid>
+<pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+<description>Keyless remote MCP server and Gemini CLI extension for investigating phishing and malicious URLs. Gemini CLI can submit a link to be run in isolated analysis environments and checked against YARA, antivirus and IDS rules, threat feeds and AI (suspicious pages get an AI verdict with a scam type such as credential phishing), then pivot across the public scan archive by domain, IP, ASN, JARM, favicon hash or script hash. A bundled skill walks from one phishing URL to the rest of its campaign. Install: gemini extensions install https://github.com/scanmalware/scanmalware-plugin</description>
+</item>
+<item>
+<title>OsmO Phone Calls — via awesome-gemini-cli</title>
+<link>https://github.com/Mountainheads-Private-limited/osmo-ai-plugins</link>
+<guid isPermaLink="false">https://github.com/Mountainheads-Private-limited/osmo-ai-plugins#2026-11-14</guid>
+<pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension (GEMINI.md context + the remote MCP server https://api.getosmo.app/mcp) that has OsmO's voice AI phone businesses or helplines after you confirm, and returns the summary and transcript. OAuth sign-in with a phone number, no API key. 50 free credits for new users in the US, Canada, UK and Australia; paid after. With free credits, OsmO calls businesses and toll-free numbers; calling your contacts and scheduling calls need an OsmO app plan. Install: gemini extensions install https://github.com/Mountainheads-Private-limited/osmo-ai-plugins.</description>
+</item>
+<item>
+<title>memgit — via awesome-gemini-cli</title>
+<link>https://memgit.dev/?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://memgit.dev/?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Versioned memory that Gemini CLI shares with Claude Code, Cursor and Codex: every change is a checkpoint with diff and rollback, and the store syncs end-to-end encrypted between machines. Install: pip install memgit or npx -y memgit-mcp.</description>
+</item>
+<item>
+<title>bulkhead — via awesome-gemini-cli</title>
+<link>https://github.com/dooly6276/claude-bulkhead</link>
+<guid isPermaLink="false">https://github.com/dooly6276/claude-bulkhead#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension for machines that run many agent sessions at once (several Gemini CLI, Claude Code or Codex sessions in separate worktrees of one app). A BeforeTool hook on run_shell_command blocks name-based kills of another session's processes, port collisions, git commands that would switch, stash or delete another session's worktree, whole-disk scans and long foreground sleeps, and holds heavy commands back when RAM runs low; each block tells the agent the safe command instead. No dependencies, MIT. Install with gemini extensions install https://github.com/dooly6276/claude-bulkhead.</description>
+</item>
+<item>
+<title>ScrapingBee — via awesome-gemini-cli</title>
+<link>https://mcp.scrapingbee.com/?utm_source=awesome-gemini-cli&amp;utm_medium=referral#tools</link>
+<guid isPermaLink="false">https://mcp.scrapingbee.com/?utm_source=awesome-gemini-cli&amp;utm_medium=referral#tools#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Hosted MCP server for the ScrapingBee web scraping API: Gemini CLI can fetch any page as HTML, text or a screenshot with JavaScript rendering and proxy rotation, extract fields described in plain English, and get JSON results from Google, Amazon, Walmart, YouTube, ChatGPT and Gemini. 18 tools; the server is closed source. Remote Streamable HTTP with a ScrapingBee API key; free trial of 1,000 credits, no card. Add with: gemini mcp add --transport http scrapingbee https://mcp.scrapingbee.com/mcp --header &quot;Authorization: Bearer $SCRAPINGBEE_API_KEY&quot;.</description>
+</item>
+<item>
+<title>KissMyPost — via awesome-gemini-cli</title>
+<link>https://github.com/krutytskyi/kissmypost-gemini</link>
+<guid isPermaLink="false">https://github.com/krutytskyi/kissmypost-gemini#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Reddit audience data for Gemini CLI over a remote MCP server: subreddit finder, best time to post, brand mentions.</description>
+</item>
+<item>
+<title>GuardLink — via awesome-gemini-cli</title>
+<link>https://github.com/Bugb-Technologies/guardlink</link>
+<guid isPermaLink="false">https://github.com/Bugb-Technologies/guardlink#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Continuous threat modeling as code for Gemini CLI: security annotations in source comments are the threat model, parsed deterministically and validated in CI, so it updates as the code changes. guardlink init --agent gemini adds its instructions to .gemini/GEMINI.md, and the MCP server lets Gemini read the threats, exposures and data flows behind a file, check its annotations, find untrusted-entry-to-sink paths with no control, and turn open exposures into cert-x-gen test templates so they can be proven. Local stdio. MIT. Install: npm install -g guardlink, then gemini mcp add guardlink guardlink mcp.</description>
+</item>
+<item>
+<title>CloudGPU MCP — via awesome-gemini-cli</title>
+<link>https://github.com/mrhy7176/cloudgpu-mcp</link>
+<guid isPermaLink="false">https://github.com/mrhy7176/cloudgpu-mcp#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>MIT-licensed local (stdio) MCP server that lets Gemini CLI rent a GPU by the minute on CloudGPU, run a job, download the results and shut the machine down; the same key also works with an OpenAI-compatible API for open models. Needs a CloudGPU account with prepaid balance.</description>
+</item>
+<item>
+<title>Bravos — via awesome-gemini-cli</title>
+<link>https://github.com/Bugb-Technologies/bravos-plugins</link>
+<guid isPermaLink="false">https://github.com/Bugb-Technologies/bravos-plugins#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension (14 skills, the GuardLink MCP server and a GEMINI.md context file) for continuous threat modeling as code that proves the threats: built on GuardLink, it drives Gemini through the threat model, code graph, SAST and authorized pentests (cert-x-gen, against targets you own, loopback by default) that show which exposures are exploitable, then gates PRs and keeps a retest per fix. Runs locally; your code is not sent to Bugb (the licence check contacts account.bugb.io). Commercial; needs the bravos CLI (npm install -g @bugb-technologies/bravos, Node 20+) and a Bugb account. Install: gemini extensions install https://github.com/Bugb-Technologies/bravos-plugins.</description>
+</item>
+<item>
+<title>Align CLI — via awesome-gemini-cli</title>
+<link>https://github.com/aligndottech/align-cli</link>
+<guid isPermaLink="false">https://github.com/aligndottech/align-cli#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Local CLI and MCP server that gives Gemini CLI your team's decisions from Jira, Confluence, Linear, Notion, Slack, Teams, Zoom, GitHub, GitLab, git history and repo docs, and checks its changes against them (Gemini's hook reports after the edit lands). Also works with Claude Code, Codex and others. Free, runs locally, MIT.</description>
+</item>
+<item>
+<title>AgentMart — via awesome-gemini-cli</title>
+<link>https://github.com/mustafaakmese/agentmart-plugins</link>
+<guid isPermaLink="false">https://github.com/mustafaakmese/agentmart-plugins#2026-11-13</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Hosted MCP server and Gemini CLI extension: a shop of ready parts for coding agents, such as a webhook inbox, memory shared across sessions, schedules that fire after the session ends, uptime watch and a task queue. Searching the catalog is free and needs no sign-in; purchases are paid from a prepaid balance you top up, and the agent asks you before each one. Install: gemini extensions install https://github.com/mustafaakmese/agentmart-plugins, then /mcp auth agentmart.</description>
+</item>
+<item>
+<title>Kraft Lite — via awesome-gemini-cli</title>
+<link>https://github.com/itsOmidKarami/kraft/tree/main/plugins/kraft-lite</link>
+<guid isPermaLink="false">https://github.com/itsOmidKarami/kraft/tree/main/plugins/kraft-lite#2026-11-12</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension (also a Claude Code plugin) that walks a Kraft chain from spec to pull request inside one session: steps run in order from the chain file, it stops at each gate for a person's answer, and it caps its fix loops. No server; install from a clone with gemini extensions install &lt;clone&gt;/plugins/kraft-lite. Apache-2.0.</description>
+</item>
+<item>
+<title>ClipUGC — via awesome-gemini-cli</title>
+<link>https://github.com/clipugc/ClipUGC-CLI</link>
+<guid isPermaLink="false">https://github.com/clipugc/ClipUGC-CLI#2026-11-11</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension that makes UGC style vertical videos for your app with AI influencers who keep the same face: describe an AI influencer, add a screen recording of your app, and get a ready-to-post video with a hook line for TikTok, Reels and Shorts. Bundles the hosted ClipUGC MCP server (OAuth sign-in, no API key), four Agent Skills and a GEMINI.md context file; needs a ClipUGC account, with free credits to try. Local stdio alternative: npx -y clipugc mcp with CLIPUGC_API_KEY (paid plans). MIT. Install: gemini extensions install https://github.com/clipugc/ClipUGC-CLI.</description>
+</item>
+<item>
+<title>AI Access Auditor — via awesome-gemini-cli</title>
+<link>https://github.com/dirmedmr-alt/ai-access-auditor</link>
+<guid isPermaLink="false">https://github.com/dirmedmr-alt/ai-access-auditor#2026-11-11</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Desktop app (macOS, Windows, Linux) that lists what Gemini CLI and other coding agents are allowed to do (trusted folders, allowed tools, MCP servers, API keys left in logs) and revokes any of it with undo. Can add a Gemini CLI hook that asks before a tool runs. Local only, MIT.</description>
+</item>
+<item>
+<title>idea-to-motion — via awesome-gemini-cli</title>
+<link>https://github.com/georgesmomo/idea-to-motion</link>
+<guid isPermaLink="false">https://github.com/georgesmomo/idea-to-motion#2026-11-10</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/idea-to-motion). Turns any idea into a motion-design video (MP4) with procedural music, synthesised sound effects and an optional local voice-over with captions; asks up to 3 questions only when the brief is incomplete. 14 styles, rendered locally with HyperFrames, no API key.Frames.</description>
+</item>
+<item>
+<title>Publora — via awesome-gemini-cli</title>
+<link>https://github.com/publora-team/gemini-cli-publora</link>
+<guid isPermaLink="false">https://github.com/publora-team/gemini-cli-publora#2026-11-10</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension that schedules and publishes social media posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram through the hosted Publora MCP server, with browser sign-in. Install: gemini extensions install https://github.com/publora-team/gemini-cli-publora.</description>
+</item>
+<item>
+<title>tech-to-motion — via awesome-gemini-cli</title>
+<link>https://github.com/georgesmomo/tech-to-motion</link>
+<guid isPermaLink="false">https://github.com/georgesmomo/tech-to-motion#2026-11-09</guid>
+<pubDate>Mon, 9 Nov 2026 06:00:00 +0000</pubDate>
+<description>Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/tech-to-motion). Turns a docker-compose, Kubernetes manifests, Terraform, a CI workflow or a postmortem into a motion-design explainer video with animated architecture diagrams and synthesised sound, rendered locally with HyperFrames.</description>
+</item>
+<item>
+<title>Shotboard — via awesome-gemini-cli</title>
+<link>https://github.com/freeman14/shotboard-mcp</link>
+<guid isPermaLink="false">https://github.com/freeman14/shotboard-mcp#2026-11-09</guid>
+<pubDate>Mon, 9 Nov 2026 06:00:00 +0000</pubDate>
+<description>Local MCP server built into Shotboard, a closed-source Mac app for marketing content, plus a Gemini CLI extension manifest. Lets Gemini CLI search Meta and TikTok ads, extract scripts from links, and generate images, video and audio with 100 media models while the app is open. Connect with gemini mcp add --transport http -s user --trust shotboard http://127.0.0.1:4317/mcp.</description>
+</item>
+<item>
+<title>KaijuConverter MCP — via awesome-gemini-cli</title>
+<link>https://kaijuconverter.com/api/mcp</link>
+<guid isPermaLink="false">https://kaijuconverter.com/api/mcp#2026-11-09</guid>
+<pubDate>Mon, 9 Nov 2026 06:00:00 +0000</pubDate>
+<description>Remote Model Context Protocol server enabling AI agents to convert files and datasets across 100+ formats (documents, images, audio, video). Works with Gemini CLI: gemini mcp add --transport http kaiju https://kaijuconverter.com/api/mcp.</description>
+</item>
+<item>
+<title>Datacircle — via awesome-gemini-cli</title>
+<link>https://datacircle.dev</link>
+<guid isPermaLink="false">https://datacircle.dev#2026-11-09</guid>
+<pubDate>Mon, 9 Nov 2026 06:00:00 +0000</pubDate>
+<description>Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.</description>
+</item>
+<item>
+<title>gemini-pro-mcp — via awesome-gemini-cli</title>
+<link>https://github.com/Muzaqil555/gemini-pro-mcp</link>
+<guid isPermaLink="false">https://github.com/Muzaqil555/gemini-pro-mcp#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>MCP server that brings a Google AI Pro subscription to Gemini CLI, Claude Code, Codex and the Antigravity CLI: Gemini through the Antigravity CLI on the plan's limits (no API bill), Deep Research, Google Flow videos of any length, Gemini Notebooks (Audio Overviews), AI Mode and Jules, plus Nano Banana images and Omni Flash video through the Gemini API. gemini-pro-mcp setup registers it with Gemini CLI and the other clients in one command, and doctor checks what works. MIT. Install: uvx --from git+https://github.com/Muzaqil555/gemini-pro-mcp gemini-pro-mcp setup.</description>
+</item>
+<item>
+<title>Vicem — via awesome-gemini-cli</title>
+<link>https://github.com/RAKKUNN/vicem</link>
+<guid isPermaLink="false">https://github.com/RAKKUNN/vicem#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Zero-dependency MCP server and CLI that harvests live coding sessions (Gemini CLI chats and GEMINI.md, plus Claude Code, Codex, Cursor and 15+ agents), scores context salience (0–100%), skeletonizes code by 80–90% into a local SHA-256 ledger (.vicem/ledger.json) for lossless on-demand vicem_rehydrate, and writes a portable .vicem/BATON.md handoff. Runs locally with zero network calls. MIT. Add with gemini mcp add vicem npx -y vicem-cli mcp.</description>
+</item>
+<item>
+<title>Orchestrator — via awesome-gemini-cli</title>
+<link>https://orchestrator.inc?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://orchestrator.inc?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source desktop app (macOS, Windows, Linux) that runs Gemini CLI alongside Claude Code, Codex and other coding agents as parallel workers, each in its own git worktree, with an orchestrator agent splitting the work and a board tracking every PR through CI and review.</description>
+</item>
+<item>
+<title>LinkJolt — via awesome-gemini-cli</title>
+<link>https://github.com/Efesop/linkjolt-mcp-server</link>
+<guid isPermaLink="false">https://github.com/Efesop/linkjolt-mcp-server#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Set up and run an affiliate program for your SaaS from Gemini CLI: plan a commission from published benchmarks, create campaigns, add and check tracking for Stripe, Paddle, Polar or Creem, invite affiliates, approve affiliates and sales, and see who you owe. 28 tools; it can't move money. Hosted Streamable HTTP with OAuth sign-in; needs a LinkJolt account (7-day free trial). MIT. Install: gemini extensions install https://github.com/Efesop/linkjolt-mcp-server, then /mcp auth linkjolt.</description>
+</item>
+<item>
+<title>Imagera — via awesome-gemini-cli</title>
+<link>https://github.com/alexadams6ix/imagera-skills</link>
+<guid isPermaLink="false">https://github.com/alexadams6ix/imagera-skills#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Remote MCP server and Gemini CLI extension for image, video, voice and music generation and editing (OAuth sign-in, no API key), with 37 skills and the credit cost stated before each run. Install: gemini extensions install https://github.com/alexadams6ix/imagera-skills</description>
+</item>
+<item>
+<title>GSC PAP — via awesome-gemini-cli</title>
+<link>https://github.com/aliarifsoydas/gsc-pap-claude-plugin</link>
+<guid isPermaLink="false">https://github.com/aliarifsoydas/gsc-pap-claude-plugin#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Hosted, read-only MCP server and Gemini CLI extension for your own Google Search Console, Google Analytics 4, PageSpeed Insights and Chrome UX Report data, plus live Google results. Sign in with Google on first use; it keeps a Search Console archive past Google's 16-month limit. Free. Install: gemini extensions install https://github.com/aliarifsoydas/gsc-pap-claude-plugin</description>
+</item>
+<item>
+<title>AI Usage Meter (VS Code) — via awesome-gemini-cli</title>
+<link>https://github.com/theluckystrike/ai-usage-meter-vscode</link>
+<guid isPermaLink="false">https://github.com/theluckystrike/ai-usage-meter-vscode#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>VS Code extension that reads Gemini CLI session files in ~/.gemini/tmp and shows today's tokens and estimated cost in the status bar, with a dashboard split by project and model. Also covers Claude Code and Codex. Runs offline, no login or API key.</description>
+</item>
+<item>
+<title>AI Meter — via awesome-gemini-cli</title>
+<link>https://github.com/dichiara19/ai-meter</link>
+<guid isPermaLink="false">https://github.com/dichiara19/ai-meter#2026-11-08</guid>
+<pubDate>Sun, 8 Nov 2026 06:00:00 +0000</pubDate>
+<description>Native Windows 11 app that lists active Gemini CLI sessions, on Windows and in WSL, with their model and context in use, next to Google Antigravity quotas and other AI usage limits in a taskbar pill.</description>
+</item>
+<item>
+<title>Sequenzy — via awesome-gemini-cli</title>
+<link>https://github.com/Sequenzy/mcp</link>
+<guid isPermaLink="false">https://github.com/Sequenzy/mcp#2026-11-07</guid>
+<pubDate>Sat, 7 Nov 2026 06:00:00 +0000</pubDate>
+<description>Hosted MCP server for Sequenzy, an email marketing platform for SaaS and ecommerce: manage subscribers, lists, tags and segments, build campaigns, sequences and templates, send transactional email, run A/B tests and read delivery stats from Gemini CLI. About 420 tools, each annotated read-only or destructive. Remote Streamable HTTP with OAuth sign-in (an API key also works); free plan with 2,500 emails/month. MIT. Install: gemini extensions install https://github.com/Sequenzy/mcp, then /mcp auth sequenzy. Local stdio alternative: npx -y @sequenzy/mcp with SEQUENZY_API_KEY.</description>
+</item>
+<item>
+<title>Hermoso — via awesome-gemini-cli</title>
+<link>https://github.com/hermoso-ai/hermoso</link>
+<guid isPermaLink="false">https://github.com/hermoso-ai/hermoso#2026-11-07</guid>
+<pubDate>Sat, 7 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension for marketing: research competitors' ads in the Meta, Google and LinkedIn ad libraries, generate image, video and UGC avatar ads, post and schedule to your own social channels, and manage Meta Ads, Google Ads and TikTok Ads campaigns, through skills that drive the hermoso CLI. Install: gemini extensions install https://github.com/hermoso-ai/hermoso.</description>
+</item>
+<item>
+<title>Chisle — via awesome-gemini-cli</title>
+<link>https://github.com/JayPokale/Chisle</link>
+<guid isPermaLink="false">https://github.com/JayPokale/Chisle#2026-11-07</guid>
+<pubDate>Sat, 7 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension whose GEMINI.md makes answers shorter without dropping decisive facts: no filler or hedging, the smallest code that works (reuse, stdlib and installed dependencies before new code), and reading less (grep before opening files, sliced reads). Benchmarks with raw transcripts are in the repo. npx chisle mcp wrap also trims oversized MCP tool output in Gemini CLI. Install with gemini extensions install https://github.com/JayPokale/Chisle. MIT.</description>
+</item>
+<item>
+<title>Log10x — via awesome-gemini-cli</title>
+<link>https://github.com/log-10x/log10x-plugin</link>
+<guid isPermaLink="false">https://github.com/log-10x/log10x-plugin#2026-11-06</guid>
+<pubDate>Fri, 6 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension that installs the log10x MCP server (MIT, local stdio). It ranks log patterns by volume and cost and plans an action for the excess over each cap: compact on Splunk and self-managed Elasticsearch, tier down or offload to S3 on other platforms. No log data reaches log10x. Install with gemini extensions install https://github.com/log-10x/log10x-plugin.</description>
+</item>
+<item>
+<title>pando — via awesome-gemini-cli</title>
+<link>https://github.com/xseman/pando</link>
+<guid isPermaLink="false">https://github.com/xseman/pando#2026-11-05</guid>
+<pubDate>Thu, 5 Nov 2026 06:00:00 +0000</pubDate>
+<description>Terminal workspace that runs Gemini CLI side by side with Claude Code, Codex, OpenCode and shells, each session in its own git worktree, under a daemon that keeps them running when the TUI closes. Marks a Gemini session running or waiting for approval, reviews and commits its diff in the TUI, and has a CLI that blocks on session status.</description>
+</item>
+<item>
+<title>Candor Finance — via awesome-gemini-cli</title>
+<link>https://candor.money/?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://candor.money/?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-11-05</guid>
+<pubDate>Thu, 5 Nov 2026 06:00:00 +0000</pubDate>
+<description>Personal finance for Gemini CLI from your own US bank, card, loan, and investment accounts: spending, cash flow, a budget, and goals with a target, a date, and a monthly amount, saved across sessions, plus a weekly review that tells Gemini what is worth talking through. Bank access is read-only and no tool moves money. Hosted MCP server with OAuth sign-in plus 10 agent skills; requires a Candor account. Install: gemini extensions install https://github.com/candorsystems/candor-finance, then /mcp auth candor.</description>
+</item>
+<item>
+<title>repofit — via awesome-gemini-cli</title>
+<link>https://github.com/pth2002/repofit</link>
+<guid isPermaLink="false">https://github.com/pth2002/repofit#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>MCP server and CLI that reads what local coding agents already keep (Gemini CLI chats and GEMINI.md, plus Codex, Claude Code, Cursor and others) and recommends GitHub projects for the tasks you repeat, each pick citing the session it came from. Also lists installed MCP servers and skills that no session ever called. Runs locally and uses the agent's own model, so no API key. MIT. Add with gemini mcp add repofit uvx repofit mcp.</description>
+</item>
+<item>
+<title>Skim — via awesome-gemini-cli</title>
+<link>https://github.com/skim-md/skim</link>
+<guid isPermaLink="false">https://github.com/skim-md/skim#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>Browser extension that renders the Markdown plans and docs Gemini CLI writes, re-rendering live as the file changes. KaTeX, Mermaid, folder view.</description>
+</item>
+<item>
+<title>Keenable — via awesome-gemini-cli</title>
+<link>https://github.com/keenableai/keenable-antigravity</link>
+<guid isPermaLink="false">https://github.com/keenableai/keenable-antigravity#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>Web search and page fetch as clean Markdown from Keenable, a search engine with its own crawler and index built for AI agents. Gemini CLI extension that adds Keenable's hosted MCP server (search_web_pages, fetch_page_content) and a web-lookup skill; keyless, no signup or API key (rate limited per IP). MIT. Install: gemini extensions install https://github.com/keenableai/keenable-antigravity.</description>
+</item>
+<item>
+<title>AlphaOSINT LinkedIn Company — via awesome-gemini-cli</title>
+<link>https://alphaosint.com/sources/linkedin-company-api/</link>
+<guid isPermaLink="false">https://alphaosint.com/sources/linkedin-company-api/#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>Remote MCP server for Gemini CLI that returns a company's LinkedIn page details (size, industry, locations, specialties) through https://mcp.apify.com/?tools=johnvc/linkedin-company-api.</description>
+</item>
+<item>
+<title>AgentVera — via awesome-gemini-cli</title>
+<link>https://agentvera.dev/en/?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://agentvera.dev/en/?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-11-04</guid>
+<pubDate>Wed, 4 Nov 2026 06:00:00 +0000</pubDate>
+<description>Desktop app for macOS, Windows and Linux that runs Gemini CLI side by side with Claude Code, Codex, Copilot, Cursor and 13 more coding agents per project, each in a real terminal using your own Gemini CLI install and login. A team kanban board hands cards to agents, and an MCP manager is built in. Closed source; free plan, Pro $9.99/month.</description>
+</item>
+<item>
+<title>mach-gtm-mcp — via awesome-gemini-cli</title>
+<link>https://github.com/verma6uc/mach-gtm-mcp</link>
+<guid isPermaLink="false">https://github.com/verma6uc/mach-gtm-mcp#2026-11-03</guid>
+<pubDate>Tue, 3 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source B2B outbound sales MCP server: build ICPs, research prospects with verified buying signals, score leads (0-100), draft cold emails and LinkedIn messages (1-3-1 framework), and generate multi-touch sequences. Human approval required before any message is sent. Works with Gemini CLI and any MCP client. Install: npx mach-gtm-mcp.</description>
+</item>
+<item>
+<title>Preloop — via awesome-gemini-cli</title>
+<link>https://github.com/preloop/preloop</link>
+<guid isPermaLink="false">https://github.com/preloop/preloop#2026-11-03</guid>
+<pubDate>Tue, 3 Nov 2026 06:00:00 +0000</pubDate>
+<description>Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Works with Gemini CLI, Claude Code, Codex CLI, Cursor, OpenCode and Copilot CLI. Apache-2.0.</description>
+</item>
+<item>
+<title>Ponder — via awesome-gemini-cli</title>
+<link>https://github.com/Quinnod345/ponder</link>
+<guid isPermaLink="false">https://github.com/Quinnod345/ponder#2026-11-03</guid>
+<pubDate>Tue, 3 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension and Agent Skill for multi-pass deliberation and code review: grades every file or document across 6 dimensions, runs four adversarial perspectives (skeptic, builder, dreamer, empath), and blocks early stopping until coverage reaches 1.00 and churn converges below 0.02 across two consecutive passes. Zero runtime dependencies, MIT. Install with gemini extensions install https://github.com/Quinnod345/ponder or npx skills add Quinnod345/ponder -y -a gemini-cli.</description>
+</item>
+<item>
+<title>Joxo — via awesome-gemini-cli</title>
+<link>https://joxo.ai?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://joxo.ai?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-11-03</guid>
+<pubDate>Tue, 3 Nov 2026 06:00:00 +0000</pubDate>
+<description>Shared project for a team's coding agents. Start Gemini CLI with joxo gemini and it works from the same task board, decisions and handoffs as teammates' Claude Code, Codex or Cursor agents, and can ask a teammate's agent for help. Desktop app, iPhone app and a remote MCP server.</description>
+</item>
+<item>
+<title>EndoStack — via awesome-gemini-cli</title>
+<link>https://github.com/requie/endostack</link>
+<guid isPermaLink="false">https://github.com/requie/endostack#2026-11-03</guid>
+<pubDate>Tue, 3 Nov 2026 06:00:00 +0000</pubDate>
+<description>Security-first workflows for coding agents: 62 skills that threat-model changes, security-review diffs and verify results by running them. Works in Gemini CLI, Claude Code, Codex, Cursor and 11 other agents. MIT.</description>
+</item>
+<item>
+<title>vidbyte-memory — via awesome-gemini-cli</title>
+<link>https://github.com/cerredz/vidbyte-memory</link>
+<guid isPermaLink="false">https://github.com/cerredz/vidbyte-memory#2026-11-02</guid>
+<pubDate>Mon, 2 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gemini CLI extension and GitHub template for correction-driven memory: corrections become facts Gemini loads, pytest tests where a check can be written, and git commits, and the installer adds an AfterAgent hook that sends Gemini back to work (up to 5 times in a row) while tests fail.</description>
+</item>
+<item>
+<title>mock-interview — via awesome-gemini-cli</title>
+<link>https://github.com/georgesmomo/mock-interview</link>
+<guid isPermaLink="false">https://github.com/georgesmomo/mock-interview#2026-11-02</guid>
+<pubDate>Mon, 2 Nov 2026 06:00:00 +0000</pubDate>
+<description>Agent Skill that runs in Gemini CLI and other agents (npx skills add georgesmomo/mock-interview). Runs a realistic mock job interview for any role, with research on the job and real follow-up questions, then gives an honest score out of 10 and a written report.</description>
+</item>
+<item>
+<title>Railse — via awesome-gemini-cli</title>
+<link>https://github.com/xufei547/railse-opc</link>
+<guid isPermaLink="false">https://github.com/xufei547/railse-opc#2026-11-02</guid>
+<pubDate>Mon, 2 Nov 2026 06:00:00 +0000</pubDate>
+<description>Self-hosted approval inbox for Gemini CLI, Claude Code and Codex: hooks route every tool call through risk-based rules; for Gemini CLI that means deny rules plus phone notifications for questions and completion, with approvals from the phone for Claude Code and Codex.</description>
+</item>
+<item>
+<title>JobsPipe — via awesome-gemini-cli</title>
+<link>https://jobspipe.dev/mcp-server?utm_source=awesome-gemini-cli&amp;utm_medium=referral</link>
+<guid isPermaLink="false">https://jobspipe.dev/mcp-server?utm_source=awesome-gemini-cli&amp;utm_medium=referral#2026-11-02</guid>
+<pubDate>Mon, 2 Nov 2026 06:00:00 +0000</pubDate>
+<description>Hosted MCP server and Gemini CLI extension for live job postings from 30+ ATS feeds and job boards in one normalized schema: search by role, place, date, salary, seniority, skills and visa stance, read a posting in full, and save searches as alerts. OAuth sign-in or API key, free plan. gemini extensions install https://github.com/jobspipe/mcp.</description>
+</item>
+<item>
+<title>OpenCode Mobile — via awesome-gemini-cli</title>
+<link>https://github.com/Eslamasabry/opencode-mobile-next</link>
+<guid isPermaLink="false">https://github.com/Eslamasabry/opencode-mobile-next#2026-11-01</guid>
+<pubDate>Sun, 1 Nov 2026 06:00:00 +0000</pubDate>
+<description>Independent, unofficial, open-source (MIT) Android app that runs Gemini CLI, with Claude Code, Codex, Qwen Code and other agents, on the phone itself in an Ubuntu environment it installs inside the app, or connects to an agent on your computer. Approve tool requests from a notification or widget, review diffs, preview the dev server. Made by its owner with substantial AI assistance.</description>
+</item>
+</channel>
+</rss>
