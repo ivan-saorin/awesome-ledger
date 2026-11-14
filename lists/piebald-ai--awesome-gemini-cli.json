@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d58558917cdd815319bba4890189e9b0d23a1a3836707d4b6c9d44f996a14570\"",
+  "etag": "W/\"a6c72fea76c3917c5a1f815498831d416217a11d2628d0ccb397f18c6ef84fb5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1169,6 +1169,24 @@
       "name": "Bravos",
       "url": "https://github.com/Bugb-Technologies/bravos-plugins",
       "description": "Gemini CLI extension (14 skills, the GuardLink MCP server and a GEMINI.md context file) for continuous threat modeling as code that proves the threats: built on GuardLink, it drives Gemini through the threat model, code graph, SAST and authorized pentests (cert-x-gen, against targets you own, loopback by default) that show which exposures are exploitable, then gates PRs and keeps a retest per fix. Runs locally; your code is not sent to Bugb (the licence check contacts account.bugb.io). Commercial; needs the bravos CLI (npm install -g @bugb-technologies/bravos, Node 20+) and a Bugb account. Install: gemini extensions install https://github.com/Bugb-Technologies/bravos-plugins.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/wavegrain/wavegrain-mcp",
+      "name": "Wavegrain",
+      "url": "https://github.com/wavegrain/wavegrain-mcp",
+      "description": "Curated slideshows and carousels for your brand on autopilot, from Gemini CLI: plan posts for a brand, make TikTok slideshows and Instagram carousels, change slide text, put posts on the Wavegrain Calendar and export them; Wavegrain schedules and posts them for you. Remote MCP server with OAuth sign-in; requires a Wavegrain account. Remote endpoint: https://wavegrain.com/api/mcp. Install: gemini extensions install https://github.com/wavegrain/wavegrain-mcp, then /mcp auth wavegrain.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/Mountainheads-Private-limited/osmo-ai-plugins",
+      "name": "OsmO Phone Calls",
+      "url": "https://github.com/Mountainheads-Private-limited/osmo-ai-plugins",
+      "description": "Gemini CLI extension (GEMINI.md context + the remote MCP server https://api.getosmo.app/mcp) that has OsmO's voice AI phone businesses or helplines after you confirm, and returns the summary and transcript. OAuth sign-in with a phone number, no API key. 50 free credits for new users in the US, Canada, UK and Australia; paid after. With free credits, OsmO calls businesses and toll-free numbers; calling your contacts and scheduling calls need an OsmO app plan. Install: gemini extensions install https://github.com/Mountainheads-Private-limited/osmo-ai-plugins.",
       "section": [
         "Commands & Extensions"
       ]
@@ -2978,6 +2996,15 @@
       "name": "ScrapingBee",
       "url": "https://mcp.scrapingbee.com/?utm_source=awesome-gemini-cli&utm_medium=referral#tools",
       "description": "Hosted MCP server for the ScrapingBee web scraping API: Gemini CLI can fetch any page as HTML, text or a screenshot with JavaScript rendering and proxy rotation, extract fields described in plain English, and get JSON results from Google, Amazon, Walmart, YouTube, ChatGPT and Gemini. 18 tools; the server is closed source. Remote Streamable HTTP with a ScrapingBee API key; free trial of 1,000 credits, no card. Add with: gemini mcp add --transport http scrapingbee https://mcp.scrapingbee.com/mcp --header \"Authorization: Bearer $SCRAPINGBEE_API_KEY\".",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/scanmalware/scanmalware-plugin",
+      "name": "ScanMalware",
+      "url": "https://github.com/scanmalware/scanmalware-plugin",
+      "description": "Keyless remote MCP server and Gemini CLI extension for investigating phishing and malicious URLs. Gemini CLI can submit a link to be run in isolated analysis environments and checked against YARA, antivirus and IDS rules, threat feeds and AI (suspicious pages get an AI verdict with a scam type such as credential phishing), then pivot across the public scan archive by domain, IP, ASN, JARM, favicon hash or script hash. A bundled skill walks from one phishing URL to the rest of its campaign. Install: gemini extensions install https://github.com/scanmalware/scanmalware-plugin",
       "section": [
         "MCP Servers"
       ]

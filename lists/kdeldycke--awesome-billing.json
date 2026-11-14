@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6f9bbf9cc828ed325819b934bbcc5af56bf6d122754812f2574aa81637bbce22\"",
+  "etag": "W/\"a71e3ee20fc4825e297a41560cac8a4762046ba58435f94a565f8b2a70040184\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -8,6 +8,15 @@
       "name": "5 things I learned while developing a billing system",
       "url": "https://arnon.dk/5-things-i-learned-developing-billing-system/",
       "description": "A great introduction on all the various aspects of a billing system, from currency to invoices, including great illustrations on the logic of changing plans. All these topics are detailed in dedicated sections below.",
+      "section": [
+        "Basics"
+      ]
+    },
+    {
+      "key": "https://news.ycombinator.com/item?id=31424450",
+      "name": "Billing systems are a nightmare for engineers",
+      "url": "https://news.ycombinator.com/item?id=31424450",
+      "description": "There is a shadow army of billing software engineers behind the biggest companies of the world. Here they share their nightmare stories.",
       "section": [
         "Basics"
       ]
@@ -25,16 +34,7 @@
       "key": "https://xunroll.com/thread/1668082843728367616",
       "name": "Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000",
       "url": "https://xunroll.com/thread/1668082843728367616",
-      "description": "Get rid of integers and floats for monetary values. Use decimals. Or face the risks of anomalous x100 charges.",
-      "section": [
-        "Basics"
-      ]
-    },
-    {
-      "key": "https://x.com/kdeldycke/status/1422564355799924736",
-      "name": "source",
-      "url": "https://x.com/kdeldycke/status/1422564355799924736",
-      "description": ")",
+      "description": "Get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate. Or face the risks of anomalous x100 charges, like Google with its coupons.",
       "section": [
         "Basics"
       ]
@@ -134,10 +134,10 @@
       ]
     },
     {
-      "key": "https://x.com/kdeldycke/status/1214160678363246592",
-      "name": "source",
-      "url": "https://x.com/kdeldycke/status/1214160678363246592",
-      "description": ") - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.",
+      "key": "https://web.archive.org/web/20200110052254/https://twitter.com/kdeldycke/status/1214160678363246592",
+      "name": "2020-01-06",
+      "url": "https://web.archive.org/web/20200110052254/https://twitter.com/kdeldycke/status/1214160678363246592",
+      "description": ". Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.",
       "section": [
         "Pricing",
         "Usage-based Pricing"
@@ -158,6 +158,16 @@
       "name": "Allen's interval algebra",
       "url": "https://en.wikipedia.org/wiki/Allen%27s_interval_algebra",
       "description": "Implementing usage-based pricing is tricky, and this algebra will help you organize temporal reasoning. Also see this Stack Overflow question with clean schema.",
+      "section": [
+        "Pricing",
+        "Usage-based Pricing"
+      ]
+    },
+    {
+      "key": "https://kevin.deldycke.com/2020/billing-pipeline-critical-time-sensitive-system",
+      "name": "Billing pipeline: a critical time sensitive system",
+      "url": "https://kevin.deldycke.com/2020/billing-pipeline-critical-time-sensitive-system",
+      "description": "Design notes on Scaleway's billing pipeline, built to “track nano-euros at the milli-seconds time granularity”. My takeaways: get the current time from one central method, randomize the order of the tests, and do not deploy in the first days of the month, when the accounting reports are produced.",
       "section": [
         "Pricing",
         "Usage-based Pricing"
@@ -218,16 +228,6 @@
       "name": "Lago",
       "url": "https://github.com/getlago/lago",
       "description": "💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.",
-      "section": [
-        "Pricing",
-        "Usage-based Pricing"
-      ]
-    },
-    {
-      "key": "https://github.com/geminimir/stripemeter",
-      "name": "StripeMeter",
-      "url": "https://github.com/geminimir/stripemeter",
-      "description": "🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.",
       "section": [
         "Pricing",
         "Usage-based Pricing"
@@ -431,9 +431,9 @@
       ]
     },
     {
-      "key": "https://cloudorado.com",
+      "key": "https://web.archive.org/web/20250917102424/https://www.cloudorado.com",
       "name": "Cloudorado",
-      "url": "https://www.cloudorado.com",
+      "url": "https://web.archive.org/web/20250917102424/https://www.cloudorado.com/",
       "description": "💸 A comparison matrix which use ECU (Amazon's vCPU) as a CPU power measure unit. Operated by Cloudorado as a commercial cloud-comparison product.",
       "section": [
         "Calculator"
@@ -1331,6 +1331,15 @@
       ]
     },
     {
+      "key": "https://go.nli.one/billing",
+      "name": "Whop",
+      "url": "https://go.nli.one/billing",
+      "description": "Platform to accept payments, manage subscriptions and sell software, services or digital products worldwide, at competitive fees. Partner link: the sponsor of this list earns a commission from Whop, at no extra cost to you.",
+      "section": [
+        "Payments"
+      ]
+    },
+    {
       "key": "https://web.archive.org/web/20230204235716/http://aynuriev.com/best-payment-gateway-startups",
       "name": "The Best Payment Gateway for Startups",
       "url": "https://web.archive.org/web/20230204235716/http://aynuriev.com/best-payment-gateway-startups/",
@@ -1385,9 +1394,9 @@
       ]
     },
     {
-      "key": "https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1-339d3e7bea1",
+      "key": "https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1",
       "name": "part 1",
-      "url": "https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1-339d3e7bea1",
+      "url": "https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/",
       "description": ", part 2, part 3, part 4, part 5.",
       "section": [
         "Payments"
@@ -1548,9 +1557,9 @@
       ]
     },
     {
-      "key": "https://blog.setu.co/articles/upi-101-the-basics",
+      "key": "https://web.archive.org/web/20250521190704/https://blog.setu.co/articles/upi-101-the-basics",
       "name": "UPI 101: The Basics",
-      "url": "https://blog.setu.co/articles/upi-101-the-basics",
+      "url": "https://web.archive.org/web/20250521190704/https://blog.setu.co/articles/upi-101-the-basics",
       "description": "“In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”",
       "section": [
         "Payments",
@@ -1568,9 +1577,9 @@
       ]
     },
     {
-      "key": "https://wired.co.uk/article/stripe-payments-apple-amazon-facebook",
+      "key": "https://web.archive.org/web/20230716194531/https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook",
       "name": "The untold story of Stripe",
-      "url": "https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook",
+      "url": "https://web.archive.org/web/20230716194531/https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook",
       "description": "In which we learn that “once turnover hit a certain level, Paypal automatically put the business on a 21 to 60 day rolling reserve, meaning that up to 30 per cent of a company's revenue could be locked up for up to two months.”",
       "section": [
         "Payments",
@@ -1781,6 +1790,16 @@
       ]
     },
     {
+      "key": "https://storage.courtlistener.com/recap/gov.uscourts.ded.81082/gov.uscourts.ded.81082.1.0.pdf",
+      "name": "JPMorgan Chase v. Javice",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.ded.81082/gov.uscourts.ded.81082.1.0.pdf#page=41",
+      "description": "Like Benford's law, applied to Excel: “JPMC first noticed irregularities with the list when a JPMC employee observed that the list contained exactly 1,048,576 rows, the maximum permitted by Microsoft Excel.” A count that stops at the limit of a tool is a sign of truncated or made-up data. Here, the executives of a startup sold for $175 million had bought that list of customers from a marketing firm.",
+      "section": [
+        "Fraud",
+        "Statistics"
+      ]
+    },
+    {
       "key": "https://en.wikipedia.org/wiki/Huber_loss",
       "name": "Huber loss",
       "url": "https://en.wikipedia.org/wiki/Huber_loss",
@@ -1907,9 +1926,9 @@
       ]
     },
     {
-      "key": "https://jlongster.com/thinking-growth-profit",
+      "key": "https://web.archive.org/web/20200711083123/https://jlongster.com/thinking-growth-profit",
       "name": "Thinking about growth and profit",
-      "url": "https://jlongster.com/thinking-growth-profit",
+      "url": "https://web.archive.org/web/20200711083123/https://jlongster.com/thinking-growth-profit",
       "description": "Discuss the relationship between investments, profit and growth, and how it influence decisions on pricing, free trials and plan structure.",
       "section": [
         "Business Intelligence",
@@ -2273,6 +2292,15 @@
       "name": "Graphic methods for presenting facts",
       "url": "https://archive.org/details/graphicmethodsfo00brinrich/page/336/mode/2up?view=theater&ui=embed&wrapper=false",
       "description": "A way to optimize pricing using a physical model made in plaster of Paris, from 1914.",
+      "section": [
+        "History"
+      ]
+    },
+    {
+      "key": "https://web.archive.org/web/20240917025608/https://collections.museumsvictoria.com.au/items/383697",
+      "name": "Payroll consolidation, circa 1965",
+      "url": "https://web.archive.org/web/20240917025608/https://collections.museumsvictoria.com.au/items/383697",
+      "description": "A program from the punched card era: a plugboard buried under a tangle of patch wires.",
       "section": [
         "History"
       ]

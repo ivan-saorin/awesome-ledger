@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a09f02b61a1570b6bb20c6ef01f438362f27dec4eaa10770c05a4bd5b5e208b9\"",
+  "etag": "W/\"75e326eeb411c510000263926912d05779437c74ad39f1018cf9b30998a1ebfa\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -303,6 +303,24 @@
       "description": "More tips and tricks from Tod Kurt about CircuitPython's synthio library.",
       "section": [
         "Code"
+      ]
+    },
+    {
+      "key": "https://github.com/elixpo/CircuitPython_RV565",
+      "name": "CircuitPython RV565",
+      "url": "https://github.com/elixpo/CircuitPython_RV565",
+      "description": "Play video clips on CircuitPython displays: RV565 stores each frame as zlib-compressed RGB565, so playback is inflate and blit, through displayio or straight to an ST7789 (16.5 FPS on a Raspberry Pi Pico 2).",
+      "section": [
+        "Code"
+      ]
+    },
+    {
+      "key": "https://github.com/birudarajushiva/circuitpython-pin-audit",
+      "name": "CircuitPython Pin Audit",
+      "url": "https://github.com/birudarajushiva/circuitpython-pin-audit",
+      "description": "An early static checker for potential pin allocation conflicts, with explicit resource lifetime tracking and JSON/GitHub Actions output; runs on a desktop without executing firmware.",
+      "section": [
+        "Frameworks"
       ]
     },
     {
