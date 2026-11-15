@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a6c72fea76c3917c5a1f815498831d416217a11d2628d0ccb397f18c6ef84fb5\"",
+  "etag": "W/\"9e2f069898ba0bb4e73d012ef5e44ab95022f260816559eaa85d0b1ee15ddad6\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1853,6 +1853,15 @@
       "name": "Align CLI",
       "url": "https://github.com/aligndottech/align-cli",
       "description": "Local CLI and MCP server that gives Gemini CLI your team's decisions from Jira, Confluence, Linear, Notion, Slack, Teams, Zoom, GitHub, GitLab, git history and repo docs, and checks its changes against them (Gemini's hook reports after the edit lands). Also works with Claude Code, Codex and others. Free, runs locally, MIT.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/Jenoyrex/ctx-receipt",
+      "name": "ctx-receipt",
+      "url": "https://github.com/Jenoyrex/ctx-receipt",
+      "description": "Shows what Gemini CLI, Claude Code, Codex CLI, and Cursor pre-load into context before your first prompt: GEMINI.md and its imports, skills, and MCP servers, as token estimates. Includes a CI budget check and a GitHub Action.",
       "section": [
         "Development Tools & Utilities"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ef6a0dad0444b0ceeed1519dd4fe392cffa0c3b09d5a50a74872e49d3b0a54e5\"",
+  "etag": "W/\"c952295335f066e608ab36733377b1ff9719c2cb91de771535962a6a84fb3424\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -44,16 +44,6 @@
       ]
     },
     {
-      "key": "https://digitalgarden.si/blog/houdini-gltf-threejs-optimization",
-      "name": "Houdini to Three.js: Testing glTF Compression and Instancing",
-      "url": "https://digitalgarden.si/blog/houdini-gltf-threejs-optimization/",
-      "description": "Case study of geometry, texture compression and instancing with WebGPU and WebGL2 checks.",
-      "section": [
-        "WebGL",
-        "Articles"
-      ]
-    },
-    {
       "key": "https://codeflow.org/tags/webgl.html",
       "name": "Codeflow",
       "url": "http://codeflow.org/tags/webgl.html",
@@ -74,40 +64,10 @@
       ]
     },
     {
-      "key": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices",
-      "name": "WebGL Best Practices",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices",
-      "description": "Mozilla's offical set of best practices.",
-      "section": [
-        "WebGL",
-        "Blog Series"
-      ]
-    },
-    {
       "key": "https://webglinsights.blogspot.com",
       "name": "WebGL Insights",
       "url": "http://webglinsights.blogspot.com/",
       "description": "This is the blog for the book WebGL Insights.",
-      "section": [
-        "WebGL",
-        "Blog Series"
-      ]
-    },
-    {
-      "key": "https://github.com/lesnitsky/webgl-month",
-      "name": "WebGL Month",
-      "url": "https://github.com/lesnitsky/webgl-month",
-      "description": "Daily WebGL tutorial for a month.",
-      "section": [
-        "WebGL",
-        "Blog Series"
-      ]
-    },
-    {
-      "key": "https://maximmcnair.com/webgl-image-processing",
-      "name": "WebGL Image Processing",
-      "url": "https://maximmcnair.com/webgl-image-processing",
-      "description": "Covers a range of Image Processing algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.",
       "section": [
         "WebGL",
         "Blog Series"
@@ -194,9 +154,9 @@
       ]
     },
     {
-      "key": "https://bugs.chromium.org/p/chromium/issues/list",
+      "key": "https://issues.chromium.org/issues",
       "name": "Chrome Bug Report",
-      "url": "https://bugs.chromium.org/p/chromium/issues/list",
+      "url": "https://issues.chromium.org/issues",
       "description": "Chrome related bugs",
       "section": [
         "WebGL",
@@ -224,9 +184,9 @@
       ]
     },
     {
-      "key": "https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin@apple.com&attachurl&blocked&bug_file_loc=http://&bug_severity=Normal&bug_status=NEW&comment&component=WebGL&contenttypeentry&contenttypemethod=autodetect&contenttypeselection=text/plain&data&dependson&description&flag_type-1=X&flag_type-3=X&form_name=enter_bug&keywords&maketemplate=Remember values as bookmarkable template&op_sys=Mac OS X 10.5&priority=P2&product=WebKit&rep_platform=PC&short_desc&version=528+ (Nightly build)",
+      "key": "https://bugs.webkit.org/enter_bug.cgi?component=WebGL&product=WebKit",
       "name": "WebKit Bugzilla",
-      "url": "https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com&attachurl=&blocked=&bug_file_loc=http%3A%2F%2F&bug_severity=Normal&bug_status=NEW&comment=&component=WebGL&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&dependson=&description=&flag_type-1=X&flag_type-3=X&form_name=enter_bug&keywords=&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Mac%20OS%20X%2010.5&priority=P2&product=WebKit&rep_platform=PC&short_desc=&version=528%2B%20%28Nightly%20build%29",
+      "url": "https://bugs.webkit.org/enter_bug.cgi?product=WebKit&component=WebGL",
       "description": "Safari related bugs",
       "section": [
         "WebGL",
@@ -237,7 +197,7 @@
       "key": "https://hirnsohle.de/test/fractalLab",
       "name": "Fractal Lab",
       "url": "http://hirnsohle.de/test/fractalLab/",
-      "description": "Online fractal explorer allowing you to explore 2D and 2D fractal.",
+      "description": "Online fractal explorer allowing you to explore 2D and 3D fractals.",
       "section": [
         "WebGL",
         "GLSL Editors"
@@ -246,18 +206,8 @@
     {
       "key": "https://glslsandbox.com",
       "name": "GLSL Sandbox",
-      "url": "http://glslsandbox.com",
+      "url": "https://glslsandbox.com",
       "description": "Online live editor for fragment shaders.",
-      "section": [
-        "WebGL",
-        "GLSL Editors"
-      ]
-    },
-    {
-      "key": "https://glslb.in",
-      "name": "GLSLbin",
-      "url": "http://glslb.in",
-      "description": "Fragment shader sandbox supporting glslify.",
       "section": [
         "WebGL",
         "GLSL Editors"
@@ -294,10 +244,20 @@
       ]
     },
     {
-      "key": "https://anuraghazra.github.io/ShaderExpo",
+      "key": "https://anuraghazra.dev/ShaderExpo",
       "name": "ShaderExpo",
-      "url": "https://anuraghazra.github.io/ShaderExpo/",
+      "url": "https://anuraghazra.dev/ShaderExpo/",
       "description": "Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.",
+      "section": [
+        "WebGL",
+        "GLSL Editors"
+      ]
+    },
+    {
+      "key": "https://jessevdk.github.io/webgl-play",
+      "name": "WebGL Playground",
+      "url": "http://jessevdk.github.io/webgl-play/",
+      "description": "The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.",
       "section": [
         "WebGL",
         "GLSL Editors"
@@ -314,9 +274,9 @@
       ]
     },
     {
-      "key": "https://khronos.org/webgl/wiki",
+      "key": "https://wikis.khronos.org/webgl",
       "name": "Khronos Official Wiki",
-      "url": "https://www.khronos.org/webgl/wiki/",
+      "url": "https://wikis.khronos.org/webgl/",
       "description": "The official wiki for WebGL.",
       "section": [
         "WebGL",
@@ -324,19 +284,19 @@
       ]
     },
     {
-      "key": "https://w3.org/community/immersive-web",
-      "name": "WebVR Community Group",
-      "url": "https://www.w3.org/community/immersive-web/",
-      "description": "Group who's goal is to help bring high-performance Virtual Reality to the open Web.",
+      "key": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices",
+      "name": "WebGL Best Practices",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices",
+      "description": "Mozilla's official set of best practices.",
       "section": [
         "WebGL",
         "References"
       ]
     },
     {
-      "key": "https://khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification",
+      "key": "https://wikis.khronos.org/webgl/Errata_to_the_WebGL_Specification",
       "name": "WebGL Errata",
-      "url": "https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification",
+      "url": "https://wikis.khronos.org/webgl/Errata_to_the_WebGL_Specification",
       "description": "Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.",
       "section": [
         "WebGL",
@@ -344,9 +304,9 @@
       ]
     },
     {
-      "key": "https://khronos.org/registry/webgl/extensions",
+      "key": "https://registry.khronos.org/webgl/extensions",
       "name": "WebGL Extensions",
-      "url": "https://www.khronos.org/registry/webgl/extensions/",
+      "url": "https://registry.khronos.org/webgl/extensions/",
       "description": "List of extensions for WebGL",
       "section": [
         "WebGL",
@@ -374,9 +334,9 @@
       ]
     },
     {
-      "key": "https://khronos.org/registry/webgl/specs/1.0",
+      "key": "https://registry.khronos.org/webgl/specs/1.0",
       "name": "WebGL Spec Sheet",
-      "url": "https://www.khronos.org/registry/webgl/specs/1.0/",
+      "url": "https://registry.khronos.org/webgl/specs/1.0/",
       "description": "All the detailed information about WebGL.",
       "section": [
         "WebGL",
@@ -384,9 +344,9 @@
       ]
     },
     {
-      "key": "https://khronos.org/webgl/wiki/Presentations",
+      "key": "https://wikis.khronos.org/webgl/Presentations",
       "name": "List of Presentations",
-      "url": "https://www.khronos.org/webgl/wiki/Presentations",
+      "url": "https://wikis.khronos.org/webgl/Presentations",
       "description": "List presented by Khronos of various WebGL related presentations.",
       "section": [
         "WebGL",
@@ -401,16 +361,6 @@
       "section": [
         "WebGL",
         "Talks"
-      ]
-    },
-    {
-      "key": "https://fast3d.org/en",
-      "name": "Fast3D",
-      "url": "https://www.fast3d.org/en",
-      "description": "Browser-based 3D toolbox: convert between GLB, GLTF, OBJ, STL, FBX and PLY, compress models and preview them in a full-featured viewer. Everything runs client-side.",
-      "section": [
-        "WebGL",
-        "Tools/Debugging"
       ]
     },
     {
@@ -434,6 +384,16 @@
       ]
     },
     {
+      "key": "https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor",
+      "name": "WebGL GLSL Editor",
+      "url": "https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor",
+      "description": "GLSL language support extension for Visual Studio Code.",
+      "section": [
+        "WebGL",
+        "Tools/Debugging"
+      ]
+    },
+    {
       "key": "https://benvanik.github.io/WebGL-Inspector",
       "name": "WebGL Inspector",
       "url": "http://benvanik.github.io/WebGL-Inspector/",
@@ -444,19 +404,9 @@
       ]
     },
     {
-      "key": "https://jessevdk.github.io/webgl-play",
-      "name": "WebGl Playground",
-      "url": "http://jessevdk.github.io/webgl-play/",
-      "description": "The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.",
-      "section": [
-        "WebGL",
-        "Tools/Debugging"
-      ]
-    },
-    {
       "key": "https://webglreport.com?v=1",
       "name": "WebGL Report",
-      "url": "http://webglreport.com/?v=1",
+      "url": "https://webglreport.com/?v=1",
       "description": "Way to view the details of what your browser supports for WebGL.",
       "section": [
         "WebGL",
@@ -466,7 +416,7 @@
     {
       "key": "https://webglstats.com",
       "name": "WebGL Support Stats",
-      "url": "http://webglstats.com/",
+      "url": "https://webglstats.com/",
       "description": "Interactive dashboard showing the support for WebGL features in different browsers and devices.",
       "section": [
         "WebGL",
@@ -494,36 +444,6 @@
       ]
     },
     {
-      "key": "https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor",
-      "name": "WebGL GLSL Editor",
-      "url": "https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor",
-      "description": "GLSL language support extension for Visual Studio Code.",
-      "section": [
-        "WebGL",
-        "Tools/Debugging"
-      ]
-    },
-    {
-      "key": "https://app.cinevva.com/tools/ktx2-compressor",
-      "name": "KTX2 Texture Compressor",
-      "url": "https://app.cinevva.com/tools/ktx2-compressor",
-      "description": "Browser tool to convert PNG, JPG, and WebP textures to KTX2 (Basis Universal, UASTC or ETC1S) to cut VRAM and load time. Runs locally, no upload.",
-      "section": [
-        "WebGL",
-        "Tools/Debugging"
-      ]
-    },
-    {
-      "key": "https://github.com/userzz1145141919810-rgb/web-3d-viewer",
-      "name": "Web3D Viewer",
-      "url": "https://github.com/userzz1145141919810-rgb/web-3d-viewer",
-      "description": "Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.",
-      "section": [
-        "WebGL",
-        "Tools/Debugging"
-      ]
-    },
-    {
       "key": "https://github.com/spite/ShaderEditorExtension",
       "name": "GLSL Shader Editor Extension",
       "url": "https://github.com/spite/ShaderEditorExtension",
@@ -535,9 +455,9 @@
       ]
     },
     {
-      "key": "https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk",
+      "key": "https://chromewebstore.google.com/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk",
       "name": "Spector.js Extension",
-      "url": "https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk",
+      "url": "https://chromewebstore.google.com/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk",
       "description": "Explore and Troubleshoot your WebGL and WebGL2 scenes easily.",
       "section": [
         "WebGL",
@@ -557,32 +477,10 @@
       ]
     },
     {
-      "key": "https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools",
-      "name": "Canvas Debugger",
-      "url": "https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/",
-      "description": "Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.",
-      "section": [
-        "WebGL",
-        "Tools/Debugging",
-        "Firefox Specific Tools/Debugger"
-      ]
-    },
-    {
-      "key": "https://developer.mozilla.org/en-US/docs/Tools",
+      "key": "https://firefox-source-docs.mozilla.org/devtools-user/index.html",
       "name": "Firefox Developer Tools",
-      "url": "https://developer.mozilla.org/en-US/docs/Tools",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/index.html",
       "description": "The official list of all of Firefox's debugger tools.",
-      "section": [
-        "WebGL",
-        "Tools/Debugging",
-        "Firefox Specific Tools/Debugger"
-      ]
-    },
-    {
-      "key": "https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools",
-      "name": "Shader Editor",
-      "url": "https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/",
-      "description": "Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.",
       "section": [
         "WebGL",
         "Tools/Debugging",
@@ -592,7 +490,7 @@
     {
       "key": "https://chinedufn.com/webgl-shadow-mapping-tutorial",
       "name": "Directional Shadow Mapping",
-      "url": "http://chinedufn.com/webgl-shadow-mapping-tutorial/",
+      "url": "https://chinedufn.com/webgl-shadow-mapping-tutorial/",
       "description": "Concepts behind real time directional light shadow mapping.",
       "section": [
         "WebGL",
@@ -600,9 +498,9 @@
       ]
     },
     {
-      "key": "https://khronos.org/webgl/wiki/Tutorial",
+      "key": "https://wikis.khronos.org/webgl/Tutorial",
       "name": "Get Started Tutorial",
-      "url": "https://www.khronos.org/webgl/wiki/Tutorial",
+      "url": "https://wikis.khronos.org/webgl/Tutorial",
       "description": "Khronos' tutorial how to get up and running with WebGL.",
       "section": [
         "WebGL",
@@ -630,19 +528,9 @@
       ]
     },
     {
-      "key": "https://learningwebgl.com/blog?page_id=1217",
-      "name": "Learning WebGL",
-      "url": "http://learningwebgl.com/blog/?page_id=1217",
-      "description": "Tutorials from the author of WebGL Up and Running.",
-      "section": [
-        "WebGL",
-        "Tutorials"
-      ]
-    },
-    {
       "key": "https://chinedufn.com/webgl-multitexture-blend-map-tutorial",
       "name": "Multitexturing using a Blendmap",
-      "url": "http://chinedufn.com/webgl-multitexture-blend-map-tutorial/",
+      "url": "https://chinedufn.com/webgl-multitexture-blend-map-tutorial/",
       "description": "How to use a blendmap to multitexture a terrain.",
       "section": [
         "WebGL",
@@ -652,7 +540,7 @@
     {
       "key": "https://chinedufn.com/webgl-particle-effect-billboard-tutorial",
       "name": "Particle Effects via Billboards",
-      "url": "http://chinedufn.com/webgl-particle-effect-billboard-tutorial/",
+      "url": "https://chinedufn.com/webgl-particle-effect-billboard-tutorial/",
       "description": "Create particle effects by applying a technique called billboarding.",
       "section": [
         "WebGL",
@@ -664,16 +552,6 @@
       "name": "The Book of Shaders",
       "url": "https://thebookofshaders.com/",
       "description": "Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.",
-      "section": [
-        "WebGL",
-        "Tutorials"
-      ]
-    },
-    {
-      "key": "https://tutorialsearch.io/browse/web-development/webgl-graphics",
-      "name": "TutorialSearch",
-      "url": "https://tutorialsearch.io/browse/web-development/webgl-graphics",
-      "description": "Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.",
       "section": [
         "WebGL",
         "Tutorials"
@@ -700,9 +578,29 @@
       ]
     },
     {
+      "key": "https://maximmcnair.com/webgl-image-processing",
+      "name": "WebGL Image Processing",
+      "url": "https://maximmcnair.com/webgl-image-processing",
+      "description": "Covers a range of Image Processing algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.",
+      "section": [
+        "WebGL",
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/lesnitsky/webgl-month",
+      "name": "WebGL Month",
+      "url": "https://github.com/lesnitsky/webgl-month",
+      "description": "Daily WebGL tutorial for a month.",
+      "section": [
+        "WebGL",
+        "Tutorials"
+      ]
+    },
+    {
       "key": "https://webgl-workshop.com",
       "name": "WebGL Workshop",
-      "url": "http://webgl-workshop.com/",
+      "url": "https://webgl-workshop.com/",
       "description": "Interactive workshop to get you up and running with WebGL.",
       "section": [
         "WebGL",
@@ -793,7 +691,7 @@
       "key": "https://realtimerendering.com/blog/webgl-2-new-features",
       "name": "WebGL 2 New Features",
       "url": "http://www.realtimerendering.com/blog/webgl-2-new-features/",
-      "description": "Blog post about whats new and cool in WebGl 2.",
+      "description": "Blog post about whats new and cool in WebGL 2.",
       "section": [
         "WebGL 2",
         "Articles"
@@ -810,19 +708,9 @@
       ]
     },
     {
-      "key": "https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj",
-      "name": "Building a Browser Solar System Explorer with NASA Data and Raw WebGL2",
-      "url": "https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj",
-      "description": "Engineering case study on rendering the Space Simulator Online 3D Solar System, Milky Way, and 6,000+ NASA exoplanets at 60 FPS using raw WebGL 2 shaders without Three.js.",
-      "section": [
-        "WebGL 2",
-        "Articles"
-      ]
-    },
-    {
-      "key": "https://khronos.org/registry/webgl/specs/latest/2.0",
+      "key": "https://registry.khronos.org/webgl/specs/latest/2.0",
       "name": "WebGL 2 Spec Sheet (Editor Draft)",
-      "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/",
+      "url": "https://registry.khronos.org/webgl/specs/latest/2.0/",
       "description": "All the detailed information about WebGL 2.",
       "section": [
         "WebGL 2",
@@ -893,7 +781,7 @@
       "key": "https://youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF",
       "name": "Fun with WebGL 2.0",
       "url": "https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF",
-      "description": "Video tutorial series on getting started with WebGL 2, still actively adding videos.",
+      "description": "Video tutorial series on getting started with WebGL 2.",
       "section": [
         "WebGL 2",
         "Videos"
@@ -920,42 +808,12 @@
       ]
     },
     {
-      "key": "https://blog.mozvr.com",
-      "name": "Mozilla VR Blog",
-      "url": "https://blog.mozvr.com/",
-      "description": "WebVR focused blog from makers of Firefox.",
+      "key": "https://w3.org/community/immersive-web",
+      "name": "Immersive Web Community Group",
+      "url": "https://www.w3.org/community/immersive-web/",
+      "description": "Group whose goal is to help bring high-performance Virtual Reality and Augmented Reality to the open Web.",
       "section": [
-        "WebVR",
-        "Blog Series"
-      ]
-    },
-    {
-      "key": "https://janusvr.com",
-      "name": "JanusVR",
-      "url": "https://janusvr.com/",
-      "description": "Webpages as collaborative 3D webspaces interconnected by portals.",
-      "section": [
-        "WebVR",
-        "Platforms"
-      ]
-    },
-    {
-      "key": "https://webvr.rocks",
-      "name": "Browser Support",
-      "url": "https://webvr.rocks/",
-      "description": "Shows support by browser, headset, and OS.",
-      "section": [
-        "WebVR",
-        "References"
-      ]
-    },
-    {
-      "key": "https://mixedreality.mozilla.org",
-      "name": "Mozilla VR",
-      "url": "https://mixedreality.mozilla.org/",
-      "description": "Mozilla's official WebVR page.",
-      "section": [
-        "WebVR",
+        "WebXR / WebVR",
         "References"
       ]
     },
@@ -963,9 +821,9 @@
       "key": "https://uxofvr.com",
       "name": "UX of VR",
       "url": "https://www.uxofvr.com/",
-      "description": "Curated list of resources to help create good UX in WebVR.",
+      "description": "Curated list of resources to help create good UX in VR.",
       "section": [
-        "WebVR",
+        "WebXR / WebVR",
         "References"
       ]
     },
@@ -975,7 +833,7 @@
       "url": "https://immersive-web.github.io/webxr/",
       "description": "The W3C draft API for WebXR.",
       "section": [
-        "WebVR",
+        "WebXR / WebVR",
         "References"
       ]
     },
@@ -985,7 +843,7 @@
       "url": "https://dassur.ma/things/reading-specs/",
       "description": "",
       "section": [
-        "WebVR",
+        "WebXR / WebVR",
         "References"
       ]
     },
@@ -995,18 +853,148 @@
       "url": "https://w3c.github.io/webvr/",
       "description": "The official W3C WebVR spec (legacy).",
       "section": [
-        "WebVR",
+        "WebXR / WebVR",
         "References"
       ]
     },
     {
-      "key": "https://github.com/schteppe/p2.js",
-      "name": "p2.js",
-      "url": "https://github.com/schteppe/p2.js",
-      "description": "2D rigid body physics engine written in JavaScript.",
+      "key": "https://janusvr.com",
+      "name": "JanusVR",
+      "url": "https://janusvr.com/",
+      "description": "Webpages as collaborative 3D webspaces interconnected by portals.",
+      "section": [
+        "WebXR / WebVR",
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/aframevr/awesome-aframe",
+      "name": "Awesome-AFrame",
+      "url": "https://github.com/aframevr/awesome-aframe",
+      "description": "",
+      "section": [
+        "WebXR / WebVR",
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://aframe.io",
+      "name": "A-Frame",
+      "url": "https://aframe.io/",
+      "description": "Web framework for building virtual reality experiences.",
+      "section": [
+        "WebXR / WebVR",
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/capnmidnight/Primrose",
+      "name": "Primrose",
+      "url": "https://github.com/capnmidnight/Primrose/",
+      "description": "Rapidly prototype VR applications in your browser.",
+      "section": [
+        "WebXR / WebVR",
+        "Frameworks"
+      ]
+    },
+    {
+      "key": "https://babylonjs.com",
+      "name": "Babylon.js",
+      "url": "https://www.babylonjs.com/",
+      "description": "Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.",
       "section": [
         "Libraries",
-        "2D"
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://blend4web.com/en",
+      "name": "Blend4Web",
+      "url": "https://www.blend4web.com/en/",
+      "description": "Tool for interactive 3D visualization on the Internet.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://claygl.xyz",
+      "name": "ClayGL",
+      "url": "https://claygl.xyz/",
+      "description": "WebGL graphic Library for building scalable Web3D applications.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://ambiera.com/copperlicht/index.html",
+      "name": "CopperLicht",
+      "url": "https://www.ambiera.com/copperlicht/index.html",
+      "description": "JavaScript library and WebGL 3D engine for creating games and 3D applications.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/hiloteam/Hilo3d",
+      "name": "Hilo3d",
+      "url": "https://github.com/hiloteam/Hilo3d",
+      "description": "WebGL rendering engine for 3D games.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://playcanvas.com",
+      "name": "PlayCanvas",
+      "url": "https://playcanvas.com/",
+      "description": "Game engine platform to build interactive experiences.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://scenejs.org",
+      "name": "Scene.js",
+      "url": "http://scenejs.org/",
+      "description": "Extensible WebGL-based engine for high-detail 3D visualisation.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://threejs.org",
+      "name": "Three.js",
+      "url": "https://threejs.org/",
+      "description": "Aimed to create an easy to use, lightweight, 3D library.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://soft8soft.com/verge3d",
+      "name": "Verge3D",
+      "url": "https://www.soft8soft.com/verge3d/",
+      "description": "an artist-friendly toolkit for creating 3D web experiences.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
+      ]
+    },
+    {
+      "key": "https://zephyr3d.org",
+      "name": "zephyr3d",
+      "url": "https://zephyr3d.org/",
+      "description": "A TypeScript-based 3D rendering engine with WebGPU/WebGL support.",
+      "section": [
+        "Libraries",
+        "Engines and Frameworks"
       ]
     },
     {
@@ -1022,7 +1010,7 @@
     {
       "key": "https://pixijs.com",
       "name": "PixiJS",
-      "url": "http://www.pixijs.com/",
+      "url": "https://pixijs.com/",
       "description": "powerful 2D Javascript renderer based on WebGL.",
       "section": [
         "Libraries",
@@ -1030,73 +1018,109 @@
       ]
     },
     {
-      "key": "https://github.com/shakiba/planck.js",
-      "name": "Planck.js",
-      "url": "https://github.com/shakiba/planck.js",
-      "description": "2D physics engine for cross-platform HTML5 game development.",
+      "key": "https://github.com/emadurandal/GLBoost",
+      "name": "GLBoost",
+      "url": "https://github.com/emadurandal/GLBoost",
+      "description": "Rendering library for 3D graphic geeks.",
       "section": [
         "Libraries",
-        "2D"
+        "Low-level Rendering"
       ]
     },
     {
-      "key": "https://github.com/shakiba/stage.js",
-      "name": "Stage.js",
-      "url": "https://github.com/shakiba/stage.js",
-      "description": "2D Library for cross-platform HTML5 game development.",
+      "key": "https://github.com/evanw/lightgl.js",
+      "name": "Lightgl.js",
+      "url": "https://github.com/evanw/lightgl.js",
+      "description": "Lightweight and explict library to help prototype.",
       "section": [
         "Libraries",
-        "2D"
+        "Low-level Rendering"
       ]
     },
     {
-      "key": "https://gammacv.com",
-      "name": "GammaCV",
-      "url": "https://gammacv.com",
-      "description": "WebGL accelerated Computer Vision library for browser.",
+      "key": "https://luma.gl",
+      "name": "Luma.gl",
+      "url": "https://luma.gl/",
+      "description": "WebGL2 powered framework for GPU-powered data visualization and computation.",
       "section": [
         "Libraries",
-        "Compute (GPGPU)",
-        "Computer Vision"
+        "Low-level Rendering"
       ]
     },
     {
-      "key": "https://github.com/alemart/speedy-vision",
-      "name": "Speedy Vision",
-      "url": "https://github.com/alemart/speedy-vision",
-      "description": "GPU-accelerated Computer Vision library for JavaScript.",
+      "key": "https://tsherif.github.io/picogl.js",
+      "name": "PicoGL.js",
+      "url": "https://tsherif.github.io/picogl.js/",
+      "description": "Minimal WebGL 2-only rendering library.",
       "section": [
         "Libraries",
-        "Compute (GPGPU)",
-        "Computer Vision"
+        "Low-level Rendering"
       ]
     },
     {
-      "key": "https://github.com/azakhary/nixie-fx",
-      "name": "NixieFX",
-      "url": "https://github.com/azakhary/nixie-fx",
-      "description": "Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.",
+      "key": "https://github.com/gportelli/pocket.gl",
+      "name": "Pocket.gl",
+      "url": "https://github.com/gportelli/pocket.gl",
+      "description": "Fully customizable webgl shader sandbox to embed in your pages.",
       "section": [
         "Libraries",
-        "Compute (GPGPU)",
-        "Particles"
+        "Low-level Rendering"
       ]
     },
     {
-      "key": "https://github.com/vaneenige/phenomenon",
-      "name": "Phenomenon",
-      "url": "https://github.com/vaneenige/phenomenon",
-      "description": "Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.",
+      "key": "https://regl-project.github.io/regl",
+      "name": "Regl",
+      "url": "https://regl-project.github.io/regl/",
+      "description": "Light declarative and stateless library, functional abstraction for WebGL.",
       "section": [
         "Libraries",
-        "Compute (GPGPU)",
-        "Particles"
+        "Low-level Rendering"
       ]
     },
     {
-      "key": "https://cesiumjs.org",
+      "key": "https://twgljs.org",
+      "name": "TWGL",
+      "url": "http://twgljs.org/",
+      "description": "Sole purpose is to make using the WebGL API less verbose.",
+      "section": [
+        "Libraries",
+        "Low-level Rendering"
+      ]
+    },
+    {
+      "key": "https://glmatrix.net",
+      "name": "glMatrix",
+      "url": "https://glmatrix.net/",
+      "description": "Javascript matrix and vector library for high performance WebGL apps.",
+      "section": [
+        "Libraries",
+        "Math"
+      ]
+    },
+    {
+      "key": "https://github.com/kripken/ammo.js",
+      "name": "Ammo.js",
+      "url": "https://github.com/kripken/ammo.js/",
+      "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten.",
+      "section": [
+        "Libraries",
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://schteppe.github.io/cannon.js",
+      "name": "Cannon.js",
+      "url": "http://schteppe.github.io/cannon.js/",
+      "description": "Lightweight and simple 3D physics engine for the web.",
+      "section": [
+        "Libraries",
+        "Physics"
+      ]
+    },
+    {
+      "key": "https://cesium.com",
       "name": "Cesium",
-      "url": "https://cesiumjs.org/",
+      "url": "https://cesium.com/",
       "description": "Open-source library for world-class 3D globes and maps.",
       "section": [
         "Libraries",
@@ -1124,30 +1148,10 @@
       ]
     },
     {
-      "key": "https://luma.gl",
-      "name": "Luma.gl",
-      "url": "https://luma.gl/",
-      "description": "WebGL2 powered framework for GPU-powered data visualization and computation.",
-      "section": [
-        "Libraries",
-        "Maps and Visualizations"
-      ]
-    },
-    {
       "key": "https://github.com/tang-tc/leaflet-webgl-markers",
       "name": "leaflet-webgl-markers",
       "url": "https://github.com/tang-tc/leaflet-webgl-markers",
       "description": "Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.",
-      "section": [
-        "Libraries",
-        "Maps and Visualizations"
-      ]
-    },
-    {
-      "key": "https://github.com/MapMetrics/mapmetrics-gl",
-      "name": "MapMetrics GL",
-      "url": "https://github.com/MapMetrics/mapmetrics-gl",
-      "description": "Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.",
       "section": [
         "Libraries",
         "Maps and Visualizations"
@@ -1174,93 +1178,63 @@
       ]
     },
     {
-      "key": "https://github.com/yz4git/next-gen",
-      "name": "WorldSeed",
-      "url": "https://github.com/yz4git/next-gen",
-      "description": "Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.",
+      "key": "https://gammacv.com",
+      "name": "GammaCV",
+      "url": "https://gammacv.com",
+      "description": "WebGL accelerated Computer Vision library for browser.",
       "section": [
         "Libraries",
-        "Maps and Visualizations"
+        "Computer Vision (GPGPU)"
       ]
     },
     {
-      "key": "https://glmatrix.net",
-      "name": "glMatrix",
-      "url": "http://glmatrix.net/",
-      "description": "Javascript matrix and vector library for high performance WebGL apps.",
+      "key": "https://github.com/alemart/speedy-vision",
+      "name": "Speedy Vision",
+      "url": "https://github.com/alemart/speedy-vision",
+      "description": "GPU-accelerated Computer Vision library for JavaScript.",
       "section": [
         "Libraries",
-        "Math"
+        "Computer Vision (GPGPU)"
       ]
     },
     {
-      "key": "https://sylvester.jcoglan.com",
-      "name": "Sylvester",
-      "url": "http://sylvester.jcoglan.com/",
-      "description": "Sylvester is a vector, matrix and geometry library for JavaScript.",
+      "key": "https://github.com/azakhary/nixie-fx",
+      "name": "NixieFX",
+      "url": "https://github.com/azakhary/nixie-fx",
+      "description": "Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.",
       "section": [
         "Libraries",
-        "Math"
+        "Particles and Effects"
       ]
     },
     {
-      "key": "https://twgljs.org",
-      "name": "TWGL",
-      "url": "http://twgljs.org/",
-      "description": "Sole purpose is to make using the WebGL API less verbose.",
+      "key": "https://github.com/vaneenige/phenomenon",
+      "name": "Phenomenon",
+      "url": "https://github.com/vaneenige/phenomenon",
+      "description": "Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.",
       "section": [
         "Libraries",
-        "Math"
+        "Particles and Effects"
       ]
     },
     {
-      "key": "https://github.com/emadurandal/GLBoost",
-      "name": "GLBoost",
-      "url": "https://github.com/emadurandal/GLBoost",
-      "description": "Rendering library for 3D graphic geeks.",
+      "key": "https://github.com/humanbydefinition/textmode.js",
+      "name": "textmode.js",
+      "url": "https://github.com/humanbydefinition/textmode.js",
+      "description": "Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.",
       "section": [
         "Libraries",
-        "Rendering"
+        "Particles and Effects"
       ]
     },
     {
-      "key": "https://grimoire.gl",
-      "name": "GrimoireGL",
-      "url": "https://grimoire.gl/",
-      "description": "Bridge between Web engineers and CG engineers.",
+      "key": "https://github.com/vysmodev/vysmo",
+      "name": "Vysmo Transitions",
+      "url": "https://github.com/vysmodev/vysmo",
+      "description": "Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.",
       "section": [
         "Libraries",
-        "Rendering"
-      ]
-    },
-    {
-      "key": "https://github.com/hiloteam/Hilo3d",
-      "name": "Hilo3d",
-      "url": "https://github.com/hiloteam/Hilo3d",
-      "description": "WebGL rendering engine for 3D games.",
-      "section": [
-        "Libraries",
-        "Rendering"
-      ]
-    },
-    {
-      "key": "https://github.com/kripken/ammo.js",
-      "name": "Ammo.js",
-      "url": "https://github.com/kripken/ammo.js/",
-      "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten.",
-      "section": [
-        "Libraries",
-        "Physics"
-      ]
-    },
-    {
-      "key": "https://schteppe.github.io/cannon.js",
-      "name": "Cannon.js",
-      "url": "http://schteppe.github.io/cannon.js/",
-      "description": "Lightweight and simple 3D physics engine for the web.",
-      "section": [
-        "Libraries",
-        "Physics"
+        "Particles and Effects"
       ]
     },
     {
@@ -1274,183 +1248,13 @@
       ]
     },
     {
-      "key": "https://github.com/caleblemos/dither-flow",
-      "name": "dither-flow",
-      "url": "https://github.com/caleblemos/dither-flow",
-      "description": "Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.",
-      "section": [
-        "Libraries",
-        "WebGL 2"
-      ]
-    },
-    {
-      "key": "https://tsherif.github.io/picogl.js",
-      "name": "PicoGL.js",
-      "url": "https://tsherif.github.io/picogl.js/",
-      "description": "Minimal WebGL 2-only rendering library.",
-      "section": [
-        "Libraries",
-        "WebGL 2"
-      ]
-    },
-    {
-      "key": "https://github.com/humanbydefinition/textmode.js",
-      "name": "textmode.js",
-      "url": "https://github.com/humanbydefinition/textmode.js",
-      "description": "Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.",
-      "section": [
-        "Libraries",
-        "WebGL 2"
-      ]
-    },
-    {
-      "key": "https://github.com/vysmodev/vysmo",
-      "name": "Vysmo Transitions",
-      "url": "https://github.com/vysmodev/vysmo",
-      "description": "Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.",
-      "section": [
-        "Libraries",
-        "WebGL 2"
-      ]
-    },
-    {
-      "key": "https://github.com/aframevr/awesome-aframe",
-      "name": "Awesome-AFrame",
-      "url": "https://github.com/aframevr/awesome-aframe",
-      "description": "",
-      "section": [
-        "Libraries",
-        "WebVR"
-      ]
-    },
-    {
-      "key": "https://aframe.io",
-      "name": "A-Frame",
-      "url": "https://aframe.io/",
-      "description": "Web framework for building virtual reality experiences.",
-      "section": [
-        "Libraries",
-        "WebVR"
-      ]
-    },
-    {
-      "key": "https://hologram.cool",
-      "name": "Hologram",
-      "url": "https://hologram.cool/",
-      "description": "Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.",
-      "section": [
-        "Libraries",
-        "WebVR"
-      ]
-    },
-    {
-      "key": "https://lovr.org",
-      "name": "LÖVR",
-      "url": "https://lovr.org/",
-      "description": "Simple framework for creating VR with Lua.",
-      "section": [
-        "Libraries",
-        "WebVR"
-      ]
-    },
-    {
-      "key": "https://facebook.github.io/react-360",
-      "name": "React 360",
-      "url": "https://facebook.github.io/react-360/",
-      "description": "Build VR websites and interactive 360 experiences with React.",
-      "section": [
-        "Libraries",
-        "WebVR"
-      ]
-    },
-    {
-      "key": "https://github.com/capnmidnight/Primrose",
-      "name": "Primrose",
-      "url": "https://github.com/capnmidnight/Primrose/",
-      "description": "Rapidly prototype VR applications in your browser.",
-      "section": [
-        "Libraries",
-        "WebVR"
-      ]
-    },
-    {
-      "key": "https://babylonjs.com",
-      "name": "Babylon.js",
-      "url": "https://www.babylonjs.com/",
-      "description": "Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://blend4web.com/en",
-      "name": "Blend4Web",
-      "url": "https://www.blend4web.com/en/",
-      "description": "Tool for interactive 3D visualization on the Internet.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://claygl.xyz",
-      "name": "ClayGL",
-      "url": "http://claygl.xyz/",
-      "description": "WebGL graphic Library for building scalable Web3D applications.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://ambiera.com/copperlicht/index.html",
-      "name": "CopperLicht",
-      "url": "https://www.ambiera.com/copperlicht/index.html",
-      "description": "JavaScript library and WebGL 3D engine for creating games and 3D applications.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
       "key": "https://glge.org",
       "name": "GLGE",
       "url": "http://www.glge.org/",
       "description": "Javascript library intended to ease the use of WebGL.",
       "section": [
         "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://github.com/hoainho/img2threejs",
-      "name": "img2threejs",
-      "url": "https://github.com/hoainho/img2threejs",
-      "description": "Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://github.com/evanw/lightgl.js",
-      "name": "Lightgl.js",
-      "url": "https://github.com/evanw/lightgl.js",
-      "description": "Lightweight and explict library to help prototype.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://github.com/novaframe-hq/novaframe-engine",
-      "name": "Novaframe Engine",
-      "url": "https://github.com/novaframe-hq/novaframe-engine",
-      "description": "Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.",
-      "section": [
-        "Libraries",
-        "Others"
+        "Legacy / Unmaintained"
       ]
     },
     {
@@ -1460,7 +1264,7 @@
       "description": "WebGL framework based on OpenSceneGraph concepts to interact with WebGL.",
       "section": [
         "Libraries",
-        "Others"
+        "Legacy / Unmaintained"
       ]
     },
     {
@@ -1470,57 +1274,17 @@
       "description": "JavaScript libraries for computational thinking in Plask/Node.js and WebGL.",
       "section": [
         "Libraries",
-        "Others"
+        "Legacy / Unmaintained"
       ]
     },
     {
-      "key": "https://playcanvas.com",
-      "name": "PlayCanvas",
-      "url": "https://playcanvas.com/",
-      "description": "Game engine platform to build interactive experiences.",
+      "key": "https://github.com/facebookarchive/react-360",
+      "name": "React 360",
+      "url": "https://github.com/facebookarchive/react-360",
+      "description": "Build VR websites and interactive 360 experiences with React (archived by Facebook).",
       "section": [
         "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://github.com/gportelli/pocket.gl",
-      "name": "Pocket.gl",
-      "url": "https://github.com/gportelli/pocket.gl",
-      "description": "Fully customizable webgl shader sandbox to embed in your pages.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://regl.party",
-      "name": "Regl",
-      "url": "http://regl.party/",
-      "description": "Light declarative and stateless library, functional abstraction for WebGL.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://scenejs.org",
-      "name": "Scene.js",
-      "url": "http://scenejs.org/",
-      "description": "Extensible WebGL-based engine for high-detail 3D visualisation.",
-      "section": [
-        "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://threejs.org",
-      "name": "Three.js",
-      "url": "https://threejs.org/",
-      "description": "Aimed to create an easy to use, lightweight, 3D library.",
-      "section": [
-        "Libraries",
-        "Others"
+        "Legacy / Unmaintained"
       ]
     },
     {
@@ -1530,17 +1294,7 @@
       "description": "Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",
       "section": [
         "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://soft8soft.com/verge3d",
-      "name": "Verge3D",
-      "url": "https://www.soft8soft.com/verge3d/",
-      "description": "an artist-friendly toolkit for creating 3D web experiences.",
-      "section": [
-        "Libraries",
-        "Others"
+        "Legacy / Unmaintained"
       ]
     },
     {
@@ -1550,17 +1304,7 @@
       "description": "Framework for developing 3D web apps with physics.",
       "section": [
         "Libraries",
-        "Others"
-      ]
-    },
-    {
-      "key": "https://zephyr3d.org",
-      "name": "zephyr3d",
-      "url": "https://zephyr3d.org/",
-      "description": "A TypeScript-based 3D rendering engine with WebGPU/WebGL support.",
-      "section": [
-        "Libraries",
-        "Others"
+        "Legacy / Unmaintained"
       ]
     },
     {
@@ -1591,27 +1335,18 @@
       ]
     },
     {
-      "key": "https://twitter.com/webgl",
-      "name": "Twitter",
-      "url": "https://twitter.com/webgl",
+      "key": "https://x.com/webgl",
+      "name": "Twitter / X",
+      "url": "https://x.com/webgl",
       "description": "",
       "section": [
         "Community"
       ]
     },
     {
-      "key": "https://webchat.freenode.net?channels=webgl",
-      "name": "Freenode IRC",
-      "url": "http://webchat.freenode.net/?channels=webgl",
-      "description": "",
-      "section": [
-        "Community"
-      ]
-    },
-    {
-      "key": "https://community.khronos.org/c/other-standards/webgl",
+      "key": "https://community.khronos.org/c/other-standards/webgl/17",
       "name": "Khronos Forum",
-      "url": "https://community.khronos.org/c/other-standards/webgl",
+      "url": "https://community.khronos.org/c/other-standards/webgl/17",
       "description": "",
       "section": [
         "Community"
@@ -1627,27 +1362,9 @@
       ]
     },
     {
-      "key": "https://plus.google.com/communities/114915309361980512257",
-      "name": "Google Plus",
-      "url": "https://plus.google.com/communities/114915309361980512257",
-      "description": "",
-      "section": [
-        "Community"
-      ]
-    },
-    {
       "key": "https://khronos.org/webgl/public-mailing-list",
       "name": "Public Mailing List",
       "url": "https://www.khronos.org/webgl/public-mailing-list/",
-      "description": "",
-      "section": [
-        "Community"
-      ]
-    },
-    {
-      "key": "https://webvr-slack.herokuapp.com",
-      "name": "WebVR Slack",
-      "url": "http://webvr-slack.herokuapp.com/",
       "description": "",
       "section": [
         "Community"
@@ -1663,36 +1380,36 @@
       ]
     },
     {
-      "key": "https://meetup.com/WebGL-Developers-Meetup",
+      "key": "https://meetup.com/webgl-developers-meetup",
       "name": "San Francisco, CA",
-      "url": "https://www.meetup.com/WebGL-Developers-Meetup/",
+      "url": "https://www.meetup.com/webgl-developers-meetup/",
       "description": "",
       "section": [
         "Community"
       ]
     },
     {
-      "key": "https://meetup.com/Silicon-Valley-HTML5-WebGL-Meetup",
+      "key": "https://meetup.com/silicon-valley-html5-webgl-meetup",
       "name": "Mountain View, CA",
-      "url": "https://www.meetup.com/Silicon-Valley-HTML5-WebGL-Meetup/",
+      "url": "https://www.meetup.com/silicon-valley-html5-webgl-meetup/",
       "description": "",
       "section": [
         "Community"
       ]
     },
     {
-      "key": "https://meetup.com/WebGL-Workshop-London",
+      "key": "https://meetup.com/webgl-workshop-london",
       "name": "London, United Kingdom",
-      "url": "https://www.meetup.com/WebGL-Workshop-London/",
+      "url": "https://www.meetup.com/webgl-workshop-london/",
       "description": "",
       "section": [
         "Community"
       ]
     },
     {
-      "key": "https://meetup.com/NYC-WebGL-Developers",
+      "key": "https://meetup.com/nyc-webgl-developers",
       "name": "New York, NY",
-      "url": "https://www.meetup.com/NYC-WebGL-Developers/",
+      "url": "https://www.meetup.com/nyc-webgl-developers/",
       "description": "",
       "section": [
         "Community"

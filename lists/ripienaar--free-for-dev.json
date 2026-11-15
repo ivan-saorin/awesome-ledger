@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9ea08bd0140c6cd60cd91a780396b447bec3bf04b057c97caf91e3e6a5e0bef0\"",
+  "etag": "W/\"40f2200cfa1286050f16cb5dbd0aa14a19005b64c24762a4dd5f4818d986df46\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -205,7 +205,7 @@
       "key": "https://azure.microsoft.com/services/devops/pipelines",
       "name": "Azure Pipelines",
       "url": "https://azure.microsoft.com/services/devops/pipelines/",
-      "description": "10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows",
+      "description": "1 free job limited to 60 minutes per job, 1800 minutes per month for Linux, macOS, and Windows",
       "section": [
         "Major Cloud Providers"
       ]
@@ -2065,6 +2065,15 @@
       ]
     },
     {
+      "key": "https://vpndetection.io",
+      "name": "VPNDetection",
+      "url": "https://vpndetection.io",
+      "description": "VPN, proxy and hosting detection API for any IP address. The free plan answers the VPN, Tor and relay flags, country and ASN, with no API key, signup or monthly cap.",
+      "section": [
+        "APIs, Data, and ML"
+      ]
+    },
+    {
       "key": "https://weatherxu.com",
       "name": "WeatherXu",
       "url": "https://weatherxu.com/",
@@ -2627,15 +2636,6 @@
       "name": "Pumble",
       "url": "https://pumble.com",
       "description": "Free team chat app. Unlimited users and message history, free forever.",
-      "section": [
-        "Tools for Teams and Collaboration"
-      ]
-    },
-    {
-      "key": "https://quidlo.com/timesheets",
-      "name": "Quidlo Timesheets",
-      "url": "https://www.quidlo.com/timesheets",
-      "description": "A simple timesheet and time tracking app for teams. The free plan has time tracking and generating reports features for up to 10 users.",
       "section": [
         "Tools for Teams and Collaboration"
       ]
@@ -3568,9 +3568,9 @@
       ]
     },
     {
-      "key": "https://terrateam.io",
-      "name": "Terrateam",
-      "url": "https://terrateam.io",
+      "key": "https://stategraph.com",
+      "name": "Stategraph",
+      "url": "https://stategraph.com",
       "description": "GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.",
       "section": [
         "CI and CD"
@@ -5098,6 +5098,15 @@
       ]
     },
     {
+      "key": "https://pingzen.dev",
+      "name": "Pingzen",
+      "url": "https://pingzen.dev",
+      "description": "Free uptime and API monitoring with up to 55 monitors, 1-minute check intervals, and instant alerts.",
+      "section": [
+        "Monitoring"
+      ]
+    },
+    {
       "key": "https://pingzoapp.com",
       "name": "Pingzo",
       "url": "https://www.pingzoapp.com",
@@ -5872,15 +5881,6 @@
       ]
     },
     {
-      "key": "https://commandbar.com",
-      "name": "CommandBar",
-      "url": "https://www.commandbar.com/",
-      "description": "Unified Search Bar as-a-service, web-based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up to 1,000 Monthly Active Users, unlimited commands.",
-      "section": [
-        "Search"
-      ]
-    },
-    {
       "key": "https://searchly.com",
       "name": "searchly.com",
       "url": "https://www.searchly.com/",
@@ -6178,9 +6178,9 @@
       ]
     },
     {
-      "key": "https://bump.email",
-      "name": "Bump",
-      "url": "https://bump.email/",
+      "key": "https://alias.email",
+      "name": "Alias Email",
+      "url": "https://alias.email",
       "description": "Free 10 Bump email addresses, one custom domain",
       "section": [
         "Email"
@@ -6493,9 +6493,9 @@
       ]
     },
     {
-      "key": "https://mailcheck.ai",
-      "name": "Mailcheck.ai",
-      "url": "https://www.mailcheck.ai/",
+      "key": "https://usercheck.com",
+      "name": "UserCheck",
+      "url": "https://www.usercheck.com",
       "description": "Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)",
       "section": [
         "Email"
@@ -6979,15 +6979,6 @@
       ]
     },
     {
-      "key": "https://fontofweb.com",
-      "name": "Font of web",
-      "url": "https://fontofweb.com/",
-      "description": "Identify all the fonts used on a website and how they are used.",
-      "section": [
-        "Font"
-      ]
-    },
-    {
       "key": "https://fontsquirrel.com",
       "name": "Font Squirrel",
       "url": "https://www.fontsquirrel.com/",
@@ -7357,9 +7348,9 @@
       ]
     },
     {
-      "key": "https://waiverstevie.com",
-      "name": "WaiverStevie.com",
-      "url": "https://waiverstevie.com",
+      "key": "https://waivercat.com",
+      "name": "WaiverCat",
+      "url": "https://waivercat.com",
       "description": "Electronic Signature platform with a REST API. You can receive notifications with webhooks. Free plan watermarks signed documents but allow unlimited envelopes + signatures.",
       "section": [
         "Forms"
@@ -8680,9 +8671,9 @@
       ]
     },
     {
-      "key": "https://sslip.io",
-      "name": "sslip.io",
-      "url": "https://sslip.io/",
+      "key": "https://nip.io",
+      "name": "nip.io",
+      "url": "https://nip.io/",
       "description": "Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.",
       "section": [
         "DNS"
@@ -8792,6 +8783,15 @@
       "name": "Modal",
       "url": "https://modal.com",
       "description": "AI-driven IaaS with generous compute, storage; offers $30 (might be limited to $5 on certain accounts) of free monthly credits",
+      "section": [
+        "IaaS"
+      ]
+    },
+    {
+      "key": "https://outplane.com",
+      "name": "Out Plane",
+      "url": "https://outplane.com",
+      "description": "Cloud sandboxes for coding agents (Hangars) plus app hosting in Germany. Free: Hangars, cloud machines where agents like Claude Code, Codex and Cursor run, with no credit card required; the agent uses your own plan or API key. App hosting is paid, from $9/month with a 14-day free trial.",
       "section": [
         "IaaS"
       ]
@@ -11290,15 +11290,6 @@
       ]
     },
     {
-      "key": "https://logspot.io",
-      "name": "LogSpot",
-      "url": "https://logspot.io",
-      "description": "Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks). Free plan includes 10,000 events per month.",
-      "section": [
-        "Analytics, Events and Statistics"
-      ]
-    },
-    {
       "key": "https://mixpanel.com",
       "name": "Mixpanel",
       "url": "https://mixpanel.com/",
@@ -12032,15 +12023,6 @@
       "name": "Cronhooks",
       "url": "https://cronhooks.io/",
       "description": "Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.",
-      "section": [
-        "Miscellaneous"
-      ]
-    },
-    {
-      "key": "https://datelist.io",
-      "name": "datelist.io",
-      "url": "https://datelist.io",
-      "description": "Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar",
       "section": [
         "Miscellaneous"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a72c8fc5db16e7d4d7830772171d3b3cb180faef4dd5aa000d1f1fa7526fe919\"",
+  "etag": "W/\"8ee8ed1a704d0e2cdac5a6640ad9a4ddc0802e04324d55d4c30b2d50c6d56fd5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -341,15 +341,6 @@
       "name": "lzanini/mdbook-katex",
       "url": "https://github.com/lzanini/mdbook-katex",
       "description": "[mdbook-katex] - A preprocessor for mdBook, using KaTeX to render LaTeX math expressions.",
-      "section": [
-        "Applications"
-      ]
-    },
-    {
-      "key": "https://github.com/maidsafe",
-      "name": "MaidSafe",
-      "url": "https://github.com/maidsafe",
-      "description": "A decentralized platform.",
       "section": [
         "Applications"
       ]
@@ -3797,6 +3788,16 @@
       ]
     },
     {
+      "key": "https://github.com/ChrisVip001/joyczl-agent",
+      "name": "ChrisVip001/joyczl-agent",
+      "url": "https://github.com/ChrisVip001/joyczl-agent",
+      "description": "Local-first personal agent: Rust owns the agent loop, memory and tools, and stores one append-only ledger row per turn, so every memory is inspectable and the FTS5 index can be rebuilt from the ledger. TypeScript dashboard, Python SDK.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
       "key": "https://github.com/cooklang/CookCLI",
       "name": "CookCLI",
       "url": "https://github.com/cooklang/CookCLI",
@@ -4021,6 +4022,16 @@
       "name": "lockbook/lockbook",
       "url": "https://github.com/lockbook/lockbook",
       "description": "[lb-rs] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/madebyzan/knovum",
+      "name": "madebyzan/knovum",
+      "url": "https://github.com/madebyzan/knovum",
+      "description": "Local-first desktop 2D spatial AI knowledge workspace built with Tauri 2, Rust, and Vue 3, featuring infinite canvas, embedded LanceDB vector search, and on-device Whisper transcription.",
       "section": [
         "Applications",
         "Productivity"
@@ -4677,10 +4688,30 @@
       ]
     },
     {
+      "key": "https://github.com/nestho/impacket-rs",
+      "name": "nestho/impacket-rs",
+      "url": "https://github.com/nestho/impacket-rs",
+      "description": "Memory-safe pure-Rust implementation of enterprise network protocols (SMB, MSRPC, Kerberos, LDAP, NTLM) and Active Directory auditing tools.",
+      "section": [
+        "Applications",
+        "Security tools"
+      ]
+    },
+    {
       "key": "https://github.com/emo-crab/observer_ward",
       "name": "observer_ward",
       "url": "https://github.com/emo-crab/observer_ward",
       "description": "Web application and service fingerprint identification tool",
+      "section": [
+        "Applications",
+        "Security tools"
+      ]
+    },
+    {
+      "key": "https://github.com/offseq/threat-finder",
+      "name": "offseq/threat-finder",
+      "url": "https://github.com/offseq/threat-finder",
+      "description": "[threat-finder] - Runtime vulnerability scanner that finds CVEs in the services actually running on a host and ranks them by network exposure",
       "section": [
         "Applications",
         "Security tools"
@@ -7517,6 +7548,16 @@
       ]
     },
     {
+      "key": "https://github.com/julianosig/easi.run",
+      "name": "julianosig/easi.run",
+      "url": "https://github.com/julianosig/easi.run",
+      "description": "Self-hosted Chrome for AI agents via MCP/REST, with live viewing and human takeover. AGPL-3.0-only.",
+      "section": [
+        "Applications",
+        "Workflow Automation"
+      ]
+    },
+    {
       "key": "https://github.com/SouravRoy-ETL/duckle",
       "name": "SouravRoy-ETL/duckle",
       "url": "https://github.com/SouravRoy-ETL/duckle",
@@ -8732,6 +8773,16 @@
       "name": "oreboot/oreboot",
       "url": "https://github.com/oreboot/oreboot",
       "description": "oreboot is a fork of coreboot, with C removed, written in Rust",
+      "section": [
+        "Development tools",
+        "Embedded"
+      ]
+    },
+    {
+      "key": "https://github.com/AlixANNERAUD/embedded_i18n",
+      "name": "AlixANNERAUD/embedded_i18n",
+      "url": "https://github.com/AlixANNERAUD/embedded_i18n",
+      "description": "[embedded-i18n] - Compile-time i18n for no_std firmware: translations from JSON, YAML, TOML, gettext PO/MO or Fluent files compiled into &'static str literals in flash, with plurals, fallbacks and no allocator.",
       "section": [
         "Development tools",
         "Embedded"
@@ -12982,6 +13033,16 @@
       ]
     },
     {
+      "key": "https://github.com/sshaplygin/ytsaurus-rs",
+      "name": "sshaplygin/ytsaurus-rs",
+      "url": "https://github.com/sshaplygin/ytsaurus-rs",
+      "description": "[ytsaurus-yson] - Rust clients for YTsaurus: HTTP API v4 and RPC proxy (dynamic tables through one interface), YSON and Skiff codecs, and a runtime for MapReduce workers",
+      "section": [
+        "Libraries",
+        "Data processing"
+      ]
+    },
+    {
       "key": "https://github.com/weld-project/weld",
       "name": "weld-project/weld",
       "url": "https://github.com/weld-project/weld",
@@ -16976,6 +17037,16 @@
       "name": "0xlane/pe-sign",
       "url": "https://github.com/0xlane/pe-sign",
       "description": "[pe-sign] - A cross-platform rust no-std library for verifying and extracting signature information from PE files.",
+      "section": [
+        "Libraries",
+        "Parsing"
+      ]
+    },
+    {
+      "key": "https://github.com/AlixANNERAUD/nanoexpr",
+      "name": "AlixANNERAUD/nanoexpr",
+      "url": "https://github.com/AlixANNERAUD/nanoexpr",
+      "description": "[nanoexpr] - Fast no_std math expression parser and evaluator with zero heap allocation: variables, functions, f32/f64/integers or exact decimals, for microcontrollers, WebAssembly and C.",
       "section": [
         "Libraries",
         "Parsing"

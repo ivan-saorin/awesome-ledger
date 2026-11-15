@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"87d8e2c67450682cdec03591ff51802bfa0e98e75e399df97ca36e6c19c7c11c\"",
+  "etag": "W/\"c1d5c0cdddb9735d5cd742610be9eb61c91c37ab378a2ae0247438eff3e82ff4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8,6 +8,16 @@
       "name": "AppImage.GitHub.io",
       "url": "https://appimage.github.io/",
       "description": "Catalog of AppImages that passed an automated test, links to upstream download pages.",
+      "section": [
+        "AppImage discovery",
+        "App catalogs"
+      ]
+    },
+    {
+      "key": "https://srevinsaju.github.io/get-appimage",
+      "name": "Get AppImage",
+      "url": "https://srevinsaju.github.io/get-appimage/",
+      "description": "Collection of all AppImages in one website. Great search functionality.",
       "section": [
         "AppImage discovery",
         "App catalogs"
@@ -34,26 +44,6 @@
       ]
     },
     {
-      "key": "https://software.manjaro.org/appimages",
-      "name": "Manjaro Software Discover",
-      "url": "https://software.manjaro.org/appimages",
-      "description": "Web-based app store that contains applications in multiple formats, including AppImage.",
-      "section": [
-        "AppImage discovery",
-        "App stores"
-      ]
-    },
-    {
-      "key": "https://github.com/Nitrux/nx-software-center",
-      "name": "NX Software Center",
-      "url": "https://github.com/Nitrux/nx-software-center",
-      "description": "Portable Software Center for portable AppImage applications.",
-      "section": [
-        "AppImage discovery",
-        "App centers"
-      ]
-    },
-    {
       "key": "https://github.com/prateekmedia/appimagepool",
       "name": "AppImagePool",
       "url": "https://github.com/prateekmedia/appimagepool",
@@ -74,16 +64,6 @@
       ]
     },
     {
-      "key": "https://github.com/AppImage/AppImageRadar",
-      "name": "AppImageRadar",
-      "url": "https://github.com/AppImage/AppImageRadar",
-      "description": "Search for AppImage-related activity on GitHub using Travis CI.",
-      "section": [
-        "AppImage discovery",
-        "App scrapers"
-      ]
-    },
-    {
       "key": "https://adamtheautomator.com/appimage-ubuntu",
       "name": "Getting Started Managing Software with AppImage on Ubuntu",
       "url": "https://adamtheautomator.com/appimage-ubuntu/",
@@ -98,16 +78,6 @@
       "name": "go-appimaged",
       "url": "https://github.com/probonopd/go-appimage/tree/master/src/appimaged",
       "description": "Optional daemon that integrates AppImages into the system (experimental).",
-      "section": [
-        "AppImage consumption tools",
-        "Desktop integration"
-      ]
-    },
-    {
-      "key": "https://github.com/AppImage/appimaged",
-      "name": "appimaged",
-      "url": "https://github.com/AppImage/appimaged",
-      "description": "Optional daemon that integrates AppImages into the system (deprecated).",
       "section": [
         "AppImage consumption tools",
         "Desktop integration"
@@ -178,6 +148,16 @@
       "name": "AppImage To Gnome",
       "url": "https://github.com/DejfCold/ATG",
       "description": "Monitors and (de)installs AppImages from the Gnome desktop.",
+      "section": [
+        "AppImage consumption tools",
+        "Desktop integration"
+      ]
+    },
+    {
+      "key": "https://github.com/w-j-r/AppImage-Integrator",
+      "name": "AppImage-Integrator",
+      "url": "https://github.com/w-j-r/AppImage-Integrator",
+      "description": "A simple program to integrate AppImages into the Linux desktop written in Qt6.",
       "section": [
         "AppImage consumption tools",
         "Desktop integration"
@@ -294,16 +274,6 @@
       ]
     },
     {
-      "key": "https://github.com/michaeldelago/aipm",
-      "name": "AIPM",
-      "url": "https://github.com/michaeldelago/aipm",
-      "description": "A Package Manager for AppImages.",
-      "section": [
-        "AppImage consumption tools",
-        "Package managers"
-      ]
-    },
-    {
       "key": "https://github.com/srevinsaju/zap",
       "name": "Zap",
       "url": "https://github.com/srevinsaju/zap",
@@ -348,16 +318,6 @@
       "name": "ayy",
       "url": "https://github.com/lawl/ayy",
       "description": "Package manager for AppImage. Single, static, dependency free binary. Written in Go.",
-      "section": [
-        "AppImage consumption tools",
-        "Package managers"
-      ]
-    },
-    {
-      "key": "https://github.com/lnxcz/leap",
-      "name": "leap",
-      "url": "https://github.com/lnxcz/leap",
-      "description": "Fast and simple AppImage manager. Written in Rust.",
       "section": [
         "AppImage consumption tools",
         "Package managers"
@@ -604,16 +564,6 @@
       ]
     },
     {
-      "key": "https://github.com/saleae/electron-forge-maker-appimage",
-      "name": "electron-forge-maker-appimage",
-      "url": "https://github.com/saleae/electron-forge-maker-appimage",
-      "description": "Electron Forge builder for AppImage.",
-      "section": [
-        "AppImage developer tools",
-        "Deployment tools for Electron applications"
-      ]
-    },
-    {
       "key": "https://github.com/sarweshparajuli/appnativefy",
       "name": "Appnativefy",
       "url": "https://github.com/sarweshparajuli/appnativefy",
@@ -644,19 +594,9 @@
       ]
     },
     {
-      "key": "https://github.com/ferion11/Wine_Appimage",
-      "name": "ferion11/Wine_Appimage",
-      "url": "https://github.com/ferion11/Wine_Appimage",
-      "description": "AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.",
-      "section": [
-        "AppImage developer tools",
-        "Deployment tools for Windows applications"
-      ]
-    },
-    {
-      "key": "https://gitlab.com/formigoni/gameimage",
+      "key": "https://github.com/gameimage/gameimage",
       "name": "GameImage",
-      "url": "https://gitlab.com/formigoni/gameimage",
+      "url": "https://github.com/gameimage/gameimage",
       "description": "Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.",
       "section": [
         "AppImage developer tools",
@@ -774,30 +714,10 @@
       ]
     },
     {
-      "key": "https://gitlab.com/brinkervii/appimage-cobbler",
-      "name": "AppImage cobbler",
-      "url": "https://gitlab.com/brinkervii/appimage-cobbler",
-      "description": "Python application that takes strace.log and turns it into a directory suited for an AppImage.",
-      "section": [
-        "AppImage developer tools",
-        "Tools to convert from other package formats"
-      ]
-    },
-    {
       "key": "https://github.com/s-zeid/elements",
       "name": "Elements",
       "url": "https://github.com/s-zeid/elements",
       "description": "Tool to generate single-file, runc-based AppImages using a minimal (~3 MB compressed) Alpine Linux rootfs.",
-      "section": [
-        "AppImage developer tools",
-        "Tools to convert from other package formats"
-      ]
-    },
-    {
-      "key": "https://github.com/hanzala123/arch2appimage",
-      "name": "arch2appimage",
-      "url": "https://github.com/hanzala123/arch2appimage",
-      "description": "Python script to convert any Arch Linux package (official/AUR) to an AppImage.",
       "section": [
         "AppImage developer tools",
         "Tools to convert from other package formats"
@@ -871,26 +791,6 @@
       "section": [
         "AppImage developer tools",
         "QC tools"
-      ]
-    },
-    {
-      "key": "https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml",
-      "name": "GitHub Actions example",
-      "url": "https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml",
-      "description": "Example of how to upload AppImages built using GitHub Actions to GitHub Releases.",
-      "section": [
-        "AppImage developer tools",
-        "Continuous integration"
-      ]
-    },
-    {
-      "key": "https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml",
-      "name": "appimage.yml",
-      "url": "https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml",
-      "description": "Bigger, more complex example of how to build and upload AppImages using GitHub Actions.",
-      "section": [
-        "AppImage developer tools",
-        "Continuous integration"
       ]
     },
     {
@@ -1254,16 +1154,6 @@
       ]
     },
     {
-      "key": "https://github.com/sagebind/appimagezip",
-      "name": "AppImageZip",
-      "url": "https://github.com/sagebind/appimagezip",
-      "description": "Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.",
-      "section": [
-        "Resources",
-        "Miscellaneous"
-      ]
-    },
-    {
       "key": "https://github.com/search?q=user:appimage label:help-wanted state:open&type=Issues",
       "name": "help-wanted",
       "url": "https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues",
@@ -1311,56 +1201,6 @@
       "section": [
         "Resources",
         "Other awesome lists"
-      ]
-    },
-    {
-      "key": "https://app-outlet.github.io",
-      "name": "App Outlet",
-      "url": "https://app-outlet.github.io/",
-      "description": "Universal app store that works with AppImages, Flatpaks and Snaps.",
-      "section": [
-        "Resources",
-        "Expired links"
-      ]
-    },
-    {
-      "key": "https://github.com/me1ting/appimage2desktop",
-      "name": "appimage2desktop",
-      "url": "https://github.com/me1ting/appimage2desktop",
-      "description": "Creates a desktop file and an icon in the system for an AppImage, nothing else.",
-      "section": [
-        "Resources",
-        "Expired links"
-      ]
-    },
-    {
-      "key": "https://github.com/w-j-r/AppImage-Integrator",
-      "name": "AppImage-Integrator",
-      "url": "https://github.com/w-j-r/AppImage-Integrator",
-      "description": "A simple program to integrate AppImages into the Linux desktop written in Qt6.",
-      "section": [
-        "Resources",
-        "Expired links"
-      ]
-    },
-    {
-      "key": "https://g.sreve/get-appimage",
-      "name": "Get AppImage",
-      "url": "https://g.sreve/get-appimage/",
-      "description": "Collection of all AppImages in one website. Great search functionality.",
-      "section": [
-        "Resources",
-        "Expired links"
-      ]
-    },
-    {
-      "key": "https://output.jsbin.com/qoqukof",
-      "name": "AppStream Generator",
-      "url": "https://output.jsbin.com/qoqukof",
-      "description": "Very simple generator for AppStream MetaInfo files which application authors can use to add metadata (like descriptions, screenshots, links) to their AppImage.",
-      "section": [
-        "Resources",
-        "Expired links"
       ]
     }
   ]

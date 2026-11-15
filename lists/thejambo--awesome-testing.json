@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"48a580a6a47e3ca512921692cc3396408b8dc16fb4c0bc8cc09787ace2072417\"",
+  "etag": "W/\"c85d8957964f1ab577aa72f7eae2c2c648119c9f9126ec4150f4472b8e49c6a9\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -488,6 +488,16 @@
       "name": "judge-check",
       "url": "https://github.com/dylanpulver/judge-check",
       "description": "Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/srpadmanabhuni/agentest",
+      "name": "agentest",
+      "url": "https://github.com/srpadmanabhuni/agentest",
+      "description": "Open-source CLI that runs 130 deterministic checks on recorded OpenTelemetry GenAI traces, A2A agent cards and MCP tool lists, offline and without an LLM judge, and exports JUnit or SARIF for CI.",
       "section": [
         "Software",
         "AI & LLM Testing"

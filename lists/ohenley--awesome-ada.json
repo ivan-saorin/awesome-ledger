@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"20608bddac4954fcb1b424de062464b200e8f114167533d843b07bf0e7573fff\"",
+  "etag": "W/\"88e95f6507c26465ecc26be621ec59b35ed0eee069c58f7ed82f7f879e0ed2dc\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -234,9 +234,9 @@
       ]
     },
     {
-      "key": "https://gitter.im/ada-lang/Lobby",
+      "key": "https://app.gitter.im",
       "name": "gitter-ada",
-      "url": "https://gitter.im/ada-lang/Lobby",
+      "url": "https://app.gitter.im/#/room/#ada-lang_Lobby:gitter.im",
       "description": "Ada channel at Gitter.",
       "section": [
         "Community",
@@ -1178,7 +1178,7 @@
       "key": "https://github.com/persan/gnatcoll-json",
       "name": "gnatcoll-json",
       "url": "https://github.com/persan/gnatcoll-json",
-      "description": "This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.",
+      "description": "This is a set of helpers for writing JSON-interfaces it contains JSON parses for most of the Ada runtime components.",
       "section": [
         "Frameworks",
         "Components"
@@ -1357,7 +1357,7 @@
     {
       "key": "https://invisible-island.net/ncurses/ncurses-Ada95.html",
       "name": "ncurses-ada95",
-      "url": "https://invisible-island.net/ncurses/ncurses-Ada95.html",
+      "url": "https://www.invisible-island.net/ncurses/ncurses-Ada95.html",
       "description": "Ada95 bindings for ncurses.",
       "section": [
         "Frameworks",
@@ -1438,7 +1438,7 @@
       "key": "https://github.com/stcarrez/ada-ado",
       "name": "ada-ado",
       "url": "https://github.com/stcarrez/ada-ado",
-      "description": "Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.",
+      "description": "Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developed for ADO come from the Java Hibernate ORM.",
       "section": [
         "Frameworks",
         "Database"
@@ -1598,7 +1598,7 @@
       "key": "https://ahven.stronglytyped.org",
       "name": "ahven",
       "url": "http://ahven.stronglytyped.org/",
-      "description": "A simple unit test library and framework for the Ada programming. language. It is loosely modelled after JUnit and some ideas from AUnit.",
+      "description": "A simple unit test library and framework for the Ada programming. language. It is loosely modeled after JUnit and some ideas from AUnit.",
       "section": [
         "Frameworks",
         "Unit Test, Testing"
@@ -1669,6 +1669,36 @@
       "name": "elogs",
       "url": "https://github.com/kevlar700/elogs",
       "description": "Logging framework for embedded systems absent of runtime errors.",
+      "section": [
+        "Frameworks",
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/kokhlo/prometheus-ada",
+      "name": "prometheus-ada",
+      "url": "https://github.com/kokhlo/prometheus-ada",
+      "description": "Prometheus client library: counters, gauges, histograms with label escaping and a thread-safe exposition endpoint.",
+      "section": [
+        "Frameworks",
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/kokhlo/ratelimit-ada",
+      "name": "ratelimit-ada",
+      "url": "https://github.com/kokhlo/ratelimit-ada",
+      "description": "Rate limiting primitives: token bucket and fixed window, zero dependencies.",
+      "section": [
+        "Frameworks",
+        "Logging"
+      ]
+    },
+    {
+      "key": "https://github.com/kokhlo/backoff-ada",
+      "name": "backoff-ada",
+      "url": "https://github.com/kokhlo/backoff-ada",
+      "description": "Retry backoff strategies: exponential with jitter, bounded caps.",
       "section": [
         "Frameworks",
         "Logging"
@@ -1878,7 +1908,7 @@
       "key": "https://apps.kde.org/es/umbrello",
       "name": "umbrello",
       "url": "https://apps.kde.org/es/umbrello/",
-      "description": "Unified Modelling Language (UML) diagram program based on KDE Technology. Outputs Ada.",
+      "description": "Unified Modeling Language (UML) diagram program based on KDE Technology. Outputs Ada.",
       "section": [
         "Tools",
         "UML"
@@ -1998,7 +2028,7 @@
       "key": "https://github.com/AdaCore/ada_language_server",
       "name": "ada-language-server",
       "url": "https://github.com/AdaCore/ada_language_server",
-      "description": "Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.",
+      "description": "Adacore server implementation of the the Microsoft Language Protocol for Ada and SPARK.",
       "section": [
         "Libraries",
         "Algorithms, Containers and Protocols"
@@ -2598,7 +2628,7 @@
       "key": "https://github.com/zertovitch/ini-files",
       "name": "ini-files",
       "url": "https://github.com/zertovitch/ini-files",
-      "description": "The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as \"ini\" files.",
+      "description": "The Ini file manager consists of a package, Config, which can read and modify information pieces from various configuration files known as \"ini\" files.",
       "section": [
         "Libraries",
         "Format Readers, Writers and Checkers"
@@ -2835,6 +2865,26 @@
       ]
     },
     {
+      "key": "https://github.com/kokhlo/websocket-ada",
+      "name": "websocket-ada",
+      "url": "https://github.com/kokhlo/websocket-ada",
+      "description": "WebSocket client library: RFC 6455 framing, ping/pong keepalive, automatic reconnect.",
+      "section": [
+        "Libraries",
+        "Networking and Communication Middleware"
+      ]
+    },
+    {
+      "key": "https://github.com/kokhlo/redis-ada",
+      "name": "redis-ada",
+      "url": "https://github.com/kokhlo/redis-ada",
+      "description": "Redis client library: connection pooling, RESP protocol, pub/sub.",
+      "section": [
+        "Libraries",
+        "Networking and Communication Middleware"
+      ]
+    },
+    {
       "key": "https://codelabs.ch/dbus-ada/index.html",
       "name": "dbus-ada",
       "url": "https://codelabs.ch/dbus-ada/index.html",
@@ -2848,7 +2898,7 @@
       "key": "https://github.com/persan/zeromq-Ada",
       "name": "zeromq-ada",
       "url": "https://github.com/persan/zeromq-Ada.git",
-      "description": "Binding to the ZeroMQ comunications-library.",
+      "description": "Binding to the ZeroMQ communications-library.",
       "section": [
         "Libraries",
         "Networking and Communication Middleware"
@@ -3508,7 +3558,7 @@
       "key": "https://github.com/Alex-Gamper/Ada-WinRT",
       "name": "ada-winrt",
       "url": "https://github.com/Alex-Gamper/Ada-WinRT",
-      "description": "Ada bindings for the Microsft WinRT Api.",
+      "description": "Ada bindings for the Microsoft WinRT Api.",
       "section": [
         "Libraries",
         "Windows and .NET"
@@ -3548,7 +3598,7 @@
       "key": "https://github.com/thindil/tashy2",
       "name": "tashy2",
       "url": "https://github.com/thindil/tashy2",
-      "description": "Derivate of Tashy that aims to be more idiomatic and uses a more permisive license.",
+      "description": "Derivate of Tashy that aims to be more idiomatic and uses a more permissive license.",
       "section": [
         "Libraries",
         "Bindings to Other Languages"
@@ -4228,7 +4278,7 @@
       "key": "https://parasail-lang.org",
       "name": "para-sail",
       "url": "http://parasail-lang.org/",
-      "description": "ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.",
+      "description": "ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originally owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.",
       "section": [
         "Applications",
         "Programming Languages"
