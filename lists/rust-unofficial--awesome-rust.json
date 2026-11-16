@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8ee8ed1a704d0e2cdac5a6640ad9a4ddc0802e04324d55d4c30b2d50c6d56fd5\"",
+  "etag": "W/\"5617a18cc735986711e96195466565401629dbe228ddfd64f1032f7d3b88be98\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -701,6 +701,15 @@
       "name": "UpVPN",
       "url": "https://github.com/upvpn/upvpn-app",
       "description": "WireGuard VPN client for macOS, Linux, and Windows built on Tauri.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/VEY-OSS/vey",
+      "name": "vey-proxy",
+      "url": "https://github.com/VEY-OSS/vey",
+      "description": "Modular async Rust proxy daemon unifying HTTP/SOCKS forward proxying, HTTP/TLS reverse proxying, TPROXY/SNI transparent proxying, TCP/UDP/TLS stream proxying, dynamic egress routing, TLS/ICAP inspection, and hot reloads.",
       "section": [
         "Applications"
       ]
@@ -7388,16 +7397,6 @@
       ]
     },
     {
-      "key": "https://github.com/bytedance/g3",
-      "name": "g3proxy",
-      "url": "https://github.com/bytedance/g3",
-      "description": "Forward proxy server, support Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation, Transparent Proxy",
-      "section": [
-        "Applications",
-        "Web Servers"
-      ]
-    },
-    {
       "key": "https://github.com/hyperlane-dev/hyperlane",
       "name": "hyperlane-dev/hyperlane",
       "url": "https://github.com/hyperlane-dev/hyperlane",
@@ -9563,6 +9562,16 @@
       "name": "llogiq/flame",
       "url": "https://github.com/llogiq/flame",
       "description": "An intrusive flamegraph profiling tool for rust",
+      "section": [
+        "Development tools",
+        "Profiling"
+      ]
+    },
+    {
+      "key": "https://github.com/bytedance/g3",
+      "name": "g3bench",
+      "url": "https://github.com/bytedance/g3",
+      "description": "A benchmark tool that supports HTTP 1.x, HTTP 2, HTTP 3, TLS Handshake, DNS and Cloudflare Keyless",
       "section": [
         "Development tools",
         "Profiling"

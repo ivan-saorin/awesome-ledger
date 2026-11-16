@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9e2f069898ba0bb4e73d012ef5e44ab95022f260816559eaa85d0b1ee15ddad6\"",
+  "etag": "W/\"28eb3f7ef32c17fdc72ca4a6bfbca6ece8eb7ca0006fe234f593d2c184bf05f4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1187,6 +1187,24 @@
       "name": "OsmO Phone Calls",
       "url": "https://github.com/Mountainheads-Private-limited/osmo-ai-plugins",
       "description": "Gemini CLI extension (GEMINI.md context + the remote MCP server https://api.getosmo.app/mcp) that has OsmO's voice AI phone businesses or helplines after you confirm, and returns the summary and transcript. OAuth sign-in with a phone number, no API key. 50 free credits for new users in the US, Canada, UK and Australia; paid after. With free credits, OsmO calls businesses and toll-free numbers; calling your contacts and scheduling calls need an OsmO app plan. Install: gemini extensions install https://github.com/Mountainheads-Private-limited/osmo-ai-plugins.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/hlibsuslov/telegram-bot-ui",
+      "name": "Telegram Bot UI",
+      "url": "https://github.com/hlibsuslov/telegram-bot-ui",
+      "description": "Agent Skill that runs in Gemini CLI (from ~/.agents/skills/ or ~/.gemini/skills/) and other agents. Makes Telegram bots look and feel like real products: messages, keyboards, buttons, navigation, streaming AI replies with Stop, HTML widgets and premium emoji; also audits an existing bot's interface. Ships an offline Bot API catalog and is updated with every new Bot API release. Install with python scripts/install.py --host gemini from a clone. MIT.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/workspace-templates/ai-agent-templates",
+      "name": "AI Agent Templates",
+      "url": "https://github.com/workspace-templates/ai-agent-templates",
+      "description": "Hundreds of MIT-licensed skills, subagents, custom commands, MCP setups and GEMINI.md rules in Gemini CLI's own file layout (500 templates in all, also for Claude Code, Codex, Cursor and Copilot), installable with npx workspacetemplates add <name> --tool gemini-cli.",
       "section": [
         "Commands & Extensions"
       ]

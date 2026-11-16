@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c85d8957964f1ab577aa72f7eae2c2c648119c9f9126ec4150f4472b8e49c6a9\"",
+  "etag": "W/\"cfac7888259a3df1bf88aa0bfc3cc66978085922629c5a0a234400af89cb3966\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -628,6 +628,16 @@
       "name": "OutageFence",
       "url": "https://github.com/jn6825rsr7-afk/outagefence",
       "description": "Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.",
+      "section": [
+        "Software",
+        "Service Virtualization"
+      ]
+    },
+    {
+      "key": "https://github.com/zeta92/atrezzo",
+      "name": "atrezzo",
+      "url": "https://github.com/zeta92/atrezzo",
+      "description": "Claude Code plugin that serves API mocks as deterministic projections of one seeded data set and checks the rendered DOM against a YAML scenario.",
       "section": [
         "Software",
         "Service Virtualization"

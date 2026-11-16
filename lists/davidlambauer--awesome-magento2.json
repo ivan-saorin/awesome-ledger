@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"18e3fb9c672727474338f9209a87e5684fd822b4996b498dbf4dc822eb2f8593\"",
+  "etag": "W/\"69558480561d1dcdfd6cf733354ae19b79917151edb528a8281924eb96d60705\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -57,16 +57,6 @@
       ]
     },
     {
-      "key": "https://meetmagento.in",
-      "name": "Meet Magento India",
-      "url": "https://www.meetmagento.in/",
-      "description": "🫡 - Meet Magento event series — India.",
-      "section": [
-        "Events: Meet the community",
-        "Meet Magento"
-      ]
-    },
-    {
       "key": "https://meetmagento.asia",
       "name": "Meet Magento Malaysia",
       "url": "https://www.meetmagento.asia/",
@@ -117,16 +107,6 @@
       ]
     },
     {
-      "key": "https://meetmagentobrasil.org",
-      "name": "Meet Magento Brazil",
-      "url": "https://meetmagentobrasil.org/",
-      "description": "Meet Magento event series — Brazil.",
-      "section": [
-        "Events: Meet the community",
-        "Meet Magento"
-      ]
-    },
-    {
       "key": "https://ro.meet-magento.com",
       "name": "Meet Magento Romania",
       "url": "https://ro.meet-magento.com/",
@@ -141,6 +121,26 @@
       "name": "Meet Magento Baltics",
       "url": "https://meetmagentobaltics.com/",
       "description": "Meet Magento event series — Baltics.",
+      "section": [
+        "Events: Meet the community",
+        "Meet Magento"
+      ]
+    },
+    {
+      "key": "https://meetmagentobrasil.org",
+      "name": "Meet Magento Brazil",
+      "url": "https://meetmagentobrasil.org/",
+      "description": "Meet Magento event series — Brazil.",
+      "section": [
+        "Events: Meet the community",
+        "Meet Magento"
+      ]
+    },
+    {
+      "key": "https://meetmagento.in",
+      "name": "Meet Magento India",
+      "url": "https://www.meetmagento.in/",
+      "description": "Meet Magento event series — India.",
       "section": [
         "Events: Meet the community",
         "Meet Magento"
@@ -319,19 +319,19 @@
       ]
     },
     {
-      "key": "https://github.com/magespecialist/mage-chrome-toolbar",
-      "name": "Mage Chrome Toolbar",
-      "url": "https://github.com/magespecialist/mage-chrome-toolbar",
-      "description": "Chrome extension for Magento 2 development by MageSpecialist.",
+      "key": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
+      "name": "AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
+      "url": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
+      "description": "Helper script to aid upgrading Magento 2 websites by detecting overrides.",
       "section": [
         "Tools"
       ]
     },
     {
-      "key": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
-      "name": "AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
-      "url": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
-      "description": "Helper script to aid upgrading Magento 2 websites by detecting overrides.",
+      "key": "https://github.com/magespecialist/mage-chrome-toolbar",
+      "name": "Mage Chrome Toolbar",
+      "url": "https://github.com/magespecialist/mage-chrome-toolbar",
+      "description": "Chrome extension for Magento 2 development by MageSpecialist.",
       "section": [
         "Tools"
       ]
@@ -963,16 +963,6 @@
       ]
     },
     {
-      "key": "https://github.com/mage-os/module-page-builder-widget",
-      "name": "module-page-builder-widget",
-      "url": "https://github.com/mage-os/module-page-builder-widget",
-      "description": "🫡 - Native Magento Page Builder support for CMS Widgets",
-      "section": [
-        "Open Source Extensions",
-        "CMS"
-      ]
-    },
-    {
       "key": "https://github.com/opengento/magento2-gdpr",
       "name": "Opengento GDPR",
       "url": "https://github.com/opengento/magento2-gdpr",
@@ -997,6 +987,16 @@
       "name": "magento-2-seeder",
       "url": "https://github.com/run-as-root/magento-2-seeder",
       "description": "Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.",
+      "section": [
+        "Open Source Extensions",
+        "CMS"
+      ]
+    },
+    {
+      "key": "https://github.com/mage-os/module-page-builder-widget",
+      "name": "module-page-builder-widget",
+      "url": "https://github.com/mage-os/module-page-builder-widget",
+      "description": "Native Magento Page Builder support for CMS Widgets",
       "section": [
         "Open Source Extensions",
         "CMS"
@@ -1293,16 +1293,6 @@
       ]
     },
     {
-      "key": "https://github.com/mage-os/magento-cache-clean",
-      "name": "magento-cache-clean",
-      "url": "https://github.com/mage-os/magento-cache-clean",
-      "description": "🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher",
-      "section": [
-        "Open Source Extensions",
-        "Infrastructure"
-      ]
-    },
-    {
       "key": "https://github.com/mage-os/module-theme-optimization",
       "name": "module-theme-optimization",
       "url": "https://github.com/mage-os/module-theme-optimization",
@@ -1337,6 +1327,16 @@
       "name": "Clean Media",
       "url": "https://github.com/sivaschenko/magento2-clean-media",
       "description": "A module that provides information about media files and potential removal options.",
+      "section": [
+        "Open Source Extensions",
+        "Infrastructure"
+      ]
+    },
+    {
+      "key": "https://github.com/mage-os/magento-cache-clean",
+      "name": "magento-cache-clean",
+      "url": "https://github.com/mage-os/magento-cache-clean",
+      "description": "A faster drop in replacement for bin/magento cache:clean with file watcher",
       "section": [
         "Open Source Extensions",
         "Infrastructure"
@@ -1575,7 +1575,7 @@
       "key": "https://jetrails.com/podcast",
       "name": "The JetRails Podcast",
       "url": "https://jetrails.com/podcast/",
-      "description": "Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.",
+      "description": "🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.",
       "section": [
         "Podcasts"
       ]
