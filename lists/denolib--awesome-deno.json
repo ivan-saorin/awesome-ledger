@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"bc4c1041dee30ad5794a4482bed5c1413f1c98330d34f434d01998e240f4104a\"",
+  "etag": "W/\"b31901bbba6f539cb14bb7311e57bdbc6eefb31d997b2b08db8055ddaf445044\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -234,6 +234,16 @@
       ]
     },
     {
+      "key": "https://github.com/zisam-glitch/kvdock",
+      "name": "kvdock",
+      "url": "https://github.com/zisam-glitch/kvdock",
+      "description": "Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.",
+      "section": [
+        "Modules",
+        "Database"
+      ]
+    },
+    {
       "key": "https://github.com/josh-hemphill/maxminddb-wasm",
       "name": "maxminddb",
       "url": "https://github.com/josh-hemphill/maxminddb-wasm",
@@ -341,6 +351,16 @@
       "section": [
         "Modules",
         "Game engine"
+      ]
+    },
+    {
+      "key": "https://github.com/hanshs474/aigifmaker-ts",
+      "name": "aigifmaker",
+      "url": "https://github.com/hanshs474/aigifmaker-ts",
+      "description": "Turn text prompts into animated GIFs with the AI GIF Maker API.",
+      "section": [
+        "Modules",
+        "Image"
       ]
     },
     {
@@ -491,6 +511,16 @@
       "section": [
         "Modules",
         "String utils"
+      ]
+    },
+    {
+      "key": "https://github.com/sxnnyside-project/circe",
+      "name": "Circe",
+      "url": "https://github.com/sxnnyside-project/circe",
+      "description": "Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.",
+      "section": [
+        "Modules",
+        "Social Platform APIs"
       ]
     },
     {
@@ -788,6 +818,26 @@
       "name": "garn-validator",
       "url": "https://github.com/jupegarnica/garn-validator",
       "description": "Create validations with ease.",
+      "section": [
+        "Modules",
+        "Utils"
+      ]
+    },
+    {
+      "key": "https://github.com/Masyaka/injecute",
+      "name": "injecute",
+      "url": "https://github.com/Masyaka/injecute",
+      "description": "Type-safe dependency injection container with explicit wiring and no decorators.",
+      "section": [
+        "Modules",
+        "Utils"
+      ]
+    },
+    {
+      "key": "https://github.com/carmenaresearch/json-schema-for-llms",
+      "name": "json-schema-for-llms",
+      "url": "https://github.com/carmenaresearch/json-schema-for-llms",
+      "description": "Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.",
       "section": [
         "Modules",
         "Utils"
@@ -1104,6 +1154,16 @@
       ]
     },
     {
+      "key": "https://github.com/thegruber/linkpeek",
+      "name": "linkpeek",
+      "url": "https://github.com/thegruber/linkpeek",
+      "description": "Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.",
+      "section": [
+        "Modules",
+        "Web utils"
+      ]
+    },
+    {
       "key": "https://github.com/nats-io/nats.deno",
       "name": "nats",
       "url": "https://github.com/nats-io/nats.deno",
@@ -1264,6 +1324,15 @@
       ]
     },
     {
+      "key": "https://github.com/bare-devcontainer/templates/tree/main/src/deno",
+      "name": "bare-devcontainer/templates",
+      "url": "https://github.com/bare-devcontainer/templates/tree/main/src/deno",
+      "description": "Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at bare-devcontainer/images.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/ekaragodin/clone",
       "name": "clone",
       "url": "https://github.com/ekaragodin/clone",
@@ -1277,6 +1346,15 @@
       "name": "CompatLab",
       "url": "https://github.com/siddiksawani/CompatLab",
       "description": "Check npm package loading across pinned Deno, Node.js and Bun versions with shareable reports.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/copilotzhq/copilotz",
+      "name": "copilotz",
+      "url": "https://github.com/copilotzhq/copilotz",
+      "description": "TypeScript runtime for apps used by people, the app's own agents and AI assistants over MCP, with one set of Actions, access rules and audit record for every caller.",
       "section": [
         "Tools"
       ]

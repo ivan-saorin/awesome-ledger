@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"28eb3f7ef32c17fdc72ca4a6bfbca6ece8eb7ca0006fe234f593d2c184bf05f4\"",
+  "etag": "W/\"c55e162dcf3885800bd918e4bc0afdc9be409ec18bc6649ab8c39959f5b491c5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1210,6 +1210,24 @@
       ]
     },
     {
+      "key": "https://github.com/gitranks/contribute",
+      "name": "GitRanks Contribute",
+      "url": "https://github.com/gitranks/contribute",
+      "description": "Find open-source GitHub issues matched to your skills, fix one with your agent, and approve the pull request yourself. Gemini CLI extension for the remote MCP server https://mcp.gitranks.com/mcp, with OAuth sign-in through GitHub and no API key. MIT. Install: gemini extensions install https://github.com/gitranks/contribute, then /mcp auth gitranks.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/moonetix/revenue-skills",
+      "name": "Revenue Skills",
+      "url": "https://github.com/moonetix/revenue-skills",
+      "description": "Gemini CLI extension with 11 Agent Skills for code that handles money: an audit of payment, credit and payout paths that reports each bug with file, line and a request proof or code trace, and skills that build webhook endpoints, ledgers, refunds, usage credits, subscriptions, payouts, referrals and sign-up abuse guards. Install: gemini extensions install https://github.com/moonetix/revenue-skills",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1880,6 +1898,15 @@
       "name": "ctx-receipt",
       "url": "https://github.com/Jenoyrex/ctx-receipt",
       "description": "Shows what Gemini CLI, Claude Code, Codex CLI, and Cursor pre-load into context before your first prompt: GEMINI.md and its imports, skills, and MCP servers, as token estimates. Includes a CI budget check and a GitHub Action.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/kaygaaf/tattlr",
+      "name": "tattlr",
+      "url": "https://github.com/kaygaaf/tattlr",
+      "description": "Local CLI that reads session logs from Gemini CLI and other coding agents, and can hook those agents to block risky tool calls before they run.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -3032,6 +3059,15 @@
       "name": "ScanMalware",
       "url": "https://github.com/scanmalware/scanmalware-plugin",
       "description": "Keyless remote MCP server and Gemini CLI extension for investigating phishing and malicious URLs. Gemini CLI can submit a link to be run in isolated analysis environments and checked against YARA, antivirus and IDS rules, threat feeds and AI (suspicious pages get an AI verdict with a scam type such as credential phishing), then pivot across the public scan archive by domain, IP, ASN, JARM, favicon hash or script hash. A bundled skill walks from one phishing URL to the rest of its campaign. Install: gemini extensions install https://github.com/scanmalware/scanmalware-plugin",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://taskhold.com",
+      "name": "Taskhold",
+      "url": "https://taskhold.com/?ref=awesome-gemini-cli",
+      "description": "Hosted MCP server that gives Gemini CLI a task list you share: next task, steps, live progress and blocked questions you answer from a web board. 23 tools, remote Streamable HTTP with OAuth. Paid, $12/month, 7-day trial.",
       "section": [
         "MCP Servers"
       ]

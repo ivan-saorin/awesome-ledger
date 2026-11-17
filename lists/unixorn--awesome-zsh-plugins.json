@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2f7cbc60336a02cd27ed427fda637caeaa8bcd0cecd4c2e25be38df82dd76828\"",
+  "etag": "W/\"53142093f3213eaa1b40c05a6548c12dcebd1fc2f527b01d8d2c0ce2c45fea33\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4410,6 +4410,15 @@
       "name": "git-status",
       "url": "https://github.com/AyoubMounim/zsh-git-status/",
       "description": "Exposes functions with information about the current git repository.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/rosado-io/zsh-git-sweep",
+      "name": "git-sweep",
+      "url": "https://github.com/rosado-io/zsh-git-sweep",
+      "description": "Small ZSH plugin for cleaning up Git branches and worktrees, with protected branch patterns, dry-run previews, optional interactive selection, and explicit remote cleanup.",
       "section": [
         "Plugins"
       ]
@@ -10701,6 +10710,15 @@
       "name": "zero",
       "url": "https://github.com/arlimus/zero.zsh",
       "description": "Zero is both a plugin and a theme. See the GitHub page for installation details. Includes git and hg status decorators.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/rostik32/zest",
+      "name": "zest",
+      "url": "https://github.com/rostik32/zest",
+      "description": "Fig-style autocomplete popup for macOS. Shows subcommands, options, git branches and files with descriptions under the cursor in Terminal.app, VS Code and Cursor. Specs for 1,500 commands; new ones are a YAML file.",
       "section": [
         "Plugins"
       ]

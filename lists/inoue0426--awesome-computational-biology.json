@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2786a8d7c331ba953c76b91643a209b57211d239aa7ea5bf81c17524dc5d9d84\"",
+  "etag": "W/\"64db5ebf57553e0319fd4907099c1af1e0b2cf3b6fb8ed4271499c64a189bf47\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -947,6 +947,46 @@
       ]
     },
     {
+      "key": "https://scctdb.ncpsb.org.cn",
+      "name": "scCT-DB",
+      "url": "http://scctdb.ncpsb.org.cn",
+      "description": "Cancer treatment single-cell database with 266 paired pre/post-treatment datasets, 6.19M cells, 1,142 samples, 27 cancer types, and 102 drugs.",
+      "section": [
+        "Benchmarks & Datasets",
+        "Drug Response & Perturbation"
+      ]
+    },
+    {
+      "key": "https://scimmnue.com",
+      "name": "scICB",
+      "url": "http://www.scimmnue.com/",
+      "description": "Pan-cancer ICB therapy single-cell database spanning 338 patients, 807 samples, 3.69M cells, and 13 cancer types, including 247 matched pre/post-treatment patients.",
+      "section": [
+        "Benchmarks & Datasets",
+        "Drug Response & Perturbation"
+      ]
+    },
+    {
+      "key": "https://cellknowledge.com.cn/cellresponse",
+      "name": "CellResDB",
+      "url": "https://cellknowledge.com.cn/cellresponse",
+      "description": "Cancer therapy response single-cell database containing 4.7M cells from 1,391 patient samples, 72 datasets, and 24 cancer types.",
+      "section": [
+        "Benchmarks & Datasets",
+        "Drug Response & Perturbation"
+      ]
+    },
+    {
+      "key": "https://cellxgene.cziscience.com/collections/61e422dd-c9cd-460e-9b91-72d9517348ef",
+      "name": "Gondal et al. 2025 ICB scRNA-seq collection",
+      "url": "https://cellxgene.cziscience.com/collections/61e422dd-c9cd-460e-9b91-72d9517348ef",
+      "description": "Integrated ICB-treated cancer single-cell collection from eight studies and 223 patients, with 90,270 cancer cells and 265,671 other cells.",
+      "section": [
+        "Benchmarks & Datasets",
+        "Drug Response & Perturbation"
+      ]
+    },
+    {
       "key": "https://biodev.github.io/BeatAML2",
       "name": "BEAT AML",
       "url": "https://biodev.github.io/BeatAML2/",
@@ -1074,6 +1114,26 @@
       "section": [
         "Benchmarks & Datasets",
         "Drug Response & Perturbation"
+      ]
+    },
+    {
+      "key": "https://github.com/TianGzlab/scPerturbBench",
+      "name": "scPerturbBench (TianGzlab / PerturbArena)",
+      "url": "https://github.com/TianGzlab/scPerturbBench",
+      "description": "Benchmark of single-cell genetic perturbation prediction covering unseen perturbations, combinations, cell-state transfer, and 24 evaluation metrics.",
+      "section": [
+        "Benchmarks & Datasets",
+        "Genetic Perturbation & Perturb-seq"
+      ]
+    },
+    {
+      "key": "https://github.com/bm2-lab/scPerturBench",
+      "name": "scPerturBench (BM2 Lab)",
+      "url": "https://github.com/bm2-lab/scPerturBench",
+      "description": "Benchmark comparing 27 single-cell perturbation-response prediction methods across 29 genetic and chemical perturbation datasets.",
+      "section": [
+        "Benchmarks & Datasets",
+        "Genetic Perturbation & Perturb-seq"
       ]
     },
     {
@@ -1407,6 +1467,16 @@
       ]
     },
     {
+      "key": "https://github.com/zou-group/CellVoyager/tree/main/CellBench",
+      "name": "CellBench (CellVoyager)",
+      "url": "https://github.com/zou-group/CellVoyager/tree/main/CellBench",
+      "description": "Benchmark for evaluating LLMs and data-analysis agents on reproducible single-cell research tasks.",
+      "section": [
+        "Benchmarks & Datasets",
+        "General Biological ML & Knowledge Graph Benchmarks"
+      ]
+    },
+    {
       "key": "https://ogb.stanford.edu",
       "name": "OGB (Open Graph Benchmark)",
       "url": "https://ogb.stanford.edu/",
@@ -1496,6 +1566,15 @@
       "description": "API for querying clinical trial metadata and results.",
       "section": [
         "API"
+      ]
+    },
+    {
+      "key": "https://spatialdata.scverse.org",
+      "name": "SpatialData",
+      "url": "https://spatialdata.scverse.org/",
+      "description": "Interoperable data structures and tooling for spatial omics, microscopy images, coordinates, segmentation shapes, and annotations.",
+      "section": [
+        "Preprocessing Tools"
       ]
     },
     {
@@ -2542,6 +2621,17 @@
       ]
     },
     {
+      "key": "https://github.com/zou-group/CellVoyager",
+      "name": "CellVoyager",
+      "url": "https://github.com/zou-group/CellVoyager",
+      "description": "Jupyter-based scientific agent that plans, executes, and evaluates single-cell transcriptomics analyses, accompanied by CellBench.",
+      "section": [
+        "Machine Learning Tasks and Models",
+        "Agentic AI for Biology",
+        "Bioinformatics & Omics Agents"
+      ]
+    },
+    {
       "key": "https://github.com/ElliotXie/CASSIA",
       "name": "CASSIA",
       "url": "https://github.com/ElliotXie/CASSIA",
@@ -2649,6 +2739,18 @@
         "Machine Learning Tasks and Models",
         "Agentic AI for Biology",
         "Paper & Workflow Agents"
+      ]
+    },
+    {
+      "key": "https://github.com/vandijklab/cell2sentence",
+      "name": "Cell2Sentence / C2S-Scale",
+      "url": "https://github.com/vandijklab/cell2sentence",
+      "description": "Single-cell language-model family representing gene-expression profiles as cell sentences for cellular interpretation, generation, and question answering.",
+      "section": [
+        "Machine Learning Tasks and Models",
+        "Foundation Models",
+        "Single-cell Foundation Models",
+        "Transcriptomics Foundation Models"
       ]
     },
     {
@@ -3489,6 +3591,28 @@
         "Foundation Models",
         "Protein Foundation Models",
         "Protein Structure Prediction and Design"
+      ]
+    },
+    {
+      "key": "https://deepmind.google/models/gemma/txgemma",
+      "name": "TxGemma",
+      "url": "https://deepmind.google/models/gemma/txgemma/",
+      "description": "Open Gemma-based therapeutic-development model family (2B, 9B, and 27B) for property prediction and interactive scientific reasoning.",
+      "section": [
+        "Machine Learning Tasks and Models",
+        "Foundation Models",
+        "Multi-Modal Foundation Models"
+      ]
+    },
+    {
+      "key": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+      "name": "NVIDIA Nemotron for Science",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+      "description": "Scientific-agent development stack based on Nemotron 3.5 Super VL, with post-training recipes and chemistry reasoning benchmark LitmusBench v0.2.",
+      "section": [
+        "Machine Learning Tasks and Models",
+        "Foundation Models",
+        "Multi-Modal Foundation Models"
       ]
     },
     {

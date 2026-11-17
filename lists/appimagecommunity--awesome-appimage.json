@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c1d5c0cdddb9735d5cd742610be9eb61c91c37ab378a2ae0247438eff3e82ff4\"",
+  "etag": "W/\"b5880294ad0b98ea8710c3aa38efdcf5d82c65ec872462857bd1c2fd8e8e3653\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -488,6 +488,16 @@
       "name": "XojoToAppImage",
       "url": "https://github.com/AlwaysOfflineSoftware/XojoToAppImage",
       "description": "Graphical tool for packaging compiled Xojo Linux programs into AppImages.",
+      "section": [
+        "AppImage developer tools",
+        "Deployment tools for compiled applications"
+      ]
+    },
+    {
+      "key": "https://github.com/AppImageCommunity/AppImagePackaging",
+      "name": "AppImage Packaging",
+      "url": "https://github.com/AppImageCommunity/AppImagePackaging",
+      "description": "Skills for Claude and other coding agents (Codex, Cursor, OpenCode, ...) that package Linux applications as self-contained AppImages, build and publish them from GitHub Actions, and verify and troubleshoot them on other distributions.",
       "section": [
         "AppImage developer tools",
         "Deployment tools for compiled applications"
