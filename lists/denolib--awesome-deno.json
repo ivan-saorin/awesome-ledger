@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b31901bbba6f539cb14bb7311e57bdbc6eefb31d997b2b08db8055ddaf445044\"",
+  "etag": "W/\"6697a6a09679862ac9fc01a0d3e989d2420a3a0a075ff05d4c936503fe050198\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -114,10 +114,10 @@
       ]
     },
     {
-      "key": "https://github.com/jersou/clite-parser",
-      "name": "clite",
-      "url": "https://github.com/jersou/clite-parser",
-      "description": "Automatic CLI generation from a class.",
+      "key": "https://github.com/jersou/clinfer",
+      "name": "clinfer",
+      "url": "https://github.com/jersou/clinfer",
+      "description": "Automatically generate CLIs from JS objects, classes or ES modules.",
       "section": [
         "Modules",
         "CLI utils"
@@ -254,9 +254,9 @@
       ]
     },
     {
-      "key": "https://github.com/halvardssm/deno-nessie",
+      "key": "https://github.com/lmxrd/deno-nessie",
       "name": "nessie",
-      "url": "https://github.com/halvardssm/deno-nessie",
+      "url": "https://github.com/lmxrd/deno-nessie",
       "description": "Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.",
       "section": [
         "Modules",
@@ -304,9 +304,9 @@
       ]
     },
     {
-      "key": "https://github.com/denoland/fresh",
+      "key": "https://github.com/freshframework/fresh",
       "name": "fresh",
-      "url": "https://github.com/denoland/fresh",
+      "url": "https://github.com/freshframework/fresh",
       "description": "The next-gen web framework.",
       "section": [
         "Modules",
@@ -364,9 +364,9 @@
       ]
     },
     {
-      "key": "https://github.com/matmen/ImageScript",
+      "key": "https://github.com/imagescript/ImageScript",
       "name": "ImageScript",
-      "url": "https://github.com/matmen/ImageScript",
+      "url": "https://github.com/imagescript/ImageScript",
       "description": "Image processing in JavaScript, utilizing WebAssembly for performance.",
       "section": [
         "Modules",
@@ -614,30 +614,10 @@
       ]
     },
     {
-      "key": "https://github.com/drashland/rhum",
-      "name": "rhum",
-      "url": "https://github.com/drashland/rhum",
-      "description": "A lightweight testing framework for Deno.",
-      "section": [
-        "Modules",
-        "Testing"
-      ]
-    },
-    {
       "key": "https://github.com/cmorten/superdeno",
       "name": "superdeno",
       "url": "https://github.com/cmorten/superdeno",
       "description": "Super-agent driven library for testing Deno HTTP servers.",
-      "section": [
-        "Modules",
-        "Testing"
-      ]
-    },
-    {
-      "key": "https://github.com/cmorten/superoak",
-      "name": "superoak",
-      "url": "https://github.com/cmorten/superoak",
-      "description": "HTTP assertions for Oak made easy via SuperDeno.",
       "section": [
         "Modules",
         "Testing"
@@ -924,9 +904,9 @@
       ]
     },
     {
-      "key": "https://github.com/nyaomaru/is-kit",
+      "key": "https://github.com/necoz-oss/is-kit",
       "name": "is-kit",
-      "url": "https://github.com/nyaomaru/is-kit",
+      "url": "https://github.com/necoz-oss/is-kit",
       "description": "Build small, composable type guards with natural TypeScript narrowing and zero dependencies.",
       "section": [
         "Modules",
@@ -1014,36 +994,6 @@
       ]
     },
     {
-      "key": "https://github.com/cmorten/oak-http-proxy",
-      "name": "oak-http-proxy",
-      "url": "https://github.com/cmorten/oak-http-proxy",
-      "description": "Proxy middleware for Deno Oak HTTP servers.",
-      "section": [
-        "Modules",
-        "Web framework"
-      ]
-    },
-    {
-      "key": "https://github.com/Thesephi/oak-routing-ctrl",
-      "name": "oak-routing-ctrl",
-      "url": "https://github.com/Thesephi/oak-routing-ctrl",
-      "description": "TypeScript Decorators for easy scaffolding API services with the oak framework.",
-      "section": [
-        "Modules",
-        "Web framework"
-      ]
-    },
-    {
-      "key": "https://github.com/oakserver/oak",
-      "name": "oak",
-      "url": "https://github.com/oakserver/oak",
-      "description": "A middleware framework for Deno's net server.",
-      "section": [
-        "Modules",
-        "Web framework"
-      ]
-    },
-    {
       "key": "https://github.com/cmorten/opine-http-proxy",
       "name": "opine-http-proxy",
       "url": "https://github.com/cmorten/opine-http-proxy",
@@ -1108,16 +1058,6 @@
       "name": "forwarded",
       "url": "https://github.com/deno-libs/forwarded",
       "description": "Deno port of forwarded library.",
-      "section": [
-        "Modules",
-        "Web utils"
-      ]
-    },
-    {
-      "key": "https://github.com/denoland/fresh_charts",
-      "name": "fresh_chart",
-      "url": "https://github.com/denoland/fresh_charts",
-      "description": "A server-side-rendered charting library for Fresh.",
       "section": [
         "Modules",
         "Web utils"

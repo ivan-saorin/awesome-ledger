@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"099a70e4f8518ece666b20c020cb959ccb029872c3c0f428589a8c526fb08609\"",
+  "etag": "W/\"fa2181ee977534a70bf448ad418fa338d57c0ce168a0a8fd137456131cc7ecdc\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -89,6 +89,15 @@
       "name": "ROS Agriculture",
       "url": "https://rosagriculture.org/",
       "description": "Open Source community focusing on using Robot Operating System to empower farmers with robotics tools.",
+      "section": [
+        "Automation and Robotics"
+      ]
+    },
+    {
+      "key": "https://github.com/Agroecology-Lab/Sowbot",
+      "name": "Sowbot",
+      "url": "https://github.com/Agroecology-Lab/Sowbot",
+      "description": "Open-hardware seeding and weeding robot for smallholder agroecological farms, with a ROS 2 stack.",
       "section": [
         "Automation and Robotics"
       ]
@@ -202,6 +211,15 @@
       ]
     },
     {
+      "key": "https://github.com/magpiemodel/magpie",
+      "name": "MAgPIE",
+      "url": "https://github.com/magpiemodel/magpie",
+      "description": "Global land-use allocation model linking agricultural production, land use and environmental impacts.",
+      "section": [
+        "Climate, Environment and Weather"
+      ]
+    },
+    {
       "key": "https://github.com/woodcrafty/PyETo",
       "name": "PyETo",
       "url": "https://github.com/woodcrafty/PyETo",
@@ -229,10 +247,82 @@
       ]
     },
     {
+      "key": "https://github.com/varda-ag/soilhive-core",
+      "name": "SoilHive Core",
+      "url": "https://github.com/varda-ag/soilhive-core",
+      "description": "Federated platform for discovering, harmonising and sharing soil datasets across institutions.",
+      "section": [
+        "Climate, Environment and Weather"
+      ]
+    },
+    {
+      "key": "https://github.com/MAGALA-RICHARD/apsimNGpy",
+      "name": "apsimNGpy",
+      "url": "https://github.com/MAGALA-RICHARD/apsimNGpy",
+      "description": "Python interface for running and analysing APSIM Next Generation simulations.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
+      "key": "https://github.com/SticsRPacks/CroptimizR",
+      "name": "CroptimizR",
+      "url": "https://github.com/SticsRPacks/CroptimizR",
+      "description": "R package for parameter estimation and uncertainty analysis of crop models.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
+      "key": "https://github.com/DSSAT/dssat-csm-os",
+      "name": "DSSAT",
+      "url": "https://github.com/DSSAT/dssat-csm-os",
+      "description": "Decision Support System for Agrotechnology Transfer cropping system model.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/adamhsparks/Epicrop.jl",
+      "name": "Epicrop.jl",
+      "url": "https://codeberg.org/adamhsparks/Epicrop.jl",
+      "description": "Crop disease epidemic simulation using a compartmental (HLIP) model, in Julia.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
+      "key": "https://github.com/DidierMurilloF/FielDHub",
+      "name": "FielDHub",
+      "url": "https://github.com/DidierMurilloF/FielDHub",
+      "description": "R/Shiny app for designing agricultural field experiments.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
       "key": "https://openplantpathology.netlify.app",
       "name": "Open Plant Pathology",
       "url": "https://openplantpathology.netlify.app/",
       "description": "A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
+      "key": "https://github.com/openalea/phenomenal",
+      "name": "Phenomenal",
+      "url": "https://github.com/openalea/phenomenal",
+      "description": "3D plant phenotyping and organ segmentation from multi-view images.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
+      "key": "https://github.com/openalea/plantgl",
+      "name": "PlantGL",
+      "url": "https://github.com/openalea/plantgl",
+      "description": "Geometric library for modelling and visualising plant architecture.",
       "section": [
         "Crop Modeling, Phenotyping, and Pathology"
       ]
@@ -477,6 +567,15 @@
       ]
     },
     {
+      "key": "https://github.com/FoodOntology/foodon",
+      "name": "FoodOn",
+      "url": "https://github.com/FoodOntology/foodon",
+      "description": "Open ontology for food, food sources and food processing.",
+      "section": [
+        "Data Standardization, Interoperability and APIs"
+      ]
+    },
+    {
       "key": "https://github.com/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example",
       "name": "ISO-15143-3-API-OAuth2-CSharp-Example",
       "url": "https://github.com/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example",
@@ -582,6 +681,24 @@
       "description": "Open source botanical REST API for querying plant species, taxonomy, and growing information.",
       "section": [
         "Data Standardization, Interoperability and APIs"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/animaltrakker_system/animaltrakker_farm_mobile",
+      "name": "AnimalTrakker",
+      "url": "https://gitlab.com/animaltrakker_system/animaltrakker_farm_mobile",
+      "description": "Mobile record keeping for sheep and goat flocks.",
+      "section": [
+        "Farm Management Systems and Record Keeping"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/digiagriapp/digiagriapp-server",
+      "name": "DigiAgriApp",
+      "url": "https://gitlab.com/digiagriapp/digiagriapp-server",
+      "description": "Field and orchard data management server with sensor and remote-sensing integration.",
+      "section": [
+        "Farm Management Systems and Record Keeping"
       ]
     },
     {
@@ -743,6 +860,15 @@
       ]
     },
     {
+      "key": "https://github.com/kizniche/Mycodo",
+      "name": "Mycodo",
+      "url": "https://github.com/kizniche/Mycodo",
+      "description": "Environmental monitoring and regulation for mushrooms, hydroponics and greenhouses.",
+      "section": [
+        "IoT, Hardware"
+      ]
+    },
+    {
       "key": "https://github.com/OpenAgricultureFoundation",
       "name": "Open Agriculture Foundation",
       "url": "https://github.com/OpenAgricultureFoundation",
@@ -770,6 +896,15 @@
       ]
     },
     {
+      "key": "https://github.com/OpenSprinkler/OpenSprinkler-Firmware",
+      "name": "OpenSprinkler",
+      "url": "https://github.com/OpenSprinkler/OpenSprinkler-Firmware",
+      "description": "Firmware for the open irrigation controller.",
+      "section": [
+        "IoT, Hardware"
+      ]
+    },
+    {
       "key": "https://github.com/geezacoleman/OpenWeedLocator",
       "name": "OpenWeedLocator",
       "url": "https://github.com/geezacoleman/OpenWeedLocator",
@@ -792,6 +927,15 @@
       "name": "Smart Farming Thingsboard",
       "url": "https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard",
       "description": "a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.",
+      "section": [
+        "IoT, Hardware"
+      ]
+    },
+    {
+      "key": "https://github.com/altmenorg/HAsmartirrigation",
+      "name": "Smart Irrigation",
+      "url": "https://github.com/altmenorg/HAsmartirrigation",
+      "description": "Home Assistant integration that schedules irrigation from evapotranspiration.",
       "section": [
         "IoT, Hardware"
       ]
@@ -878,6 +1022,78 @@
       ]
     },
     {
+      "key": "https://github.com/foodcoopshop/foodcoopshop",
+      "name": "FoodCoopShop",
+      "url": "https://github.com/foodcoopshop/foodcoopshop",
+      "description": "Ordering and stock software for food co-ops and local farm shops.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
+      "key": "https://gitlab.com/foodsharing-dev/foodsharing",
+      "name": "foodsharing",
+      "url": "https://gitlab.com/foodsharing-dev/foodsharing",
+      "description": "Platform behind foodsharing.de, coordinating volunteers who rescue surplus food.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/foodcoops/foodsoft",
+      "name": "Foodsoft",
+      "url": "https://github.com/foodcoops/foodsoft",
+      "description": "Ordering, accounting and member management for non-profit food co-ops.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/juntagrico/juntagrico",
+      "name": "Juntagrico",
+      "url": "https://github.com/juntagrico/juntagrico",
+      "description": "Management platform for community-supported agriculture: memberships, shares, deliveries and work shifts.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
+      "key": "https://codeberg.org/karrot/karrot-frontend",
+      "name": "Karrot",
+      "url": "https://codeberg.org/karrot/karrot-frontend",
+      "description": "Organising tool for grassroots groups that save and share food.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/openfoodfoundation/openfoodnetwork",
+      "name": "Open Food Network",
+      "url": "https://github.com/openfoodfoundation/openfoodnetwork",
+      "description": "Online marketplace for farmers and food hubs to sell directly to eaters.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/OpenOlitor/openolitor-server",
+      "name": "OpenOlitor",
+      "url": "https://github.com/OpenOlitor/openolitor-server",
+      "description": "Administration software for community-supported agriculture initiatives.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/teikei/teikei",
+      "name": "Teikei",
+      "url": "https://github.com/teikei/teikei",
+      "description": "Map platform connecting consumers with community-supported agriculture (CSA) farms.",
+      "section": [
+        "Markets and Food Systems"
+      ]
+    },
+    {
       "key": "https://github.com/kr-stn/awesome-sentinel",
       "name": "Awesome Sentinel",
       "url": "https://github.com/kr-stn/awesome-sentinel",
@@ -896,6 +1112,15 @@
       ]
     },
     {
+      "key": "https://github.com/OpenDroneMap/ODM",
+      "name": "OpenDroneMap",
+      "url": "https://github.com/OpenDroneMap/ODM",
+      "description": "Drone image processing into orthomosaics, elevation models and plant health maps.",
+      "section": [
+        "Remote Sensing and Imagery"
+      ]
+    },
+    {
       "key": "https://github.com/azavea/raster-vision",
       "name": "Raster Vision",
       "url": "https://github.com/azavea/raster-vision",
@@ -909,6 +1134,15 @@
       "name": "Sen2Agri",
       "url": "https://github.com/Sen2Agri/Sen2Agri-System",
       "description": "Software system processing high resolution satellite images for agricultural purposes.",
+      "section": [
+        "Remote Sensing and Imagery"
+      ]
+    },
+    {
+      "key": "https://github.com/WebODM/WebODM",
+      "name": "WebODM",
+      "url": "https://github.com/WebODM/WebODM",
+      "description": "Web interface for processing and sharing OpenDroneMap drone surveys.",
       "section": [
         "Remote Sensing and Imagery"
       ]

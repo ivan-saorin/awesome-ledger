@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"53142093f3213eaa1b40c05a6548c12dcebd1fc2f527b01d8d2c0ce2c45fea33\"",
+  "etag": "W/\"1d2969da52c7d85af7570342f89c0127b1d7892f840f9efb3718b366a2fdce4d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -807,16 +807,16 @@
     },
     {
       "key": "https://github.com/kylesnowschwartz/zsh-ai-cmd",
-      "name": "ai-cmd",
+      "name": "ai-cmd (kylesnowschwartz)",
       "url": "https://github.com/kylesnowschwartz/zsh-ai-cmd",
-      "description": "Natural language to shell commands with ghost text preview. Requires curl, jq and an Anthropic API key.",
+      "description": "Converts natural language to shell commands with ghost text preview. Requires curl, jq and an Anthropic API key.",
       "section": [
         "Plugins"
       ]
     },
     {
       "key": "https://github.com/shanemcd/ai-cmd",
-      "name": "ai-cmd",
+      "name": "ai-cmd (shanemcd)",
       "url": "https://github.com/shanemcd/ai-cmd",
       "description": "Generate shell commands from natural language using LLMs via Claude Code or Ollama.",
       "section": [
@@ -1293,7 +1293,7 @@
     },
     {
       "key": "https://github.com/Skylor-Tang/auto-venv",
-      "name": "auto-venv (skylor0tang)",
+      "name": "auto-venv",
       "url": "https://github.com/Skylor-Tang/auto-venv",
       "description": "Automatically activates the Python virtual environment in the current directory or its parent directories.",
       "section": [
@@ -1808,7 +1808,7 @@
       "key": "https://github.com/troykelly/oh-my-zsh-brave",
       "name": "brave",
       "url": "https://github.com/troykelly/oh-my-zsh-brave",
-      "description": "Manages Brave profiles. With this plugin, you can start the Brave Browser with a specific user profile by using the brave command followed by the profile's name. The plugin also implements autocompletion for the profile names so you won't have to type the entire profile name manually.",
+      "description": "Manages Brave profiles. With this plugin, you can start the Brave Browser with a specific user profile by using the brave profilename. The plugin also implements autocompletion for the profile names so you won't have to type the entire profile name manually.",
       "section": [
         "Plugins"
       ]
@@ -2493,6 +2493,15 @@
       "name": "copy-pasta",
       "url": "https://github.com/ChrisPenner/copy-pasta",
       "description": "Copy and paste files in your terminal like you would in a GUI.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/salimmohamed/copylast",
+      "name": "copylast",
+      "url": "https://github.com/salimmohamed/copylast",
+      "description": "Reads the last command's output straight out of tmux's scrollback, so it's instant and you get exactly what you saw.",
       "section": [
         "Plugins"
       ]
@@ -8528,8 +8537,17 @@
       ]
     },
     {
+      "key": "https://github.com/ThePubDoc/shellsense",
+      "name": "shellsense (ThePubDoc)",
+      "url": "https://github.com/ThePubDoc/shellsense",
+      "description": "IDE-style autocomplete for your terminal. Type a command and a list of what can come next opens under the word you are typing: subcommands, options, git branches, npm scripts, files and folders, each with a short description. Pick one with the arrow keys or keep typing to narrow the list.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/venopyX/shellsense",
-      "name": "shellsense",
+      "name": "shellsense (venopyX)",
       "url": "https://github.com/venopyX/shellsense",
       "description": "AI-powered ZSH plugin designed to enhance your terminal experience with powerful features and AI-powered capabilities. Developed using Python, ShellSense offers a streamlined workflow for various tasks, making your terminal more efficient and user-friendly.",
       "section": [
@@ -10718,7 +10736,7 @@
       "key": "https://github.com/rostik32/zest",
       "name": "zest",
       "url": "https://github.com/rostik32/zest",
-      "description": "Fig-style autocomplete popup for macOS. Shows subcommands, options, git branches and files with descriptions under the cursor in Terminal.app, VS Code and Cursor. Specs for 1,500 commands; new ones are a YAML file.",
+      "description": "Fig-style autocomplete popup for macOS. Shows subcommands, options, git branches and files with descriptions under the cursor in Terminal.app, iTerm2, Ghostty, VS Code and Cursor. Specs for 1,500 commands; new ones are a YAML file.",
       "section": [
         "Plugins"
       ]
@@ -16781,9 +16799,9 @@
       ]
     },
     {
-      "key": "https://github.com/diogoazevedos/hexagon",
+      "key": "https://github.com/dio-az/hexagon",
       "name": "hexagon",
-      "url": "https://github.com/diogoazevedos/hexagon",
+      "url": "https://github.com/dio-az/hexagon",
       "description": "Minimalist ZSH theme based on geometry.",
       "section": [
         "Themes"

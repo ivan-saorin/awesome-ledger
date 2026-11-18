@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cfac7888259a3df1bf88aa0bfc3cc66978085922629c5a0a234400af89cb3966\"",
+  "etag": "W/\"4b525a44b3778f011b8f90c3e8df129b03b392b86494c8905902c80fd38e0118\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -308,16 +308,6 @@
       "name": "promptfoo",
       "url": "https://github.com/promptfoo/promptfoo",
       "description": "Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.",
-      "section": [
-        "Software",
-        "AI & LLM Testing"
-      ]
-    },
-    {
-      "key": "https://github.com/tenro-ai/tenro-python",
-      "name": "Tenro",
-      "url": "https://github.com/tenro-ai/tenro-python",
-      "description": "Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.",
       "section": [
         "Software",
         "AI & LLM Testing"
@@ -1158,6 +1148,16 @@
       "name": "Device Changer",
       "url": "https://deviceschanger.org",
       "description": "Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/Shadysmetools/shipshape",
+      "name": "ShipShape",
+      "url": "https://github.com/Shadysmetools/shipshape",
+      "description": "Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.",
       "section": [
         "Software",
         "UI & End-to-End Testing"

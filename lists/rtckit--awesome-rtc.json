@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6836d1caa397c22df90f1a717ded63eccb39228226ee035010a01523db2cd1ee\"",
+  "etag": "W/\"5396d5fab2183fb33fa5175827af64c5514a110f49f28c4372dba02d86ce3917\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -246,6 +246,16 @@
       "name": "sngrep",
       "url": "https://github.com/irontec/sngrep",
       "description": "Terminal based SIP flow viewer.",
+      "section": [
+        "Operations",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/aibudaevv/sip-exporter",
+      "name": "sip-exporter",
+      "url": "https://github.com/aibudaevv/sip-exporter",
+      "description": "Open-source eBPF sensor exporting Prometheus metrics and Grafana dashboards for host-observed IPv4/UDP SIP and correlated RTP/RTCP.",
       "section": [
         "Operations",
         "Monitoring"
