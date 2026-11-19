@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a42948112f703630d08cac6a9034f1ab75e7ebe81d588aba362a089969483e59\"",
+  "etag": "W/\"436de954dcf56c7a64a972ec0eb9310a883ba3bb08ba21e4f2790923f06b5394\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -503,6 +503,15 @@
       "name": "EveBox Rules",
       "url": "https://rules.evebox.org",
       "description": "Suricata Rule Browser, indexes many free rulesets, including rules from the Suricata Ruleset Index.",
+      "section": [
+        "Rule Sets and Lists"
+      ]
+    },
+    {
+      "key": "https://whatoblock.com",
+      "name": "Whatoblock Blocklists",
+      "url": "https://whatoblock.com/",
+      "description": "Hourly IP blocklists built from honeypot observations, with a Suricata export (account required; a free sample feed is available).",
       "section": [
         "Rule Sets and Lists"
       ]

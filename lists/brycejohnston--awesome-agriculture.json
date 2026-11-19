@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fa2181ee977534a70bf448ad418fa338d57c0ce168a0a8fd137456131cc7ecdc\"",
+  "etag": "W/\"5a819b14df120444df3a441d834f942f33e42c9b1bee742462ca082de6f53c8e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -265,6 +265,15 @@
       ]
     },
     {
+      "key": "https://github.com/viridisconservation/contour-alley-designer",
+      "name": "Contour Alley Designer",
+      "url": "https://github.com/viridisconservation/contour-alley-designer",
+      "description": "Field-scale agroforestry design model (contour alley cropping, shelterbelts, silvopasture) that simulates 40 years on real terrain and soils. Research software in development.",
+      "section": [
+        "Crop Modeling, Phenotyping, and Pathology"
+      ]
+    },
+    {
       "key": "https://github.com/SticsRPacks/CroptimizR",
       "name": "CroptimizR",
       "url": "https://github.com/SticsRPacks/CroptimizR",
@@ -468,6 +477,17 @@
         "Datasets",
         "Regional Data",
         "India"
+      ]
+    },
+    {
+      "key": "https://github.com/ashiskharel/nepal-open-farm-data",
+      "name": "Nepal Open Farm Data",
+      "url": "https://github.com/ashiskharel/nepal-open-farm-data",
+      "description": "District figures for coffee, tea, large cardamom, apple, plum and related crops from the Nepal agriculture ministry (MoALD) statistical yearbooks, as CC BY 4.0 CSV.",
+      "section": [
+        "Datasets",
+        "Regional Data",
+        "Nepal"
       ]
     },
     {
@@ -1134,6 +1154,15 @@
       "name": "Sen2Agri",
       "url": "https://github.com/Sen2Agri/Sen2Agri-System",
       "description": "Software system processing high resolution satellite images for agricultural purposes.",
+      "section": [
+        "Remote Sensing and Imagery"
+      ]
+    },
+    {
+      "key": "https://github.com/muend/sentinel-crop-pipeline",
+      "name": "sentinel-crop-pipeline",
+      "url": "https://github.com/muend/sentinel-crop-pipeline",
+      "description": "Reproducible Sentinel-2 L2A data preparation for crop-classification models: scene discovery, cloud masking, patches, spatially blocked splits and label masks, with an optional Gemini or Claude scene filter.",
       "section": [
         "Remote Sensing and Imagery"
       ]

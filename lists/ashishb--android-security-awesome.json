@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"764a264269f84380dd1b22460315ac1b6a7d1a09e3ffcc52ad5ef5eef97ddea3\"",
+  "etag": "W/\"a760ccd14f4e03587a0b99ef25295fbe91303438ffba6df09f62e978aa9a06e3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -648,6 +648,16 @@
       "name": "SPARTA",
       "url": "https://www.cs.washington.edu/sparta",
       "description": "verifies (proves) that an app satisfies an information-flow security policy; built on the Checker Framework",
+      "section": [
+        "Tools",
+        "Static Analysis Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/morluto/rea",
+      "name": "REA",
+      "url": "https://github.com/morluto/rea",
+      "description": "Local CLI and MCP server for inspecting APK manifests, decompiled methods, and references with headless JADX.",
       "section": [
         "Tools",
         "Static Analysis Tools"
@@ -1698,6 +1708,16 @@
       "name": "FSquaDRA",
       "url": "https://github.com/zyrikby/FSquaDRA",
       "description": "a tool for detecting repackaged Android applications based on app resource hash comparison.",
+      "section": [
+        "Tools",
+        "App Repackaging Detectors"
+      ]
+    },
+    {
+      "key": "https://github.com/lotty520/Detect-Any",
+      "name": "Detect-Any",
+      "url": "https://github.com/lotty520/Detect-Any",
+      "description": "open-source Android environment integrity detection: root/Zygisk/hook/Frida/emulator/cloud-phone detection with 142 evidence-graded checks, hardware attestation, and a hot-updatable signature DB.",
       "section": [
         "Tools",
         "App Repackaging Detectors"

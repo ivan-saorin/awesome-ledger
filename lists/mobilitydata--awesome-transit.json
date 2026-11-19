@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"07ae5bb837ad9878512e7310d2a1c0e97ff51296bb8f931aa3cc1c25932c8d7b\"",
+  "etag": "W/\"7e18fd19d220f540286e0d386fed7036ddfabde8f8877a65b9808dbc01c3aea8\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1532,6 +1532,17 @@
       "name": "gtfs-realtime-bindings",
       "url": "https://github.com/google/gtfs-realtime-bindings",
       "description": "The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official GTFS-realtime protocol buffer specification.",
+      "section": [
+        "Producing Data",
+        "GTFS Realtime",
+        "GTFS Realtime Libraries & Demo Apps"
+      ]
+    },
+    {
+      "key": "https://github.com/FivePaths/gtfs-realtime-php",
+      "name": "gtfs-realtime-php",
+      "url": "https://github.com/FivePaths/gtfs-realtime-php",
+      "description": "PHP bindings generated from the official GTFS-realtime protocol buffer specification, kept current with the spec and on a supported google/protobuf runtime. Available on Packagist as a drop-in replacement for lowa/gtfs-realtime-php.",
       "section": [
         "Producing Data",
         "GTFS Realtime",

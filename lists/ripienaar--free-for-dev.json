@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9be7dfff5068044ec1b9dccd58d6ee4473a22624d2d3ffa13b5c6286586c8bf2\"",
+  "etag": "W/\"d98cac99eaee8a8352435edefab2d5bc34de26d43962230856c7a2b154a4b2ef\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1579,6 +1579,15 @@
       ]
     },
     {
+      "key": "https://kardinal.ai",
+      "name": "Kardinal",
+      "url": "https://kardinal.ai/",
+      "description": "Route optimization API for delivery and field service fleets: multi-vehicle routing with time windows, vehicle capacities and other real-world constraints, also usable by AI agents. Free tier includes 1,000 stops that never expire, no credit card required.",
+      "section": [
+        "APIs, Data, and ML"
+      ]
+    },
+    {
       "key": "https://labelixa.com",
       "name": "Labelixa",
       "url": "https://labelixa.com",
@@ -1867,15 +1876,6 @@
       ]
     },
     {
-      "key": "https://requestbin.com",
-      "name": "RequestBin.com",
-      "url": "https://requestbin.com",
-      "description": "Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.",
-      "section": [
-        "APIs, Data, and ML"
-      ]
-    },
-    {
       "key": "https://rizamo.com",
       "name": "Rizamo",
       "url": "https://rizamo.com",
@@ -2087,15 +2087,6 @@
       "name": "WebScraping.AI",
       "url": "https://webscraping.ai",
       "description": "Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.",
-      "section": [
-        "APIs, Data, and ML"
-      ]
-    },
-    {
-      "key": "https://wandb.ai",
-      "name": "Weights & Biases",
-      "url": "https://wandb.ai",
-      "description": "The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.",
       "section": [
         "APIs, Data, and ML"
       ]
@@ -3118,10 +3109,10 @@
       ]
     },
     {
-      "key": "https://v0.dev",
-      "name": "v0.dev",
-      "url": "https://v0.dev/",
-      "description": "Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. It uses a credit system, providing 1,200 starting credits and 200 free credits monthly.",
+      "key": "https://v0.app",
+      "name": "v0",
+      "url": "https://v0.app/",
+      "description": "Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. The free plan includes 7 messages per day, Design Mode and GitHub sync.",
       "section": [
         "Code Generation"
       ]
@@ -3955,6 +3946,15 @@
       ]
     },
     {
+      "key": "https://chainguard.dev",
+      "name": "Chainguard",
+      "url": "https://www.chainguard.dev/",
+      "description": "Hardened, minimal container images and a software supply chain security platform. The Starter plan is free with no credit card: five users, five container images, 50,000 dependency pulls and 100 GB of artifact storage per month.",
+      "section": [
+        "Security and PKI"
+      ]
+    },
+    {
       "key": "https://corgea.com",
       "name": "Corgea",
       "url": "https://corgea.com/",
@@ -4162,10 +4162,10 @@
       ]
     },
     {
-      "key": "https://pyup.io",
-      "name": "pyup.io",
-      "url": "https://pyup.io",
-      "description": "Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.",
+      "key": "https://getsafety.com",
+      "name": "Safety",
+      "url": "https://www.getsafety.com/",
+      "description": "Software supply chain security for Python, JavaScript and Docker dependencies. The free plan covers one codebase and 100 scans per month for a single user, for non-commercial use.",
       "section": [
         "Security and PKI"
       ]
@@ -4247,6 +4247,15 @@
       "name": "Topscan.me",
       "url": "https://topscan.me/free-plan",
       "description": "SaaS vulnerability scanning platform. Free: a full infrastructure scan of one host every week, Discovery and Attack Surface for everything around it, one repository, one user, findings with a fix and a Security Score.",
+      "section": [
+        "Security and PKI"
+      ]
+    },
+    {
+      "key": "https://tridentstack.com",
+      "name": "tridentstack.com",
+      "url": "https://tridentstack.com",
+      "description": "Patch, vulnerability and compliance management for Windows, macOS and Linux endpoints. Free forever for up to 200 endpoints with every feature included, no credit card required.",
       "section": [
         "Security and PKI"
       ]
@@ -4900,10 +4909,10 @@
       ]
     },
     {
-      "key": "https://logtail.com",
-      "name": "logtail.com",
-      "url": "https://logtail.com/",
-      "description": "ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.",
+      "key": "https://betterstack.com/log-management",
+      "name": "Better Stack Logs",
+      "url": "https://betterstack.com/log-management",
+      "description": "ClickHouse-based SQL-compatible log management. The free plan includes 3 GB of logs retained for three days.",
       "section": [
         "Log Management"
       ]
@@ -5077,6 +5086,15 @@
       "description": "Free for Open Source",
       "section": [
         "Translation Management"
+      ]
+    },
+    {
+      "key": "https://uptimeify.io/status-pages",
+      "name": "Uptimeify",
+      "url": "https://uptimeify.io/status-pages",
+      "description": "Permament free status pages including custom domain, subscribers (mail, slack, teams, webhook and rss) and maintenance with postmortems. Fully hosted inside the EU.",
+      "section": [
+        "Monitoring"
       ]
     },
     {
@@ -7423,7 +7441,7 @@
       "key": "https://evalship.com",
       "name": "evalship",
       "url": "https://evalship.com",
-      "description": "find the flaws in your LLM evals. Reviews your evals suite for improvement opportunities, monitors your PRs for any eval regressions or unintended side effects and optimizes your prompts and models based on experiments in your product. Free for 1 private repo for 1 user, 100 PR analyses a month, 30 days of eval history. Free for public repos.",
+      "description": "Tests, monitors and optimizes every AI call your product makes, and notifies you when one fails. Free for 1 private repo for 2 users, 5,000 events a month, 30 days of history. Free for public repos.",
       "section": [
         "Generative AI"
       ]
@@ -7442,15 +7460,6 @@
       "name": "Gonka Broker",
       "url": "https://gonkabroker.com/",
       "description": "OpenAI-compatible API for open-source models served over the decentralized Gonka.ai GPU network. 1M+ free tokens monthly. Easy integration with many AI tools.",
-      "section": [
-        "Generative AI"
-      ]
-    },
-    {
-      "key": "https://keywordsai.co",
-      "name": "Keywords AI",
-      "url": "https://keywordsai.co",
-      "description": "The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!",
       "section": [
         "Generative AI"
       ]
@@ -7541,6 +7550,15 @@
       "name": "ReportGPT",
       "url": "https://ReportGPT.app",
       "description": "AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.",
+      "section": [
+        "Generative AI"
+      ]
+    },
+    {
+      "key": "https://respan.ai",
+      "name": "Respan",
+      "url": "https://www.respan.ai/",
+      "description": "LLM observability and gateway with one format for 200+ models. The free plan includes 100,000 logs, 1,000 scores, five datasets, two evaluators and ten prompts per month, with no credit card required.",
       "section": [
         "Generative AI"
       ]
@@ -7843,15 +7861,6 @@
       ]
     },
     {
-      "key": "https://flightcontrol.dev",
-      "name": "flightcontrol.dev",
-      "url": "https://flightcontrol.dev/",
-      "description": "Deploy web services, databases, and more on your own AWS account with a Git push style workflow. Free tier for users with 1 developer on personal GitHub repos. AWS costs are billed through AWS, but you can use credits and the AWS free tier.",
-      "section": [
-        "PaaS"
-      ]
-    },
-    {
       "key": "https://gigalixir.com",
       "name": "gigalixir.com",
       "url": "https://gigalixir.com/",
@@ -7892,6 +7901,15 @@
       "name": "pythonanywhere.com",
       "url": "https://www.pythonanywhere.com/",
       "description": "Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database",
+      "section": [
+        "PaaS"
+      ]
+    },
+    {
+      "key": "https://ravion.com",
+      "name": "Ravion",
+      "url": "https://www.ravion.com/",
+      "description": "Deploy web services, databases, and more on your own AWS account with a Git push style workflow. The Individuals plan is free for one user with up to 50 modules, 2,000 pipeline minutes and $20 of AI tokens per month. AWS costs are billed through AWS, but you can use credits and the AWS free tier.",
       "section": [
         "PaaS"
       ]
@@ -10057,6 +10075,15 @@
       ]
     },
     {
+      "key": "https://qrdx.dev",
+      "name": "QRdx",
+      "url": "https://qrdx.dev",
+      "description": "Free Open-source QR code generator, plus an image API that needs no key (SVG, PNG, WebP or EPS). Free: unlimited static QR codes with no account, the image API up to 300 requests a minute, and 10 dynamic QR codes with scan analytics on a free account.",
+      "section": [
+        "Storage and Media Processing"
+      ]
+    },
+    {
       "key": "https://qrtracer.io",
       "name": "QRtracer",
       "url": "https://qrtracer.io",
@@ -10115,6 +10142,15 @@
       "name": "sync.com",
       "url": "https://www.sync.com/",
       "description": "End-to-End cloud storage service. 5 GB of free storage",
+      "section": [
+        "Storage and Media Processing"
+      ]
+    },
+    {
+      "key": "https://tigrisdata.com",
+      "name": "Tigris",
+      "url": "https://www.tigrisdata.com/",
+      "description": "S3-compatible object storage with no egress fees. The free tier includes 5 GB of storage, 10,000 write requests and 100,000 read requests per month, with no card required.",
       "section": [
         "Storage and Media Processing"
       ]
@@ -10255,15 +10291,6 @@
       ]
     },
     {
-      "key": "https://landen.co",
-      "name": "landen.co",
-      "url": "https://www.landen.co",
-      "description": "Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.",
-      "section": [
-        "Design and UI"
-      ]
-    },
-    {
       "key": "https://lensdump.com",
       "name": "lensdump.com",
       "url": "https://lensdump.com/",
@@ -10385,6 +10412,15 @@
       "name": "TeleportHQ",
       "url": "https://teleporthq.io/",
       "description": "Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to instantly create and publish headless static websites. Three free projects, unlimited collaborators, and free code export.",
+      "section": [
+        "Design and UI"
+      ]
+    },
+    {
+      "key": "https://umso.com",
+      "name": "Umso",
+      "url": "https://www.umso.com/",
+      "description": "Generate, edit, and publish beautiful websites and landing pages for your startup, all without code. The free plan covers one site with a homepage, blog and free subdomain, with Umso branding.",
       "section": [
         "Design and UI"
       ]
@@ -11128,15 +11164,6 @@
       ]
     },
     {
-      "key": "https://getcensus.com",
-      "name": "FiveTran",
-      "url": "https://www.getcensus.com/",
-      "description": "Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.",
-      "section": [
-        "Analytics, Events and Statistics"
-      ]
-    },
-    {
       "key": "https://clicky.com",
       "name": "Clicky",
       "url": "https://clicky.com",
@@ -11195,6 +11222,15 @@
       "name": "Expensify",
       "url": "https://www.expensify.com/",
       "description": "Expense reporting, free personal reporting approval workflow",
+      "section": [
+        "Analytics, Events and Statistics"
+      ]
+    },
+    {
+      "key": "https://fivetran.com",
+      "name": "Fivetran",
+      "url": "https://www.fivetran.com/",
+      "description": "Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.",
       "section": [
         "Analytics, Events and Statistics"
       ]
@@ -11267,6 +11303,15 @@
       "name": "Hotjar",
       "url": "https://hotjar.com",
       "description": "Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.",
+      "section": [
+        "Analytics, Events and Statistics"
+      ]
+    },
+    {
+      "key": "https://lyssna.com",
+      "name": "Lyssna",
+      "url": "https://www.lyssna.com/",
+      "description": "Test designs and mockups on real people and track visitors. The free plan includes unlimited quick studies, three seats and 15 self-recruited test or survey responses.",
       "section": [
         "Analytics, Events and Statistics"
       ]
@@ -11416,15 +11461,6 @@
       ]
     },
     {
-      "key": "https://usabilityhub.com",
-      "name": "usabilityhub.com",
-      "url": "https://usabilityhub.com/",
-      "description": "Test designs and mockups on real people and track visitors. Free for one user, unlimited tests",
-      "section": [
-        "Analytics, Events and Statistics"
-      ]
-    },
-    {
       "key": "https://fullstory.com",
       "name": "FullStory.com",
       "url": "https://www.fullstory.com",
@@ -11551,6 +11587,15 @@
       ]
     },
     {
+      "key": "https://useautumn.com",
+      "name": "Autumn",
+      "url": "https://useautumn.com/",
+      "description": "Billing infrastructure for SaaS: pricing models, entitlements, usage tracking and checkout. The free plan includes 25,000 in monthly billing volume, 10,000 customers and 10 million API requests.",
+      "section": [
+        "Payment and Billing Integration"
+      ]
+    },
+    {
       "key": "https://billdog.io",
       "name": "BillDog.io",
       "url": "https://billdog.io/",
@@ -11618,15 +11663,6 @@
       "name": "exchangerate-api.com",
       "url": "https://www.exchangerate-api.com",
       "description": "An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.",
-      "section": [
-        "Payment and Billing Integration"
-      ]
-    },
-    {
-      "key": "https://exchange-rateapi.com",
-      "name": "Exchange Rate API",
-      "url": "https://exchange-rateapi.com",
-      "description": "Real-time currency rates for 160+ currencies with 60-second updates and official SDKs. Free tier includes 300 requests/month.",
       "section": [
         "Payment and Billing Integration"
       ]

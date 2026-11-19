@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c6d4ac5b5a131fc4766e2dc7170ff09426e6f1054372a0e54d8b41b93a886a79\"",
+  "etag": "W/\"c2973535a8358e06cb062036418f85bbe65e7f63cdb1e6d6b09f6c0a9503162a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -323,6 +323,15 @@
       "name": "linkerd/linkerd2-proxy",
       "url": "https://github.com/linkerd/linkerd2-proxy",
       "description": "Ultralight service mesh for Kubernetes.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/lthoangg/openagentd",
+      "name": "lthoangg/openagentd",
+      "url": "https://github.com/lthoangg/openagentd",
+      "description": "A local coding agent as a desktop app (Tauri) and CLI with a native Rust backend; shows every tool call, diff and shell command, and works with your own model keys or local models",
       "section": [
         "Applications"
       ]
@@ -2500,6 +2509,16 @@
       "name": "joshuto",
       "url": "https://github.com/kamiyaa/joshuto",
       "description": "ranger-like terminal file manager",
+      "section": [
+        "Applications",
+        "File manager"
+      ]
+    },
+    {
+      "key": "https://github.com/Koimsurai/Arke",
+      "name": "Koimsurai/Arke",
+      "url": "https://github.com/Koimsurai/Arke",
+      "description": "A file explorer for Windows that never freezes, GPU-rendered with GPUI",
       "section": [
         "Applications",
         "File manager"
@@ -6676,6 +6695,16 @@
       ]
     },
     {
+      "key": "https://github.com/Multron-Community/Multron-Download-Manager",
+      "name": "Multron-Community/Multron-Download-Manager",
+      "url": "https://github.com/Multron-Community/Multron-Download-Manager",
+      "description": "Cross-platform download manager built with Tauri that splits files into parallel connections, with browser integration, yt-dlp, FFmpeg, and BitTorrent support.",
+      "section": [
+        "Applications",
+        "Utilities"
+      ]
+    },
+    {
       "key": "https://github.com/nix-community/nix-init",
       "name": "nix-community/nix-init",
       "url": "https://github.com/nix-community/nix-init",
@@ -7170,6 +7199,16 @@
       "name": "kata-containers/kata-containers",
       "url": "https://github.com/kata-containers/kata-containers",
       "description": "A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.",
+      "section": [
+        "Applications",
+        "Virtualization"
+      ]
+    },
+    {
+      "key": "https://github.com/libracoder/kiri",
+      "name": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "description": "A small, fast container runtime for macOS, Windows and Linux that runs Docker images in a tiny Linux VM and speaks the Docker Engine API",
       "section": [
         "Applications",
         "Virtualization"
@@ -8400,6 +8439,16 @@
       "name": "cargo-script",
       "url": "https://crates.io/crates/cargo-script",
       "description": "lets people quickly and easily run Rust \"scripts\" which can make use of Cargo's package ecosystem",
+      "section": [
+        "Development tools",
+        "Build system"
+      ]
+    },
+    {
+      "key": "https://github.com/obi1kenobi/cargo-semver-checks",
+      "name": "cargo-semver-checks",
+      "url": "https://github.com/obi1kenobi/cargo-semver-checks",
+      "description": "[cargo-semver-checks] - Scan your Rust crate for semver violations",
       "section": [
         "Development tools",
         "Build system"
@@ -11074,6 +11123,16 @@
       "name": "aschey/stream-download-rs",
       "url": "https://github.com/aschey/stream-download-rs",
       "description": "[stream-download] - A library for streaming audio, video, and other media content",
+      "section": [
+        "Libraries",
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/gradium-ai/xn-ptts",
+      "name": "gradium-ai/xn-ptts",
+      "url": "https://github.com/gradium-ai/xn-ptts",
+      "description": "[ptts] - Streaming inference for Phonon text-to-speech models on CPU, GPU, mobile devices, and browsers",
       "section": [
         "Libraries",
         "Audio and Music"

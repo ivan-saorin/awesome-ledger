@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6f0ccde949164ececb04c74ea26ad02c9857f90682770c2d4f09e002ac1b8d77\"",
+  "etag": "W/\"1264fc9d2fab3803c539d548188f00bb077a4d0ad7118a392782dfb577f34d32\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1367,6 +1367,15 @@
       "name": "PHP-Parser",
       "url": "https://github.com/nikic/PHP-Parser",
       "description": "A PHP parser written in PHP.",
+      "section": [
+        "Programming Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/mekras/php-speller",
+      "name": "php-speller",
+      "url": "https://github.com/mekras/php-speller",
+      "description": "PHP spell check library.",
       "section": [
         "Programming Languages"
       ]
@@ -4207,6 +4216,24 @@
       ]
     },
     {
+      "key": "https://glsec.github.io",
+      "name": "glsec",
+      "url": "https://glsec.github.io",
+      "description": "Static analysis for GitLab CI/CD pipeline files (.gitlab-ci.yml), detecting insecure patterns such as unpinned includes, components and images, leaked secrets, injection through pipeline inputs and job scripts, unsafe deployments, and supply-chain risks. Runs as a CLI, pre-commit hook, CI step, or GitLab CI/CD component.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://guardlink.bugb.io",
+      "name": "GuardLink",
+      "url": "https://guardlink.bugb.io/",
+      "description": "Continuous threat modeling as code. Security annotations in source comments (threats, exposures, mitigations, flows) form a threat model that updates with the code and is validated and diffed against the base branch in CI. Without an LLM, it reports untrusted-entry-to-sink paths with no control, citing file:line, and tracks which claims are verified or stale. Open exposures become test templates to prove them. Any comment syntax; coding agents maintain it via MCP. Optional LLM threat reports.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
       "key": "https://hackerone.com/product/code",
       "name": "PullRequest",
       "url": "https://www.hackerone.com/product/code",
@@ -4265,6 +4292,15 @@
       "name": "axe-core",
       "url": "https://www.deque.com/axe/",
       "description": "Accessibility engine for automated Web UI testing. Tests HTML against WCAG 2.0, 2.1, and 2.2 guidelines. Used by Google Lighthouse, Microsoft Accessibility Insights, and thousands of organizations worldwide.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
+      "key": "https://djlint.com",
+      "name": "djLint",
+      "url": "https://djlint.com",
+      "description": "Linter and formatter for HTML templates. It understands the template syntax together with the markup and has profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. The linter reports accessibility, correctness and style problems. Runs as a CLI, a language server (LSP), a pre-commit hook and a VS Code extension.",
       "section": [
         "Other"
       ]
@@ -4787,6 +4823,15 @@
       "name": "Code Quality Checker Tools For PHP Projects",
       "url": "https://github.com/collections/code-quality-in-php",
       "description": "A collection of PHP linters in github collections",
+      "section": [
+        "More collections"
+      ]
+    },
+    {
+      "key": "https://github.com/mokevnin/dev-quality-gates",
+      "name": "Dev Quality Gates",
+      "url": "https://github.com/mokevnin/dev-quality-gates",
+      "description": "An opinionated list of quality gates for a dozen languages, CI, infrastructure and git workflows, with one recommended tool per job and its limits",
       "section": [
         "More collections"
       ]
