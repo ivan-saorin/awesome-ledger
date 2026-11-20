@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"25389c6650f4fbdda390fbc0d9b96f6f0dc13313354081598a8aba2c4bb5ebdc\"",
+  "etag": "W/\"d60efdfff9b8dc6a4379dc11b38700e857648dc21048eae91c0c12b9288ff4b1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -95,9 +95,9 @@
     },
     {
       "key": "https://gridwright.store",
-      "name": "Gridwright Studio",
+      "name": "Gridwright",
       "url": "https://gridwright.store/",
-      "description": "Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.",
+      "description": "Pixel-art game asset packs on one grid (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Each pack has a free sample.",
       "section": [
         "Graphics",
         "Assets/Placeholders"
@@ -367,7 +367,7 @@
       "key": "https://gridwright.dev",
       "name": "Gridwright",
       "url": "https://gridwright.dev/",
-      "description": "Pixel-art asset packs drawn on one grid, plus 31 browser tools for tilesets, maps, sprite sheets, effects and sound.",
+      "description": "Pixel-art asset packs drawn on one grid, plus 35 browser tools for tilesets, autotiles, maps, sprite sheets, palettes, effects and sound, with Godot-ready exports.",
       "section": [
         "Graphics",
         "Spritesheet Tools"
@@ -414,6 +414,16 @@
       ]
     },
     {
+      "key": "https://cs5475.itch.io/puff",
+      "name": "Puff",
+      "url": "https://cs5475.itch.io/puff",
+      "description": "Preview pixel-art explosions and spell hits in the browser. The paid offline tool exports PNG sprite sheets, Godot 4 SpriteFrames and RPG Maker MV/MZ animations.",
+      "section": [
+        "Graphics",
+        "Spritesheet Tools"
+      ]
+    },
+    {
       "key": "https://renderhjs.net/shoebox",
       "name": "ShoeBox",
       "url": "http://renderhjs.net/shoebox/",
@@ -438,6 +448,16 @@
       "name": "Sprite Sheet Builder",
       "url": "https://spritesheetbuilder.com/",
       "description": "Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.",
+      "section": [
+        "Graphics",
+        "Spritesheet Tools"
+      ]
+    },
+    {
+      "key": "https://capsulekit.pages.dev/sprite-sheet-slicer",
+      "name": "Sprite Sheet Slicer",
+      "url": "https://capsulekit.pages.dev/sprite-sheet-slicer/",
+      "description": "Slice a sprite sheet by grid or cell size, preview the animation, and export PNG frames plus a Godot- and Unity-friendly JSON atlas.",
       "section": [
         "Graphics",
         "Spritesheet Tools"
@@ -3518,6 +3538,16 @@
       "name": "FamiTracker",
       "url": "https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker",
       "description": "free windows tracker for producing music for the NES/Famicom-systems.",
+      "section": [
+        "Audio",
+        "Music and Audio Editors"
+      ]
+    },
+    {
+      "key": "https://capsulekit.pages.dev/sfx-loudness-normalizer",
+      "name": "Game SFX Loudness Normalizer & Preview",
+      "url": "https://capsulekit.pages.dev/sfx-loudness-normalizer/",
+      "description": "Measure peak, RMS and BS.1770 loudness of game SFX, preview a normalize, and download a WAV, all in your browser.",
       "section": [
         "Audio",
         "Music and Audio Editors"

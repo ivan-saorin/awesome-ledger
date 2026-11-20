@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e7b89110b894053be9041e41d5f15de3d66a987637b81bc78b500b5285a0bd98\"",
+  "etag": "W/\"6210add68b7e515fe0f69360c6ac53430dcafe243d96354c5ce955d0ae3ebe01\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2831,6 +2831,15 @@
       "name": "Imngzx/jisho.nvim",
       "url": "https://github.com/Imngzx/jisho.nvim",
       "description": "Japanese dictionary, powered by jisho.org.",
+      "section": [
+        "Language"
+      ]
+    },
+    {
+      "key": "https://github.com/refine-sh/refine.nvim",
+      "name": "refine-sh/refine.nvim",
+      "url": "https://github.com/refine-sh/refine.nvim",
+      "description": "Grammar and fluency checks with a local LLM, powered by the Refine app for macOS.",
       "section": [
         "Language"
       ]
@@ -9042,6 +9051,15 @@
       ]
     },
     {
+      "key": "https://github.com/cxwx/rslime.nvim",
+      "name": "cxwx/rslime.nvim",
+      "url": "https://github.com/cxwx/rslime.nvim",
+      "description": "Slime-style REPL for the CERN ROOT C++ interpreter (Cling); send // %% cells to root -l, with kernel restart, .undo, and THttpServer inspection.",
+      "section": [
+        "Code Runner"
+      ]
+    },
+    {
       "key": "https://github.com/saghen/blink.lib",
       "name": "saghen/blink.lib",
       "url": "https://github.com/saghen/blink.lib",
@@ -12257,6 +12275,15 @@
       ]
     },
     {
+      "key": "https://github.com/bradley101/nvim-remote-ssh",
+      "name": "bradley101/nvim-remote-ssh",
+      "url": "https://github.com/bradley101/nvim-remote-ssh",
+      "description": "Work on a remote machine, similar to VSCode's \"Remote-SSH\" plugin.",
+      "section": [
+        "Remote Development"
+      ]
+    },
+    {
       "key": "https://github.com/hat0uma/prelive.nvim",
       "name": "hat0uma/prelive.nvim",
       "url": "https://github.com/hat0uma/prelive.nvim",
@@ -13808,6 +13835,15 @@
       "name": "nvim-edu",
       "url": "https://s3onghyun.github.io/nvim-edu/",
       "description": "Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.",
+      "section": [
+        "External Resource"
+      ]
+    },
+    {
+      "key": "https://editorthemes.com/editors/neovim",
+      "name": "editortheme/editorthemes.com",
+      "url": "https://editorthemes.com/editors/neovim",
+      "description": "Directory for various colorschemes, with live previews and install snippets.",
       "section": [
         "External Resource"
       ]

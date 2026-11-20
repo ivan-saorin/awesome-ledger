@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ad2e6c98adc2928a06ff58398e2e73055252c97259085c0456f7ecfd6cdf91da\"",
+  "etag": "W/\"f7c112045f1a92a3568e62d1abc733094c92ebb54d351a5d4a291172b567e465\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -28,16 +28,6 @@
       "name": "ArcGIS REST JS",
       "url": "https://github.com/Esri/arcgis-rest-js",
       "description": "Compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers.",
-      "section": [
-        "👨‍💻 JavaScript Libraries",
-        "Mapping"
-      ]
-    },
-    {
-      "key": "https://github.com/neocarto/bertin",
-      "name": "Bertin.js",
-      "url": "https://github.com/neocarto/bertin",
-      "description": "A JavaScript library for visualizing geospatial data and making thematic maps for the web.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Mapping"
@@ -174,10 +164,20 @@
       ]
     },
     {
-      "key": "https://github.com/windycom/API",
-      "name": "Map Forecast API",
-      "url": "https://github.com/windycom/API",
-      "description": "Simple-to-use library based on Leaflet 1.4.x. It allows you to show wind maps.",
+      "key": "https://github.com/geoman-io/leaflet-geoman",
+      "name": "Leaflet-Geoman",
+      "url": "https://github.com/geoman-io/leaflet-geoman",
+      "description": "Drawing, editing and snapping plugin for Leaflet.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Mapping"
+      ]
+    },
+    {
+      "key": "https://github.com/Leaflet/Leaflet.markercluster",
+      "name": "Leaflet.markercluster",
+      "url": "https://github.com/Leaflet/Leaflet.markercluster",
+      "description": "Marker clustering plugin for Leaflet.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Mapping"
@@ -224,6 +224,16 @@
       ]
     },
     {
+      "key": "https://github.com/visgl/react-map-gl",
+      "name": "react-map-gl",
+      "url": "https://github.com/visgl/react-map-gl",
+      "description": "React wrapper for MapLibre GL JS and Mapbox GL JS.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Mapping"
+      ]
+    },
+    {
       "key": "https://github.com/zcreativelabs/react-simple-maps",
       "name": "react-simple-maps",
       "url": "https://github.com/zcreativelabs/react-simple-maps",
@@ -244,20 +254,20 @@
       ]
     },
     {
-      "key": "https://github.com/TerriaJS/terriajs",
-      "name": "TerriaJS",
-      "url": "https://github.com/TerriaJS/terriajs",
-      "description": "A library for building rich, web-based geospatial data explorers.",
+      "key": "https://github.com/JamesLMilner/terra-draw",
+      "name": "Terra Draw",
+      "url": "https://github.com/JamesLMilner/terra-draw",
+      "description": "Library-agnostic drawing and editing for MapLibre, OpenLayers, Leaflet and more.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Mapping"
       ]
     },
     {
-      "key": "https://github.com/wrld3d/wrld.js",
-      "name": "Wrld.js",
-      "url": "https://github.com/wrld3d/wrld.js/",
-      "description": "Animated 3D city maps based on Leaflet.",
+      "key": "https://github.com/TerriaJS/terriajs",
+      "name": "TerriaJS",
+      "url": "https://github.com/TerriaJS/terriajs",
+      "description": "A library for building rich, web-based geospatial data explorers.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Mapping"
@@ -278,6 +288,26 @@
       "name": "awesome-GeoJSON",
       "url": "https://github.com/tmcw/awesome-geojson",
       "description": "Catalogue of GeoJSON tools.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/duckdb/duckdb-wasm",
+      "name": "DuckDB-Wasm",
+      "url": "https://github.com/duckdb/duckdb-wasm",
+      "description": "In-browser SQL engine with GeoParquet support and spatial queries.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/mapbox/earcut",
+      "name": "Earcut",
+      "url": "https://github.com/mapbox/earcut",
+      "description": "Fast polygon triangulation for WebGL rendering.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Data Processing"
@@ -324,16 +354,6 @@
       ]
     },
     {
-      "key": "https://github.com/urbica/galton",
-      "name": "Galton",
-      "url": "https://github.com/urbica/galton",
-      "description": "Lightweight Node.js isochrone server.",
-      "section": [
-        "👨‍💻 JavaScript Libraries",
-        "Data Processing"
-      ]
-    },
-    {
       "key": "https://github.com/bugra9/gdal3.js",
       "name": "gdal3.js",
       "url": "https://github.com/bugra9/gdal3.js",
@@ -364,10 +384,20 @@
       ]
     },
     {
-      "key": "https://github.com/geotiffjs/geotiff.js",
-      "name": "GeoTiff.js",
-      "url": "https://github.com/geotiffjs/geotiff.js",
-      "description": "Parse TIFF files for visualization or analysis.",
+      "key": "https://github.com/mapbox/geojson-merge",
+      "name": "geojson-merge",
+      "url": "https://github.com/mapbox/geojson-merge",
+      "description": "Merge multiple GeoJSON files into one FeatureCollection.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/mapbox/geojson-vt",
+      "name": "geojson-vt",
+      "url": "https://github.com/mapbox/geojson-vt",
+      "description": "A highly efficient JavaScript library for slicing GeoJSON data.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Data Processing"
@@ -378,6 +408,16 @@
       "name": "geolib",
       "url": "https://github.com/manuelbieh/geolib",
       "description": "Library to provide basic geospatial operations.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/HarryStevens/geometric",
+      "name": "Geometric.js",
+      "url": "https://github.com/HarryStevens/geometric",
+      "description": "A JavaScript library for doing geometry.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Data Processing"
@@ -404,6 +444,16 @@
       ]
     },
     {
+      "key": "https://github.com/geotiffjs/geotiff.js",
+      "name": "GeoTiff.js",
+      "url": "https://github.com/geotiffjs/geotiff.js",
+      "description": "Parse TIFF files for visualization or analysis.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
       "key": "https://github.com/neocarto/geotoolbox",
       "name": "geotoolbox",
       "url": "https://github.com/neocarto/geotoolbox",
@@ -414,30 +464,10 @@
       ]
     },
     {
-      "key": "https://github.com/mapbox/geojson-merge",
-      "name": "geojson-merge",
-      "url": "https://github.com/mapbox/geojson-merge",
-      "description": "Merge multiple GeoJSON files into one FeatureCollection.",
-      "section": [
-        "👨‍💻 JavaScript Libraries",
-        "Data Processing"
-      ]
-    },
-    {
-      "key": "https://github.com/mapbox/geojson-vt",
-      "name": "geojson-vt",
-      "url": "https://github.com/mapbox/geojson-vt",
-      "description": "A highly efficient JavaScript library for slicing GeoJSON data.",
-      "section": [
-        "👨‍💻 JavaScript Libraries",
-        "Data Processing"
-      ]
-    },
-    {
-      "key": "https://github.com/HarryStevens/geometric",
-      "name": "Geometric.js",
-      "url": "https://github.com/HarryStevens/geometric",
-      "description": "A JavaScript library for doing geometry.",
+      "key": "https://github.com/riatelab/geoviz",
+      "name": "geoviz",
+      "url": "https://github.com/riatelab/geoviz",
+      "description": "A d3-compatible JavaScript library for designing thematic maps.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Data Processing"
@@ -464,10 +494,40 @@
       ]
     },
     {
+      "key": "https://github.com/visgl/loaders.gl",
+      "name": "loaders.gl",
+      "url": "https://github.com/visgl/loaders.gl",
+      "description": "Loaders for geospatial and 3D formats such as MVT, Shapefile, 3D Tiles, LAS/LAZ and COG.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
       "key": "https://github.com/uber-web/math.gl",
       "name": "math.gl",
       "url": "https://github.com/uber-web/math.gl",
       "description": "JavaScript math library focused on Geospatial and 3D use cases.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/protomaps/PMTiles",
+      "name": "PMTiles",
+      "url": "https://github.com/protomaps/PMTiles",
+      "description": "Single-file tile archive format that can be read in the browser via HTTP range requests.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Data Processing"
+      ]
+    },
+    {
+      "key": "https://github.com/mapbox/polylabel",
+      "name": "Polylabel",
+      "url": "https://github.com/mapbox/polylabel",
+      "description": "Finds the pole of inaccessibility of a polygon, for label placement.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Data Processing"
@@ -514,16 +574,6 @@
       ]
     },
     {
-      "key": "https://github.com/Turfjs/turf",
-      "name": "Turf.js",
-      "url": "https://github.com/Turfjs/turf",
-      "description": "A JavaScript library for spatial analysis.",
-      "section": [
-        "👨‍💻 JavaScript Libraries",
-        "Data Processing"
-      ]
-    },
-    {
       "key": "https://github.com/topojson/topojson",
       "name": "topoJSON",
       "url": "https://github.com/topojson/topojson",
@@ -534,23 +584,13 @@
       ]
     },
     {
-      "key": "https://github.com/arthur-e/Wicket",
-      "name": "Wicket",
-      "url": "https://github.com/arthur-e/Wicket",
-      "description": "A modest library for moving between Well-Known Text (WKT) and various framework geometries.",
+      "key": "https://github.com/Turfjs/turf",
+      "name": "Turf.js",
+      "url": "https://github.com/Turfjs/turf",
+      "description": "A JavaScript library for spatial analysis.",
       "section": [
         "👨‍💻 JavaScript Libraries",
         "Data Processing"
-      ]
-    },
-    {
-      "key": "https://github.com/verma/plasio",
-      "name": "Plasio",
-      "url": "https://github.com/verma/plasio",
-      "description": "Drag-n-drop In-browser LAS/LAZ point cloud viewer.",
-      "section": [
-        "👨‍💻 JavaScript Libraries",
-        "LiDAR"
       ]
     },
     {
@@ -634,6 +674,16 @@
       ]
     },
     {
+      "key": "https://github.com/radiantearth/stac-browser",
+      "name": "STAC Browser",
+      "url": "https://github.com/radiantearth/stac-browser",
+      "description": "Web UI for browsing and searching STAC catalogs and APIs.",
+      "section": [
+        "👨‍💻 JavaScript Libraries",
+        "Remote Sensing"
+      ]
+    },
+    {
       "key": "https://hub.arcgis.com",
       "name": "ArcGIS Hub",
       "url": "https://hub.arcgis.com/",
@@ -694,6 +744,16 @@
       ]
     },
     {
+      "key": "https://galileo.gisdata.io",
+      "name": "Galileo",
+      "url": "https://galileo.gisdata.io/",
+      "description": "Geospatial data discovery and management platform.",
+      "section": [
+        "💾 Data sources",
+        "Downloads"
+      ]
+    },
+    {
       "key": "https://geoboundaries.org",
       "name": "Geoboundaries",
       "url": "https://www.geoboundaries.org/",
@@ -728,16 +788,6 @@
       "name": "Global power plant database",
       "url": "https://datasets.wri.org/dataset/globalpowerplantdatabase",
       "description": "Open source database of power plants.",
-      "section": [
-        "💾 Data sources",
-        "Downloads"
-      ]
-    },
-    {
-      "key": "https://galileo.gisdata.io",
-      "name": "Galileo",
-      "url": "https://galileo.gisdata.io/",
-      "description": "Geospatial data discovery and management platform.",
       "section": [
         "💾 Data sources",
         "Downloads"
@@ -784,6 +834,16 @@
       ]
     },
     {
+      "key": "https://github.com/teamookla/ookla-open-data",
+      "name": "Ookla internet speed data",
+      "url": "https://github.com/teamookla/ookla-open-data",
+      "description": "Global network performance metrics.",
+      "section": [
+        "💾 Data sources",
+        "Downloads"
+      ]
+    },
+    {
       "key": "https://openaerialmap.org",
       "name": "OpenAerialMap",
       "url": "https://openaerialmap.org/",
@@ -824,30 +884,10 @@
       ]
     },
     {
-      "key": "https://github.com/teamookla/ookla-open-data",
-      "name": "Ookla internet speed data",
-      "url": "https://github.com/teamookla/ookla-open-data",
-      "description": "Global network performance metrics.",
-      "section": [
-        "💾 Data sources",
-        "Downloads"
-      ]
-    },
-    {
       "key": "https://earthexplorer.usgs.gov",
       "name": "USGS Earth Explorer",
       "url": "https://earthexplorer.usgs.gov/",
       "description": "Query and order satellite images and more.",
-      "section": [
-        "💾 Data sources",
-        "Downloads"
-      ]
-    },
-    {
-      "key": "https://github.com/topojson/world-atlas",
-      "name": "World Atlas TopoJSON",
-      "url": "https://github.com/topojson/world-atlas",
-      "description": "Natural Earth's vector data as TopoJSON.",
       "section": [
         "💾 Data sources",
         "Downloads"
@@ -944,20 +984,20 @@
       ]
     },
     {
-      "key": "https://geonames.org/export/web-services.html",
-      "name": "geonames",
-      "url": "http://www.geonames.org/export/web-services.html",
-      "description": "Supports placename lookup and reverse geocoding.",
+      "key": "https://geocode.xyz",
+      "name": "Geocode.xyz",
+      "url": "https://geocode.xyz/",
+      "description": "Reverse geocoding, forward geocoding, and geoparsing API.",
       "section": [
         "💾 Data sources",
         "Web APIs"
       ]
     },
     {
-      "key": "https://geocode.xyz",
-      "name": "Geocode.xyz",
-      "url": "https://geocode.xyz/",
-      "description": "Reverse geocoding, forward geocoding, and geoparsing API.",
+      "key": "https://geonames.org/export/web-services.html",
+      "name": "geonames",
+      "url": "http://www.geonames.org/export/web-services.html",
+      "description": "Supports placename lookup and reverse geocoding.",
       "section": [
         "💾 Data sources",
         "Web APIs"
@@ -1004,6 +1044,16 @@
       ]
     },
     {
+      "key": "https://opencagedata.com/api",
+      "name": "OpenCage",
+      "url": "https://opencagedata.com/api",
+      "description": "Forward and reverse geocoding API using open data.",
+      "section": [
+        "💾 Data sources",
+        "Web APIs"
+      ]
+    },
+    {
       "key": "https://openchargemap.org",
       "name": "Open Charge Map API",
       "url": "https://openchargemap.org",
@@ -1014,10 +1064,10 @@
       ]
     },
     {
-      "key": "https://opencagedata.com/api",
-      "name": "OpenCage",
-      "url": "https://opencagedata.com/api",
-      "description": "Forward and reverse geocoding API using open data.",
+      "key": "https://github.com/hyperknot/openfreemap",
+      "name": "OpenFreeMap",
+      "url": "https://github.com/hyperknot/openfreemap",
+      "description": "Free, self-hostable OpenStreetMap vector tiles with no API key.",
       "section": [
         "💾 Data sources",
         "Web APIs"
@@ -1054,20 +1104,20 @@
       ]
     },
     {
-      "key": "https://github.com/openskynetwork/opensky-api",
-      "name": "OpenSky API",
-      "url": "https://github.com/openskynetwork/opensky-api",
-      "description": "Retrieve live airspace information.",
+      "key": "https://openrouteservice.org/dev",
+      "name": "openrouteservice",
+      "url": "https://openrouteservice.org/dev/#/api-docs",
+      "description": "Directions, isochrones, and geocoding services.",
       "section": [
         "💾 Data sources",
         "Web APIs"
       ]
     },
     {
-      "key": "https://openrouteservice.org/dev",
-      "name": "openrouteservice",
-      "url": "https://openrouteservice.org/dev/#/api-docs",
-      "description": "Directions, isochrones, and geocoding services.",
+      "key": "https://github.com/openskynetwork/opensky-api",
+      "name": "OpenSky API",
+      "url": "https://github.com/openskynetwork/opensky-api",
+      "description": "Retrieve live airspace information.",
       "section": [
         "💾 Data sources",
         "Web APIs"
@@ -1088,6 +1138,16 @@
       "name": "opentopodata API",
       "url": "https://www.opentopodata.org/",
       "description": "Open Topography Data API.",
+      "section": [
+        "💾 Data sources",
+        "Web APIs"
+      ]
+    },
+    {
+      "key": "https://postalcodes.info/api",
+      "name": "PostalCodes",
+      "url": "https://postalcodes.info/api",
+      "description": "Global postal code search, country exports, and address validation data.",
       "section": [
         "💾 Data sources",
         "Web APIs"
@@ -1144,16 +1204,6 @@
       ]
     },
     {
-      "key": "https://github.com/artakulov/us-water-quality-data",
-      "name": "ZipCheckup API",
-      "url": "https://github.com/artakulov/us-water-quality-data",
-      "description": "Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk.",
-      "section": [
-        "💾 Data sources",
-        "Web APIs"
-      ]
-    },
-    {
       "key": "https://developer.what3words.com/public-api",
       "name": "what3words",
       "url": "https://developer.what3words.com/public-api",
@@ -1164,13 +1214,23 @@
       ]
     },
     {
-      "key": "https://postalcodes.info/api",
-      "name": "PostalCodes",
-      "url": "https://postalcodes.info/api",
-      "description": "Global postal code search, country exports, and address validation data.",
+      "key": "https://github.com/artakulov/us-water-quality-data",
+      "name": "ZipCheckup API",
+      "url": "https://github.com/artakulov/us-water-quality-data",
+      "description": "Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk.",
       "section": [
         "💾 Data sources",
         "Web APIs"
+      ]
+    },
+    {
+      "key": "https://github.com/maplibre/awesome-maplibre",
+      "name": "Awesome MapLibre",
+      "url": "https://github.com/maplibre/awesome-maplibre",
+      "description": "Curated list of MapLibre resources.",
+      "section": [
+        "💾 Data sources",
+        "Collections"
       ]
     },
     {
@@ -1178,6 +1238,16 @@
       "name": "awesome-public-datasets",
       "url": "https://github.com/awesomedata/awesome-public-datasets",
       "description": "An awesome repository full of open datasets from an abundance of different categories.",
+      "section": [
+        "💾 Data sources",
+        "Collections"
+      ]
+    },
+    {
+      "key": "https://davidrumsey.com",
+      "name": "David Rumsey map collection",
+      "url": "https://www.davidrumsey.com/",
+      "description": "Historical map archives.",
       "section": [
         "💾 Data sources",
         "Collections"
@@ -1214,40 +1284,10 @@
       ]
     },
     {
-      "key": "https://davidrumsey.com",
-      "name": "David Rumsey map collection",
-      "url": "https://www.davidrumsey.com/",
-      "description": "Historical map archives.",
-      "section": [
-        "💾 Data sources",
-        "Collections"
-      ]
-    },
-    {
-      "key": "https://observablehq.com/@observablehq/hello-leaflet",
-      "name": "Hello, Leaflet",
-      "url": "https://observablehq.com/@observablehq/hello-leaflet",
-      "description": "ObservableHQ.",
-      "section": [
-        "📒 Notebooks",
-        "Beginner"
-      ]
-    },
-    {
       "key": "https://observablehq.com/@neocartocnrs/hello-bertin-js",
       "name": "Hello, Bertin.js",
       "url": "https://observablehq.com/@neocartocnrs/hello-bertin-js",
       "description": "Nicolas Lambert.",
-      "section": [
-        "📒 Notebooks",
-        "Beginner"
-      ]
-    },
-    {
-      "key": "https://observablehq.com/@observablehq/hello-mapbox-gl",
-      "name": "Hello, Mapbox GL",
-      "url": "https://observablehq.com/@observablehq/hello-mapbox-gl",
-      "description": "Mike Bostock.",
       "section": [
         "📒 Notebooks",
         "Beginner"
@@ -1274,10 +1314,30 @@
       ]
     },
     {
-      "key": "https://observablehq.com/@d3/world-tour",
-      "name": "World Tour",
-      "url": "https://observablehq.com/@d3/world-tour",
-      "description": "D3.",
+      "key": "https://observablehq.com/@observablehq/hello-leaflet",
+      "name": "Hello, Leaflet",
+      "url": "https://observablehq.com/@observablehq/hello-leaflet",
+      "description": "ObservableHQ.",
+      "section": [
+        "📒 Notebooks",
+        "Beginner"
+      ]
+    },
+    {
+      "key": "https://observablehq.com/@observablehq/hello-mapbox-gl",
+      "name": "Hello, Mapbox GL",
+      "url": "https://observablehq.com/@observablehq/hello-mapbox-gl",
+      "description": "Mike Bostock.",
+      "section": [
+        "📒 Notebooks",
+        "Beginner"
+      ]
+    },
+    {
+      "key": "https://observablehq.com/@stephanietuerk/bivariate-choropleth-with-continuous-color-scales",
+      "name": "Bivariate Choropleth with Continuous Color Scales",
+      "url": "https://observablehq.com/@stephanietuerk/bivariate-choropleth-with-continuous-color-scales",
+      "description": "Stephanie Tuerk.",
       "section": [
         "📒 Notebooks",
         "Intermediate"
@@ -1288,16 +1348,6 @@
       "name": "Choropleth",
       "url": "https://observablehq.com/@d3/choropleth",
       "description": "D3.",
-      "section": [
-        "📒 Notebooks",
-        "Intermediate"
-      ]
-    },
-    {
-      "key": "https://observablehq.com/@jgaffuri/nice-scale-bar",
-      "name": "How to make a nice scalebar",
-      "url": "https://observablehq.com/@jgaffuri/nice-scale-bar",
-      "description": "Julien Gaffuri.",
       "section": [
         "📒 Notebooks",
         "Intermediate"
@@ -1324,10 +1374,10 @@
       ]
     },
     {
-      "key": "https://observablehq.com/@stephanietuerk/bivariate-choropleth-with-continuous-color-scales",
-      "name": "Bivariate Choropleth with Continuous Color Scales",
-      "url": "https://observablehq.com/@stephanietuerk/bivariate-choropleth-with-continuous-color-scales",
-      "description": "Stephanie Tuerk.",
+      "key": "https://observablehq.com/@jgaffuri/nice-scale-bar",
+      "name": "How to make a nice scalebar",
+      "url": "https://observablehq.com/@jgaffuri/nice-scale-bar",
+      "description": "Julien Gaffuri.",
       "section": [
         "📒 Notebooks",
         "Intermediate"
@@ -1344,10 +1394,20 @@
       ]
     },
     {
-      "key": "https://observablehq.com/@karimdouieb/try-to-impeach-this-challenge-accepted",
-      "name": "Try to impeach this? Challenge accepted!",
-      "url": "https://observablehq.com/@karimdouieb/try-to-impeach-this-challenge-accepted",
-      "description": "Karim Douieb.",
+      "key": "https://observablehq.com/@d3/world-tour",
+      "name": "World Tour",
+      "url": "https://observablehq.com/@d3/world-tour",
+      "description": "D3.",
+      "section": [
+        "📒 Notebooks",
+        "Intermediate"
+      ]
+    },
+    {
+      "key": "https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl",
+      "name": "Animating voting maps with regl",
+      "url": "https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl",
+      "description": "Benjamin Schmidt.",
       "section": [
         "📒 Notebooks",
         "Advanced"
@@ -1374,10 +1434,10 @@
       ]
     },
     {
-      "key": "https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl",
-      "name": "Animating voting maps with regl",
-      "url": "https://observablehq.com/@bmschmidt/animating-voting-maps-with-regl",
-      "description": "Benjamin Schmidt.",
+      "key": "https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election",
+      "name": "Dorling cartogram of the Spanish Presidential election",
+      "url": "https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election",
+      "description": "Adrián Blanco.",
       "section": [
         "📒 Notebooks",
         "Advanced"
@@ -1388,6 +1448,16 @@
       "name": "Election maps as dorling striped circles",
       "url": "https://observablehq.com/@jgaffuri/election-map-dorling-striped-circles",
       "description": "Julien Gaffuri.",
+      "section": [
+        "📒 Notebooks",
+        "Advanced"
+      ]
+    },
+    {
+      "key": "https://observablehq.com/@kylebarron/geoarrow-and-geoparquet-in-deck-gl",
+      "name": "GeoArrow and GeoParquet in deck.gl",
+      "url": "https://observablehq.com/@kylebarron/geoarrow-and-geoparquet-in-deck-gl",
+      "description": "Kyle Barron.",
       "section": [
         "📒 Notebooks",
         "Advanced"
@@ -1414,10 +1484,10 @@
       ]
     },
     {
-      "key": "https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election",
-      "name": "Dorling cartogram of the Spanish Presidential election",
-      "url": "https://observablehq.com/@adrianblanco/dorling-cartogram-of-the-spanish-presidential-election",
-      "description": "Adrián Blanco.",
+      "key": "https://observablehq.com/@karimdouieb/try-to-impeach-this-challenge-accepted",
+      "name": "Try to impeach this? Challenge accepted!",
+      "url": "https://observablehq.com/@karimdouieb/try-to-impeach-this-challenge-accepted",
+      "description": "Karim Douieb.",
       "section": [
         "📒 Notebooks",
         "Advanced"
@@ -1434,110 +1504,10 @@
       ]
     },
     {
-      "key": "https://observablehq.com/@kylebarron/geoarrow-and-geoparquet-in-deck-gl",
-      "name": "GeoArrow and GeoParquet in deck.gl",
-      "url": "https://observablehq.com/@kylebarron/geoarrow-and-geoparquet-in-deck-gl",
-      "description": "Kyle Barron.",
-      "section": [
-        "📒 Notebooks",
-        "Advanced"
-      ]
-    },
-    {
-      "key": "https://tjukanovt.github.io/notable-people",
-      "name": "Map of notable people",
-      "url": "https://tjukanovt.github.io/notable-people",
-      "description": "Topi Tjukanov.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://submarinecablemap.com",
-      "name": "Submarine cable map",
-      "url": "https://www.submarinecablemap.com/",
-      "description": "TeleGeography.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://radio.garden",
-      "name": "Radio Garden",
-      "url": "https://radio.garden/",
-      "description": "3D Globe Radio Tuner.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html",
-      "name": "Map of every building in the United States",
-      "url": "https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html",
-      "description": "New York Times.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://orbis.stanford.edu",
-      "name": "Map of the Roman transport network",
-      "url": "https://orbis.stanford.edu/",
-      "description": "The Stanford Geospatial Network Model of the Roman World.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://github.com/mapbox/webgl-wind",
-      "name": "WebGL Wind",
-      "url": "https://github.com/mapbox/webgl-wind",
-      "description": "A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://ec.europa.eu/statistical-atlas/viewer",
-      "name": "Statistical Atlas",
-      "url": "https://ec.europa.eu/statistical-atlas/viewer",
-      "description": "A leaflet-powered atlas showcasing Eurostat's statistics.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://shademap.app",
-      "name": "ShadeMap",
-      "url": "https://shademap.app/",
-      "description": "Every mountain, building and tree shadow in the world simulated for any date and time.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://climatearchive.org",
-      "name": "ClimateArchive",
-      "url": "https://climatearchive.org/",
-      "description": "An interactive visualisation of climate model data across time and space.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://oldmapsonline.org",
-      "name": "Old Maps Online",
-      "url": "https://www.oldmapsonline.org/",
-      "description": "Browse historical places and search for old maps with timeline.",
-      "section": [
-        ":world_map: Web maps"
-      ]
-    },
-    {
-      "key": "https://chronotrains.com",
-      "name": "chronotrains",
-      "url": "https://www.chronotrains.com",
-      "description": "Where can you go by train in 8h?",
+      "key": "https://biblical-atlas.geiser.cloud",
+      "name": "biblical-atlas",
+      "url": "https://biblical-atlas.geiser.cloud/",
+      "description": "A map and a timeline of the Bible that move with a single date, from Adam to John on Patmos, with every fact linked to its source. Open-source static site built with MapLibre GL, in Spanish.",
       "section": [
         ":world_map: Web maps"
       ]
@@ -1561,10 +1531,19 @@
       ]
     },
     {
-      "key": "https://europebeachmap.com",
-      "name": "Europe Beach Map",
-      "url": "https://europebeachmap.com/",
-      "description": "Every notable European beach on one map, with sea temperature, sand and best season for each.",
+      "key": "https://chronotrains.com",
+      "name": "chronotrains",
+      "url": "https://www.chronotrains.com",
+      "description": "Where can you go by train in 8h?",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://climatearchive.org",
+      "name": "ClimateArchive",
+      "url": "https://climatearchive.org/",
+      "description": "An interactive visualisation of climate model data across time and space.",
       "section": [
         ":world_map: Web maps"
       ]
@@ -1579,10 +1558,19 @@
       ]
     },
     {
-      "key": "https://planetatlas.org",
-      "name": "Planetary Atlas",
-      "url": "https://planetatlas.org",
-      "description": "Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.",
+      "key": "https://earth.nullschool.net",
+      "name": "earth",
+      "url": "https://earth.nullschool.net/",
+      "description": "Animated global map of wind, ocean currents, waves and air chemistry from forecast data.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://europebeachmap.com",
+      "name": "Europe Beach Map",
+      "url": "https://europebeachmap.com/",
+      "description": "Every notable European beach on one map, with sea temperature, sand and best season for each.",
       "section": [
         ":world_map: Web maps"
       ]
@@ -1606,12 +1594,165 @@
       ]
     },
     {
+      "key": "https://globalfishingwatch.org/map",
+      "name": "Global Fishing Watch Map",
+      "url": "https://globalfishingwatch.org/map",
+      "description": "Open map of global vessel activity and fishing effort derived from AIS data.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://globalforestwatch.org/map",
+      "name": "Global Forest Watch",
+      "url": "https://www.globalforestwatch.org/map/",
+      "description": "Near-real-time map of global tree cover loss, fires and land-use data.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html",
+      "name": "Map of every building in the United States",
+      "url": "https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html",
+      "description": "New York Times.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://tjukanovt.github.io/notable-people",
+      "name": "Map of notable people",
+      "url": "https://tjukanovt.github.io/notable-people",
+      "description": "Topi Tjukanov.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://orbis.stanford.edu",
+      "name": "Map of the Roman transport network",
+      "url": "https://orbis.stanford.edu/",
+      "description": "The Stanford Geospatial Network Model of the Roman World.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://oldmapsonline.org",
+      "name": "Old Maps Online",
+      "url": "https://www.oldmapsonline.org/",
+      "description": "Browse historical places and search for old maps with timeline.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://openhistoricalmap.org",
+      "name": "OpenHistoricalMap",
+      "url": "https://www.openhistoricalmap.org/",
+      "description": "Collaborative time-slider map of the world's historical features, built on the OpenStreetMap stack.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://openrailwaymap.org",
+      "name": "OpenRailwayMap",
+      "url": "https://openrailwaymap.org/",
+      "description": "Worldwide railway infrastructure from OpenStreetMap, including tracks, signals and speeds.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://ourworldindata.org/explorers/population-and-demography",
+      "name": "Our World in Data population explorer",
+      "url": "https://ourworldindata.org/explorers/population-and-demography",
+      "description": "Interactive maps and charts of global population and demography.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://planetatlas.org",
+      "name": "Planetary Atlas",
+      "url": "https://planetatlas.org",
+      "description": "Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://radio.garden",
+      "name": "Radio Garden",
+      "url": "https://radio.garden/",
+      "description": "3D Globe Radio Tuner.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://shademap.app",
+      "name": "ShadeMap",
+      "url": "https://shademap.app/",
+      "description": "Every mountain, building and tree shadow in the world simulated for any date and time.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://ec.europa.eu/statistical-atlas/viewer",
+      "name": "Statistical Atlas",
+      "url": "https://ec.europa.eu/statistical-atlas/viewer",
+      "description": "A leaflet-powered atlas showcasing Eurostat's statistics.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://submarinecablemap.com",
+      "name": "Submarine cable map",
+      "url": "https://www.submarinecablemap.com/",
+      "description": "TeleGeography.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://dominicroye.github.io/shapes-of-rivers",
+      "name": "The Shapes of Rivers",
+      "url": "https://dominicroye.github.io/shapes-of-rivers/",
+      "description": "1,294 rivers over 200 km normalised to the same source and length and rotated north, with filtering by region, by Dominic Roy?.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
       "key": "https://vivamap.ch",
       "name": "VivaMap",
       "url": "https://vivamap.ch/",
       "description": "Where to live in Switzerland: all 2,134 communes plus an H3 hex grid down to 0.1 km², scored across nine dimensions (noise, air, sunlight, transit, schools, healthcare, restaurants, nature, taxes) from open government data and OpenStreetMap. Built with MapLibre GL, deck.gl and PMTiles, trilingual FR/DE/EN.",
       "section": [
         ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://github.com/mapbox/webgl-wind",
+      "name": "WebGL Wind",
+      "url": "https://github.com/mapbox/webgl-wind",
+      "description": "A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.",
+      "section": [
+        ":world_map: Web maps"
+      ]
+    },
+    {
+      "key": "https://bboxfinder.com",
+      "name": "bboxFinder",
+      "url": "http://bboxfinder.com/",
+      "description": "Helper page for finding bbox values from a map.",
+      "section": [
+        "🌐 Web apps"
       ]
     },
     {
@@ -1642,6 +1783,24 @@
       ]
     },
     {
+      "key": "https://geojson.io",
+      "name": "geojson.io",
+      "url": "https://geojson.io/",
+      "description": "A quick, simple tool for creating, viewing, and sharing spatial data.",
+      "section": [
+        "🌐 Web apps"
+      ]
+    },
+    {
+      "key": "https://geojsonlint.com",
+      "name": "GeoJSONLint",
+      "url": "https://geojsonlint.com/",
+      "description": "Use this site to validate and view your GeoJSON.",
+      "section": [
+        "🌐 Web apps"
+      ]
+    },
+    {
       "key": "https://github.com/opengeos/GeoLibre",
       "name": "GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
@@ -1655,6 +1814,24 @@
       "name": "geotiff.io",
       "url": "http://app.geotiff.io/",
       "description": "Provides quick access to easy-to-use raster processing.",
+      "section": [
+        "🌐 Web apps"
+      ]
+    },
+    {
+      "key": "https://github.com/gpxstudio/gpx.studio",
+      "name": "gpx studio",
+      "url": "https://github.com/gpxstudio/gpx.studio",
+      "description": "Online tool for GPX editing.",
+      "section": [
+        "🌐 Web apps"
+      ]
+    },
+    {
+      "key": "https://github.com/openstreetmap/iD",
+      "name": "iD",
+      "url": "https://github.com/openstreetmap/iD",
+      "description": "The OpenStreetMap web map editor.",
       "section": [
         "🌐 Web apps"
       ]
@@ -1687,19 +1864,19 @@
       ]
     },
     {
-      "key": "https://mapshaper.org",
-      "name": "mapshaper",
-      "url": "https://mapshaper.org/",
-      "description": "Online editor for map data.",
+      "key": "https://maponshirt.com",
+      "name": "MapOnShirt",
+      "url": "https://maponshirt.com",
+      "description": "Create colorful designs from maps and turn them into products.",
       "section": [
         "🌐 Web apps"
       ]
     },
     {
-      "key": "https://maponshirt.com",
-      "name": "MapOnShirt",
-      "url": "https://maponshirt.com",
-      "description": "Create colorful designs from maps and turn them into products.",
+      "key": "https://mapshaper.org",
+      "name": "mapshaper",
+      "url": "https://mapshaper.org/",
+      "description": "Online editor for map data.",
       "section": [
         "🌐 Web apps"
       ]
@@ -1714,19 +1891,28 @@
       ]
     },
     {
-      "key": "https://github.com/alyssaxuu/mapus",
-      "name": "mapus",
-      "url": "https://github.com/alyssaxuu/mapus",
-      "description": "Tool for collaboratively exploring and annotating maps.",
+      "key": "https://github.com/anvaka/peak-map",
+      "name": "Peak Map",
+      "url": "https://github.com/anvaka/peak-map",
+      "description": "Visualizes elevation of any area on the map with filled area charts.",
       "section": [
         "🌐 Web apps"
       ]
     },
     {
-      "key": "https://github.com/anvaka/peak-map",
-      "name": "Peak Map",
-      "url": "https://github.com/anvaka/peak-map",
-      "description": "Visualizes elevation of any area on the map with filled area charts.",
+      "key": "https://conflicts.app",
+      "name": "Pharos AI",
+      "url": "https://conflicts.app",
+      "description": "Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. (Source Code)",
+      "section": [
+        "🌐 Web apps"
+      ]
+    },
+    {
+      "key": "https://github.com/GeiserX/pumperly",
+      "name": "Pumperly",
+      "url": "https://github.com/GeiserX/pumperly",
+      "description": "Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding.",
       "section": [
         "🌐 Web apps"
       ]
@@ -1763,60 +1949,6 @@
       "name": "uMap",
       "url": "https://github.com/umap-project/umap",
       "description": "Create maps with OpenStreetMap layers and embed them in your site.",
-      "section": [
-        "🌐 Web apps"
-      ]
-    },
-    {
-      "key": "https://bboxfinder.com",
-      "name": "bboxFinder",
-      "url": "http://bboxfinder.com/",
-      "description": "Helper page for finding bbox values from a map.",
-      "section": [
-        "🌐 Web apps"
-      ]
-    },
-    {
-      "key": "https://geojson.io",
-      "name": "geojson.io",
-      "url": "https://geojson.io/",
-      "description": "A quick, simple tool for creating, viewing, and sharing spatial data.",
-      "section": [
-        "🌐 Web apps"
-      ]
-    },
-    {
-      "key": "https://geojsonlint.com",
-      "name": "GeoJSONLint",
-      "url": "https://geojsonlint.com/",
-      "description": "Use this site to validate and view your GeoJSON.",
-      "section": [
-        "🌐 Web apps"
-      ]
-    },
-    {
-      "key": "https://conflicts.app",
-      "name": "Pharos AI",
-      "url": "https://conflicts.app",
-      "description": "Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. (Source Code)",
-      "section": [
-        "🌐 Web apps"
-      ]
-    },
-    {
-      "key": "https://github.com/GeiserX/pumperly",
-      "name": "Pumperly",
-      "url": "https://github.com/GeiserX/pumperly",
-      "description": "Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding.",
-      "section": [
-        "🌐 Web apps"
-      ]
-    },
-    {
-      "key": "https://github.com/gpxstudio/gpxstudio.github.io",
-      "name": "gpx studio",
-      "url": "https://github.com/gpxstudio/gpxstudio.github.io",
-      "description": "Online tool for GPX editing.",
       "section": [
         "🌐 Web apps"
       ]
@@ -1885,6 +2017,15 @@
       ]
     },
     {
+      "key": "https://apidocs.geoapify.com/playground/icon",
+      "name": "Geoapify map marker playground",
+      "url": "https://apidocs.geoapify.com/playground/icon/",
+      "description": "The Marker Icon API lets you create beautiful icons and use them as Map Markers.",
+      "section": [
+        "📍 Icons"
+      ]
+    },
+    {
       "key": "https://mapicons.mapsmarker.com",
       "name": "Map Icons Collection",
       "url": "https://mapicons.mapsmarker.com/",
@@ -1900,24 +2041,6 @@
       "description": "Over 2,990 glyphs in a single font file with a wide range of design variants.",
       "section": [
         "📍 Icons"
-      ]
-    },
-    {
-      "key": "https://apidocs.geoapify.com/playground/icon",
-      "name": "Geoapify map marker playground",
-      "url": "https://apidocs.geoapify.com/playground/icon/",
-      "description": "The Marker Icon API lets you create beautiful icons and use them as Map Markers.",
-      "section": [
-        "📍 Icons"
-      ]
-    },
-    {
-      "key": "https://youtube.com/watch?v=nZaZ2dB6pow",
-      "name": "Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript",
-      "url": "https://www.youtube.com/watch?v=nZaZ2dB6pow",
-      "description": "The Coding Train.",
-      "section": [
-        "📺 Videos"
       ]
     },
     {
@@ -1939,6 +2062,15 @@
       ]
     },
     {
+      "key": "https://youtube.com/watch?v=nZaZ2dB6pow",
+      "name": "Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript",
+      "url": "https://www.youtube.com/watch?v=nZaZ2dB6pow",
+      "description": "The Coding Train.",
+      "section": [
+        "📺 Videos"
+      ]
+    },
+    {
       "key": "https://youtube.com/watch?v=e803ElX5Q_c",
       "name": "Statistical Cartography - Design principles for statistical map design",
       "url": "https://www.youtube.com/watch?v=e803ElX5Q_c",
@@ -1948,28 +2080,10 @@
       ]
     },
     {
-      "key": "https://clauswilke.com/dataviz",
-      "name": "Fundamentals of Data Visualization",
-      "url": "https://clauswilke.com/dataviz/",
-      "description": "Claus O. Wilke.",
-      "section": [
-        "📚 Further reading"
-      ]
-    },
-    {
       "key": "https://github.com/uwcartlab/webmapping",
       "name": "A Workbook for Interactive Cartography and Visualization on the Open Web",
       "url": "https://github.com/uwcartlab/webmapping",
       "description": "Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.",
-      "section": [
-        "📚 Further reading"
-      ]
-    },
-    {
-      "key": "https://esri.com/en-us/esri-press/browse/thematic-mapping",
-      "name": "Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data",
-      "url": "https://www.esri.com/en-us/esri-press/browse/thematic-mapping",
-      "description": "Kenneth Field.",
       "section": [
         "📚 Further reading"
       ]
@@ -1984,10 +2098,28 @@
       ]
     },
     {
+      "key": "https://clauswilke.com/dataviz",
+      "name": "Fundamentals of Data Visualization",
+      "url": "https://clauswilke.com/dataviz/",
+      "description": "Claus O. Wilke.",
+      "section": [
+        "📚 Further reading"
+      ]
+    },
+    {
       "key": "https://geonetworks.github.io",
       "name": "Geospatial Network Visualization",
       "url": "https://geonetworks.github.io/",
       "description": "A collection of visualization techniques for geospatial network data.",
+      "section": [
+        "📚 Further reading"
+      ]
+    },
+    {
+      "key": "https://esri.com/en-us/esri-press/browse/thematic-mapping",
+      "name": "Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data",
+      "url": "https://www.esri.com/en-us/esri-press/browse/thematic-mapping",
+      "description": "Kenneth Field.",
       "section": [
         "📚 Further reading"
       ]

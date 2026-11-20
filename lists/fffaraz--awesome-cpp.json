@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5526ea567c938119ede267bcc62c2acf4cd0ab033184622f122a06d279195029\"",
+  "etag": "W/\"17177cda1e0886d0e6ba73978ccc221767b6634dd6511bb7b288177884c35089\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -11503,6 +11503,33 @@
       "description": "Code beautifier.",
       "section": [
         "Coding Style Tools"
+      ]
+    },
+    {
+      "key": "https://swayaminsync.github.io/cpp-verify",
+      "name": "CppVerify",
+      "url": "https://swayaminsync.github.io/cpp-verify/",
+      "description": "Extending C++ to support Program Verification using SMT solvers. [Apache2]",
+      "section": [
+        "Formal Verification"
+      ]
+    },
+    {
+      "key": "https://frama-c.com/fc-plugins/frama-clang.html",
+      "name": "Frama-Clang",
+      "url": "https://frama-c.com/fc-plugins/frama-clang.html",
+      "description": "C++ front-end to Frama-C, based on the clang compiler. [LGPL]",
+      "section": [
+        "Formal Verification"
+      ]
+    },
+    {
+      "key": "https://esbmc.github.io",
+      "name": "ESBMC",
+      "url": "https://esbmc.github.io/",
+      "description": "The efficient SMT-based context-bounded model checker (ESBMC). [Apache2/BSD-4-Clause]",
+      "section": [
+        "Formal Verification"
       ]
     },
     {

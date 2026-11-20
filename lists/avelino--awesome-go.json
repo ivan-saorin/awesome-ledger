@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a97e467fed9d6093170309d810a35f75e6b89e956c42382cc06335596c1e90b6\"",
+  "etag": "W/\"98157ae2eb925117bdeaa488bba80d0783c6eadb800b65f9fd6b6cfdd947cf0a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -584,6 +584,15 @@
       "name": "authgate",
       "url": "https://github.com/go-authgate/authgate",
       "description": "A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant (RFC 8628), Authorization Code Flow with PKCE (RFC 6749 + RFC 7636), and Client Credentials Grant for machine-to-machine authentication.",
+      "section": [
+        "Authentication and Authorization"
+      ]
+    },
+    {
+      "key": "https://github.com/Authula/authula",
+      "name": "authula",
+      "url": "https://github.com/Authula/authula",
+      "description": "Authentication library and standalone auth server that can be embedded in a Go app or run as a service.",
       "section": [
         "Authentication and Authorization"
       ]
@@ -6408,6 +6417,16 @@
       "name": "goes",
       "url": "https://github.com/OwnLocal/goes",
       "description": "Library to interact with Elasticsearch.",
+      "section": [
+        "Database Drivers",
+        "Search and Analytic Databases"
+      ]
+    },
+    {
+      "key": "https://github.com/vcaesar/riot",
+      "name": "riot",
+      "url": "https://github.com/vcaesar/riot",
+      "description": "Simple and fast text and vector index engine.",
       "section": [
         "Database Drivers",
         "Search and Analytic Databases"
@@ -12689,6 +12708,15 @@
       ]
     },
     {
+      "key": "https://github.com/kirimatt/goncordia",
+      "name": "goncordia",
+      "url": "https://github.com/kirimatt/goncordia",
+      "description": "Background job queue on the database you already use (Postgres, MySQL, SQLite, MongoDB, Redis and more), with transactional enqueue and typed futures.",
+      "section": [
+        "Messaging"
+      ]
+    },
+    {
       "key": "https://github.com/Terry-Mao/gopush-cluster",
       "name": "gopush-cluster",
       "url": "https://github.com/Terry-Mao/gopush-cluster",
@@ -16517,6 +16545,15 @@
       ]
     },
     {
+      "key": "https://github.com/capillariesio/capigraph",
+      "name": "capigraph",
+      "url": "https://github.com/capillariesio/capigraph",
+      "description": "Go library for visualizing DAGs using Sugiyama-style (layered, hierarchical) technique.",
+      "section": [
+        "Science and Data Analysis"
+      ]
+    },
+    {
       "key": "https://github.com/vdobler/chart",
       "name": "chart",
       "url": "https://github.com/vdobler/chart",
@@ -17079,6 +17116,15 @@
       "name": "dotlock",
       "url": "https://github.com/ahmadraza100/dotlock",
       "description": "Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.",
+      "section": [
+        "Security"
+      ]
+    },
+    {
+      "key": "https://github.com/nao1215/embargo",
+      "name": "embargo",
+      "url": "https://github.com/nao1215/embargo",
+      "description": "Detect and mask personal data, payment data and secrets in Go logs, errors and traces.",
       "section": [
         "Security"
       ]

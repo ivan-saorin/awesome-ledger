@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1c5ae23f9a61a0c305f6f66527a8ca480f19700d303aad4aff29cb9d82ddbf45\"",
+  "etag": "W/\"48326aaac9e408ce870da1084c791c256f2b4367f6e25d31db8f1762d583ca8d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -530,6 +530,15 @@
       "name": "Orchestrator",
       "url": "https://orchestrator.inc?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "Open-source desktop app (macOS, Windows, Linux) that runs Gemini CLI alongside Claude Code, Codex and other coding agents as parallel workers, each in its own git worktree, with an orchestrator agent splitting the work and a board tracking every PR through CI and review.",
+      "section": [
+        "Agent Orchestration & CLI Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/poikilometis/WindowDock",
+      "name": "WindowDock",
+      "url": "https://github.com/poikilometis/WindowDock",
+      "description": "Open-source Windows app that docks the terminal windows you already have open into named tabs and grids, so Gemini CLI sessions stay visible next to Claude Code and Codex. Optional Gemini CLI hooks show which session is waiting for input and jump to its window.",
       "section": [
         "Agent Orchestration & CLI Tools"
       ]
@@ -1246,6 +1255,24 @@
       ]
     },
     {
+      "key": "https://github.com/dbalas/preview-lab",
+      "name": "Preview Lab",
+      "url": "https://github.com/dbalas/preview-lab",
+      "description": "Gemini CLI extension with an Agent Skill for reviewing UI changes. The agent screenshots the screens it changed with the installed Chrome and opens them in a local review page, where you approve each one or mark areas to change. The feedback goes back to the session as short markdown. Install: gemini extensions install https://github.com/dbalas/preview-lab",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/wiroai/Wiro-Plugin",
+      "name": "Wiro AI",
+      "url": "https://github.com/wiroai/Wiro-Plugin",
+      "description": "Gemini CLI extension for the hosted Wiro AI MCP server (https://mcp.wiro.ai/v1): run 1,000+ image, video, audio and LLM models, build and run workflows, and deploy and message AI agents from Gemini CLI. Ships five Agent Skills, including project media assets (images, icons, short videos, voice-overs and 3D models placed where the framework expects them) and realtime voice. Paid runs bill your Wiro AI wallet and show the price before they start. Install: gemini extensions install https://github.com/wiroai/Wiro-Plugin, then /mcp auth wiro to sign in.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -1943,6 +1970,33 @@
       "name": "Buddy Sandboxes",
       "url": "https://buddy.works/docs/ai-agents/sandboxes",
       "description": "Isolated Ubuntu machines in the Buddy.Works cloud for running Gemini CLI away from your laptop. Install it in the sandbox with npm install -g @google/gemini-cli, connect over SSH, and the agent can install packages and run commands without touching your machine. The bdy sandbox CLI also copies files, exposes ports on public endpoints and takes snapshots.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://findoss.dev/en/skills",
+      "name": "FindOpenSource Agent Skill Builder",
+      "url": "https://findoss.dev/en/skills",
+      "description": "Free, no-login web tool for picking open-source Agent Skills (346 across 10 packs, including Anthropic Skills, Superpowers and Hugging Face Skills) and getting one install prompt to paste into Gemini CLI, or the matching npx skills add commands, at project or global scope. Also targets Claude Code, Codex, Cursor, GitHub Copilot and OpenCode.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/priberry-data/crumplelab",
+      "name": "Crumple",
+      "url": "https://github.com/priberry-data/crumplelab",
+      "description": "Crash-tests Gemini CLI, Claude Code and Codex against 20 traps drawn from real attacks (prompt injection in issues, MCP tool poisoning, key-stealing install scripts) in a Docker container with fake keys; scan audits GEMINI.md, MCP servers and permissions with SARIF output. Install via gemini extensions install https://github.com/priberry-data/crumplelab.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://github.com/priberry-data/tarelab",
+      "name": "Tare",
+      "url": "https://github.com/priberry-data/tarelab",
+      "description": "Reads local Gemini CLI, Claude Code, Codex and Cline logs, prices every token and shows which spend was avoidable, such as re-caching after pauses. Runs locally and uploads nothing. Install via gemini extensions install https://github.com/priberry-data/tarelab.",
       "section": [
         "Development Tools & Utilities"
       ]
@@ -2815,7 +2869,7 @@
       "key": "https://github.com/kochetkov-ma/brewpage-openapi",
       "name": "BrewPage",
       "url": "https://github.com/kochetkov-ma/brewpage-openapi",
-      "description": "MCP server for brewpage.app, free hosting with no account: Gemini CLI publishes HTML, Markdown, files, multi-file static sites, JSON and key-value data and gets a shareable link back (20 tools). Connect to the remote endpoint https://brewpage.app/mcp (no auth) or install the extension with gemini extensions install https://github.com/kochetkov-ma/brewpage-openapi. Content expires after 15 days by default (up to 30).",
+      "description": "Gemini CLI can publish HTML, Markdown, files, static sites, JSON and key-value data to BrewPage and return shareable links. Save form responses as Page data. The remote MCP at https://brewpage.app/mcp exposes 13 discoverable tools, with anonymous publishing and optional OAuth for a BrewPage profile. Install with gemini extensions install https://github.com/kochetkov-ma/brewpage-openapi.",
       "section": [
         "MCP Servers"
       ]
@@ -3158,6 +3212,42 @@
       "name": "Kitbay",
       "url": "https://kitbay.app/agents/",
       "description": "Hosted, read-only MCP server that lets Gemini CLI search a directory of 48,000+ MCP servers and agent skills by the tool they work with, showing each listing's facts with sources and the install config for your client. Remote Streamable HTTP, no sign-in. Install: gemini extensions install https://github.com/northlarkhq/kitbay-mcp",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://tresca.app/agents",
+      "name": "Tresca",
+      "url": "https://tresca.app/agents/",
+      "description": "Hosted, read-only MCP server that lets Gemini CLI search a directory of MCP servers and agent skills for engineering software (CAD, BIM, FEA, CFD, EDA, PLC), showing each listing's facts with sources and the install steps from its own documentation. Remote Streamable HTTP, no sign-in. Install: gemini extensions install https://github.com/northlarkhq/tresca-mcp",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://thelanternworks.com",
+      "name": "Lantern Works GPU Prices",
+      "url": "https://thelanternworks.com/?ref=awesome-gemini-cli",
+      "description": "Free, read-only MCP server for GPU cloud rental prices, price changes and deals. Remote Streamable HTTP (https://lantern-works-mcp.lantern-works.workers.dev/mcp, no API key) or local via uvx lantern-works-deals-mcp. Works with Gemini CLI and other MCP clients.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/ClickHouse/loom",
+      "name": "ClickHouse Loom",
+      "url": "https://github.com/ClickHouse/loom",
+      "description": "Shared long-term memory, document search and a code index for Gemini CLI through a self-hosted Loom MCP server. Install the release-candidate extension: gemini extensions install https://github.com/ClickHouse/loom --ref v1.3.0-rc.1.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/brilliant-hq/brilliant-mcp",
+      "name": "Brilliant",
+      "url": "https://github.com/brilliant-hq/brilliant-mcp",
+      "description": "MCP server that lets Gemini CLI create and edit vector designs on a Brilliant canvas you edit by hand at the same time. Install: gemini mcp add brilliant -- npx -y @brilliant-hq/mcp.",
       "section": [
         "MCP Servers"
       ]

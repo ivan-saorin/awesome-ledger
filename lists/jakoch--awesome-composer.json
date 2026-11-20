@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f9b4e97452ba4800f07f2073e140610d91d0e43285192eb7ecf46965acfa9bed\"",
+  "etag": "W/\"40d72b6a7d1665df3d311407364909de33e295ae31379eb8334bb243001674e4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1403,6 +1403,15 @@
       "name": "RepoFlow",
       "url": "https://www.repoflow.io",
       "description": "Simple and fast platform for hosting private Composer registries. Also supports Docker, npm, PyPI, Maven, and RubyGems. Offers free options for both cloud and self-hosted setups.",
+      "section": [
+        "Packagist-compatible repositories"
+      ]
+    },
+    {
+      "key": "https://buddy.works/blog/composer-private-packages",
+      "name": "Buddy",
+      "url": "https://buddy.works/blog/composer-private-packages",
+      "description": "Composer registry for private PHP packages in the Buddy.Works cloud. Packages are published from a pipeline with the Composer Publish action or with bdy artifact composer publish, and installed with composer install and an access token.",
       "section": [
         "Packagist-compatible repositories"
       ]

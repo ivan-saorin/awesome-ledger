@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4b525a44b3778f011b8f90c3e8df129b03b392b86494c8905902c80fd38e0118\"",
+  "etag": "W/\"061541361ad8fbee5fbcd0281afa6b7f145210d9606d4ed2528f62d4ab05ae21\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1158,6 +1158,16 @@
       "name": "ShipShape",
       "url": "https://github.com/Shadysmetools/shipshape",
       "description": "Open-source (MIT) Claude Code plugin that turns a plain-language goal into Playwright browser tests, runs each scenario twice to flag flaky results, and writes an offline HTML report with recorded video.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/restspace/sitelooper",
+      "name": "sitelooper",
+      "url": "https://github.com/restspace/sitelooper",
+      "description": "Open-source (MIT) CLI that records a browser flow from plain-English steps with an LLM agent, then compiles it into a standalone Playwright spec that runs in CI with no model, and repairs the spec when the app changes.",
       "section": [
         "Software",
         "UI & End-to-End Testing"

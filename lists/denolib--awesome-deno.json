@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6697a6a09679862ac9fc01a0d3e989d2420a3a0a075ff05d4c936503fe050198\"",
+  "etag": "W/\"76342372ebeeb797c76c93a8d5616377de0b32526bc62b1dad00c5275d3e341f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -54,16 +54,6 @@
       ]
     },
     {
-      "key": "https://github.com/fakoua/SwissKnife",
-      "name": "swissknife",
-      "url": "https://github.com/fakoua/SwissKnife",
-      "description": "SwissKnife - Deno Swiss Knife tools for Windows.",
-      "section": [
-        "Modules",
-        "Automation"
-      ]
-    },
-    {
       "key": "https://github.com/zuke-build/zuke",
       "name": "zuke",
       "url": "https://github.com/zuke-build/zuke",
@@ -78,16 +68,6 @@
       "name": "cac",
       "url": "https://github.com/cacjs/cac",
       "description": "Simple yet powerful framework for building command-line apps.",
-      "section": [
-        "Modules",
-        "CLI utils"
-      ]
-    },
-    {
-      "key": "https://github.com/littletof/charmd",
-      "name": "charmd",
-      "url": "https://github.com/littletof/charmd",
-      "description": "A simple, extendable markdown renderer for your terminal.",
       "section": [
         "Modules",
         "CLI utils"
@@ -134,16 +114,6 @@
       ]
     },
     {
-      "key": "https://github.com/Im-Beast/deno_tui",
-      "name": "tui",
-      "url": "https://github.com/Im-Beast/deno_tui",
-      "description": "Module which allows easy creation of Terminal User Interfaces.",
-      "section": [
-        "Modules",
-        "CLI utils"
-      ]
-    },
-    {
       "key": "https://github.com/yargs/yargs",
       "name": "yargs",
       "url": "https://github.com/yargs/yargs",
@@ -154,9 +124,9 @@
       ]
     },
     {
-      "key": "https://aws-api.deno.dev",
+      "key": "https://aws-api.danopia.deno.net",
       "name": "aws-api",
-      "url": "https://aws-api.deno.dev/",
+      "url": "https://aws-api.danopia.deno.net/",
       "description": "From-scratch Typescript AWS API client built for Deno.",
       "section": [
         "Modules",
@@ -184,50 +154,10 @@
       ]
     },
     {
-      "key": "https://github.com/Kirlovon/aloedb",
-      "name": "aloedb",
-      "url": "https://github.com/Kirlovon/aloedb",
-      "description": "Light, Embeddable, NoSQL database for Deno without dependencies.",
-      "section": [
-        "Modules",
-        "Database"
-      ]
-    },
-    {
       "key": "https://github.com/denodrivers/mongo",
       "name": "deno_mongo",
       "url": "https://github.com/denodrivers/mongo",
       "description": "MongoDB database driver.",
-      "section": [
-        "Modules",
-        "Database"
-      ]
-    },
-    {
-      "key": "https://github.com/denodrivers/mysql",
-      "name": "deno_mysql",
-      "url": "https://github.com/denodrivers/mysql",
-      "description": "MySQL database driver.",
-      "section": [
-        "Modules",
-        "Database"
-      ]
-    },
-    {
-      "key": "https://github.com/eveningkid/denodb",
-      "name": "denodb",
-      "url": "https://github.com/eveningkid/denodb",
-      "description": "MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.",
-      "section": [
-        "Modules",
-        "Database"
-      ]
-    },
-    {
-      "key": "https://github.com/roonie007/dongoose",
-      "name": "dongoose",
-      "url": "https://github.com/roonie007/dongoose",
-      "description": "A simple and easy to use ORM for Deno KV.",
       "section": [
         "Modules",
         "Database"
@@ -284,16 +214,6 @@
       ]
     },
     {
-      "key": "https://github.com/yooneskh/yongo",
-      "name": "yongo",
-      "url": "https://github.com/yooneskh/yongo",
-      "description": "Subset of Mongoose api in deno (like populate) but will not fully copy mongoose",
-      "section": [
-        "Modules",
-        "Database"
-      ]
-    },
-    {
       "key": "https://github.com/vim-denops/denops.vim",
       "name": "Denops",
       "url": "https://github.com/vim-denops/denops.vim",
@@ -308,26 +228,6 @@
       "name": "fresh",
       "url": "https://github.com/freshframework/fresh",
       "description": "The next-gen web framework.",
-      "section": [
-        "Modules",
-        "Frontend framework"
-      ]
-    },
-    {
-      "key": "https://github.com/kt3k/packup",
-      "name": "packup",
-      "url": "https://github.com/kt3k/packup",
-      "description": "Zero-config web application packager for Deno.",
-      "section": [
-        "Modules",
-        "Frontend framework"
-      ]
-    },
-    {
-      "key": "https://github.com/exhibitionist-digital/ultra",
-      "name": "ultra",
-      "url": "https://github.com/exhibitionist-digital/ultra",
-      "description": "💎 Modern Streaming React Framework in Deno.",
       "section": [
         "Modules",
         "Frontend framework"
@@ -384,16 +284,6 @@
       ]
     },
     {
-      "key": "https://github.com/retraigo/monke",
-      "name": "monke",
-      "url": "https://github.com/retraigo/monke",
-      "description": "Color quantization and dithering library with extra image filters (blur, invert, etc).",
-      "section": [
-        "Modules",
-        "Image"
-      ]
-    },
-    {
       "key": "https://github.com/dahlia/logtape",
       "name": "LogTape",
       "url": "https://github.com/dahlia/logtape",
@@ -401,46 +291,6 @@
       "section": [
         "Modules",
         "Logging"
-      ]
-    },
-    {
-      "key": "https://github.com/retraigo/appraisal",
-      "name": "appraisal",
-      "url": "https://github.com/retraigo/appraisal",
-      "description": "Feature extraction and conversion.",
-      "section": [
-        "Modules",
-        "Machine learning"
-      ]
-    },
-    {
-      "key": "https://github.com/retraigo/la-classy",
-      "name": "classy-lala",
-      "url": "https://github.com/retraigo/la-classy",
-      "description": "Single-layer perceptrons for supervised learning tasks.",
-      "section": [
-        "Modules",
-        "Machine learning"
-      ]
-    },
-    {
-      "key": "https://github.com/denosaurs/netsaur",
-      "name": "netsaur",
-      "url": "https://github.com/denosaurs/netsaur",
-      "description": "Powerful machine learning, accelerated by WebGPU",
-      "section": [
-        "Modules",
-        "Machine learning"
-      ]
-    },
-    {
-      "key": "https://github.com/manyuanrong/deno-smtp",
-      "name": "deno-smtp",
-      "url": "https://github.com/manyuanrong/deno-smtp",
-      "description": "A smtp mail sender for deno.",
-      "section": [
-        "Modules",
-        "Mail"
       ]
     },
     {
@@ -464,30 +314,10 @@
       ]
     },
     {
-      "key": "https://github.com/denosaurs/neo",
-      "name": "neo",
-      "url": "https://github.com/denosaurs/neo/",
-      "description": "Matrix and other math, accelerated by WebGPU",
-      "section": [
-        "Modules",
-        "Math"
-      ]
-    },
-    {
       "key": "https://github.com/lumeland/lume",
       "name": "lume",
       "url": "https://github.com/lumeland/lume",
       "description": "A static site generator similar to Jekyll or Eleventy with support for multiple file formats.",
-      "section": [
-        "Modules",
-        "Static site generator"
-      ]
-    },
-    {
-      "key": "https://github.com/xcatliu/pagic",
-      "name": "pagic",
-      "url": "https://github.com/xcatliu/pagic",
-      "description": "The easiest way to generate static html page from markdown, built with Deno.",
       "section": [
         "Modules",
         "Static site generator"
@@ -501,16 +331,6 @@
       "section": [
         "Modules",
         "Static site generator"
-      ]
-    },
-    {
-      "key": "https://github.com/vixalien/written",
-      "name": "written",
-      "url": "https://github.com/vixalien/written",
-      "description": "A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.",
-      "section": [
-        "Modules",
-        "String utils"
       ]
     },
     {
@@ -554,16 +374,6 @@
       ]
     },
     {
-      "key": "https://github.com/syumai/dejs",
-      "name": "dejs",
-      "url": "https://github.com/syumai/dejs",
-      "description": "Ejs template engine for deno.",
-      "section": [
-        "Modules",
-        "Template engine"
-      ]
-    },
-    {
       "key": "https://github.com/bgub/eta",
       "name": "eta",
       "url": "https://github.com/bgub/eta",
@@ -571,26 +381,6 @@
       "section": [
         "Modules",
         "Template engine"
-      ]
-    },
-    {
-      "key": "https://github.com/alosaur/handlebars",
-      "name": "handlebars",
-      "url": "https://github.com/alosaur/handlebars",
-      "description": "Handlebars template engine for deno",
-      "section": [
-        "Modules",
-        "Template engine"
-      ]
-    },
-    {
-      "key": "https://github.com/lucacasonato/deno-puppeteer",
-      "name": "deno-puppeteer",
-      "url": "https://github.com/lucacasonato/deno-puppeteer",
-      "description": "A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.",
-      "section": [
-        "Modules",
-        "Testing"
       ]
     },
     {
@@ -624,9 +414,9 @@
       ]
     },
     {
-      "key": "https://deno.land/x/tepi",
+      "key": "https://github.com/jupegarnica/tepi",
       "name": "tepi",
-      "url": "https://deno.land/x/tepi",
+      "url": "https://github.com/jupegarnica/tepi",
       "description": "A .http Test Runner",
       "section": [
         "Modules",
@@ -641,26 +431,6 @@
       "section": [
         "Modules",
         "Testing"
-      ]
-    },
-    {
-      "key": "https://github.com/jacoborus/deno-buckets",
-      "name": "buckets",
-      "url": "https://github.com/jacoborus/deno-buckets",
-      "description": "Bundle assets and scripts in a single executable file.",
-      "section": [
-        "Modules",
-        "Utils"
-      ]
-    },
-    {
-      "key": "https://github.com/retraigo/colors",
-      "name": "colors",
-      "url": "https://github.com/retraigo/colors",
-      "description": "Color conversions and operations in TypeScript.",
-      "section": [
-        "Modules",
-        "Utils"
       ]
     },
     {
@@ -694,40 +464,10 @@
       ]
     },
     {
-      "key": "https://github.com/yooneskh/deno-unified-config",
-      "name": "deno-config",
-      "url": "https://github.com/yooneskh/deno-unified-config",
-      "description": "Utility to streamline deno app configuration management through cli, .env and json files",
-      "section": [
-        "Modules",
-        "Utils"
-      ]
-    },
-    {
       "key": "https://github.com/hviana/deno_kv_fs",
       "name": "deno_kv_fs",
       "url": "https://github.com/hviana/deno_kv_fs",
       "description": "Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.",
-      "section": [
-        "Modules",
-        "Utils"
-      ]
-    },
-    {
-      "key": "https://github.com/denosaurs/denon",
-      "name": "denon",
-      "url": "https://github.com/denosaurs/denon",
-      "description": "A file watcher with a for-await generator.",
-      "section": [
-        "Modules",
-        "Utils"
-      ]
-    },
-    {
-      "key": "https://deno.land/x/dinoenv",
-      "name": "dinoenv",
-      "url": "https://deno.land/x/dinoenv",
-      "description": "tiny library to manage environment variables with deno.",
       "section": [
         "Modules",
         "Utils"
@@ -794,16 +534,6 @@
       ]
     },
     {
-      "key": "https://github.com/jupegarnica/garn-validator",
-      "name": "garn-validator",
-      "url": "https://github.com/jupegarnica/garn-validator",
-      "description": "Create validations with ease.",
-      "section": [
-        "Modules",
-        "Utils"
-      ]
-    },
-    {
       "key": "https://github.com/Masyaka/injecute",
       "name": "injecute",
       "url": "https://github.com/Masyaka/injecute",
@@ -818,16 +548,6 @@
       "name": "json-schema-for-llms",
       "url": "https://github.com/carmenaresearch/json-schema-for-llms",
       "description": "Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.",
-      "section": [
-        "Modules",
-        "Utils"
-      ]
-    },
-    {
-      "key": "https://deno.land/x/localekit",
-      "name": "locale-kit",
-      "url": "https://deno.land/x/localekit",
-      "description": "(GitHub) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.",
       "section": [
         "Modules",
         "Utils"
@@ -934,16 +654,6 @@
       ]
     },
     {
-      "key": "https://github.com/predetermined/aqua",
-      "name": "aqua",
-      "url": "https://github.com/predetermined/aqua",
-      "description": "A minimal and fast web framework for Deno.",
-      "section": [
-        "Modules",
-        "Web framework"
-      ]
-    },
-    {
       "key": "https://github.com/Savory/Danet",
       "name": "danet",
       "url": "https://github.com/Savory/Danet",
@@ -994,26 +704,6 @@
       ]
     },
     {
-      "key": "https://github.com/cmorten/opine-http-proxy",
-      "name": "opine-http-proxy",
-      "url": "https://github.com/cmorten/opine-http-proxy",
-      "description": "Proxy middleware for Deno Opine HTTP servers.",
-      "section": [
-        "Modules",
-        "Web framework"
-      ]
-    },
-    {
-      "key": "https://github.com/cmorten/opine",
-      "name": "opine",
-      "url": "https://github.com/cmorten/opine",
-      "description": "Fast, minimalist web framework ported from ExpressJS.",
-      "section": [
-        "Modules",
-        "Web framework"
-      ]
-    },
-    {
       "key": "https://github.com/middleapi/orpc",
       "name": "orpc",
       "url": "https://github.com/middleapi/orpc",
@@ -1024,50 +714,10 @@
       ]
     },
     {
-      "key": "https://github.com/denyncrawford/dropper-deno",
-      "name": "dropper",
-      "url": "https://github.com/denyncrawford/dropper-deno",
-      "description": "Custom event-based WebSockets framework for building real-time apps on Deno 🦕",
-      "section": [
-        "Modules",
-        "WebSocket"
-      ]
-    },
-    {
-      "key": "https://github.com/drashland/wocket",
-      "name": "wocket",
-      "url": "https://github.com/drashland/wocket",
-      "description": "A WebSocket library for Deno.",
-      "section": [
-        "Modules",
-        "WebSocket"
-      ]
-    },
-    {
-      "key": "https://github.com/Zaubrik/djwt",
-      "name": "djwt",
-      "url": "https://github.com/Zaubrik/djwt",
-      "description": "Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.",
-      "section": [
-        "Modules",
-        "Web utils"
-      ]
-    },
-    {
       "key": "https://github.com/deno-libs/forwarded",
       "name": "forwarded",
       "url": "https://github.com/deno-libs/forwarded",
       "description": "Deno port of forwarded library.",
-      "section": [
-        "Modules",
-        "Web utils"
-      ]
-    },
-    {
-      "key": "https://github.com/timonson/gentle_rpc",
-      "name": "gentleRpc",
-      "url": "https://github.com/timonson/gentle_rpc",
-      "description": "A JSON-RPC 2.0 TypeScript library for Deno and the browser.",
       "section": [
         "Modules",
         "Web utils"
@@ -1104,50 +754,10 @@
       ]
     },
     {
-      "key": "https://github.com/nats-io/nats.deno",
-      "name": "nats",
-      "url": "https://github.com/nats-io/nats.deno",
-      "description": "A Deno client for the NATS messaging system.",
-      "section": [
-        "Modules",
-        "Web utils"
-      ]
-    },
-    {
-      "key": "https://github.com/open-source-labs/obsidian",
-      "name": "obsidian",
-      "url": "https://github.com/open-source-labs/obsidian",
-      "description": "A native GraphQL caching client and server module.",
-      "section": [
-        "Modules",
-        "Web utils"
-      ]
-    },
-    {
-      "key": "https://github.com/zhmushan/router",
-      "name": "router",
-      "url": "https://github.com/zhmushan/router",
-      "description": "A high-performance basic router works anywhere.",
-      "section": [
-        "Modules",
-        "Web utils"
-      ]
-    },
-    {
       "key": "https://github.com/deno-libs/rpc",
       "name": "rpc",
       "url": "https://github.com/deno-libs/rpc",
       "description": "JSONRPC server implementation for Deno.",
-      "section": [
-        "Modules",
-        "Web utils"
-      ]
-    },
-    {
-      "key": "https://github.com/marcopacini/ts_prometheus",
-      "name": "ts-prometheus",
-      "url": "https://github.com/marcopacini/ts_prometheus",
-      "description": "A prometheus client.",
       "section": [
         "Modules",
         "Web utils"
@@ -1164,29 +774,10 @@
       ]
     },
     {
-      "key": "https://github.com/Maxim-Mazurok/sax-ts",
-      "name": "sax-ts",
-      "url": "https://github.com/Maxim-Mazurok/sax-ts",
-      "description": "SAX-style XML parser ported from sax-js.",
-      "section": [
-        "Modules",
-        "XML"
-      ]
-    },
-    {
       "key": "https://deno.land/x",
       "name": "deno.land/x/",
       "url": "https://deno.land/x/",
       "description": "The official 3rd party module registry.",
-      "section": [
-        "Registries"
-      ]
-    },
-    {
-      "key": "https://nest.land",
-      "name": "nest.land",
-      "url": "https://nest.land",
-      "description": "An immutable, blockchain powered Deno package registry. 🥚",
       "section": [
         "Registries"
       ]
@@ -1205,15 +796,6 @@
       "name": "Deno Rest",
       "url": "https://github.com/Prolifode/deno_rest",
       "description": "A Boilerplate for deno RESTful apis.",
-      "section": [
-        "Showcases"
-      ]
-    },
-    {
-      "key": "https://github.com/edrys-org/edrys",
-      "name": "Edrys",
-      "url": "https://github.com/edrys-org/edrys",
-      "description": "Remote Teaching Software",
       "section": [
         "Showcases"
       ]
@@ -1255,9 +837,9 @@
       ]
     },
     {
-      "key": "https://deno.land/showcase",
+      "key": "https://deno.com/showcase",
       "name": "The Official Showcase",
-      "url": "https://deno.land/showcase",
+      "url": "https://deno.com/showcase",
       "description": "The official showcase of Deno.",
       "section": [
         "Showcases"
@@ -1300,15 +882,6 @@
       ]
     },
     {
-      "key": "https://github.com/denoflow/denoflow",
-      "name": "denoflow",
-      "url": "https://github.com/denoflow/denoflow",
-      "description": "Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/garronej/denoify",
       "name": "denoify",
       "url": "https://github.com/garronej/denoify",
@@ -1336,28 +909,10 @@
       ]
     },
     {
-      "key": "https://github.com/apps/denopendabot",
-      "name": "denopendabot",
-      "url": "https://github.com/apps/denopendabot",
-      "description": "Dependabot for Deno projects.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/egoist-labs/denopkg.com",
       "name": "denopkg",
       "url": "https://github.com/egoist-labs/denopkg.com",
       "description": "An easier way to use code from GitHub in your Deno project.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/theGEBIRGE/DenoDig",
-      "name": "Deno Dig",
-      "url": "https://github.com/theGEBIRGE/DenoDig",
-      "description": "A tool for extracting application code and npm packages from stand-alone Deno executables.",
       "section": [
         "Tools"
       ]
@@ -1372,28 +927,10 @@
       ]
     },
     {
-      "key": "https://github.com/drashland/dmm",
-      "name": "dmm",
-      "url": "https://github.com/drashland/dmm",
-      "description": "Lightweight Deno Module Manager",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/denoland/dnt",
       "name": "dnt",
       "url": "https://github.com/denoland/dnt",
       "description": "Deno to npm package build tool.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/dpmland/dpm",
-      "name": "dpm",
-      "url": "https://github.com/dpmland/dpm",
-      "description": "Deno Package Manager, a NPM | Yarn Experience for Deno",
       "section": [
         "Tools"
       ]
@@ -1417,37 +954,10 @@
       ]
     },
     {
-      "key": "https://github.com/axetroy/dvm",
-      "name": "axetroy/dvm",
-      "url": "https://github.com/axetroy/dvm",
-      "description": "Version manger for Deno without runtime dependencies.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/ghosind/dvm",
       "name": "ghosind/dvm",
       "url": "https://github.com/ghosind/dvm",
       "description": "A lightweight Deno Version Manager for Linux/MacOS.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/bcheidemann/entype",
-      "name": "entype",
-      "url": "https://github.com/bcheidemann/entype",
-      "description": "A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/littletof/kopo-cli",
-      "name": "kopo-cli",
-      "url": "https://github.com/littletof/kopo-cli",
-      "description": "A Deno registry browser in the terminal.",
       "section": [
         "Tools"
       ]
@@ -1489,24 +999,6 @@
       ]
     },
     {
-      "key": "https://github.com/crewdevio/Trex",
-      "name": "trex",
-      "url": "https://github.com/crewdevio/Trex",
-      "description": "Package management like npm for deno.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
-      "key": "https://github.com/hayd/deno-udd",
-      "name": "udd",
-      "url": "https://github.com/hayd/deno-udd",
-      "description": "Update Deno dependencies: updates import statements to their latest published version.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/denoland/vscode_deno",
       "name": "vscode-deno",
       "url": "https://github.com/denoland/vscode_deno",
@@ -1516,18 +1008,18 @@
       ]
     },
     {
-      "key": "https://docs.netlify.com/edge-functions/overview",
+      "key": "https://docs.netlify.com/build/edge-functions/overview",
       "name": "Netlify Edge Functions",
-      "url": "https://docs.netlify.com/edge-functions/overview/",
+      "url": "https://docs.netlify.com/build/edge-functions/overview/",
       "description": "Edge Functions connect the Netlify platform and workflow.",
       "section": [
         "Integrations"
       ]
     },
     {
-      "key": "https://api.slack.com/future/functions/custom",
+      "key": "https://docs.slack.dev/tools/deno-slack-sdk/guides/creating-custom-functions",
       "name": "Slack Custom Functions",
-      "url": "https://api.slack.com/future/functions/custom",
+      "url": "https://docs.slack.dev/tools/deno-slack-sdk/guides/creating-custom-functions/",
       "description": "Build custom Run On Slack functions using Deno.",
       "section": [
         "Integrations"
@@ -1691,15 +1183,6 @@
       "name": "The Hidden Superpower of Deno: xeval",
       "url": "https://stefanbuck.com/blog/hidden-superpower-deno-xeval",
       "description": "",
-      "section": [
-        "Articles"
-      ]
-    },
-    {
-      "key": "https://robinwieruch.de/deno-tutorial",
-      "name": "0",
-      "url": "https://www.robinwieruch.de/deno-tutorial",
-      "description": ", 1, 2",
       "section": [
         "Articles"
       ]
