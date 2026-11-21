@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"17177cda1e0886d0e6ba73978ccc221767b6634dd6511bb7b288177884c35089\"",
+  "etag": "W/\"7520108f1769190610f930e3f75d4e798b9ae972bde94583f716c2b867007c37\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -8936,6 +8936,15 @@
       "name": "Protocol Puffers",
       "url": "https://github.com/PragmaTwice/protopuf",
       "description": "A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20. [Apache-2.0]",
+      "section": [
+        "Serialization"
+      ]
+    },
+    {
+      "key": "https://github.com/VeaaC/rapidproto",
+      "name": "RapidProto",
+      "url": "https://github.com/VeaaC/rapidproto",
+      "description": "A fast Protocol Buffers decoder generator for C++ and Rust. [Apache-2.0]",
       "section": [
         "Serialization"
       ]

@@ -1,24 +1,105 @@
 {
-  "etag": "W/\"acdb336f911478624d592f639614cf532cf8086fc3c5844930810035e3e5cc64\"",
+  "etag": "W/\"47a9394f62b913369f105801c804742ce0fe116c5e644064f71bafa0e1153e18\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
     {
       "key": "https://platform.uno/platforms",
-      "name": "Uno Platform website",
-      "url": "https://platform.uno/platforms",
-      "description": "",
+      "name": "Uno Platform Website",
+      "url": "https://platform.uno/platforms/",
+      "description": "Supported platforms, features and product overview.",
       "section": [
         "General"
       ]
     },
     {
-      "key": "https://docs.platform.uno",
-      "name": "Uno Platform documentation",
-      "url": "https://docs.platform.uno/",
-      "description": "",
+      "key": "https://platform.uno/docs/articles/intro.html",
+      "name": "Uno Platform Documentation",
+      "url": "https://platform.uno/docs/articles/intro.html",
+      "description": "Guides, tutorials and API reference.",
       "section": [
         "General"
+      ]
+    },
+    {
+      "key": "https://new.platform.uno",
+      "name": "Live Wizard",
+      "url": "https://new.platform.uno/",
+      "description": "Browser-based wizard that configures a new project and generates the matching dotnet new command.",
+      "section": [
+        "General"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/get-started.html",
+      "name": "Get Started Guide",
+      "url": "https://platform.uno/docs/articles/get-started.html",
+      "description": "Environment setup for each OS, IDE and AI agent, leading into the first-app tutorials.",
+      "section": [
+        "General"
+      ]
+    },
+    {
+      "key": "https://platform.uno/discord",
+      "name": "Discord",
+      "url": "https://platform.uno/discord",
+      "description": "Official chat server for questions, help and announcements.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno/discussions",
+      "name": "GitHub Discussions",
+      "url": "https://github.com/unoplatform/uno/discussions",
+      "description": "Q&A, ideas and show-and-tell forum on the main repository.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://stackoverflow.com/questions/tagged/uno-platform",
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/questions/tagged/uno-platform",
+      "description": "Q&A tag for framework and tooling questions.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://x.com/UnoPlatform",
+      "name": "X (Twitter)",
+      "url": "https://x.com/UnoPlatform",
+      "description": "Official account for release news and community highlights.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://linkedin.com/company/uno-platform",
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/uno-platform/",
+      "description": "Official company page with product and release updates.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://reddit.com/r/unoplatform",
+      "name": "r/unoplatform",
+      "url": "https://www.reddit.com/r/unoplatform/",
+      "description": "Official subreddit for news, tutorials and questions.",
+      "section": [
+        "Community"
+      ]
+    },
+    {
+      "key": "https://platform.uno/newsletter-sign-up",
+      "name": "Uno Platform Newsletter",
+      "url": "https://platform.uno/newsletter-sign-up/",
+      "description": "Email newsletter with release news, blog posts, tutorials and Uno Tech Bites videos.",
+      "section": [
+        "Community"
       ]
     },
     {
@@ -79,61 +160,266 @@
       "key": "https://github.com/unoplatform/Uno.UITest",
       "name": "Uno UI Test",
       "url": "https://github.com/unoplatform/Uno.UITest",
-      "description": "Cross-platform UI testing library for Android, iOS and WebAssembly.",
+      "description": "Xamarin.UITest-style UI testing, using Selenium for WebAssembly and Xamarin.UITest for Android and iOS.",
       "section": [
         "Repositories"
       ]
     },
     {
       "key": "https://marketplace.visualstudio.com/items?itemName=unoplatform.uno-platform-addin-2022",
-      "name": "Uno Platform extension for Visual Studio 2022",
+      "name": "Uno Platform Extension for Visual Studio",
       "url": "https://marketplace.visualstudio.com/items?itemName=unoplatform.uno-platform-addin-2022",
-      "description": "Adds Uno Platform project templates and hot reload functionality to Visual Studio 2022.",
+      "description": "Project templates, Hot Reload and Hot Design tooling for Visual Studio 2022 and 2026.",
       "section": [
-        "Tools"
+        "Tools",
+        "IDE and Design"
       ]
     },
     {
       "key": "https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode",
-      "name": "Uno Platform extension for Visual Studio Code",
+      "name": "Uno Platform Extension for Visual Studio Code",
       "url": "https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode",
       "description": "Adds a range of productivity boosters to Visual Studio Code, including XAML IntelliSense, Hot Reload, and mobile target debugging support.",
       "section": [
-        "Tools"
+        "Tools",
+        "IDE and Design"
       ]
     },
     {
-      "key": "https://github.com/unoplatform/uno.extensions",
-      "name": "Uno Extensions",
-      "url": "https://github.com/unoplatform/uno.extensions",
-      "description": "A series of NuGet packages for commonly used functions associated with building multi-platform applications using Uno Platform.",
+      "key": "https://figma.com/community/plugin/1045528009520465828/uno-platform-figma-to-c-or-xaml",
+      "name": "Uno Platform for Figma",
+      "url": "https://www.figma.com/community/plugin/1045528009520465828/uno-platform-figma-to-c-or-xaml",
+      "description": "Figma plugin that generates responsive XAML or C# Markup from high-fidelity designs.",
       "section": [
-        "Tools"
-      ]
-    },
-    {
-      "key": "https://figma.com/community/plugin/1045528009520465828/Uno-Platform-(Figma-to-XAML)",
-      "name": "Uno Platform for Figma Plugin",
-      "url": "https://www.figma.com/community/plugin/1045528009520465828/Uno-Platform-(Figma-to-XAML)",
-      "description": "Figma Plugin to generate responsive XAML from High-fidelity designs.",
-      "section": [
-        "Tools"
+        "Tools",
+        "IDE and Design"
       ]
     },
     {
       "key": "https://figma.com/community/file/1110792522046146058/Uno-Platform-Material-Toolkit",
       "name": "Uno Material Toolkit",
       "url": "https://www.figma.com/community/file/1110792522046146058/Uno-Platform-Material-Toolkit",
-      "description": "Figma File to use with Uno Figma Plugin.",
+      "description": "Figma file to use with the Figma plugin.",
       "section": [
-        "Tools"
+        "Tools",
+        "IDE and Design"
       ]
     },
     {
-      "key": "https://github.com/unoplatform/Uno.WindowsCommunityToolkit",
-      "name": "Windows Community Toolkit for Uno",
-      "url": "https://github.com/unoplatform/Uno.WindowsCommunityToolkit",
-      "description": "Uno Platform fork of Microsoft Community Toolkit.",
+      "key": "https://platform.uno/studio",
+      "name": "Uno Platform Studio",
+      "url": "https://platform.uno/studio/",
+      "description": "Productivity suite bundling Hot Reload, Hot Design, design-to-code, MCP servers and an AI agent, usable from any IDE or OS.",
+      "section": [
+        "Tools",
+        "IDE and Design"
+      ]
+    },
+    {
+      "key": "https://platform.uno/hot-design",
+      "name": "Hot Design",
+      "url": "https://platform.uno/hot-design/",
+      "description": "Agentic visual designer that turns the running app into an editable design surface, from Visual Studio, VS Code or Rider.",
+      "section": [
+        "Tools",
+        "IDE and Design"
+      ]
+    },
+    {
+      "key": "https://platform.uno/hot-reload",
+      "name": "Hot Reload",
+      "url": "https://platform.uno/hot-reload/",
+      "description": "Applies XAML and C# changes to the running app on every target without rebuilding, free in the Community tier.",
+      "section": [
+        "Tools",
+        "IDE and Design"
+      ]
+    },
+    {
+      "key": "https://plugins.jetbrains.com/plugin/24653-uno-platform",
+      "name": "Uno Platform Plugin for JetBrains Rider",
+      "url": "https://plugins.jetbrains.com/plugin/24653-uno-platform",
+      "description": "Rider plugin adding project templates, Hot Reload and Hot Design support.",
+      "section": [
+        "Tools",
+        "IDE and Design"
+      ]
+    },
+    {
+      "key": "https://github.com/wieslawsoltes/DevToolsUno",
+      "name": "DevToolsUno",
+      "url": "https://github.com/wieslawsoltes/DevToolsUno",
+      "description": "In-app diagnostics for inspecting the live visual tree, bindings, resources, styles, events and memory.",
+      "section": [
+        "Tools",
+        "IDE and Design"
+      ]
+    },
+    {
+      "key": "https://github.com/Xavalon/XamlStyler",
+      "name": "XAML Styler",
+      "url": "https://github.com/Xavalon/XamlStyler",
+      "description": "XAML formatter for Visual Studio, Rider and the command line, used to enforce markup style in the official repositories.",
+      "section": [
+        "Tools",
+        "IDE and Design"
+      ]
+    },
+    {
+      "key": "https://platform.uno/mcp",
+      "name": "Uno Platform MCP",
+      "url": "https://platform.uno/mcp/",
+      "description": "Free remote MCP server that grounds AI agents in the current documentation and API references.",
+      "section": [
+        "Tools",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/features/using-the-uno-mcps.html",
+      "name": "Uno App MCP",
+      "url": "https://platform.uno/docs/articles/features/using-the-uno-mcps.html#app-mcp-local",
+      "description": "Local MCP server that lets AI agents inspect and drive a running app through its visual tree, properties, clicks, typing and screenshots.",
+      "section": [
+        "Tools",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/studio",
+      "name": "Uno Platform Studio Agent Plugin",
+      "url": "https://github.com/unoplatform/studio",
+      "description": "Agent plugin with an app-building agent, topic skills (MVUX, navigation, Toolkit, themes, testing) and Hot Reload hooks for Claude Code, GitHub Copilot and Codex.",
+      "section": [
+        "Tools",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://studio.platform.uno",
+      "name": "Uno Platform Studio App",
+      "url": "https://studio.platform.uno/",
+      "description": "Browser-based AI app builder (Pro) that generates a project from a prompt, previews it live and exports it to your IDE.",
+      "section": [
+        "Tools",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/VincentH-Net/dotnet-agentic-engineering",
+      "name": "dotnet-agentic-engineering (dna)",
+      "url": "https://github.com/VincentH-Net/dotnet-agentic-engineering",
+      "description": "Agent directives, skills and tooling that detect a repo's stack (MVUX or MVVM, C# Markup, design system, SDK version) and install a matching skill set.",
+      "section": [
+        "Tools",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/noknowscode/UnoPlatformSkills",
+      "name": "Uno Platform Skills",
+      "url": "https://github.com/noknowscode/UnoPlatformSkills",
+      "description": "Claude Code skills covering MVUX, navigation, Toolkit, Material theming, C# Markup, WebAssembly and WPF migration.",
+      "section": [
+        "Tools",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://nuget.org/packages/Uno.DevServer",
+      "name": "Uno DevServer CLI",
+      "url": "https://www.nuget.org/packages/Uno.DevServer",
+      "description": "Dev Server CLI that registers the MCPs with AI agents, diagnoses the environment and drives a running app from scripts or CI.",
+      "section": [
+        "Tools",
+        "AI"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.check",
+      "name": "Uno.Check",
+      "url": "https://github.com/unoplatform/uno.check",
+      "description": "CLI that checks and installs the SDKs, workloads and tooling needed for each target platform.",
+      "section": [
+        "Tools",
+        "Build and Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.templates",
+      "name": "Uno.Templates and Uno.Sdk",
+      "url": "https://github.com/unoplatform/uno.templates",
+      "description": "The dotnet new app and library templates plus the single-project MSBuild SDK they build on.",
+      "section": [
+        "Tools",
+        "Build and Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/Uno.Wasm.Bootstrap",
+      "name": "Uno.Wasm.Bootstrap",
+      "url": "https://github.com/unoplatform/Uno.Wasm.Bootstrap",
+      "description": "MSBuild package that builds and hosts .NET code in the browser via WebAssembly, with AOT and PWA support.",
+      "section": [
+        "Tools",
+        "Build and Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.xamlmerge.task",
+      "name": "Uno.XamlMerge.Task",
+      "url": "https://github.com/unoplatform/uno.xamlmerge.task",
+      "description": "MSBuild task that merges a control library's resource dictionaries into a single file for faster resource lookup.",
+      "section": [
+        "Tools",
+        "Build and Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/HavenDV/DependencyPropertyGenerator",
+      "name": "DependencyPropertyGenerator",
+      "url": "https://github.com/HavenDV/DependencyPropertyGenerator",
+      "description": "Source generator for dependency properties, routed events and weak events, with automatic Uno detection.",
+      "section": [
+        "Tools",
+        "Build and Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/velopack/velopack",
+      "name": "Velopack",
+      "url": "https://github.com/velopack/velopack",
+      "description": "Installer and auto-update framework for desktop apps, with an official Uno sample and setup guide.",
+      "section": [
+        "Tools",
+        "Build and Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.resizetizer",
+      "name": "Uno.Resizetizer",
+      "url": "https://github.com/unoplatform/uno.resizetizer",
+      "description": "Build-time generation of app icons, splash screens and scaled images from SVG or PNG sources.",
+      "section": [
+        "Tools",
+        "Build and Deployment"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.ui.runtimetests.engine",
+      "name": "Uno.UI.RuntimeTests.Engine",
+      "url": "https://github.com/unoplatform/uno.ui.runtimetests.engine",
+      "description": "In-app MSTest runner for UI tests on devices, desktop and the browser, with NUnit reports and CI sharding.",
+      "section": [
+        "Tools",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.extensions",
+      "name": "Uno Extensions",
+      "url": "https://github.com/unoplatform/uno.extensions",
+      "description": "NuGet packages for navigation, DI, configuration, HTTP, localization and the MVUX reactive pattern.",
       "section": [
         "Libraries",
         "Toolkits"
@@ -143,10 +429,350 @@
       "key": "https://github.com/unoplatform/Uno.Telerik.UI-For-UWP",
       "name": "Telerik UI for Uno",
       "url": "https://github.com/unoplatform/Uno.Telerik.UI-For-UWP",
-      "description": "Fork of Telerik UI for UWP to support Uno Platform.",
+      "description": "Community port of the open-source Telerik UI for UWP controls.",
       "section": [
         "Libraries",
         "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/mzikmund-toolkit",
+      "name": "MZikmund Toolkit",
+      "url": "https://github.com/MartinZikmund/mzikmund-toolkit",
+      "description": "Reusable app services such as preferences storage and a ContentDialog coordinator, with a gallery sample app, by Martin Zikmund.",
+      "section": [
+        "Libraries",
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/CommunityToolkit/Windows",
+      "name": "Windows Community Toolkit",
+      "url": "https://github.com/CommunityToolkit/Windows",
+      "description": "Microsoft-backed collection of WinUI controls, helpers and extensions that ships builds for every target.",
+      "section": [
+        "Libraries",
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/Daoting/dt",
+      "name": "dt (搬运工)",
+      "url": "https://github.com/Daoting/dt",
+      "description": "Chinese-language framework for rapid line-of-business apps, with reusable client controls and backend microservices.",
+      "section": [
+        "Libraries",
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/Infragistics/uno-samples",
+      "name": "Infragistics Ultimate UI for Uno Platform",
+      "url": "https://github.com/Infragistics/uno-samples",
+      "description": "Commercial (beta) charts, data grid, geographic maps, gauges and dashboard components, with a samples browser.",
+      "section": [
+        "Libraries",
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/tobitege/Flowery.Uno",
+      "name": "Flowery.Uno",
+      "url": "https://github.com/tobitege/Flowery.Uno",
+      "description": "Over 100 DaisyUI-inspired themed controls, localized in 12 languages.",
+      "section": [
+        "Libraries",
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/kikipoulet/CherylUI.Uno",
+      "name": "CherylUI.Uno",
+      "url": "https://github.com/kikipoulet/CherylUI.Uno",
+      "description": "Mobile-styled controls and styles ported from the CherylUI library.",
+      "section": [
+        "Libraries",
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.fonts",
+      "name": "Uno.Fonts",
+      "url": "https://github.com/unoplatform/uno.fonts",
+      "description": "Font packages with Fluent and MDL2 icon fonts as drop-in Segoe replacements, plus Roboto, Open Sans and Inter.",
+      "section": [
+        "Libraries",
+        "Toolkits"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.monaco.editor",
+      "name": "Uno Monaco Editor",
+      "url": "https://github.com/unoplatform/uno.monaco.editor",
+      "description": "Monaco (VS Code) code editor control with language providers, diff view and two-way text binding for WebAssembly and desktop.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/Uno.ColorCode-Universal",
+      "name": "Uno ColorCode",
+      "url": "https://github.com/unoplatform/Uno.ColorCode-Universal",
+      "description": "Syntax highlighting library that renders source code into a RichTextBlock or HTML.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/Live-Charts/LiveCharts2",
+      "name": "LiveCharts2",
+      "url": "https://github.com/Live-Charts/LiveCharts2",
+      "description": "Interactive, animated charts, maps and gauges drawn with SkiaSharp.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/ScottPlot/ScottPlot",
+      "name": "ScottPlot",
+      "url": "https://github.com/ScottPlot/ScottPlot",
+      "description": "Interactive plotting library built for large scientific and high-density datasets.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/Mapsui/Mapsui",
+      "name": "Mapsui",
+      "url": "https://github.com/Mapsui/Mapsui",
+      "description": "Map component with tile layers, vector data and touch interaction.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/w-ahmad/WinUI.TableView",
+      "name": "WinUI.TableView",
+      "url": "https://github.com/w-ahmad/WinUI.TableView",
+      "description": "Lightweight, fast DataGrid control with Excel-like column filtering, sorting, editing and export.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/qian-o/WinUI.Dock",
+      "name": "WinUI.Dock",
+      "url": "https://github.com/qian-o/WinUI.Dock",
+      "description": "Visual Studio-style docking controls, with limited floating-window support.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/wieslawsoltes/UnoDock",
+      "name": "UnoDock",
+      "url": "https://github.com/wieslawsoltes/UnoDock",
+      "description": "IDE-style docking with documents, tool windows, auto-hide, floating windows and themes.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/wieslawsoltes/RibbonSpace",
+      "name": "RibbonSpace",
+      "url": "https://github.com/wieslawsoltes/RibbonSpace",
+      "description": "Office-style ribbon with adaptive layouts, contextual tabs, backstage, Quick Access Toolbar and KeyTips.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/lextudio/UnoEdit",
+      "name": "UnoEdit",
+      "url": "https://github.com/lextudio/UnoEdit",
+      "description": "Code editor control with syntax highlighting, ported from AvalonEdit.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/wieslawsoltes/ScreenKeyboardControl",
+      "name": "ScreenKeyboard",
+      "url": "https://github.com/wieslawsoltes/ScreenKeyboardControl",
+      "description": "Themable on-screen keyboard with glide typing, gestures, emoji and 90+ layouts.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/mcNets/UnoKeyboard",
+      "name": "UnoKeyboard",
+      "url": "https://github.com/mcNets/UnoKeyboard",
+      "description": "On-screen virtual keyboard for touch-screen desktop, Windows and WebAssembly apps.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/michaelstonis/Broadside",
+      "name": "Broadside",
+      "url": "https://github.com/michaelstonis/Broadside",
+      "description": "Fully managed PDF library for reading, writing, editing and rendering, with an embeddable viewer.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/verybadcat/CSharpMath",
+      "name": "CSharpMath",
+      "url": "https://github.com/verybadcat/CSharpMath",
+      "description": "LaTeX math typesetting and rendering, ported from iosMath.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/MriyaLab/Pysar",
+      "name": "Pysar",
+      "url": "https://github.com/MriyaLab/Pysar",
+      "description": "Report engine for paginated documents with an in-app report view, PDF export, printing and sharing.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/davidxuang/FluentIcons",
+      "name": "FluentIcons",
+      "url": "https://github.com/davidxuang/FluentIcons",
+      "description": "Fluent UI System Icons as icon controls, icon sources and markup extensions.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/0x5bfa/DesktopFlyouts",
+      "name": "DesktopFlyouts",
+      "url": "https://github.com/0x5bfa/DesktopFlyouts",
+      "description": "Desktop flyouts shown from tray icons or programmatically, including on Linux with X11.",
+      "section": [
+        "Libraries",
+        "Controls"
+      ]
+    },
+    {
+      "key": "https://github.com/mono/SkiaSharp",
+      "name": "SkiaSharp",
+      "url": "https://github.com/mono/SkiaSharp",
+      "description": "Cross-platform 2D graphics API based on Google's Skia, with XAML canvas views.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://github.com/wieslawsoltes/Svg.Skia",
+      "name": "Svg.Skia",
+      "url": "https://github.com/wieslawsoltes/Svg.Skia",
+      "description": "SVG rendering library with animated SVG controls and inline SVG authoring in XAML.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://github.com/wieslawsoltes/ProGPU",
+      "name": "ProGPU",
+      "url": "https://github.com/wieslawsoltes/ProGPU",
+      "description": "WebGPU-based rendering, composition, vector and text engine with an embeddable host control.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://github.com/qian-o/Zenith.NET",
+      "name": "Zenith.NET",
+      "url": "https://github.com/qian-o/Zenith.NET",
+      "description": "GPU graphics and compute abstraction over DirectX 12, Metal and Vulkan, with a rendering view control.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://ab4d.com/SharpEngine.aspx",
+      "name": "Ab4d.SharpEngine",
+      "url": "https://www.ab4d.com/SharpEngine.aspx",
+      "description": "Commercial cross-platform 3D rendering engine built on Vulkan, free for non-commercial open-source projects.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/controls/SKCanvasElement.html",
+      "name": "SKCanvasElement",
+      "url": "https://platform.uno/docs/articles/controls/SKCanvasElement.html",
+      "description": "Hardware-accelerated SkiaSharp drawing hosted directly in the XAML visual tree.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/controls/GLCanvasElement.html",
+      "name": "GLCanvasElement",
+      "url": "https://platform.uno/docs/articles/controls/GLCanvasElement.html",
+      "description": "OpenGL rendering through Silk.NET inside the XAML visual tree, with WebGL on WebAssembly.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/features/Lottie.html",
+      "name": "Lottie Animations",
+      "url": "https://platform.uno/docs/articles/features/Lottie.html",
+      "description": "Built-in Lottie playback through AnimatedVisualPlayer, rendered with Skottie or a managed engine.",
+      "section": [
+        "Libraries",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://visioforge.com",
+      "name": "VisioForge Media Framework",
+      "url": "https://www.visioforge.com/",
+      "description": "Commercial SDKs for video capture, playback, editing and streaming, including a cross-platform video view control.",
+      "section": [
+        "Libraries",
+        "Media"
+      ]
+    },
+    {
+      "key": "https://github.com/videolan/libvlcsharp",
+      "name": "LibVLCSharp",
+      "url": "https://github.com/videolan/libvlcsharp",
+      "description": "VLC-based media playback bindings with a MediaPlayerElement control for Windows, Android and iOS.",
+      "section": [
+        "Libraries",
+        "Media"
       ]
     },
     {
@@ -163,16 +789,16 @@
       "key": "https://prismlibrary.com",
       "name": "Prism",
       "url": "https://prismlibrary.com/",
-      "description": "Framewrok for building loosely coupled, modular, maintainable, and testable XAML applications.",
+      "description": "Framework for building loosely coupled, modular, maintainable, and testable XAML applications.",
       "section": [
         "Libraries",
         "MVVM"
       ]
     },
     {
-      "key": "https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction",
+      "key": "https://learn.microsoft.com/dotnet/communitytoolkit/mvvm",
       "name": "Microsoft MVVM Toolkit",
-      "url": "https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction",
+      "url": "https://learn.microsoft.com/dotnet/communitytoolkit/mvvm/",
       "description": "Modern, fast, and modular MVVM library.",
       "section": [
         "Libraries",
@@ -180,9 +806,159 @@
       ]
     },
     {
-      "key": "https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr",
+      "key": "https://github.com/unoplatform/Uno.microsoft-ui-reactor",
+      "name": "Microsoft.UI.Reactor for Uno",
+      "url": "https://github.com/unoplatform/Uno.microsoft-ui-reactor",
+      "description": "Experimental port of Microsoft's React-style framework for building UI from C# components and hooks without XAML.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/Uno.XamlBehaviors",
+      "name": "XAML Behaviors for Uno",
+      "url": "https://github.com/unoplatform/Uno.XamlBehaviors",
+      "description": "Port of XAML Behaviors with triggers, actions and InvokeCommandAction for non-Windows targets.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/reactiveui/ReactiveUI.Uno",
+      "name": "ReactiveUI.Uno",
+      "url": "https://github.com/reactiveui/ReactiveUI.Uno",
+      "description": "ReactiveUI integration with view bases, activation, routing, bindings and schedulers.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/Cysharp/R3",
+      "name": "R3",
+      "url": "https://github.com/Cysharp/R3",
+      "description": "Modern reimplementation of Reactive Extensions, with an extension package for dispatcher-timer and rendering-frame providers.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/Singulink/Singulink.UI",
+      "name": "Singulink UI Toolkit",
+      "url": "https://github.com/Singulink/Singulink.UI",
+      "description": "Strongly typed, deep-linkable MVVM navigation plus a task runner, XAML helpers and trimmed Fluent icon packs.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/nventive/Chinook.DynamicMvvm",
+      "name": "Chinook.DynamicMvvm",
+      "url": "https://github.com/nventive/Chinook.DynamicMvvm",
+      "description": "Declarative and extensible ViewModels, properties and commands, by nventive.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/nventive/Chinook.Navigation",
+      "name": "Chinook.Navigation",
+      "url": "https://github.com/nventive/Chinook.Navigation",
+      "description": "ViewModel-first stack, sections and modal navigation, by nventive.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/shinyorg/mediator",
+      "name": "Shiny Mediator",
+      "url": "https://github.com/shinyorg/mediator",
+      "description": "Mediator pattern library with app middleware for caching, offline, resilience and main-thread dispatch.",
+      "section": [
+        "Libraries",
+        "MVVM"
+      ]
+    },
+    {
+      "key": "https://github.com/DevTeam/Pure.DI",
+      "name": "Pure.DI",
+      "url": "https://github.com/DevTeam/Pure.DI",
+      "description": "Generates dependency injection object graphs at compile time without requiring a runtime container by Nikolay Pianikov.",
+      "section": [
+        "Libraries",
+        "Dependency Injection"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/Uno.AdMob",
+      "name": "Uno.AdMob",
+      "url": "https://github.com/MartinZikmund/Uno.AdMob",
+      "description": "Google AdMob banner, interstitial, rewarded and app open ads with UMP consent on Android and iOS.",
+      "section": [
+        "Libraries",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/Uno.RevenueCat",
+      "name": "Uno.RevenueCat",
+      "url": "https://github.com/MartinZikmund/Uno.RevenueCat",
+      "description": "RevenueCat in-app purchases and subscriptions for Android and iOS.",
+      "section": [
+        "Libraries",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/Uno.SQLitePCLRaw.Wasm",
+      "name": "Uno.SQLitePCLRaw.Wasm",
+      "url": "https://github.com/unoplatform/Uno.SQLitePCLRaw.Wasm",
+      "description": "SQLitePCLRaw provider that brings SQLite, sqlite-net and EF Core to WebAssembly apps.",
+      "section": [
+        "Libraries",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/shinyorg/shiny",
+      "name": "Shiny",
+      "url": "https://github.com/shinyorg/shiny",
+      "description": "Device and background services such as jobs, Bluetooth LE, push notifications, geofencing and GPS.",
+      "section": [
+        "Libraries",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/inthehand/32feet",
+      "name": "32feet.NET",
+      "url": "https://github.com/inthehand/32feet",
+      "description": "Bluetooth Classic, Bluetooth LE and NFC library with an API modeled on Web Bluetooth.",
+      "section": [
+        "Libraries",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/CommunityToolkit/Datasync",
+      "name": "Datasync Community Toolkit",
+      "url": "https://github.com/CommunityToolkit/Datasync",
+      "description": "Offline-capable data synchronization between client apps and an ASP.NET Core backend.",
+      "section": [
+        "Libraries",
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://learn.microsoft.com/aspnet/core/signalr/introduction",
       "name": "SignalR",
-      "url": "https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr",
+      "url": "https://learn.microsoft.com/aspnet/core/signalr/introduction",
       "description": "Cross-Platform Real-Time Communication with Uno & SignalR - Integration example for the SignalR framework.",
       "section": [
         "Libraries",
@@ -200,64 +976,122 @@
       ]
     },
     {
-      "key": "https://platform.uno/blog",
-      "name": "Official Uno Platform blog",
-      "url": "https://platform.uno/blog/",
-      "description": "Lists latest release notes, tutorials, and articles by Uno Platform maintainers as well as external contributors.",
+      "key": "https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Markup/Overview.html",
+      "name": "C# Markup",
+      "url": "https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Markup/Overview.html",
+      "description": "Fluent C# API for declaring UI, including bindings, styles and resources, as an alternative to XAML.",
       "section": [
-        "Blogs"
+        "Libraries",
+        "Compatibility"
       ]
     },
     {
-      "key": "https://jaylee.org",
-      "name": "Jerome Laban's blog",
-      "url": "https://jaylee.org/",
-      "description": "Blog of the CTO of Uno Platform.",
+      "key": "https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Maui/MauiOverview.html",
+      "name": ".NET MAUI Embedding",
+      "url": "https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Maui/MauiOverview.html",
+      "description": "Hosts .NET MAUI controls, including third-party vendor suites, inside apps on iOS, Android, macOS and Windows.",
       "section": [
-        "Blogs"
+        "Libraries",
+        "Compatibility"
       ]
     },
     {
-      "key": "https://blog.mzikmund.com/category/development/uno-platform",
-      "name": "Martin Zikmund blog",
-      "url": "https://blog.mzikmund.com/category/development/uno-platform/",
-      "description": "Uno Platform blog posts by Martin Zikmund.",
+      "key": "https://github.com/VincentH-Net/CSharpForMarkup",
+      "name": "C# Markup 2",
+      "url": "https://github.com/VincentH-Net/CSharpForMarkup",
+      "description": "Concise, declarative C# UI markup with Uno Toolkit, Navigation and MVUX support and dotnet new templates.",
       "section": [
-        "Blogs"
+        "Libraries",
+        "Compatibility"
       ]
     },
     {
-      "key": "https://nicksnettravels.builttoroam.com/tag/uno",
-      "name": "Nick's .NET Travels",
-      "url": "https://nicksnettravels.builttoroam.com/tag/uno/",
-      "description": "Uno Platform blog posts by Nick Randolph.",
+      "key": "https://github.com/majorsilence/Majorsilence.Forms",
+      "name": "Majorsilence.Forms",
+      "url": "https://github.com/majorsilence/Majorsilence.Forms",
+      "description": "Cross-platform Windows Forms API that runs WinForms-style apps on desktop, mobile and WebAssembly.",
       "section": [
-        "Blogs"
+        "Libraries",
+        "Compatibility"
       ]
     },
     {
-      "key": "https://ian.bebbs.co.uk/tags/uno-platform",
-      "name": "IObservable<Opinion>",
-      "url": "https://ian.bebbs.co.uk/tags/uno-platform",
-      "description": "Uno Platform blog posts by Ian Bebbington.",
+      "key": "https://github.com/MartinZikmund/Wayfarer",
+      "name": "Wayfarer",
+      "url": "https://github.com/MartinZikmund/Wayfarer",
+      "description": "Travel journal sample showcasing LinedFlowLayout, RichEditBox, Composition animations, multi-window and tvOS support.",
       "section": [
-        "Blogs"
+        "Samples"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/fun-with-skiasharp",
+      "name": "Fun with SkiaSharp",
+      "url": "https://github.com/MartinZikmund/fun-with-skiasharp",
+      "description": "Nineteen SkiaSharp visual demos and minigames from the SkiaSharp 4 launch event, with a live WebAssembly gallery.",
+      "section": [
+        "Samples"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/uno-app-template",
+      "name": "Uno App Template",
+      "url": "https://github.com/MartinZikmund/uno-app-template",
+      "description": "Opinionated app template with MVVM, DI, navigation, localization, versioning and multi-store release pipelines.",
+      "section": [
+        "Samples"
+      ]
+    },
+    {
+      "key": "https://github.com/unoplatform/uno.chefs",
+      "name": "Uno Chefs",
+      "url": "https://github.com/unoplatform/uno.chefs",
+      "description": "Official recipe reference app demonstrating MVUX, navigation, Material theming and Toolkit controls.",
+      "section": [
+        "Samples"
+      ]
+    },
+    {
+      "key": "https://github.com/JamesnetGroup/leagueoflegends-uno",
+      "name": "League of Legends Client",
+      "url": "https://github.com/JamesnetGroup/leagueoflegends-uno",
+      "description": "Recreation of the League of Legends client UI showing custom controls and a modular architecture for large XAML apps.",
+      "section": [
+        "Samples"
+      ]
+    },
+    {
+      "key": "https://github.com/nventive/UnoApplicationTemplate",
+      "name": "nventive Uno Application Template",
+      "url": "https://github.com/nventive/UnoApplicationTemplate",
+      "description": "Production-grade dotnet new mobile app template with MVVM, dependency injection, logging and built-in diagnostic tools.",
+      "section": [
+        "Samples"
+      ]
+    },
+    {
+      "key": "https://github.com/DevTKSS/DevTKSS.Uno.SampleApps",
+      "name": "DevTKSS Uno Sample Apps",
+      "url": "https://github.com/DevTKSS/DevTKSS.Uno.SampleApps",
+      "description": "Bilingual German and English sample apps and step-by-step tutorials covering MVUX, navigation and other Uno.Extensions features.",
+      "section": [
+        "Samples"
       ]
     },
     {
       "key": "https://playground.platform.uno",
       "name": "Uno Playground",
       "url": "https://playground.platform.uno",
-      "description": "App which allows you to experiment with Uno Platform C# and XAML right from the browser.",
+      "description": "Experiment with C# and XAML right from the browser.",
       "section": [
         "Live apps"
       ]
     },
     {
       "key": "https://calculator.platform.uno",
-      "name": "Windows Calculator",
+      "name": "Uno Calculator",
       "url": "https://calculator.platform.uno/",
-      "description": "WebAssembly port of the Windows 10 Calculator app.",
+      "description": "WebAssembly port of the Windows Calculator app.",
       "section": [
         "Live apps"
       ]
@@ -273,9 +1107,9 @@
     },
     {
       "key": "https://toolkitlabs.dev",
-      "name": "Toolkit Labs",
+      "name": "Windows Community Toolkit Gallery",
       "url": "https://toolkitlabs.dev/",
-      "description": "A place where new components for the Windows Community Toolkit are developed.",
+      "description": "Live gallery of Windows Community Toolkit controls and helpers, including experimental Labs components.",
       "section": [
         "Live apps"
       ]
@@ -285,6 +1119,69 @@
       "name": "Unexpected APIs in Uno Platform",
       "url": "https://unexpectedapis.uno/",
       "description": "Demo app including various UI and non-UI APIs that you can use in Uno Platform.",
+      "section": [
+        "Live apps"
+      ]
+    },
+    {
+      "key": "https://gallery.platform.uno",
+      "name": "Uno Gallery",
+      "url": "https://gallery.platform.uno/",
+      "description": "Browser version of the control and theme gallery with live samples and code snippets.",
+      "section": [
+        "Live apps"
+      ]
+    },
+    {
+      "key": "https://wieslawsoltes.github.io/UnoSpace",
+      "name": "Uno Space",
+      "url": "https://wieslawsoltes.github.io/UnoSpace/",
+      "description": "Seventeen local-first desktop-class apps, from a word processor and spreadsheet to PDF, CAD and Git tools, running in the browser.",
+      "section": [
+        "Live apps"
+      ]
+    },
+    {
+      "key": "https://fluentstopwatch.uno",
+      "name": "Fluent Stopwatch",
+      "url": "https://fluentstopwatch.uno/",
+      "description": "Stopwatch with multiple timers, laps and history, by Martin Zikmund.",
+      "section": [
+        "Live apps"
+      ]
+    },
+    {
+      "key": "https://martinzikmund.github.io/XamlMan",
+      "name": "XAML-MAN",
+      "url": "https://martinzikmund.github.io/XamlMan/",
+      "description": "Arcade-accurate Pac-Man clone rendered entirely in XAML, by Martin Zikmund.",
+      "section": [
+        "Live apps"
+      ]
+    },
+    {
+      "key": "https://happy-tree-0e73b8e10.3.azurestaticapps.net",
+      "name": "UnoDOOM",
+      "url": "https://happy-tree-0e73b8e10.3.azurestaticapps.net/",
+      "description": "Playable cross-platform DOOM port based on ManagedDoom, with a bundled Freedoom WAD, by Martin Zikmund.",
+      "section": [
+        "Live apps"
+      ]
+    },
+    {
+      "key": "https://roslynquoter-wasm.platform.uno",
+      "name": "Roslyn Quoter",
+      "url": "https://roslynquoter-wasm.platform.uno/",
+      "description": "Shows the Roslyn SyntaxFactory API calls that construct any given C# program.",
+      "section": [
+        "Live apps"
+      ]
+    },
+    {
+      "key": "https://sqliteefcore-wasm.platform.uno",
+      "name": "SQLite + Entity Framework Core in WebAssembly",
+      "url": "https://sqliteefcore-wasm.platform.uno/",
+      "description": "In-browser C# editor that compiles code with Roslyn and runs Entity Framework Core against SQLite.",
       "section": [
         "Live apps"
       ]
@@ -302,7 +1199,7 @@
       "key": "https://github.com/unoplatform/Uno.Playground",
       "name": "Uno Playground",
       "url": "https://github.com/unoplatform/Uno.Playground",
-      "description": "Uno Playground app with UI samples.",
+      "description": "Source code of the in-browser playground, with UI samples.",
       "section": [
         "Open-source apps"
       ]
@@ -311,7 +1208,7 @@
       "key": "https://github.com/unoplatform/calculator",
       "name": "Uno Calculator",
       "url": "https://github.com/unoplatform/calculator",
-      "description": "Port of the Windows 10 Calculator.",
+      "description": "Port of the open-source Windows Calculator to C# for iOS, macOS, Android, WebAssembly and Linux.",
       "section": [
         "Open-source apps"
       ]
@@ -336,11 +1233,452 @@
     },
     {
       "key": "https://github.com/ibebbs/CODuo",
-      "name": "COduo",
+      "name": "CODuo",
       "url": "https://github.com/ibebbs/CODuo",
       "description": "Visualizing the environmental impact of current and forecast energy generation in the UK. Designed for use on both single and dual-screen devices.",
       "section": [
         "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Eppie-io/Eppie-App",
+      "name": "Eppie",
+      "url": "https://github.com/Eppie-io/Eppie-App",
+      "description": "Encrypted peer-to-peer email client that also works with regular IMAP/SMTP accounts.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/daily-plants",
+      "name": "Daily Plants",
+      "url": "https://github.com/MartinZikmund/daily-plants",
+      "description": "Private checklist for Dr. Greger's Daily Dozen and Twenty-One Tweaks, with streaks, statistics and 21 languages.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/stopwatch",
+      "name": "Fluent Stopwatch",
+      "url": "https://github.com/MartinZikmund/stopwatch",
+      "description": "Stopwatch with multiple timers, laps and history, also usable in the browser.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/mzikmund",
+      "name": "MZikmund.dev",
+      "url": "https://github.com/MartinZikmund/mzikmund",
+      "description": "Personal website and blog platform with an ASP.NET Core backend and a cross-platform reader and admin app.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/UnoCockpit",
+      "name": "Uno Cockpit",
+      "url": "https://github.com/MartinZikmund/UnoCockpit",
+      "description": "WebAssembly dashboard for in-car browsers with a trip HUD, gamepad arcade game, photo booth and sensor lab.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/shrimqy/Sefirah",
+      "name": "Sefirah",
+      "url": "https://github.com/shrimqy/Sefirah",
+      "description": "Phone Link alternative that syncs clipboard, notifications, files and media between Android and the desktop.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/2fast-team/2fast",
+      "name": "2fast",
+      "url": "https://github.com/2fast-team/2fast",
+      "description": "Two-factor TOTP authenticator for Windows, Android, iOS, Linux and macOS.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/securefolderfs-community/SecureFolderFS",
+      "name": "SecureFolderFS",
+      "url": "https://github.com/securefolderfs-community/SecureFolderFS",
+      "description": "File encryption app that protects folders as vaults with on-the-fly encryption.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Arlodotexe/strix-music",
+      "name": "Strix Music",
+      "url": "https://github.com/Arlodotexe/strix-music",
+      "description": "Alpha-stage music player and SDK that merges multiple music sources into a single reskinnable library.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/cricketthomas/AzureKeyVaultExplorer",
+      "name": "Azure Key Vault Explorer",
+      "url": "https://github.com/cricketthomas/AzureKeyVaultExplorer",
+      "description": "Desktop app for finding, filtering and reading secrets, keys and certificates across Azure Key Vaults.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/andrich-software/asERP",
+      "name": "asERP",
+      "url": "https://github.com/andrich-software/asERP",
+      "description": "Self-hosted retail ERP toolkit with a REST API and cross-platform desktop, web and mobile clients.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/RiversideValley/Emerald",
+      "name": "Emerald",
+      "url": "https://github.com/RiversideValley/Emerald",
+      "description": "Minecraft launcher for Windows, macOS and Linux with multi-instance profiles.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/storybuilder-org/StoryCAD",
+      "name": "StoryCAD",
+      "url": "https://github.com/storybuilder-org/StoryCAD",
+      "description": "Free outlining tool that helps fiction writers plan characters, plots and settings.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Scrubbler-Dev/Scrubbler-2",
+      "name": "Scrubbler 2",
+      "url": "https://github.com/Scrubbler-Dev/Scrubbler-2",
+      "description": "Plugin-based manual scrobbler for listens that a player or service failed to submit.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/getsentry/sentry-desktop-crash-reporter",
+      "name": "Sentry Desktop Crash Reporter",
+      "url": "https://github.com/getsentry/sentry-desktop-crash-reporter",
+      "description": "Sentry's cross-platform crash reporter that asks users for feedback and consent before submitting a report.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/celbridge-org/celbridge",
+      "name": "Celbridge",
+      "url": "https://github.com/celbridge-org/celbridge",
+      "description": "Workbench for building HTML-based tools for game dev teams, with Python scripting and spreadsheet support.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/TekuSP/SubZeroFramework",
+      "name": "SubZero Framework Edition",
+      "url": "https://github.com/TekuSP/SubZeroFramework",
+      "description": "Fan control and thermal telemetry app for Framework laptops on Windows and Linux.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/lextudio/DotUninstall",
+      "name": "DotUninstall",
+      "url": "https://github.com/lextudio/DotUninstall",
+      "description": "Graphical front end for the dotnet-core-uninstall tool that removes old .NET SDKs and runtimes on Windows and macOS.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/TimGels/Matroska-Batch-Flow",
+      "name": "Matroska Batch Flow",
+      "url": "https://github.com/TimGels/Matroska-Batch-Flow",
+      "description": "Batch editor for Matroska (MKV) container and track properties across many files.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/morning4coffe-dev/recurrents",
+      "name": "Recurrents",
+      "url": "https://github.com/morning4coffe-dev/recurrents",
+      "description": "Subscription tracker with payment reminders and spending overview.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/DhammaBytes/PaliPractice",
+      "name": "Pāli Practice",
+      "url": "https://github.com/DhammaBytes/PaliPractice",
+      "description": "Flashcard app that uses spaced repetition to drill Pāli noun declensions and verb conjugations.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/hackclub/elapsed",
+      "name": "Elapsed",
+      "url": "https://github.com/hackclub/elapsed",
+      "description": "Desktop and mobile client for Hack Club's Lapse timelapse programme, with a companion CLI.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/ChadRoesler/PixlPunkt",
+      "name": "PixlPunkt",
+      "url": "https://github.com/ChadRoesler/PixlPunkt",
+      "description": "Pixel art editor with animation and a plugin SDK, with builds for Windows, macOS and Linux.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/Lakeside-Apps/HouzLinc",
+      "name": "HouzLinc",
+      "url": "https://github.com/Lakeside-Apps/HouzLinc",
+      "description": "Local-network configuration app for Insteon home automation devices and scenes.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/DrHardReset/RoMi",
+      "name": "RoMi",
+      "url": "https://github.com/DrHardReset/RoMi",
+      "description": "Calculator for the SysEx MIDI messages that remote-control Roland keyboards and synthesizers.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/kazo0/DailyReflection",
+      "name": "Daily Reflection",
+      "url": "https://github.com/kazo0/DailyReflection",
+      "description": "Reader for the A.A. Daily Reflections, migrated in place from Xamarin.Forms and live on Google Play and the App Store.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/wieslawsoltes/TextSpace",
+      "name": "TextSpace",
+      "url": "https://github.com/wieslawsoltes/TextSpace",
+      "description": "Local-first word processor with paginated editing, a ribbon and DOCX/PDF export, running on desktop and in the browser.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/salmonloop/salmon-egg",
+      "name": "Salmon Egg",
+      "url": "https://github.com/salmonloop/salmon-egg",
+      "description": "Desktop client for AI agents over the Agent Client Protocol, with session history, tool-call review and terminal workflows.",
+      "section": [
+        "Open-source apps"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/XamlMan",
+      "name": "XAML-MAN",
+      "url": "https://github.com/MartinZikmund/XamlMan",
+      "description": "Faithful Pac-Man clone with arcade-accurate ghost AI, drawn entirely with XAML shapes and playable in the browser.",
+      "section": [
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/MartinZikmund/UnoDoom",
+      "name": "UnoDOOM",
+      "url": "https://github.com/MartinZikmund/UnoDoom",
+      "description": "DOOM port built on ManagedDoom with touch, keyboard and gamepad controls, playable in the browser.",
+      "section": [
+        "Games"
+      ]
+    },
+    {
+      "key": "https://github.com/asadullah-refat-89/astro-odyssey-uno-platform",
+      "name": "Astro Odyssey",
+      "url": "https://github.com/asadullah-refat-89/astro-odyssey-uno-platform",
+      "description": "Browser space shooter where you destroy meteors and enemies and battle level bosses.",
+      "section": [
+        "Games"
+      ]
+    },
+    {
+      "key": "https://platform.uno/case-studies",
+      "name": "Case Studies",
+      "url": "https://platform.uno/case-studies/",
+      "description": "Official success stories from companies such as Toyota, Kahua, Air Canada, TradeZero and Microsoft.",
+      "section": [
+        "Case Studies"
+      ]
+    },
+    {
+      "key": "https://platform.uno/blog/toyota-migrates-mobile-app-to-uno-platform",
+      "name": "Toyota Migrates Mobile App to Uno Platform",
+      "url": "https://platform.uno/blog/toyota-migrates-mobile-app-to-uno-platform/",
+      "description": "How Toyota moved its North American plant line-of-business apps off Xamarin.Forms.",
+      "section": [
+        "Case Studies"
+      ]
+    },
+    {
+      "key": "https://platform.uno/blog/windows-community-toolkit-how-microsoft-uses-uno-platform-to-ship-fast",
+      "name": "Windows Community Toolkit - How Microsoft Uses Uno Platform to Ship Fast",
+      "url": "https://platform.uno/blog/windows-community-toolkit-how-microsoft-uses-uno-platform-to-ship-fast/",
+      "description": "Guest post by Michael Hawker on how the Windows Community Toolkit ships WinUI 2, WinUI 3 and WebAssembly from one codebase.",
+      "section": [
+        "Case Studies"
+      ]
+    },
+    {
+      "key": "https://platform.uno/blog/sentry-chooses-uno-platform-a-success-story",
+      "name": "Sentry Chooses Uno Platform",
+      "url": "https://platform.uno/blog/sentry-chooses-uno-platform-a-success-story/",
+      "description": "How Sentry built its open-source desktop crash reporter for Windows, macOS and Linux.",
+      "section": [
+        "Case Studies"
+      ]
+    },
+    {
+      "key": "https://platform.uno/blog",
+      "name": "Official Uno Platform blog",
+      "url": "https://platform.uno/blog/",
+      "description": "Lists latest release notes, tutorials, and articles by Uno Platform maintainers as well as external contributors.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://jaylee.org",
+      "name": "Jerome Laban's blog",
+      "url": "https://jaylee.org/",
+      "description": "Blog of the CTO of Uno Platform.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://mzikmund.dev/blog/categories/uno-platform",
+      "name": "Martin Zikmund blog",
+      "url": "https://mzikmund.dev/blog/categories/uno-platform",
+      "description": "Posts on WebAssembly, device APIs, sample apps and fun projects like DOOM, by Martin Zikmund.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://nicksnettravels.builttoroam.com/tag/uno",
+      "name": "Nick's .NET Travels",
+      "url": "https://nicksnettravels.builttoroam.com/tag/uno/",
+      "description": "Uno Platform blog posts by Nick Randolph.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://ian.bebbs.co.uk/tags/uno-platform",
+      "name": "IObservable<Opinion>",
+      "url": "https://ian.bebbs.co.uk/tags/uno-platform",
+      "description": "Uno Platform blog posts by Ian Bebbington.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://infoq.com/uno-platform",
+      "name": "InfoQ Uno Platform News",
+      "url": "https://www.infoq.com/uno-platform/",
+      "description": "Independent release-by-release news coverage, mostly by Almir Vuk and Edin Kapić.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://kazo0.dev",
+      "name": "Steve Bilogan's Blog",
+      "url": "https://kazo0.dev/",
+      "description": "Toolkit Tuesdays, Uno Tidbits and AI agent posts by Uno Toolkit maintainer Steve Bilogan.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://cnblogs.com/lindexi/tag/UNO",
+      "name": "lindexi's Blog (ZH)",
+      "url": "https://www.cnblogs.com/lindexi/tag/UNO/",
+      "description": "Chinese posts on WPF migration, Linux desktop quirks (UOS, Kylin, X11) and framework internals by lindexi.",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://platform.uno/blog/article_tags/migration",
+      "name": "WPF and Legacy App Migration Guides",
+      "url": "https://platform.uno/blog/article_tags/migration/",
+      "description": "Official article series on migrating WPF and Xamarin.Forms apps, covering scoping, XAML mapping, triggers, resources, testing and incremental adoption.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps",
+      "name": "How Uno Platform Uses .NET, MCP, and AI to Build High Quality Apps",
+      "url": "https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/",
+      "description": "Tour of the docs and app MCP servers, agent skills and Studio, by Sam Basu on the .NET Blog.",
+      "section": [
+        "Articles"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/getting-started/counterapp/get-started-counter.html",
+      "name": "Counter App Tutorial",
+      "url": "https://platform.uno/docs/articles/getting-started/counterapp/get-started-counter.html",
+      "description": "Step-by-step first app in XAML or C# Markup with MVVM or MVUX, plus a Hot Design variant.",
+      "section": [
+        "Courses and Tutorials"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/external/workshops/simple-calc/README.html",
+      "name": "SimpleCalc Workshop",
+      "url": "https://platform.uno/docs/articles/external/workshops/simple-calc/README.html",
+      "description": "Hands-on workshop building a calculator with XAML or C# Markup, MVVM or MVUX and runtime theme switching.",
+      "section": [
+        "Courses and Tutorials"
+      ]
+    },
+    {
+      "key": "https://platform.uno/docs/articles/external/workshops/tube-player/README.html",
+      "name": "TubePlayer Workshop",
+      "url": "https://platform.uno/docs/articles/external/workshops/tube-player/README.html",
+      "description": "Multi-module workshop building a YouTube search and playback app with C# Markup, MVUX, navigation and optional Figma import.",
+      "section": [
+        "Courses and Tutorials"
+      ]
+    },
+    {
+      "key": "https://devforge.com/courses/uno-from-start-to-finish",
+      "name": "Uno Platform From Start to Finish",
+      "url": "https://www.devforge.com/courses/uno-from-start-to-finish/",
+      "description": "Paid 66-lesson video course covering setup, MVUX, Uno Toolkit, Hot Design, Figma to code and MCPs. By Tim Corey.",
+      "section": [
+        "Courses and Tutorials"
       ]
     },
     {
@@ -357,6 +1695,24 @@
       "name": "Martin Zikmund's Twitch",
       "url": "https://www.twitch.tv/martinzikmund",
       "description": "Mostly Uno Platform-themed live coding sessions.",
+      "section": [
+        "Live coding"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLC0wF4Qw6SDNu61eMpdGCw-c5RR2Tk2R6",
+      "name": "Martin Zikmund's Live Coding Archive",
+      "url": "https://www.youtube.com/playlist?list=PLC0wF4Qw6SDNu61eMpdGCw-c5RR2Tk2R6",
+      "description": "Recorded streams porting WinUI APIs into the framework, plus walkthroughs on contributing to it.",
+      "section": [
+        "Live coding"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLl_OlDcUya9pRqt9A0vpyi89Vl-uq3nSb",
+      "name": "Uno Platform Live Coding Archive",
+      "url": "https://www.youtube.com/playlist?list=PLl_OlDcUya9pRqt9A0vpyi89Vl-uq3nSb",
+      "description": "Recordings of CTO Jérôme Laban's weekly streams debugging and building the framework.",
       "section": [
         "Live coding"
       ]
@@ -383,7 +1739,7 @@
       "key": "https://youtu.be/0zvzfCGO0gI",
       "name": "Building Multi-Platform Applications with the Uno Platform",
       "url": "https://youtu.be/0zvzfCGO0gI",
-      "description": "Introduction to creating apps for multiple platforms and form factors, all while reusing your existing XAML and C# skill by Nick Randolph.",
+      "description": "Introduction to creating apps for multiple platforms and form factors, all while reusing your existing XAML and C# skills by Nick Randolph.",
       "section": [
         "Talks"
       ]
@@ -393,6 +1749,159 @@
       "name": "Разработка кросс-платформенных приложений с Uno Platform и Elmish-подходом на F# (RU)",
       "url": "https://www.youtube.com/watch?v=ApNGATu9RSo",
       "description": "Introduction to Uno, Blend and Elmish.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=BTgp9VyZSs8",
+      "name": "Uno Platform - Your Apps Everywhere (NDC London 2023)",
+      "url": "https://www.youtube.com/watch?v=BTgp9VyZSs8",
+      "description": "Overview of the ecosystem by Martin Zikmund at NDC London 2023.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=ns9EiKLlxsQ",
+      "name": "How We Build an Open-Source Cross-Platform Framework in .NET",
+      "url": "https://www.youtube.com/watch?v=ns9EiKLlxsQ",
+      "description": "Engineering behind the framework, from source generators and the custom MSBuild SDK to CI and C++ porting, by Martin Zikmund at Monkey Conf 2024.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLl_OlDcUya9rp-ZbLkFHWtp2-9V-xGYFu",
+      "name": "UnoConf",
+      "url": "https://www.youtube.com/playlist?list=PLl_OlDcUya9rp-ZbLkFHWtp2-9V-xGYFu",
+      "description": "Recordings from the 2019 to 2021 developer conferences, including Miguel de Icaza's keynote and sessions on Extensions, styling, testing and WPF migration.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=sJPyieyt1Rc",
+      "name": "Announcing Uno Platform Studio and Hot Design",
+      "url": "https://www.youtube.com/watch?v=sJPyieyt1Rc",
+      "description": "Launch of Studio and the Hot Design runtime visual designer, by Jérôme Laban and Nick Randolph at .NET Conf 2024.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=g4A_3ZCwwWg",
+      "name": "Uno Platform. Now with AI",
+      "url": "https://www.youtube.com/watch?v=g4A_3ZCwwWg",
+      "description": "Generating full-stack apps with AI on top of Hot Design, by Jérôme Laban at .NET Conf 2025.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=yVYhZsu7gso",
+      "name": "Best Practices for Cross-Platform .NET 8 Applications",
+      "url": "https://www.youtube.com/watch?v=yVYhZsu7gso",
+      "description": "Bootstrapping a well-architected app with Extensions for navigation and localization and the MVUX reactive pattern, at .NET Conf 2023.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=t_cKjNtB2aU",
+      "name": "Build Modern .NET Apps with Uno Platform, AI, and Visual Tools",
+      "url": "https://www.youtube.com/watch?v=t_cKjNtB2aU",
+      "description": "Hot Design, AI agents grounded by the docs and app MCP servers, and SkiaSharp rendering, by Sam Basu at Microsoft Build 2026.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=vyR38vxo4ug",
+      "name": "Write Uno Time, Run Everywhere with the Uno Platform",
+      "url": "https://www.youtube.com/watch?v=vyR38vxo4ug",
+      "description": "Getting started from machine setup to a contacts app backed by an existing REST API, by Joseph Guadagno at NDC London 2025.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Vfzdr0TRYCs",
+      "name": "Let's Build a .NET YouTube Player! For Which Platform? All of Them!",
+      "url": "https://www.youtube.com/watch?v=Vfzdr0TRYCs",
+      "description": "Building a YouTube player from its original Figma designs with Toolkit and Material, by Steve Bilogan at Copenhagen Developers Festival 2024.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=lxo5TTK1Bfw",
+      "name": "Figma Meets .NET Developers",
+      "url": "https://www.youtube.com/watch?v=lxo5TTK1Bfw",
+      "description": "Smoothing the designer-developer handoff by exporting Figma designs straight into the app, by Nick Randolph at NDC Sydney 2024.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=inD_3SD0G80",
+      "name": ".NET Apps Everywhere",
+      "url": "https://www.youtube.com/watch?v=inD_3SD0G80",
+      "description": "Under-the-hood tour of how a single codebase renders on every platform, by Steve Bilogan at JetBrains .NET Days Online 2025.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=u8Fkb7pjqwQ",
+      "name": "Build Beautiful .NET Apps Faster with Uno Platform",
+      "url": "https://www.youtube.com/watch?v=u8Fkb7pjqwQ",
+      "description": "Building cross-platform apps in C# with full UI control, device APIs, Hot Reload and Figma integration, by Martin Zikmund at the BASTA! conference.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=gUubBX9xhdA",
+      "name": "Design, Build and Publish Cross-Platform .NET Applications with Uno Platform",
+      "url": "https://www.youtube.com/watch?v=gUubBX9xhdA",
+      "description": "Workshop from project creation to publishing, covering the Figma plugin, Hot Reload and Hot Design, by Nick Randolph at Indy .NET Consortium 2025.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=doomI2bEBno",
+      "name": "Migrating WPF Apps to Web",
+      "url": "https://www.youtube.com/watch?v=doomI2bEBno",
+      "description": "Architecture and implementation considerations for moving WPF apps to the web, by Daren May at UnoConf 2021.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLC0wF4Qw6SDMCHrbo9PlNC4OrJ_rV5i1U",
+      "name": "Martin Zikmund's Talks",
+      "url": "https://www.youtube.com/playlist?list=PLC0wF4Qw6SDMCHrbo9PlNC4OrJ_rV5i1U",
+      "description": "Recordings of Martin Zikmund's Uno talks at NDC, Visual Studio Toolbox, .NET Oxford and other events.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=OxyJYF2HgBM",
+      "name": "Building Linux Desktop Apps with .NET and Uno Platform",
+      "url": "https://www.youtube.com/watch?v=OxyJYF2HgBM",
+      "description": "James Montemagno and Jérôme Laban build, debug and deploy Linux desktop apps from VS Code on Ubuntu.",
+      "section": [
+        "Talks"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=xGJ0U_E9LC8",
+      "name": "Uno Platform - Now With AI! (Visual Studio Toolbox)",
+      "url": "https://www.youtube.com/watch?v=xGJ0U_E9LC8",
+      "description": "Sam Basu and Jérôme Laban demo MCP-driven development, Hot Design and the Hot Design agent on Visual Studio Toolbox.",
       "section": [
         "Talks"
       ]
@@ -425,6 +1934,141 @@
       ]
     },
     {
+      "key": "https://youtube.com/watch?v=GIboa7CZXaw",
+      "name": "Definitive Guide to Uno Platform Contributions",
+      "url": "https://www.youtube.com/watch?v=GIboa7CZXaw",
+      "description": "Two-hour walkthrough of setting up, building, debugging and contributing to the framework repository by Martin Zikmund.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLl_OlDcUya9rizyD8smQFO45G1Q-meutb",
+      "name": "Get Started with AI-Assisted Development",
+      "url": "https://www.youtube.com/playlist?list=PLl_OlDcUya9rizyD8smQFO45G1Q-meutb",
+      "description": "Official series on agent-driven development with Claude Code, Copilot CLI, Codex, Cursor, Antigravity, MCPs and Studio.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=Cm2FRfiAzSU",
+      "name": "Intro to Uno Platform - Full Cross-Platform C# Development",
+      "url": "https://www.youtube.com/watch?v=Cm2FRfiAzSU",
+      "description": "In-depth introduction to building and deploying a single-project cross-platform app, by Tim Corey.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLl_OlDcUya9qeKZEF3HCFdqXuys0-RwIp",
+      "name": "Uno Platform Webinars",
+      "url": "https://www.youtube.com/playlist?list=PLl_OlDcUya9qeKZEF3HCFdqXuys0-RwIp",
+      "description": "Release webinars, product launch streams and AMA sessions from the core team.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://youtube.com/playlist?list=PLqT49gV-eqe6t-sdQpW0BaJIpo8Zxuiwz",
+      "name": "VectoArt's Uno Platform Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PLqT49gV-eqe6t-sdQpW0BaJIpo8Zxuiwz",
+      "description": "Community tutorials on Figma-to-XAML apps, animations and the Hot Design agent, by VectoArt.",
+      "section": [
+        "Videos"
+      ]
+    },
+    {
+      "key": "https://dotnetcore.show/season-6/s06e18-uno-platform-one-ui-to-rule-them-all-with-martin-zikmund",
+      "name": "The Modern .NET Show: One UI to Rule Them All",
+      "url": "https://dotnetcore.show/season-6/s06e18-uno-platform-one-ui-to-rule-them-all-with-martin-zikmund/",
+      "description": "Martin Zikmund on WinUI everywhere, Linux support and designer-developer tooling, with Jamie Taylor in 2024.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://dotnetrocks.com/details/1984",
+      "name": ".NET Rocks! 1984: Uno and .NET 10 with Sam Basu and Jérôme Laban",
+      "url": "https://www.dotnetrocks.com/details/1984",
+      "description": "Jérôme Laban and Sam Basu on .NET 10, the MAUI collaboration, WebAssembly and MCP-based AI tooling.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://dotnetrocks.com/details/1938",
+      "name": ".NET Rocks! 1938: Uno Hot Design with Francois Tanguay and Sasha Krsmanovic",
+      "url": "https://www.dotnetrocks.com/details/1938",
+      "description": "Co-founders Francois Tanguay and Sasha Krsmanovic on Hot Design and how the framework has evolved.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://dotnetrocks.com/details/1882",
+      "name": ".NET Rocks! 1882: Uno Platform Update with Nick Randolph",
+      "url": "https://www.dotnetrocks.com/details/1882",
+      "description": "Nick Randolph on the Figma plugin, design-to-code workflow and CI integration.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://dotnetrocks.com/details/1552",
+      "name": ".NET Rocks! 1552: Open Sourcing Uno with Francois Tanguay and Jérôme Laban",
+      "url": "https://www.dotnetrocks.com/details/1552",
+      "description": "Francois Tanguay and Jérôme Laban on open-sourcing the UWP-based framework in 2018.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://hanselminutes.com/820/multi-platform-apps-with-uno-platforms-jrme-laban",
+      "name": "Hanselminutes 820: Multi-Platform Apps with Uno Platform's Jérôme Laban",
+      "url": "https://hanselminutes.com/820/multi-platform-apps-with-uno-platforms-jrme-laban",
+      "description": "Jérôme Laban on the importance and flexibility of write-once-run-everywhere, with Scott Hanselman.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://se-radio.net/2022/04/episode-508-jerome-laban-on-cross-platform-ui",
+      "name": "Software Engineering Radio 508: Jérôme Laban on Cross-Platform UI",
+      "url": "https://se-radio.net/2022/04/episode-508-jerome-laban-on-cross-platform-ui/",
+      "description": "Jérôme Laban on native fidelity versus consistent design, rendering approaches and platform differences in cross-platform UI.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://unhandledexceptionpodcast.com/posts/0074-unoplatformandhotdesign",
+      "name": "The Unhandled Exception Podcast 74: The Uno Platform and Hot Design with Jérôme Laban",
+      "url": "https://unhandledexceptionpodcast.com/posts/0074-unoplatformandhotdesign/",
+      "description": "Jérôme Laban on the framework and its Hot Design visual designer, with Dan Clarke.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://buzzsprout.com/1622272/episodes/15826598-92-the-uno-platform-unlocking-cross-platform-potential-with-martin-zikmund",
+      "name": "Betatalks the Podcast 92: The Uno Platform: Unlocking Cross-Platform Potential with Martin Zikmund",
+      "url": "https://www.buzzsprout.com/1622272/episodes/15826598-92-the-uno-platform-unlocking-cross-platform-potential-with-martin-zikmund",
+      "description": "Martin Zikmund on cross-platform development, contributing to the framework and how it compares with alternatives.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
+      "key": "https://youtube.com/watch?v=rqm_54Y8h8U",
+      "name": "Blue Blazes S04E01: Uno Platform featuring Sam Basu",
+      "url": "https://www.youtube.com/watch?v=rqm_54Y8h8U",
+      "description": "Sam Basu on native and Skia rendering paths and how the framework compares with MAUI, React Native and Flutter, with Jonathan Tower.",
+      "section": [
+        "Podcasts"
+      ]
+    },
+    {
       "key": "https://link.springer.com/book/10.1007/978-1-4842-8248-9",
       "name": "Getting Started with the Uno Platform and WinUI 3 (2022/09)",
       "url": "https://link.springer.com/book/10.1007/978-1-4842-8248-9",
@@ -434,10 +2078,19 @@
       ]
     },
     {
-      "key": "https://packtpub.com/product/creating-cross-platform-c-applications-with-uno-platform/9781801078498",
+      "key": "https://packtpub.com/en-us/product/creating-cross-platform-c-applications-with-uno-platform-9781801078498",
       "name": "Creating Cross-Platform C# Applications with Uno Platform (2021/08)",
-      "url": "https://www.packtpub.com/product/creating-cross-platform-c-applications-with-uno-platform/9781801078498",
+      "url": "https://www.packtpub.com/en-us/product/creating-cross-platform-c-applications-with-uno-platform-9781801078498",
       "description": "Build apps with C# and XAML that run on Windows, macOS, iOS, Android, and WebAssembly. By Matt Lacey and Marcel Alexander Wagner.",
+      "section": [
+        "Books"
+      ]
+    },
+    {
+      "key": "https://syncfusion.com/succinctly-free-ebooks/uno-platform-succinctly",
+      "name": "Uno Platform Succinctly",
+      "url": "https://www.syncfusion.com/succinctly-free-ebooks/uno-platform-succinctly",
+      "description": "Free introductory ebook by Ed Freitas, published by Syncfusion.",
       "section": [
         "Books"
       ]

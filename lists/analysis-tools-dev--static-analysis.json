@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1264fc9d2fab3803c539d548188f00bb077a4d0ad7118a392782dfb577f34d32\"",
+  "etag": "W/\"63af4ef9ceb823a011b536bf83a362ef8fe5017e420f70dd363053ef78e69de1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3365,6 +3365,15 @@
       "name": "Qwiet AI",
       "url": "https://qwiet.ai/",
       "description": "copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
+      "key": "https://rea.tools",
+      "name": "REA",
+      "url": "https://rea.tools/",
+      "description": "Local CLI and MCP server for static analysis of native binaries, .NET assemblies, and JavaScript and Electron bundles. Reports binary hardening flags, dependencies, and release exposure such as shipped source maps, with supporting evidence. The release audit can fail a build at a chosen severity.",
       "section": [
         "Multiple languages"
       ]

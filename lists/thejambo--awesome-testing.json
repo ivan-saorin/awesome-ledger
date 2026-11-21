@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"061541361ad8fbee5fbcd0281afa6b7f145210d9606d4ed2528f62d4ab05ae21\"",
+  "etag": "W/\"8e21a149386b3364ae348c93108ac7d855da177018647b484ee36c7b08eb63f5\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -984,6 +984,16 @@
       ]
     },
     {
+      "key": "https://mockatoo.globalunderdog.com",
+      "name": "Mockatoo",
+      "url": "https://mockatoo.globalunderdog.com",
+      "description": "Free hosted mock OAuth provider for Google, GitHub, Microsoft, Apple and four other providers, so E2E tests in Playwright, Cypress or CI can sign in without real accounts, CAPTCHAs or app registration.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://momentic.ai",
       "name": "Momentic",
       "url": "https://momentic.ai",
@@ -1188,6 +1198,16 @@
       "name": "junit-collision-check",
       "url": "https://github.com/sunxiuguo/junit-collision-check",
       "description": "Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.",
+      "section": [
+        "Software",
+        "Test Report Diagnostics"
+      ]
+    },
+    {
+      "key": "https://github.com/godhiraj-code/pytest-glow-report",
+      "name": "pytest-glow-report",
+      "url": "https://github.com/godhiraj-code/pytest-glow-report",
+      "description": "Open source (MIT) pytest plugin that writes HTML and JSON reports and keeps run history in SQLite.",
       "section": [
         "Software",
         "Test Report Diagnostics"

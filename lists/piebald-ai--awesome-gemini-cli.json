@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"48326aaac9e408ce870da1084c791c256f2b4367f6e25d31db8f1762d583ca8d\"",
+  "etag": "W/\"3299fd24dc77265e28c83a6976f033f9ba22598c62f5056b87c60eccd7f910bf\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3076,7 +3076,7 @@
       "key": "https://github.com/aliarifsoydas/gsc-pap-claude-plugin",
       "name": "GSC PAP",
       "url": "https://github.com/aliarifsoydas/gsc-pap-claude-plugin",
-      "description": "Hosted, read-only MCP server and Gemini CLI extension for your own Google Search Console, Google Analytics 4, PageSpeed Insights and Chrome UX Report data, plus live Google results. Sign in with Google on first use; it keeps a Search Console archive past Google's 16-month limit. Free. Install: gemini extensions install https://github.com/aliarifsoydas/gsc-pap-claude-plugin",
+      "description": "Hosted, read-only MCP server and Gemini CLI extension for your own Google Search Console, Google Analytics 4, Bing Webmaster Tools, PageSpeed Insights and Chrome UX Report data, plus live Google results. Sign in with Google on first use; it keeps Search Console and Bing archives past their 16-month limits. Free. Install: gemini extensions install https://github.com/aliarifsoydas/gsc-pap-claude-plugin",
       "section": [
         "MCP Servers"
       ]
@@ -3253,6 +3253,15 @@
       ]
     },
     {
+      "key": "https://github.com/HalberdLLC/dank-meme-sounds",
+      "name": "DankMachine Meme Sounds",
+      "url": "https://github.com/HalberdLLC/dank-meme-sounds",
+      "description": "Free, read-only MCP server that lets Gemini CLI find, search and play 38,000+ meme sound effects: describe a moment to get a fitting reaction sound, or see what is trending. Remote Streamable HTTP (gemini mcp add --transport http dank-meme-sounds https://dankmachine.com/mcp, no API key) or local with playback via gemini mcp add dankmachine -- npx -y dank-meme-sounds.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
       "key": "https://github.com/gutsavgupta/nvim-gemini-companion",
       "name": "nvim Gemini Companion",
       "url": "https://github.com/gutsavgupta/nvim-gemini-companion",
@@ -3401,6 +3410,15 @@
       "name": "MCP servers, harness by harness (RigFit)",
       "url": "https://rigfit-harness.vercel.app/mcp-servers-by-harness/?utm_source=awesome-gemini-cli&utm_medium=referral",
       "description": "One MCP server (Context7) configured in Gemini CLI's settings.json alongside Claude Code, Codex CLI, OpenCode and goose, using each tool's documented syntax, with sources dated.",
+      "section": [
+        "Documentation & Examples"
+      ]
+    },
+    {
+      "key": "https://gettakes.app/video-agents",
+      "name": "Video skills and MCP servers for coding agents (Takes)",
+      "url": "https://gettakes.app/video-agents?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "47 skills, MCP servers and tools for making video with Gemini CLI and other agents, each with its install line.",
       "section": [
         "Documentation & Examples"
       ]

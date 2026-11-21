@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"45062abc7e10e5d858181273473021f1b92abedc05d8c1949f99d17b2ff610ac\"",
+  "etag": "W/\"5ce5a39bf364297399c82b6b0cfe19ebdcc8034b3052b01087f007774110c650\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -45,6 +45,16 @@
       "name": "Puput",
       "url": "https://github.com/APSL/puput",
       "description": "A Django blog app implemented in Wagtail.",
+      "section": [
+        "Apps",
+        "Blogging/news"
+      ]
+    },
+    {
+      "key": "https://github.com/hardcodd/Commentail",
+      "name": "Commentail",
+      "url": "https://github.com/hardcodd/Commentail",
+      "description": "Self-hosted comments for Wagtail with moderation, email-verified guests and threaded replies.",
       "section": [
         "Apps",
         "Blogging/news"
@@ -575,6 +585,16 @@
       "name": "Wagtail Cache Invalidator",
       "url": "https://github.com/vicktornl/wagtail-cache-invalidator",
       "description": "Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.",
+      "section": [
+        "Apps",
+        "Misc"
+      ]
+    },
+    {
+      "key": "https://github.com/mojnomiya/wagtail_subscriptions",
+      "name": "wagtail-subscriptions",
+      "url": "https://github.com/mojnomiya/wagtail_subscriptions",
+      "description": "Subscription management system for Wagtail CMS with Stripe integration, feature-based access control, and multi-tenant support.",
       "section": [
         "Apps",
         "Misc"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"51ba3836f1849343d46637a0d5674bac2008d7190905fba4664bf4e0f55c97f5\"",
+  "etag": "W/\"831f4223c2648eb94924b80bba5da5411103c6d89375c911ca0cd454a562c695\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -3273,6 +3273,17 @@
       "name": "mp_jpeg",
       "url": "https://github.com/cnadler86/mp_jpeg",
       "description": "A very fast MicroPython JPEG encoder and decoder for the ESP32.",
+      "section": [
+        "Libraries",
+        "Display",
+        "Graphics"
+      ]
+    },
+    {
+      "key": "https://github.com/elixpo/rv565",
+      "name": "RV565",
+      "url": "https://github.com/elixpo/rv565",
+      "description": "Native module and C library for playing frame-independent RGB565 video on SPI displays such as the ST7789.",
       "section": [
         "Libraries",
         "Display",
@@ -6662,6 +6673,17 @@
       ]
     },
     {
+      "key": "https://github.com/Tommyapi/erdi-lrf-esp32-micropython",
+      "name": "erdi-lrf-esp32-micropython",
+      "url": "https://github.com/Tommyapi/erdi-lrf-esp32-micropython",
+      "description": "UART driver for ERDI 905 nm / 1535 nm laser rangefinder modules on ESP32, with distance readout and Wi-Fi publish examples.",
+      "section": [
+        "Libraries",
+        "Sensors",
+        "Distance Laser"
+      ]
+    },
+    {
       "key": "https://github.com/rsc1975/micropython-hcsr04",
       "name": "micropython-hcsr04",
       "url": "https://github.com/rsc1975/micropython-hcsr04",
@@ -8973,9 +8995,9 @@
       ]
     },
     {
-      "key": "https://github.com/elixpo/oreo",
-      "name": "OreoOS",
-      "url": "https://github.com/elixpo/oreo",
+      "key": "https://github.com/elixpo/falera",
+      "name": "FaleraOS",
+      "url": "https://github.com/elixpo/falera",
       "description": "Operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, on-device app store, OTA updates and native video playback.",
       "section": [
         "Frameworks"
@@ -9267,6 +9289,16 @@
       "name": "MicroPython-REPLink for VSCode",
       "url": "https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink",
       "description": "Handy shortcuts for interacting with a MicroPython REPL terminal.",
+      "section": [
+        "Development",
+        "IDEs"
+      ]
+    },
+    {
+      "key": "https://github.com/Ma7moud3ly/micro-repl",
+      "name": "Micro REPL",
+      "url": "https://github.com/Ma7moud3ly/micro-repl",
+      "description": "MicroPython IDE for Android, desktop and web, with a terminal, a code editor and a visual files explorer.",
       "section": [
         "Development",
         "IDEs"
