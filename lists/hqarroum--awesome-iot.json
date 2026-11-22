@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9e91a4390325db614937e2fc18d61d37b7872885fec7bc8a5d1d62fb2978242c\"",
+  "etag": "W/\"309158173d3b04fd25dae5e21c5fc390b3c387231db7a66d558a9a0837e167e2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -998,6 +998,17 @@
       "name": "VerneMQ",
       "url": "https://github.com/erlio/vernemq",
       "description": "VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.",
+      "section": [
+        "Table of Contents",
+        "Software",
+        "Middlewares"
+      ]
+    },
+    {
+      "key": "https://github.com/VoltrusID/voltrus-scada",
+      "name": "Voltrus SCADA",
+      "url": "https://github.com/VoltrusID/voltrus-scada",
+      "description": "Self-hosted SCADA and industrial monitoring in a single Rust binary, with Modbus, OPC UA, S7, BACnet/IP drivers and an embedded MQTT broker.",
       "section": [
         "Table of Contents",
         "Software",

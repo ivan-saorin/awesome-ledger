@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3299fd24dc77265e28c83a6976f033f9ba22598c62f5056b87c60eccd7f910bf\"",
+  "etag": "W/\"f87c21be24f0dc01d1956a895d162cd46330fe8d667760ca9b019a614d3acbc1\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1268,6 +1268,24 @@
       "name": "Wiro AI",
       "url": "https://github.com/wiroai/Wiro-Plugin",
       "description": "Gemini CLI extension for the hosted Wiro AI MCP server (https://mcp.wiro.ai/v1): run 1,000+ image, video, audio and LLM models, build and run workflows, and deploy and message AI agents from Gemini CLI. Ships five Agent Skills, including project media assets (images, icons, short videos, voice-overs and 3D models placed where the framework expects them) and realtime voice. Paid runs bill your Wiro AI wallet and show the price before they start. Install: gemini extensions install https://github.com/wiroai/Wiro-Plugin, then /mcp auth wiro to sign in.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/klingai-tech/claude-plugin",
+      "name": "Kling AI Global Plugin",
+      "url": "https://github.com/klingai-tech/claude-plugin",
+      "description": "Official Gemini CLI extension for Kling AI's Global OAuth MCP endpoint (https://kling.ai/mcp/plugin), with image and video generation, Elements, and task status. Kling 4.0 supports native 4K video and optional 10-bit HDR at 1080p or 4K when the account's live MCP tools expose those settings; HDR may incur additional usage charges (official details). Generation uses Global Kling credits. Install: gemini extensions install https://github.com/klingai-tech/claude-plugin. Related npm packages: Plugin · CLI.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/klingai-tech/claude-plugin-cn",
+      "name": "Kling AI China Plugin",
+      "url": "https://github.com/klingai-tech/claude-plugin-cn",
+      "description": "Official Gemini CLI extension for Kling AI's China OAuth MCP endpoint (https://klingai.com/mcp/plugin), with image and video generation, Elements, and task status. Kling 4.0 supports native 4K video and optional 10-bit HDR at 1080p or 4K when the account's live MCP tools expose those settings; HDR may incur additional usage charges (official details). Generation uses China Kling credits. Install: gemini extensions install https://github.com/klingai-tech/claude-plugin-cn. Related npm packages: Plugin · CLI.",
       "section": [
         "Commands & Extensions"
       ]

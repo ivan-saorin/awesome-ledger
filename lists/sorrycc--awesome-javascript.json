@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0f26a0de80b31105c8c04bf6d9435462ce71622643b6dd1639cf8084dfce57a1\"",
+  "etag": "W/\"8dd408f29dd768c60c3c51e7010f31ce2edd562862ff61ca0e4539e4f097d438\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -6638,6 +6638,15 @@
       "name": "Objection.js",
       "url": "https://github.com/Vincit/objection.js",
       "description": "A SQL-friendly ORM for Node.js built on top of Knex.js, with powerful relational support.",
+      "section": [
+        "ORM"
+      ]
+    },
+    {
+      "key": "https://github.com/reylosql/reylo",
+      "name": "Reylo",
+      "url": "https://github.com/reylosql/reylo",
+      "description": "Import .sql files into TypeScript with types inferred from the database. Postgres, MySQL and SQLite.",
       "section": [
         "ORM"
       ]

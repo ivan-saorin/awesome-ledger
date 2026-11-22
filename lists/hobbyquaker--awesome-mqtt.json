@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2d3aeb85655d05b2523a60dea8ba7220d6934125872df2aa3d40d55d7f3f0ae5\"",
+  "etag": "W/\"a8da092db99665baa22548d172c68262c19c7138018faa2045697dfe72b325ef\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -547,6 +547,15 @@
       "name": "thingsboard",
       "url": "https://thingsboard.io/",
       "description": "Device management, data collection, processing, event management, and visualization for your IoT projects.",
+      "section": [
+        "Platforms"
+      ]
+    },
+    {
+      "key": "https://github.com/VoltrusID/voltrus-scada",
+      "name": "Voltrus SCADA",
+      "url": "https://github.com/VoltrusID/voltrus-scada",
+      "description": "Self-hosted SCADA in one Rust binary with an embedded MQTT broker, MQTT-triggered flows, PLC drivers, historian and dashboards.",
       "section": [
         "Platforms"
       ]
@@ -1636,6 +1645,17 @@
       ]
     },
     {
+      "key": "https://github.com/indian-aman/NLTP-Arduino",
+      "name": "NLTP",
+      "url": "https://github.com/indian-aman/NLTP-Arduino",
+      "description": "Loss-healing ESP-NOW and UDP first-mile transport (X25519, ChaCha20-Poly1305, LZ4, GF(2^8) Cauchy FEC) with a Python edge bridge to MQTT brokers.",
+      "section": [
+        "Interfaces",
+        "Makers",
+        "ESP"
+      ]
+    },
+    {
       "key": "https://github.com/hobbyquaker/nodemcu-gpiomqtt",
       "name": "nodemcu-gpiomqtt",
       "url": "https://github.com/hobbyquaker/nodemcu-gpiomqtt",
@@ -1801,6 +1821,16 @@
       "section": [
         "Interfaces",
         "Telephony, PBX"
+      ]
+    },
+    {
+      "key": "https://github.com/machintrucbidule/BetterVolume",
+      "name": "BetterVolume",
+      "url": "https://github.com/machintrucbidule/BetterVolume",
+      "description": "Windows 11 tray volume panel that exposes each PC to Home Assistant through MQTT discovery: audio output, volume, mute, microphone and media buttons, in both directions.",
+      "section": [
+        "Interfaces",
+        "Operating System"
       ]
     },
     {

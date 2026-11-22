@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1d2969da52c7d85af7570342f89c0127b1d7892f840f9efb3718b366a2fdce4d\"",
+  "etag": "W/\"6e933fc35b987f27c6f9433e2531f8e75b84e9e030c65b819d4d47676d1b82d2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -999,6 +999,15 @@
       "name": "apache2",
       "url": "https://github.com/voronkovich/apache2.plugin.zsh",
       "description": "Adds aliases and functions for managing Apache2.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/sifex/apathy",
+      "name": "apathy",
+      "url": "https://github.com/sifex/apathy",
+      "description": "A terminal-to-agent zsh CLI that converts your pasted LLM prompts into actual invokes of harnesses like OpenCode, Claude Code and more. It manages to tell the difference between commands meant for your terminal, and prompts meant for your agent, as well as retain what you previously typed in your terminal.",
       "section": [
         "Plugins"
       ]
@@ -3299,15 +3308,6 @@
       ]
     },
     {
-      "key": "https://github.com/todie/exa.plugin.zsh",
-      "name": "exa (todie)",
-      "url": "https://github.com/todie/exa.plugin.zsh",
-      "description": "Integration and completions for exa, a modern replacement for ls.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
       "key": "https://github.com/zap-zsh/exa",
       "name": "exa (zap-zsh)",
       "url": "https://github.com/zap-zsh/exa",
@@ -3933,6 +3933,15 @@
       "name": "fzf-tools",
       "url": "https://github.com/happycod3r/fzf-tools",
       "description": "Provides functions, aliases and key-bindings for commands such as alias, find, ls, man, printenv that are designed to enhance your command-line workflow by making them to default to filtering through fzf, allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse git commits, and more.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ooodnakov/zsh-fzf-unified",
+      "name": "fzf-unified",
+      "url": "https://github.com/ooodnakov/zsh-fzf-unified",
+      "description": "A single managed source of truth for everything fzf inside ZSH: shell integration (Ctrl-T / Alt-C), history search (Ctrl-R), ripgrep live grep (Ctrl-G), Tab completion (fzf-tab, vendored) and the Up/Down arrow policy — one plugin instead of several loosely-coupled ones fighting over the same keybindings.",
       "section": [
         "Plugins"
       ]
@@ -8618,15 +8627,6 @@
       ]
     },
     {
-      "key": "https://github.com/todie/skaffold.plugin.zsh",
-      "name": "skaffold",
-      "url": "https://github.com/todie/skaffold.plugin.zsh",
-      "description": "ZSH integration and completions for skaffold local kubernetes development environment.",
-      "section": [
-        "Plugins"
-      ]
-    },
-    {
       "key": "https://github.com/casonadams/skim.zsh",
       "name": "skim (casonadams)",
       "url": "https://github.com/casonadams/skim.zsh",
@@ -10458,6 +10458,15 @@
       "name": "wsl2-ssh-pageant",
       "url": "https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin",
       "description": "Use your Yubikey stored GPG keys from WSL. This packages the instructions from wsl2-ssh-pageant repo as a ZSH plugin.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/Tenko-Star/zsh-wslpath",
+      "name": "wslpath",
+      "url": "https://github.com/Tenko-Star/zsh-wslpath",
+      "description": "Convert a Windows path on the WSL ZSH command line by pressing Tab. Pasting or dragging a path into the terminal does not change it. The plugin uses WSL's wslpath and only replaces the path if the file or directory exists.",
       "section": [
         "Plugins"
       ]
