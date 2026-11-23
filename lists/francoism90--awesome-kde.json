@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"3a51f3bfc05b8db0424979cf67a6b3c5af893699aa15612d62cfc69b1e88bc3e\"",
+  "etag": "W/\"538e8b0637b5346285a350c4b62d309ab56f6a8ffa643b70f005e6208094219c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -268,6 +268,16 @@
       "name": "Amarok",
       "url": "https://amarok.kde.org/",
       "description": "Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface 📌.",
+      "section": [
+        "Applications",
+        "Multimedia"
+      ]
+    },
+    {
+      "key": "https://github.com/RitwickVerma/chordist",
+      "name": "Chordist",
+      "url": "https://github.com/RitwickVerma/chordist",
+      "description": "A Plasma 6 widget that shows the chords, tab, synced lyrics and fingerings for whatever is playing, in step with the song.",
       "section": [
         "Applications",
         "Multimedia"
@@ -558,6 +568,16 @@
       "name": "dictee",
       "url": "https://github.com/rcspam/dictee",
       "description": "Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.",
+      "section": [
+        "Applications",
+        "Utilities & Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/A-Murchison/dotplasma",
+      "name": "dotplasma",
+      "url": "https://github.com/A-Murchison/dotplasma",
+      "description": "A CLI to back up, compare, import, and restore KDE Plasma configurations.",
       "section": [
         "Applications",
         "Utilities & Tools"

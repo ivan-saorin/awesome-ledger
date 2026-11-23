@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6e933fc35b987f27c6f9433e2531f8e75b84e9e030c65b819d4d47676d1b82d2\"",
+  "etag": "W/\"986bfbcc050b878cc17d924f05c42ed14cb0289bad989c6db99f86dfeea23e68\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -11079,6 +11079,24 @@
       "name": "zsh-dev-navigator",
       "url": "https://github.com/dvigo/zsh-dev-navigator",
       "description": "A minimal ZSH plugin that lets you quickly jump into your development directories with a single command.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ga2631/zsh-dropdown",
+      "name": "zsh-dropdown",
+      "url": "https://github.com/ga2631/zsh-dropdown",
+      "description": "Adds a flicker-free, prefix-only live completion dropdown for ZSH using DEC Mode 2026 synchronized redraws, automatic 24-bit/256-color themes, and ZSH 5.9 zasync self-healing.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/ga2631/zsh-editor-keys",
+      "name": "zsh-editor-keys",
+      "url": "https://github.com/ga2631/zsh-editor-keys",
+      "description": "Brings modern GUI editor keybindings to ZSH including Shift+Arrow char/subword/multi-line selection, cross-platform OS clipboard Cmd+C/X/V and Ctrl+Shift+C/X/V, Alt+A select all, Alt+Z undo/redo, and Shift+Enter newlines.",
       "section": [
         "Plugins"
       ]

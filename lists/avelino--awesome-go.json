@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c69490801eeef3cb753b538773f3fc09ff44be762f3d3981faa56816ea8bfc56\"",
+  "etag": "W/\"683b6b8c04450651d9bf441342836c5882af35cc4dd3e20fd10182a7f889b016\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -130,6 +130,15 @@
       ]
     },
     {
+      "key": "https://github.com/pmenglund/codex-sdk-go",
+      "name": "codex-sdk-go",
+      "url": "https://github.com/pmenglund/codex-sdk-go",
+      "description": "Go SDK for the OpenAI Codex app-server with streaming, approval callbacks, and structured output.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "key": "https://github.com/rhgs/crewai-go",
       "name": "crewai-go",
       "url": "https://github.com/rhgs/crewai-go",
@@ -215,6 +224,15 @@
       "name": "jargo",
       "url": "https://github.com/gojargo/jargo",
       "description": "Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/KafClaw/KafClaw",
+      "name": "KafClaw",
+      "url": "https://github.com/KafClaw/KafClaw",
+      "description": "Agent runtime that connects AI agents through Kafka topics, with groups, an orchestrator, shared memory and skill routing.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -1327,19 +1345,19 @@
       ]
     },
     {
-      "key": "https://github.com/magefile/mage",
-      "name": "mage",
-      "url": "https://github.com/magefile/mage",
-      "description": "Mage is a make/rake-like build tool using Go.",
+      "key": "https://github.com/chrismatix/grog",
+      "name": "grog",
+      "url": "https://github.com/chrismatix/grog",
+      "description": "Language-agnostic monorepo build tool with caching and parallel execution.",
       "section": [
         "Build Automation"
       ]
     },
     {
-      "key": "https://github.com/tj/mmake",
-      "name": "mmake",
-      "url": "https://github.com/tj/mmake",
-      "description": "Modern Make.",
+      "key": "https://github.com/magefile/mage",
+      "name": "mage",
+      "url": "https://github.com/magefile/mage",
+      "description": "Mage is a make/rake-like build tool using Go.",
       "section": [
         "Build Automation"
       ]
@@ -9465,6 +9483,15 @@
       "description": "Compiler from Go to JavaScript.",
       "section": [
         "Go Compilers"
+      ]
+    },
+    {
+      "key": "https://github.com/Yiming1997/agilePool",
+      "name": "agilePool",
+      "url": "https://github.com/Yiming1997/agilePool",
+      "description": "Goroutine pool with adaptive worker scaling, bounded concurrency, and overflow task buffering.",
+      "section": [
+        "Goroutines"
       ]
     },
     {
@@ -24277,6 +24304,16 @@
       "name": "alien",
       "url": "https://github.com/gernest/alien",
       "description": "Lightweight and fast http router from outer space.",
+      "section": [
+        "Web Frameworks",
+        "Routers"
+      ]
+    },
+    {
+      "key": "https://github.com/vroomy/apex",
+      "name": "apex",
+      "url": "https://github.com/vroomy/apex",
+      "description": "High-performance, zero-allocation HTTP router with trie-based routing and SIMD-accelerated path matching.",
       "section": [
         "Web Frameworks",
         "Routers"

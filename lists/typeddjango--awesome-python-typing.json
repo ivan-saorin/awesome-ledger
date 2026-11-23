@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b5526e362f43c9cfa41716f8b4161e37994c96b73c43f1bb8ff6587201e33b4a\"",
+  "etag": "W/\"dff13b4b8315ca917fca7a70892ff2cbc0b2c93a8160b300b0c01359bb83509f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -467,16 +467,6 @@
       ]
     },
     {
-      "key": "https://github.com/asottile/flake8-typing-imports",
-      "name": "flake8-typing-imports",
-      "url": "https://github.com/asottile/flake8-typing-imports",
-      "description": "Plugin which checks that typing imports are properly guarded.",
-      "section": [
-        "Tools",
-        "Linters"
-      ]
-    },
-    {
       "key": "https://github.com/sondrelg/flake8-typing-only-imports",
       "name": "flake8-typing-only-imports",
       "url": "https://github.com/sondrelg/flake8-typing-only-imports",
@@ -737,16 +727,6 @@
       ]
     },
     {
-      "key": "https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast",
-      "name": "pytype annotate-ast",
-      "url": "https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast",
-      "description": "A work-in-progress tool to annotate the nodes of an AST with their Python types.",
-      "section": [
-        "Tools",
-        "Helper tools to add annotations to existing code"
-      ]
-    },
-    {
       "key": "https://github.com/RightTyper/RightTyper",
       "name": "RightTyper",
       "url": "https://github.com/RightTyper/RightTyper",
@@ -757,10 +737,10 @@
       ]
     },
     {
-      "key": "https://github.com/Luttik/auto-optional",
-      "name": "auto-optional",
-      "url": "https://github.com/Luttik/auto-optional",
-      "description": "Makes typed arguments Optional when the default argument is None.",
+      "key": "https://github.com/JelleZijlstra/typeshed_client",
+      "name": "typeshed_client",
+      "url": "https://github.com/JelleZijlstra/typeshed_client",
+      "description": "Retrieve information from typeshed and other typing stubs.",
       "section": [
         "Tools",
         "Helper tools to add annotations to existing code"

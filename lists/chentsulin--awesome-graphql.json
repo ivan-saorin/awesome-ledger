@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b1ff70ac0b7d5138640369e54f460ce26c940d2b43824f84504d3a42dc2703ee\"",
+  "etag": "W/\"3e5b5851b962055e9eda6085ec56d48783db990aba18e4ccb01f9d8b5ac84b5e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -598,6 +598,17 @@
       "name": "zodql",
       "url": "https://github.com/mattiasahlsen/zodql",
       "description": "Type-safe GraphQL client that uses Zod schemas as the single source of truth to build queries, infer response types, and validate responses at runtime.",
+      "section": [
+        "Implementations",
+        "JavaScript/TypeScript",
+        "Clients"
+      ]
+    },
+    {
+      "key": "https://github.com/BetterTyped/hyper-fetch",
+      "name": "HyperFetch",
+      "url": "https://github.com/BetterTyped/hyper-fetch",
+      "description": "Type-safe data fetching framework whose GraphQL adapter sends typed queries and mutations over HTTP and subscriptions over WebSocket, with caching, retries, and React hooks.",
       "section": [
         "Implementations",
         "JavaScript/TypeScript",

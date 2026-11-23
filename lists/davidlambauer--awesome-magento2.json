@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"69558480561d1dcdfd6cf733354ae19b79917151edb528a8281924eb96d60705\"",
+  "etag": "W/\"4e5121d590fe381035422248f48ac195b759c581603891004e17f92044ee49dc\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -283,15 +283,6 @@
       ]
     },
     {
-      "key": "https://github.com/opengento/magento2-downgrade-ee-ce",
-      "name": "Migrate DB Magento 2 Commerce to Magento 2 Open-Source",
-      "url": "https://github.com/opengento/magento2-downgrade-ee-ce",
-      "description": "🫡 - Migrate a Magento 2 Commerce database to Magento 2 Open Source.",
-      "section": [
-        "Tools"
-      ]
-    },
-    {
       "key": "https://github.com/jellesiderius/mage-db-sync",
       "name": "Magento 2 Database Synchronizer",
       "url": "https://github.com/jellesiderius/mage-db-sync",
@@ -319,19 +310,19 @@
       ]
     },
     {
-      "key": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
-      "name": "AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
-      "url": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
-      "description": "Helper script to aid upgrading Magento 2 websites by detecting overrides.",
+      "key": "https://github.com/magespecialist/mage-chrome-toolbar",
+      "name": "Mage Chrome Toolbar",
+      "url": "https://github.com/magespecialist/mage-chrome-toolbar",
+      "description": "Chrome extension for Magento 2 development by MageSpecialist.",
       "section": [
         "Tools"
       ]
     },
     {
-      "key": "https://github.com/magespecialist/mage-chrome-toolbar",
-      "name": "Mage Chrome Toolbar",
-      "url": "https://github.com/magespecialist/mage-chrome-toolbar",
-      "description": "Chrome extension for Magento 2 development by MageSpecialist.",
+      "key": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
+      "name": "AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
+      "url": "https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper",
+      "description": "Helper script to aid upgrading Magento 2 websites by detecting overrides.",
       "section": [
         "Tools"
       ]
@@ -350,6 +341,15 @@
       "name": "Tango",
       "url": "https://github.com/roma-glushko/tango",
       "description": "CLI for analyzing access logs.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/opengento/magento2-downgrade-ee-ce",
+      "name": "Migrate DB Magento 2 Commerce to Magento 2 Open-Source",
+      "url": "https://github.com/opengento/magento2-downgrade-ee-ce",
+      "description": "Migrate a Magento 2 Commerce database to Magento 2 Open Source.",
       "section": [
         "Tools"
       ]
@@ -906,7 +906,17 @@
       "key": "https://github.com/firegento/FireGento_FastSimpleImport2",
       "name": "FastSimpleImport2",
       "url": "https://github.com/firegento/FireGento_FastSimpleImport2",
-      "description": "Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.",
+      "description": "🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.",
+      "section": [
+        "Open Source Extensions",
+        "Search"
+      ]
+    },
+    {
+      "key": "https://github.com/run-as-root/Typesense-Magento-2",
+      "name": "Typesense-Magento-2",
+      "url": "https://github.com/run-as-root/Typesense-Magento-2",
+      "description": "🫡 - Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.",
       "section": [
         "Open Source Extensions",
         "Search"
@@ -927,16 +937,6 @@
       "name": "magento2-module-meilisearch",
       "url": "https://github.com/walkwizus/magento2-module-meilisearch",
       "description": "The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.",
-      "section": [
-        "Open Source Extensions",
-        "Search"
-      ]
-    },
-    {
-      "key": "https://github.com/run-as-root/Typesense-Magento-2",
-      "name": "Typesense-Magento-2",
-      "url": "https://github.com/run-as-root/Typesense-Magento-2",
-      "description": "Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.",
       "section": [
         "Open Source Extensions",
         "Search"
@@ -1073,10 +1073,10 @@
       ]
     },
     {
-      "key": "https://github.com/bitExpert/magento2-force-login",
-      "name": "Customer Force Login",
-      "url": "https://github.com/bitExpert/magento2-force-login",
-      "description": "🫡 - Forces customers to log in before accessing certain pages.",
+      "key": "https://github.com/hyva-themes/magento2-hyva-admin",
+      "name": "magento2-hyva-admin",
+      "url": "https://github.com/hyva-themes/magento2-hyva-admin",
+      "description": "🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
       "section": [
         "Open Source Extensions",
         "Adminhtml / Backend"
@@ -1123,10 +1123,10 @@
       ]
     },
     {
-      "key": "https://github.com/hyva-themes/magento2-hyva-admin",
-      "name": "magento2-hyva-admin",
-      "url": "https://github.com/hyva-themes/magento2-hyva-admin",
-      "description": "This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.",
+      "key": "https://github.com/bitExpert/magento2-force-login",
+      "name": "Customer Force Login",
+      "url": "https://github.com/bitExpert/magento2-force-login",
+      "description": "Forces customers to log in before accessing certain pages.",
       "section": [
         "Open Source Extensions",
         "Adminhtml / Backend"
@@ -1293,6 +1293,16 @@
       ]
     },
     {
+      "key": "https://github.com/mage-os/magento-cache-clean",
+      "name": "magento-cache-clean",
+      "url": "https://github.com/mage-os/magento-cache-clean",
+      "description": "🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher",
+      "section": [
+        "Open Source Extensions",
+        "Infrastructure"
+      ]
+    },
+    {
       "key": "https://github.com/mage-os/module-theme-optimization",
       "name": "module-theme-optimization",
       "url": "https://github.com/mage-os/module-theme-optimization",
@@ -1327,16 +1337,6 @@
       "name": "Clean Media",
       "url": "https://github.com/sivaschenko/magento2-clean-media",
       "description": "A module that provides information about media files and potential removal options.",
-      "section": [
-        "Open Source Extensions",
-        "Infrastructure"
-      ]
-    },
-    {
-      "key": "https://github.com/mage-os/magento-cache-clean",
-      "name": "magento-cache-clean",
-      "url": "https://github.com/mage-os/magento-cache-clean",
-      "description": "A faster drop in replacement for bin/magento cache:clean with file watcher",
       "section": [
         "Open Source Extensions",
         "Infrastructure"

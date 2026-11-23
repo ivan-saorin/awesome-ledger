@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"06a26ecdf983bf0f3bf92fa234dbbf34ed643039c071ba0d0f836119955b6927\"",
+  "etag": "W/\"924f124c0bd4c3f180b0145c681127dd701aee87ca23743638b3f5838acc0756\"",
   "readme_path": "readme.md",
   "misses": 0,
   "entries": [
@@ -32,6 +32,26 @@
       ]
     },
     {
+      "key": "https://github.com/chrisbanes/haze",
+      "name": "Haze",
+      "url": "https://github.com/chrisbanes/haze",
+      "description": "Blur and frosted-glass effects for Jetpack Compose and Compose Multiplatform.",
+      "section": [
+        "Libraries",
+        "Jetpack Compose"
+      ]
+    },
+    {
+      "key": "https://github.com/airbnb/Showkase",
+      "name": "Showkase",
+      "url": "https://github.com/airbnb/Showkase",
+      "description": "Annotation-processor-based browser for your Jetpack Compose UI elements, colors and typography.",
+      "section": [
+        "Libraries",
+        "Jetpack Compose"
+      ]
+    },
+    {
       "key": "https://github.com/slackhq/circuit",
       "name": "Circuit",
       "url": "https://github.com/slackhq/circuit",
@@ -46,6 +66,26 @@
       "name": "Decompose",
       "url": "https://github.com/arkivanov/Decompose",
       "description": "Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components.",
+      "section": [
+        "Libraries",
+        "Architecture"
+      ]
+    },
+    {
+      "key": "https://github.com/cashapp/molecule",
+      "name": "Molecule",
+      "url": "https://github.com/cashapp/molecule",
+      "description": "Build a StateFlow or Flow stream using Jetpack Compose runtime.",
+      "section": [
+        "Libraries",
+        "Architecture"
+      ]
+    },
+    {
+      "key": "https://github.com/MobileNativeFoundation/Store",
+      "name": "Store",
+      "url": "https://github.com/MobileNativeFoundation/Store",
+      "description": "Kotlin Multiplatform library for loading, caching and syncing data with a Flow-based API.",
       "section": [
         "Libraries",
         "Architecture"
@@ -242,16 +282,6 @@
       ]
     },
     {
-      "key": "https://github.com/daimajia/AndroidViewAnimations",
-      "name": "Android View Animations",
-      "url": "https://github.com/daimajia/AndroidViewAnimations",
-      "description": "Cute view animation collection.",
-      "section": [
-        "Libraries",
-        "GUI"
-      ]
-    },
-    {
       "key": "https://github.com/zetbaitsu/Compressor",
       "name": "Compressor",
       "url": "https://github.com/zetbaitsu/Compressor",
@@ -296,6 +326,16 @@
       "name": "Coil",
       "url": "https://github.com/coil-kt/coil",
       "description": "Image loading for Android backed by Kotlin Coroutines.",
+      "section": [
+        "Libraries",
+        "GUI"
+      ]
+    },
+    {
+      "key": "https://github.com/skydoves/landscapist",
+      "name": "Landscapist",
+      "url": "https://github.com/skydoves/landscapist",
+      "description": "Image loading for Jetpack Compose and Kotlin Multiplatform with Coil, Glide and Fresco as backends.",
       "section": [
         "Libraries",
         "GUI"
@@ -456,6 +496,16 @@
       "name": "Fast-Android-Networking",
       "url": "https://github.com/amitshekhariitbhu/Fast-Android-Networking",
       "description": "A Complete Fast Android Networking Library that also support HTTP/2.",
+      "section": [
+        "Libraries",
+        "Networking"
+      ]
+    },
+    {
+      "key": "https://github.com/square/wire",
+      "name": "Wire",
+      "url": "https://github.com/square/wire",
+      "description": "Protocol buffers and gRPC for Kotlin, Java and Kotlin Multiplatform.",
       "section": [
         "Libraries",
         "Networking"
@@ -692,6 +742,16 @@
       ]
     },
     {
+      "key": "https://github.com/e2e-inc/e2e",
+      "name": "e2e",
+      "url": "https://github.com/e2e-inc/e2e",
+      "description": "End-to-end testing framework for Android and web apps that combines natural-language agent steps with locator-based assertions.",
+      "section": [
+        "Libraries",
+        "Testing"
+      ]
+    },
+    {
       "key": "https://countly.com",
       "name": "Countly",
       "url": "https://countly.com/",
@@ -822,6 +882,16 @@
       ]
     },
     {
+      "key": "https://github.com/Genymobile/scrcpy",
+      "name": "scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control Android devices connected via USB or TCP/IP.",
+      "section": [
+        "Libraries",
+        "Debugging Tools"
+      ]
+    },
+    {
       "key": "https://github.com/JuulLabs/kable",
       "name": "Kable",
       "url": "https://github.com/JuulLabs/kable",
@@ -832,9 +902,9 @@
       ]
     },
     {
-      "key": "https://github.com/NordicSemiconductor/Android-BLE-Library",
+      "key": "https://github.com/nordicsemi/Android-BLE-Library",
       "name": "Nordic Android-BLE-Library",
-      "url": "https://github.com/NordicSemiconductor/Android-BLE-Library",
+      "url": "https://github.com/nordicsemi/Android-BLE-Library",
       "description": "Android BLE library from Nordic Semiconductor for reliable BLE communication.",
       "section": [
         "Libraries",
@@ -1471,6 +1541,16 @@
       "name": "Kotlin coding challenges",
       "url": "https://github.com/igorwojda/kotlin-coding-challenges",
       "description": "Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.",
+      "section": [
+        "Development Alternatives",
+        "Kotlin Multiplatform"
+      ]
+    },
+    {
+      "key": "https://github.com/JetBrains/compose-hot-reload",
+      "name": "Compose Hot Reload",
+      "url": "https://github.com/JetBrains/compose-hot-reload",
+      "description": "Hot reload for Compose Multiplatform, by JetBrains.",
       "section": [
         "Development Alternatives",
         "Kotlin Multiplatform"

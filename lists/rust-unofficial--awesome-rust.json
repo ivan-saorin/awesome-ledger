@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"fdde7f0549f1ba50abfc9fcc81d2973d962c5457d5540ae9911675c9bd00afce\"",
+  "etag": "W/\"03933852d62b18632ceb1ad08a20720ac2f5b510dbffcc7101c30e66e6f6e484\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -323,6 +323,15 @@
       "name": "linkerd/linkerd2-proxy",
       "url": "https://github.com/linkerd/linkerd2-proxy",
       "description": "Ultralight service mesh for Kubernetes.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/localixai/localix-cli",
+      "name": "localixai/localix-cli",
+      "url": "https://github.com/localixai/localix-cli",
+      "description": "A terminal coding agent and agent runtime for CI and scripts, on any hosted or local model; one binary, command llx",
       "section": [
         "Applications"
       ]
@@ -4005,16 +4014,6 @@
       ]
     },
     {
-      "key": "https://github.com/ipavlin98/traydex",
-      "name": "ipavlin98/traydex",
-      "url": "https://github.com/ipavlin98/traydex",
-      "description": "Native drag-and-drop shelf for Windows built with GPUI: keep files, images, text and links at hand, or drop them on tiles to zip, convert, OCR and upload",
-      "section": [
-        "Applications",
-        "Productivity"
-      ]
-    },
-    {
       "key": "https://github.com/iwe-org/iwe",
       "name": "iwe-org/iwe",
       "url": "https://github.com/iwe-org/iwe",
@@ -4819,16 +4818,6 @@
       "name": "rustscan",
       "url": "https://github.com/bee-san/RustScan",
       "description": "Make Nmap faster with this port scanning tool",
-      "section": [
-        "Applications",
-        "Security tools"
-      ]
-    },
-    {
-      "key": "https://github.com/santhreal/keyhog",
-      "name": "santhreal/keyhog",
-      "url": "https://github.com/santhreal/keyhog",
-      "description": "[keyhog] - Detects leaked credentials and API keys across source trees, git history, archives, and remote sources, with live verification of found secrets",
       "section": [
         "Applications",
         "Security tools"
@@ -6029,6 +6018,16 @@
       "name": "Ferrite",
       "url": "https://github.com/OlaProeis/Ferrite",
       "description": "A cross-platform markdown editor built with egui, featuring live preview, syntax highlighting, and mermaid diagrams.",
+      "section": [
+        "Applications",
+        "Text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/MuaraAI/FluxCode",
+      "name": "FluxCode",
+      "url": "https://github.com/MuaraAI/FluxCode",
+      "description": "A lightweight native code editor for Windows, macOS and Linux built on GPUI (~50 ms startup, 1.4 MB idle RAM) with an integrated AI agent workspace (ACP), Git, and Python terminal.",
       "section": [
         "Applications",
         "Text editors"
@@ -7635,6 +7634,16 @@
       ]
     },
     {
+      "key": "https://github.com/holon-run/holon",
+      "name": "holon-run/holon",
+      "url": "https://github.com/holon-run/holon",
+      "description": "[holon] - Local-first Rust workbench for always-on AI agents with explicit work items, event-driven wait/wake, and isolated git worktrees.",
+      "section": [
+        "Applications",
+        "Workflow Automation"
+      ]
+    },
+    {
       "key": "https://github.com/julianosig/easi.run",
       "name": "julianosig/easi.run",
       "url": "https://github.com/julianosig/easi.run",
@@ -7911,6 +7920,15 @@
       "name": "fzf-make",
       "url": "https://github.com/kyu08/fzf-make",
       "description": "[fzf-make] - A command line tool that executes make target using fuzzy finder with preview window.",
+      "section": [
+        "Development tools"
+      ]
+    },
+    {
+      "key": "https://github.com/gbenm/fire",
+      "name": "gbenm/fire",
+      "url": "https://github.com/gbenm/fire",
+      "description": "[fire-cli] - Config-first task runner: YAML commands with dynamic shell completion, detachable pty sessions, and an MCP server so AI agents run your project's commands",
       "section": [
         "Development tools"
       ]
@@ -11222,6 +11240,26 @@
       "name": "pdeljanov/Symphonia",
       "url": "https://github.com/pdeljanov/Symphonia",
       "description": "Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.",
+      "section": [
+        "Libraries",
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/Remade-With-Rust/rusty-opus",
+      "name": "Remade-With-Rust/rusty-opus",
+      "url": "https://github.com/Remade-With-Rust/rusty-opus",
+      "description": "[rusty-opus] - Pure-Rust Opus audio codec (RFC 6716): encoder and decoder.",
+      "section": [
+        "Libraries",
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/Remade-With-Rust/rusty_flac",
+      "name": "Remade-With-Rust/rusty_flac",
+      "url": "https://github.com/Remade-With-Rust/rusty_flac",
+      "description": "[rusty_flac] - Pure-Rust FLAC encoder and decoder.",
       "section": [
         "Libraries",
         "Audio and Music"
@@ -16548,6 +16586,26 @@
       ]
     },
     {
+      "key": "https://github.com/Remade-With-Rust/rusty_dds",
+      "name": "Remade-With-Rust/rusty_dds",
+      "url": "https://github.com/Remade-With-Rust/rusty_dds",
+      "description": "[rusty_dds] - Pure-Rust DDS texture toolkit: container parse, decode, encode, and GPU upload plans.",
+      "section": [
+        "Libraries",
+        "Image processing"
+      ]
+    },
+    {
+      "key": "https://github.com/Remade-With-Rust/rusty_jpeg",
+      "name": "Remade-With-Rust/rusty_jpeg",
+      "url": "https://github.com/Remade-With-Rust/rusty_jpeg",
+      "description": "[rusty_jpeg] - Pure-Rust JPEG/MJPEG decoder and encoder.",
+      "section": [
+        "Libraries",
+        "Image processing"
+      ]
+    },
+    {
       "key": "https://github.com/rust-cv/cv",
       "name": "rust-cv/cv",
       "url": "https://github.com/rust-cv/cv",
@@ -16735,6 +16793,16 @@
       "section": [
         "Libraries",
         "Markup language"
+      ]
+    },
+    {
+      "key": "https://github.com/Remade-With-Rust/rusty_alloc",
+      "name": "Remade-With-Rust/rusty_alloc",
+      "url": "https://github.com/Remade-With-Rust/rusty_alloc",
+      "description": "[rusty_alloc] - Pure-Rust allocator (a remake of mimalloc) with a no_std core.",
+      "section": [
+        "Libraries",
+        "Memory management"
       ]
     },
     {
@@ -17098,16 +17166,6 @@
       ]
     },
     {
-      "key": "https://github.com/b23r0/rust-raknet",
-      "name": "b23r0/rust-raknet",
-      "url": "https://github.com/b23r0/rust-raknet",
-      "description": "RakNet Protocol implementation",
-      "section": [
-        "Libraries",
-        "Network programming"
-      ]
-    },
-    {
       "key": "https://github.com/remoc-rs/remoc",
       "name": "remoc-rs/remoc",
       "url": "https://github.com/remoc-rs/remoc",
@@ -17352,6 +17410,16 @@
       "name": "Marwes/combine",
       "url": "https://github.com/Marwes/combine",
       "description": "parser combinator library",
+      "section": [
+        "Libraries",
+        "Parsing"
+      ]
+    },
+    {
+      "key": "https://github.com/Mattbusel/remoteid",
+      "name": "Mattbusel/remoteid",
+      "url": "https://github.com/Mattbusel/remoteid",
+      "description": "[remoteid] - no_std decoder for ASTM F3411 / ASD-STAN drone Remote ID broadcast frames (Bluetooth and Wi-Fi), with DRIP authentication (RFC 9575) checks.",
       "section": [
         "Libraries",
         "Parsing"
@@ -18368,6 +18436,36 @@
       ]
     },
     {
+      "key": "https://github.com/Remade-With-Rust/remade_ffmpeg_rs",
+      "name": "Remade-With-Rust/remade_ffmpeg_rs",
+      "url": "https://github.com/Remade-With-Rust/remade_ffmpeg_rs",
+      "description": "[rff-core] - Ground-up Rust remake of FFmpeg for decode, encode, transcode, mux, and probe.",
+      "section": [
+        "Libraries",
+        "Video"
+      ]
+    },
+    {
+      "key": "https://github.com/Remade-With-Rust/rusty_h264",
+      "name": "Remade-With-Rust/rusty_h264",
+      "url": "https://github.com/Remade-With-Rust/rusty_h264",
+      "description": "[rusty_h264] - Pure-Rust H.264 encoder and decoder.",
+      "section": [
+        "Libraries",
+        "Video"
+      ]
+    },
+    {
+      "key": "https://github.com/Remade-With-Rust/rusty_h265",
+      "name": "Remade-With-Rust/rusty_h265",
+      "url": "https://github.com/Remade-With-Rust/rusty_h265",
+      "description": "[rusty_h265] - Pure-Rust HEVC / H.265 video decoder.",
+      "section": [
+        "Libraries",
+        "Video"
+      ]
+    },
+    {
       "key": "https://github.com/doom-fish/screencapturekit-rs",
       "name": "screencapturekit-rs",
       "url": "https://github.com/doom-fish/screencapturekit-rs",
@@ -19062,6 +19160,16 @@
       "name": "teloxide/teloxide",
       "url": "https://github.com/teloxide/teloxide/",
       "description": "An elegant Telegram bots framework",
+      "section": [
+        "Libraries",
+        "Web programming"
+      ]
+    },
+    {
+      "key": "https://github.com/thepartly/reflectapi",
+      "name": "thepartly/reflectapi",
+      "url": "https://github.com/thepartly/reflectapi",
+      "description": "[reflectapi] - Define a web API as plain Rust functions and generate typed TypeScript, Python and Rust clients, typed streams included",
       "section": [
         "Libraries",
         "Web programming"

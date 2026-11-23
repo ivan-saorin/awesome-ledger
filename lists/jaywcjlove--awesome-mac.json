@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"946e83772cbdb6b8f67ac7d981e39570b856dd1c7c8e2ef09af9ba1449ba217e\"",
+  "etag": "W/\"844e59668b9021f7222e912e8fdb6dd533081c624a46547ea901d3b106241c1e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2018,6 +2018,16 @@
       "name": "Trae",
       "url": "https://www.trae.ai/",
       "description": "AI-powered IDE for coding and software development.",
+      "section": [
+        "Developer Tools",
+        "IDEs"
+      ]
+    },
+    {
+      "key": "https://traycer.ai",
+      "name": "Traycer",
+      "url": "https://traycer.ai",
+      "description": "Open-source desktop app that runs 22 coding agents and model providers in parallel from one shared plan.",
       "section": [
         "Developer Tools",
         "IDEs"
@@ -4517,6 +4527,15 @@
       ]
     },
     {
+      "key": "https://terminal.localix.ai",
+      "name": "Localix Terminal",
+      "url": "https://terminal.localix.ai",
+      "description": "Native terminal for you and your coding agents, with project sessions that come back as you left them and a browser and board beside them.",
+      "section": [
+        "Terminal Apps"
+      ]
+    },
+    {
       "key": "https://github.com/aralozaltin/sshfire",
       "name": "SSHFire",
       "url": "https://github.com/aralozaltin/sshfire",
@@ -5438,6 +5457,16 @@
       "name": "Photon",
       "url": "https://www.piedol.top/photon/",
       "description": "Open-source screenshot, markup and screen recording tool for macOS and Windows, with no network code.",
+      "section": [
+        "Design and Product",
+        "Screenshot Tools"
+      ]
+    },
+    {
+      "key": "https://pinstill.echovic.com/en",
+      "name": "Pinstill",
+      "url": "https://pinstill.echovic.com/en/",
+      "description": "Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.",
       "section": [
         "Design and Product",
         "Screenshot Tools"
@@ -6693,6 +6722,15 @@
       ]
     },
     {
+      "key": "https://github.com/OgnjenAdzic28/hush",
+      "name": "Hush",
+      "url": "https://github.com/OgnjenAdzic28/hush",
+      "description": "Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer.",
+      "section": [
+        "AI Tools"
+      ]
+    },
+    {
       "key": "https://o8.run",
       "name": "o8",
       "url": "https://o8.run",
@@ -6837,10 +6875,10 @@
       ]
     },
     {
-      "key": "https://joexk1.github.io/joebro",
+      "key": "https://joebro.pages.dev",
       "name": "JoeBro",
-      "url": "https://joexk1.github.io/joebro/",
-      "description": "Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research.",
+      "url": "https://joebro.pages.dev",
+      "description": "Native SwiftUI workspace for coding agents (Claude Code, Codex, OpenCode) with your files open beside them, shared memory over MCP, overnight tasks, and local or API models.",
       "section": [
         "AI Tools"
       ]
@@ -9573,6 +9611,15 @@
       ]
     },
     {
+      "key": "https://pilion.echovic.com/en",
+      "name": "Pilion",
+      "url": "https://pilion.echovic.com/en/",
+      "description": "Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.",
+      "section": [
+        "Browsers"
+      ]
+    },
+    {
       "key": "https://qutebrowser.org",
       "name": "qutebrowser",
       "url": "https://www.qutebrowser.org/",
@@ -10542,6 +10589,16 @@
       ]
     },
     {
+      "key": "https://github.com/getguruhat/cliphat-macos",
+      "name": "ClipHat",
+      "url": "https://github.com/getguruhat/cliphat-macos",
+      "description": "Free clipboard history manager with search, pins and ⌘⇧V restore for text, links, images and files, stored locally.",
+      "section": [
+        "Utilities",
+        "Clipboard Tools"
+      ]
+    },
+    {
       "key": "https://github.com/weiykong/ClipHistory",
       "name": "ClipHistory",
       "url": "https://github.com/weiykong/ClipHistory",
@@ -10839,6 +10896,16 @@
       "section": [
         "Utilities",
         "Clipboard Tools"
+      ]
+    },
+    {
+      "key": "https://harshwardhangalande.github.io/Iris",
+      "name": "Iris",
+      "url": "https://harshwardhangalande.github.io/Iris/",
+      "description": "Native 20-20-20 rule eye-care & break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.",
+      "section": [
+        "Utilities",
+        "Menu Bar Tools"
       ]
     },
     {
@@ -11326,6 +11393,16 @@
       "name": "ILoveNotch",
       "url": "https://github.com/niyamvora/ILoveNotch",
       "description": "Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.",
+      "section": [
+        "Utilities",
+        "Menu Bar Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/dirkkredinger/InputBattery",
+      "name": "InputBattery",
+      "url": "https://github.com/dirkkredinger/InputBattery",
+      "description": "Battery levels of Bluetooth keyboards, mice, headsets and AirPods in the menu bar and a desktop widget, with a warning before they run empty.",
       "section": [
         "Utilities",
         "Menu Bar Tools"
@@ -12166,6 +12243,16 @@
       "name": "Cleaner for Xcode",
       "url": "https://github.com/waylybaye/XcodeCleaner-SwiftUI",
       "description": "Remove unwanted Xcode files.",
+      "section": [
+        "Utilities",
+        "Cleanup and Uninstall"
+      ]
+    },
+    {
+      "key": "https://cleanzo.echovic.com/en",
+      "name": "Cleanzo",
+      "url": "https://cleanzo.echovic.com/en/",
+      "description": "Open-source cleaner for macOS and Windows that shows system and disk usage, then clears caches, large files and idle build output after review.",
       "section": [
         "Utilities",
         "Cleanup and Uninstall"
@@ -13032,6 +13119,16 @@
       ]
     },
     {
+      "key": "https://terento.app",
+      "name": "Terento",
+      "url": "https://terento.app",
+      "description": "Install free maps on Garmin watches and Edge bike computers.",
+      "section": [
+        "Utilities",
+        "General Tools"
+      ]
+    },
+    {
       "key": "https://github.com/Swift-open-source/UltraTabSaver",
       "name": "Ultra TabSaver",
       "url": "https://github.com/Swift-open-source/UltraTabSaver",
@@ -13802,6 +13899,16 @@
       ]
     },
     {
+      "key": "https://github.com/01wil/OpenGestures",
+      "name": "OpenGestures",
+      "url": "https://github.com/01wil/OpenGestures",
+      "description": "Open-source trackpad gestures mapped to window, app, shortcut, and script actions.",
+      "section": [
+        "Utilities",
+        "Productivity"
+      ]
+    },
+    {
       "key": "https://loshadki.app/openin4",
       "name": "OpenIn",
       "url": "https://loshadki.app/openin4/",
@@ -14126,6 +14233,16 @@
       "name": "Trello",
       "url": "https://trello.com",
       "description": "A collaboration tool that organizes your projects into Kanban boards.",
+      "section": [
+        "Utilities",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/wilu222/tripleclick",
+      "name": "TripleClick",
+      "url": "https://github.com/wilu222/tripleclick",
+      "description": "Open-source menu bar tool that turns a three-finger trackpad click into a middle click, with optional middle-drag.",
       "section": [
         "Utilities",
         "Productivity"
@@ -15166,6 +15283,16 @@
       "name": "NotificationNanny",
       "url": "https://chessper53.github.io/NotificationNanny/",
       "description": "Moves and restyles notification banners and can replace the Notification Center panel with a customizable one.",
+      "section": [
+        "Utilities",
+        "Quality of Life Improvements"
+      ]
+    },
+    {
+      "key": "https://smcnab1.github.io/pokelet",
+      "name": "Pokelet",
+      "url": "https://smcnab1.github.io/pokelet/",
+      "description": "A playful, lightweight macOS app that brings your cursor to life with animated characters, click effects and sounds.",
       "section": [
         "Utilities",
         "Quality of Life Improvements"

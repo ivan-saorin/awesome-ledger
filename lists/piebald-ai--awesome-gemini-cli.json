@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f87c21be24f0dc01d1956a895d162cd46330fe8d667760ca9b019a614d3acbc1\"",
+  "etag": "W/\"05a035793c2a55fd580cd6f3f0efd7d47fa6250a5474e972697602d1ffccd439\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3275,6 +3275,15 @@
       "name": "DankMachine Meme Sounds",
       "url": "https://github.com/HalberdLLC/dank-meme-sounds",
       "description": "Free, read-only MCP server that lets Gemini CLI find, search and play 38,000+ meme sound effects: describe a moment to get a fitting reaction sound, or see what is trending. Remote Streamable HTTP (gemini mcp add --transport http dank-meme-sounds https://dankmachine.com/mcp, no API key) or local with playback via gemini mcp add dankmachine -- npx -y dank-meme-sounds.",
+      "section": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "key": "https://github.com/i2v-ai/i2v-mcp",
+      "name": "i2v.ai",
+      "url": "https://github.com/i2v-ai/i2v-mcp",
+      "description": "Hosted MCP server for image and video generation across 12 image and 16 video models, with a USD quote before every paid task and a caller-set spending ceiling. Remote Streamable HTTP with OAuth (gemini mcp add --transport http i2v https://i2v.ai/api/mcp) or an API key, or local from npm (gemini mcp add i2v -- npx -y @i2v-ai/cli mcp, Node 20+). Extension manifest: gemini extensions install https://github.com/i2v-ai/i2v-mcp.",
       "section": [
         "MCP Servers"
       ]
