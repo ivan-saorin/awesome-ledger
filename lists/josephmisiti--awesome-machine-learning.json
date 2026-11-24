@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5d1f60f18edb055ef9aca6803920a94ba0603736f2bdcfd894adef4dcaeec6ee\"",
+  "etag": "W/\"5e39525789a6ee19f59a7306eda403fd3c462643c9c980fd8bf9f69114f6328c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -7741,6 +7741,16 @@
       "name": "eigenkit",
       "url": "https://github.com/eigenorbit/eigenkit",
       "description": "Quantum machine learning in Python: hybrid quantum neural networks as PyTorch modules and quantum kernel models (QSVC/QSVR) with a scikit-learn API, run on PennyLane, Qiskit, CUDA-Q and other simulators or on IBM, IQM and Amazon Braket QPUs.",
+      "section": [
+        "Python",
+        "General-Purpose Machine Learning"
+      ]
+    },
+    {
+      "key": "https://github.com/aigensys-labs/aidflow",
+      "name": "aidflow",
+      "url": "https://github.com/aigensys-labs/aidflow",
+      "description": "Pipeline-first framework for building reproducible, audit-ready production credit scorecards in regulated finance (banking, insurance, fintech). One call — or an interactive UI — drives the whole pipeline (stabilize, WOE-encode, train an ensemble, promote a champion) and exports a self-contained scoring artifact with full feature lineage and SHAP for regulatory review.",
       "section": [
         "Python",
         "General-Purpose Machine Learning"

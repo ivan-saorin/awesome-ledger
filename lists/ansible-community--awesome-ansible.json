@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"84ac515d493e1858b2db4e6a6fe7a375860943d752b730c08e9cfb662497e3d2\"",
+  "etag": "W/\"d95641a090d0eb882637da25bbd8a80e57076bfb064859d3d80c4f4afea5dcd3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -656,6 +656,15 @@
       "name": "Functional programming design patterns in Ansible code",
       "url": "https://kksat.github.io/talks/2025/functional-ansible/",
       "description": "Borrowing functional programming (FP) principles to improve Ansible code quality. How to adopt functional patterns like pure functions, clear separation of effects, immutability, composition, and lazy evaluation can make Ansible automation far easier to test, debug, understand, and extend.",
+      "section": [
+        "Blog posts and opinions"
+      ]
+    },
+    {
+      "key": "https://devtoolhub.com/ansible-lint-github-actions",
+      "name": "Ansible Lint GitHub Actions: Fail PRs on Bad Playbooks",
+      "url": "https://devtoolhub.com/ansible-lint-github-actions/",
+      "description": "Wires ansible-lint into a pull request check, compares the profiles on a real playbook, and shows how an ignore file can hide new violations.",
       "section": [
         "Blog posts and opinions"
       ]

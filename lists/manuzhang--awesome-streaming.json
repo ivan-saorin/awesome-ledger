@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"96123d34d60d6036095a52b9178e97696093bc45c8432cfddf150ccb3f28101f\"",
+  "etag": "W/\"6fa7efcc8b0153471419a85b6c471de0e45be37dbd1b5aa51394231302d6ce92\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -417,7 +417,7 @@
       "key": "https://github.com/redpanda-data/redpanda",
       "name": "Redpanda",
       "url": "https://github.com/redpanda-data/redpanda",
-      "description": "Kafka API-compatible streaming data platform without ZooKeeper or a JVM.",
+      "description": "Kafka API-compatible streaming data platform without ZooKeeper or a JVM. Releases from 26.3.1 onward are closed source.",
       "section": [
         "Table of Contents",
         "Engines and Platforms"
@@ -1044,6 +1044,16 @@
       ]
     },
     {
+      "key": "https://github.com/galaxy-io/filament",
+      "name": "Filament",
+      "url": "https://github.com/galaxy-io/filament",
+      "description": "Data replication engine that moves data between databases, SaaS APIs, streams and object storage with full and incremental sync.",
+      "section": [
+        "Table of Contents",
+        "Data Integration and Pipelines"
+      ]
+    },
+    {
       "key": "https://github.com/bruin-data/ingestr",
       "name": "inGestr",
       "url": "https://github.com/bruin-data/ingestr",
@@ -1064,9 +1074,9 @@
       ]
     },
     {
-      "key": "https://github.com/datazip-inc/olake",
+      "key": "https://github.com/datazip-inc/olake-go",
       "name": "OLake",
-      "url": "https://github.com/datazip-inc/olake",
+      "url": "https://github.com/datazip-inc/olake-go",
       "description": "Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg with CDC, full refresh and incremental sync.",
       "section": [
         "Table of Contents",

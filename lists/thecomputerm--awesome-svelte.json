@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"28cbf834e7f8ca468f1798a3c84669158b4e482896d3eeb6d027fc275b7e34ee\"",
+  "etag": "W/\"3faac7cbc37d63f6a79cbc1536bc51bfa1a839052500625c38af8717192a2d70\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -274,9 +274,9 @@
       ]
     },
     {
-      "key": "https://svelte-native.technology",
+      "key": "https://svelte.nativescript.org",
       "name": "Svelte Native",
-      "url": "https://svelte-native.technology/",
+      "url": "https://svelte.nativescript.org/",
       "description": "Svelte controlling native components via Nativescript.",
       "section": [
         "Integrations",
@@ -724,6 +724,16 @@
       ]
     },
     {
+      "key": "https://github.com/YusufCeng1z/ding",
+      "name": "Ding",
+      "url": "https://github.com/YusufCeng1z/ding",
+      "description": "Zero-dependency toast notifications for Svelte 5 with spring physics, where one toast stays on screen and a new call morphs it in place instead of stacking.",
+      "section": [
+        "UI Components",
+        "Notification"
+      ]
+    },
+    {
       "key": "https://github.com/andrelmlins/svelte-grid-responsive",
       "name": "svelte-grid-responsive",
       "url": "https://github.com/andrelmlins/svelte-grid-responsive",
@@ -878,6 +888,16 @@
       "name": "moving icons",
       "url": "https://github.com/jis3r/icons",
       "description": "A collection of beautifully crafted, animated Lucide icons.",
+      "section": [
+        "UI Components",
+        "Icons"
+      ]
+    },
+    {
+      "key": "https://github.com/peleda-app/favicons/tree/main/clients/js",
+      "name": "favicons.page",
+      "url": "https://github.com/peleda-app/favicons/tree/main/clients/js",
+      "description": "A use:favicon action that shows any website's icon as a sandboxed SVG, served by a privacy-first, self-hostable favicon service.",
       "section": [
         "UI Components",
         "Icons"
@@ -1278,6 +1298,15 @@
       "name": "microfolio",
       "url": "https://github.com/aker-dev/microfolio",
       "description": "A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.",
+      "section": [
+        "Scaffold"
+      ]
+    },
+    {
+      "key": "https://github.com/itswadesh/svelte-commerce",
+      "name": "Svelte Commerce",
+      "url": "https://github.com/itswadesh/svelte-commerce",
+      "description": "A headless SvelteKit storefront that connects to Shopify, WooCommerce, Medusa, Saleor, Vendure and 21 other ecommerce backends through swappable connector packages.",
       "section": [
         "Scaffold"
       ]
@@ -1857,6 +1886,16 @@
       ]
     },
     {
+      "key": "https://mockatoo.globalunderdog.com",
+      "name": "Mockatoo",
+      "url": "https://mockatoo.globalunderdog.com",
+      "description": "Hosted mock OAuth provider for testing GitHub, Google and six other sign-ins in SvelteKit apps without real accounts, with a SvelteKit guide for Better Auth and Auth.js.",
+      "section": [
+        "Dev Tools",
+        "Test"
+      ]
+    },
+    {
       "key": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode",
       "name": "Svelte for VS Code",
       "url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode",
@@ -1947,6 +1986,16 @@
       "name": "PR Cockpit",
       "url": "https://github.com/theolundqvist/pr-cockpit",
       "description": "An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.",
+      "section": [
+        "Application Examples",
+        "Desktop"
+      ]
+    },
+    {
+      "key": "https://github.com/maxib0n/NiceDB",
+      "name": "NiceDB",
+      "url": "https://github.com/maxib0n/NiceDB",
+      "description": "Desktop database client for PostgreSQL, MySQL, MongoDB, Redis and twenty other engines, with a Svelte 5 interface in a Tauri 2 shell.",
       "section": [
         "Application Examples",
         "Desktop"

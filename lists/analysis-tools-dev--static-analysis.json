@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"63af4ef9ceb823a011b536bf83a362ef8fe5017e420f70dd363053ef78e69de1\"",
+  "etag": "W/\"4ec5753b43aab993435421c20a31a20715fed3605b7603b9549c407c0a529a0f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -3028,6 +3028,15 @@
       ]
     },
     {
+      "key": "https://squid-protocol.github.io/gitgalaxy",
+      "name": "GitGalaxy",
+      "url": "https://squid-protocol.github.io/gitgalaxy/",
+      "description": "Offline static analysis that needs no build, compiler, AST or LLM. Scans a whole repository (59 languages, including fixed-format COBOL, JCL, PL/I and CICS) and reports per-function structure, call and import graphs, risk scores and security findings. Outputs SARIF, a CycloneDX SBOM and a SQLite knowledge graph. Runs as a CLI and as a GitHub Action.",
+      "section": [
+        "Multiple languages"
+      ]
+    },
+    {
       "key": "https://sider.github.io/goodcheck",
       "name": "Goodcheck",
       "url": "https://sider.github.io/goodcheck",
@@ -3910,6 +3919,15 @@
       ]
     },
     {
+      "key": "https://membrowse.com",
+      "name": "MemBrowse",
+      "url": "https://membrowse.com",
+      "description": "Analyzes ELF firmware binaries together with their GNU LD linker scripts or map files to report flash and RAM usage per memory region, section, and symbol. Uses DWARF debug info to attribute symbols to source files. The CLI runs locally without an account. An optional hosted service tracks memory usage across commits and targets, comments on pull requests with per-region and per-symbol changes, and fails CI when memory budgets are exceeded.",
+      "section": [
+        "Other"
+      ]
+    },
+    {
       "key": "https://github.com/horsicq/Nauz-File-Detector",
       "name": "Nauz File Detector",
       "url": "https://github.com/horsicq/Nauz-File-Detector",
@@ -4067,15 +4085,6 @@
       "name": "terraform-compliance",
       "url": "https://terraform-compliance.com",
       "description": "A lightweight, compliance- and security focused, BDD test framework against Terraform.",
-      "section": [
-        "Other"
-      ]
-    },
-    {
-      "key": "https://github.com/cesar-rodriguez/terrascan",
-      "name": "terrascan",
-      "url": "https://github.com/cesar-rodriguez/terrascan",
-      "description": "Collection of security and best practice tests for static code analysis of Terraform templates.",
       "section": [
         "Other"
       ]

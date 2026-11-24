@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"05a035793c2a55fd580cd6f3f0efd7d47fa6250a5474e972697602d1ffccd439\"",
+  "etag": "W/\"50771724da9ed46b77f3464f29165c3c38e51553f636f2b7f43ba27fe2c18465\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1291,6 +1291,42 @@
       ]
     },
     {
+      "key": "https://github.com/mvanhorn/last30days-skill",
+      "name": "last30days",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "Gemini CLI extension and Agent Skill that researches any topic across Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub and the web from the last 30 days, ranks results by real engagement (upvotes, likes, prediction-market odds), and writes one cited brief. Reddit, Hacker News, Polymarket and GitHub work with no API key. MIT. Install: gemini extensions install https://github.com/mvanhorn/last30days-skill",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/heygen-com/hyperframes",
+      "name": "HyperFrames",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Official Gemini CLI extension for HeyGen's open-source AI video editor (88K+ GitHub stars): make launch videos, explainers and motion graphics, caption your own footage and remake any video, rendered from HTML, CSS and GSAP to MP4. Install: gemini extensions install https://github.com/heygen-com/hyperframes --auto-update",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/WaveSpeedAI/wavespeed-gemini-extension",
+      "name": "WaveSpeedAI",
+      "url": "https://github.com/WaveSpeedAI/wavespeed-gemini-extension",
+      "description": "Gemini CLI extension with an Agent Skill that uses the open-source wavespeed CLI to search WaveSpeedAI image, video, audio and 3D generation models, read their input schemas and run them, including local file uploads. Install with gemini extensions install https://github.com/WaveSpeedAI/wavespeed-gemini-extension.",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
+      "key": "https://github.com/ultrafastmov/ultrafast",
+      "name": "ultrafast",
+      "url": "https://github.com/ultrafastmov/ultrafast",
+      "description": "Gemini CLI extension for ultrafast, an open-source GPU video engine where a video is a JSON document: bundles the local uf mcp server (20 tools) and the ultrafast skill, so Gemini CLI can write a video, check it, look at its frames and export H.264, HEVC, AV1 or ProRes, rendered on Metal or Vulkan without a browser. Needs the uf CLI (macOS on Apple silicon, or Linux). Apache-2.0 or MIT. Install: gemini extensions install https://github.com/ultrafastmov/ultrafast",
+      "section": [
+        "Commands & Extensions"
+      ]
+    },
+    {
       "key": "https://github.com/shinshin86/oh-my-logo",
       "name": "Oh My Logo",
       "url": "https://github.com/shinshin86/oh-my-logo",
@@ -2015,6 +2051,24 @@
       "name": "Tare",
       "url": "https://github.com/priberry-data/tarelab",
       "description": "Reads local Gemini CLI, Claude Code, Codex and Cline logs, prices every token and shows which spend was avoidable, such as re-caching after pauses. Runs locally and uploads nothing. Install via gemini extensions install https://github.com/priberry-data/tarelab.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://calyban.com",
+      "name": "Calyban",
+      "url": "https://calyban.com/?utm_source=awesome-gemini-cli&utm_medium=referral",
+      "description": "Free Windows app that installs MCP servers and skills into Gemini CLI (and five other agents), checks them for prompt injection and known-malicious npm/PyPI packages first, and can undo each install.",
+      "section": [
+        "Development Tools & Utilities"
+      ]
+    },
+    {
+      "key": "https://spellwarden.ai/docs/instruction-files",
+      "name": "Spellwarden",
+      "url": "https://spellwarden.ai/docs/instruction-files?utm_source=piebald-awesome-gemini-cli&utm_medium=listing&utm_campaign=growth-listings&utm_content=owner",
+      "description": "Open source (Apache-2.0) scanner for what Gemini CLI loads: GEMINI.md files in a repository, and with scan --user the MCP servers, hooks, extensions and skills under ~/.gemini. Reads them without running them, flags injected instructions, hidden characters and unpinned packages, and runs in CI and before each commit.",
       "section": [
         "Development Tools & Utilities"
       ]

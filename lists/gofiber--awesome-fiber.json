@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"60f8b719a2cb3f88e1b7e3a536ac4635ff763dcd5dcc1bbb8a6f538c6cc47065\"",
+  "etag": "W/\"e4f423fe8581812c1512de577c7837613af8ce1181c09031c1778927e1c42422\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -58,6 +58,16 @@
       "name": "CSRF",
       "url": "https://github.com/gofiber/fiber/tree/main/middleware/csrf",
       "description": "Protect from CSRF exploits.",
+      "section": [
+        "⚙️ Middlewares",
+        "🧬 Core"
+      ]
+    },
+    {
+      "key": "https://github.com/gofiber/fiber/tree/main/middleware/deprecation",
+      "name": "Deprecation",
+      "url": "https://github.com/gofiber/fiber/tree/main/middleware/deprecation",
+      "description": "Marks routes as deprecated or scheduled for removal with the Deprecation (RFC 9745) and Sunset (RFC 8594) headers.",
       "section": [
         "⚙️ Middlewares",
         "🧬 Core"

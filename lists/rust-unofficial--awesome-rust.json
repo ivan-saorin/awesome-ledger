@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"03933852d62b18632ceb1ad08a20720ac2f5b510dbffcc7101c30e66e6f6e484\"",
+  "etag": "W/\"9c8f90a804fdb83a53fb78158b924448e2b2971bdde96119102f4fa37241cd7d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2508,6 +2508,16 @@
       "name": "FileSSH",
       "url": "https://github.com/JayanAXHF/FileSSH",
       "description": "A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more!",
+      "section": [
+        "Applications",
+        "File manager"
+      ]
+    },
+    {
+      "key": "https://github.com/gelenmedya/rustyfiles",
+      "name": "gelenmedya/rustyfiles",
+      "url": "https://github.com/gelenmedya/rustyfiles",
+      "description": "A file manager for Windows that never freezes, GPU-rendered with GPUI",
       "section": [
         "Applications",
         "File manager"
@@ -6008,6 +6018,16 @@
       "name": "CatVinci-Studio/Textus",
       "url": "https://github.com/CatVinci-Studio/Textus",
       "description": "A WYSIWYG Markdown editor for macOS, Windows and Linux built with Tauri 2, with math, Mermaid and an optional AI writing assistant.",
+      "section": [
+        "Applications",
+        "Text editors"
+      ]
+    },
+    {
+      "key": "https://github.com/Erkinbek/bigtext",
+      "name": "Erkinbek/bigtext",
+      "url": "https://github.com/Erkinbek/bigtext",
+      "description": "[bigtext] - A desktop editor for multi-gigabyte text, log, CSV and SQL dump files on Windows, Linux and macOS. It never loads a whole file into memory: a sparse line index and streaming search, replace and save keep memory use bounded.",
       "section": [
         "Applications",
         "Text editors"
@@ -10899,6 +10919,17 @@
       ]
     },
     {
+      "key": "https://github.com/brekkylab/ailoy",
+      "name": "brekkylab/ailoy",
+      "url": "https://github.com/brekkylab/ailoy",
+      "description": "[ailoy] - Agent SDK that gives every agent its own Linux microVM sandbox, with Python and Node.js bindings",
+      "section": [
+        "Libraries",
+        "Artificial Intelligence",
+        "Tooling"
+      ]
+    },
+    {
       "key": "https://github.com/sopaco/cortex-mem",
       "name": "Cortex Memory",
       "url": "https://github.com/sopaco/cortex-mem",
@@ -11670,6 +11701,16 @@
       "name": "aisk/rust-fire",
       "url": "https://github.com/aisk/rust-fire",
       "description": "[fire] - Turn your function(s) to a command line app with one line of code",
+      "section": [
+        "Libraries",
+        "Command-line"
+      ]
+    },
+    {
+      "key": "https://github.com/AlixANNERAUD/getargs_derive",
+      "name": "AlixANNERAUD/getargs_derive",
+      "url": "https://github.com/AlixANNERAUD/getargs_derive",
+      "description": "[getargs-derive] - Clap-style derive argument parser for no_std and embedded Rust: zero allocation, compile-time help, subcommands and shell completions.",
       "section": [
         "Libraries",
         "Command-line"

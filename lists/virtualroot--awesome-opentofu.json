@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a059b8e6e5a615ef6b328e177ee507e5cb1d0fa60d90f58dfc488d5940d31fb1\"",
+  "etag": "W/\"4ca7d8c4fadb22688d6a36abc5f20eda7bdb741b7ff51ef2626221284d97986e\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -331,6 +331,16 @@
       "name": "c3x",
       "url": "https://github.com/c3xdev/c3x",
       "description": "Cost estimates for OpenTofu code, including .tofu files and provider for_each, posted as a pull request comment.",
+      "section": [
+        "Tools",
+        "CI"
+      ]
+    },
+    {
+      "key": "https://github.com/orchesterra/cloud-drift-report",
+      "name": "cloud-drift-report",
+      "url": "https://github.com/orchesterra/cloud-drift-report",
+      "description": "Read-only drift report for OpenTofu and Terraform (plan -refresh-only), plus AWS resources that no state file covers.",
       "section": [
         "Tools",
         "CI"

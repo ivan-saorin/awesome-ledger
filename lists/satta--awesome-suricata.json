@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"436de954dcf56c7a64a972ec0eb9310a883ba3bb08ba21e4f2790923f06b5394\"",
+  "etag": "W/\"e1b90592b44988f53f9fa17be3c8c7f62354f7539b84d43865f2b8e2477113fb\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -512,6 +512,15 @@
       "name": "Whatoblock Blocklists",
       "url": "https://whatoblock.com/",
       "description": "Hourly IP blocklists built from honeypot observations, with a Suricata export (account required; a free sample feed is available).",
+      "section": [
+        "Rule Sets and Lists"
+      ]
+    },
+    {
+      "key": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "name": "Agentic Attack Detections",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "description": "Suricata rules for AI agent attack frameworks (ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes), each tested with a replayed flow.",
       "section": [
         "Rule Sets and Lists"
       ]

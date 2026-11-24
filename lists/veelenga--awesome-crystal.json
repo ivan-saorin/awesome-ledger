@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7756a311d3e609269657014f616f766d43294710e98e4341dd4ec8d123cc1ef2\"",
+  "etag": "W/\"cca4e7e546d1bc24c5d9785c90bd666495ad5c1e77dd01eb1648844dfba08ce2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -323,6 +323,15 @@
       "name": "duktape.cr",
       "url": "https://github.com/jessedoyle/duktape.cr",
       "description": "Bindings for the Duktape javascript engine",
+      "section": [
+        "C bindings"
+      ]
+    },
+    {
+      "key": "https://github.com/Sija/exif.cr",
+      "name": "exif.cr",
+      "url": "https://github.com/Sija/exif.cr",
+      "description": "Bindings for the libexif library",
       "section": [
         "C bindings"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5ce5a39bf364297399c82b6b0cfe19ebdcc8034b3052b01087f007774110c650\"",
+  "etag": "W/\"6541423e0528847dd584d1d46de3500b9e32601a7f471fff2a87d975758d0793\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -81,16 +81,6 @@
       ]
     },
     {
-      "key": "https://github.com/julinodev/wagtailmdx",
-      "name": "wagtailmdx",
-      "url": "https://github.com/julinodev/wagtailmdx",
-      "description": "A MDXEditor integration for Wagtail as textfield widget.",
-      "section": [
-        "Apps",
-        "Rich text editor extensions"
-      ]
-    },
-    {
       "key": "https://github.com/springload/wagtailgmaps",
       "name": "wagtailgmaps",
       "url": "https://github.com/springload/wagtailgmaps",
@@ -155,16 +145,6 @@
       "name": "Wagtail-Color-Panel",
       "url": "https://github.com/marteinn/wagtail-color-panel",
       "description": "A package that adds new panels for selecting colors, works both on regular page fields and stream field.",
-      "section": [
-        "Apps",
-        "Widgets"
-      ]
-    },
-    {
-      "key": "https://github.com/Nigel2392/wagtail_ace_editor",
-      "name": "Wagtail Ace Editor",
-      "url": "https://github.com/Nigel2392/wagtail_ace_editor",
-      "description": "Ace Editor right in your Wagtail admin.",
       "section": [
         "Apps",
         "Widgets"
@@ -244,7 +224,7 @@
       "key": "https://github.com/Aleksi44/wagtailyoast",
       "name": "Wagtail Yoast",
       "url": "https://github.com/Aleksi44/wagtailyoast",
-      "description": "A tool to improve readability of your texts with SEO recommendations.",
+      "description": "Wagtail + Yoast: improve readability of your texts with SEO recommendations.",
       "section": [
         "Apps",
         "SEO and SMO"
@@ -274,7 +254,7 @@
       "key": "https://github.com/wagtail-nest/wagtail-personalisation",
       "name": "Wagtail Personalisation",
       "url": "https://github.com/wagtail-nest/wagtail-personalisation",
-      "description": "Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.",
+      "description": "Rule-based personalisation, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.",
       "section": [
         "Apps",
         "Customer experience"
@@ -304,7 +284,7 @@
       "key": "https://github.com/j-bodek/wagtail-transcription",
       "name": "Wagtail Transcription",
       "url": "https://github.com/j-bodek/wagtail-transcription",
-      "description": "Provides a field to automatically creates transcriptions from YouTube videos.",
+      "description": "Provides a field to automatically create transcriptions from YouTube videos.",
       "section": [
         "Apps",
         "Media"
@@ -374,20 +354,10 @@
       "key": "https://github.com/mwesterhof/wagtail_formation",
       "name": "Wagtail Formation",
       "url": "https://github.com/mwesterhof/wagtail_formation",
-      "description": "Fully dynamic and easy to use CMS-able forms for wagtail",
+      "description": "Fully dynamic and easy to use CMS-able forms for wagtail.",
       "section": [
         "Apps",
         "Forms"
-      ]
-    },
-    {
-      "key": "https://github.com/neon-jungle/wagtail-linkchecker",
-      "name": "wagtail-linkchecker",
-      "url": "https://github.com/neon-jungle/wagtail-linkchecker",
-      "description": "A tool to assist with finding broken links on your Wagtail site.",
-      "section": [
-        "Apps",
-        "Testing"
       ]
     },
     {
@@ -491,9 +461,9 @@
       ]
     },
     {
-      "key": "https://github.com/jazzband/wagtailmenus",
+      "key": "https://github.com/wagtail-nest/wagtailmenus",
       "name": "wagtailmenus",
-      "url": "https://github.com/jazzband/wagtailmenus",
+      "url": "https://github.com/wagtail-nest/wagtailmenus",
       "description": "An app to help you manage and render menus in your Wagtail projects more effectively.",
       "section": [
         "Apps",
@@ -514,7 +484,7 @@
       "key": "https://github.com/mwesterhof/wagtail_app_pages",
       "name": "Wagtail App Pages",
       "url": "https://github.com/mwesterhof/wagtail_app_pages",
-      "description": "Extend Wagtail pages using an actual URL config and django views.",
+      "description": "Full MVC support for Wagtail pages, using an actual URL config and django views.",
       "section": [
         "Apps",
         "Misc"
@@ -525,16 +495,6 @@
       "name": "Wagtail Cache",
       "url": "https://github.com/coderedcorp/wagtail-cache",
       "description": "A simple page cache for Wagtail using the Django cache middleware.",
-      "section": [
-        "Apps",
-        "Misc"
-      ]
-    },
-    {
-      "key": "https://github.com/elton2048/wagtail-orderable",
-      "name": "Wagtail Orderable",
-      "url": "https://github.com/elton2048/wagtail-orderable",
-      "description": "Mixin support for drag-and-drop ordering in admin panel.",
       "section": [
         "Apps",
         "Misc"
@@ -581,20 +541,10 @@
       ]
     },
     {
-      "key": "https://github.com/vicktornl/wagtail-cache-invalidator",
-      "name": "Wagtail Cache Invalidator",
-      "url": "https://github.com/vicktornl/wagtail-cache-invalidator",
-      "description": "Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.",
-      "section": [
-        "Apps",
-        "Misc"
-      ]
-    },
-    {
       "key": "https://github.com/mojnomiya/wagtail_subscriptions",
       "name": "wagtail-subscriptions",
       "url": "https://github.com/mojnomiya/wagtail_subscriptions",
-      "description": "Subscription management system for Wagtail CMS with Stripe integration, feature-based access control, and multi-tenant support.",
+      "description": "Subscription management system for Wagtail with Stripe integration, feature-based access control, and multi-tenant support.",
       "section": [
         "Apps",
         "Misc"
@@ -651,20 +601,10 @@
       ]
     },
     {
-      "key": "https://github.com/thibaudcolas/wagtail-tutorial-template",
-      "name": "Wagtail template: Your first Wagtail site",
-      "url": "https://github.com/thibaudcolas/wagtail-tutorial-template",
-      "description": "A Wagtail project starter template – with the solution to Wagtail's official Your first Wagtail site tutorial.",
-      "section": [
-        "Tools",
-        "Templates (start command)"
-      ]
-    },
-    {
       "key": "https://github.com/wagtail/news-template",
       "name": "Wagtail News Template",
       "url": "https://github.com/wagtail/news-template",
-      "description": "A Wagtail template for a news site.",
+      "description": "A Wagtail starter kit template for a news site.",
       "section": [
         "Tools",
         "Templates (start command)"
@@ -715,16 +655,6 @@
       "name": "Multi-tenancy with Wagtail",
       "url": "https://cynthiakiser.com/blog/2023/11/01/multitenancy-with-wagtail.html",
       "description": "Multiple part guide on robust multi-tenancy support in Wagtail.",
-      "section": [
-        "Resources",
-        "Articles"
-      ]
-    },
-    {
-      "key": "https://timonweb.com/wagtail/how-to-prevent-users-from-creating-certain-page-types-in-wagtail-cms",
-      "name": "How to Prevent Users from Creating Pages by Type",
-      "url": "https://timonweb.com/wagtail/how-to-prevent-users-from-creating-certain-page-types-in-wagtail-cms/",
-      "description": "",
       "section": [
         "Resources",
         "Articles"
@@ -2201,16 +2131,6 @@
       ]
     },
     {
-      "key": "https://pythonpodcast.com/episodepage/episode-58-wagtail-with-tom-dyson",
-      "name": "Podcast.__init__ Episode 58 - Wagtail with Tom Dyson",
-      "url": "https://www.pythonpodcast.com/episodepage/episode-58-wagtail-with-tom-dyson",
-      "description": "In this episode Tom Dyson explains how Wagtail came to be created, what sets it apart from other options, and when you should implement it for your projects.",
-      "section": [
-        "Resources",
-        "Podcasts"
-      ]
-    },
-    {
       "key": "https://djangochat.com/episodes/wagtail-cms-tom-dyson",
       "name": "Django Chat E9: Wagtail CMS - Tom Dyson",
       "url": "https://djangochat.com/episodes/wagtail-cms-tom-dyson",
@@ -2332,7 +2252,7 @@
     },
     {
       "key": "https://wagtail.org/showcase",
-      "name": "Offiical showcase - Projects made with Wagtail",
+      "name": "Official showcase - Projects made with Wagtail",
       "url": "https://wagtail.org/showcase/",
       "description": "Curated list of websites and apps that gives you a taste of the very best projects built with Wagtail.",
       "section": [
@@ -2456,16 +2376,7 @@
       "key": "https://github.com/torchbox/torchbox.com",
       "name": "Torchbox.com on Wagtail",
       "url": "https://github.com/torchbox/torchbox.com",
-      "description": "Torchbox website 2024 incarnation.",
-      "section": [
-        "Open-source sites"
-      ]
-    },
-    {
-      "key": "https://github.com/springload/madewithwagtail",
-      "name": "Made with Wagtail",
-      "url": "https://github.com/springload/madewithwagtail",
-      "description": "A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.",
+      "description": "Torchbox digital agency website.",
       "section": [
         "Open-source sites"
       ]
@@ -2492,7 +2403,7 @@
       "key": "https://github.com/freedomofpress/securedrop.org",
       "name": "SecureDrop",
       "url": "https://github.com/freedomofpress/securedrop.org",
-      "description": "Wagtail-powered website of the SecureDrop whistleblower document submission system.",
+      "description": "Wagtail-powered code for the SecureDrop whistleblower document submission system website.",
       "section": [
         "Open-source sites"
       ]
