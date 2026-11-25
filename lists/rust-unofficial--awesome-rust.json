@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9c8f90a804fdb83a53fb78158b924448e2b2971bdde96119102f4fa37241cd7d\"",
+  "etag": "W/\"0fe3e25fa16c4e26b66081e3b3b8a3e3cadd899bab6c9c9da8565c241cd6a54f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4138,6 +4138,16 @@
       "name": "muvon/octomind",
       "url": "https://github.com/muvon/octomind",
       "description": "Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.",
+      "section": [
+        "Applications",
+        "Productivity"
+      ]
+    },
+    {
+      "key": "https://github.com/naxhq/NexQ",
+      "name": "naxhq/NexQ",
+      "url": "https://github.com/naxhq/NexQ",
+      "description": "Live transcription of both sides of a call, with answers from your own notes, for Windows and macOS.",
       "section": [
         "Applications",
         "Productivity"
@@ -15897,20 +15907,20 @@
       ]
     },
     {
-      "key": "https://github.com/redox-os/rusttype",
-      "name": "redox-os/rusttype",
-      "url": "https://github.com/redox-os/rusttype",
-      "description": "Alternative to libraries like FreeType",
+      "key": "https://github.com/harfbuzz/harfrust",
+      "name": "harfbuzz/harfrust",
+      "url": "https://github.com/harfbuzz/harfrust",
+      "description": "[harfrust] - A port of HarfBuzz's text shaping engine to Rust",
       "section": [
         "Libraries",
         "Graphics"
       ]
     },
     {
-      "key": "https://github.com/harfbuzz/rustybuzz",
-      "name": "rustybuzz",
-      "url": "https://github.com/harfbuzz/rustybuzz",
-      "description": "An incremental harfbuzz port",
+      "key": "https://github.com/redox-os/rusttype",
+      "name": "redox-os/rusttype",
+      "url": "https://github.com/redox-os/rusttype",
+      "description": "Alternative to libraries like FreeType",
       "section": [
         "Libraries",
         "Graphics"

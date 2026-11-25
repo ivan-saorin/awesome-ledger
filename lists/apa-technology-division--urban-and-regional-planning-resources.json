@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"371e7b881b32315bca5db71a4960615b3980762513c55031ccfe5c5f01c88025\"",
+  "etag": "W/\"b9934b6120f751655473d544b0982de3c6c9187b98c62a0c42e6cb2c8740f675\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -787,7 +787,7 @@
       "key": "https://fema.gov/flood-maps/products-tools/national-risk-index",
       "name": "National Risk Index",
       "url": "https://www.fema.gov/flood-maps/products-tools/national-risk-index",
-      "description": "The National Risk Index is an online mapping application from FEMA that identifies communities most at risk to 18 natural hazards.",
+      "description": "The National Risk Index is an online mapping application from FEMA that identifies communities most at risk to 18 natural hazards at the census tract and county level.",
       "section": [
         "Public Data Resources",
         "Resilience and Natural Hazards"
@@ -808,6 +808,16 @@
       "name": "Sea Level Rise Viewer",
       "url": "https://coast.noaa.gov/slr/",
       "description": "NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.",
+      "section": [
+        "Public Data Resources",
+        "Resilience and Natural Hazards"
+      ]
+    },
+    {
+      "key": "https://cemhs.asu.edu/sheldus",
+      "name": "SHIELDUS",
+      "url": "https://cemhs.asu.edu/sheldus",
+      "description": "This is a county-level U.S. database of natural hazard events from 1960 to the present. It covers thunderstorms, hurricanes, floods, wildfires, tornadoes, flash floods and heavy rainfall, and records each event's date, the affected county and state, and its direct losses in property damage, crop damage, injuries and fatalities.",
       "section": [
         "Public Data Resources",
         "Resilience and Natural Hazards"

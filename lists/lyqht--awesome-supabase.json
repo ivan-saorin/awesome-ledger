@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e12357c5089e549b8cfd385f74468478e27d6d1cc5365596f94c0c9f30fc14b1\"",
+  "etag": "W/\"72808cfefb705581c7d382dd4193e6d6f7b26a03d62e0530b9da3c65aba50d39\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -211,6 +211,15 @@
       ]
     },
     {
+      "key": "https://github.com/coremvp/Hikari",
+      "name": "Hikari",
+      "url": "https://github.com/coremvp/Hikari",
+      "description": "Open source Next.js starter with Supabase Auth, Stripe subscriptions, docs and blog.",
+      "section": [
+        "Community Starters"
+      ]
+    },
+    {
       "key": "https://supabase-schema.vercel.app",
       "name": "Supabase Schema",
       "url": "https://supabase-schema.vercel.app/",
@@ -368,6 +377,15 @@
       "name": "Pharos AI",
       "url": "https://github.com/Juliusolsson05/pharos-ai",
       "description": "Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.",
+      "section": [
+        "Community Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/reylosql/reylo",
+      "name": "Reylo",
+      "url": "https://github.com/reylosql/reylo",
+      "description": "Import .sql files into TypeScript with types inferred from the Supabase database, and run them through postgres.js or pg.",
       "section": [
         "Community Tools"
       ]
@@ -548,6 +566,24 @@
       "name": "Supabase vs Firebase: Choosing the Right Backend for Your Project",
       "url": "https://www.jakeprins.com/blog/supabase-vs-firebase-2024",
       "description": "A detailed comparison between Supabase and Firebase. Discover the key differences between the two platforms and the advantages of choosing Supabase over Firebase.",
+      "section": [
+        "Other interesting articles"
+      ]
+    },
+    {
+      "key": "https://shipsealed.com/rls/supabase-october-30-grants-change",
+      "name": "Supabase's Oct 30 Grants Change: What Breaks, and the Fix That Leaks",
+      "url": "https://shipsealed.com/rls/supabase-october-30-grants-change/",
+      "description": "Why new tables return 42501 after Oct 30, the bulk GRANT that exposes RLS-off tables, and the migration pattern that works.",
+      "section": [
+        "Other interesting articles"
+      ]
+    },
+    {
+      "key": "https://github.com/shsunmoonlee/self-hosted-supabase",
+      "name": "Self-Hosted Supabase in Production",
+      "url": "https://github.com/shsunmoonlee/self-hosted-supabase",
+      "description": "Handbook for running self-hosted Supabase after install, covering backups, upgrades, hardening and monitoring, with read-only check scripts.",
       "section": [
         "Other interesting articles"
       ]

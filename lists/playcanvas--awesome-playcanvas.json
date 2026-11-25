@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"30bb2bcb8cc646c88e1c12bd89f9c8d98f418e076fd4bf4abc8b522b2f580fa8\"",
+  "etag": "W/\"380b24f0ea9ef75336e8d11ffd3f51470812e130305d06d8957f6a6854ffb7ac\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -40,10 +40,37 @@
       ]
     },
     {
-      "key": "https://playcanvas.com/viewer",
+      "key": "https://github.com/playcanvas/create-playcanvas",
+      "name": "create-playcanvas",
+      "url": "https://github.com/playcanvas/create-playcanvas",
+      "description": "CLI that scaffolds a Vite-powered PlayCanvas project with TypeScript.",
+      "section": [
+        "PlayCanvas Products"
+      ]
+    },
+    {
+      "key": "https://playcanvas.com/model-viewer",
       "name": "Model Viewer",
-      "url": "https://playcanvas.com/viewer",
+      "url": "https://playcanvas.com/model-viewer",
       "description": "Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.",
+      "section": [
+        "PlayCanvas Products"
+      ]
+    },
+    {
+      "key": "https://github.com/playcanvas/supersplat",
+      "name": "SuperSplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "Open source editor for 3D Gaussian Splats.",
+      "section": [
+        "PlayCanvas Products"
+      ]
+    },
+    {
+      "key": "https://github.com/playcanvas/splat-transform",
+      "name": "SplatTransform",
+      "url": "https://github.com/playcanvas/splat-transform",
+      "description": "Open source CLI tool and library for processing and converting 3D Gaussian Splats.",
       "section": [
         "PlayCanvas Products"
       ]
@@ -148,15 +175,6 @@
       ]
     },
     {
-      "key": "https://3dground.net/en/articles/playcanvas-webgl/1",
-      "name": "Vehicle and Interior Tutorials",
-      "url": "https://3dground.net/en/articles/playcanvas-webgl/1",
-      "description": "Detailed write-ups of 2 PlayCanvas visualization applications.",
-      "section": [
-        "Tutorials"
-      ]
-    },
-    {
       "key": "https://gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx",
       "name": "Create a Bowling Game",
       "url": "https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx",
@@ -184,9 +202,9 @@
       ]
     },
     {
-      "key": "https://developer.playcanvas.com/en/tutorials",
+      "key": "https://developer.playcanvas.com/tutorials",
       "name": "Official Tutorials",
-      "url": "https://developer.playcanvas.com/en/tutorials/",
+      "url": "https://developer.playcanvas.com/tutorials/",
       "description": "Large collection of official PlayCanvas tutorials.",
       "section": [
         "Tutorials"
@@ -197,6 +215,15 @@
       "name": "PlayCanvas and Substance",
       "url": "https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/",
       "description": "Creating high-end artwork for vehicle configurators with PlayCanvas and Substance.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://developer.playcanvas.com/user-manual/publishing/wavedash",
+      "name": "Publishing on Wavedash",
+      "url": "https://developer.playcanvas.com/user-manual/publishing/wavedash/",
+      "description": "Official guide to publishing PlayCanvas games on Wavedash.",
       "section": [
         "Tutorials"
       ]
@@ -220,6 +247,15 @@
       ]
     },
     {
+      "key": "https://3dground.net/en/articles/playcanvas-webgl/1",
+      "name": "Vehicle and Interior Tutorials",
+      "url": "https://3dground.net/en/articles/playcanvas-webgl/1",
+      "description": "Detailed write-ups of 2 PlayCanvas visualization applications.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
       "key": "https://youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko",
       "name": "Video Tutorials",
       "url": "https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko",
@@ -233,6 +269,15 @@
       "name": "Wavedash",
       "url": "https://docs.wavedash.com/engines/playcanvas",
       "description": "Learn how to publish your PlayCanvas game on the Wavedash gaming site.",
+      "section": [
+        "Tutorials"
+      ]
+    },
+    {
+      "key": "https://github.com/google/web-game-samples/tree/main/playcanvas",
+      "name": "YouTube Playables Template",
+      "url": "https://github.com/google/web-game-samples/tree/main/playcanvas",
+      "description": "Official starter project for building YouTube Playables.",
       "section": [
         "Tutorials"
       ]
@@ -346,19 +391,19 @@
       ]
     },
     {
-      "key": "https://github.com/tweenjs/tween.js",
-      "name": "tween.js",
-      "url": "https://github.com/tweenjs/tween.js/",
-      "description": "Popular JavaScript tweening library that integrates easily with PlayCanvas.",
+      "key": "https://github.com/playcanvas/sublime-completions",
+      "name": "Sublime Completions",
+      "url": "https://github.com/playcanvas/sublime-completions",
+      "description": "Sublime Text Autocompletion for the PlayCanvas API.",
       "section": [
         "Extensions and Utilities"
       ]
     },
     {
-      "key": "https://github.com/playcanvas/sublime-completions",
-      "name": "Sublime Completions",
-      "url": "https://github.com/playcanvas/sublime-completions",
-      "description": "Sublime Text Autocompletion for the PlayCanvas API.",
+      "key": "https://github.com/tweenjs/tween.js",
+      "name": "tween.js",
+      "url": "https://github.com/tweenjs/tween.js/",
+      "description": "Popular JavaScript tweening library that integrates easily with PlayCanvas.",
       "section": [
         "Extensions and Utilities"
       ]
@@ -463,15 +508,6 @@
       ]
     },
     {
-      "key": "https://gallery.familyforeverychild.org/Childhood-on-The-Move",
-      "name": "Childhood on the Move",
-      "url": "https://gallery.familyforeverychild.org/Childhood-on-The-Move/",
-      "description": "Virtual art exhibition from charity Family for Every Child.",
-      "section": [
-        "Interactive Experiences"
-      ]
-    },
-    {
       "key": "https://vz777.com/cybercity/index.html",
       "name": "Cyber City",
       "url": "https://vz777.com/cybercity/index.html",
@@ -526,28 +562,10 @@
       ]
     },
     {
-      "key": "https://gallery.familyforeverychild.org",
-      "name": "Life During COVID-19",
-      "url": "https://gallery.familyforeverychild.org/",
-      "description": "Virtual art exhibition from charity Family for Every Child.",
-      "section": [
-        "Interactive Experiences"
-      ]
-    },
-    {
       "key": "https://playcanv.as/p/ika9sdKu?truck=johncena",
       "name": "MMX Racing",
       "url": "https://playcanv.as/p/ika9sdKu/?truck=johncena",
       "description": "Interactive 3D ad for a popular mobile game.",
-      "section": [
-        "Interactive Experiences"
-      ]
-    },
-    {
-      "key": "https://party.space",
-      "name": "Party Space",
-      "url": "https://www.party.space/",
-      "description": "Virtual events platform.",
       "section": [
         "Interactive Experiences"
       ]
@@ -598,15 +616,6 @@
       ]
     },
     {
-      "key": "https://unlock.wildrift.leagueoflegends.com",
-      "name": "Wild Rift",
-      "url": "https://unlock.wildrift.leagueoflegends.com/",
-      "description": "Solve the puzzle to unlock a League of Legends: Wild Rift character.",
-      "section": [
-        "Interactive Experiences"
-      ]
-    },
-    {
       "key": "https://bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters",
       "name": "Beyond Bionic: Extreme Encounters",
       "url": "https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters",
@@ -651,16 +660,6 @@
       "name": "Cannon Balls 3D",
       "url": "https://play.famobi.com/cannon-balls-3d",
       "description": "Use the cannon to destroy the various structures in this physics-based game.",
-      "section": [
-        "Games",
-        "Browser Games"
-      ]
-    },
-    {
-      "key": "https://poki.com/en/g/car-detailing-master",
-      "name": "Car Detailing Master",
-      "url": "https://poki.com/en/g/car-detailing-master",
-      "description": "Clean, paint, and polish cars in this satisfying makeover game from Gamebole.",
       "section": [
         "Games",
         "Browser Games"
@@ -741,16 +740,6 @@
       "name": "Euro Penalty Cup 2021",
       "url": "https://play.famobi.com/euro-penalty-cup-2021",
       "description": "Try to hit the goal and outsmart the goalkeeper.",
-      "section": [
-        "Games",
-        "Browser Games"
-      ]
-    },
-    {
-      "key": "https://poki.com/en/g/fishing-league",
-      "name": "Fishing League",
-      "url": "https://poki.com/en/g/fishing-league",
-      "description": "Climb the ranks and become the ultimate angler.",
       "section": [
         "Games",
         "Browser Games"
@@ -897,36 +886,6 @@
       ]
     },
     {
-      "key": "https://playmegopoly.com",
-      "name": "Megopoly",
-      "url": "https://playmegopoly.com/",
-      "description": "Free to play casual strategy board game where you invest in virtual property.",
-      "section": [
-        "Games",
-        "Browser Games"
-      ]
-    },
-    {
-      "key": "https://benbean.tech/monopoly-io",
-      "name": "Monopoly",
-      "url": "https://benbean.tech/monopoly-io/",
-      "description": "The classic board game recreated in a 3D video game.",
-      "section": [
-        "Games",
-        "Browser Games"
-      ]
-    },
-    {
-      "key": "https://gamedistribution.com/games/nitro-knights",
-      "name": "Nitro Knights",
-      "url": "https://gamedistribution.com/games/nitro-knights",
-      "description": "Futuristic jousting game.",
-      "section": [
-        "Games",
-        "Browser Games"
-      ]
-    },
-    {
       "key": "https://play.famobi.com/om-nom-run",
       "name": "Om Nom Run",
       "url": "https://play.famobi.com/om-nom-run",
@@ -1067,19 +1026,9 @@
       ]
     },
     {
-      "key": "https://poki.com/en/g/animal-obby",
-      "name": "Animal Obby",
-      "url": "https://poki.com/en/g/animal-obby",
-      "description": "Switch between animals with unique abilities to reach the goal.",
-      "section": [
-        "Games",
-        "IO Games"
-      ]
-    },
-    {
-      "key": "https://bulletbonanza.io",
+      "key": "https://kiloo.com/play/bullet-bonanza",
       "name": "Bullet Bonanza",
-      "url": "https://www.bulletbonanza.io/",
+      "url": "https://www.kiloo.com/play/bullet-bonanza",
       "description": "Fast-paced, high-fidelity, 3D multiplayer FPS game from Kiloo.",
       "section": [
         "Games",
@@ -1087,20 +1036,10 @@
       ]
     },
     {
-      "key": "https://fieldsoffury.io",
+      "key": "https://kiloo.com/play/fields-of-fury",
       "name": "Fields of Fury",
-      "url": "https://www.fieldsoffury.io/",
+      "url": "https://www.kiloo.com/play/fields-of-fury",
       "description": "Capture the flag set during WW2.",
-      "section": [
-        "Games",
-        "IO Games"
-      ]
-    },
-    {
-      "key": "https://gummyz.fitfuns.com",
-      "name": "GUMMYZ",
-      "url": "https://gummyz.fitfuns.com",
-      "description": "Sword-swinging multiplayer combat game.",
       "section": [
         "Games",
         "IO Games"
@@ -1117,26 +1056,6 @@
       ]
     },
     {
-      "key": "https://miniroyale.io",
-      "name": "Mini Royale: Nations",
-      "url": "https://miniroyale.io/",
-      "description": "Battle Royale first-person shooter.",
-      "section": [
-        "Games",
-        "IO Games"
-      ]
-    },
-    {
-      "key": "https://robostorm.io",
-      "name": "Robostorm",
-      "url": "https://robostorm.io/",
-      "description": "Frenetic online multiplayer mech battle game.",
-      "section": [
-        "Games",
-        "IO Games"
-      ]
-    },
-    {
       "key": "https://rollem.io",
       "name": "Rollem",
       "url": "https://rollem.io/",
@@ -1147,20 +1066,20 @@
       ]
     },
     {
-      "key": "https://simplyprophunt.io",
-      "name": "Simply Prop Hunt",
-      "url": "https://simplyprophunt.io",
-      "description": "Fast-paced multiplayer hide-and-seek game with a clever twist.",
+      "key": "https://simplycity.live",
+      "name": "Simply City",
+      "url": "https://simplycity.live",
+      "description": "An open-world multiplayer GTA-like driving game.",
       "section": [
         "Games",
         "IO Games"
       ]
     },
     {
-      "key": "https://simplycity.live",
-      "name": "Simply City",
-      "url": "https://simplycity.live",
-      "description": "An open-world multiplayer GTA-like driving game.",
+      "key": "https://simplyprophunt.io",
+      "name": "Simply Prop Hunt",
+      "url": "https://simplyprophunt.io",
+      "description": "Fast-paced multiplayer hide-and-seek game with a clever twist.",
       "section": [
         "Games",
         "IO Games"
@@ -1227,9 +1146,9 @@
       ]
     },
     {
-      "key": "https://warbands.io",
+      "key": "https://kiloo.com/play/warbands",
       "name": "Warbands",
-      "url": "https://www.warbands.io/",
+      "url": "https://www.kiloo.com/play/warbands",
       "description": "3D multiplayer first-person shooter.",
       "section": [
         "Games",
@@ -1553,19 +1472,19 @@
       ]
     },
     {
-      "key": "https://norqain.com/pages/watch-configurator",
-      "name": "Norqain",
-      "url": "https://norqain.com/pages/watch-configurator",
-      "description": "Watch configurator.",
+      "key": "https://myslidingwardrobe.co.uk/design-your-wardrobe",
+      "name": "My Sliding Wardrobe",
+      "url": "https://www.myslidingwardrobe.co.uk/design-your-wardrobe/",
+      "description": "Closet configurator.",
       "section": [
         "Product Configurators"
       ]
     },
     {
-      "key": "https://myslidingwardrobe.co.uk/design-your-wardrobe",
-      "name": "My Sliding Wardrobe",
-      "url": "https://www.myslidingwardrobe.co.uk/design-your-wardrobe/",
-      "description": "Closet configurator.",
+      "key": "https://norqain.com/pages/watch-configurator",
+      "name": "Norqain",
+      "url": "https://norqain.com/pages/watch-configurator",
+      "description": "Watch configurator.",
       "section": [
         "Product Configurators"
       ]
@@ -1670,24 +1589,6 @@
       ]
     },
     {
-      "key": "https://animl.ai",
-      "name": "Doly",
-      "url": "https://www.animl.ai/",
-      "description": "Capture high-quality 3D photos of your products and embed them on Shopify in minutes.",
-      "section": [
-        "3D Gaussian Splatting"
-      ]
-    },
-    {
-      "key": "https://gsplat.org",
-      "name": "GSplat Share",
-      "url": "https://gsplat.org/",
-      "description": "Share your splats with optional time-limited and password-protected links.",
-      "section": [
-        "3D Gaussian Splatting"
-      ]
-    },
-    {
       "key": "https://spaitial.ai/gallery",
       "name": "Echo-2 Viewer",
       "url": "https://spaitial.ai/gallery",
@@ -1710,6 +1611,15 @@
       "name": "Grace Cathedral",
       "url": "https://vincentwoo.com/3d/grace_cathedral",
       "description": "Explore the interior and exterior of the famous San Francisco landmark.",
+      "section": [
+        "3D Gaussian Splatting"
+      ]
+    },
+    {
+      "key": "https://gsplat.org",
+      "name": "GSplat Share",
+      "url": "https://gsplat.org/",
+      "description": "Share your splats with optional time-limited and password-protected links.",
       "section": [
         "3D Gaussian Splatting"
       ]
@@ -1773,15 +1683,6 @@
       "name": "NeuralStorm",
       "url": "https://www.neuralstorm.io/",
       "description": "Neural rendering for high-fidelity product visualization.",
-      "section": [
-        "3D Gaussian Splatting"
-      ]
-    },
-    {
-      "key": "https://nood.co.nz/pages/interactive-lounge",
-      "name": "Nood",
-      "url": "https://nood.co.nz/pages/interactive-lounge",
-      "description": "Furniture retailer.",
       "section": [
         "3D Gaussian Splatting"
       ]
@@ -1886,15 +1787,6 @@
       ]
     },
     {
-      "key": "https://splatmart.com",
-      "name": "SplatMart",
-      "url": "https://www.splatmart.com/",
-      "description": "Marketplace for buying and selling Gaussian splat scenes and assets.",
-      "section": [
-        "3D Gaussian Splatting"
-      ]
-    },
-    {
       "key": "https://splatimation.com",
       "name": "Splatimation",
       "url": "https://splatimation.com/",
@@ -1904,10 +1796,10 @@
       ]
     },
     {
-      "key": "https://splattr.app",
-      "name": "Splattr",
-      "url": "https://splattr.app",
-      "description": "Create Gaussian splats on the cloud.",
+      "key": "https://splatmart.com",
+      "name": "SplatMart",
+      "url": "https://www.splatmart.com/",
+      "description": "Marketplace for buying and selling Gaussian splat scenes and assets.",
       "section": [
         "3D Gaussian Splatting"
       ]
@@ -1917,6 +1809,15 @@
       "name": "SplatTour",
       "url": "https://splattour.com/",
       "description": "Photorealistic 3D tours of any space, generated from a video shot with the user's phone.",
+      "section": [
+        "3D Gaussian Splatting"
+      ]
+    },
+    {
+      "key": "https://splattr.app",
+      "name": "Splattr",
+      "url": "https://splattr.app",
+      "description": "Create Gaussian splats on the cloud.",
       "section": [
         "3D Gaussian Splatting"
       ]
@@ -2003,19 +1904,19 @@
       ]
     },
     {
-      "key": "https://playcanv.as/p/1ha5glKf",
-      "name": "Orange Room",
-      "url": "https://playcanv.as/p/1ha5glKf/",
-      "description": "A highly realistic interior environment demonstrating room-scale VR.",
+      "key": "https://rtz23.de",
+      "name": "Neon Bubblegum",
+      "url": "https://www.rtz23.de/",
+      "description": "Demo scene style WebXR-based homepage from Karsten Weil.",
       "section": [
         "AR/VR/XR"
       ]
     },
     {
-      "key": "https://rtz23.de",
-      "name": "Neon Bubblegum",
-      "url": "https://www.rtz23.de/",
-      "description": "Demo scene style WebXR-based homepage from Karsten Weil.",
+      "key": "https://playcanv.as/p/1ha5glKf",
+      "name": "Orange Room",
+      "url": "https://playcanv.as/p/1ha5glKf/",
+      "description": "A highly realistic interior environment demonstrating room-scale VR.",
       "section": [
         "AR/VR/XR"
       ]
@@ -2066,15 +1967,6 @@
       ]
     },
     {
-      "key": "https://ai.snapchat.com",
-      "name": "Snap AI",
-      "url": "https://ai.snapchat.com/",
-      "description": "Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).",
-      "section": [
-        "Generative AI"
-      ]
-    },
-    {
       "key": "https://ideate.xyz",
       "name": "Ideate",
       "url": "https://ideate.xyz/",
@@ -2084,19 +1976,19 @@
       ]
     },
     {
+      "key": "https://ai.snapchat.com",
+      "name": "Snap AI",
+      "url": "https://ai.snapchat.com/",
+      "description": "Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).",
+      "section": [
+        "Generative AI"
+      ]
+    },
+    {
       "key": "https://aritelia.io",
       "name": "Aritelia",
       "url": "https://aritelia.io/",
       "description": "Open world social MMO with sandbox building and collectable NFTs.",
-      "section": [
-        "Blockchain/Crypto/NFT"
-      ]
-    },
-    {
-      "key": "https://crypt.art",
-      "name": "The Crypt",
-      "url": "https://www.crypt.art/",
-      "description": "Gallery for rare art and collectibles.",
       "section": [
         "Blockchain/Crypto/NFT"
       ]

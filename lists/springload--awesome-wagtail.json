@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6541423e0528847dd584d1d46de3500b9e32601a7f471fff2a87d975758d0793\"",
+  "etag": "W/\"111d1994925e9254c6092110fb8b0f4171260a1b6810198ef13db750ffeed6c3\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -14,8 +14,35 @@
     },
     {
       "key": "https://github.com/wagtail/wagtail",
-      "name": "GitHub repository",
+      "name": "Code repository",
       "url": "https://github.com/wagtail/wagtail",
+      "description": "",
+      "section": [
+        "General resources"
+      ]
+    },
+    {
+      "key": "https://github.com/wagtail/bakerydemo",
+      "name": "Official demo",
+      "url": "https://github.com/wagtail/bakerydemo",
+      "description": "",
+      "section": [
+        "General resources"
+      ]
+    },
+    {
+      "key": "https://guide.wagtail.org",
+      "name": "User guide",
+      "url": "https://guide.wagtail.org/",
+      "description": "",
+      "section": [
+        "General resources"
+      ]
+    },
+    {
+      "key": "https://docs.wagtail.org",
+      "name": "Developer docs",
+      "url": "https://docs.wagtail.org/",
       "description": "",
       "section": [
         "General resources"
@@ -2291,6 +2318,16 @@
       ]
     },
     {
+      "key": "https://github.com/topics/wagtail",
+      "name": "GitHub: Wagtail topic",
+      "url": "https://github.com/topics/wagtail",
+      "description": "Repositories on GitHub tagged with the wagtail topic.",
+      "section": [
+        "Resources",
+        "Package lists"
+      ]
+    },
+    {
       "key": "https://djangopackages.org/grids/g/wagtail-cms",
       "name": "Wagtail grid - Django Packages",
       "url": "https://djangopackages.org/grids/g/wagtail-cms/",
@@ -2301,21 +2338,13 @@
       ]
     },
     {
-      "key": "https://guide.wagtail.org",
-      "name": "Wagtail user guide",
-      "url": "https://guide.wagtail.org/",
-      "description": "The official user guide for anyone creating content or managing content production in Wagtail",
-      "section": [
-        "For editors"
-      ]
-    },
-    {
       "key": "https://mozillafoundation.org/en/docs/how-do-i-wagtail",
-      "name": "How Do I Wagtail?",
+      "name": "Mozilla Foundation: How Do I Wagtail?",
       "url": "https://www.mozillafoundation.org/en/docs/how-do-i-wagtail/",
       "description": "Mozilla's editor facing guide for how to use Wagtail's admin interface.",
       "section": [
-        "For editors"
+        "Resources",
+        "Documentation for editors"
       ]
     },
     {
@@ -2324,7 +2353,8 @@
       "url": "https://portal.cca.edu/help/wagtail-documentation/",
       "description": "User facing documentation for Wagtail by California College of the Arts",
       "section": [
-        "For editors"
+        "Resources",
+        "Documentation for editors"
       ]
     },
     {
@@ -2333,7 +2363,8 @@
       "url": "https://sites.caltech.edu/",
       "description": "User facing documentation for Wagtail by Caltech",
       "section": [
-        "For editors"
+        "Resources",
+        "Documentation for editors"
       ]
     },
     {
@@ -2342,34 +2373,8 @@
       "url": "https://www.wagtail.space/",
       "description": "Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 13th until 15th 2019, Wagtail Space takes place in Arnhem, The Netherlands.",
       "section": [
+        "Resources",
         "Community"
-      ]
-    },
-    {
-      "key": "https://telegram.me/wagtail",
-      "name": "Wagtail updates on Telegram",
-      "url": "https://telegram.me/wagtail",
-      "description": "Unofficial Telegram channel for general Wagtail updates.",
-      "section": [
-        "Community"
-      ]
-    },
-    {
-      "key": "https://telegram.me/wagtailcms",
-      "name": "Wagtail support on Telegram",
-      "url": "https://telegram.me/wagtailcms",
-      "description": "Unofficial Telegram channel for support questions and discussions.",
-      "section": [
-        "Community"
-      ]
-    },
-    {
-      "key": "https://github.com/wagtail/bakerydemo",
-      "name": "Wagtail demo project",
-      "url": "https://github.com/wagtail/bakerydemo",
-      "description": "Next generation Wagtail demo, born in Reykjavík.",
-      "section": [
-        "Open-source sites"
       ]
     },
     {

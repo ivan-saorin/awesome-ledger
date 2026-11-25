@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0da8ef1d4ff3da30a3001bb6ad59a9b278e574beb90b3a478a2d37724aa2c734\"",
+  "etag": "W/\"cc322b0b5d83f1ab6cb2f5fae5ef7d2052941ab36dee3ce01c13e559d8154a94\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -233,6 +233,15 @@
       "name": "mysql-ripple",
       "url": "https://github.com/google/mysql-ripple",
       "description": "(archived) - Ripple, a server that can serve as a middleman in MySQL replication",
+      "section": [
+        "Binlog-Replication"
+      ]
+    },
+    {
+      "key": "https://github.com/datazip-inc/olake-go",
+      "name": "OLake",
+      "url": "https://github.com/datazip-inc/olake-go",
+      "description": "Binlog-based CDC and full-load replication from MySQL to Apache Iceberg or Parquet, without Kafka or Spark",
       "section": [
         "Binlog-Replication"
       ]

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9f0187484af5e12d76b5b2937624c276cd8dc05dece30517c5477c33bbcb3a64\"",
+  "etag": "W/\"b754951950d2aba51e9388276973e563c7e4d5f2fb6cdbfb873c65d400c08e1c\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -158,9 +158,9 @@
     },
     {
       "key": "https://github.com/antonbabenko/terraform-skill",
-      "name": "The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns",
+      "name": "Terraform and OpenTofu Skill for AI Agents",
       "url": "https://github.com/antonbabenko/terraform-skill",
-      "description": "Claude Code skill for Terraform and OpenTofu — testing, module design, CI/CD workflows, and production patterns.",
+      "description": "Agent skill with Terraform and OpenTofu best practices for testing, module design, CI/CD workflows and production patterns. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode, Kiro and other Agent Skills-compatible tools.",
       "section": [
         "Community"
       ]
@@ -340,7 +340,7 @@
       "key": "https://compliance.tf/docs",
       "name": "compliance.tf docs",
       "url": "https://compliance.tf/docs/",
-      "description": "Free Terraform implementations of SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other compliance controls — open reference for writing compliant infrastructure code.",
+      "description": "Free reference that maps SOC 2, PCI DSS, HIPAA, NIST 800-53, CIS AWS and other framework controls to Terraform resource settings. Includes a cookbook of recipes for terraform-aws-modules users.",
       "section": [
         "Learning and Studying"
       ]
@@ -603,9 +603,9 @@
       ]
     },
     {
-      "key": "https://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile",
+      "key": "https://web.archive.org/web/20260213070554/https://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile",
       "name": "Terraform Design Patterns: the Terrafile",
-      "url": "https://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/",
+      "url": "https://web.archive.org/web/20260213070554/https://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/",
       "description": "Managing Terraform modules and their versions within Terraform projects with Terrafile.",
       "section": [
         "Tutorials and Blog Posts",
@@ -1202,15 +1202,6 @@
       ]
     },
     {
-      "key": "https://github.com/kjanshair/terraform-azurerm-aks",
-      "name": "terraform-azurerm-aks",
-      "url": "https://github.com/kjanshair/terraform-azurerm-aks",
-      "description": "Create AKS resources on Azure.",
-      "section": [
-        "Community Modules"
-      ]
-    },
-    {
       "key": "https://github.com/ghostinthewires/terraform-azurerm-iis-install",
       "name": "terraform-azurerm-iis",
       "url": "https://github.com/ghostinthewires/terraform-azurerm-iis-install",
@@ -1584,6 +1575,16 @@
       "name": "terraform-provider-atlas",
       "url": "https://github.com/ariga/terraform-provider-atlas",
       "description": "Provider for Atlas.",
+      "section": [
+        "Providers",
+        "Vendor supported providers"
+      ]
+    },
+    {
+      "key": "https://github.com/compliancetf/terraform-provider-aws",
+      "name": "terraform-provider-aws (compliance.tf)",
+      "url": "https://github.com/compliancetf/terraform-provider-aws",
+      "description": "AWS provider for Terraform and OpenTofu by compliance.tf. Runs the unmodified hashicorp/aws provider and checks aws_* resources against compliance controls before apply. Warns by default; can fail the run in CI.",
       "section": [
         "Providers",
         "Vendor supported providers"
@@ -2395,6 +2396,15 @@
       ]
     },
     {
+      "key": "https://github.com/compliancetf/ctfkit",
+      "name": "ctfkit",
+      "url": "https://github.com/compliancetf/ctfkit",
+      "description": "Offline analyzer for Terraform and OpenTofu configuration, plans and module manifests. Writes SARIF findings. Needs no cloud credentials. Also available as a GitHub Action.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/cynative/cynative",
       "name": "Cynative",
       "url": "https://github.com/cynative/cynative",
@@ -2647,10 +2657,19 @@
       ]
     },
     {
-      "key": "https://github.com/antonbabenko/modules.tf-lambda",
-      "name": "modules.tf-lambda",
-      "url": "https://github.com/antonbabenko/modules.tf-lambda",
-      "description": "Infrastructure as code generator from visual diagrams created with Cloudcraft.co to Terraform.",
+      "key": "https://github.com/modulestf/modulestf",
+      "name": "modulestf",
+      "url": "https://github.com/modulestf/modulestf",
+      "description": "Agent skills for Claude Code and Codex that review, fix and maintain reusable Terraform modules by the rules of terraform-aws-modules. Rules: modules.tf/rules.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/modulestf/facts",
+      "name": "mtf-facts",
+      "url": "https://github.com/modulestf/facts",
+      "description": "Offline Go CLI that parses Terraform module trees and reports rule results, findings with evidence, and interface and provider schema diffs. Works as a standalone module linter.",
       "section": [
         "Tools"
       ]
@@ -2786,6 +2805,15 @@
       "name": "renovate-config",
       "url": "https://github.com/SpotOnInc/renovate-config",
       "description": "Sharable Config Presets for Renovatebot, especially useful for DevOps folks.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/antonbabenko/repro-lambda",
+      "name": "repro-lambda",
+      "url": "https://github.com/antonbabenko/repro-lambda",
+      "description": "Builds byte-identical AWS Lambda packages on macOS and Linux, uploads them to S3 by content hash, and passes them to terraform-aws-lambda as s3_existing_package, so terraform plan builds nothing.",
       "section": [
         "Tools"
       ]
@@ -4043,7 +4071,7 @@
       "key": "https://compliance.tf",
       "name": "compliance.tf",
       "url": "https://compliance.tf",
-      "description": "Terraform modules with SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other frameworks built in. Non-compliant configs fail at terraform plan before anything applies. :heavy_dollar_sign:",
+      "description": "Terraform module registry that serves terraform-aws-modules with framework controls built in (SOC 2, PCI DSS, HIPAA, NIST 800-53, CIS AWS and more). Non-compliant configurations fail at terraform plan. CIS AWS is free. :heavy_dollar_sign:",
       "section": [
         "Managed Terraform Platforms :heavy_dollar_sign:"
       ]
