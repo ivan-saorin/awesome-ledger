@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2d80553c0afc8254660c8612ebf3365a224248a4d4d199d26d0b766132e9e73d\"",
+  "etag": "W/\"e6735d9fc13496df866924460a523e516143755075ebc22d6115da67550f50e0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -458,16 +458,6 @@
       "name": "analog-publish-gh-pages",
       "url": "https://github.com/k9n-dev/analog-publish-gh-pages",
       "description": "A GitHub Action for the Deployment of an Analog.js app on GitHub Pages.",
-      "section": [
-        "Angular",
-        "Deployment"
-      ]
-    },
-    {
-      "key": "https://github.com/Genez-io/genezio",
-      "name": "Genezio",
-      "url": "https://github.com/Genez-io/genezio",
-      "description": "The easiest way to write and host a serverless application.",
       "section": [
         "Angular",
         "Deployment"
@@ -1944,6 +1934,16 @@
       ]
     },
     {
+      "key": "https://app.diffdojo.com/angular",
+      "name": "DiffDojo Angular Code Review Practice",
+      "url": "https://app.diffdojo.com/angular",
+      "description": "Review realistic AI-written Angular pull requests with planted bugs, leave inline comments and get graded against a canonical review. One PR is free with no signup.",
+      "section": [
+        "Learning Resources",
+        "Exercises"
+      ]
+    },
+    {
       "key": "https://angularacademy.ca",
       "name": "Angular Academy",
       "url": "https://www.angularacademy.ca/",
@@ -2394,9 +2394,9 @@
       ]
     },
     {
-      "key": "https://github.com/configcat/js-sdk",
-      "name": "@configcat/js-sdk",
-      "url": "https://github.com/configcat/js-sdk",
+      "key": "https://github.com/configcat/js-unified-sdk",
+      "name": "@configcat/sdk",
+      "url": "https://github.com/configcat/js-unified-sdk",
       "description": "ConfigCat SDK for JavaScript provides easy integration for your application to ConfigCat.",
       "section": [
         "Architecture and Advanced Topics",
@@ -3288,6 +3288,16 @@
       "name": "strata",
       "url": "https://github.com/Andersseen/strata",
       "description": "Server Components and structured server APIs for Angular and Analog.",
+      "section": [
+        "Architecture and Advanced Topics",
+        "Server-Side Rendering"
+      ]
+    },
+    {
+      "key": "https://github.com/WebDecoy/node/tree/main/examples/angular-monitor",
+      "name": "Angular SSR Monitor-Mode Example",
+      "url": "https://github.com/WebDecoy/node/tree/main/examples/angular-monitor",
+      "description": "A runnable Angular 22 and Express 5 example for observing bot decisions and testing middleware on the built server without an API key.",
       "section": [
         "Architecture and Advanced Topics",
         "Server-Side Rendering"
@@ -11944,16 +11954,6 @@
       ]
     },
     {
-      "key": "https://github.com/cloudnc/ngx-sub-form",
-      "name": "ngx-sub-form",
-      "url": "https://github.com/cloudnc/ngx-sub-form",
-      "description": "Utility library for breaking down an Angular form into multiple components.",
-      "section": [
-        "Third Party Components",
-        "Forms"
-      ]
-    },
-    {
       "key": "https://github.com/gabriel-hawerroth/ngx-currency-v2",
       "name": "ngx-currency-v2",
       "url": "https://github.com/gabriel-hawerroth/ngx-currency-v2",
@@ -16164,6 +16164,16 @@
       ]
     },
     {
+      "key": "https://github.com/qrdxinc/qrdx/tree/main/packages/qrdx",
+      "name": "qrdx",
+      "url": "https://github.com/qrdxinc/qrdx/tree/main/packages/qrdx",
+      "description": "Standalone Angular 20+ component (qrdx/angular) that draws styled QR codes as SVG, with dot and eye patterns, gradients, logos, frames, signal inputs and server rendering.",
+      "section": [
+        "Third Party Components",
+        "QR Codes"
+      ]
+    },
+    {
       "key": "https://github.com/alevettih/ngx-route-breadcrumbs",
       "name": "ngx-route-breadcrumbs",
       "url": "https://github.com/alevettih/ngx-route-breadcrumbs",
@@ -17658,6 +17668,16 @@
       "name": "Blocks",
       "url": "https://github.com/filipmazev/Blocks",
       "description": "A modular Angular UI library for responsive, accessible applications.",
+      "section": [
+        "Third Party Components",
+        "UI Libraries"
+      ]
+    },
+    {
+      "key": "https://github.com/e-xiste/exhaustive-ui",
+      "name": "ExhaustiveUI",
+      "url": "https://github.com/e-xiste/exhaustive-ui",
+      "description": "MIT licensed Angular 22 component library, with every component on the Signals API; a fork of Optimus UI and PrimeNG v21.",
       "section": [
         "Third Party Components",
         "UI Libraries"

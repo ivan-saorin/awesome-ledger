@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a8da092db99665baa22548d172c68262c19c7138018faa2045697dfe72b325ef\"",
+  "etag": "W/\"03a6aa7d3db6ed6ac9e63a9c3c68d261bfc4bfac504dc96800d74d68f909270d\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -304,6 +304,15 @@
       "name": "Mystique",
       "url": "https://github.com/TheThingsIndustries/mystique",
       "description": "An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.",
+      "section": [
+        "Brokers"
+      ]
+    },
+    {
+      "key": "https://indi-an.com/en/plccom/mqtt/mqtt-standalone-broker",
+      "name": "PLCcom MQTT Standalone Broker",
+      "url": "https://www.indi-an.com/en/plccom/mqtt/mqtt-standalone-broker/",
+      "description": "Free MQTT broker for Windows. MQTT 3.1.1 and 5.0 over TLS, TCP and WebSocket, several listeners, access control.",
       "section": [
         "Brokers"
       ]
@@ -975,6 +984,15 @@
       ]
     },
     {
+      "key": "https://indi-an.com/en/plccom/mqtt/mqtt-client-tool",
+      "name": "PLCcom MQTT Client Tool",
+      "url": "https://www.indi-an.com/en/plccom/mqtt/mqtt-client-tool/",
+      "description": "Free MQTT client for Windows. MQTT 3.1.1 and 5.0 over TLS, TCP and WebSocket, publish, subscribe and request/response.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://github.com/bapowell/python-mqtt-client-shell",
       "name": "Python MQTT Client Shell",
       "url": "https://github.com/bapowell/python-mqtt-client-shell",
@@ -1186,6 +1204,16 @@
       "name": "hivemq-mqtt-client",
       "url": "https://github.com/hivemq/hivemq-mqtt-client",
       "description": "High-performance Java MQTT client library with different API flavours for MQTT 5.0 and 3.1.1.",
+      "section": [
+        "Clients",
+        "Java"
+      ]
+    },
+    {
+      "key": "https://indi-an.com/en/plccom/mqtt/mqtt-overview",
+      "name": "PLCcom MQTT for Java",
+      "url": "https://www.indi-an.com/en/plccom/mqtt/mqtt-overview/",
+      "description": "Commercial MQTT client and broker SDK for Java with MQTT 3.1.1 and 5.0, TLS, WebSocket and an embeddable broker.",
       "section": [
         "Clients",
         "Java"
@@ -1784,6 +1812,16 @@
       ]
     },
     {
+      "key": "https://github.com/DanShinde/tagbridge",
+      "name": "tagbridge",
+      "url": "https://github.com/DanShinde/tagbridge",
+      "description": "Config-driven Modbus and OPC UA to MQTT gateway with Sparkplug B and Unified Namespace output.",
+      "section": [
+        "Interfaces",
+        "Industry"
+      ]
+    },
+    {
       "key": "https://github.com/zeha/agi-mqtt",
       "name": "agi-mqtt",
       "url": "https://github.com/zeha/agi-mqtt",
@@ -1948,6 +1986,16 @@
       "name": "check-mqtt",
       "url": "https://github.com/jpmens/check-mqtt",
       "description": "A Nagios/Icinga plugin for checking connectivity to an MQTT broker.",
+      "section": [
+        "Interfaces",
+        "Monitoring"
+      ]
+    },
+    {
+      "key": "https://github.com/emirmrkaljevic/iotaudit",
+      "name": "iotaudit",
+      "url": "https://github.com/emirmrkaljevic/iotaudit",
+      "description": "Local CLI that grades your own smart home devices and publishes the results to MQTT with Home Assistant discovery.",
       "section": [
         "Interfaces",
         "Monitoring"
@@ -3215,10 +3263,10 @@
       ]
     },
     {
-      "key": "https://play.google.com/store/apps/details?hl=de&id=net.routix.mqttdash",
-      "name": "MQTT Dash",
-      "url": "https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de",
-      "description": "Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.",
+      "key": "https://play.google.com/store/apps/details?id=net.routix.mqttdash2",
+      "name": "MQTT Dash 2",
+      "url": "https://play.google.com/store/apps/details?id=net.routix.mqttdash2",
+      "description": "Android app for building dashboards for MQTT smart home devices and applications. Successor of MQTT Dash, by the same developer.",
       "section": [
         "Visualization, Dashboards"
       ]
@@ -3309,6 +3357,15 @@
       "name": "PlotJuggler",
       "url": "https://github.com/facontidavide/PlotJuggler",
       "description": "Visualize time series (from sources such as: MQTT, Websockets, ZeroMQ, UDP, etc., supports data formats such as JSON, CBOR, BSON, Message Pack, etc.). It is a fast, powerful and intuitive cross-platform tool.",
+      "section": [
+        "Visualization, Dashboards"
+      ]
+    },
+    {
+      "key": "https://routix-dash.com",
+      "name": "Routix Dash",
+      "url": "https://routix-dash.com",
+      "description": "iPhone and iPad app for live dashboards from MQTT brokers, HTTP APIs, WebSocket and Server-Sent Events, with charts, gauges, switches and sliders that publish back.",
       "section": [
         "Visualization, Dashboards"
       ]

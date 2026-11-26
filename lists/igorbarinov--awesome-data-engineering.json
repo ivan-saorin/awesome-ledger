@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5f4f2b11992303e2e43f005b07708b9caf72835924a151d7d0c68e98a474236d\"",
+  "etag": "W/\"38fc75c12ea2a573b576ee6d40356db0d8959e718a46001afbfa8d7a6e2c2909\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -1412,6 +1412,15 @@
       "name": "ParquetKit",
       "url": "https://parquetkit.com",
       "description": "Browser-based viewer, SQL workbench and converter for Parquet files powered by DuckDB-WASM. Fully client-side, no upload.",
+      "section": [
+        "Serialization format"
+      ]
+    },
+    {
+      "key": "https://github.com/kaushiksrini/parqeye",
+      "name": "Parqeye",
+      "url": "https://github.com/kaushiksrini/parqeye",
+      "description": "An open source tool that lets you peek inside your Parquet files. Inspect their contents, schema, and metadata — right from your terminal.",
       "section": [
         "Serialization format"
       ]

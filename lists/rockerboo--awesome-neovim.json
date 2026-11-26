@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ca82063bf92a92ce73b23e4b0be843d1eda5fd3b5542b5fb20dd7a6934c63f17\"",
+  "etag": "W/\"29e00df34e781acdb4e4d64865fb0eb4777873d729a2eb52f7592dc7c3773218\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2758,6 +2758,16 @@
       "name": "ywsrock/nvim-md-preview",
       "url": "https://github.com/ywsrock/nvim-md-preview",
       "description": "Markdown preview in your browser with two-way cursor sync, Mermaid and KaTeX support, and PDF/DOCX/HTML/EPUB export.",
+      "section": [
+        "Programming Languages Support",
+        "Markdown and LaTeX"
+      ]
+    },
+    {
+      "key": "https://github.com/Kepler2024/iterm-preview.nvim",
+      "name": "Kepler2024/iterm-preview.nvim",
+      "url": "https://github.com/Kepler2024/iterm-preview.nvim",
+      "description": "Route markdown-preview.nvim live previews into an iTerm2 browser split pane instead of an external browser window, with scroll sync.",
       "section": [
         "Programming Languages Support",
         "Markdown and LaTeX"
@@ -12289,6 +12299,15 @@
       "name": "niuiic/remote.nvim",
       "url": "https://github.com/niuiic/remote.nvim",
       "description": "Edit remote files with local configuration.",
+      "section": [
+        "Remote Development"
+      ]
+    },
+    {
+      "key": "https://github.com/mistgc/sshdev.nvim",
+      "name": "mistgc/sshdev.nvim",
+      "url": "https://github.com/mistgc/sshdev.nvim",
+      "description": "Happily develop on a remote machine, similar to VSCode's \"Remote-SSH\" plugin.",
       "section": [
         "Remote Development"
       ]

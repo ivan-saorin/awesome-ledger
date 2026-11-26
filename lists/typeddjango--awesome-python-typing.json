@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"dff13b4b8315ca917fca7a70892ff2cbc0b2c93a8160b300b0c01359bb83509f\"",
+  "etag": "W/\"3e81c76ab2b667f84cf8cf78be1ecbddd0b9a1c426bf808f46c7a59de61d91a7\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -737,16 +737,6 @@
       ]
     },
     {
-      "key": "https://github.com/JelleZijlstra/typeshed_client",
-      "name": "typeshed_client",
-      "url": "https://github.com/JelleZijlstra/typeshed_client",
-      "description": "Retrieve information from typeshed and other typing stubs.",
-      "section": [
-        "Tools",
-        "Helper tools to add annotations to existing code"
-      ]
-    },
-    {
       "key": "https://github.com/gordonbondon/kubernetes-typed",
       "name": "kubernetes-typed",
       "url": "https://github.com/gordonbondon/kubernetes-typed",
@@ -847,6 +837,24 @@
       "name": "nbQA",
       "url": "https://github.com/nbQA-dev/nbQA",
       "description": "Run type checkers (e.g. Mypy) on Jupyter Notebooks.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/AlexWaygood/typeshed-stats",
+      "name": "typeshed-stats",
+      "url": "https://github.com/AlexWaygood/typeshed-stats",
+      "description": "Library and command-line tool to gather stats on typeshed packages.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://github.com/JelleZijlstra/typeshed_client",
+      "name": "typeshed_client",
+      "url": "https://github.com/JelleZijlstra/typeshed_client",
+      "description": "Retrieve information from typeshed and other typing stubs.",
       "section": [
         "Integrations"
       ]

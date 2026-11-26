@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b9934b6120f751655473d544b0982de3c6c9187b98c62a0c42e6cb2c8740f675\"",
+  "etag": "W/\"987d3c510da63d79dfeb4d8cba8c739651a585ac19a40a760e18ff48985f4b57\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -188,6 +188,16 @@
       "name": "Global Human Settlement Layer",
       "url": "https://ghsl.jrc.ec.europa.eu/download.php?ds=pop",
       "description": "This global layer of human population is based on remotely sensed land cover classifications and national censuses of population provided by the European Union.",
+      "section": [
+        "Public Data Resources",
+        "Demographic"
+      ]
+    },
+    {
+      "key": "https://landscan.ornl.gov/about",
+      "name": "LandScan",
+      "url": "https://landscan.ornl.gov/about",
+      "description": "ORNL's annual, high-resolution global population dataset (since 2000) mapping where people are likely to be over a 24-hour period.",
       "section": [
         "Public Data Resources",
         "Demographic"
@@ -1038,6 +1048,16 @@
       "name": "Regrid",
       "url": "https://regrid.com/",
       "description": "A leading provider of land parcels and location context data for your maps, apps and spatial analysis.",
+      "section": [
+        "Vendor Data Resources",
+        "Land Use and Land Cover"
+      ]
+    },
+    {
+      "key": "https://batchdata.io",
+      "name": "BatchData",
+      "url": "https://batchdata.io",
+      "description": "U.S. property and parcel data (ownership, assessor, sales, mortgage, permits) by API, bulk files or MCP. License: Proprietary. Geographic Coverage: United States.",
       "section": [
         "Vendor Data Resources",
         "Land Use and Land Cover"

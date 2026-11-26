@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5fe984049ca8a0988544e3b9a98773c5c326f7f2a5bad3e24b3070c0ea2426e4\"",
+  "etag": "W/\"6c75d956dc2697cc075bf910e0e906e34e177900c97068944ce299fca855dd2f\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -268,6 +268,16 @@
       "name": "Sketchfab",
       "url": "https://sketchfab.com/",
       "description": "Publish & embed interactive 3D models.",
+      "section": [
+        "Graphics",
+        "Assets/Placeholders"
+      ]
+    },
+    {
+      "key": "https://spriteforge.tech/image-to-pixel-art",
+      "name": "SpriteForge Image to Pixel Art",
+      "url": "https://www.spriteforge.tech/image-to-pixel-art",
+      "description": "Free browser image-to-pixel-art converter: 16-128 px wide, 4-32 colours or palettes like PICO-8, dithering and outline; PNG download, nothing uploaded.",
       "section": [
         "Graphics",
         "Assets/Placeholders"
@@ -678,6 +688,16 @@
       "name": "Sprite Fusion Sprite Normals",
       "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
       "description": "Generate normal maps from pixel art sprites and animations.",
+      "section": [
+        "Graphics",
+        "Texture Tools"
+      ]
+    },
+    {
+      "key": "https://spriteforge.tech/pixel-art-normal-map",
+      "name": "SpriteForge Pixel Art Normal Map",
+      "url": "https://www.spriteforge.tech/pixel-art-normal-map",
+      "description": "Free browser normal map generator for pixel art sprites and sheets, with a moving-light preview and per-colour height; PNG for Unity and Godot, nothing uploaded.",
       "section": [
         "Graphics",
         "Texture Tools"
@@ -1204,6 +1224,16 @@
       ]
     },
     {
+      "key": "https://rbxgfx.com",
+      "name": "RBXGFX",
+      "url": "https://rbxgfx.com/",
+      "description": "AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons that produces multiple distinct compositions per request, plus free browser-based Roblox image resizer and safe-zone preview utilities (5 free signup credits; paid plans available; not affiliated with Roblox Corporation).",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
       "key": "https://gridsagegames.com/rexpaint",
       "name": "REXPaint",
       "url": "https://www.gridsagegames.com/rexpaint/",
@@ -1238,6 +1268,16 @@
       "name": "Sprite Fusion Pixel Art Cleaner",
       "url": "https://www.spritefusion.com/pixel-snapper",
       "description": "Convert messy AI-generated pixel art into true, pixel-perfect pixel art. Source",
+      "section": [
+        "Graphics",
+        "Vector/Image Editor"
+      ]
+    },
+    {
+      "key": "https://spriteforge.tech/pixel-art-maker",
+      "name": "SpriteForge Pixel Art Maker",
+      "url": "https://www.spriteforge.tech/pixel-art-maker",
+      "description": "Free browser pixel art editor with layers, animation frames and onion skin, Aseprite-style keys, and PNG, GIF, sprite sheet or .aseprite export; no account.",
       "section": [
         "Graphics",
         "Vector/Image Editor"
@@ -1378,6 +1418,16 @@
       "name": "Maya",
       "url": "https://www.autodesk.com/products/maya/overview",
       "description": "",
+      "section": [
+        "Graphics",
+        "Modeling"
+      ]
+    },
+    {
+      "key": "https://mint.gg/polycount-checker",
+      "name": "Mint Polycount Checker",
+      "url": "https://mint.gg/polycount-checker",
+      "description": "Check a GLB/glTF model's triangles, vertices, draw calls and texture memory against game budgets (including Roblox's per-mesh limit) in the browser; free, no signup, nothing uploaded.",
       "section": [
         "Graphics",
         "Modeling"
@@ -3304,6 +3354,16 @@
       ]
     },
     {
+      "key": "https://tyrbo.ai",
+      "name": "Tyrbo",
+      "url": "https://tyrbo.ai",
+      "description": "AI agent that makes mobile games from a description: plans the game with concept art, builds it with its art, 2D and 3D animation and sound, tests it by playing it, and runs it on your phone from a QR code.",
+      "section": [
+        "Code",
+        "AI"
+      ]
+    },
+    {
       "key": "https://voidless.dev",
       "name": "Voidless",
       "url": "https://voidless.dev",
@@ -3358,6 +3418,16 @@
       "name": "Crisp UI Free",
       "url": "https://anipixels.itch.io/crisp-ui-free",
       "description": "20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.",
+      "section": [
+        "Audio",
+        "Collections"
+      ]
+    },
+    {
+      "key": "https://csaf.itch.io/music-library",
+      "name": "CSAF Music Library",
+      "url": "https://csaf.itch.io/music-library",
+      "description": "2,618 royalty free game music tracks in 59 albums, OGG and editable MIDI, with a free demo of one full track from every album. Composed by code written with AI tools, with no generative audio model.",
       "section": [
         "Audio",
         "Collections"
@@ -3474,6 +3544,16 @@
       ]
     },
     {
+      "key": "https://rftracks.com/use-cases/gaming",
+      "name": "RFTracks",
+      "url": "https://rftracks.com/use-cases/gaming",
+      "description": "Royalty free music for games made with AI tools, filterable by mood, genre and tempo, MP3 downloads; free for commercial games with a credit link to RFTracks, paid plans without credit.",
+      "section": [
+        "Audio",
+        "Collections"
+      ]
+    },
+    {
       "key": "https://sfxmint.com",
       "name": "SFXMint",
       "url": "https://sfxmint.com/",
@@ -3501,6 +3581,16 @@
       "section": [
         "Audio",
         "Collections"
+      ]
+    },
+    {
+      "key": "https://apps66.com/game-audio-converter",
+      "name": "Apps66 Game Audio Converter",
+      "url": "https://apps66.com/game-audio-converter",
+      "description": "Online vgmstream + FFmpeg decoder for FMOD FSB5, Wwise WEM/BNK, Nintendo BFSTM/BCSTM/BRSTM, CRIWARE HCA/ADX/AWB, and XACT XWB sound banks to WAV/MP3/OGG/FLAC/M4A with audio preview and multi-track ZIP extraction (free tier up to 50 MB / 3 conversions per 24h).",
+      "section": [
+        "Audio",
+        "Music and Audio Editors"
       ]
     },
     {
@@ -4454,6 +4544,16 @@
       "name": "IMS Creators",
       "url": "https://ims.cr5.space/",
       "description": "Game Design driven Project Management Tool",
+      "section": [
+        "Must see",
+        "Project Management"
+      ]
+    },
+    {
+      "key": "https://getoverheard.com/calendar",
+      "name": "Overheard Calendar",
+      "url": "https://getoverheard.com/calendar/",
+      "description": "Submission deadlines for indie game festivals, showcases, awards, Steam events and funds, each checked on the organiser's page",
       "section": [
         "Must see",
         "Project Management"

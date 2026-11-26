@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6b2c9d7d0a41a5b35f6a86b7ee525ce865c864bcc0f891bb39680533908df980\"",
+  "etag": "W/\"831deef618c9288cd742f1bb7c678a216b08bf8c9383552e7599754f7a94fbac\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -304,6 +304,16 @@
       ]
     },
     {
+      "key": "https://github.com/ohad6k/VibeRaven",
+      "name": "VibeRaven",
+      "url": "https://github.com/ohad6k/VibeRaven",
+      "description": "Open-source CLI that checks Supabase migrations for missing RLS and grants, and replays two concurrent requests on a fresh PostgreSQL to reproduce a bug and confirm its fix.",
+      "section": [
+        "Software",
+        "Security Testing"
+      ]
+    },
+    {
       "key": "https://github.com/promptfoo/promptfoo",
       "name": "promptfoo",
       "url": "https://github.com/promptfoo/promptfoo",
@@ -488,6 +498,16 @@
       "name": "agentest",
       "url": "https://github.com/srpadmanabhuni/agentest",
       "description": "Open-source CLI that runs 130 deterministic checks on recorded OpenTelemetry GenAI traces, A2A agent cards and MCP tool lists, offline and without an LLM judge, and exports JUnit or SARIF for CI.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/evalshift/evalshift-cli",
+      "name": "EvalShift",
+      "url": "https://github.com/evalshift/evalshift-cli",
+      "description": "Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.",
       "section": [
         "Software",
         "AI & LLM Testing"
@@ -694,6 +714,16 @@
       ]
     },
     {
+      "key": "https://github.com/adilsoncruz/pdf-snapshot-testing",
+      "name": "pdf-snapshot-testing",
+      "url": "https://github.com/adilsoncruz/pdf-snapshot-testing",
+      "description": "Visual snapshot testing library for PDFs on the JVM (Kotlin & Java / JUnit 5).",
+      "section": [
+        "Software",
+        "Visual Testing"
+      ]
+    },
+    {
       "key": "https://testingbot.com",
       "name": "TestingBot",
       "url": "https://testingbot.com",
@@ -761,6 +791,16 @@
       "section": [
         "Software",
         "Visual Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/srbarrios/agentic-test-explorer",
+      "name": "Agentic Test Explorer",
+      "url": "https://github.com/srbarrios/agentic-test-explorer",
+      "description": "Open-source (MIT) AI exploratory testing framework: LangGraph persona agents drive a real browser through a deterministic Playwright engine, and every bug found becomes a reproducible Playwright spec. Can generate test missions from a GitHub pull request.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
       ]
     },
     {
@@ -1234,6 +1274,16 @@
       ]
     },
     {
+      "key": "https://github.com/gitoza-io/gitoza",
+      "name": "Gitoza",
+      "url": "https://github.com/gitoza-io/gitoza",
+      "description": "Open-source desktop test and task management that stores tickets, wiki, cases, and runs as Markdown in Git.",
+      "section": [
+        "Software",
+        "Test Management"
+      ]
+    },
+    {
       "key": "https://github.com/kiwitcms/Kiwi",
       "name": "Kiwi TCMS",
       "url": "https://github.com/kiwitcms/Kiwi",
@@ -1568,6 +1618,16 @@
       "name": "Check All",
       "url": "https://chrispederick.com/work/web-developer/",
       "description": "Provides a \"Select All\" function where missing.",
+      "section": [
+        "Software",
+        "Browser Extensions & Utilities"
+      ]
+    },
+    {
+      "key": "https://bestlatestapps.com/tools/deep-link-tester",
+      "name": "Deep Link Tester",
+      "url": "https://bestlatestapps.com/tools/deep-link-tester/",
+      "description": "Builds shell-safe adb and xcrun simctl commands and a QR code for testing Android and iOS deep links, and shows which intent filter in a pasted manifest catches a link.",
       "section": [
         "Software",
         "Browser Extensions & Utilities"
@@ -2287,6 +2347,15 @@
       "key": "https://automationpanda.com",
       "name": "Automation Panda",
       "url": "https://automationpanda.com/",
+      "description": "",
+      "section": [
+        "Blogs"
+      ]
+    },
+    {
+      "key": "https://aitestingguide.com",
+      "name": "AI Testing Guide",
+      "url": "https://aitestingguide.com/",
       "description": "",
       "section": [
         "Blogs"
