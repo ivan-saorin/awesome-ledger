@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"831deef618c9288cd742f1bb7c678a216b08bf8c9383552e7599754f7a94fbac\"",
+  "etag": "W/\"d0b39b9e2fcd1ce09969fe2553fd1b5c44169353aa92694fcf5edd2efcd3dbfd\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -508,6 +508,16 @@
       "name": "EvalShift",
       "url": "https://github.com/evalshift/evalshift-cli",
       "description": "Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/apex-engine-dev/apex-verify",
+      "name": "Apex verify",
+      "url": "https://github.com/apex-engine-dev/apex-verify",
+      "description": "Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI and GitHub Action, Apache-2.0.",
       "section": [
         "Software",
         "AI & LLM Testing"
@@ -1234,6 +1244,26 @@
       ]
     },
     {
+      "key": "https://github.com/holtdroid/chromium-builds",
+      "name": "Chromium Builds",
+      "url": "https://github.com/holtdroid/chromium-builds",
+      "description": "Unofficial Chromium browser and Android WebView APKs for every milestone since 83, for x86_64 emulators and arm64 devices, to test a web page or a WebView app on a specific browser version. Open source (MIT or Apache-2.0).",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/penielny/selenia",
+      "name": "Selenia",
+      "url": "https://github.com/penielny/selenia",
+      "description": "Open-source (MIT) Python library that finds Selenium elements from plain-English descriptions with a 24 MB model that runs on CPU. No LLM or API key; it raises an error instead of guessing when no element, or two elements, fit.",
+      "section": [
+        "Software",
+        "UI & End-to-End Testing"
+      ]
+    },
+    {
       "key": "https://github.com/xseman/coverage",
       "name": "coverage",
       "url": "https://github.com/xseman/coverage",
@@ -1328,6 +1358,16 @@
       "name": "Testomatio",
       "url": "https://testomat.io/",
       "description": "Modern TCMS allowing sync of manual and automated tests.",
+      "section": [
+        "Software",
+        "Test Management"
+      ]
+    },
+    {
+      "key": "https://github.com/adlerqa/wardeniq",
+      "name": "wardenIQ",
+      "url": "https://github.com/adlerqa/wardeniq",
+      "description": "Open-source (MIT), self-hosted test intelligence: generates test cases from requirement documents with an LLM and checks the real code against them for coverage.",
       "section": [
         "Software",
         "Test Management"
@@ -1864,16 +1904,6 @@
       ]
     },
     {
-      "key": "https://jmeterhub.com",
-      "name": "JMeterHub",
-      "url": "https://www.jmeterhub.com",
-      "description": "Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.",
-      "section": [
-        "Software",
-        "Performance & Load Testing"
-      ]
-    },
-    {
       "key": "https://github.com/AbdelrhmanHamouda/locust-k8s-operator",
       "name": "Locust Kubernetes Operator",
       "url": "https://github.com/AbdelrhmanHamouda/locust-k8s-operator",
@@ -2098,6 +2128,16 @@
       "name": "Everframe",
       "url": "https://everframe.dev",
       "description": "In-app bug reporter for mobile, web and TV apps that attaches an annotated screenshot, console, network, device info and an optional replay of the moments before the bug.",
+      "section": [
+        "Software",
+        "Screen Recording & Session Replays"
+      ]
+    },
+    {
+      "key": "https://github.com/zakariagharzouli/project-ghostframe",
+      "name": "Ghostframe Replay",
+      "url": "https://github.com/zakariagharzouli/project-ghostframe",
+      "description": "A screenshot that replays its own steps: clicks, timings and notes are encoded in a strip of pixels at the bottom of a JPEG, then replayed in the browser, with no account. MIT.",
       "section": [
         "Software",
         "Screen Recording & Session Replays"

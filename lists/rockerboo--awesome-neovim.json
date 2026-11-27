@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"29e00df34e781acdb4e4d64865fb0eb4777873d729a2eb52f7592dc7c3773218\"",
+  "etag": "W/\"5c9efa75e66e91c77a9031f730e9754f65875c41ef713b9247abb297291d6b02\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -2032,6 +2032,15 @@
       "name": "dobsontom/dbt-ft.nvim",
       "url": "https://github.com/dobsontom/dbt-ft.nvim",
       "description": "Jinja-aware filetype for dbt models, with Tree-sitter support for highlighting, folding, and indentation.",
+      "section": [
+        "Programming Languages Support"
+      ]
+    },
+    {
+      "key": "https://github.com/drumandbytes/dbt-lens.nvim",
+      "name": "drumandbytes/dbt-lens.nvim",
+      "url": "https://github.com/drumandbytes/dbt-lens.nvim",
+      "description": "Run dbt models, read compiled SQL, and jump to ref(), source() and macro definitions.",
       "section": [
         "Programming Languages Support"
       ]
@@ -4562,6 +4571,15 @@
       "description": "Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.",
       "section": [
         "Color"
+      ]
+    },
+    {
+      "key": "https://github.com/ryanjayleyva/kasumi.nvim",
+      "name": "ryanjayleyva/kasumi.nvim",
+      "url": "https://github.com/ryanjayleyva/kasumi.nvim",
+      "description": "[TS][LSP][Lua] Muted dark colorscheme of dusty pinks, sages and greys, with matching themes for Ghostty, WezTerm, tmux and Zsh.",
+      "section": [
+        "Colorscheme"
       ]
     },
     {

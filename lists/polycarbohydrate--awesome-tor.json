@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"158557612393ab152c132f37b8874fa27446131d763a9fae61adc5f8bea9c0aa\"",
+  "etag": "W/\"27619070adb3c86d79f8e9e64a4d6fa0eae24676530928f36323722e916e0677\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -157,19 +157,19 @@
       ]
     },
     {
-      "key": "https://tb-manual.torproject.org/updating",
-      "name": "Updating",
-      "url": "https://tb-manual.torproject.org/updating/",
-      "description": "How to update Tor Browser.",
+      "key": "https://tb-manual.torproject.org/uninstalling",
+      "name": "Uninstalling",
+      "url": "https://tb-manual.torproject.org/uninstalling/",
+      "description": "How to remove Tor Browser from your system.",
       "section": [
         "Official Manual"
       ]
     },
     {
-      "key": "https://tb-manual.torproject.org/uninstalling",
-      "name": "Uninstalling",
-      "url": "https://tb-manual.torproject.org/uninstalling/",
-      "description": "How to remove Tor Browser from your system.",
+      "key": "https://tb-manual.torproject.org/updating",
+      "name": "Updating",
+      "url": "https://tb-manual.torproject.org/updating/",
+      "description": "How to update Tor Browser.",
       "section": [
         "Official Manual"
       ]
@@ -285,9 +285,9 @@
       ]
     },
     {
-      "key": "https://support.torproject.org",
-      "name": "Support",
-      "url": "https://support.torproject.org/",
+      "key": "https://blog.torproject.org",
+      "name": "News",
+      "url": "https://blog.torproject.org/",
       "description": "",
       "section": [
         "Applications",
@@ -295,9 +295,9 @@
       ]
     },
     {
-      "key": "https://blog.torproject.org",
-      "name": "News",
-      "url": "https://blog.torproject.org/",
+      "key": "https://support.torproject.org",
+      "name": "Support",
+      "url": "https://support.torproject.org/",
       "description": "",
       "section": [
         "Applications",
@@ -395,20 +395,20 @@
       ]
     },
     {
-      "key": "https://github.com/skizap/dos-over-tor",
-      "name": "dos-over-tor",
-      "url": "https://github.com/skizap/dos-over-tor",
-      "description": "Proof of concept denial of service over Tor stress test tool.",
+      "key": "https://gitlab.torproject.org/tpo/network-health/doctor",
+      "name": "DocTor",
+      "url": "https://gitlab.torproject.org/tpo/network-health/doctor/",
+      "description": "A notification service that monitors newly published descriptor information for issues.",
       "section": [
         "Applications",
         "Other applications"
       ]
     },
     {
-      "key": "https://gitlab.torproject.org/tpo/network-health/doctor",
-      "name": "DocTor",
-      "url": "https://gitlab.torproject.org/tpo/network-health/doctor/",
-      "description": "A notification service that monitors newly published descriptor information for issues.",
+      "key": "https://github.com/skizap/dos-over-tor",
+      "name": "dos-over-tor",
+      "url": "https://github.com/skizap/dos-over-tor",
+      "description": "Proof of concept denial of service over Tor stress test tool.",
       "section": [
         "Applications",
         "Other applications"
@@ -465,10 +465,10 @@
       ]
     },
     {
-      "key": "https://metrics.torproject.org",
-      "name": "Tor Metrics",
-      "url": "https://metrics.torproject.org/",
-      "description": "Adjustable graphs to visualize the statistics of Tor.",
+      "key": "https://github.com/wbenny/mini-tor",
+      "name": "mini-tor",
+      "url": "https://github.com/wbenny/mini-tor",
+      "description": "Smallest application size while accessing internet content and hidden service content.",
       "section": [
         "Applications",
         "Other applications"
@@ -479,16 +479,6 @@
       "name": "multitor",
       "url": "https://github.com/trimstray/multitor",
       "description": "Create multiple Tor instances with load balancing.",
-      "section": [
-        "Applications",
-        "Other applications"
-      ]
-    },
-    {
-      "key": "https://github.com/wbenny/mini-tor",
-      "name": "mini-tor",
-      "url": "https://github.com/wbenny/mini-tor",
-      "description": "Smallest application size while accessing internet content and hidden service content.",
       "section": [
         "Applications",
         "Other applications"
@@ -628,7 +618,7 @@
       "key": "https://github.com/Resilum/resilum-core",
       "name": "Resilum Core",
       "url": "https://github.com/Resilum/resilum-core",
-      "description": "Multi-transport Reticulum node in Rust that carries mesh links over Tor, using either an external daemon or an embedded client.",
+      "description": "Multi-transport Reticulum node in Rust that carries mesh links over Tor through an external daemon or an embedded client.",
       "section": [
         "Applications",
         "Other applications"
@@ -665,30 +655,10 @@
       ]
     },
     {
-      "key": "https://github.com/glamrock/stormy",
-      "name": "Stormy",
-      "url": "https://github.com/glamrock/stormy",
-      "description": "A wizard that helps people create Tor Onion Services with just a few clicks.",
-      "section": [
-        "Applications",
-        "Other applications"
-      ]
-    },
-    {
       "key": "https://github.com/tor-actions/setup-tor",
       "name": "setup-tor",
       "url": "https://github.com/tor-actions/setup-tor",
       "description": "Set up your GitHub Actions workflow with a specific version of Tor.",
-      "section": [
-        "Applications",
-        "Other applications"
-      ]
-    },
-    {
-      "key": "https://stem.torproject.org",
-      "name": "Stem",
-      "url": "https://stem.torproject.org/",
-      "description": "A Python controller library for Tor.",
       "section": [
         "Applications",
         "Other applications"
@@ -705,10 +675,50 @@
       ]
     },
     {
+      "key": "https://github.com/SRI-CSL/stegotorus",
+      "name": "StegoTorus",
+      "url": "https://github.com/SRI-CSL/stegotorus",
+      "description": "A Camouflage Proxy for the Tor Anonymity System.",
+      "section": [
+        "Applications",
+        "Other applications"
+      ]
+    },
+    {
+      "key": "https://stem.torproject.org",
+      "name": "Stem",
+      "url": "https://stem.torproject.org/",
+      "description": "A Python controller library for Tor.",
+      "section": [
+        "Applications",
+        "Other applications"
+      ]
+    },
+    {
+      "key": "https://github.com/glamrock/stormy",
+      "name": "Stormy",
+      "url": "https://github.com/glamrock/stormy",
+      "description": "A wizard that helps people create Tor Onion Services with just a few clicks.",
+      "section": [
+        "Applications",
+        "Other applications"
+      ]
+    },
+    {
       "key": "https://github.com/basil00/TorWall",
       "name": "Tallow",
       "url": "https://github.com/basil00/TorWall",
       "description": "A program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.",
+      "section": [
+        "Applications",
+        "Other applications"
+      ]
+    },
+    {
+      "key": "https://metrics.torproject.org",
+      "name": "Tor Metrics",
+      "url": "https://metrics.torproject.org/",
+      "description": "Adjustable graphs to visualize the statistics of Tor.",
       "section": [
         "Applications",
         "Other applications"
@@ -1027,6 +1037,15 @@
       ]
     },
     {
+      "key": "https://bridges.torproject.org",
+      "name": "Private Bridges",
+      "url": "https://bridges.torproject.org/",
+      "description": "Go to I need an alternative way of getting bridges! section. Follow the instructions.",
+      "section": [
+        "Bridges"
+      ]
+    },
+    {
       "key": "https://github.com/NullHypothesis/scramblesuit",
       "name": "ScrambleSuit",
       "url": "https://github.com/NullHypothesis/scramblesuit",
@@ -1051,123 +1070,6 @@
       "description": "A censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.",
       "section": [
         "Bridges"
-      ]
-    },
-    {
-      "key": "https://github.com/yinghuocho/firefly-proxy",
-      "name": "Firefly",
-      "url": "https://github.com/yinghuocho/firefly-proxy",
-      "description": "A proxy software to help circumvent the Great Firewall.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/v3aqb/fwlite",
-      "name": "FWlite",
-      "url": "https://github.com/v3aqb/fwlite",
-      "description": "An anti-censorship HTTP proxy with built-in shadowsocks support.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://fi.google.com",
-      "name": "Google Fi Wireless",
-      "url": "https://fi.google.com/",
-      "description": "Great phone solution that allows calls, text messaging, and use of cellular data that bypasses China's Great Firewall.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/getlantern/lantern",
-      "name": "Lantern",
-      "url": "https://github.com/getlantern/lantern",
-      "description": "Censorship circumvention tool available for free download on any operating system.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/TelegramMessenger/MTProxy",
-      "name": "MTProxy",
-      "url": "https://github.com/TelegramMessenger/MTProxy",
-      "description": "Allows users in censored areas to connect to Telegram.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/klzgrad/naiveproxy",
-      "name": "NaïveProxy",
-      "url": "https://github.com/klzgrad/naiveproxy",
-      "description": "Uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/nfriedly/nodeunblocker.com",
-      "name": "nodeunblocker",
-      "url": "https://github.com/nfriedly/nodeunblocker.com",
-      "description": "Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://privadovpn.com",
-      "name": "PrivadoVPN",
-      "url": "https://privadovpn.com/",
-      "description": "VPN that is based in Switzerland and follows Swiss privacy laws. Bypasses even in China.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://protonvpn.com",
-      "name": "ProtonVPN",
-      "url": "https://protonvpn.com/",
-      "description": "VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://bridges.torproject.org",
-      "name": "Private Bridges",
-      "url": "https://bridges.torproject.org/",
-      "description": "Go to I need an alternative way of getting bridges! section. Follow the instructions.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/anticensority/runet-censorship-bypass",
-      "name": "Runet Censorship Bypass",
-      "url": "https://github.com/anticensority/runet-censorship-bypass",
-      "description": "A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/SRI-CSL/stegotorus",
-      "name": "StegoTorus",
-      "url": "https://github.com/SRI-CSL/stegotorus",
-      "description": "A Camouflage Proxy for the Tor Anonymity System.",
-      "section": [
-        "Bypass Censorship"
-      ]
-    },
-    {
-      "key": "https://github.com/trojan-gfw/trojan",
-      "name": "trojan",
-      "url": "https://github.com/trojan-gfw/trojan",
-      "description": "An unidentifiable mechanism that helps you bypass GFW.",
-      "section": [
-        "Bypass Censorship"
       ]
     },
     {
@@ -1387,55 +1289,10 @@
       ]
     },
     {
-      "key": "https://blog.torproject.org/event/state-of-the-onion-2026",
-      "name": "2026",
-      "url": "https://blog.torproject.org/event/state-of-the-onion-2026/",
-      "description": "State of the Onion for the year 2026.",
-      "section": [
-        "State of the Onion"
-      ]
-    },
-    {
-      "key": "https://blog.torproject.org/state-of-the-onion-2025",
-      "name": "2025",
-      "url": "https://blog.torproject.org/state-of-the-onion-2025/",
-      "description": "State of the Onion for the year 2025.",
-      "section": [
-        "State of the Onion"
-      ]
-    },
-    {
-      "key": "https://blog.torproject.org/state-of-the-onion-2024",
-      "name": "2024",
-      "url": "https://blog.torproject.org/state-of-the-onion-2024/",
-      "description": "State of the Onion for the year 2024.",
-      "section": [
-        "State of the Onion"
-      ]
-    },
-    {
-      "key": "https://blog.torproject.org/state-of-the-onion-2023",
-      "name": "2023",
-      "url": "https://blog.torproject.org/state-of-the-onion-2023/",
-      "description": "State of the Onion for the year 2023.",
-      "section": [
-        "State of the Onion"
-      ]
-    },
-    {
-      "key": "https://blog.torproject.org/state-of-the-onion-2022",
-      "name": "2022",
-      "url": "https://blog.torproject.org/state-of-the-onion-2022/",
-      "description": "State of the Onion for the year 2022.",
-      "section": [
-        "State of the Onion"
-      ]
-    },
-    {
-      "key": "https://blog.torproject.org/state-of-the-onion-2021",
-      "name": "2021",
-      "url": "https://blog.torproject.org/state-of-the-onion-2021/",
-      "description": "State of the Onion for the year 2021.",
+      "key": "https://youtube.com/watch?v=W0NR6M_08oM",
+      "name": "2019",
+      "url": "https://www.youtube.com/watch?v=W0NR6M_08oM",
+      "description": "State of the Onion for the year 2019.",
       "section": [
         "State of the Onion"
       ]
@@ -1450,10 +1307,55 @@
       ]
     },
     {
-      "key": "https://youtube.com/watch?v=W0NR6M_08oM",
-      "name": "2019",
-      "url": "https://www.youtube.com/watch?v=W0NR6M_08oM",
-      "description": "State of the Onion for the year 2019.",
+      "key": "https://blog.torproject.org/state-of-the-onion-2021",
+      "name": "2021",
+      "url": "https://blog.torproject.org/state-of-the-onion-2021/",
+      "description": "State of the Onion for the year 2021.",
+      "section": [
+        "State of the Onion"
+      ]
+    },
+    {
+      "key": "https://blog.torproject.org/state-of-the-onion-2022",
+      "name": "2022",
+      "url": "https://blog.torproject.org/state-of-the-onion-2022/",
+      "description": "State of the Onion for the year 2022.",
+      "section": [
+        "State of the Onion"
+      ]
+    },
+    {
+      "key": "https://blog.torproject.org/state-of-the-onion-2023",
+      "name": "2023",
+      "url": "https://blog.torproject.org/state-of-the-onion-2023/",
+      "description": "State of the Onion for the year 2023.",
+      "section": [
+        "State of the Onion"
+      ]
+    },
+    {
+      "key": "https://blog.torproject.org/state-of-the-onion-2024",
+      "name": "2024",
+      "url": "https://blog.torproject.org/state-of-the-onion-2024/",
+      "description": "State of the Onion for the year 2024.",
+      "section": [
+        "State of the Onion"
+      ]
+    },
+    {
+      "key": "https://blog.torproject.org/state-of-the-onion-2025",
+      "name": "2025",
+      "url": "https://blog.torproject.org/state-of-the-onion-2025/",
+      "description": "State of the Onion for the year 2025.",
+      "section": [
+        "State of the Onion"
+      ]
+    },
+    {
+      "key": "https://blog.torproject.org/event/state-of-the-onion-2026",
+      "name": "2026",
+      "url": "https://blog.torproject.org/event/state-of-the-onion-2026/",
+      "description": "State of the Onion for the year 2026.",
       "section": [
         "State of the Onion"
       ]

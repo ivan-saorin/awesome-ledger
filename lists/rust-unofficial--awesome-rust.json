@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"0fe3e25fa16c4e26b66081e3b3b8a3e3cadd899bab6c9c9da8565c241cd6a54f\"",
+  "etag": "W/\"74da94f9c1d621fb674d2c0983f141869678111b6d73a04d5a4b8c1504b4edad\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -202,6 +202,15 @@
       ]
     },
     {
+      "key": "https://github.com/geek-fun/dockit",
+      "name": "geek-fun/dockit",
+      "url": "https://github.com/geek-fun/dockit",
+      "description": "Cross-platform Tauri desktop client for Elasticsearch, OpenSearch, DynamoDB, MongoDB, and EasySearch with Monaco editors, visual query tools, and an optional agentic AI assistant.",
+      "section": [
+        "Applications"
+      ]
+    },
+    {
       "key": "https://github.com/chanderlud/giga-grabber",
       "name": "giga-grabber",
       "url": "https://github.com/chanderlud/giga-grabber",
@@ -310,15 +319,6 @@
       ]
     },
     {
-      "key": "https://github.com/changlan/kytan",
-      "name": "kytan",
-      "url": "https://github.com/changlan/kytan",
-      "description": "High Performance Peer-to-Peer VPN",
-      "section": [
-        "Applications"
-      ]
-    },
-    {
       "key": "https://github.com/linkerd/linkerd2-proxy",
       "name": "linkerd/linkerd2-proxy",
       "url": "https://github.com/linkerd/linkerd2-proxy",
@@ -377,15 +377,6 @@
       "name": "mdBook",
       "url": "https://github.com/rust-lang/mdBook",
       "description": "A command line utility to create books from markdown files",
-      "section": [
-        "Applications"
-      ]
-    },
-    {
-      "key": "https://github.com/web3infra-foundation/mega",
-      "name": "Mega",
-      "url": "https://github.com/web3infra-foundation/mega",
-      "description": "A monorepo & monolithic codebase management system that supports Git, also is an unofficial open source implementation of Google Piper.",
       "section": [
         "Applications"
       ]
@@ -607,15 +598,6 @@
       ]
     },
     {
-      "key": "https://github.com/shuttle-hq/shuttle",
-      "name": "shuttle",
-      "url": "https://github.com/shuttle-hq/shuttle",
-      "description": "A serverless platform.",
-      "section": [
-        "Applications"
-      ]
-    },
-    {
       "key": "https://github.com/GyulyVGC/sniffnet",
       "name": "Sniffnet",
       "url": "https://github.com/GyulyVGC/sniffnet",
@@ -787,15 +769,6 @@
       ]
     },
     {
-      "key": "https://github.com/wasmerio/winterjs",
-      "name": "WinterJS",
-      "url": "https://github.com/wasmerio/winterjs",
-      "description": "A secure JavaScript runtime built with SpiderMonkey and Axum",
-      "section": [
-        "Applications"
-      ]
-    },
-    {
       "key": "https://github.com/zellij-org/zellij",
       "name": "zellij",
       "url": "https://github.com/zellij-org/zellij",
@@ -888,6 +861,16 @@
       "name": "mierak/rmpc",
       "url": "https://github.com/mierak/rmpc",
       "description": "[rmpc] - A modern and configurable, terminal based MPD Client with album art support",
+      "section": [
+        "Applications",
+        "Audio and Music"
+      ]
+    },
+    {
+      "key": "https://github.com/miskibin/synkopa",
+      "name": "miskibin/synkopa",
+      "url": "https://github.com/miskibin/synkopa",
+      "description": "Open-source DAW with an FL Studio-style workflow (patterns, Channel Rack, piano roll, mixer, vocal tuning) and a CLI for scripting, built with Tauri",
       "section": [
         "Applications",
         "Audio and Music"
@@ -1144,16 +1127,6 @@
       ]
     },
     {
-      "key": "https://github.com/equilibriumco/beerus",
-      "name": "equilibriumco/beerus",
-      "url": "https://github.com/equilibriumco/beerus",
-      "description": "Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡",
-      "section": [
-        "Applications",
-        "Blockchain"
-      ]
-    },
-    {
       "key": "https://github.com/rust-ethereum/ethabi",
       "name": "ethabi",
       "url": "https://github.com/rust-ethereum/ethabi",
@@ -1268,16 +1241,6 @@
       "name": "infincia/bip39-rs",
       "url": "https://github.com/infincia/bip39-rs",
       "description": "[bip39] - Implementation of BIP39.",
-      "section": [
-        "Applications",
-        "Blockchain"
-      ]
-    },
-    {
-      "key": "https://github.com/interlay/interbtc",
-      "name": "interBTC",
-      "url": "https://github.com/interlay/interbtc",
-      "description": "Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.",
       "section": [
         "Applications",
         "Blockchain"
@@ -1514,16 +1477,6 @@
       ]
     },
     {
-      "key": "https://github.com/zcash/zcash",
-      "name": "zcash",
-      "url": "https://github.com/zcash/zcash",
-      "description": "Zcash is an implementation of the \"Zerocash\" protocol.",
-      "section": [
-        "Applications",
-        "Blockchain"
-      ]
-    },
-    {
       "key": "https://github.com/aimdb-dev/aimdb",
       "name": "aimdb-dev/aimdb",
       "url": "https://github.com/aimdb-dev/aimdb",
@@ -1638,6 +1591,16 @@
       "name": "Garage",
       "url": "https://github.com/deuxfleurs-org/garage",
       "description": "[garage] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale.",
+      "section": [
+        "Applications",
+        "Database"
+      ]
+    },
+    {
+      "key": "https://github.com/geek-fun/sqlkit",
+      "name": "geek-fun/sqlkit",
+      "url": "https://github.com/geek-fun/sqlkit",
+      "description": "Agentic cross-platform SQL database GUI for 70+ engines (PostgreSQL, MySQL, Oracle, ClickHouse, JDBC, and more), built with Tauri and a Rust connection and agent backend.",
       "section": [
         "Applications",
         "Database"
@@ -3024,16 +2987,6 @@
       ]
     },
     {
-      "key": "https://github.com/KaminariOS/rustracer",
-      "name": "KaminariOS/rustracer",
-      "url": "https://github.com/KaminariOS/rustracer",
-      "description": "A PBR glTF 2.0 renderer based on Vulkan ray-tracing.",
-      "section": [
-        "Applications",
-        "Graphics"
-      ]
-    },
-    {
       "key": "https://github.com/Limeth/euclider",
       "name": "Limeth/euclider",
       "url": "https://github.com/Limeth/euclider",
@@ -3378,16 +3331,6 @@
       "name": "respanai/respan-gateway",
       "url": "https://github.com/respanai/respan-gateway",
       "description": "[respan-gateway] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI.",
-      "section": [
-        "Applications",
-        "MLOps"
-      ]
-    },
-    {
-      "key": "https://github.com/tensorzero/tensorzero",
-      "name": "TensorZero",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "description": "data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation",
       "section": [
         "Applications",
         "MLOps"
@@ -5564,16 +5507,6 @@
       ]
     },
     {
-      "key": "https://github.com/mmstick/concurr",
-      "name": "mmstick/concurr",
-      "url": "https://github.com/mmstick/concurr",
-      "description": "Alternative to GNU Parallel w/ a client-server architecture",
-      "section": [
-        "Applications",
-        "System tools"
-      ]
-    },
-    {
       "key": "https://github.com/mmstick/fontfinder",
       "name": "mmstick/fontfinder",
       "url": "https://github.com/mmstick/fontfinder",
@@ -6404,16 +6337,6 @@
       ]
     },
     {
-      "key": "https://github.com/your-tools/ruplacer",
-      "name": "ruplacer",
-      "url": "https://github.com/your-tools/ruplacer",
-      "description": "Find and replace text in source files",
-      "section": [
-        "Applications",
-        "Text processing"
-      ]
-    },
-    {
       "key": "https://github.com/thomasschafer/scooter",
       "name": "scooter",
       "url": "https://github.com/thomasschafer/scooter",
@@ -7034,16 +6957,6 @@
       ]
     },
     {
-      "key": "https://github.com/Water-Run/treepp",
-      "name": "Water-Run/treepp",
-      "url": "https://github.com/Water-Run/treepp",
-      "description": "A Rust-based native Windows tree replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and .gitignore support, and several-times faster performance.",
-      "section": [
-        "Applications",
-        "Utilities"
-      ]
-    },
-    {
       "key": "https://github.com/alvaro17f/wrestic",
       "name": "wrestic",
       "url": "https://github.com/alvaro17f/wrestic",
@@ -7408,6 +7321,16 @@
       "name": "Redlib",
       "url": "https://github.com/redlib-org/redlib",
       "description": "An alternative private front-end to Reddit, with its origins in Libreddit",
+      "section": [
+        "Applications",
+        "Web"
+      ]
+    },
+    {
+      "key": "https://github.com/SandeepAi369/SearchWala",
+      "name": "SandeepAi369/SearchWala",
+      "url": "https://github.com/SandeepAi369/SearchWala",
+      "description": "[searchwala] - Private self-hosted meta-search engine, web scraper, and zero-dependency MCP server across 19 web, news, and scholarly engines with cross-engine consensus ranking, domain controls, and optional BYOK LLM synthesis.",
       "section": [
         "Applications",
         "Web"
@@ -8982,16 +8905,6 @@
       ]
     },
     {
-      "key": "https://github.com/Sean1708/rusty-cheddar",
-      "name": "Sean1708/rusty-cheddar",
-      "url": "https://github.com/Sean1708/rusty-cheddar",
-      "description": "generates C header files from Rust source files",
-      "section": [
-        "Development tools",
-        "FFI"
-      ]
-    },
-    {
       "key": "https://github.com/trevyn/librclone",
       "name": "trevyn/librclone",
       "url": "https://github.com/trevyn/librclone",
@@ -10232,16 +10145,6 @@
       ]
     },
     {
-      "key": "https://github.com/shuttle-hq/synth",
-      "name": "synth",
-      "url": "https://github.com/shuttle-hq/synth/",
-      "description": "Generate database data declaratively.",
-      "section": [
-        "Development tools",
-        "Testing"
-      ]
-    },
-    {
       "key": "https://github.com/sourcefrog/cargo-mutants",
       "name": "cargo-mutants",
       "url": "https://github.com/sourcefrog/cargo-mutants",
@@ -10405,17 +10308,6 @@
       "name": "innoave/genevo",
       "url": "https://github.com/innoave/genevo",
       "description": "Execute genetic algorithm (GA) simulations in a customizable and extensible way.",
-      "section": [
-        "Libraries",
-        "Artificial Intelligence",
-        "Genetic algorithms"
-      ]
-    },
-    {
-      "key": "https://github.com/m-decoster/RsGenetic",
-      "name": "m-decoster/RsGenetic",
-      "url": "https://github.com/m-decoster/RsGenetic",
-      "description": "Genetic Algorithm library. In maintenance mode.",
       "section": [
         "Libraries",
         "Artificial Intelligence",
@@ -10797,17 +10689,6 @@
       ]
     },
     {
-      "key": "https://github.com/tensorflow/rust",
-      "name": "tensorflow/rust",
-      "url": "https://github.com/tensorflow/rust",
-      "description": "Bindings for TensorFlow.",
-      "section": [
-        "Libraries",
-        "Artificial Intelligence",
-        "Machine learning"
-      ]
-    },
-    {
       "key": "https://github.com/0xplaygrounds/rig",
       "name": "0xplaygrounds/rig",
       "url": "https://github.com/0xplaygrounds/rig",
@@ -11061,16 +10942,6 @@
       "name": "async-std",
       "url": "https://async.rs/",
       "description": "[async-std] - Async version of the Rust standard library",
-      "section": [
-        "Libraries",
-        "Asynchronous"
-      ]
-    },
-    {
-      "key": "https://github.com/dagrs-dev/dagrs",
-      "name": "dagrs",
-      "url": "https://github.com/dagrs-dev/dagrs",
-      "description": "A high-performance asynchronous task programming framework, which follows the concept of Flow based Programming.",
       "section": [
         "Libraries",
         "Asynchronous"
@@ -12251,6 +12122,16 @@
       "name": "7z",
       "url": "https://7-zip.org/7z.html",
       "description": "",
+      "section": [
+        "Libraries",
+        "Compression"
+      ]
+    },
+    {
+      "key": "https://github.com/aperiodic-io/tparquet",
+      "name": "aperiodic-io/tparquet",
+      "url": "https://github.com/aperiodic-io/tparquet",
+      "description": "[tparquet] - Parquet with a pcodec codec for numeric columns: trade and tick files at about half their ZSTD size, lossless and still readable as Parquet",
       "section": [
         "Libraries",
         "Compression"
@@ -14641,16 +14522,6 @@
       "name": "lettre/lettre",
       "url": "https://github.com/lettre/lettre",
       "description": "an SMTP-library",
-      "section": [
-        "Libraries",
-        "Email"
-      ]
-    },
-    {
-      "key": "https://github.com/mailtutan/mailtutan",
-      "name": "mailtutan/mailtutan",
-      "url": "https://github.com/mailtutan/mailtutan",
-      "description": "An SMTP server for test and development environment.",
       "section": [
         "Libraries",
         "Email"
@@ -17237,6 +17108,16 @@
       ]
     },
     {
+      "key": "https://github.com/eisenzopf/rvoip",
+      "name": "eisenzopf/rvoip",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "description": "[rvoip] - SIP/VoIP stack with RTP/SRTP, WebRTC and AI voice-agent support",
+      "section": [
+        "Libraries",
+        "Network programming"
+      ]
+    },
+    {
       "key": "https://github.com/restsend/rsipstack",
       "name": "restsend/rsipstack",
       "url": "https://github.com/restsend/rsipstack",
@@ -19131,16 +19012,6 @@
       "name": "pyrossh/rust-embed",
       "url": "https://git.sr.ht/~pyrossh/rust-embed",
       "description": "[rust-embed] - A macro to embed static assets into the rust binary",
-      "section": [
-        "Libraries",
-        "Web programming"
-      ]
-    },
-    {
-      "key": "https://github.com/thewh1teagle/rookie",
-      "name": "rookie",
-      "url": "https://github.com/thewh1teagle/rookie",
-      "description": "Load cookies from any browser on any platform.",
       "section": [
         "Libraries",
         "Web programming"

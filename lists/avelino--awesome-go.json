@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7b1dc2633884aaf6ecae4ba482513b4ae0f9425f4e07f4b2b322b8b9d6d3a37f\"",
+  "etag": "W/\"729aa513788b4430bb0d0f7bfdb76129288611242c9c19023230b86ff9d658af\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -206,6 +206,15 @@
       "name": "GoModel",
       "url": "https://github.com/ENTERPILOT/GoModel",
       "description": "AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.",
+      "section": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "key": "https://github.com/angelnicolasc/graymatter",
+      "name": "graymatter",
+      "url": "https://github.com/angelnicolasc/graymatter",
+      "description": "Local persistent memory layer and MCP server for AI agents with hybrid search, knowledge graph, and TUI.",
       "section": [
         "Artificial Intelligence"
       ]
@@ -602,15 +611,6 @@
       "name": "authboss",
       "url": "https://github.com/volatiletech/authboss",
       "description": "Modular authentication system for the web. It tries to remove as much boilerplate and \"hard things\" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.",
-      "section": [
-        "Authentication and Authorization"
-      ]
-    },
-    {
-      "key": "https://github.com/go-authgate/authgate",
-      "name": "authgate",
-      "url": "https://github.com/go-authgate/authgate",
-      "description": "A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant (RFC 8628), Authorization Code Flow with PKCE (RFC 6749 + RFC 7636), and Client Credentials Grant for machine-to-machine authentication.",
       "section": [
         "Authentication and Authorization"
       ]
@@ -6469,6 +6469,16 @@
       ]
     },
     {
+      "key": "https://github.com/vcaesar/zedsearch",
+      "name": "zedsearch",
+      "url": "https://github.com/vcaesar/zedsearch",
+      "description": "Faster lightweight hybrid search engine with Elasticsearch-compatible ingestion APIs and an embedded web UI.",
+      "section": [
+        "Database Drivers",
+        "Search and Analytic Databases"
+      ]
+    },
+    {
       "key": "https://github.com/sourcegraph/zoekt",
       "name": "zoekt",
       "url": "https://github.com/sourcegraph/zoekt",
@@ -6888,6 +6898,15 @@
       "name": "flowgraph",
       "url": "https://github.com/vectaport/flowgraph",
       "description": "flow-based programming package.",
+      "section": [
+        "Distributed Systems"
+      ]
+    },
+    {
+      "key": "https://github.com/dankomiocevic/ghoti",
+      "name": "ghoti",
+      "url": "https://github.com/dankomiocevic/ghoti",
+      "description": "Centralized server for shared state across distributed instances: rate limiters, leases, atomic counters and broadcast signals.",
       "section": [
         "Distributed Systems"
       ]
@@ -7316,6 +7335,15 @@
       ]
     },
     {
+      "key": "https://github.com/Deln0r/ygo",
+      "name": "ygo",
+      "url": "https://github.com/Deln0r/ygo",
+      "description": "Pure Go port of the Yjs CRDT, wire-compatible with JavaScript yjs clients.",
+      "section": [
+        "Distributed Systems"
+      ]
+    },
+    {
       "key": "https://github.com/skibish/ddns",
       "name": "DDNS",
       "url": "https://github.com/skibish/ddns",
@@ -7617,6 +7645,15 @@
       "name": "ecal",
       "url": "https://github.com/krotik/ecal",
       "description": "A simple embeddable scripting language which supports concurrent event processing.",
+      "section": [
+        "Embeddable Scripting Languages"
+      ]
+    },
+    {
+      "key": "https://github.com/hxkhan/evie",
+      "name": "evie",
+      "url": "https://github.com/hxkhan/evie",
+      "description": "Embeddable scripting language with classes, fibers and per-engine sandboxing.",
       "section": [
         "Embeddable Scripting Languages"
       ]
@@ -13899,6 +13936,16 @@
       ]
     },
     {
+      "key": "https://github.com/larvit/fejkdata",
+      "name": "fejkdata",
+      "url": "https://github.com/larvit/fejkdata",
+      "description": "CLI and library that render fake test data from JSON templates, with related values that match.",
+      "section": [
+        "Miscellaneous",
+        "Uncategorized"
+      ]
+    },
+    {
       "key": "https://github.com/go-ffmt/ffmt",
       "name": "ffmt",
       "url": "https://github.com/go-ffmt/ffmt",
@@ -18025,6 +18072,15 @@
       "name": "goshs",
       "url": "https://github.com/patrickhener/goshs",
       "description": "SimpleHTTPServer replacement with file upload/download, WebDAV, SFTP, SMB, TLS, authentication, and share links.",
+      "section": [
+        "Server Applications"
+      ]
+    },
+    {
+      "key": "https://github.com/sun-praise/hugo-admin",
+      "name": "Hugo Admin",
+      "url": "https://github.com/sun-praise/hugo-admin",
+      "description": "Self-hosted web admin interface for Hugo static sites with a Markdown editor, dev-server control, full-text search, theme management and gRPC-based plugins.",
       "section": [
         "Server Applications"
       ]

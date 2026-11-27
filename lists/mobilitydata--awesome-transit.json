@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7e18fd19d220f540286e0d386fed7036ddfabde8f8877a65b9808dbc01c3aea8\"",
+  "etag": "W/\"b8d4d967bdbe4cf680bc16d96cad20e5e2f8f8f8ac68034fb07d11d805d875ca\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -599,6 +599,17 @@
       "name": "gtfs-to-geojson",
       "url": "https://github.com/BlinkTagInc/gtfs-to-geojson",
       "description": "Javascript tool that converts transit data in GTFS shapes and stops into geoJSON. This is useful for creating maps of transit routes.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Converters"
+      ]
+    },
+    {
+      "key": "https://getroutepress.com/free-tools/gtfs-to-kml",
+      "name": "GTFS to KML Converter",
+      "url": "https://www.getroutepress.com/free-tools/gtfs-to-kml",
+      "description": "Free browser tool that converts GTFS shapes and stops into an organized KML for use in Google Earth.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -1376,6 +1387,17 @@
       ]
     },
     {
+      "key": "https://gtfs.guru",
+      "name": "GTFS.guru",
+      "url": "https://gtfs.guru/",
+      "description": "A fast, native GTFS validator with a Rust core, offering 110+ validators and JSON/HTML/SARIF reports. Ships as a desktop app, CLI, Python library, Web API, and a WebAssembly build that validates feeds locally in the browser.",
+      "section": [
+        "Producing Data",
+        "GTFS",
+        "GTFS Validators"
+      ]
+    },
+    {
       "key": "https://github.com/patrickbr/gtfstidy",
       "name": "gtfstidy",
       "url": "https://github.com/patrickbr/gtfstidy",
@@ -1490,17 +1512,6 @@
       "name": "gtfs-accessiblity-validator",
       "url": "https://github.com/BlinkTagInc/gtfs-accessibility-validator",
       "description": "Validates the presence of accessiblity-related fields and files in a GTFS file. Can be a command line tool or node.js package.",
-      "section": [
-        "Producing Data",
-        "GTFS",
-        "GTFS Validators"
-      ]
-    },
-    {
-      "key": "https://gtfs.guru",
-      "name": "GTFS.guru",
-      "url": "https://gtfs.guru/",
-      "description": "Rust-core GTFS validator that compiles to WebAssembly so feeds can be validated locally in the browser. Also ships desktop apps, a CLI, and Python bindings.",
       "section": [
         "Producing Data",
         "GTFS",
@@ -2782,6 +2793,16 @@
       ]
     },
     {
+      "key": "https://transcapi.com",
+      "name": "TransCAPI",
+      "url": "https://www.transcapi.com/",
+      "description": "REST API for Great Britain bus and rail: departures and arrivals with live running (National Rail Darwin, BODS), live vehicles, disruptions matched to a route, and journey planning. Free tier.",
+      "section": [
+        "Sharing Data",
+        "Proprietary (non-standard) vendor APIs"
+      ]
+    },
+    {
       "key": "https://nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf",
       "name": "NextBus API",
       "url": "http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf",
@@ -3568,6 +3589,17 @@
       "name": "All Transit",
       "url": "https://all-transit.com",
       "description": "Interactive GTFS route and schedule animation (for U.S. cities) using Mapbox GL JS, Deck.gl and Transitland. Github repository here.",
+      "section": [
+        "Using Data",
+        "Visualizations",
+        "GTFS Based Visualizations"
+      ]
+    },
+    {
+      "key": "https://tram.camilleroux.com",
+      "name": "À portée de tram",
+      "url": "https://tram.camilleroux.com/",
+      "description": "Interactive travel-time maps for 25 cities in France, Belgium and Canada: pick a departure and the city is colored by travel time by tram and metro (optionally bus), with isochrones and a detailed itinerary. Times are computed from GTFS timetables (median ride times, waits from headways, branch-aware waits, published transfer times). Open-source on GitHub.",
       "section": [
         "Using Data",
         "Visualizations",
@@ -4531,6 +4563,16 @@
       "name": "TBEST",
       "url": "https://tbest.org/",
       "description": "TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.",
+      "section": [
+        "Using Data",
+        "Agency Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/veodyn/veodyn-ce",
+      "name": "Veodyn",
+      "url": "https://github.com/veodyn/veodyn-ce",
+      "description": "An open-source, self-hosted data platform for transit agencies: connectors for GTFS, GTFS Realtime, GBFS, TMDD and NTCIP 1203 feeds, historical capture into ClickHouse, a SQL editor, dashboards, a data catalog, and publishing of GBFS and GTFS Realtime feeds. Documentation and live demo.",
       "section": [
         "Using Data",
         "Agency Tools"

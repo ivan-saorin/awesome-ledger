@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"4e294e2242fe01d72b7176928e3e3058e23e043505261f08950e93b889bfc471\"",
+  "etag": "W/\"164db213c2ad8b8f1239ad4bbcb7e5cdb35fd8b65b05e1b4f53f45165672769a\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -974,6 +974,16 @@
       ]
     },
     {
+      "key": "https://github.com/dloss/kelora",
+      "name": "Kelora",
+      "url": "https://github.com/dloss/kelora",
+      "description": "Command-line tool for parsing, filtering, transforming and aggregating logs with embedded scripting.",
+      "section": [
+        "IR Tools Collection",
+        "Log Analysis Tools"
+      ]
+    },
+    {
       "key": "https://lizard-labs.com/log_parser_lizard.aspx",
       "name": "Log Parser Lizard",
       "url": "https://lizard-labs.com/log_parser_lizard.aspx",
@@ -1524,6 +1534,16 @@
       ]
     },
     {
+      "key": "https://github.com/aixisstudio/Wiretap",
+      "name": "Wiretap",
+      "url": "https://github.com/aixisstudio/Wiretap",
+      "description": "Open-source application firewall and network observer that captures outbound connections per process, evaluates them against Sigma rules and threat-intel feeds, keeps a bounded forensic ring buffer of traffic, and can automatically block suspicious flows.",
+      "section": [
+        "IR Tools Collection",
+        "Other Tools"
+      ]
+    },
+    {
       "key": "https://percona.com/doc/percona-toolkit/2.2/pt-stalk.html",
       "name": "Stalk",
       "url": "https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html",
@@ -1828,6 +1848,16 @@
       "name": "Radare2",
       "url": "https://github.com/radareorg/radare2",
       "description": "Reverse engineering framework and command-line toolset.",
+      "section": [
+        "IR Tools Collection",
+        "Sandboxing/Reversing Tools"
+      ]
+    },
+    {
+      "key": "https://github.com/morluto/rea",
+      "name": "REA",
+      "url": "https://github.com/morluto/rea",
+      "description": "Local CLI and MCP server for static binary triage, including file metadata, imports, and hardening flags with supporting evidence.",
       "section": [
         "IR Tools Collection",
         "Sandboxing/Reversing Tools"

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d95641a090d0eb882637da25bbd8a80e57076bfb064859d3d80c4f4afea5dcd3\"",
+  "etag": "W/\"1a32553c0f5a2af12f822efd6e80deee3fe343e3c83bbbc919af82e4a4e000a0\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -598,6 +598,15 @@
       ]
     },
     {
+      "key": "https://netforge.ai",
+      "name": "Netforge.ai",
+      "url": "https://netforge.ai",
+      "description": "Network design tool that turns a topology drawing into a ready-to-run Ansible project: inventory grouped by platform, per-device host_vars, per-platform group_vars and a playbook per platform.",
+      "section": [
+        "Tools"
+      ]
+    },
+    {
       "key": "https://reinteractive.com/posts/167-ansible-real-life-good-practices",
       "name": "Ansible (Real Life) Good Practices",
       "url": "https://reinteractive.com/posts/167-ansible-real-life-good-practices",
@@ -687,114 +696,6 @@
       "section": [
         "Blog posts and opinions",
         "French"
-      ]
-    },
-    {
-      "key": "https://github.com/geerlingguy/ansible-vagrant-examples",
-      "name": "Ansible Vagrant Examples by geerlingguy",
-      "url": "https://github.com/geerlingguy/ansible-vagrant-examples",
-      "description": "Ansible examples using Vagrant to deploy to local VMs.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/olivomarco/my-ansible-linux-setup",
-      "name": "Ansible playbook for Linux machine setup",
-      "url": "https://github.com/olivomarco/my-ansible-linux-setup",
-      "description": "Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/ansible-lockdown",
-      "name": "Ansible Lockdown",
-      "url": "https://github.com/ansible-lockdown",
-      "description": "Ansible content to assist in both auditing and remediating against CIS or STIG baseline compliance for OS's and Applications.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://dev-sec.io",
-      "name": "DevSec Hardening Framework",
-      "url": "https://dev-sec.io/",
-      "description": "The DevSec collection helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/Thomvaill/tads-boilerplate",
-      "name": "T.A.D.S. boilerplate",
-      "url": "https://github.com/Thomvaill/tads-boilerplate",
-      "description": "Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/openstack/openstack-ansible",
-      "name": "Openstack Ansible",
-      "url": "https://github.com/openstack/openstack-ansible",
-      "description": "Ansible Playbooks for deploying OpenStack.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://robertdebock.nl",
-      "name": "Robert de Bock",
-      "url": "https://robertdebock.nl",
-      "description": "A extensive collection of Ansible roles.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://docs.debops.org/en/master",
-      "name": "DebOps",
-      "url": "https://docs.debops.org/en/master/",
-      "description": "A extensive collection of Debian based Ansible Playbooks.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/HQarroum/ansible-ssm",
-      "name": "ansible-ssm",
-      "url": "https://github.com/HQarroum/ansible-ssm",
-      "description": "An Ansible role to provision physical and virtual hosts with the AWS SSM agent.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/bluebanquise/bluebanquise",
-      "name": "BlueBanquise",
-      "url": "https://github.com/bluebanquise/bluebanquise",
-      "description": "An Ansible coherent roles collection to deploy clusters.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/search?o=desc&q=topic:ansible org:redhat-cop&s=updated&type=Repositories",
-      "name": "redhat-cop",
-      "url": "https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop&type=Repositories&s=updated&o=desc",
-      "description": "Repositories with Ansible topic of the Red Hat Communities of Practice project.",
-      "section": [
-        "Playbooks, Roles and Collections"
-      ]
-    },
-    {
-      "key": "https://github.com/Linuxfabrik/lfops",
-      "name": "Linuxfabrik LFOps",
-      "url": "https://github.com/Linuxfabrik/lfops",
-      "description": "An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.",
-      "section": [
-        "Playbooks, Roles and Collections"
       ]
     },
     {
