@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"d0b39b9e2fcd1ce09969fe2553fd1b5c44169353aa92694fcf5edd2efcd3dbfd\"",
+  "etag": "W/\"4f1db413e3dd21fc04a7a4cf31ef9a7a32e439900aa11f308a56266fa0848b72\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -518,6 +518,16 @@
       "name": "Apex verify",
       "url": "https://github.com/apex-engine-dev/apex-verify",
       "description": "Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI and GitHub Action, Apache-2.0.",
+      "section": [
+        "Software",
+        "AI & LLM Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "name": "100x Engineer Skill",
+      "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "description": "Skill and CLI that makes a coding agent state formal properties before building, checks them, and records second-model review evidence before the work can be called done.",
       "section": [
         "Software",
         "AI & LLM Testing"
@@ -2108,6 +2118,16 @@
       "name": "blastradius",
       "url": "https://github.com/baokhang83/blastradius",
       "description": "Test impact analysis for JVM projects (Maven, Gradle, JUnit 5) that runs only the tests affected by a change, using class dependencies recorded by a Java agent.",
+      "section": [
+        "Software",
+        "Test Automation Frameworks"
+      ]
+    },
+    {
+      "key": "https://github.com/jaenyf/time-provider",
+      "name": "Time-Provider",
+      "url": "https://github.com/jaenyf/time-provider",
+      "description": "JavaScript/TypeScript clock and timer injection with deterministic runtimes, so time-dependent tests run instantly and identically every time.",
       "section": [
         "Software",
         "Test Automation Frameworks"

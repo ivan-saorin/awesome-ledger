@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f2015e12c9a3fa6007a586fed0f0cb3c518a1c2a40e5e77698dd875da834bbaa\"",
+  "etag": "W/\"12c3f0f6916995ea89ae0d0567a00c628707a7e26f13b51dc650eb08299e6ebc\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -4068,6 +4068,16 @@
       "name": "Stellate",
       "url": "https://stellate.co/",
       "description": "GraphQL edge platform for caching, observability, and API security, formerly known as GraphCDN.",
+      "section": [
+        "Services",
+        "API Management, Delivery & Observability"
+      ]
+    },
+    {
+      "key": "https://graphpilot.io",
+      "name": "GraphPilot",
+      "url": "https://graphpilot.io/",
+      "description": "Managed GraphQL edge cache on Fastly's network that derives caching and invalidation from the schema and purges cached responses when a mutation returns a changed object.",
       "section": [
         "Services",
         "API Management, Delivery & Observability"

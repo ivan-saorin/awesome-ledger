@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"76342372ebeeb797c76c93a8d5616377de0b32526bc62b1dad00c5275d3e341f\"",
+  "etag": "W/\"d113e206badf4e37689a53ad57706d9c942dc1d9a305e007b35a33bb389945d2\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -134,6 +134,16 @@
       ]
     },
     {
+      "key": "https://github.com/sieblyio/binance",
+      "name": "binance",
+      "url": "https://github.com/sieblyio/binance",
+      "description": "Typed Binance REST API and WebSocket client with request signing, reconnects and resubscription, usable via npm:binance.",
+      "section": [
+        "Modules",
+        "Cloud APIs"
+      ]
+    },
+    {
       "key": "https://github.com/bompus/sigflint",
       "name": "sigflint",
       "url": "https://github.com/bompus/sigflint",
@@ -254,30 +264,10 @@
       ]
     },
     {
-      "key": "https://github.com/hanshs474/aigifmaker-ts",
-      "name": "aigifmaker",
-      "url": "https://github.com/hanshs474/aigifmaker-ts",
-      "description": "Turn text prompts into animated GIFs with the AI GIF Maker API.",
-      "section": [
-        "Modules",
-        "Image"
-      ]
-    },
-    {
       "key": "https://github.com/imagescript/ImageScript",
       "name": "ImageScript",
       "url": "https://github.com/imagescript/ImageScript",
-      "description": "Image processing in JavaScript, utilizing WebAssembly for performance.",
-      "section": [
-        "Modules",
-        "Image"
-      ]
-    },
-    {
-      "key": "https://github.com/hanshs474/kavel-ts",
-      "name": "kavel",
-      "url": "https://github.com/hanshs474/kavel-ts",
-      "description": "Generate and edit images with AI without an API key or account.",
+      "description": "Image processing in pure TypeScript, from PNG to AVIF and JPEG XL.",
       "section": [
         "Modules",
         "Image"
@@ -331,6 +321,16 @@
       "section": [
         "Modules",
         "Static site generator"
+      ]
+    },
+    {
+      "key": "https://github.com/uriva/alice-and-bot",
+      "name": "Alice&Bot",
+      "url": "https://github.com/uriva/alice-and-bot",
+      "description": "Open-source, end-to-end encrypted messaging platform and SDK (@alice-and-bot/core) for humans and AI agents with keypair identities, group chats, webhooks, embeddable UI, and an MCP server.",
+      "section": [
+        "Modules",
+        "Social Platform APIs"
       ]
     },
     {
@@ -418,6 +418,16 @@
       "name": "tepi",
       "url": "https://github.com/jupegarnica/tepi",
       "description": "A .http Test Runner",
+      "section": [
+        "Modules",
+        "Testing"
+      ]
+    },
+    {
+      "key": "https://github.com/jaenyf/time-provider",
+      "name": "time-provider",
+      "url": "https://github.com/jaenyf/time-provider",
+      "description": "Injectable clock and timers with deterministic test runtimes, published on JSR.",
       "section": [
         "Modules",
         "Testing"
@@ -1012,6 +1022,15 @@
       "name": "Netlify Edge Functions",
       "url": "https://docs.netlify.com/build/edge-functions/overview/",
       "description": "Edge Functions connect the Netlify platform and workflow.",
+      "section": [
+        "Integrations"
+      ]
+    },
+    {
+      "key": "https://prisma.io/docs/guides/integrations/deno",
+      "name": "Prisma Postgres",
+      "url": "https://www.prisma.io/docs/guides/integrations/deno",
+      "description": "Managed Postgres database you can provision from a Deno Deploy project, with a free plan.",
       "section": [
         "Integrations"
       ]

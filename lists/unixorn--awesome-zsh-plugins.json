@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"986bfbcc050b878cc17d924f05c42ed14cb0289bad989c6db99f86dfeea23e68\"",
+  "etag": "W/\"3aa97cad8dca1af80e4f46bd22cc9de1c35e002eea5bf34588096ea2d59a01f4\"",
   "readme_path": "README.md",
   "misses": 0,
   "entries": [
@@ -188,6 +188,16 @@
       "name": "master-oogway",
       "url": "https://github.com/tomershay100/master-oogway",
       "description": "A complete ZSH environment — dragon prompt theme, git aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone git repo.",
+      "section": [
+        "Setups",
+        "oh-my-zsh"
+      ]
+    },
+    {
+      "key": "https://github.com/mattmc3/omz-plus",
+      "name": "omz-plus",
+      "url": "https://github.com/mattmc3/omz-plus",
+      "description": "pre-processes the builtin Oh-My-Zsh variables you're already using. By sourcing OMZ Plus! right before you source Oh-My-Zsh, it detects git-hosted plugins, handles cloning and symlinking, and then scrubs those variables back to the basics so that they are ready for oh-my-zsh to use",
       "section": [
         "Setups",
         "oh-my-zsh"
@@ -5999,6 +6009,15 @@
       ]
     },
     {
+      "key": "https://github.com/sspathak/ltree",
+      "name": "ltree",
+      "url": "https://github.com/sspathak/ltree",
+      "description": "Works like the tree command, but truncates large directories by printing the first n files and summarizing the rest as ... m more files.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
       "key": "https://github.com/molovo/lumberjack",
       "name": "lumberjack",
       "url": "https://github.com/molovo/lumberjack",
@@ -7002,6 +7021,15 @@
       "name": "passwordless-history",
       "url": "https://github.com/jgogstad/passwordless-history",
       "description": "Keeps passwords from entering your command line history.",
+      "section": [
+        "Plugins"
+      ]
+    },
+    {
+      "key": "https://github.com/hianbattiston/zsh-passwords",
+      "name": "passwords",
+      "url": "https://github.com/hianbattiston/zsh-passwords",
+      "description": "Passwords and 2FA (TOTP) codes from Apple Passwords / iCloud Keychain, straight from zsh, without leaking them into history, scrollback, ps, or clipboard managers.",
       "section": [
         "Plugins"
       ]
@@ -13977,6 +14005,15 @@
       "name": "aub",
       "url": "https://github.com/FraSharp/aub",
       "description": "Includes decorations for git and hg status and username at host.",
+      "section": [
+        "Themes"
+      ]
+    },
+    {
+      "key": "https://github.com/liweiganga/aurora-zsh-theme",
+      "name": "aurora",
+      "url": "https://github.com/liweiganga/aurora-zsh-theme",
+      "description": "Minimal theme with the Dracula color palette. Includes decorators for username@hostname, current directory and git status.",
       "section": [
         "Themes"
       ]
